@@ -128,7 +128,7 @@ fetch('search-index.json').then(r => r.json()).then(d => {
   rows = d.rows.map(r => [...r, fold(r[4]), fold(r[3])]);
   document.getElementById('q').disabled = false;
   document.getElementById('q').focus();
-  document.getElementById('hint').textContent = rows.length + ' records indexed';
+  document.getElementById('hint').textContent = 'Search is ready';
 });
 const render = (out, hits, note) => {
   out.innerHTML = (note ? '<li class="eyebrow">' + note + '</li>' : '') + hits.map(r => {
@@ -156,8 +156,8 @@ const run = () => {
   }
   hits = hits.slice(0, 60);
   render(out, hits, hits.length ? note : '');
-  if (!hits.length) out.innerHTML = '<li style="color:var(--muted)">nothing found — try the ' +
-    '<a href="browse.html">letter indexes</a></li>';
+  if (!hits.length) out.innerHTML = '<li style="color:var(--muted)">No matches. Try ' +
+    '<a href="browse.html">browsing by title</a>.</li>';
 };
 document.getElementById('q').addEventListener('input', run);
 </script></head>
@@ -165,8 +165,8 @@ document.getElementById('q').addEventListener('input', run);
 <header class="site">
   <a class="brand" href="./index.html">Chibbo Library</a>
   <nav>
-    <a href="./works/page-1.html">Works</a>
-    <a href="./people/page-1.html">People</a>
+    <a href="./works/page-1.html">Books</a>
+    <a href="./people/page-1.html">Authors</a>
     <a href="./poetry/page-1.html">Poetry</a>
     <a href="./poets/page-1.html">Poets</a>
     <a href="./browse.html">Browse</a>
@@ -175,16 +175,15 @@ document.getElementById('q').addEventListener('input', run);
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="./index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Search</span><meta itemprop="position" content="2"></li></ol></nav>
 <h1>Search</h1>
-<p class="sub">Type in fidel or in Latin — ኦሮማይ and "oromay" reach the same book.</p>
+<p class="sub">Search by book title or author in Amharic or Latin characters.</p>
 <p><input id="q" type="search" placeholder="ኦሮማይ · oromay · adam reta" disabled
    autocomplete="off"></p>
-<p class="eyebrow" id="hint">loading the index…</p>
+<p class="eyebrow" id="hint">Loading search…</p>
 <ul id="results"></ul>
 <noscript><p>Search needs JavaScript. The <a href="browse.html">letter indexes</a>
 cover the same ground without it.</p></noscript>
 <footer>
-  <span>964 works · 605 people</span>
-  <span>Every record is a draft</span>
-  <span>Built from commit 83a93da6</span>
+  <span>964 books · 605 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
 </footer>
 </div></body></html>

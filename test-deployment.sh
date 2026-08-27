@@ -17,6 +17,8 @@ for required in \
   "$artifact_root/nginx.conf" \
   "$public_root/index.html" \
   "$public_root/work/wk_3rqr0aa1.html" \
+  "$public_root/person/pe_hh1ptvn5.html" \
+  "$public_root/browse.html" \
   "$public_root/assets/covers/wk_3rqr0aa1.webp" \
   "$public_root/api/v1/manifest.json" \
   "$public_root/opds/root.json"; do
@@ -78,8 +80,10 @@ probe() {
 }
 
 probe /healthz text/plain ok
-probe / text/html 'Every record here is a draft.'
+probe / text/html 'Discover Amharic books'
 probe /work/wk_3rqr0aa1.html text/html '01 ብር'
+probe /person/pe_hh1ptvn5.html text/html 'Author'
+probe /browse.html text/html 'By Amharic letter'
 probe /assets/covers/wk_3rqr0aa1.webp image/webp ''
 probe /api/v1/manifest.json application/json '83a93da65c4204de2a048922e2ed34916ac838cd'
 probe /opds/root.json application/json 'Chibbo Library'
@@ -90,5 +94,12 @@ curl --fail --silent "$base_url/api/v1/manifest.json" \
 curl --fail --silent "$base_url/opds/root.json" \
   | jq -e '.metadata.title == "Chibbo Library" and .metadata.numberOfItems == 964' \
   >/dev/null
+
+for public_route in / /work/wk_3rqr0aa1.html /person/pe_hh1ptvn5.html /browse.html; do
+  if curl --fail --silent "$base_url$public_route" \
+    | rg -i 'Every record here is a draft|Every record is a draft|Built from commit|Catalogued from|given name first|not ours|one concept spelled four|missing on purpose|>People<|>Works<'; then
+    die "$public_route contains internal-facing copy"
+  fi
+done
 
 printf 'PASS deployment artifact contract\n'
