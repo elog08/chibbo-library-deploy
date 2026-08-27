@@ -1,0 +1,58 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xesz0pq3",
+ "@type": "Book",
+ "about": [
+  "Short Stories",
+  "Fiction"
+ ],
+ "alternateName": [
+  "Mahlet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a901d0w8",
+   "@type": "Person",
+   "name": "አዳም ረታ"
+  }
+ ],
+ "datePublished": "1989-03-07",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/03/mahlet-adam-reta.jpg",
+ "inLanguage": "am",
+ "name": "ማሕሌት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/mahlet-by-adam-reta/"
+  },
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/mahlet"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/mahlet-by-adam-reta/",
+  "https://www.ethiobookreview.com/book/mahlet"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6gvc298s",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_fezgbk6a",
+   "@type": "Book"
+  }
+ ]
+}

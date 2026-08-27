@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7ww9rzs5",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "herme-ko"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4q7bgvh3",
+   "@type": "Person",
+   "name": "ዘሪሁን ገመቹ"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/32c0f5eb-a530-46b2-ac73-f5aeb861dec9HarmakoBookCover.png",
+ "inLanguage": "am",
+ "name": "ሀርሜ-ኮ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/32c0f5eb-a530-46b2-ac73-f5aeb861dec9"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/32c0f5eb-a530-46b2-ac73-f5aeb861dec9"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/32c0f5eb-a530-46b2-ac73-f5aeb861dec9"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_md5gwwq1",
+   "@type": "Book"
+  }
+ ]
+}

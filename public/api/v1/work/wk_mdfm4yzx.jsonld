@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mdfm4yzx",
+ "@type": "Book",
+ "about": [
+  "Literature & Fiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_50pbwxw2",
+   "@type": "Person",
+   "name": "Hiwot Teffera"
+  }
+ ],
+ "datePublished": "2012-01-01",
+ "description": "Tower in the Sky, a book by Hiwot Teffera. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/02/tower-in-the-sky.jpg",
+ "inLanguage": "en",
+ "name": "Tower in the Sky",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "111.79",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/tower-in-the-sky-by-hiwot-teffera/"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/tower-in-the-sky-by-hiwot-teffera/",
+  "https://openlibrary.org/works/OL22649865W"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9w8k94tg",
+   "@type": "Book"
+  }
+ ]
+}

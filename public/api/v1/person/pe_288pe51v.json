@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "መስፍን ይልማ ጨርቆሴ በየካቲት 21 1987 ዓ.ም በአዲስ አበባ ልዩ ስሙ ኮተቤ ተብሎ በሚጠራው ከተማ ተወለደ የአንደኛና የሁለተኛ ደረጃ ትምህርቱንም በዚያ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "masafanyalma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_288pe51v",
+ "id": "pe_288pe51v",
+ "identifiers": {
+  "afroread_id": [
+   "ea90870c-b3d7-49fc-ab12-08da9cf8cd07"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ea90870c-b3d7-49fc-ab12-08da9cf8cd07",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ea90870c-b3d7-49fc-ab12-08da9cf8cd07"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ea90870c-b3d7-49fc-ab12-08da9cf8cd07",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ea90870c-b3d7-49fc-ab12-08da9cf8cd07"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen yelma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ይልማ"
+  },
+  "romanized": "mesefen yelma",
+  "sort_key": "መስፍንይልማ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 83399,
+  "path": "assets/portraits/pe_288pe51v.jpg",
+  "sha256": "5065f512cb96978920b1b49896a6be227b29e8b4253d11e4660e6506a78cce1a",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/410f278e-75ac-4249-b2b4-1a19e26e4240MesfinYilmaAuthor320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ea90870c-b3d7-49fc-ab12-08da9cf8cd07"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7pany9a6.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6c0a8727-43ce-4179-9466-ba3cac4c3f56YemedemerSekarBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_288pe51v",
+     "name": "መስፍን ይልማ",
+     "role": "author",
+     "romanized": "mesefen yelma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7pany9a6",
+   "id": "wk_7pany9a6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemedemer sekar",
+    "script": "Ethi",
+    "text": "የመደመር ስካር"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

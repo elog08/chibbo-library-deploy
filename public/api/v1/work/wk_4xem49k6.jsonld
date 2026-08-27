@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4xem49k6",
+ "@type": "Book",
+ "about": [
+  "Educational",
+  "Non Fiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3a2220q4",
+   "@type": "Person",
+   "name": "ዩኒቲ መፅሐፍ መደብር ፋሲካ"
+  }
+ ],
+ "datePublished": "2004?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/389ac532-7608-4c89-8c67-562366e810cdPopularSpokenEnglishBookCover.png",
+ "inLanguage": "en",
+ "name": "Popular",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "80.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/389ac532-7608-4c89-8c67-562366e810cd"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/389ac532-7608-4c89-8c67-562366e810cd"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/389ac532-7608-4c89-8c67-562366e810cd"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sf8vrcdh",
+   "@type": "Book"
+  }
+ ]
+}

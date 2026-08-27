@@ -1,0 +1,83 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zjj0vrkm",
+ "@type": "Book",
+ "about": [
+  "Non Fiction",
+  "Philosophy",
+  "Religion",
+  "Spiritual",
+  "Sociology"
+ ],
+ "alternateName": [
+  "degwa enat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k1c8rn6p",
+   "@type": "Person",
+   "name": "ዝጋለ አያሌው"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/713857f8-62ad-43ee-b3c8-438d125db461DegwaEnatBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ደጓ እናት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/713857f8-62ad-43ee-b3c8-438d125db461"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/713857f8-62ad-43ee-b3c8-438d125db461"
+  },
+  {
+   "@type": "Offer",
+   "price": "106.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e1ac9802-dd55-48c3-b1c0-23227243d2db"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e1ac9802-dd55-48c3-b1c0-23227243d2db"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/713857f8-62ad-43ee-b3c8-438d125db461",
+  "https://afroreadapp.com/Store/Bookdetail/e1ac9802-dd55-48c3-b1c0-23227243d2db"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_eabakre8",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_wgb5trqb",
+   "@type": "Book"
+  }
+ ]
+}

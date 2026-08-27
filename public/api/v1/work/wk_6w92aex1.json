@@ -1,0 +1,120 @@
+{
+ "cover": {
+  "bytes": 126387,
+  "path": "assets/covers/wk_6w92aex1.png",
+  "sha256": "5f7f7573760d623ab0a8ee69154bc6b782fbbea4a4c6e176271eee6cbcd6ecb6",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/e62d740d-0afc-4595-aef2-5e0bd5f2939cTheArtofWarBookCover.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_2565mny0",
+   "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_a19fnsnc",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_ep33cwja"
+ ],
+ "extensions": {},
+ "fingerprint": "የጦርነትጥበብ|mikalmasrasamachawtabaja",
+ "first_published": {
+  "alternates": [
+   "2021-09-11/2022-09-10"
+  ],
+  "edtf": "2014?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2014"
+  }
+ },
+ "flags": [
+  "format-audiobook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_6w92aex1",
+ "id": "wk_6w92aex1",
+ "identifiers": {
+  "afroread_id": [
+   "e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "e62d740d-0afc-4595-aef2-5e0bd5f2939c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "135.00",
+   "provider": "afroread_book",
+   "ref": "e62d740d-0afc-4595-aef2-5e0bd5f2939c",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "7.99",
+   "provider": "afroread_book",
+   "ref": "e62d740d-0afc-4595-aef2-5e0bd5f2939c",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "History",
+  "Management",
+  "Philosophy",
+  "Politics"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yetornet tebeb",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የጦርነት ጥበብ"
+  },
+  "romanized": "yetornet tebeb",
+  "sort_key": "የጦርነትጥበብ"
+ },
+ "type": "work"
+}

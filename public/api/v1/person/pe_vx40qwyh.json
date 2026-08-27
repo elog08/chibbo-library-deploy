@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "abathunzagaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vx40qwyh",
+ "id": "pe_vx40qwyh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abathun zegeye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አባትሁን ዘገየ"
+  },
+  "romanized": "abathun zegeye",
+  "sort_key": "አባትሁንዘገየ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q4sv0bhk.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/3918d593-4781-4f31-b92a-560ecce6d81bYemechereshawQenEnaLalochBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_vx40qwyh",
+     "name": "አባትሁን ዘገየ",
+     "role": "author",
+     "romanized": "abathun zegeye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_q4sv0bhk",
+   "id": "wk_q4sv0bhk",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemechereshaw qenna leloch",
+    "script": "Ethi",
+    "text": "የመጨረሻው ቅንና ሌሎች"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

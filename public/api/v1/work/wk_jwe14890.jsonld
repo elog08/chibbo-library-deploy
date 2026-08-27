@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jwe14890",
+ "@type": "Book",
+ "about": [
+  "Biography",
+  "Non Fiction"
+ ],
+ "alternateName": [
+  "yeheywet qelemat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9zfe3ysc",
+   "@type": "Person",
+   "name": "ጥበቡ ተፈራ"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/46af5375-bfa7-426d-95bb-afe88770801cYehiwetKelematCover.png",
+ "inLanguage": "am",
+ "name": "የሕይወት ቀለማት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/46af5375-bfa7-426d-95bb-afe88770801c"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/46af5375-bfa7-426d-95bb-afe88770801c"
+  },
+  {
+   "@type": "Offer",
+   "price": "125.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/758d5e36-e3f5-48a7-965f-7cb0c596c695"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/758d5e36-e3f5-48a7-965f-7cb0c596c695"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/46af5375-bfa7-426d-95bb-afe88770801c",
+  "https://afroreadapp.com/Store/Bookdetail/758d5e36-e3f5-48a7-965f-7cb0c596c695"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1r9ah6fq",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_0hqzaqv9",
+   "@type": "Book"
+  }
+ ]
+}

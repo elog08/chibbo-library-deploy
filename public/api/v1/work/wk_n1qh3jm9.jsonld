@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n1qh3jm9",
+ "@type": "Book",
+ "about": [
+  "Non Ficition",
+  "Philosophy"
+ ],
+ "alternateName": [
+  "aba yelos"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bybvaeqa",
+   "@type": "Person",
+   "name": "መቶ አለቃ አንዳርጌ መስፍን"
+  }
+ ],
+ "datePublished": "2006?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/919f21cd-9a13-400e-8c87-af8a8b116828AbaYeosBookCover.jpg",
+ "inLanguage": "am",
+ "name": "አባ የሎስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "93.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/919f21cd-9a13-400e-8c87-af8a8b116828"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/919f21cd-9a13-400e-8c87-af8a8b116828"
+  },
+  {
+   "@type": "Offer",
+   "price": "112.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/bac7b99f-5c67-42e0-98fd-8d38b48d7419"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/bac7b99f-5c67-42e0-98fd-8d38b48d7419"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/919f21cd-9a13-400e-8c87-af8a8b116828",
+  "https://afroreadapp.com/Store/Bookdetail/bac7b99f-5c67-42e0-98fd-8d38b48d7419"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vqbebr9z",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_6vcsmgck",
+   "@type": "Book"
+  }
+ ]
+}

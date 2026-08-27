@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n7xz5fhd",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yeweyra ser tselot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hekw06gf",
+   "@type": "Person",
+   "name": "ዶክተር በድሉ ዋቅጅራ"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/c2ab853a-d24e-46b0-9e72-301513b5de8aYeweyeraSerTselotCoverThumbnail.png",
+ "inLanguage": "am",
+ "name": "የወይራ ስር ጸሎት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "82.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c2ab853a-d24e-46b0-9e72-301513b5de8a"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c2ab853a-d24e-46b0-9e72-301513b5de8a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/c2ab853a-d24e-46b0-9e72-301513b5de8a"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6vtk1z2w",
+   "@type": "Book"
+  }
+ ]
+}

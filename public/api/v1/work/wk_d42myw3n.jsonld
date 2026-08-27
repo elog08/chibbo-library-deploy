@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_d42myw3n",
+ "@type": "Book",
+ "about": [
+  "Adventure",
+  "Communication",
+  "Ethiopia",
+  "Fiction",
+  "Kids"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_j4k95hep",
+   "@type": "Person",
+   "name": "EthioQuest Adventures"
+  }
+ ],
+ "datePublished": "2024?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/a4235696-bc42-4ec0-9b2a-e134ded9b687TheMagicalVoyagetoHararBookCover3.png",
+ "inLanguage": "en",
+ "name": "The Magical Voyage to Harar",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "70.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a4235696-bc42-4ec0-9b2a-e134ded9b687"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a4235696-bc42-4ec0-9b2a-e134ded9b687"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a4235696-bc42-4ec0-9b2a-e134ded9b687"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_rfmrw1v9",
+   "@type": "Book"
+  }
+ ]
+}

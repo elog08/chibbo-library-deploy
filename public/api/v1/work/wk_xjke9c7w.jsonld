@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xjke9c7w",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_w4ss1mqt",
+   "@type": "Person",
+   "name": "ህይወት ተፈራ"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/31de1f6a-5371-43a6-80ab-42253e4c5fb0MineToWinThumbnail.png",
+ "inLanguage": "en",
+ "name": "Mine to Win",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "101.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/31de1f6a-5371-43a6-80ab-42253e4c5fb0"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/31de1f6a-5371-43a6-80ab-42253e4c5fb0"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/31de1f6a-5371-43a6-80ab-42253e4c5fb0"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_m981xzna",
+   "@type": "Book"
+  }
+ ]
+}

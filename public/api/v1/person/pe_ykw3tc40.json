@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አቶ አዱኛ ሂርጳ ይባላሉ በስራቸው በአለም አቀፍ ተራድዖ ድርጅቶች ሰፊ ልምድ አላቸው ከ40 በላይ ፕሮጀክቶችን ያስተዳድራሉ በዚህም ስራ ምክንያት በተለያ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "adunyahirpa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ykw3tc40",
+ "id": "pe_ykw3tc40",
+ "identifiers": {
+  "afroread_id": [
+   "3b98e82f-1fbc-46ae-1810-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3b98e82f-1fbc-46ae-1810-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3b98e82f-1fbc-46ae-1810-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3b98e82f-1fbc-46ae-1810-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3b98e82f-1fbc-46ae-1810-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "adunya hirpa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አዱኛ ሂርጳ"
+  },
+  "romanized": "adunya hirpa",
+  "sort_key": "አዱኛሂርጳ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 68682,
+  "path": "assets/portraits/pe_ykw3tc40.png",
+  "sha256": "c6ab66d5db5e27abc7c1b56a688342d0dbbb7c53356be9d5e1f5cfbd001ba0d5",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/20b8744e-3780-4f08-956b-c5ca22f1d9edAdughnaHiphiraProfile320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/3b98e82f-1fbc-46ae-1810-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sy3daztq.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/23412170-106a-4b3f-9cdf-0cb74b8d47c6LemenBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ykw3tc40",
+     "name": "አዱኛ ሂርጳ",
+     "role": "author",
+     "romanized": "adunya hirpa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sy3daztq",
+   "id": "wk_sy3daztq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lemen?",
+    "script": "Ethi",
+    "text": "ለምን?"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1n5ebkzm",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "etalem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_cn4sz7vw",
+   "@type": "Person",
+   "name": "ዓለማየሁ ገብረሕይወት"
+  }
+ ],
+ "datePublished": "2010?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/f49b1a3f-9a5d-4f9a-b695-fd62b967b191EtalemH320.png",
+ "inLanguage": "am",
+ "name": "እታለም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  },
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5xxywn5k",
+   "@type": "Book"
+  }
+ ]
+}

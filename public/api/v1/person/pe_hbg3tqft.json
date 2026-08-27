@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "yonashabtamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hbg3tqft",
+ "id": "pe_hbg3tqft",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "yonas-habtamu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/yonas-habtamu"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "yonas-habtamu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/yonas-habtamu"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yonas Habtamu"
+  },
+  "romanized": "Yonas Habtamu",
+  "sort_key": "yonashabtamu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview",
+  "source_url": "https://www.ethiobookreview.com/authors/profile/yonas-habtamu"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a7tk3p90.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Afan Oromo/Psychology/eenyummaa-kee-gati-jabeessa-sana-yonas-habtamu.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_hbg3tqft",
+     "name": "Yonas Habtamu",
+     "role": "author",
+     "romanized": "Yonas Habtamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-review",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a7tk3p90",
+   "id": "wk_a7tk3p90",
+   "language": "om",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Eenyummaa Kee Gati Jabeessa Sana",
+    "script": "Latn",
+    "text": "Eenyummaa Kee Gati Jabeessa Sana"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

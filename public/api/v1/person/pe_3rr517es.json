@@ -1,0 +1,116 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የትምህርት ሕይወት ጥንታዊውን የአብነት ትምህርት ከታዕካ ነገሥት በአታ ለማርያም ገዳም በሚገኘው በዳግማዊ ምኒልክ የመምህራን ማሠልጠኛ ከፍተኛ መንፈሳዊ ትምህር... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "magabahadisdoktarodastadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3rr517es",
+ "id": "pe_3rr517es",
+ "identifiers": {
+  "afroread_id": [
+   "baf3d481-4021-4bf7-5986-08d9039293f2"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "baf3d481-4021-4bf7-5986-08d9039293f2",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/baf3d481-4021-4bf7-5986-08d9039293f2"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "baf3d481-4021-4bf7-5986-08d9039293f2",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/baf3d481-4021-4bf7-5986-08d9039293f2"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "megabe hedis dokter rodas tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ"
+  },
+  "romanized": "megabe hedis dokter rodas tadese",
+  "sort_key": "መጋቤሀዲስዶክተርሮዳስታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 55804,
+  "path": "assets/portraits/pe_3rr517es.png",
+  "sha256": "2349ef66112ef0f595bece68ed535183ae9bc2dd480787aa62055f047e56b4c6",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/24fec211-0a48-49e2-95c2-2ebd3adf73d2DrRodas320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/baf3d481-4021-4bf7-5986-08d9039293f2"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_g0v3fy36.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/6eebca19-b252-451f-89b0-1037619b2818Andromeda400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_q93stjwp",
+     "name": "ዶክተር ጌትነት ፈለቀ",
+     "role": "author",
+     "romanized": "dokter getnet feleqe"
+    },
+    {
+     "id": "pe_3rr517es",
+     "name": "መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "megabe hedis dokter rodas tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g0v3fy36",
+   "id": "wk_g0v3fy36",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anedromeda",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

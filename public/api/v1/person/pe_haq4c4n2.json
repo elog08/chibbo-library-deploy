@@ -1,0 +1,101 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "My name is Clive Uckfield and I live in rural Lincolnshire UK but have lived all over the UK. Plus h... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "clivauckfiald",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_haq4c4n2",
+ "id": "pe_haq4c4n2",
+ "identifiers": {
+  "afroread_id": [
+   "9b6c14aa-3877-4ce1-fb82-08da9513e0cf"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "9b6c14aa-3877-4ce1-fb82-08da9513e0cf",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/9b6c14aa-3877-4ce1-fb82-08da9513e0cf"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "9b6c14aa-3877-4ce1-fb82-08da9513e0cf",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/9b6c14aa-3877-4ce1-fb82-08da9513e0cf"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Clive Uckfield"
+  },
+  "romanized": "Clive Uckfield",
+  "sort_key": "cliveuckfield"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 66180,
+  "path": "assets/portraits/pe_haq4c4n2.png",
+  "sha256": "3233da00279add1602fd61959f7603c0dcd4944c1475bc1fdd23c09854321618",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/a145f203-b08b-4875-93b0-bf7a674246c6PaulKingProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/9b6c14aa-3877-4ce1-fb82-08da9513e0cf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_w540vm0n.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/1895f043-bdc1-417c-8ec2-fc1b334f27bcTheRastaEmpireTrilogyBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_haq4c4n2",
+     "name": "Clive Uckfield",
+     "role": "author",
+     "romanized": "Clive Uckfield"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2021?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w540vm0n",
+   "id": "wk_w540vm0n",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Rasta Empire Trilogy",
+    "script": "Latn",
+    "text": "The Rasta Empire Trilogy"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዮናስ አለማየሁ እባላለሁ የመጀመሪያ ዲግሪዬን ከዩኒቲ ዩኒቨርሲቲ በ19 98 ዓ.ም. በ MIS (Management Information System) የትምህርት ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yonasalamayahu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ysvn08z4",
+ "id": "pe_ysvn08z4",
+ "identifiers": {
+  "afroread_id": [
+   "8bcabde7-3682-4eeb-9bce-08dc57180ed8"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8bcabde7-3682-4eeb-9bce-08dc57180ed8",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8bcabde7-3682-4eeb-9bce-08dc57180ed8"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8bcabde7-3682-4eeb-9bce-08dc57180ed8",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8bcabde7-3682-4eeb-9bce-08dc57180ed8"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yonas alemayehu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮናስ አለማየሁ"
+  },
+  "romanized": "yonas alemayehu",
+  "sort_key": "ዮናስአለማየሁ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 9385,
+  "path": "assets/portraits/pe_ysvn08z4.jpg",
+  "sha256": "55497071625487e209f7dc4d91491ad1fdbf48e8e05f1419dea9a69a9b27cfe1",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/c4f177e1-755e-42a8-b8df-5a96e6d8adf9YonasAlemayehuProfile320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/8bcabde7-3682-4eeb-9bce-08dc57180ed8"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cygnr1ha.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/cd9184e1-8e2a-4317-b1e9-87f3ec11949bHiwotMirchaNewBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ysvn08z4",
+     "name": "ዮናስ አለማየሁ",
+     "role": "author",
+     "romanized": "yonas alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cygnr1ha",
+   "id": "wk_cygnr1ha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heywet mercha new",
+    "script": "Ethi",
+    "text": "ሕይወት ምርጫ ነው"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_g9ws53s2.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/587d3a23-717d-44ac-a7a7-9b24ffe1500fKemesikeluEskeZufanuBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ysvn08z4",
+     "name": "ዮናስ አለማየሁ",
+     "role": "author",
+     "romanized": "yonas alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g9ws53s2",
+   "id": "wk_g9ws53s2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kemesqelu eske zufanu",
+    "script": "Ethi",
+    "text": "ከመስቀሉ እስከ ዙፋኑ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

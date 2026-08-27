@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የዚህ መጽሐፍ አዘጋጅ መምህር ማርቆስ ደስታ በአገር ውስጥ እያለ ለስድስት ዓመት በመምህርነት አገልግሏል ከዚያም ወደ ውጭ አገር በመሄድ \"ኢትዮጵያና የመ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "mamaharmarqosdasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rh8ahqfm",
+ "id": "pe_rh8ahqfm",
+ "identifiers": {
+  "afroread_id": [
+   "559fc3fa-b3d4-4de5-841d-08da87f3d293"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "559fc3fa-b3d4-4de5-841d-08da87f3d293",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/559fc3fa-b3d4-4de5-841d-08da87f3d293"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "559fc3fa-b3d4-4de5-841d-08da87f3d293",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/559fc3fa-b3d4-4de5-841d-08da87f3d293"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "memeher marqos desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መምህር ማርቆስ ደስታ"
+  },
+  "romanized": "memeher marqos desta",
+  "sort_key": "መምህርማርቆስደስታ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 11623,
+  "path": "assets/portraits/pe_rh8ahqfm.png",
+  "sha256": "efc82db3b31ce8677672689bcc06892d3b023819ffe5d3861cb949139049997b",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/65656026-34f1-49f9-99e8-8695a31b829bMarkosDestaYemetsehafKidusSimochCover2H320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/559fc3fa-b3d4-4de5-841d-08da87f3d293"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3dg6v3ww.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/0d8336d4-1b3e-423d-902e-21938a458177YemetsehafKidusSimochCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rh8ahqfm",
+     "name": "መምህር ማርቆስ ደስታ",
+     "role": "author",
+     "romanized": "memeher marqos desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3dg6v3ww",
+   "id": "wk_3dg6v3ww",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemetshef qedus semoch",
+    "script": "Ethi",
+    "text": "የመጽሐፍ ቅዱስ ስሞች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

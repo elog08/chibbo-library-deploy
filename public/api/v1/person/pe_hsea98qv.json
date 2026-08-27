@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የ \"ልዩ የመረጃ ማዕከል\" መስራችና ባለቤት - ለአስራ ሁለት አመታት ያህል በተለያዩ ጋዜጦችና መፅሄቶች ላይ አምደኛና ፀሀፊ 1. ሎሚ - መፅሄት 2. አውራም... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "sisaymakwananat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hsea98qv",
+ "id": "pe_hsea98qv",
+ "identifiers": {
+  "afroread_id": [
+   "e55490b7-ba15-464d-bda1-08dc71dfd6b7"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e55490b7-ba15-464d-bda1-08dc71dfd6b7",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e55490b7-ba15-464d-bda1-08dc71dfd6b7"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e55490b7-ba15-464d-bda1-08dc71dfd6b7",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e55490b7-ba15-464d-bda1-08dc71dfd6b7"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sisay mekwanenet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሲሳይ መኳንንት"
+  },
+  "romanized": "sisay mekwanenet",
+  "sort_key": "ሲሳይመካንንት"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 62007,
+  "path": "assets/portraits/pe_hsea98qv.png",
+  "sha256": "ab59626042fcad94f1a9610d9c6cc6e2c1e13154e37a41ec36eab47556bf54a7",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/bfd11878-21fd-476a-a9a5-dd4cee17bc79SisayMekuanentProfilePicture320_224.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/e55490b7-ba15-464d-bda1-08dc71dfd6b7"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1b3rqxm5.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/1c23738b-5f75-4586-8a0d-59fa591e3d03FitunanBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hsea98qv",
+     "name": "ሲሳይ መኳንንት",
+     "role": "author",
+     "romanized": "sisay mekwanenet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1b3rqxm5",
+   "id": "wk_1b3rqxm5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "feturanu",
+    "script": "Ethi",
+    "text": "ፍጡራኑ"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sbzncnky.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/4f4a2fec-35df-4fe4-899a-d8c22b5a8b23DallopiaBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hsea98qv",
+     "name": "ሲሳይ መኳንንት",
+     "role": "author",
+     "romanized": "sisay mekwanenet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sbzncnky",
+   "id": "wk_sbzncnky",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "dalopya",
+    "script": "Ethi",
+    "text": "ዳሎጵያ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

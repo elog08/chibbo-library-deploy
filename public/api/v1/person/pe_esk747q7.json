@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ገጣሚ ደሱ ፍቅርኤል የህግ ባለሙያ ነው:: ዳኛ: ዐቃቤ ህግ እንዲሁም በደባርቅ ዩኒቨርሲቲ ህግ ት/ቤት የህግ መምህር እና የት/ቤቱ ዲን በመሆን ሀገሩን አገልግ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dasufaqaral",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_esk747q7",
+ "id": "pe_esk747q7",
+ "identifiers": {
+  "afroread_id": [
+   "55334545-a6ed-47e7-1812-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "55334545-a6ed-47e7-1812-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/55334545-a6ed-47e7-1812-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "55334545-a6ed-47e7-1812-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/55334545-a6ed-47e7-1812-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "desu feqerel",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደሱ ፍቅርኤል"
+  },
+  "romanized": "desu feqerel",
+  "sort_key": "ደሱፍቅርኤል"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 57128,
+  "path": "assets/portraits/pe_esk747q7.png",
+  "sha256": "4ed479f2e5c9d9ea1150a3de4fd846d4d9e5ca0051e9da0de58cca605f9d908c",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/f3ca09ed-e2aa-4150-aa26-2928bec47543DesuFikrealBookCover320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/55334545-a6ed-47e7-1812-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6wb676zr.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/28f90fd6-a310-4212-8f06-7532878c9ff3TeywPoleticanCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_esk747q7",
+     "name": "ደሱ ፍቅርኤል",
+     "role": "author",
+     "romanized": "desu feqerel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6wb676zr",
+   "id": "wk_6wb676zr",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teyew poletikan",
+    "script": "Ethi",
+    "text": "ተይው ፖለቲካን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

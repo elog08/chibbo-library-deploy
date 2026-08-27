@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "sahlasalasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9003z5jk",
+ "id": "pe_9003z5jk",
+ "identifiers": {
+  "wikidata": [
+   "Q653964"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q653964",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q653964"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Sahle_Sellassie_Berhane_Mariam",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Sahle_Sellassie_Berhane_Mariam"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sahle Sellassie"
+  },
+  "romanized": "Sahle Sellassie",
+  "sort_key": "sahlesellassie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9003z5jk",
+     "name": "Sahle Sellassie",
+     "role": "author",
+     "romanized": "Sahle Sellassie"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1968",
+    "flags": []
+   },
+   "flags": [
+    "scope-review"
+   ],
+   "href": "https://chibbo.app/work/wk_3bwrr4xr",
+   "id": "wk_3bwrr4xr",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Afersata: An Ethiopian Novel",
+    "script": "Latn",
+    "text": "The Afersata: An Ethiopian Novel"
+   },
+   "type": "work",
+   "year": 1968
+  }
+ ]
+}

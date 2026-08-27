@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_eb350sw0",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "yemehel lej"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rd7tpx7f",
+   "@type": "Person",
+   "name": "ቤዛዊት ዘርይሁን"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/c9ea9966-7122-435b-9191-df81c90940f5BezawitZerihunYemehalLijCoverH400.jpg",
+ "inLanguage": "am",
+ "name": "የመሀል ልጅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c9ea9966-7122-435b-9191-df81c90940f5"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c9ea9966-7122-435b-9191-df81c90940f5"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/c9ea9966-7122-435b-9191-df81c90940f5"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ewz35a57",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ቃለጽድቅ በላይነህ በ1986 ዓም በምዕራብ ጎጃም ዞን በፍኖተ ሰላም ከተማ ነው ተወልዶ ያደገው እናቱ ይመኙሻል በየነ እና አቶ በላይነህ አገናኘው ያወጡለት ስ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "qalatsadaqbalaynah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ep8jsw3q",
+ "id": "pe_ep8jsw3q",
+ "identifiers": {
+  "afroread_id": [
+   "17fc849c-28d7-4256-4814-08dba6585e1c"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "17fc849c-28d7-4256-4814-08dba6585e1c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/17fc849c-28d7-4256-4814-08dba6585e1c"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "17fc849c-28d7-4256-4814-08dba6585e1c",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/17fc849c-28d7-4256-4814-08dba6585e1c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qaletsedeq belayneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቃለጽድቅ በላይነህ"
+  },
+  "romanized": "qaletsedeq belayneh",
+  "sort_key": "ቃለጽድቅበላይነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 14415,
+  "path": "assets/portraits/pe_ep8jsw3q.jpg",
+  "sha256": "3b5b8d0d73cf01f2388a3de5442eab9d5ccd14bdc8a145a174f483902612e586",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/39f7ec29-aa01-4f27-8125-a2a0c949ef54KaletsidkProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/17fc849c-28d7-4256-4814-08dba6585e1c"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ph9vz3dk.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1DebteraBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ep8jsw3q",
+     "name": "ቃለጽድቅ በላይነህ",
+     "role": "author",
+     "romanized": "qaletsedeq belayneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ph9vz3dk",
+   "id": "wk_ph9vz3dk",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "debtera",
+    "script": "Ethi",
+    "text": "ደብተራ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

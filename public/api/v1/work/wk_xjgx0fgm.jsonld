@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xjgx0fgm",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "melek ena fidel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2j6vjvwj",
+   "@type": "Person",
+   "name": "ታሪኩ ከበደ"
+  }
+ ],
+ "datePublished": "2011?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/c319bf74-b0b6-447c-b58f-8b3d7be1c094MelknaFidelBookCover.png",
+ "inLanguage": "am",
+ "name": "መልክ እና ፊደል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "75.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c319bf74-b0b6-447c-b58f-8b3d7be1c094"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c319bf74-b0b6-447c-b58f-8b3d7be1c094"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/c319bf74-b0b6-447c-b58f-8b3d7be1c094"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wc3kkxrm",
+   "@type": "Book"
+  }
+ ]
+}

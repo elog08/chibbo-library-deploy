@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rb5gvf7z",
+ "@type": "Book",
+ "about": [
+  "Short Stories"
+ ],
+ "alternateName": [
+  "Eserugn"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bjhsgg75",
+   "@type": "Person",
+   "name": "Meseret Bahru"
+  }
+ ],
+ "datePublished": "2023-05-04",
+ "description": "እሰሩኝ Eserugn, a book by Meseret Bahru. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/eserugn.jpg",
+ "inLanguage": "am",
+ "name": "እሰሩኝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/eserugn-by-meseret-bahru/"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/eserugn-by-meseret-bahru/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_72mvn6cm",
+   "@type": "Book"
+  }
+ ]
+}

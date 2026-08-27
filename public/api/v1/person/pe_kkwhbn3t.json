@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ፖለቲከኛ አንዷለም አራጌ ጥቅም 25 1965 ዓ.ም ደብረ ታቦር ወጣ ብላ በምትገኘው ክምር ድንጋይ ተወለደ የመጀመሪያ ዲግሪውን በአዲስ አበባ ዩኒቨርሲቲ በ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "andwalamaraga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kkwhbn3t",
+ "id": "pe_kkwhbn3t",
+ "identifiers": {
+  "afroread_id": [
+   "5b6c855c-b670-41ac-180f-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5b6c855c-b670-41ac-180f-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5b6c855c-b670-41ac-180f-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5b6c855c-b670-41ac-180f-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5b6c855c-b670-41ac-180f-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "andwalem arage",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንዷለም አራጌ"
+  },
+  "romanized": "andwalem arage",
+  "sort_key": "አንዷለምአራጌ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 183526,
+  "path": "assets/portraits/pe_kkwhbn3t.png",
+  "sha256": "57f68e15c3667e4f197303e758996d3dfea4f14fa63032aef34bd2f9dc85cd98",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/37948a43-8030-444b-925d-8b769ce5817cAndualemArageProfile320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5b6c855c-b670-41ac-180f-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zc1598de.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/8c37b671-62fc-40e0-89db-95eda43d171dYaltenebebewAnbabiBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kkwhbn3t",
+     "name": "አንዷለም አራጌ",
+     "role": "author",
+     "romanized": "andwalem arage"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zc1598de",
+   "id": "wk_zc1598de",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yaltenebebew anbabi",
+    "script": "Ethi",
+    "text": "ያልተነበበው አንባቢ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

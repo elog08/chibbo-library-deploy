@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "መ/ርት ሰብለ ይርጋ በቀድሞው ጎንደር ክ/ሃገር በጌምድር ጋይንት አውራጃ በአሁኑ ደቡብ ጎንደር ዞን በስማዳ ወረዳ 1978ዓ/ም ተወለደች እድሜዋ ለትምህርት ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "sablayarga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_36d861q0",
+ "id": "pe_36d861q0",
+ "identifiers": {
+  "afroread_id": [
+   "d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "seble yerga",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰብለ ይርጋ"
+  },
+  "romanized": "seble yerga",
+  "sort_key": "ሰብለይርጋ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 66545,
+  "path": "assets/portraits/pe_36d861q0.png",
+  "sha256": "61c732cba082160868209ca33343c7c33e85bb6c07b48c86555f8c3965bd2fce",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/195024d7-facd-4276-807b-fc566ab9496eSebleYirgaProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/d3b0fa20-ebcb-4ec0-570f-08da83a7b0fc"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cqafnp3a.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/075f74a5-555b-48e5-9146-a13b87438b20FekerenaMaregBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_36d861q0",
+     "name": "ሰብለ ይርጋ",
+     "role": "author",
+     "romanized": "seble yerga"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cqafnp3a",
+   "id": "wk_cqafnp3a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "feqer’na mareg",
+    "script": "Ethi",
+    "text": "ፍቅር’ና ማዕረግ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

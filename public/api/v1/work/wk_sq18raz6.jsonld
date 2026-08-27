@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sq18raz6",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "teleko armagedon"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qdvcwsfe",
+   "@type": "Person",
+   "name": "ተስፋ ጋሻነህ"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/e8a37cc3-03f5-426d-a7bc-41ef539001c9TesfatshionArmrgedonBookCover.png",
+ "inLanguage": "am",
+ "name": "ተልዕኮ አርማጌዶን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "95.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e8a37cc3-03f5-426d-a7bc-41ef539001c9"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e8a37cc3-03f5-426d-a7bc-41ef539001c9"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/e8a37cc3-03f5-426d-a7bc-41ef539001c9"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_cgvxqy4e",
+   "@type": "Book"
+  }
+ ]
+}

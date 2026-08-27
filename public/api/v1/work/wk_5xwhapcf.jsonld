@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5xwhapcf",
+ "@type": "Book",
+ "about": [
+  "Culture",
+  "Literature",
+  "Non Fiction"
+ ],
+ "alternateName": [
+  "gezotenyaw jini"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_02fgj30z",
+   "@type": "Person",
+   "name": "ታደሰ ፀጋ"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/f4dc434b-914f-4063-81a6-1bb0ae5495ccGizotegnawJineBookCover.png",
+ "inLanguage": "am",
+ "name": "ግዞተኛው ጂኒ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f4dc434b-914f-4063-81a6-1bb0ae5495cc"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f4dc434b-914f-4063-81a6-1bb0ae5495cc"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f4dc434b-914f-4063-81a6-1bb0ae5495cc"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nz83f93h",
+   "@type": "Book"
+  }
+ ]
+}

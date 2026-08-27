@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_j6hnpg5d",
+ "@type": "Book",
+ "about": [
+  "Poetry"
+ ],
+ "alternateName": [
+  "Anfersem Anetadesem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_b4p12fw8",
+   "@type": "Person",
+   "name": "አሌክስ አብርሃም"
+  }
+ ],
+ "datePublished": "2010-09-07",
+ "description": "Anfersem Anetadesem አንፈርስም አንታደስም by Alex Abreham. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/05/Anfersem-Anetadesem-by-Alex-Abreham.jpg",
+ "inLanguage": "am",
+ "name": "አንፈርስም አንታደስም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/anfersem-anetadesem-by-alex-abreham/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B0CWY8QHXN"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/anfersem-anetadesem-by-alex-abreham/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tftnx63t",
+   "@type": "Book"
+  }
+ ]
+}

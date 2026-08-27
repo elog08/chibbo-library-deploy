@@ -1,0 +1,137 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Bethlehem Attfield is a prominent British-Ethiopian literary translator and academic researcher known for her work in bringing Amharic literature to a global English-speaking audience. She holds a PhD in Modern Languages from the University of Birmingham, where her research focused on the translation of African-language literature and the \"minor translation theory\". Key Literary Works &"
+ },
+ "extensions": {},
+ "fingerprint": "bathlahamatfiald",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yw4x0wt6",
+ "id": "pe_yw4x0wt6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "bethlehem-attfield",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/bethlehem-attfield/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "bethlehem-attfield",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/bethlehem-attfield/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bethlehem Attfield"
+  },
+  "romanized": "Bethlehem Attfield",
+  "sort_key": "bethlehemattfield"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 8966,
+  "path": "assets/portraits/pe_yw4x0wt6.jpg",
+  "sha256": "03395867e364e10a116f0915b6cd5dd19c0978bc8a275b99c3490a2f69871d86",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Bethlehem-Attfield.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/bethlehem-attfield/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b28sjzrt.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/couch-grass-adam-reta.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_yw4x0wt6",
+     "name": "Bethlehem Attfield",
+     "role": "author",
+     "romanized": "Bethlehem Attfield"
+    },
+    {
+     "id": "pe_a901d0w8",
+     "name": "አዳም ረታ",
+     "role": "author",
+     "romanized": "Adam Reta"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-09-21",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_b28sjzrt",
+   "id": "wk_b28sjzrt",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Adam Reta's Couch Grass Translated",
+    "script": "Latn",
+    "text": "Adam Reta's Couch Grass Translated"
+   },
+   "type": "work",
+   "year": 2025
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_svgnt13j.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/The-Lost-Spell-by-Yismake-Worku.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_xqdr1zsg",
+     "name": "Yismake Worku",
+     "role": "author",
+     "romanized": "Yismake Worku"
+    },
+    {
+     "id": "pe_yw4x0wt6",
+     "name": "Bethlehem Attfield",
+     "role": "author",
+     "romanized": "Bethlehem Attfield"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022-03-21",
+    "flags": []
+   },
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_svgnt13j",
+   "id": "wk_svgnt13j",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Lost Spell",
+    "script": "Ethi",
+    "text": "ክቡር ድንጋይ"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

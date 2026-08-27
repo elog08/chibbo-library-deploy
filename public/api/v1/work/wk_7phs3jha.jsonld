@@ -1,0 +1,57 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7phs3jha",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Pilosophy",
+  "Religion",
+  "Self developmenty"
+ ],
+ "alternateName": [
+  "metshefe raselas"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qdvcwsfe",
+   "@type": "Person",
+   "name": "ተስፋ ጋሻነህ"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1d3fc4f1-4ad0-42b3-bce1-bcf0b338e3edTesfaRaselasCover.png",
+ "inLanguage": "am",
+ "name": "መጽሐፈ ራሤላስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "95.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1d3fc4f1-4ad0-42b3-bce1-bcf0b338e3ed"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1d3fc4f1-4ad0-42b3-bce1-bcf0b338e3ed"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/1d3fc4f1-4ad0-42b3-bce1-bcf0b338e3ed"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_szx8q1cz",
+   "@type": "Book"
+  }
+ ]
+}

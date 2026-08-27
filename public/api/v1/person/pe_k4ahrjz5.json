@@ -1,0 +1,159 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Hiwot Emishaw, one of Ethiopia’s most celebrated contemporary authors, is known for her remarkable talent in capturing the beauty and humor of everyday life. With five acclaimed books to her name, Baricho, Fkikfaki, Mata Mata, Le Erkan Rub Guday, and Yebuna Kurs Hiwot has a unique ability to weave relatable stories that deeply resonate with"
+ },
+ "extensions": {},
+ "fingerprint": "hiwotamishaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k4ahrjz5",
+ "id": "pe_k4ahrjz5",
+ "identifiers": {
+  "wikidata": [
+   "Q138428557"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hiwot-emishaw",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hiwot-emishaw/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hiwot-emishaw",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hiwot-emishaw/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q138428557",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q138428557"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiwot Emishaw"
+  },
+  "romanized": "Hiwot Emishaw",
+  "sort_key": "hiwotemishaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 243567,
+  "path": "assets/portraits/pe_k4ahrjz5.jpg",
+  "sha256": "b6bbdfa8fe0c890f17e3d8e82d0bf64839d7dd862f70fbdae3e873ebdfdb3cff",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/26497.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/hiwot-emishaw/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9gapcqpz.webp",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/zhiwazhiwe-hiwot-emishaw.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_k4ahrjz5",
+     "name": "Hiwot Emishaw",
+     "role": "author",
+     "romanized": "Hiwot Emishaw"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-11-15",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_9gapcqpz",
+   "id": "wk_9gapcqpz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zhewazhwe",
+    "script": "Ethi",
+    "text": "ዥዋዥዌ"
+   },
+   "type": "work",
+   "year": 2025
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rsx4ahf4.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/51ZRsknyhWL._SY466_.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_k4ahrjz5",
+     "name": "Hiwot Emishaw",
+     "role": "author",
+     "romanized": "Hiwot Emishaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rsx4ahf4",
+   "id": "wk_rsx4ahf4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "leerqan rub guday",
+    "script": "Ethi",
+    "text": "ለእርቃን ሩብ ጉዳይ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_s19sd7st.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/61jHagbj18L._SY466_.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_k4ahrjz5",
+     "name": "Hiwot Emishaw",
+     "role": "author",
+     "romanized": "Hiwot Emishaw"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024-12-16",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_s19sd7st",
+   "id": "wk_s19sd7st",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebuna qures",
+    "script": "Ethi",
+    "text": "የቡና ቁርስ"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

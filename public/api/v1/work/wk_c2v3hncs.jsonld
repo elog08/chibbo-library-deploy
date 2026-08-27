@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c2v3hncs",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "menab ena menbab"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sr8bb9a8",
+   "@type": "Person",
+   "name": "ኢሳያስ ባንጫ"
+  }
+ ],
+ "datePublished": "2023?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2025/e06a911e-a263-4300-ba00-445d3b7452acBookCoverEsaysBancha.png",
+ "inLanguage": "am",
+ "name": "ምናብ እና ምንባብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e06a911e-a263-4300-ba00-445d3b7452ac"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e06a911e-a263-4300-ba00-445d3b7452ac"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/e06a911e-a263-4300-ba00-445d3b7452ac"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vayxrynn",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7bkpdq0j",
+ "@type": "Book",
+ "about": [
+  "Biography",
+  "History",
+  "Non Fiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_wnf8v5pq",
+   "@type": "Person",
+   "name": "Abraham Ebisa"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/8407a7f1-1a74-4d92-a211-9eb270725a91AbdiisaaAagaaH400.png",
+ "inLanguage": "en",
+ "name": "ABDIISAA AAGAA",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "80.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/8407a7f1-1a74-4d92-a211-9eb270725a91"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/8407a7f1-1a74-4d92-a211-9eb270725a91"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/abdissa-aga-abraham-ebisa"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/8407a7f1-1a74-4d92-a211-9eb270725a91",
+  "https://www.ethiobookreview.com/book/abdissa-aga-abraham-ebisa"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6gv3v6wz",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_4f6pks3g",
+   "@type": "Book"
+  }
+ ]
+}

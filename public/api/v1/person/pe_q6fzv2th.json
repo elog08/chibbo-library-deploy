@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ሳለአምላክ ፋንታሁን ከበደ: በምዕ/ጎጃም ዞን ባህርዳር ዙሪያ : መጋቢት 12/1985 ዓ.ም ተወለደ: በአሁኑ ስዓት አዲስ አበባ ልደታ ክፍለ ከተማ 01... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "salamlakfantahunkabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q6fzv2th",
+ "id": "pe_q6fzv2th",
+ "identifiers": {
+  "afroread_id": [
+   "0694092f-c4d9-49ee-1772-08db6945a203"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0694092f-c4d9-49ee-1772-08db6945a203",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0694092f-c4d9-49ee-1772-08db6945a203"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0694092f-c4d9-49ee-1772-08db6945a203",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0694092f-c4d9-49ee-1772-08db6945a203"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "saleamlak fantahun kebede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳለአምላክ ፋንታሁን ከበደ"
+  },
+  "romanized": "saleamlak fantahun kebede",
+  "sort_key": "ሳለአምላክፋንታሁንከበደ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 66178,
+  "path": "assets/portraits/pe_q6fzv2th.png",
+  "sha256": "f979a47121cdb35fd6799ad7ff45d0687fbbe966f965ed09ce3578468dfb42c0",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/af8e1cef-3d83-4689-ab1d-31368f0075e3SaleamelakTemesegenProfilep320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/0694092f-c4d9-49ee-1772-08db6945a203"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tzjp7bhj.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/00062fe2-6818-4840-951f-735b7062d29bYegudGudBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_q6fzv2th",
+     "name": "ሳለአምላክ ፋንታሁን ከበደ",
+     "role": "author",
+     "romanized": "saleamlak fantahun kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tzjp7bhj",
+   "id": "wk_tzjp7bhj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegud gud ameset gud",
+    "script": "Ethi",
+    "text": "የጉድ ጉድ አምስት ጉድ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

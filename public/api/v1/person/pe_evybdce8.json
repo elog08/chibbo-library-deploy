@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Daniel Abreha is an Ethiopian author and a survivor of the ISIS massacres in Libya. He is best known for documenting his harrowing experience of being kidnapped and witnessing the brutal execution of his fellow countrymen in 2015. He authored a book titled ሃያ ሶስት \"23\" , which serves as a memoir of his journey."
+ },
+ "extensions": {},
+ "fingerprint": "danialabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_evybdce8",
+ "id": "pe_evybdce8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "daniel-abreha",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/daniel-abreha/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "daniel-abreha",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/daniel-abreha/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Abreha"
+  },
+  "romanized": "Daniel Abreha",
+  "sort_key": "danielabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 146048,
+  "path": "assets/portraits/pe_evybdce8.jpg",
+  "sha256": "4a3eac9afda60464ea6bf7d6bb9298a62c3c2810cdc43bdb9105bf0f6f5074e0",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/Daniel-Abreha.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/daniel-abreha/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tt617bn6.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/hayasost.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_evybdce8",
+     "name": "Daniel Abreha",
+     "role": "author",
+     "romanized": "Daniel Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-01-24",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_tt617bn6",
+   "id": "wk_tt617bn6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "haya soset 23",
+    "script": "Ethi",
+    "text": "ሃያ ሶስት 23"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

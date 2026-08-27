@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ምስጋናው አንዱዓለም (ዶክተር አንትሮፖሎጅስት ከዋሽንግተን ስቴት ዩኒቨርሲቲ). በአሁኑ ወቅት በሳውዘርን ሜተዲስት ዩኒቨርሲቲ ፖስት ዶክቶሬት የሪሰርች ፌሎው ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "masganawandualam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mysnv8qn",
+ "id": "pe_mysnv8qn",
+ "identifiers": {
+  "afroread_id": [
+   "b51f2bc5-2beb-486d-7a57-08db8546e28d"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "b51f2bc5-2beb-486d-7a57-08db8546e28d",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/b51f2bc5-2beb-486d-7a57-08db8546e28d"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "b51f2bc5-2beb-486d-7a57-08db8546e28d",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/b51f2bc5-2beb-486d-7a57-08db8546e28d"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesganaw andualem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምስጋናው አንዱዓለም"
+  },
+  "romanized": "mesganaw andualem",
+  "sort_key": "ምስጋናውአንዱአለም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 14419,
+  "path": "assets/portraits/pe_mysnv8qn.jpg",
+  "sha256": "0525b8bb85cf61368c9c739edc19bd2e627eae2ce2473d03a242d08e427fdab5",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/6346b837-2c72-4111-a17b-9e683b5a62d4MesganawProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/b51f2bc5-2beb-486d-7a57-08db8546e28d"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_djax1ags.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/f99fbf0e-2072-4fb3-91a8-a87d01011c14GiwenawinetBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_mysnv8qn",
+     "name": "ምስጋናው አንዱዓለም",
+     "role": "author",
+     "romanized": "mesganaw andualem"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_djax1ags",
+   "id": "wk_djax1ags",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "geyonawinet",
+    "script": "Ethi",
+    "text": "ግዮናዊነት"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

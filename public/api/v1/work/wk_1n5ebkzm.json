@@ -1,0 +1,114 @@
+{
+ "cover": {
+  "bytes": 132026,
+  "path": "assets/covers/wk_1n5ebkzm.png",
+  "sha256": "bfd9c29212ab8337c66e6893f365108a97deb5747a9bd719b89721327d89e433",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/f49b1a3f-9a5d-4f9a-b695-fd62b967b191EtalemH320.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_cn4sz7vw",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_5xxywn5k"
+ ],
+ "extensions": {},
+ "fingerprint": "እታለም|alamayahugabrahaywat",
+ "first_published": {
+  "alternates": [
+   "2017-09-11/2018-09-10"
+  ],
+  "edtf": "2010?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2010"
+  }
+ },
+ "flags": [
+  "format-audiobook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_1n5ebkzm",
+ "id": "wk_1n5ebkzm",
+ "identifiers": {
+  "afroread_id": [
+   "f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "f49b1a3f-9a5d-4f9a-b695-fd62b967b191",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "f49b1a3f-9a5d-4f9a-b695-fd62b967b191",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "f49b1a3f-9a5d-4f9a-b695-fd62b967b191",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/f49b1a3f-9a5d-4f9a-b695-fd62b967b191"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Literature",
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "etalem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እታለም"
+  },
+  "romanized": "etalem",
+  "sort_key": "እታለም"
+ },
+ "type": "work"
+}

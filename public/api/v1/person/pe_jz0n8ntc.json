@@ -1,0 +1,122 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Yacob Berhanu is a voracious reader, a passionate writer, novelist, essayist, humanist, and an influential young critic in Amharic literature from Addis Ababa, Ethiopia. He has published six books — two novels, two essay collections, and two translation works in Amharic, one of which was done in collaboration. He has written hundreds of inspiring literary"
+ },
+ "extensions": {},
+ "fingerprint": "yacobarhanu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jz0n8ntc",
+ "id": "pe_jz0n8ntc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "yacob-berhanu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/yacob-berhanu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "yacob-berhanu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/yacob-berhanu/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yacob Berhanu"
+  },
+  "romanized": "Yacob Berhanu",
+  "sort_key": "yacobberhanu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 136297,
+  "path": "assets/portraits/pe_jz0n8ntc.jpg",
+  "sha256": "da323196b71836a1c238c3b53a0a95583076aa7d14738969c3336e107b517111",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/yacob-berhanu.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/yacob-berhanu/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_apd64t3j.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/የመሻገር_ሲቃ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_jz0n8ntc",
+     "name": "Yacob Berhanu",
+     "role": "author",
+     "romanized": "Yacob Berhanu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022-12-05",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_apd64t3j",
+   "id": "wk_apd64t3j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemeshager siqa keawlo nefas gar medenes",
+    "script": "Ethi",
+    "text": "የመሻገር ሲቃ ከዐውሎ ነፋስ ጋር መደነስ"
+   },
+   "type": "work",
+   "year": 2022
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fd8k6vfe.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/befem-esat.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_jz0n8ntc",
+     "name": "Yacob Berhanu",
+     "role": "author",
+     "romanized": "Yacob Berhanu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-11-15",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_fd8k6vfe",
+   "id": "wk_fd8k6vfe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "befem esat maqames be yaqob berhanu",
+    "script": "Ethi",
+    "text": "በፍም እሳት ማቃመስ በ ያዕቆብ ብርሃኑ"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pjab5gqv",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Short Story"
+ ],
+ "alternateName": [
+  "teztan sastamem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rtvrcm7j",
+   "@type": "Person",
+   "name": "ገነት ወንድሙ (ሴሌ)"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/c3847304-aa23-4ed6-a52f-afc4451ba37dTezitanSastamemBookCover.png",
+ "inLanguage": "am",
+ "name": "ትዝታን ሳስታምም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c3847304-aa23-4ed6-a52f-afc4451ba37d"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c3847304-aa23-4ed6-a52f-afc4451ba37d"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/c3847304-aa23-4ed6-a52f-afc4451ba37d"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k3w5fzjb",
+   "@type": "Book"
+  }
+ ]
+}

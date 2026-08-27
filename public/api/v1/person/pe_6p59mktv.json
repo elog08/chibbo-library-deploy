@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አበበ ፈንቴ ገላዉ ጥር 29 1983 ዓ.ም በጎጃም ብራቃት በተባለ ቦታ ተወለደ የመጀመሪያ ደረጃ ትምህርቱን ብራቃት አንደኛ ደረጃ ት/ቤት ሁለተኛ ደረጃ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "ababafantagalawu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6p59mktv",
+ "id": "pe_6p59mktv",
+ "identifiers": {
+  "afroread_id": [
+   "ac3425d1-a5d5-4a64-6607-08da636c7d9f"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ac3425d1-a5d5-4a64-6607-08da636c7d9f",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ac3425d1-a5d5-4a64-6607-08da636c7d9f"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ac3425d1-a5d5-4a64-6607-08da636c7d9f",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ac3425d1-a5d5-4a64-6607-08da636c7d9f"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebe fente gelawu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበ ፈንቴ ገላዉ"
+  },
+  "romanized": "abebe fente gelawu",
+  "sort_key": "አበበፈንቴገላዉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 65844,
+  "path": "assets/portraits/pe_6p59mktv.png",
+  "sha256": "51a7b2d576f71892305d9caf754b6f4ed2e3cbf9c40275281521c832ed72fa6c",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/9bcaff0b-2f5f-45d2-9579-2a491182f1efAbebeProfilePicture320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ac3425d1-a5d5-4a64-6607-08da636c7d9f"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_06tmd8a0.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6f06997b-260e-4cb4-bdee-830f693fdd35AbebeBookCoverBeljepera.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6p59mktv",
+     "name": "አበበ ፈንቴ ገላዉ",
+     "role": "author",
+     "romanized": "abebe fente gelawu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_06tmd8a0",
+   "id": "wk_06tmd8a0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beljepera",
+    "script": "Ethi",
+    "text": "ቤልጀጴራ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

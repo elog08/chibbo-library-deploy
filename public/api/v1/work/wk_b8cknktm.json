@@ -1,0 +1,113 @@
+{
+ "cover": {
+  "bytes": 200763,
+  "path": "assets/covers/wk_b8cknktm.png",
+  "sha256": "3767c490667e448e8e9dd69c1a5112a15bc689e640a783ba68f8486e2082db76",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1b2e339b-50e3-4911-9218-471824225486KenBookCover.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xnbnsf97",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_mnbbf522"
+ ],
+ "extensions": {},
+ "fingerprint": "ቀን|salomonbarhadora",
+ "first_published": {
+  "alternates": [
+   "2010-09-11/2011-09-11"
+  ],
+  "edtf": "2003?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2003"
+  }
+ },
+ "flags": [
+  "format-audiobook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_b8cknktm",
+ "id": "wk_b8cknktm",
+ "identifiers": {
+  "afroread_id": [
+   "1b2e339b-50e3-4911-9218-471824225486"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "1b2e339b-50e3-4911-9218-471824225486",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "110.00",
+   "provider": "afroread_book",
+   "ref": "1b2e339b-50e3-4911-9218-471824225486",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "4.99",
+   "provider": "afroread_book",
+   "ref": "1b2e339b-50e3-4911-9218-471824225486",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction",
+  "Literature"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቀን"
+  },
+  "romanized": "qen",
+  "sort_key": "ቀን"
+ },
+ "type": "work"
+}

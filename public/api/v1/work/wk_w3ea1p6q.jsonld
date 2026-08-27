@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w3ea1p6q",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "zem kemel beye"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ndpkmnhw",
+   "@type": "Person",
+   "name": "እመቤት መንግስቴ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/e589f166-9073-44bc-bb25-0cf15b970283ZimKemilByeBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ዝም ከምል ብዬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "105.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e589f166-9073-44bc-bb25-0cf15b970283"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e589f166-9073-44bc-bb25-0cf15b970283"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/e589f166-9073-44bc-bb25-0cf15b970283"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pk314ed0",
+   "@type": "Book"
+  }
+ ]
+}

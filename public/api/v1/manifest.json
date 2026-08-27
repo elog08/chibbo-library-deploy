@@ -1,0 +1,56 @@
+{
+ "api_version": "v1",
+ "base_uri": "https://chibbo.app",
+ "commit": "83a93da65c4204de2a048922e2ed34916ac838cd",
+ "counts": {
+  "editions": 1036,
+  "people": 605,
+  "poetry": 67,
+  "poets": 58,
+  "tombstones": 4,
+  "works": 964
+ },
+ "facets": {
+  "availability": {
+   "buyable": 940
+  },
+  "decade": {
+   "1320s": 1,
+   "1660s": 1,
+   "1900s": 1,
+   "1910s": 1,
+   "1920s": 1,
+   "1930s": 1,
+   "1950s": 2,
+   "1960s": 7,
+   "1970s": 1,
+   "1980s": 9,
+   "1990s": 9,
+   "2000s": 67,
+   "200s": 1,
+   "2010s": 405,
+   "2020s": 161,
+   "undated": 296
+  },
+  "format": {
+   "audiobook": 52,
+   "ebook": 346,
+   "paperback": 154
+  },
+  "language": {
+   "am": 842,
+   "en": 78,
+   "gez": 2,
+   "om": 42
+  }
+ },
+ "notes": "Static projection of catalog/ at the commit above. The API never renders: dates are EDTF with their calendar caveat attached, not display strings.",
+ "omitted_facets": {
+  "form": "populated on 25 of 964 works",
+  "publisher": "12 values",
+  "series": "4 values",
+  "subject": "191 uncontrolled values; needs a curated vocabulary first. `poetry` is exposed as its own collection, not as a subject facet: one concept, 65 works, four case-variant spellings."
+ },
+ "page_size": 60,
+ "schema_version": "1.0.0"
+}

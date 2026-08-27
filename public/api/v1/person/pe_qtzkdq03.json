@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሳባ መኩሪያ እባላለሁ:: የተለያዩ የሙያ ዘርፎች ላይ የመስራት አጋጣሚ ቢኖረኝም በዋናነት መምህርት እና ገጣሚ ነኝ:: ተወልጄ ያደግኹት አዲስ አበባ አራት ኪሎ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "sabamakuriya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qtzkdq03",
+ "id": "pe_qtzkdq03",
+ "identifiers": {
+  "afroread_id": [
+   "6ff96d42-c3a9-41ef-4314-08d9d226d512"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6ff96d42-c3a9-41ef-4314-08d9d226d512",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6ff96d42-c3a9-41ef-4314-08d9d226d512"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6ff96d42-c3a9-41ef-4314-08d9d226d512",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6ff96d42-c3a9-41ef-4314-08d9d226d512"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "saba mekuriya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳባ መኩሪያ"
+  },
+  "romanized": "saba mekuriya",
+  "sort_key": "ሳባመኩሪያ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 60719,
+  "path": "assets/portraits/pe_qtzkdq03.png",
+  "sha256": "e369460b87e16063e9bc9f62efcba05676d8e714a333b8027d1396cef6e49c34",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/934cac99-613e-4592-afdb-264d1a676f1aSabaMekuria320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/6ff96d42-c3a9-41ef-4314-08d9d226d512"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_s7qh97mw.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/10bafbb8-bb42-4ef6-a9f0-93d9035b328fGizaeWineCherekaH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qtzkdq03",
+     "name": "ሳባ መኩሪያ",
+     "role": "author",
+     "romanized": "saba mekuriya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s7qh97mw",
+   "id": "wk_s7qh97mw",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gize...weyen...chereqa",
+    "script": "Ethi",
+    "text": "ጊዜ...ወይን...ጨረቃ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "ምሕረት ደግፍ ትውልድና እድገቷ አዲስ አበባ በልዩ ስሙ ኮልፌ 18 ተብሎ በሚጠራው አካባቢ ነው የመጀመሪያ ደረጃ ትምህርቷን በሐምሌ 19 የመጀመሪያ ደረጃ ት/ቤት ሁለተኛ ደረጃን በየካቲት 23 ት/ቤት የመሰናዶ ትምህርቷን ደግሞ በአዲስ ከተማ መሰናዶ ተከታትላ ጨርሳለች ቀጥሎም በኮተቤ የትምህርት ዩኒቨርሲቲ በመምህርነት በመመረቅ ትምህርቷን ያጠናቀቀች ሲሆን በአሁኑ ወቅትም በዚሁ ዩኒቨርሲቲ የእንግሊዘኛ ቋንቋ እና"
+ },
+ "extensions": {},
+ "fingerprint": "mihratdagif",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7yw07gqw",
+ "id": "pe_7yw07gqw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mihret-degif",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mihret-degif/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mihret-degif",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mihret-degif/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mihret Degif"
+  },
+  "romanized": "Mihret Degif",
+  "sort_key": "mihretdegif"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 266418,
+  "path": "assets/portraits/pe_7yw07gqw.jpg",
+  "sha256": "d448a46ae48648022fc7b428af9af00de970c3e5ce50294d65d813f1a0fd8b03",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/06/Mihret-Degif-scaled.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/mihret-degif/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c4jy1z34.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/06/yeweboch-ngste-new-scaled-e1780675554882.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_7yw07gqw",
+     "name": "Mihret Degif",
+     "role": "author",
+     "romanized": "Mihret Degif"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-06-06",
+    "flags": []
+   },
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_c4jy1z34",
+   "id": "wk_c4jy1z34",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yewboch Negest",
+    "script": "Ethi",
+    "text": "የውቦች ንግሥት"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

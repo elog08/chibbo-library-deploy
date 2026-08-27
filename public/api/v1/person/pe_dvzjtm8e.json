@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዳንኤል ከተማ (ዲጄ ላየን) በአዲስ አበባ ልደታ ክፍለ ከተማ ልዩ ቦታው አብነት መጋቢት 6 ተወለደ የመጀሪያ ደረጃ ትምህርቱን በባህርዳር ካቶሊክ ት/ቤት ሁ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "danalkatama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dvzjtm8e",
+ "id": "pe_dvzjtm8e",
+ "identifiers": {
+  "afroread_id": [
+   "9250dc7e-029f-43cf-1816-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "9250dc7e-029f-43cf-1816-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/9250dc7e-029f-43cf-1816-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "9250dc7e-029f-43cf-1816-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/9250dc7e-029f-43cf-1816-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danel ketema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል ከተማ"
+  },
+  "romanized": "danel ketema",
+  "sort_key": "ዳንኤልከተማ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 47994,
+  "path": "assets/portraits/pe_dvzjtm8e.png",
+  "sha256": "90320ca6330eb5d6d8635bd918029bfe5e8f2a0da2c1d51245cb6702849feaf3",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/494d2a10-8084-4c79-b7be-ef382065a6c6DanielKetemaProfilePhoto320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/9250dc7e-029f-43cf-1816-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9ahp1tgd.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/8c32a82e-7858-4091-bf69-9efd08071faaEthiopianMusicaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_dvzjtm8e",
+     "name": "ዳንኤል ከተማ",
+     "role": "author",
+     "romanized": "danel ketema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9ahp1tgd",
+   "id": "wk_9ahp1tgd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya muziqa",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሙዚቃ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

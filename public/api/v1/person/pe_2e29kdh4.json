@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አቤል ዘበነ በአዲስ አበባ በ1978 ዓ.ም. ተወለደ ከልጅነቱ ጀምሮ ባደረበት የጥበብ ፍቅር ኦሎምፒያ በሚገኙ የምሽት ቤቶች የድምፃዊ ኬኔዲ መንገሻን ዘፈኖች ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abalzabana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2e29kdh4",
+ "id": "pe_2e29kdh4",
+ "identifiers": {
+  "afroread_id": [
+   "ca14fc0a-d12b-4682-4b1a-08dad573143f"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ca14fc0a-d12b-4682-4b1a-08dad573143f",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ca14fc0a-d12b-4682-4b1a-08dad573143f"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ca14fc0a-d12b-4682-4b1a-08dad573143f",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ca14fc0a-d12b-4682-4b1a-08dad573143f"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abel zebene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል ዘበነ"
+  },
+  "romanized": "abel zebene",
+  "sort_key": "አቤልዘበነ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 44515,
+  "path": "assets/portraits/pe_2e29kdh4.png",
+  "sha256": "661c3273b1b11100b7cda1c624893b51414eaa38bdd52bc92564a432068f0455",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/f694231d-2cf6-45d5-8213-8e918a7333c3AbelZebene320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ca14fc0a-d12b-4682-4b1a-08dad573143f"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qm4j1z1p.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/83d06af0-f188-4cf0-921b-2c0b145a6064YetediAfroYetalaknetMistrBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2e29kdh4",
+     "name": "አቤል ዘበነ",
+     "role": "author",
+     "romanized": "abel zebene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qm4j1z1p",
+   "id": "wk_qm4j1z1p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetedi afro yetalaqnet mestir",
+    "script": "Ethi",
+    "text": "የቴዲ አፍሮ የታላቅነት ምስጢር"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

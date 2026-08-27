@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_y1cnwarq",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "semachhu yelem ena leloch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pq0c08h3",
+   "@type": "Person",
+   "name": "ዳንኤል ክብረት"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%B5%E1%88%9B%E1%89%BD%E1%88%81_%E1%8B%A8%E1%88%88%E1%88%9D_%E1%8A%A5%E1%8A%93_%E1%88%8C%E1%88%8E%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "ስማችሁ የለም እና ሌሎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "81",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_152"
+  },
+  {
+   "@type": "Offer",
+   "price": "81",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_152"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_152"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_p5346eg7",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nga7ghdc",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "saqesh yenageral"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mahztjj6",
+   "@type": "Person",
+   "name": "ማሩ እንዳለ ባልቻ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/9aa29dba-990a-4ba5-9327-4e6a3bfd8d0dSakishYinageralBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ሳቅሽ ይናገራል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "79.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/9aa29dba-990a-4ba5-9327-4e6a3bfd8d0d"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/9aa29dba-990a-4ba5-9327-4e6a3bfd8d0d"
+  },
+  {
+   "@type": "Offer",
+   "price": "100.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e3adc4a3-3821-4b6c-a158-cf0490010335"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e3adc4a3-3821-4b6c-a158-cf0490010335"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/9aa29dba-990a-4ba5-9327-4e6a3bfd8d0d",
+  "https://afroreadapp.com/Store/Bookdetail/e3adc4a3-3821-4b6c-a158-cf0490010335"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6xhhftef",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_c2rzxzr9",
+   "@type": "Book"
+  }
+ ]
+}

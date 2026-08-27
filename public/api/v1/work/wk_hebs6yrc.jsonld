@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hebs6yrc",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "yeityopya wefoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/14889725-b8e1-4a80-a27e-d8bb830b4685ABoutOpenHeartsBigDreamsCover.png",
+ "inLanguage": "am",
+ "name": "የኢትዮጵያ ወፎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/14889725-b8e1-4a80-a27e-d8bb830b4685"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/14889725-b8e1-4a80-a27e-d8bb830b4685"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/14889725-b8e1-4a80-a27e-d8bb830b4685"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_v5hm1d27",
+   "@type": "Book"
+  }
+ ]
+}

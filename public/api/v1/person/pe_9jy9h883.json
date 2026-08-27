@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "I am the founder of ETAN COMICS, a Panafrican publishing company helping kids connect with their African heritage through exciting comics & graphic novels. I am also a writer. Most people know me from being the creator of the first Ethiopian Superhero comic book series, JEMBER and HAWI. I am passionate about sharing Ethiopian history"
+ },
+ "extensions": {},
+ "fingerprint": "basaratdababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9jy9h883",
+ "id": "pe_9jy9h883",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "beserat-debebe",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/beserat-debebe/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "beserat-debebe",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/beserat-debebe/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Beserat Debebe"
+  },
+  "romanized": "Beserat Debebe",
+  "sort_key": "beseratdebebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 123354,
+  "path": "assets/portraits/pe_9jy9h883.jpg",
+  "sha256": "857922decdc674955cefa0dab7b29c8ad1ea485150bbb63b8d564bde33683d27",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2024/02/addisbooks-website.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/beserat-debebe/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_avx3tj30.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2023/10/Jember-In-English-and-Amharic-Etan-Comics.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_9jy9h883",
+     "name": "Beserat Debebe",
+     "role": "author",
+     "romanized": "Beserat Debebe"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-09-30",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_avx3tj30",
+   "id": "wk_avx3tj30",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Jember: In English and Amharic (Etan Comics Early Reader)",
+    "script": "Latn",
+    "text": "Jember: In English and Amharic (Etan Comics Early Reader)"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "cover": {
+  "bytes": 166953,
+  "path": "assets/covers/wk_qj8kv3cx.jpg",
+  "sha256": "3eed1782edd84a8ed80f59962b3663f1e2db87f24e360621199ed2175efa05ec",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/elsa.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_tpazf1kj",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "ዋናተኛ ፀሐይ Wanategna Tsehay, a book by Elssa Mulugeta. Addis Books."
+ },
+ "editions": [
+  "ed_506kzgfx"
+ ],
+ "extensions": {},
+ "fingerprint": "ዋናተኛጸሀይ|alsamulugata",
+ "first_published": {
+  "edtf": "2026-01-28",
+  "original": {
+   "calendar": "gregorian",
+   "value": "January 28, 2026"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_qj8kv3cx",
+ "id": "wk_qj8kv3cx",
+ "identifiers": {
+  "addisbooks_sku": [
+   "5651"
+  ],
+  "isbn13": [
+   "9798246012994"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "wanategna-tsehay-by-elssa-mulugeta",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/wanategna-tsehay-by-elssa-mulugeta/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "21.50",
+   "provider": "addisbooks",
+   "ref": "wanategna-tsehay-by-elssa-mulugeta",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/wanategna-tsehay-by-elssa-mulugeta/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/wanategna-tsehay-by-elssa-mulugeta/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wanatenya tsehey",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዋናተኛ ፀሐይ"
+  },
+  "romanized": "wanatenya tsehey",
+  "sort_key": "ዋናተኛጸሀይ"
+ },
+ "type": "work"
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zz4v2kdr",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "yehdasew mehendis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ppxderyh",
+   "@type": "Person",
+   "name": "ደረጀ ይመር"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%88%85%E1%8B%B3%E1%88%B4%E1%8B%8D_%E1%88%98%E1%88%90%E1%8A%95%E1%8B%B2%E1%88%B5.jpg",
+ "inLanguage": "am",
+ "name": "የህዳሴው መሐንዲስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_99"
+  },
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_99"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_99"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gynrgcy7",
+   "@type": "Book"
+  }
+ ]
+}

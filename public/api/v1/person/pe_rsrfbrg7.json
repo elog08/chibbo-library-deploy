@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Yohannes Tassew is motivational speaker, author and translator and globally connected and locally en... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yohanastasaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rsrfbrg7",
+ "id": "pe_rsrfbrg7",
+ "identifiers": {
+  "afroread_id": [
+   "42026055-4ce6-4b15-8199-08dc3fd07a53"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "42026055-4ce6-4b15-8199-08dc3fd07a53",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/42026055-4ce6-4b15-8199-08dc3fd07a53"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "42026055-4ce6-4b15-8199-08dc3fd07a53",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/42026055-4ce6-4b15-8199-08dc3fd07a53"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes tasew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ጣሰው"
+  },
+  "romanized": "yohenes tasew",
+  "sort_key": "ዮሀንስጣሰው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 16459,
+  "path": "assets/portraits/pe_rsrfbrg7.jpg",
+  "sha256": "5ae7e3d569504cfb67523cbfcaa4e99eda2801a4cc8da576e90b7d0fc729a0e9",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/0a7df0ec-b228-4c0d-855c-5a9f76265a3dYohansTasawProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/42026055-4ce6-4b15-8199-08dc3fd07a53"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_y1qvb7m9.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/b8648bc0-afda-40d3-9453-1d077a3a059aYemiderChewFilegaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_rsrfbrg7",
+     "name": "ዮሐንስ ጣሰው",
+     "role": "author",
+     "romanized": "yohenes tasew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_y1qvb7m9",
+   "id": "wk_y1qvb7m9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemeder chew felega beityopya",
+    "script": "Ethi",
+    "text": "የምድር ጨው ፍለጋ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

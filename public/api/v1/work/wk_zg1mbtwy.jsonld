@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zg1mbtwy",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "yeqosele leb"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_j4mkptj1",
+   "@type": "Person",
+   "name": "ወይንሸት እምሬ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/b17c45a4-117e-4b78-8354-1b1f068d531cYekoselLibCover.jpg",
+ "inLanguage": "am",
+ "name": "የቆሰለ ልብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b17c45a4-117e-4b78-8354-1b1f068d531c"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b17c45a4-117e-4b78-8354-1b1f068d531c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/b17c45a4-117e-4b78-8354-1b1f068d531c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_7515ma22",
+   "@type": "Book"
+  }
+ ]
+}

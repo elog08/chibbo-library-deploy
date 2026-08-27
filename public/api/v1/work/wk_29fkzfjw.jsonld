@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_29fkzfjw",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Poetry"
+ ],
+ "alternateName": [
+  "fitlefit sennyoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_16m2d2n0",
+   "@type": "Person",
+   "name": "ሄኖክ ግርማ"
+  }
+ ],
+ "datePublished": "2004?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/427d34e8-3713-488c-97f7-f11f238b3f96FitlefitSingnochBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ፊትለፊት ስንኞች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "90.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/427d34e8-3713-488c-97f7-f11f238b3f96"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/427d34e8-3713-488c-97f7-f11f238b3f96"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/427d34e8-3713-488c-97f7-f11f238b3f96"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_htetpkz9",
+   "@type": "Book"
+  }
+ ]
+}

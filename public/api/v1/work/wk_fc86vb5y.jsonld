@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fc86vb5y",
+ "@type": "Book",
+ "about": [
+  "Short Stories"
+ ],
+ "alternateName": [
+  "Amest Guday"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yvspnbtq",
+   "@type": "Person",
+   "name": "Yared Teshome Zelelew"
+  }
+ ],
+ "datePublished": "2025-05-24",
+ "description": "Amest Guday አምስት ጉዳይ by Yared Teshome Zelelew. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/amest-guday-front.jpg",
+ "inLanguage": "am",
+ "isbn": "9788269250008",
+ "name": "አምስት ጉዳይ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/amest-guday-by-yared-teshome-zelelew/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/8269250015"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/amest-guday-by-yared-teshome-zelelew/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_q8rx0yth",
+   "@type": "Book"
+  }
+ ]
+}

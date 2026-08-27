@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Yitbarek Mengistu is an Ethio-Cuban author and memoirist primarily known for his book ከርሞ ልጅነት (Kermo Lijinet or The Echoes of Childhood). His writing often explores personal history, family dynamics, and the complexities of growing up between Ethiopian and Cuban cultures. Key Works ከርሞ ልጅነት (The Echoes of Childhood): A deeply personal memoir published in"
+ },
+ "extensions": {},
+ "fingerprint": "yitbarakmangistu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m4yxe54y",
+ "id": "pe_m4yxe54y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "yitbarek-mengistu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/yitbarek-mengistu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "yitbarek-mengistu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/yitbarek-mengistu/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yitbarek Mengistu"
+  },
+  "romanized": "Yitbarek Mengistu",
+  "sort_key": "yitbarekmengistu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 207594,
+  "path": "assets/portraits/pe_m4yxe54y.jpg",
+  "sha256": "104f8c0221c33a579e0a053122c6dded861aa18c7d273c9ac21df46d87ddc4e1",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Yitbarek-Mengistu.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/yitbarek-mengistu/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bfcs3cpk.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/kermo-lijinet-book.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_m4yxe54y",
+     "name": "Yitbarek Mengistu",
+     "role": "author",
+     "romanized": "Yitbarek Mengistu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-02-06",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_bfcs3cpk",
+   "id": "wk_bfcs3cpk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Echoes of Childhood",
+    "script": "Ethi",
+    "text": "ከርሞ ልጅነት"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ዶዲ ዘመዴ ተወልዳ ያደገችው አቃቂ በሚገኘው በሰቃ ጮሎ ሰፈር ሲሆን ቤተሰቦቿ ካላቸው 12 ልጆች 9ኛ ልጅ ናት:: የመጀመሪያ ደረጃ ትምህርቷን ፊታውራሪ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dodizamada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cph2d8r4",
+ "id": "pe_cph2d8r4",
+ "identifiers": {
+  "afroread_id": [
+   "ba45afb2-a608-4ab6-4137-08daf279239b"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ba45afb2-a608-4ab6-4137-08daf279239b",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ba45afb2-a608-4ab6-4137-08daf279239b"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ba45afb2-a608-4ab6-4137-08daf279239b",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ba45afb2-a608-4ab6-4137-08daf279239b"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dodi zemede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶዲ ዘመዴ"
+  },
+  "romanized": "dodi zemede",
+  "sort_key": "ዶዲዘመዴ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 55368,
+  "path": "assets/portraits/pe_cph2d8r4.png",
+  "sha256": "3561bc05f55dadf3c4763d283dfed081d57de8de7e87294265b1ad4606bdc8f5",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/0ea9c28d-c28d-4ade-a129-e854ccf13425DodiZemedePhoto.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ba45afb2-a608-4ab6-4137-08daf279239b"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7byakypj.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/32d0dfbe-4e43-4169-8d20-485872248aaeAshenalfiBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cph2d8r4",
+     "name": "ዶዲ ዘመዴ",
+     "role": "author",
+     "romanized": "dodi zemede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_7byakypj",
+   "id": "wk_7byakypj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ashenlafi",
+    "script": "Ethi",
+    "text": "አሸንላፊ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vgjxzh82.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/9926d65e-e537-47fc-9e4b-8bdb9166f969yadodimastaweshaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_cph2d8r4",
+     "name": "ዶዲ ዘመዴ",
+     "role": "author",
+     "romanized": "dodi zemede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_vgjxzh82",
+   "id": "wk_vgjxzh82",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yedodi mastawesha",
+    "script": "Ethi",
+    "text": "የዶዲ ማስታወሻ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

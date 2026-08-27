@@ -1,0 +1,114 @@
+{
+ "cover": {
+  "bytes": 32678,
+  "path": "assets/covers/wk_ph9vz3dk.jpg",
+  "sha256": "261cae6223d2b7e6ea6f1755db3914f1de48fa54a8bc4c117b341be6cd2e8b6f",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1DebteraBookCover.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_ep8jsw3q",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_y01sh9ms"
+ ],
+ "extensions": {},
+ "fingerprint": "ደብተራ|qalatsadaqbalaynah",
+ "first_published": {
+  "alternates": [
+   "2019-09-12/2020-09-10"
+  ],
+  "edtf": "2012?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2012"
+  }
+ },
+ "flags": [
+  "format-ebook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_ph9vz3dk",
+ "id": "wk_ph9vz3dk",
+ "identifiers": {
+  "afroread_id": [
+   "dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "82.00",
+   "provider": "afroread_book",
+   "ref": "dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "3.50",
+   "provider": "afroread_book",
+   "ref": "dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Literature",
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "debtera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደብተራ"
+  },
+  "romanized": "debtera",
+  "sort_key": "ደብተራ"
+ },
+ "type": "work"
+}

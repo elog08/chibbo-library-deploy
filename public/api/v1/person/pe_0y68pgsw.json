@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "burhanadis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0y68pgsw",
+ "id": "pe_0y68pgsw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Burhan Addis",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቡርሃን አዲስ"
+  },
+  "romanized": "Burhan Addis",
+  "sort_key": "ቡርሀንአዲስ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5yj3aw9v.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Philosophy/yemesinoch-edir-burhan-addis.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_0y68pgsw",
+     "name": "ቡርሃን አዲስ",
+     "role": "author",
+     "romanized": "Burhan Addis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5yj3aw9v",
+   "id": "wk_5yj3aw9v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemesinoch eder",
+    "script": "Ethi",
+    "text": "የመሲኖች ዕድር"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_pbf92kdt.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8B%98%E1%88%AD_%E1%8A%AB%E1%88%AD%E1%8B%B5.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_0y68pgsw",
+     "name": "ቡርሃን አዲስ",
+     "role": "author",
+     "romanized": "Burhan Addis"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_pbf92kdt",
+   "id": "wk_pbf92kdt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yezer kared",
+    "script": "Ethi",
+    "text": "የዘር ካርድ"
+   },
+   "type": "work"
+  }
+ ]
+}

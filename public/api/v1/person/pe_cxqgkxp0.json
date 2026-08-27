@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ኃይሉ መኰንን በባንክ እና ቢዝንስ አዲሚንስትሪሽን ሙያ በመመረቅ በተለያዩ የኢንሹራንስ ኩባንያወች እና በባንክ የማደራጀት ስራ በተለያየ የሥራ መደብ ከባለ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "haylumakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cxqgkxp0",
+ "id": "pe_cxqgkxp0",
+ "identifiers": {
+  "afroread_id": [
+   "5351a1a5-35a2-4c74-4c35-08db7c931a19"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5351a1a5-35a2-4c74-4c35-08db7c931a19",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5351a1a5-35a2-4c74-4c35-08db7c931a19"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5351a1a5-35a2-4c74-4c35-08db7c931a19",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5351a1a5-35a2-4c74-4c35-08db7c931a19"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "haylu mekonen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኃይሉ መኮንን"
+  },
+  "romanized": "haylu mekonen",
+  "sort_key": "ሀይሉመኮንን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 9925,
+  "path": "assets/portraits/pe_cxqgkxp0.jpg",
+  "sha256": "9d8e81498458adca09cd3118544c00d2f2d44f8e68269cfe5285faab8ef1626b",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/a05f5ae8-88c2-4ad7-b8e4-e2bba208702bHailuProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5351a1a5-35a2-4c74-4c35-08db7c931a19"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zxts6avb.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/bbb80818-709e-4306-9578-32891b1e5d5dHgerBeKelBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_cxqgkxp0",
+     "name": "ኃይሉ መኮንን",
+     "role": "author",
+     "romanized": "haylu mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zxts6avb",
+   "id": "wk_zxts6avb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heger beqel yesra amerar tebeb",
+    "script": "Ethi",
+    "text": "ሀገር በቀል የሥራ አመራር ጥበብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

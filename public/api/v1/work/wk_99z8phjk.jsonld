@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_99z8phjk",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "metshefe beruk zhanshewa qedamawi"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_m8tmp3kb",
+   "@type": "Person",
+   "name": "መሪራስ አማን በላይ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%98%E1%8C%BD%E1%88%90%E1%8D%88_%E1%89%A5%E1%88%A9%E1%8A%AD_%E1%8B%A3%E1%8A%95%E1%88%B8%E1%8B%8B_%E1%89%80%E1%8B%B3%E1%88%9B%E1%8B%8A.jpg",
+ "inLanguage": "am",
+ "name": "መጽሐፈ ብሩክ ዣንሸዋ ቀዳማዊ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "112.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_200"
+  },
+  {
+   "@type": "Offer",
+   "price": "112.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_200"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_200"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_v03b70qs",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Etefworkie Ademe is an Ethiopian author primarily known for works in the Amharic language that explore themes of identity, nobility, and cultural history."
+ },
+ "extensions": {},
+ "fingerprint": "atafworkiadama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_59bbaswa",
+ "id": "pe_59bbaswa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "etefworkie-ademe",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/etefworkie-ademe/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "etefworkie-ademe",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/etefworkie-ademe/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Etefworkie Ademe"
+  },
+  "romanized": "Etefworkie Ademe",
+  "sort_key": "etefworkieademe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 7352,
+  "path": "assets/portraits/pe_59bbaswa.png",
+  "sha256": "80f6bda77c45095089658507893ebcb0118f8e33ba750d353e278e9aaa57b753",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2023/12/cropped-addisbooks-logo-1.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/etefworkie-ademe/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vft1wswj.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/yeabatu-lej.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_59bbaswa",
+     "name": "Etefworkie Ademe",
+     "role": "author",
+     "romanized": "Etefworkie Ademe"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024-06-10",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vft1wswj",
+   "id": "wk_vft1wswj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeabatu Lej",
+    "script": "Ethi",
+    "text": "የአባቱ ልጅ"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

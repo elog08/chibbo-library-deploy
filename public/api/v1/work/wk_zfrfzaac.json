@@ -1,0 +1,107 @@
+{
+ "cover": {
+  "bytes": 110100,
+  "path": "assets/covers/wk_zfrfzaac.jpg",
+  "sha256": "809dc79f81071a45c1e55a32b720b9974c955c1a3160c16bb1dcf463eae57565",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Ewin-enie-biku-negn-book-by-Hamrawit-Tesfa.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_tjgj0z2f",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "እውን እኔ ብቁ ነኝ? በሐምራዊት ተስፋ Book by Hamrawit Tesfa"
+ },
+ "editions": [
+  "ed_yqc5sspd"
+ ],
+ "extensions": {},
+ "fingerprint": "እውንእኔብቁነኝ|hamrawitasfa",
+ "first_published": {
+  "edtf": "2025-12-16",
+  "original": {
+   "calendar": "gregorian",
+   "value": "December 16, 2025"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_zfrfzaac",
+ "id": "wk_zfrfzaac",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6419"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "ewin-enie-biku-negn-book-by-hamrawit-tesfa",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/ewin-enie-biku-negn-book-by-hamrawit-tesfa/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "14.99",
+   "provider": "addisbooks",
+   "ref": "ewin-enie-biku-negn-book-by-hamrawit-tesfa",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/ewin-enie-biku-negn-book-by-hamrawit-tesfa/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "B0G6YPDM6M",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/B0G6YPDM6M"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/ewin-enie-biku-negn-book-by-hamrawit-tesfa/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Memoir",
+  "Religious"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ewen ene bequ neny?",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እውን እኔ ብቁ ነኝ?"
+  },
+  "romanized": "ewen ene bequ neny?",
+  "sort_key": "እውንእኔብቁነኝ"
+ },
+ "type": "work"
+}

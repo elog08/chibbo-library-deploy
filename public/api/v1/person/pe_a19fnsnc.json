@@ -1,0 +1,154 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የመጀመሪያ ዲግሪውን በፖለቲካል ሳይንስ እና በዓለም ዓቀፍ ግንኙነቶች ከአዲስ አበባ ዩኒቨርሲቲ እንዲሁም በዚሁ ዩኒቨርሲቲ ስር በሚገኘው የአፍሪካ እና እስያ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "samachawtabaja",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a19fnsnc",
+ "id": "pe_a19fnsnc",
+ "identifiers": {
+  "afroread_id": [
+   "90aee70a-54a5-4071-892d-08da3c34f366"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "90aee70a-54a5-4071-892d-08da3c34f366",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/90aee70a-54a5-4071-892d-08da3c34f366"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "90aee70a-54a5-4071-892d-08da3c34f366",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/90aee70a-54a5-4071-892d-08da3c34f366"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "semachew tebeje",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ስማቸው ተበጀ"
+  },
+  "romanized": "semachew tebeje",
+  "sort_key": "ስማቸውተበጀ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 52153,
+  "path": "assets/portraits/pe_a19fnsnc.png",
+  "sha256": "e3ddc7fe84a48e8d91dc69464b265025ddcd2ca5a7df0ea7963742a8fed68188",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/c6595371-cced-480e-899c-37f6e48970d0Simachew_author_profile_h320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/90aee70a-54a5-4071-892d-08da3c34f366"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6w92aex1.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/e62d740d-0afc-4595-aef2-5e0bd5f2939cTheArtofWarBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2565mny0",
+     "name": "ሚካኤል ማስሬ",
+     "role": "author",
+     "romanized": "mikael masre"
+    },
+    {
+     "id": "pe_a19fnsnc",
+     "name": "ስማቸው ተበጀ",
+     "role": "author",
+     "romanized": "semachew tebeje"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6w92aex1",
+   "id": "wk_6w92aex1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetornet tebeb",
+    "script": "Ethi",
+    "text": "የጦርነት ጥበብ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nnvhqq74.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6d5f388f-f17b-4069-a174-ab331aa36387DeadAid_Cover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a19fnsnc",
+     "name": "ስማቸው ተበጀ",
+     "role": "author",
+     "romanized": "semachew tebeje"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_nnvhqq74",
+   "id": "wk_nnvhqq74",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemote erdata",
+    "script": "Ethi",
+    "text": "የሞተ እርዳታ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

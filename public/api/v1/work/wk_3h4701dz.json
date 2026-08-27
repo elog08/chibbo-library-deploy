@@ -1,0 +1,104 @@
+{
+ "cover": {
+  "bytes": 58233,
+  "path": "assets/covers/wk_3h4701dz.jpg",
+  "sha256": "d963cb82895519c461d6a5a0963b4044aa190c3138a086986a0eb623a660d05b",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Kerkeresha.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_p9y23wsq",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Kerkeresha by Dr. Elias Samuel Matheos. Addis Books!"
+ },
+ "editions": [
+  "ed_h375egt7"
+ ],
+ "extensions": {},
+ "fingerprint": "kerkeresha|draliasamualmathaos",
+ "first_published": {
+  "edtf": "2023-08-27",
+  "original": {
+   "calendar": "gregorian",
+   "value": "August 27, 2023"
+  }
+ },
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_3h4701dz",
+ "id": "wk_3h4701dz",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6657"
+  ],
+  "isbn13": [
+   "9781777394172",
+   "9781981500819"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "kerkeresha-by-dr-elias-samuel-matheos",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/kerkeresha-by-dr-elias-samuel-matheos/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "10.99",
+   "provider": "addisbooks",
+   "ref": "kerkeresha-by-dr-elias-samuel-matheos",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/kerkeresha-by-dr-elias-samuel-matheos/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "1981500812",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/1981500812"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/kerkeresha-by-dr-elias-samuel-matheos/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Poetry"
+ ],
+ "title": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kerkeresha"
+  },
+  "romanized": "Kerkeresha",
+  "sort_key": "kerkeresha"
+ },
+ "type": "work"
+}

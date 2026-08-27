@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "abagubanya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tz5j4c6m",
+ "id": "pe_tz5j4c6m",
+ "identifiers": {
+  "wikidata": [
+   "Q2820823"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q2820823",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q2820823"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "am",
+   "provider": "wikipedia",
+   "ref": "አቤ_ጉበኛ",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://am.wikipedia.org/wiki/አቤ_ጉበኛ"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Abe_Gubegna",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Abe_Gubegna"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abe Gubenga",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤ ጉበኛ"
+  },
+  "romanized": "Abe Gubenga",
+  "sort_key": "አቤጉበኛ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_146hcdpa.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/History/and-lenatu-abe-gubenga.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_tz5j4c6m",
+     "name": "አቤ ጉበኛ",
+     "role": "author",
+     "romanized": "Abe Gubenga"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_146hcdpa",
+   "id": "wk_146hcdpa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned lenatu",
+    "script": "Ethi",
+    "text": "አንድ ለእናቱ"
+   },
+   "type": "work"
+  }
+ ]
+}

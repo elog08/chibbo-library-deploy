@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Mistre Aderaw is an Ethiopian writer based in Atlanta, Georgia, who gained recognition for her introspective debut book titled \"Ene\" (meaning \"Me\" or \"I\" in Amharic). Literary Work and Background \"Ene\" (እኔ): Released around 2025, the book is described by the author as a tool for personal healing and a \"ladder\" to lift herself from"
+ },
+ "extensions": {},
+ "fingerprint": "mistradaraw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m32z9g1x",
+ "id": "pe_m32z9g1x",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mistre-aderaw",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mistre-aderaw/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mistre-aderaw",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mistre-aderaw/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mistre Aderaw"
+  },
+  "romanized": "Mistre Aderaw",
+  "sort_key": "mistreaderaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 1898,
+  "path": "assets/portraits/pe_m32z9g1x.jpg",
+  "sha256": "313674104b81b0709e27d8493399775862ef8abd66c2f1854aceebb25d84ada1",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/mistree-e1777309091610.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/mistre-aderaw/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_475c8s4j.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/እኔ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_m32z9g1x",
+     "name": "Mistre Aderaw",
+     "role": "author",
+     "romanized": "Mistre Aderaw"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-08-08",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_475c8s4j",
+   "id": "wk_475c8s4j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "I",
+    "script": "Ethi",
+    "text": "እኔ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "በመተሐራ ስኳር ፋብሪካ /መርቲ/ ተወልዳ ያደገችው ገጣሚት ሳባ ሲሳይ ገና በልጅነት ዕድሜዋ የጽሑፍ ዝንባሌዋን ተረድታ በአዳማ /ናዝሬት/ ከተማ በሚገኙ የኪነ ጥበብ ቡድኖች ውስጥ የመጀመሪያ ልምምዷን የጀመረች ሲሆን በቀጣይ ራሷን ወደከፍተኛ ትምህርት በማሳደግ የቲያትር ጥበብ ትምህርትን የመከታተል እንዲሁም አ.አ ዩኒቨርሲቲ የባህል ማዕከልን ጨምሮ በበርካታ መድረኮች ስራዋን የማቅረብ ዕድል ነበራት በወቅቱ ባጋጠማት የጤና እክል ምክንያት ግቧን"
+ },
+ "extensions": {},
+ "fingerprint": "sabasisay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yty1z54z",
+ "id": "pe_yty1z54z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "saba-sisay",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/saba-sisay/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "saba-sisay",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/saba-sisay/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Saba Sisay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳባ ሲሳይ"
+  },
+  "romanized": "Saba Sisay",
+  "sort_key": "ሳባሲሳይ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 62331,
+  "path": "assets/portraits/pe_yty1z54z.jpg",
+  "sha256": "1a214f0abc77f07384e54bd2c91760f58b4ac15c1e7af6c806cbafd25842999c",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Saba-Sisay.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/saba-sisay/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jrhvgshm.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/yebirhantemona.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_yty1z54z",
+     "name": "ሳባ ሲሳይ",
+     "role": "author",
+     "romanized": "Saba Sisay"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-01-06",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_jrhvgshm",
+   "id": "wk_jrhvgshm",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeberhan temona",
+    "script": "Ethi",
+    "text": "የብርሃን ጥሞና"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

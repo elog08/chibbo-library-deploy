@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Adugna Hirpa is a prominent Ethiopian author, social change advocate, and motivational leader. He is the founder of Lemen Ethiopia, an organization focused on social change and self-empowerment. Books His literary work primarily focuses on motivational themes, psychology, and personal growth: ለምን?: አለመቻልን የምትፋለመው ትንሿ ጠጠር (Why?: The Little Pebble That Fights Impossibility): A Kindle"
+ },
+ "extensions": {},
+ "fingerprint": "adugnahirpa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8bsh110e",
+ "id": "pe_8bsh110e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "adugna-hirpa",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/adugna-hirpa/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "adugna-hirpa",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/adugna-hirpa/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Adugna Hirpa"
+  },
+  "romanized": "Adugna Hirpa",
+  "sort_key": "adugnahirpa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 87321,
+  "path": "assets/portraits/pe_8bsh110e.jpg",
+  "sha256": "ea7104f5686bbb0b40864e890f93287145e14a9b6f1dc429d83e8dd872b55dc8",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Adugna-hirpa.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/adugna-hirpa/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7nv1kwg8.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/lemn1.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_8bsh110e",
+     "name": "Adugna Hirpa",
+     "role": "author",
+     "romanized": "Adugna Hirpa"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-11-16",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_7nv1kwg8",
+   "id": "wk_7nv1kwg8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lemen? alemechalen yemetfalemew tenshwa teter",
+    "script": "Ethi",
+    "text": "ለምን? አለመቻልን የምትፋለመው ትንሿ ጠጠር"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

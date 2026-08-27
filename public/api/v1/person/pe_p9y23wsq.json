@@ -1,0 +1,95 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dr. Elias Samuel Matheos is an author known for his work exploring human conflict and social dichotomies through literature and poetry. Elias has also been active in literary communities, sharing poetry and reflections that resonate with social and cultural themes. Key Works \"Kerkeresha\": This is his most prominent book, which uses poetry to examine the"
+ },
+ "extensions": {},
+ "fingerprint": "draliasamualmathaos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p9y23wsq",
+ "id": "pe_p9y23wsq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "dr-elias-samuel-matheos",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/dr-elias-samuel-matheos/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "dr-elias-samuel-matheos",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/dr-elias-samuel-matheos/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Elias Samuel Matheos"
+  },
+  "romanized": "Dr. Elias Samuel Matheos",
+  "sort_key": "dreliassamuelmatheos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 259706,
+  "path": "assets/portraits/pe_p9y23wsq.jpg",
+  "sha256": "c176aab72aba986f373ab95f655ce044316b3b68719fef46c6a97613af0abf63",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Dr.-Elias-Samuel-Matheos.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/dr-elias-samuel-matheos/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3h4701dz.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Kerkeresha.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_p9y23wsq",
+     "name": "Dr. Elias Samuel Matheos",
+     "role": "author",
+     "romanized": "Dr. Elias Samuel Matheos"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-08-27",
+    "flags": []
+   },
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_3h4701dz",
+   "id": "wk_3h4701dz",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Kerkeresha",
+    "script": "Latn",
+    "text": "Kerkeresha"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

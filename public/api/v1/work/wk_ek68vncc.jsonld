@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ek68vncc",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Postcard History"
+ ],
+ "alternateName": [
+  "azebot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_8q0qrz06",
+   "@type": "Person",
+   "name": "ሲራክ ወንድሙ"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/0d5ef40c-319f-4b1a-bde6-1afd10032741AzebotBookCover.jpg",
+ "inLanguage": "am",
+ "name": "አዘቦት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "81.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0d5ef40c-319f-4b1a-bde6-1afd10032741"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0d5ef40c-319f-4b1a-bde6-1afd10032741"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/0d5ef40c-319f-4b1a-bde6-1afd10032741"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9g78rct2",
+   "@type": "Book"
+  }
+ ]
+}

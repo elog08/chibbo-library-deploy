@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nvhgzm85",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "agzuny!"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/af5b1530-1f61-4d2a-ab9f-631e7c77577aHelp_AmharicCover.png",
+ "inLanguage": "am",
+ "name": "አግዙኝ!",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "67.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/af5b1530-1f61-4d2a-ab9f-631e7c77577a"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/af5b1530-1f61-4d2a-ab9f-631e7c77577a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/af5b1530-1f61-4d2a-ab9f-631e7c77577a"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8cbtk21f",
+   "@type": "Book"
+  }
+ ]
+}

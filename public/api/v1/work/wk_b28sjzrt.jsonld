@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b28sjzrt",
+ "@type": "Book",
+ "about": [
+  "Fiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yw4x0wt6",
+   "@type": "Person",
+   "name": "Bethlehem Attfield"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_a901d0w8",
+   "@type": "Person",
+   "name": "አዳም ረታ"
+  }
+ ],
+ "datePublished": "2025-09-21",
+ "description": "Couch Grass, a book by Adam Reta, Translated by Bethlehem Attfield.",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/couch-grass-adam-reta.jpg",
+ "inLanguage": "en",
+ "isbn": "9781068575945",
+ "name": "Adam Reta's Couch Grass Translated",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/adam-retas-couch-grass-translated-by-bethlehem-attfield/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/1916218628"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/adam-retas-couch-grass-translated-by-bethlehem-attfield/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2twc8ezw",
+   "@type": "Book"
+  }
+ ]
+}

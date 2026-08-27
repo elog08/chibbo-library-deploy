@@ -1,0 +1,138 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "EthioQuest Adventures aims to educate and engage children by introducing them to the diverse geograp... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "athioquastadvanturas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j4k95hep",
+ "id": "pe_j4k95hep",
+ "identifiers": {
+  "afroread_id": [
+   "96fa2eba-0f6f-406f-f7c7-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "96fa2eba-0f6f-406f-f7c7-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/96fa2eba-0f6f-406f-f7c7-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "96fa2eba-0f6f-406f-f7c7-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/96fa2eba-0f6f-406f-f7c7-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "EthioQuest Adventures"
+  },
+  "romanized": "EthioQuest Adventures",
+  "sort_key": "ethioquestadventures"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 110260,
+  "path": "assets/portraits/pe_j4k95hep.png",
+  "sha256": "974e2f76c1847170b2adc2ea1678e59c3c0d7b55df18af55795cbfb8bd695db8",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/59efdf23-b8ea-4f9d-b79e-df093868aaedEthioQuestAdventuresLogo320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/96fa2eba-0f6f-406f-f7c7-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_d42myw3n.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/a4235696-bc42-4ec0-9b2a-e134ded9b687TheMagicalVoyagetoHararBookCover3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j4k95hep",
+     "name": "EthioQuest Adventures",
+     "role": "author",
+     "romanized": "EthioQuest Adventures"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2024?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d42myw3n",
+   "id": "wk_d42myw3n",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Magical Voyage to Harar",
+    "script": "Latn",
+    "text": "The Magical Voyage to Harar"
+   },
+   "type": "work",
+   "year": 2024
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_w18mch1n.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/69e2997e-3bf1-4572-82f1-c3fd19b4fa3aBaleMountainBookCover420.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j4k95hep",
+     "name": "EthioQuest Adventures",
+     "role": "author",
+     "romanized": "EthioQuest Adventures"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w18mch1n",
+   "id": "wk_w18mch1n",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Secrets of the Bale Mountain Highlands",
+    "script": "Latn",
+    "text": "Secrets of the Bale Mountain Highlands"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

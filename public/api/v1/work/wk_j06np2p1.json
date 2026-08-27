@@ -1,0 +1,110 @@
+{
+ "cover": {
+  "bytes": 126881,
+  "path": "assets/covers/wk_j06np2p1.jpg",
+  "sha256": "a136337e59e96ac69343c659510feb8acc599b86b41c3e08a6f188b6659de9c3",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Zamra-ዛምራ-by-Yismake-Worku-.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xqdr1zsg",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Zamra ዛምራ by Yismake Worku . Addis Books!"
+ },
+ "editions": [
+  "ed_z6r41rjq"
+ ],
+ "extensions": {},
+ "fingerprint": "ዛምራ|yismakaworku",
+ "first_published": {
+  "edtf": "2025-03-07",
+  "original": {
+   "calendar": "gregorian",
+   "value": "March 7, 2025"
+  }
+ },
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_j06np2p1",
+ "id": "wk_j06np2p1",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6910"
+  ],
+  "isbn13": [
+   "9781916218628"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "zamra-by-yismake-worku",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/zamra-by-yismake-worku/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "25.00",
+   "provider": "addisbooks",
+   "ref": "zamra-by-yismake-worku",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/zamra-by-yismake-worku/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "B0F14BPFC1",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/B0F14BPFC1"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/zamra-by-yismake-worku/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Zamra",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዛምራ"
+  },
+  "romanized": "Zamra",
+  "sort_key": "ዛምራ"
+ },
+ "type": "work"
+}

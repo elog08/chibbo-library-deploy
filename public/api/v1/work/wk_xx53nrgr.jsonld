@@ -1,0 +1,82 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xx53nrgr",
+ "@type": "Book",
+ "about": [
+  "Non Fiction",
+  "Religion",
+  "Sociology",
+  "Spiritual"
+ ],
+ "alternateName": [
+  "zewe"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k1c8rn6p",
+   "@type": "Person",
+   "name": "ዝጋለ አያሌው"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/3e8427ae-e648-465a-b43d-25c604e024a7ZewiBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ዘዌ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3e8427ae-e648-465a-b43d-25c604e024a7"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3e8427ae-e648-465a-b43d-25c604e024a7"
+  },
+  {
+   "@type": "Offer",
+   "price": "125.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e02c48ee-6b5e-462b-adf0-5489c09582fa"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e02c48ee-6b5e-462b-adf0-5489c09582fa"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/3e8427ae-e648-465a-b43d-25c604e024a7",
+  "https://afroreadapp.com/Store/Bookdetail/e02c48ee-6b5e-462b-adf0-5489c09582fa"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vjh0m51f",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_1xgp8dp1",
+   "@type": "Book"
+  }
+ ]
+}

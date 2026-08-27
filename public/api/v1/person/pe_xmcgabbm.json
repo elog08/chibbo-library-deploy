@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "በመጀመሪያ የቀለም ነቄን የከፈትኩት ሰፈራችን ካለች የኪዳነ ምህረት ደብር ቅጥር ግቢ ፊደል ከሚያስቆጥሩ ደብተራ ቀጸላ ዘንድ አቡጊዳና መልዕክተ ዮሐንስን በማዜ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "magbarsiraj",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xmcgabbm",
+ "id": "pe_xmcgabbm",
+ "identifiers": {
+  "afroread_id": [
+   "5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "megbar siraj",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምግባር ሲራጅ"
+  },
+  "romanized": "megbar siraj",
+  "sort_key": "ምግባርሲራጅ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 60863,
+  "path": "assets/portraits/pe_xmcgabbm.png",
+  "sha256": "1fbdcc834c236986ca2f049b22b814d51de7104990d57f61fe47a86400ab4283",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/MigbarSiraj320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5a5a4cbd-bbf4-44af-aac0-08d8ef8e7b02"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wf6sx84y.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/a5e96611-0dc2-4a67-a017-96f4b9c6216fZenbabaCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_xmcgabbm",
+     "name": "ምግባር ሲራጅ",
+     "role": "author",
+     "romanized": "megbar siraj"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wf6sx84y",
+   "id": "wk_wf6sx84y",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zenbaba",
+    "script": "Ethi",
+    "text": "ዘንባባ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

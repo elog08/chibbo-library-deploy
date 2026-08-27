@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zfrfzaac",
+ "@type": "Book",
+ "about": [
+  "Memoir",
+  "Religious"
+ ],
+ "alternateName": [
+  "ewen ene bequ neny?"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_tjgj0z2f",
+   "@type": "Person",
+   "name": "Hamrawit Tesfa"
+  }
+ ],
+ "datePublished": "2025-12-16",
+ "description": "እውን እኔ ብቁ ነኝ? በሐምራዊት ተስፋ Book by Hamrawit Tesfa",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/Ewin-enie-biku-negn-book-by-Hamrawit-Tesfa.jpg",
+ "inLanguage": "am",
+ "name": "እውን እኔ ብቁ ነኝ?",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/ewin-enie-biku-negn-book-by-hamrawit-tesfa/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B0G6YPDM6M"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/ewin-enie-biku-negn-book-by-hamrawit-tesfa/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yqc5sspd",
+   "@type": "Book"
+  }
+ ]
+}

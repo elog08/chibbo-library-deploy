@@ -1,0 +1,76 @@
+{
+ "extensions": {},
+ "fingerprint": "alialamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j4gqrkkf",
+ "id": "pe_j4gqrkkf",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ali Mamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዓሊ ዓለሙ"
+  },
+  "romanized": "Ali Mamo",
+  "sort_key": "አሊአለሙ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6h9ha8x0.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Poetry/arba-jeraf-ali-mamo.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_j4gqrkkf",
+     "name": "ዓሊ ዓለሙ",
+     "role": "author",
+     "romanized": "Ali Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6h9ha8x0",
+   "id": "wk_6h9ha8x0",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "arba jeraf",
+    "script": "Ethi",
+    "text": "አርባ ጅራፍ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

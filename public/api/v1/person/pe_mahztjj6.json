@@ -1,0 +1,112 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ማሩ እንዳለ ባልቻ አቃቂ መሃል ከተማ በወርሃ ጥር 1963 ዓ.ም እግዚአብሔር መልካም ፍቃዱ ሆኖ ወደዚህች ምድር መጣ ከልጅነቱ ጀምሮ በኪነ ጥበቡ ዘርፍ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "maruandalabalcha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mahztjj6",
+ "id": "pe_mahztjj6",
+ "identifiers": {
+  "afroread_id": [
+   "d9a945ab-6711-499c-7303-08dbabe33128"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d9a945ab-6711-499c-7303-08dbabe33128",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d9a945ab-6711-499c-7303-08dbabe33128"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d9a945ab-6711-499c-7303-08dbabe33128",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d9a945ab-6711-499c-7303-08dbabe33128"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "maru endale balcha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማሩ እንዳለ ባልቻ"
+  },
+  "romanized": "maru endale balcha",
+  "sort_key": "ማሩእንዳለባልቻ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 12569,
+  "path": "assets/portraits/pe_mahztjj6.jpg",
+  "sha256": "e32895deb7e918be95abf2a1644ddc8e99ff63adc2d1602a55171b4687dcc886",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/cf9525ae-8713-4c98-b78d-e67f38c43ddbMaruEndaleProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/d9a945ab-6711-499c-7303-08dbabe33128"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_nga7ghdc.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/9aa29dba-990a-4ba5-9327-4e6a3bfd8d0dSakishYinageralBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_mahztjj6",
+     "name": "ማሩ እንዳለ ባልቻ",
+     "role": "author",
+     "romanized": "maru endale balcha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_nga7ghdc",
+   "id": "wk_nga7ghdc",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "saqesh yenageral",
+    "script": "Ethi",
+    "text": "ሳቅሽ ይናገራል"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

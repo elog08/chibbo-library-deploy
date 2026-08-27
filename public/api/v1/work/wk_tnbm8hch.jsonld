@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_tnbm8hch",
+ "@type": "Book",
+ "about": [
+  "Kids"
+ ],
+ "alternateName": [
+  "amarnya"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ayk78vqn",
+   "@type": "Person",
+   "name": "Melkam Media"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/0fd84b9d-5647-4a77-a184-be4879111c24AmharicCoverH400.png",
+ "inLanguage": "am",
+ "name": "አማርኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "64.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0fd84b9d-5647-4a77-a184-be4879111c24"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0fd84b9d-5647-4a77-a184-be4879111c24"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/0fd84b9d-5647-4a77-a184-be4879111c24"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6aj0rpn5",
+   "@type": "Book"
+  }
+ ]
+}

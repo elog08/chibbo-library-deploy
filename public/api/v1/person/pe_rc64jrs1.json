@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የቶኔቶር መፅሀፍ ፀሀፊ የሆነዉ ቤካ ሙሉነህ ተረፈ በ1991 ዓ.ም. በወሊሶ ከተማ ተወለደ የአንደኛና የሁለተኛ ደረጃ ትምህርቱንም በዚሁ ከተማ ያጠናቀቀ ሲሆ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "bakamulunah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rc64jrs1",
+ "id": "pe_rc64jrs1",
+ "identifiers": {
+  "afroread_id": [
+   "afdbc36a-d4d6-4254-183e-08dabab255a0"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "afdbc36a-d4d6-4254-183e-08dabab255a0",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/afdbc36a-d4d6-4254-183e-08dabab255a0"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "afdbc36a-d4d6-4254-183e-08dabab255a0",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/afdbc36a-d4d6-4254-183e-08dabab255a0"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beka muluneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቤካ ሙሉነህ"
+  },
+  "romanized": "beka muluneh",
+  "sort_key": "ቤካሙሉነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 61748,
+  "path": "assets/portraits/pe_rc64jrs1.png",
+  "sha256": "1de159c07e2adef14d552d5b3728b89a76aa09f04e169151e17e39e28edfb7ad",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/3d638d25-0227-4f52-b742-57b960c412d7BekaMulunehpic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/afdbc36a-d4d6-4254-183e-08dabab255a0"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_x8yrgrqk.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/240547c4-4931-4c0f-adc6-ac018f7a89edTonetorBook Cover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rc64jrs1",
+     "name": "ቤካ ሙሉነህ",
+     "role": "author",
+     "romanized": "beka muluneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x8yrgrqk",
+   "id": "wk_x8yrgrqk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tonetor",
+    "script": "Ethi",
+    "text": "ቶኔቶር"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "bagarmakuryaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zzvd8g4b",
+ "id": "pe_zzvd8g4b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Beager Mekuryaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በአገር መኩርያው"
+  },
+  "romanized": "Beager Mekuryaw",
+  "sort_key": "በአገርመኩርያው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_j443hkta.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Business/marketing-dr-abush-ayalew-and-beager-mekuryaw.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    },
+    {
+     "id": "pe_zzvd8g4b",
+     "name": "በአገር መኩርያው",
+     "role": "author",
+     "romanized": "Beager Mekuryaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j443hkta",
+   "id": "wk_j443hkta",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "marketineg",
+    "script": "Ethi",
+    "text": "ማርኬቲንግ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሄኖክ አምዴ አካለወርቅ ተወልዶ ያደገው ኢትዮጵያ አዲስ አበባ ሲሆን \"ሊሴ ገብረ ማርያም\" ከመዋለ ሕጻናት እስከ ስምንተኛ ክፍል ተምሯል ከዚያ በመቀጠል የሁለ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "hanokamdakalawaraq",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x6z01q6s",
+ "id": "pe_x6z01q6s",
+ "identifiers": {
+  "afroread_id": [
+   "662ca572-c7c2-41ce-3628-08dab86d3382"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "662ca572-c7c2-41ce-3628-08dab86d3382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/662ca572-c7c2-41ce-3628-08dab86d3382"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "662ca572-c7c2-41ce-3628-08dab86d3382",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/662ca572-c7c2-41ce-3628-08dab86d3382"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "henok amde akalewereq",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሄኖክ አምዴ አካለወርቅ"
+  },
+  "romanized": "henok amde akalewereq",
+  "sort_key": "ሄኖክአምዴአካለወርቅ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 57594,
+  "path": "assets/portraits/pe_x6z01q6s.png",
+  "sha256": "f6f688a67a169bf2686675dc4872de5b7eca8c20081ba95850b754536e3bb73e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/be77ef3a-8438-41b0-b055-d91d4c4a58f5HenokAmdeBioPhoto320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/662ca572-c7c2-41ce-3628-08dab86d3382"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_gpkzrpyr.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/9e951e4c-dbac-45a6-b65c-4b2e863e385cMindingTheMindBookcoverEng.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x6z01q6s",
+     "name": "ሄኖክ አምዴ አካለወርቅ",
+     "role": "author",
+     "romanized": "henok amde akalewereq"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2022?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gpkzrpyr",
+   "id": "wk_gpkzrpyr",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Minding the Mind",
+    "script": "Latn",
+    "text": "Minding the Mind"
+   },
+   "type": "work",
+   "year": 2022
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_k4ed63g3.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/d60248db-bd67-4bca-9b77-296541cd3fdbwederasmemelesBookcover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x6z01q6s",
+     "name": "ሄኖክ አምዴ አካለወርቅ",
+     "role": "author",
+     "romanized": "henok amde akalewereq"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_k4ed63g3",
+   "id": "wk_k4ed63g3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wederas memeles",
+    "script": "Ethi",
+    "text": "ወደራስ መመለስ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

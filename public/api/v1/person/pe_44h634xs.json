@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ደሴ አዳም በ1981 ዓ.ም በቡሬ ከተማ የተወለደ ሲሆን በአዲስ አበባ ዩኒቨርስቲ procurement and supply management የመጀመሪያ ድግሪ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dasadam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_44h634xs",
+ "id": "pe_44h634xs",
+ "identifiers": {
+  "afroread_id": [
+   "cab57e97-edf9-4c3a-f7c1-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "cab57e97-edf9-4c3a-f7c1-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/cab57e97-edf9-4c3a-f7c1-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "cab57e97-edf9-4c3a-f7c1-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/cab57e97-edf9-4c3a-f7c1-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dese adam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደሴ አዳም"
+  },
+  "romanized": "dese adam",
+  "sort_key": "ደሴአዳም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 9622,
+  "path": "assets/portraits/pe_44h634xs.jpg",
+  "sha256": "ad4e5d53ccbe6e4ff364e1241dcf070216b6ff3bd350f0376d0a81220171ff6e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/a1ffce6a-5c20-495f-b175-822908be0991DesieAdam320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/cab57e97-edf9-4c3a-f7c1-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_y00mm1t2.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/18326fb1-e762-4078-9f7a-e31b0a6c66efYemotMedhanitBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_44h634xs",
+     "name": "ደሴ አዳም",
+     "role": "author",
+     "romanized": "dese adam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y00mm1t2",
+   "id": "wk_y00mm1t2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemot medhenit",
+    "script": "Ethi",
+    "text": "የሞት መድሀኒት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

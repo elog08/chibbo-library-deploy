@@ -1,0 +1,57 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8wc1x1st",
+ "@type": "Book",
+ "about": [
+  "History",
+  "Literature",
+  "Philosophy",
+  "Religion"
+ ],
+ "alternateName": [
+  "hesesa"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_w4ss1mqt",
+   "@type": "Person",
+   "name": "ህይወት ተፈራ"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/63b21a66-3d47-4988-ad44-23d47c69faa0HasesaCoverImage.jpg",
+ "inLanguage": "am",
+ "name": "ኀሠሣ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "99.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/63b21a66-3d47-4988-ad44-23d47c69faa0"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/63b21a66-3d47-4988-ad44-23d47c69faa0"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/63b21a66-3d47-4988-ad44-23d47c69faa0"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2j330843",
+   "@type": "Book"
+  }
+ ]
+}

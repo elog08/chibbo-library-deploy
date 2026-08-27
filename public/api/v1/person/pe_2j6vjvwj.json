@@ -1,0 +1,149 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ታሪኩ ከበደ የተወለደው በ1983 ፈረንሳይ ለጋሲዮን ጉራራ እየተባለ በሚጠራው አካባቢ ሲሆን እድሜው ለትምህርት ሲደርስ የመጀመሪያ ደረጃ ትምህርቱን አቦ (መካነ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tarikukabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2j6vjvwj",
+ "id": "pe_2j6vjvwj",
+ "identifiers": {
+  "afroread_id": [
+   "0d9b4694-0309-4a33-be20-08da72fc2d37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0d9b4694-0309-4a33-be20-08da72fc2d37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0d9b4694-0309-4a33-be20-08da72fc2d37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0d9b4694-0309-4a33-be20-08da72fc2d37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0d9b4694-0309-4a33-be20-08da72fc2d37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tariku kebede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታሪኩ ከበደ"
+  },
+  "romanized": "tariku kebede",
+  "sort_key": "ታሪኩከበደ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 59563,
+  "path": "assets/portraits/pe_2j6vjvwj.png",
+  "sha256": "067ce560546b45e0938250954df81bd17c48fd1bc74919a412120a6b75e65a78",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/0663c5ba-b6af-496d-980f-39ddf9dfeffdTarikuKebedeProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/0d9b4694-0309-4a33-be20-08da72fc2d37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b6hbm1s9.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/9385785c-3d3c-4fac-8b0e-47c6221d37eeEjemaneshaaBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2j6vjvwj",
+     "name": "ታሪኩ ከበደ",
+     "role": "author",
+     "romanized": "tariku kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b6hbm1s9",
+   "id": "wk_b6hbm1s9",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ej mensha",
+    "script": "Ethi",
+    "text": "እጅ መንሻ"
+   },
+   "type": "work",
+   "year": 2008
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xjgx0fgm.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/c319bf74-b0b6-447c-b58f-8b3d7be1c094MelknaFidelBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2j6vjvwj",
+     "name": "ታሪኩ ከበደ",
+     "role": "author",
+     "romanized": "tariku kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xjgx0fgm",
+   "id": "wk_xjgx0fgm",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "melek ena fidel",
+    "script": "Ethi",
+    "text": "መልክ እና ፊደል"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

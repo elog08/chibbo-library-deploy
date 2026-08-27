@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Mesfin Wondwossen. is a part-time writer with a background in legal studies. He has published two books, a collection of Amharic poems."
+ },
+ "extensions": {},
+ "fingerprint": "masfinwondwosan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q47784tk",
+ "id": "pe_q47784tk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mesfin-wondwossen",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mesfin-wondwossen/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "mesfin-wondwossen",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/mesfin-wondwossen/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin Wondwossen"
+  },
+  "romanized": "Mesfin Wondwossen",
+  "sort_key": "mesfinwondwossen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 117409,
+  "path": "assets/portraits/pe_q47784tk.jpg",
+  "sha256": "ea4428dc725c7799efe2210378201a26baed422bcde1f32bbd9e36b3637e7e72",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/1770815213134.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/mesfin-wondwossen/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a3bewr5x.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/1770815218569.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_q47784tk",
+     "name": "Mesfin Wondwossen",
+     "role": "author",
+     "romanized": "Mesfin Wondwossen"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024-03-05",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_a3bewr5x",
+   "id": "wk_a3bewr5x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Shemune",
+    "script": "Latn",
+    "text": "Shemune"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

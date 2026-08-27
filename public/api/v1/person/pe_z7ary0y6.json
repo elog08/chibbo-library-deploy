@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ጸሀፊው እንደ ኢትዮጵያውያኑ አቆጣጠር በ1981 ዓ.ም በአዲስ አበባ በተለምዶ ንፋስ ስልክ ተብሎ በሚጠራው አካባቢ ተወለደ ከመዋዕለ-ህጻናት እስከ 12ኛ ክፍ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "armiyasgatnat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z7ary0y6",
+ "id": "pe_z7ary0y6",
+ "identifiers": {
+  "afroread_id": [
+   "21a93fd0-84bc-49e0-1773-08db6945a203"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "21a93fd0-84bc-49e0-1773-08db6945a203",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/21a93fd0-84bc-49e0-1773-08db6945a203"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "21a93fd0-84bc-49e0-1773-08db6945a203",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/21a93fd0-84bc-49e0-1773-08db6945a203"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ermiyas getnet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤርሚያስ ጌትነት"
+  },
+  "romanized": "ermiyas getnet",
+  "sort_key": "ኤርሚያስጌትነት"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 10011,
+  "path": "assets/portraits/pe_z7ary0y6.jpg",
+  "sha256": "3944c3c022d9d1e3944f615f3566f7da529722c34d989525e9ec3a518d628666",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/9d09e4aa-5a5b-4d6b-b73e-dfe061f9ad41ErmiasProfilePhoto320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/21a93fd0-84bc-49e0-1773-08db6945a203"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_d4zeg27e.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a8b076d7-fa27-47ee-b41a-14c711e63638ManegnBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_z7ary0y6",
+     "name": "ኤርሚያስ ጌትነት",
+     "role": "author",
+     "romanized": "ermiyas getnet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d4zeg27e",
+   "id": "wk_d4zeg27e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "maneny",
+    "script": "Ethi",
+    "text": "ማነኝ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vbftt8wb.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2bc959ac-edf0-43c0-a1a6-6e5f694489f9YaltekwachewTesfaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_z7ary0y6",
+     "name": "ኤርሚያስ ጌትነት",
+     "role": "author",
+     "romanized": "ermiyas getnet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vbftt8wb",
+   "id": "wk_vbftt8wb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yalteqwachew tesfa",
+    "script": "Ethi",
+    "text": "ያልተቋጨው ተስፋ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

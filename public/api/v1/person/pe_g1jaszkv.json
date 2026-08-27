@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "malakualam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g1jaszkv",
+ "id": "pe_g1jaszkv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "melaku alem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መላኩ አለም"
+  },
+  "romanized": "melaku alem",
+  "sort_key": "መላኩአለም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cfm5bq2w.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2025/f5221076-8dc4-48d2-a1f3-756d7052bfbcBookCoverImageFile"
+   },
+   "credits": [
+    {
+     "id": "pe_g1jaszkv",
+     "name": "መላኩ አለም",
+     "role": "author",
+     "romanized": "melaku alem"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cfm5bq2w",
+   "id": "wk_cfm5bq2w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebaleseltanochu teqes",
+    "script": "Ethi",
+    "text": "የባለስልጣኖቹ ጥቅስ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

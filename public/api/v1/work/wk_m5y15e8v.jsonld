@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_m5y15e8v",
+ "@type": "Book",
+ "about": [
+  "Children"
+ ],
+ "alternateName": [
+  "bale washentu erenya"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2fs7hjse",
+   "@type": "Person",
+   "name": "ትክክል ገና"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%89%A3%E1%88%88_%E1%8B%8B%E1%88%BD%E1%8A%95%E1%89%B1_%E1%8A%A5%E1%88%A8%E1%8A%9B.jpg",
+ "inLanguage": "am",
+ "name": "ባለ ዋሽንቱ እረኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "40.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_63"
+  },
+  {
+   "@type": "Offer",
+   "price": "40.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_63"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_63"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_964escys",
+   "@type": "Book"
+  }
+ ]
+}

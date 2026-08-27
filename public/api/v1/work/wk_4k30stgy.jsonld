@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4k30stgy",
+ "@type": "Book",
+ "about": [
+  "Business"
+ ],
+ "alternateName": [
+  "keweled netsa banekna inshuranes"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_80y82xjz",
+   "@type": "Person",
+   "name": "መሐመድ መብራት እንድሪስ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8A%A8%E1%8B%88%E1%88%88%E1%8B%B5_%E1%8A%90%E1%8D%83_%E1%89%A3%E1%8A%95%E1%8A%AD%E1%8A%93_%E1%8A%A2%E1%8A%95%E1%88%B9%E1%88%AB%E1%8A%95%E1%88%B5.jpg",
+ "inLanguage": "am",
+ "name": "ከወለድ ነፃ ባንክና ኢንሹራንስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_121"
+  },
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_121"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_121"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xc6bh68n",
+   "@type": "Book"
+  }
+ ]
+}

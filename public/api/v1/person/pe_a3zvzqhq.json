@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "በምሥራቅ ሸዋ ቆቃ የተወለደው ቴዎድሮስ በየነ አስፋው ከ1ኛ እስከ 8ኛ ክፍል ቆቃ ነግዎ አንደኛና መለስተኛ ሁለተኛ ትምህርት ቤት የሁለተኛ ደረጃ ትምህርቱ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tawodrosbayana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a3zvzqhq",
+ "id": "pe_a3zvzqhq",
+ "identifiers": {
+  "afroread_id": [
+   "26a58571-f8f4-4a6d-ab13-08da9cf8cd07"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "26a58571-f8f4-4a6d-ab13-08da9cf8cd07",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/26a58571-f8f4-4a6d-ab13-08da9cf8cd07"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "26a58571-f8f4-4a6d-ab13-08da9cf8cd07",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/26a58571-f8f4-4a6d-ab13-08da9cf8cd07"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tewodros beyene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቴዎድሮስ በየነ"
+  },
+  "romanized": "tewodros beyene",
+  "sort_key": "ቴዎድሮስበየነ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 48613,
+  "path": "assets/portraits/pe_a3zvzqhq.png",
+  "sha256": "734536481871483b185a320983470a437855bd36e966462796ad7412a2bb7db8",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/15044e0a-8917-4f37-baf8-0d45c63f9092TewodrosBeyeneProfilePIc320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/26a58571-f8f4-4a6d-ab13-08da9cf8cd07"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7hm9wn54.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/fe3c535f-d9fc-4b7e-881b-98de414c8546HiberEthiopia1BookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a3zvzqhq",
+     "name": "ቴዎድሮስ በየነ",
+     "role": "author",
+     "romanized": "tewodros beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7hm9wn54",
+   "id": "wk_7hm9wn54",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hebre ityopya 1",
+    "script": "Ethi",
+    "text": "ኅብረ ኢትዮጵያ 1"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

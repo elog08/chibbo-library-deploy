@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ወይንሸት በየነ ዘውዴ ከአዲስ አበባ ዩንቨርስቲ የመጀመሪያ ዲፕሎማዋን በ1995 ዓ.ም ከኢትዮጵያ ቋንቋና ስነ ጽሑፍ ክፍል በቋንቋና ስነ ጽሑፍ አገኘች የመጀ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "wayanshatbayana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ynbnjp8w",
+ "id": "pe_ynbnjp8w",
+ "identifiers": {
+  "afroread_id": [
+   "08a645d8-2e23-413e-987e-08da6b7fd9aa"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "08a645d8-2e23-413e-987e-08da6b7fd9aa",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/08a645d8-2e23-413e-987e-08da6b7fd9aa"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "08a645d8-2e23-413e-987e-08da6b7fd9aa",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/08a645d8-2e23-413e-987e-08da6b7fd9aa"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "weyenshet beyene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወይንሸት በየነ"
+  },
+  "romanized": "weyenshet beyene",
+  "sort_key": "ወይንሸትበየነ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 50639,
+  "path": "assets/portraits/pe_ynbnjp8w.png",
+  "sha256": "6525462faa644b999752db723bcd32f77f2a6bdf4a7c87d61df34507d9f693b5",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/79bca81e-06cd-440e-bb98-18380fb5509fWoienshetProfilePicture320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/08a645d8-2e23-413e-987e-08da6b7fd9aa"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0jr385gg.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/93eed44f-230c-452b-b79b-d364099d2bd1WoynshetMisaleweAnegagerBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ynbnjp8w",
+     "name": "ወይንሸት በየነ",
+     "role": "author",
+     "romanized": "weyenshet beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0jr385gg",
+   "id": "wk_0jr385gg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemsaleyawi anegager sene-fechawi faydana anedemta",
+    "script": "Ethi",
+    "text": "የምሳሌያዊ አነጋገር ሥነ-ፍቻዊ ፋይዳና አንድምታ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fy3sxvsk",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "History",
+  "Literature"
+ ],
+ "alternateName": [
+  "menetwab"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_w4ss1mqt",
+   "@type": "Person",
+   "name": "ህይወት ተፈራ"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/04953ac5-ce69-44fb-aeec-6ce1cecdd814MintewabCoverImage320.png",
+ "inLanguage": "am",
+ "name": "ምንትዋብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/04953ac5-ce69-44fb-aeec-6ce1cecdd814"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/04953ac5-ce69-44fb-aeec-6ce1cecdd814"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/-mintewab-hiwot-teferra"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/04953ac5-ce69-44fb-aeec-6ce1cecdd814",
+  "https://www.ethiobookreview.com/book/-mintewab-hiwot-teferra"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_acq9pcnw",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_yhaphk6d",
+   "@type": "Book"
+  }
+ ]
+}

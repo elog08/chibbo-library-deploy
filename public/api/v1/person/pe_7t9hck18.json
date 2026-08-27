@@ -1,0 +1,64 @@
+{
+ "extensions": {},
+ "fingerprint": "wasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7t9hck18",
+ "id": "pe_7t9hck18",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Wase",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዋሴ"
+  },
+  "romanized": "Wase",
+  "sort_key": "ዋሴ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_m095keny.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/satinael-goal-ethiopia.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_7t9hck18",
+     "name": "ዋሴ",
+     "role": "author",
+     "romanized": "Wase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_m095keny",
+   "id": "wk_m095keny",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "satnael gol ityopya",
+    "script": "Ethi",
+    "text": "ሳጥናኤል ጎል ኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

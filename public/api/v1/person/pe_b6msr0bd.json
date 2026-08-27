@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ምሕረት አቤሴሎም በሙያዋ የኢንፎርሜሽን ቴክኖሎጂ ባለሙያ ናት ከአዲስ አበባ ዩኒቨርሲቲ በኮምፒዩተር ሳይንስ የመጀመሪያ ዲግሪዋን ስትይዝ ከደቡብ አፍሪካ ዩኒቨ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "mahratabasalom",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b6msr0bd",
+ "id": "pe_b6msr0bd",
+ "identifiers": {
+  "afroread_id": [
+   "6354cc53-8816-46b2-f7c5-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6354cc53-8816-46b2-f7c5-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6354cc53-8816-46b2-f7c5-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6354cc53-8816-46b2-f7c5-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6354cc53-8816-46b2-f7c5-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mehret abeselom",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምሕረት አቤሴሎም"
+  },
+  "romanized": "mehret abeselom",
+  "sort_key": "ምህረትአቤሴሎም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 19652,
+  "path": "assets/portraits/pe_b6msr0bd.jpg",
+  "sha256": "696c5d4e7034184c9f1e4df243fe34cac6bdc8baead1c00155cf26f02474d91e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/ff792b6e-0d55-4019-a550-c02be2a14b9eMehertAbeselomProfilePhoto320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/6354cc53-8816-46b2-f7c5-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2tazyrn9.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a1c11025-fb34-4085-87a4-d1939577854fBeYikatitTatachinKitetBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_b6msr0bd",
+     "name": "ምሕረት አቤሴሎም",
+     "role": "author",
+     "romanized": "mehret abeselom"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_2tazyrn9",
+   "id": "wk_2tazyrn9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beyekatit tatachen ketet",
+    "script": "Ethi",
+    "text": "በየካቲት ጣጣችን ክትት"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

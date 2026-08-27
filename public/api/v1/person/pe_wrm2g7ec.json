@@ -1,0 +1,93 @@
+{
+ "extensions": {},
+ "fingerprint": "mohamadhasan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wrm2g7ec",
+ "id": "pe_wrm2g7ec",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "mohammed-hassen",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/mohammed-hassen"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "mohammed-hassen",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/mohammed-hassen"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Mohammed Hassen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሞሃመድ ሀሰን"
+  },
+  "romanized": "Mohammed Hassen",
+  "sort_key": "ሞሀመድሀሰን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview",
+  "source_url": "https://www.ethiobookreview.com/authors/profile/mohammed-hassen"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4tcbacby.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/sewuyew-mohammed-hassen.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_wrm2g7ec",
+     "name": "ሞሃመድ ሀሰን",
+     "role": "author",
+     "romanized": "Mohammed Hassen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2019?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4tcbacby",
+   "id": "wk_4tcbacby",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewyew",
+    "script": "Ethi",
+    "text": "ሰውየው"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

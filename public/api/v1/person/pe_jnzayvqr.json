@@ -1,0 +1,112 @@
+{
+ "extensions": {},
+ "fingerprint": "asakanadarnaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jnzayvqr",
+ "id": "pe_jnzayvqr",
+ "identifiers": {
+  "wikidata": [
+   "Q3058057"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q3058057",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q3058057"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "am",
+   "provider": "wikipedia",
+   "ref": "እስክንድር_ነጋ",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://am.wikipedia.org/wiki/እስክንድር_ነጋ"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Eskinder_Nega",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Eskinder_Nega"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Eskinder Nega",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እስክንድር ነጋ"
+  },
+  "romanized": "Eskinder Nega",
+  "sort_key": "እስክንድርነጋ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 126797,
+  "path": "assets/portraits/pe_jnzayvqr.jpg",
+  "sha256": "c84f61195787255a41226d4667573c5e2d0ea61223748c74862db9e583fbf19c",
+  "source_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Eskinder-nega-activism-banner-1600x862.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k8a6869q.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/dil-le-democracy-eskinder-nega.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_jnzayvqr",
+     "name": "እስክንድር ነጋ",
+     "role": "author",
+     "romanized": "Eskinder Nega"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k8a6869q",
+   "id": "wk_k8a6869q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "del ledimokrasi",
+    "script": "Ethi",
+    "text": "ድል ለዲሞክራሲ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

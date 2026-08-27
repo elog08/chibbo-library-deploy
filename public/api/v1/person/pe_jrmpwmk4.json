@@ -1,0 +1,160 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Eden Habtamu is an Addis Ababa-born author, journalist, and holistic life coach. She is recognized in the Ethiopian literary community for her work focusing on personal growth, communication, and wellness. Notable Works & Contributions \"Maleda Dejaf Lay\" (ማለዳ ደጃፍ ላይ): Her most prominent Amharic book. Journalism & Media: She has an extensive background as a"
+ },
+ "extensions": {},
+ "fingerprint": "adanhabtamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jrmpwmk4",
+ "id": "pe_jrmpwmk4",
+ "identifiers": {
+  "afroread_id": [
+   "b2a820d7-006f-4e40-a755-08d9860e4f3f"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "eden-habtamu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/eden-habtamu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "eden-habtamu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/eden-habtamu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "b2a820d7-006f-4e40-a755-08d9860e4f3f",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/b2a820d7-006f-4e40-a755-08d9860e4f3f"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "b2a820d7-006f-4e40-a755-08d9860e4f3f",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/b2a820d7-006f-4e40-a755-08d9860e4f3f"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "eden hebtamu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Eden Habtamu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤደን ሀብታሙ"
+  },
+  "romanized": "eden hebtamu",
+  "sort_key": "ኤደንሀብታሙ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 76492,
+  "path": "assets/portraits/pe_jrmpwmk4.jpg",
+  "sha256": "b4f6d9679abdad39dbc6ad177961658d84a7eed1dfbf8d7595945acf72b32327",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Eden-Habtamu.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/eden-habtamu/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fgbq4q2d.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Ke-Ametsua-Jerba.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_jrmpwmk4",
+     "name": "ኤደን ሀብታሙ",
+     "role": "author",
+     "romanized": "eden hebtamu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021-04-01",
+    "flags": []
+   },
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_fgbq4q2d",
+   "id": "wk_fgbq4q2d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ke Ametsua Jerba",
+    "script": "Ethi",
+    "text": "ከአመጿ ጀርባ"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_r8vyt2g8.webp",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/maleda-dejaf-lay-eden-habtamu.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_jrmpwmk4",
+     "name": "ኤደን ሀብታሙ",
+     "role": "author",
+     "romanized": "eden hebtamu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-02-25",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_r8vyt2g8",
+   "id": "wk_r8vyt2g8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Maleda Dejaf Lay",
+    "script": "Ethi",
+    "text": "ማለዳ ደጃፍ ላይ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

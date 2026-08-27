@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ገነት ወንድሙ (ሴሌ) እባላለሁ ገነት አባቴ ወንድሙ ስሜ እና እናቴ በቀለች አልዩ የሰጡኝ ስም ሲሆን \"ሴሌ\" ደግሞ እንደ ቅጽል ስም በቅርብ መጠቀም የጀመርኩ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "ganatwanadmusala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rtvrcm7j",
+ "id": "pe_rtvrcm7j",
+ "identifiers": {
+  "afroread_id": [
+   "2597b6cf-5ee1-4513-3bd6-08db7b662a70"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2597b6cf-5ee1-4513-3bd6-08db7b662a70",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2597b6cf-5ee1-4513-3bd6-08db7b662a70"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2597b6cf-5ee1-4513-3bd6-08db7b662a70",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2597b6cf-5ee1-4513-3bd6-08db7b662a70"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "genet wenedmu (sele)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገነት ወንድሙ (ሴሌ)"
+  },
+  "romanized": "genet wenedmu (sele)",
+  "sort_key": "ገነትወንድሙሴሌ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 62925,
+  "path": "assets/portraits/pe_rtvrcm7j.png",
+  "sha256": "d2073daa8e58c2d507ec94a5ce5e88555d35b92c672804ab07d47cc79682b866",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/ec4959b3-71a1-408e-a4f0-be082fff833fGenetWondmuProfile3202.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/2597b6cf-5ee1-4513-3bd6-08db7b662a70"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pjab5gqv.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/c3847304-aa23-4ed6-a52f-afc4451ba37dTezitanSastamemBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rtvrcm7j",
+     "name": "ገነት ወንድሙ (ሴሌ)",
+     "role": "author",
+     "romanized": "genet wenedmu (sele)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pjab5gqv",
+   "id": "wk_pjab5gqv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teztan sastamem",
+    "script": "Ethi",
+    "text": "ትዝታን ሳስታምም"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

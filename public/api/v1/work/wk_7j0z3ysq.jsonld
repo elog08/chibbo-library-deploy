@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7j0z3ysq",
+ "@type": "Book",
+ "about": [
+  "Biography"
+ ],
+ "alternateName": [
+  "sewyew"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6hk5w7bp",
+   "@type": "Person",
+   "name": "መሐመድ ሐሰን"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%B0%E1%8B%8D%E1%8B%A8%E1%8B%8D.jpg",
+ "inLanguage": "am",
+ "name": "ሰውየው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "198",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_158"
+  },
+  {
+   "@type": "Offer",
+   "price": "198",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_158"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_158"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pk2vb4e3",
+   "@type": "Book"
+  }
+ ]
+}

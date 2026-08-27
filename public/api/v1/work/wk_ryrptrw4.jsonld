@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ryrptrw4",
+ "@type": "Book",
+ "about": [
+  "Self Help"
+ ],
+ "alternateName": [
+  "yeraey hayel merhoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hmb2ypzv",
+   "@type": "Person",
+   "name": "ቢንያም አለማየሁ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%88%AB%E1%8B%95%E1%8B%AD_%E1%8A%83%E1%8B%AD%E1%88%8D_%E1%88%98%E1%88%AD%E1%88%86%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "የራዕይ ኃይል መርሆች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_54"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_54"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_54"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9exjrvad",
+   "@type": "Book"
+  }
+ ]
+}

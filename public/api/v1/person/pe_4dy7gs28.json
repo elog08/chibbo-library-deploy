@@ -1,0 +1,148 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dr. Elias Gebru Aimero is a young Medical Doctor, specializing in Psychiatry; He is also a blogger a... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "doralyasgabruamro",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4dy7gs28",
+ "id": "pe_4dy7gs28",
+ "identifiers": {
+  "afroread_id": [
+   "444bb371-a5c0-4663-9c0a-08d9f181e9c4"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "444bb371-a5c0-4663-9c0a-08d9f181e9c4",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/444bb371-a5c0-4663-9c0a-08d9f181e9c4"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "444bb371-a5c0-4663-9c0a-08d9f181e9c4",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/444bb371-a5c0-4663-9c0a-08d9f181e9c4"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re elyas gebru aemro",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ኤልያስ ገብሩ አእምሮ"
+  },
+  "romanized": "do/re elyas gebru aemro",
+  "sort_key": "ዶርኤልያስገብሩአእምሮ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 58999,
+  "path": "assets/portraits/pe_4dy7gs28.png",
+  "sha256": "17ae9fab0dee8db1982befc8a4baa55e512c53cbee51539dc290a015021e09d7",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/3e54ed96-9e84-4e18-ac76-0869cab76380DrEliasPhotoH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/444bb371-a5c0-4663-9c0a-08d9f181e9c4"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5293n8gg.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2993d784-71fe-489c-8bda-9929e90b0437EthiopBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4dy7gs28",
+     "name": "ዶ/ር ኤልያስ ገብሩ አእምሮ",
+     "role": "author",
+     "romanized": "do/re elyas gebru aemro"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5293n8gg",
+   "id": "wk_5293n8gg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "etoyop",
+    "script": "Ethi",
+    "text": "ኤቶዮጵ"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_kfdxbwc4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/c883920c-4b29-417c-8ef4-302e7eff5309ArmemoCoverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4dy7gs28",
+     "name": "ዶ/ር ኤልያስ ገብሩ አእምሮ",
+     "role": "author",
+     "romanized": "do/re elyas gebru aemro"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_kfdxbwc4",
+   "id": "wk_kfdxbwc4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aremmo",
+    "script": "Ethi",
+    "text": "አርምሞ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

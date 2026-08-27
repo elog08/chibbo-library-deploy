@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ውልደቴ በሀማሴኗ ምድር መንደፈራ ከተማ ይሁን እንጅ እድገቴ ባሕር ዳር ከተማ ነው የመጀመሪያ ደረጃ ትምህርቴ ጀምሬ እስከ ዩኒቨርስቲ የተከታተልኩትም እዚያ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yashiwaswala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rkxgnz4p",
+ "id": "pe_rkxgnz4p",
+ "identifiers": {
+  "afroread_id": [
+   "44a17468-153b-4ed2-c191-08da585020a9"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "44a17468-153b-4ed2-c191-08da585020a9",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/44a17468-153b-4ed2-c191-08da585020a9"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "44a17468-153b-4ed2-c191-08da585020a9",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/44a17468-153b-4ed2-c191-08da585020a9"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yeshiwas wale",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የሺዋስ ዋለ"
+  },
+  "romanized": "yeshiwas wale",
+  "sort_key": "የሺዋስዋለ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 53254,
+  "path": "assets/portraits/pe_rkxgnz4p.png",
+  "sha256": "1242732178bda0fd6962d0ffac68bc182a65d7010d217f9b61c344b9ce8249d4",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/07d264f1-a85b-4aa7-a385-4a2bfe88d384Yeshwas_Profiel_Picture_320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/44a17468-153b-4ed2-c191-08da585020a9"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t9nbwfn4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/a03de1f5-5a80-4f2d-902a-1e02857beb89YeNodeMederBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rkxgnz4p",
+     "name": "የሺዋስ ዋለ",
+     "role": "author",
+     "romanized": "yeshiwas wale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t9nbwfn4",
+   "id": "wk_t9nbwfn4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenod meder 1",
+    "script": "Ethi",
+    "text": "የኖድ ምድር ፩"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_my5bfvvq",
+ "@type": "Book",
+ "about": [
+  "Professional Reference"
+ ],
+ "alternateName": [
+  "setrateji"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_nmt1f1ca",
+   "@type": "Person",
+   "name": "ፈቃደ ገብረየስ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%B5%E1%89%B5%E1%88%AB%E1%89%B4%E1%8C%82.jpg",
+ "inLanguage": "am",
+ "name": "ስትራቴጂ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_107"
+  },
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_107"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_107"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fba058zs",
+   "@type": "Book"
+  }
+ ]
+}

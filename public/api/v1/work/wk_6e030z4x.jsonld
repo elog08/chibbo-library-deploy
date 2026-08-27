@@ -1,0 +1,59 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6e030z4x",
+ "@type": "Book",
+ "about": [
+  "Literature & Fiction",
+  "Fiction"
+ ],
+ "alternateName": [
+  "Mereq"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a901d0w8",
+   "@type": "Person",
+   "name": "አዳም ረታ"
+  }
+ ],
+ "datePublished": "2022-03-29",
+ "description": "መረቅ Mereq a book by Adam Reta. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/02/merek-adam-reta.webp",
+ "inLanguage": "am",
+ "name": "መረቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/mereq-by-adam-reta/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/merek-adam-reta"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/mereq-by-adam-reta/",
+  "https://www.ethiobookreview.com/book/merek-adam-reta"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_d3tvhz23",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_18bhpjdr",
+   "@type": "Book"
+  }
+ ]
+}

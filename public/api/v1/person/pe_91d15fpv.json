@@ -1,0 +1,75 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitbazabah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_91d15fpv",
+ "id": "pe_91d15fpv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Dawit Bezabih",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት በዛብህ"
+  },
+  "romanized": "Dawit Bezabih",
+  "sort_key": "ዳዊትበዛብህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1vxxt15t.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Philosophy/yeheg-filsfna-dawit-bezabih.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_91d15fpv",
+     "name": "ዳዊት በዛብህ",
+     "role": "author",
+     "romanized": "Dawit Bezabih"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2020?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1vxxt15t",
+   "id": "wk_1vxxt15t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeheg felesefna",
+    "script": "Ethi",
+    "text": "የሕግ ፍልስፍና"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

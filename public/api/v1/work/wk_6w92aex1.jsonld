@@ -1,0 +1,62 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6w92aex1",
+ "@type": "Book",
+ "about": [
+  "History",
+  "Management",
+  "Philosophy",
+  "Politics"
+ ],
+ "alternateName": [
+  "yetornet tebeb"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2565mny0",
+   "@type": "Person",
+   "name": "ሚካኤል ማስሬ"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_a19fnsnc",
+   "@type": "Person",
+   "name": "ስማቸው ተበጀ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/e62d740d-0afc-4595-aef2-5e0bd5f2939cTheArtofWarBookCover.png",
+ "inLanguage": "am",
+ "name": "የጦርነት ጥበብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/e62d740d-0afc-4595-aef2-5e0bd5f2939c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ep33cwja",
+   "@type": "Book"
+  }
+ ]
+}

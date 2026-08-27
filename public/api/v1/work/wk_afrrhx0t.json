@@ -1,0 +1,114 @@
+{
+ "cover": {
+  "bytes": 98072,
+  "path": "assets/covers/wk_afrrhx0t.jpg",
+  "sha256": "dddc3016442f109c992e9b3f78e63beaabe2ad677a53ab8900de8f1f0adf5bde",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/599782da-79af-483f-a266-7b3f4a907720SolianaCoverMainThumbnail.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_y4yb8sp6",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_66wp9c6z"
+ ],
+ "extensions": {},
+ "fingerprint": "ሶልያና|aframsayum",
+ "first_published": {
+  "alternates": [
+   "2005-09-11/2006-09-10"
+  ],
+  "edtf": "1998?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1998"
+  }
+ },
+ "flags": [
+  "format-audiobook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_afrrhx0t",
+ "id": "wk_afrrhx0t",
+ "identifiers": {
+  "afroread_id": [
+   "599782da-79af-483f-a266-7b3f4a907720"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "599782da-79af-483f-a266-7b3f4a907720",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "599782da-79af-483f-a266-7b3f4a907720",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "599782da-79af-483f-a266-7b3f4a907720",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Literature",
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "solyana",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሶልያና"
+  },
+  "romanized": "solyana",
+  "sort_key": "ሶልያና"
+ },
+ "type": "work"
+}

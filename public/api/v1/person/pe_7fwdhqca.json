@@ -1,0 +1,122 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Poet and Author Emebet Mengiste Born and raised in Addis Ababa, Ethiopia, Emebet Mengiste: migrated to the United States when she was eighteen. Her first book ‘Yehelem Helem (dream beyond all dreams) is a collection of poems, and her second book which she published ‘Yengus lij’ is a compilation of poetry and short stories. Emebet work"
+ },
+ "extensions": {},
+ "fingerprint": "amabatmangista",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7fwdhqca",
+ "id": "pe_7fwdhqca",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "emebet-mengiste",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/emebet-mengiste/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "emebet-mengiste",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/emebet-mengiste/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Emebet Mengiste"
+  },
+  "romanized": "Emebet Mengiste",
+  "sort_key": "emebetmengiste"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 29770,
+  "path": "assets/portraits/pe_7fwdhqca.webp",
+  "sha256": "81d6982d35c6cc847635bcd223a6652864a21c4198f971111bf3eda9843e8080",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2023/09/emebet-mengiste-books.webp"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/emebet-mengiste/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_j0g67g75.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/የይቅርታ-መስኮት-Window-of-Forgiveness-by-Emebet-Mengiste.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_7fwdhqca",
+     "name": "Emebet Mengiste",
+     "role": "author",
+     "romanized": "Emebet Mengiste"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_j0g67g75",
+   "id": "wk_j0g67g75",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Window of Forgiveness)",
+    "script": "Ethi",
+    "text": "የይቅርታ መስኮት ("
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nk5gscah.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Athejim.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_7fwdhqca",
+     "name": "Emebet Mengiste",
+     "role": "author",
+     "romanized": "Emebet Mengiste"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-08-18",
+    "flags": []
+   },
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_nk5gscah",
+   "id": "wk_nk5gscah",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Athejim",
+    "script": "Latn",
+    "text": "Athejim"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

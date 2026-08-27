@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "ሰዒድ ሙህዬ አህመድ (Seid Muhye Ahmed) \"ትርኳሽ\" (Tirkuash) የተሰኘው ዝነኛ ልብ-ወለድ መጽሐፍ ደራሲ ናቸው መጽሐፉ በኢትዮጵያ ስነ-ጽሁፍ ውስጥ በተለይም በገጠር የፍቅር ታሪክ እና በማህበራዊ ህይወት ዙሪያ ካሉ ተወዳጅ ስራዎች አንዱ ነው ሰዒድ ሙህዬ አህመድ ከ\"ትርኳሽ\" በተጨማሪ እንደ \"እያዩ ዝም\" ያሉ ሌሎች ተወዳጅ ስራዎችንም ለንባብ አብቅተዋል"
+ },
+ "extensions": {},
+ "fingerprint": "saidmuhyahmad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vx3apqzc",
+ "id": "pe_vx3apqzc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "seid-muhye-ahmed",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/seid-muhye-ahmed/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "seid-muhye-ahmed",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/seid-muhye-ahmed/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Seid Muhye Ahmed"
+  },
+  "romanized": "Seid Muhye Ahmed",
+  "sort_key": "seidmuhyeahmed"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 21075,
+  "path": "assets/portraits/pe_vx3apqzc.jpg",
+  "sha256": "596043a157577ff7ee13690ce104871a88258d8993090298fa68e3b53374a437",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/seid.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/seid-muhye-ahmed/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qwb8snjr.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/tirkuash-1-e1771673680256.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_vx3apqzc",
+     "name": "Seid Muhye Ahmed",
+     "role": "author",
+     "romanized": "Seid Muhye Ahmed"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-11-10",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_qwb8snjr",
+   "id": "wk_qwb8snjr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tirkuash",
+    "script": "Ethi",
+    "text": "ትርኳሽ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

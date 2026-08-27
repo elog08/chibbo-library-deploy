@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ብርሃኔ ጌታቸዉ ተብዬ መጠራት እንደነበረብኝ የማስብ ሰዉ ነኝ ብርሃኔ የእናቴ ጌታቸዉ ደግሞ የአባቴ ስም ነዉ ገነት ጌታቸዉ እባላለሁ እኔ እራሴ እራሴን አ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "ganatgatachawu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y02rb1gq",
+ "id": "pe_y02rb1gq",
+ "identifiers": {
+  "afroread_id": [
+   "8230a1ed-6b5b-4769-4c34-08db7c931a19"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8230a1ed-6b5b-4769-4c34-08db7c931a19",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8230a1ed-6b5b-4769-4c34-08db7c931a19"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8230a1ed-6b5b-4769-4c34-08db7c931a19",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8230a1ed-6b5b-4769-4c34-08db7c931a19"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "genet getachewu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገነት ጌታቸዉ"
+  },
+  "romanized": "genet getachewu",
+  "sort_key": "ገነትጌታቸዉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 20851,
+  "path": "assets/portraits/pe_y02rb1gq.jpg",
+  "sha256": "98ba1a2be10585bce14e7a22f3e7fc118868bf8ff07456ca58f9cebc41bb2a56",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/74cbc946-f7f3-4e05-9dc1-2fb57ab593b5GenetProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/8230a1ed-6b5b-4769-4c34-08db7c931a19"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c1fw1t24.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/0909174d-9f4a-49bb-838d-54f3ff22de5eBirhaneRebuniBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_y02rb1gq",
+     "name": "ገነት ጌታቸዉ",
+     "role": "author",
+     "romanized": "genet getachewu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_c1fw1t24",
+   "id": "wk_c1fw1t24",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "berhane rubi",
+    "script": "Ethi",
+    "text": "ብርሃኔ ሩቢ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

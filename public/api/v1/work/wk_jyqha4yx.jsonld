@@ -1,0 +1,51 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jyqha4yx",
+ "@type": "Book",
+ "about": [
+  "Biography"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qq737f3d",
+   "@type": "Person",
+   "name": "Dr. Amare Tegbaru"
+  }
+ ],
+ "datePublished": "2020-06-10",
+ "description": "Haile Fida ena YeGillé Tizita, a book by Dr Amare Tegbaru. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/haile-fida.jpg",
+ "inLanguage": "am",
+ "isbn": "9789163962745",
+ "name": "Haile Fida ena YeGillé Tizita",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.26",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/haile-fida-ena-yegille-tizita-by-dr-amare-tegbaru/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/9163962756"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/haile-fida-ena-yegille-tizita-by-dr-amare-tegbaru/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9z42d0zp",
+   "@type": "Book"
+  }
+ ]
+}

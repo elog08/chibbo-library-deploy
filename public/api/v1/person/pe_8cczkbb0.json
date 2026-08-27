@@ -1,0 +1,76 @@
+{
+ "extensions": {},
+ "fingerprint": "baqalamsalu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8cczkbb0",
+ "id": "pe_8cczkbb0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Bekele Amsalu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በቀለ አምሳሉ"
+  },
+  "romanized": "Bekele Amsalu",
+  "sort_key": "በቀለአምሳሉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bkpfctsn.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Poetry/nefsetur-beroch-bekele-amsalu.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_8cczkbb0",
+     "name": "በቀለ አምሳሉ",
+     "role": "author",
+     "romanized": "Bekele Amsalu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bkpfctsn",
+   "id": "wk_bkpfctsn",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "nefsetur beroch",
+    "script": "Ethi",
+    "text": "ነፍሰጡር ብዕሮች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8dghjktn",
+ "@type": "Book",
+ "about": [
+  "Science Fiction"
+ ],
+ "alternateName": [
+  "bayebel kod 2"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2pxe4qa4",
+   "@type": "Person",
+   "name": "ሀኒም ኤልያስ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%89%A3%E1%8B%AD%E1%89%A5%E1%88%8D_%E1%8A%AE%E1%8B%B5_2.jpg",
+ "inLanguage": "am",
+ "name": "ባይብል ኮድ 2",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "162",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_188"
+  },
+  {
+   "@type": "Offer",
+   "price": "162",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_188"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_188"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sc2tvc3d",
+   "@type": "Book"
+  }
+ ]
+}

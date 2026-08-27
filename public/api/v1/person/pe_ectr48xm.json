@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "ትዕግስት ወልዴ የተወለደችው በሀረር ከተማ ልዩ ስሙ አደሬ ጢቆ በሚባል አካባቢ ሲሆን የመጀመሪያና ሁለተኛ ደረጃ ትምህርቷን በቤተልሄም የካቶሊክ ትምህርት ቤት ተምራለች ከዛም ወደአዋሳ በማቅናት በደቡብ ዩንቨርስቲ ቢዝነስ ኤንድ ኢኮኖሚክስ የመጀመሪያ ዲግሪዋን አግኝታለች ከምርቃት በኋላ የስራ ህይወቷን ሀ ብላ የጀመረችው በድሬዳዋ ከተማ ነው ለአንድ አመት ያህል በመንግስት መስሪያ ቤት ከሰራች በኋላ መስሪያ ቤቱን"
+ },
+ "extensions": {},
+ "fingerprint": "tigistwolda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ectr48xm",
+ "id": "pe_ectr48xm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "tigist-wolde",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/tigist-wolde/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "tigist-wolde",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/tigist-wolde/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tigist Wolde"
+  },
+  "romanized": "Tigist Wolde",
+  "sort_key": "tigistwolde"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 89508,
+  "path": "assets/portraits/pe_ectr48xm.jpg",
+  "sha256": "c02c99fe8267ae7f2df63597411daaa0398aa11618c452cc448e2018b6f98dc6",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Tigist-Wolde.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/tigist-wolde/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_nz4g43cn.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/ገሊላ-Gelila-by-Tigist-Wolde-.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ectr48xm",
+     "name": "Tigist Wolde",
+     "role": "author",
+     "romanized": "Tigist Wolde"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-12-23",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_nz4g43cn",
+   "id": "wk_nz4g43cn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gelila",
+    "script": "Ethi",
+    "text": "ገሊላ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

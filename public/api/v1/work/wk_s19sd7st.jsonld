@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_s19sd7st",
+ "@type": "Book",
+ "about": [
+  "Literature & Fiction"
+ ],
+ "alternateName": [
+  "yebuna qures"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k4ahrjz5",
+   "@type": "Person",
+   "name": "Hiwot Emishaw"
+  }
+ ],
+ "datePublished": "2024-12-16",
+ "description": "የቡና ቁርስ Yebuna Kurs - A book by Hiwot Emishaw. Addis Books",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/02/61jHagbj18L._SY466_.jpg",
+ "inLanguage": "am",
+ "isbn": "9798303632257",
+ "name": "የቡና ቁርስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/yebuna-kurs-by-hiwot-emishaw/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B0DVGQNWHR"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/yebuna-kurs-by-hiwot-emishaw/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yzxpmcab",
+   "@type": "Book"
+  }
+ ]
+}

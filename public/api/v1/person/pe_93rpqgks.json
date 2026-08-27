@@ -1,0 +1,101 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dr Tigist Girma is currently the Founder and CEO of LeDeG Midwifery College in Ethiopia.Dr Tigist re... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "drtigistgirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_93rpqgks",
+ "id": "pe_93rpqgks",
+ "identifiers": {
+  "afroread_id": [
+   "0c1e4c4c-f169-478f-3a96-08dab47b6d63"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0c1e4c4c-f169-478f-3a96-08dab47b6d63",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0c1e4c4c-f169-478f-3a96-08dab47b6d63"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0c1e4c4c-f169-478f-3a96-08dab47b6d63",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0c1e4c4c-f169-478f-3a96-08dab47b6d63"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr Tigist Girma"
+  },
+  "romanized": "Dr Tigist Girma",
+  "sort_key": "drtigistgirma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 76013,
+  "path": "assets/portraits/pe_93rpqgks.png",
+  "sha256": "285f8ae26d7dfe2908463f887866d8ebf9227e2fd17e3d31313ce162421ccdae",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/12e3f023-fb54-4ec3-bae0-4d4ae4c8776cDrTigistprofilePicH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/0c1e4c4c-f169-478f-3a96-08dab47b6d63"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e51h3z0e.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/622dbea9-e9d9-4941-b262-afd5cdeaddd8TimutGidYelemBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_93rpqgks",
+     "name": "Dr Tigist Girma",
+     "role": "author",
+     "romanized": "Dr Tigist Girma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e51h3z0e",
+   "id": "wk_e51h3z0e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temut gedyelem",
+    "script": "Ethi",
+    "text": "ትሙት ግድየለም"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

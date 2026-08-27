@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ዘላለም ሞትባይኖር ላቀ(ምናሴ) በአማራ- ክልል ጎጃም- ዱሩቤቴ- ዉልሲ ገብርኤል በ1979 ዓ.ም ተወለደ በአሁኑ ስዓት በቡሬ ፖሊ/ቴ/ኮሌጅ መምህር በመ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "zalalamotbaynorlaqamanasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d8agzm7f",
+ "id": "pe_d8agzm7f",
+ "identifiers": {
+  "afroread_id": [
+   "4d50b20a-cada-4cec-f7c3-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "4d50b20a-cada-4cec-f7c3-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/4d50b20a-cada-4cec-f7c3-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "4d50b20a-cada-4cec-f7c3-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/4d50b20a-cada-4cec-f7c3-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zelalem motbaynor laqe(menase)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘላለም ሞትባይኖር ላቀ(ምናሴ)"
+  },
+  "romanized": "zelalem motbaynor laqe(menase)",
+  "sort_key": "ዘላለምሞትባይኖርላቀምናሴ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 45223,
+  "path": "assets/portraits/pe_d8agzm7f.png",
+  "sha256": "64ed955e460f8b147e2f8c80a91d89ad8ed89037b2b263f6706b4406af5f4a2e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/436d3752-e067-4072-a925-7152c0e3f6ebZelalemMotBynor320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/4d50b20a-cada-4cec-f7c3-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xq5z035q.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/57208c10-c9ee-45e3-9ab7-366ee33141c2YelmenaTshayBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_d8agzm7f",
+     "name": "ዘላለም ሞትባይኖር ላቀ(ምናሴ)",
+     "role": "author",
+     "romanized": "zelalem motbaynor laqe(menase)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xq5z035q",
+   "id": "wk_xq5z035q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yelmena tsehey",
+    "script": "Ethi",
+    "text": "የልመና ፀሐይ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

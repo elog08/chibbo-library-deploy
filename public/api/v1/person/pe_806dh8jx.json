@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Tigest Samuel, an emerging author with a deep literary passion, hails from Ethiopia but now calls the Netherlands home, where she resides with her husband and two children. Her creative journey is profoundly influenced by her late grandfather, Mathewos Bekele, a renowned Ethiopian playwright and the visionary behind the esteemed theater group 'Andenet.' Mathewos Bekele's"
+ },
+ "extensions": {},
+ "fingerprint": "tigastsamual",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_806dh8jx",
+ "id": "pe_806dh8jx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "tigest-samuel",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/tigest-samuel/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "tigest-samuel",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/tigest-samuel/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tigest Samuel"
+  },
+  "romanized": "Tigest Samuel",
+  "sort_key": "tigestsamuel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 62486,
+  "path": "assets/portraits/pe_806dh8jx.jpg",
+  "sha256": "e8f34572360159cd25a2fb0f7df01d74eb85a56f3085360833b93d06850631ba",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/tigist-samuel.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/tigest-samuel/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5hpzwffh.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/ayne-ergeb-tigist-1.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_806dh8jx",
+     "name": "Tigest Samuel",
+     "role": "author",
+     "romanized": "Tigest Samuel"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-07-01",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_5hpzwffh",
+   "id": "wk_5hpzwffh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ayne Ergib",
+    "script": "Ethi",
+    "text": "ዓይነ ርግብ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

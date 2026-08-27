@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Liron Michael is a 9-year-old adventurer who loves exploring new ideas, just like his hero, Piny! When he’s not busy writing, Liron enjoys experimenting with AI, drawing, and playing outside. Piny the Adventurer is his very first book. He wrote it because he believes every day is a chance for a new adventure, even if"
+ },
+ "extensions": {},
+ "fingerprint": "lironmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cd1xd9jg",
+ "id": "pe_cd1xd9jg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "liron-michael",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/liron-michael/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "liron-michael",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/liron-michael/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Liron Michael"
+  },
+  "romanized": "Liron Michael",
+  "sort_key": "lironmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 569867,
+  "path": "assets/portraits/pe_cd1xd9jg.jpg",
+  "sha256": "a016e6bad8afb99fc664f5dcdfe28004fe87475e041e8542e63d81e5649e566f",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/liroy-micheal-scaled.jpeg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/liron-michael/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ndag931b.png",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Piny-Adventure.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cd1xd9jg",
+     "name": "Liron Michael",
+     "role": "author",
+     "romanized": "Liron Michael"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-04-30",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_ndag931b",
+   "id": "wk_ndag931b",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Adventure of Piny",
+    "script": "Latn",
+    "text": "The Adventure of Piny"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

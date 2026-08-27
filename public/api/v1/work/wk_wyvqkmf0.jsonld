@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wyvqkmf0",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Outdoors"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/2bfb6744-a8f8-47d8-bc3c-3676c4329ca1GoOutsideAmharicCover.png",
+ "inLanguage": "en",
+ "name": "Go Outside",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2bfb6744-a8f8-47d8-bc3c-3676c4329ca1"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2bfb6744-a8f8-47d8-bc3c-3676c4329ca1"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2bfb6744-a8f8-47d8-bc3c-3676c4329ca1"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zr2rxv47",
+   "@type": "Book"
+  }
+ ]
+}

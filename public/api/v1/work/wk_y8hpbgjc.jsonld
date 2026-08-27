@@ -1,0 +1,81 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_y8hpbgjc",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "afla getsoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qwkkf4z3",
+   "@type": "Person",
+   "name": "ዮናስ መስፍን"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/08e105d9-8764-45a6-bf7c-a3ac963c5d23FinalCoverH400.png",
+ "inLanguage": "am",
+ "name": "አፍላ ገጾች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/08e105d9-8764-45a6-bf7c-a3ac963c5d23"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/08e105d9-8764-45a6-bf7c-a3ac963c5d23"
+  },
+  {
+   "@type": "Offer",
+   "price": "105.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/07727984-42f2-4765-bd5d-7d1ad0d86ea6"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/07727984-42f2-4765-bd5d-7d1ad0d86ea6"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/07727984-42f2-4765-bd5d-7d1ad0d86ea6",
+  "https://afroreadapp.com/Store/Bookdetail/08e105d9-8764-45a6-bf7c-a3ac963c5d23"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_rdbmxpcb",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_em9yfg3b",
+   "@type": "Book"
+  }
+ ]
+}

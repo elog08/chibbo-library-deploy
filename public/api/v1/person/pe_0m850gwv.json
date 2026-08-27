@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "amhaslasamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0m850gwv",
+ "id": "pe_0m850gwv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "amheslase amare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አምሐሥላሴ አማረ"
+  },
+  "romanized": "amheslase amare",
+  "sort_key": "አምሀስላሴአማረ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xm24d09n.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/a3ed6197-2b96-403f-a017-41e23c716220Abraham.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0m850gwv",
+     "name": "አምሐሥላሴ አማረ",
+     "role": "author",
+     "romanized": "amheslase amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xm24d09n",
+   "id": "wk_xm24d09n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zekre segawe demu kefel soset",
+    "script": "Ethi",
+    "text": "ዝክረ ስጋወ ደሙ ክፍል ሶስት"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

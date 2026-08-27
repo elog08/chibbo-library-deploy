@@ -1,0 +1,113 @@
+{
+ "cover": {
+  "bytes": 495635,
+  "path": "assets/covers/wk_grm9trq4.png",
+  "sha256": "ae8f27d20189c965d09d2680979b501a6712ab2c21dea16cfce405398822dd32",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/26ca1b62-c364-4bf2-89c2-6495bfde76bcWodedBibleCover.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_q4s1qs5j",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_q3xhksn8"
+ ],
+ "extensions": {},
+ "fingerprint": "መጽሀፍቅዱስ|wodadministry",
+ "first_published": {
+  "alternates": [
+   "1969-09-11/1970-09-10"
+  ],
+  "edtf": "1962?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1962"
+  }
+ },
+ "flags": [
+  "format-ebook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_grm9trq4",
+ "id": "wk_grm9trq4",
+ "identifiers": {
+  "afroread_id": [
+   "26ca1b62-c364-4bf2-89c2-6495bfde76bc"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "26ca1b62-c364-4bf2-89c2-6495bfde76bc",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/26ca1b62-c364-4bf2-89c2-6495bfde76bc"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "26ca1b62-c364-4bf2-89c2-6495bfde76bc",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/26ca1b62-c364-4bf2-89c2-6495bfde76bc"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "0",
+   "provider": "afroread_book",
+   "ref": "26ca1b62-c364-4bf2-89c2-6495bfde76bc",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/26ca1b62-c364-4bf2-89c2-6495bfde76bc"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/26ca1b62-c364-4bf2-89c2-6495bfde76bc"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Non Fiction",
+  "Religion"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "metshef qedus",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መጽሐፍ ቅዱስ"
+  },
+  "romanized": "metshef qedus",
+  "sort_key": "መጽሀፍቅዱስ"
+ },
+ "type": "work"
+}

@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ተስፋ ጋሻነህ (በብዕር ስሙ ራሴላስ) በ1980 ዓ.ም በሰሜን ሸዋ ዞን በአንጾኪያ ገምዛ አካባቢ ተወለደ የመጀመሪያ ደረጃ ትምህርቱን በተወለደበት አካባቢ የተ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tasfagashanah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qdvcwsfe",
+ "id": "pe_qdvcwsfe",
+ "identifiers": {
+  "afroread_id": [
+   "272cf5d9-08d1-4974-787a-08db0193b1a4"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "272cf5d9-08d1-4974-787a-08db0193b1a4",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/272cf5d9-08d1-4974-787a-08db0193b1a4"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "272cf5d9-08d1-4974-787a-08db0193b1a4",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/272cf5d9-08d1-4974-787a-08db0193b1a4"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfa gashaneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋ ጋሻነህ"
+  },
+  "romanized": "tesfa gashaneh",
+  "sort_key": "ተስፋጋሻነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 61137,
+  "path": "assets/portraits/pe_qdvcwsfe.png",
+  "sha256": "14be0c79bc43948511ffaf4c93f5d11a550d466f47ad661aac69427a0e1a2e15",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/fe0905ac-4068-4075-9d57-6735eb9987e0TesfatsiyonThumbnail.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/272cf5d9-08d1-4974-787a-08db0193b1a4"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7phs3jha.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1d3fc4f1-4ad0-42b3-bce1-bcf0b338e3edTesfaRaselasCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qdvcwsfe",
+     "name": "ተስፋ ጋሻነህ",
+     "role": "author",
+     "romanized": "tesfa gashaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7phs3jha",
+   "id": "wk_7phs3jha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshefe raselas",
+    "script": "Ethi",
+    "text": "መጽሐፈ ራሤላስ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sq18raz6.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/e8a37cc3-03f5-426d-a7bc-41ef539001c9TesfatshionArmrgedonBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qdvcwsfe",
+     "name": "ተስፋ ጋሻነህ",
+     "role": "author",
+     "romanized": "tesfa gashaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sq18raz6",
+   "id": "wk_sq18raz6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teleko armagedon",
+    "script": "Ethi",
+    "text": "ተልዕኮ አርማጌዶን"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xrgjars9",
+ "@type": "Book",
+ "about": [
+  "Self Help"
+ ],
+ "alternateName": [
+  "debeq aemron meglet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_wdegh938",
+   "@type": "Person",
+   "name": "ሱራፍኤል ግርማ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%B5%E1%89%A5%E1%89%85_%E1%8A%A0%E1%8A%A5%E1%88%9D%E1%88%AE%E1%8A%95_%E1%88%98%E1%8C%8D%E1%88%88%E1%8C%A5.jpg",
+ "inLanguage": "am",
+ "name": "ድብቅ አእምሮን መግለጥ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_48"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_48"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_48"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_3zxhp9a6",
+   "@type": "Book"
+  }
+ ]
+}

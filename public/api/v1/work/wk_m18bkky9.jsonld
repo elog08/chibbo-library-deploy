@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_m18bkky9",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "reqiq ashara"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_zwzms5wq",
+   "@type": "Person",
+   "name": "ሲሳይ ንጉሡ"
+  }
+ ],
+ "datePublished": "2006?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/60ae0542-8d81-45a0-8290-9a7b5d3ffa8fRekikAsharaH400.png",
+ "inLanguage": "am",
+ "name": "ረቂቅ አሻራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "93.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/60ae0542-8d81-45a0-8290-9a7b5d3ffa8f"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/60ae0542-8d81-45a0-8290-9a7b5d3ffa8f"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/60ae0542-8d81-45a0-8290-9a7b5d3ffa8f"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ymx8k2ek",
+   "@type": "Book"
+  }
+ ]
+}

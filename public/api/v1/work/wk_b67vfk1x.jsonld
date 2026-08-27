@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b67vfk1x",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "sewnet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z9javt10",
+   "@type": "Person",
+   "name": "ሐዋዝ የሻነህ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/18dc47d8-c6ad-4562-ba40-64a96c88cd25HawazSewnetBookCover.png",
+ "inLanguage": "am",
+ "name": "ሰውነት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "88.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/18dc47d8-c6ad-4562-ba40-64a96c88cd25"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/18dc47d8-c6ad-4562-ba40-64a96c88cd25"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/18dc47d8-c6ad-4562-ba40-64a96c88cd25"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hqhxwgnt",
+   "@type": "Book"
+  }
+ ]
+}

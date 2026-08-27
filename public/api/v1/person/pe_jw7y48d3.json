@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ተሻገር ሽፈራው (ዶ/ር) በአዲስ አበባ ከተማ በ1956 ዓ.ም ተወለደ የ1ኛ እና 2ኛ ደረጃ ትምህርቱን በአ.አ ተከታተለ ከአዲስ አበባ ዩኒቨርሲቲ በፍልስ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tashagarshafarawdora",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jw7y48d3",
+ "id": "pe_jw7y48d3",
+ "identifiers": {
+  "afroread_id": [
+   "87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "teshager sheferaw (do/re)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተሻገር ሽፈራው (ዶ/ር)"
+  },
+  "romanized": "teshager sheferaw (do/re)",
+  "sort_key": "ተሻገርሽፈራውዶር"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 73901,
+  "path": "assets/portraits/pe_jw7y48d3.png",
+  "sha256": "afcc09a94d5e919114bd93b2a16881165a52ce2fce709147b1c432916624005e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/57ceec1d-2512-439a-920c-94b9d50a8d63DrTeshagerSiferaw320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/87ea4ff8-f5ce-4be4-0e81-08db33d4a2c4"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qkxs7rg6.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/94f24a60-d65f-4a0b-b0b1-2592fc5b9328YenefsRechitochBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_jw7y48d3",
+     "name": "ተሻገር ሽፈራው (ዶ/ር)",
+     "role": "author",
+     "romanized": "teshager sheferaw (do/re)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qkxs7rg6",
+   "id": "wk_qkxs7rg6",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenefes rechtoch",
+    "script": "Ethi",
+    "text": "የነፍስ ርችቶች"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

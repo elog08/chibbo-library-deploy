@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Sisay Nigusu (born 1951) is a renowned Ethiopian author celebrated for his significant contributions to modern Amharic literature through emotionally resonant novels often centered on romance and social identity. He is best known for his classic debut novel, Sememen, which became a national sensation and remains a staple of Ethiopian fiction. Literary Career and Impact"
+ },
+ "extensions": {},
+ "fingerprint": "sisaynigusu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_eaf41wdn",
+ "id": "pe_eaf41wdn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "sisay-nigusu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/sisay-nigusu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "sisay-nigusu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/sisay-nigusu/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sisay Nigusu"
+  },
+  "romanized": "Sisay Nigusu",
+  "sort_key": "sisaynigusu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 7086,
+  "path": "assets/portraits/pe_eaf41wdn.jpg",
+  "sha256": "61f50c617c33ba1e0ee4cabf281e0d7feed263e1b2573f16abe2a5964d9b0e92",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Sisay-Nigusu.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/sisay-nigusu/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qn2k2bq9.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/sememen-by-sisay-nigusu.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_eaf41wdn",
+     "name": "Sisay Nigusu",
+     "role": "author",
+     "romanized": "Sisay Nigusu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1987-07-05",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_qn2k2bq9",
+   "id": "wk_qn2k2bq9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sememen",
+    "script": "Ethi",
+    "text": "ሰመመን"
+   },
+   "type": "work",
+   "year": 1987
+  }
+ ]
+}

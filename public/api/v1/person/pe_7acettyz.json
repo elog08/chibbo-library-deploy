@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የመጽሐፉ አዘጋጅ መኮነን ተካ በአርባ ምንጭ ዩኒቨርሲቲ የሚዲያና ተግባቦት ረዳት ፕሮፊሰርና የሚዲያ ፖሊሲና አስተዳደር ጥናት የሶስተኛ ዲግሪ ተማሪ ናቸው በ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "makonantaka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7acettyz",
+ "id": "pe_7acettyz",
+ "identifiers": {
+  "afroread_id": [
+   "8b379f65-603a-4bd9-841f-08da87f3d293"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8b379f65-603a-4bd9-841f-08da87f3d293",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8b379f65-603a-4bd9-841f-08da87f3d293"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "8b379f65-603a-4bd9-841f-08da87f3d293",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/8b379f65-603a-4bd9-841f-08da87f3d293"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekonen teka",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መኮነን ተካ"
+  },
+  "romanized": "mekonen teka",
+  "sort_key": "መኮነንተካ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 46860,
+  "path": "assets/portraits/pe_7acettyz.png",
+  "sha256": "4aba5187bde487be8e09b3764f9fdf6a9e10cf1c3b4422c9141aac509070df34",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/0f6dc5c7-e4ab-48f9-abb8-7c07ff5db937MekonenProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/8b379f65-603a-4bd9-841f-08da87f3d293"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vze2a8he.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/7c068db9-6a8d-4684-9b27-361881d30919MekonenTekaBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7acettyz",
+     "name": "መኮነን ተካ",
+     "role": "author",
+     "romanized": "mekonen teka"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vze2a8he",
+   "id": "wk_vze2a8he",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemidiya ena hezeb gennyunet aserar",
+    "script": "Ethi",
+    "text": "የሚዲያ እና ህዝብ ግንኙነት አሠራር"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

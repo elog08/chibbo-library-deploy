@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c1fw1t24",
+ "@type": "Book",
+ "about": [
+  "Biography",
+  "Short Story"
+ ],
+ "alternateName": [
+  "berhane rubi"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y02rb1gq",
+   "@type": "Person",
+   "name": "ገነት ጌታቸዉ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/0909174d-9f4a-49bb-838d-54f3ff22de5eBirhaneRebuniBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ብርሃኔ ሩቢ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0909174d-9f4a-49bb-838d-54f3ff22de5e"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0909174d-9f4a-49bb-838d-54f3ff22de5e"
+  },
+  {
+   "@type": "Offer",
+   "price": "105.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/68276b03-1ac9-4eed-a7cf-4ff0158aa4af"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/68276b03-1ac9-4eed-a7cf-4ff0158aa4af"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/0909174d-9f4a-49bb-838d-54f3ff22de5e",
+  "https://afroreadapp.com/Store/Bookdetail/68276b03-1ac9-4eed-a7cf-4ff0158aa4af"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4x5gfpb5",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_j99pyczf",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Latn",
+  "text": "\"የተሽሹ ድምፆች\" delves into the gripping journey of a psychiatrist battling psychosis and mood disorders... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "michalargawmd",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_23zskazs",
+ "id": "pe_23zskazs",
+ "identifiers": {
+  "afroread_id": [
+   "f99014ee-5f62-42e4-17bc-08dc46e5a49c"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f99014ee-5f62-42e4-17bc-08dc46e5a49c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f99014ee-5f62-42e4-17bc-08dc46e5a49c"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f99014ee-5f62-42e4-17bc-08dc46e5a49c",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f99014ee-5f62-42e4-17bc-08dc46e5a49c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Michael Argaw (MD)"
+  },
+  "romanized": "Michael Argaw (MD)",
+  "sort_key": "michaelargawmd"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 8917,
+  "path": "assets/portraits/pe_23zskazs.jpg",
+  "sha256": "844fc316c024ebc1da0d4027aee8181a0bb24534b5c4c78c1be3ec0cba45c6f5",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/b01e4c73-b647-43b9-a68c-6f39eddd3d8bDrMichaelProfilePhoto320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/f99014ee-5f62-42e4-17bc-08dc46e5a49c"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xnqpmzc8.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/ab795d12-67cc-4514-8306-ea838a2ea78dYetesheshuDimitsochiBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_23zskazs",
+     "name": "Michael Argaw (MD)",
+     "role": "author",
+     "romanized": "Michael Argaw (MD)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xnqpmzc8",
+   "id": "wk_xnqpmzc8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetesheshu demtsoch",
+    "script": "Ethi",
+    "text": "የተሸሹ ድምፆች"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

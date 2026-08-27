@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_dh2nbpgp",
+ "@type": "Book",
+ "about": [
+  "Autobiography",
+  "Poem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9bgfk50p",
+   "@type": "Person",
+   "name": "Dr. Fekadu Fullas"
+  }
+ ],
+ "datePublished": "2025-08-25",
+ "description": "Autobiography, Poems, and Scientific Articles by Dr. Fekadu Fullas",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/authobiography-dr-fekadu.jpg",
+ "inLanguage": "en",
+ "isbn": "9798858579526",
+ "name": "Autobiography, Poems, and Scientific Articles",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/autobiography-poems-and-scientific-articles-by-fekadu-fullas/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/108785251X"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/autobiography-poems-and-scientific-articles-by-fekadu-fullas/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_08qn592r",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hqyneq72",
+ "@type": "Book",
+ "about": [
+  "science fiction",
+  "thriller",
+  "mystery",
+  "Fiction"
+ ],
+ "alternateName": [
+  "Dertogada"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xqdr1zsg",
+   "@type": "Person",
+   "name": "Yismake Worku"
+  }
+ ],
+ "datePublished": "2009",
+ "description": "Dertogada ዴርቶጋዳ by Yismake Worku. Addis Books!",
+ "genre": "novel",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/05/Dertogada.jpg",
+ "inLanguage": "am",
+ "isbn": "9781916218628",
+ "name": "ዴርቶጋዳ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/dertogada-by-yismake-worku/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B0DZSFWK9X"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mega Publishing"
+ },
+ "sameAs": [
+  "https://addisbooks.com/book/dertogada-by-yismake-worku/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ft5hfdst",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_q2rz1gky",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ አቤል ፊጣ በ1970 ዓ.ም ግንቦት 20 በአዲስ አበባ ከተማ ከወላጆቹ ከአባቱ ከአቶ ፊጣ መኮንን እና ከእናቱ ከወይዘሮ ዘነበች ሸዋን ርገጠው ቀበና ስድ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abalfita",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j1d1k8d7",
+ "id": "pe_j1d1k8d7",
+ "identifiers": {
+  "afroread_id": [
+   "d6672f6f-04fb-4dd9-7038-08dafdb24382"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d6672f6f-04fb-4dd9-7038-08dafdb24382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d6672f6f-04fb-4dd9-7038-08dafdb24382"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d6672f6f-04fb-4dd9-7038-08dafdb24382",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d6672f6f-04fb-4dd9-7038-08dafdb24382"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abel fita",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል ፊጣ"
+  },
+  "romanized": "abel fita",
+  "sort_key": "አቤልፊጣ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 6799,
+  "path": "assets/portraits/pe_j1d1k8d7.jpg",
+  "sha256": "4f171ac1d7d3561ee52bed12975476041e9e98b30df01b595c13eb147e0cb169",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/86333172-94d5-4806-910e-ad486a582e5fAbelFitaAuthorProfile.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/d6672f6f-04fb-4dd9-7038-08dafdb24382"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1cb18ebz.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1dd8d3c3-493f-4d59-ab39-cb48d949699bHuletKatanaCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_j1d1k8d7",
+     "name": "አቤል ፊጣ",
+     "role": "author",
+     "romanized": "abel fita"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1cb18ebz",
+   "id": "wk_1cb18ebz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hulet katena",
+    "script": "Ethi",
+    "text": "ሁለት ካቴና"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

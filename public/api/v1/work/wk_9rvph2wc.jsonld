@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_9rvph2wc",
+ "@type": "Book",
+ "about": [
+  "Colors",
+  "Fiction",
+  "Kids"
+ ],
+ "alternateName": [
+  "yeityopya qelemat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6fc1cb8c-1d84-46b4-860b-3b6c87adf20fColorsOfEthiopiaCoverEnglishAndAmharic.png",
+ "inLanguage": "am",
+ "name": "የኢትዮጵያ ቀለማት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6fc1cb8c-1d84-46b4-860b-3b6c87adf20f"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6fc1cb8c-1d84-46b4-860b-3b6c87adf20f"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/6fc1cb8c-1d84-46b4-860b-3b6c87adf20f"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f8wbbb1f",
+   "@type": "Book"
+  }
+ ]
+}

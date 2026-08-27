@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_66d0bnhv",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "derso meles"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_x9d9vbm2",
+   "@type": "Person",
+   "name": "እንዳለጌታ ከበደ"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/62c3188a-d550-4849-97fa-d62b56b88649DersomelsEnalegeta.png",
+ "inLanguage": "am",
+ "name": "ደርሶ መልስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "80.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/62c3188a-d550-4849-97fa-d62b56b88649"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/62c3188a-d550-4849-97fa-d62b56b88649"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/62c3188a-d550-4849-97fa-d62b56b88649"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_r8xpttv0",
+   "@type": "Book"
+  }
+ ]
+}

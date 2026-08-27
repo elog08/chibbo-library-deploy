@@ -1,0 +1,102 @@
+{
+ "cover": {
+  "bytes": 20169,
+  "path": "assets/covers/wk_dh2nbpgp.jpg",
+  "sha256": "197f2c307bb2b886f764f1629afa321b07d4e246a00707f501ce2043100d9617",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/authobiography-dr-fekadu.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9bgfk50p",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Autobiography, Poems, and Scientific Articles by Dr. Fekadu Fullas"
+ },
+ "editions": [
+  "ed_08qn592r"
+ ],
+ "extensions": {},
+ "fingerprint": "autobiographypoemsandscientificarticles|drfakadufulas",
+ "first_published": {
+  "edtf": "2025-08-25",
+  "original": {
+   "calendar": "gregorian",
+   "value": "August 25, 2025"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_dh2nbpgp",
+ "id": "wk_dh2nbpgp",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6487"
+  ],
+  "isbn13": [
+   "9798858579526"
+  ]
+ },
+ "language": "en",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "autobiography-poems-and-scientific-articles-by-fekadu-fullas",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/autobiography-poems-and-scientific-articles-by-fekadu-fullas/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "18.00",
+   "provider": "addisbooks",
+   "ref": "autobiography-poems-and-scientific-articles-by-fekadu-fullas",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/autobiography-poems-and-scientific-articles-by-fekadu-fullas/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "108785251X",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/108785251X"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/autobiography-poems-and-scientific-articles-by-fekadu-fullas/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Autobiography",
+  "Poem"
+ ],
+ "title": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Autobiography, Poems, and Scientific Articles"
+  },
+  "romanized": "Autobiography, Poems, and Scientific Articles",
+  "sort_key": "autobiographypoemsandscientificarticles"
+ },
+ "type": "work"
+}

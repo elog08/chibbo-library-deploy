@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t0pmz54f",
+ "@type": "Book",
+ "about": [
+  "Poetry"
+ ],
+ "alternateName": [
+  "Sefinaye"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3mh7n9c9",
+   "@type": "Person",
+   "name": "Naod Wubetu"
+  }
+ ],
+ "description": "Sefinaye ሠፊናዬ by Naod Wubetu. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/05/sefinaye.jpg",
+ "inLanguage": "am",
+ "isbn": "9781981500819",
+ "name": "ሠፊናዬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/sefinaye-by-naod-wubetu/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/1981500812"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/sefinaye-by-naod-wubetu/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fa9mykq4",
+   "@type": "Book"
+  }
+ ]
+}

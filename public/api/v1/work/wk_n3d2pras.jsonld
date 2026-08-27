@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n3d2pras",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "dokter asheber ena lelochem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_b4p12fw8",
+   "@type": "Person",
+   "name": "አሌክስ አብርሃም"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%B6%E1%8A%AD%E1%89%B0%E1%88%AD_%E1%8A%A0%E1%88%B8%E1%89%A5%E1%88%AD_%E1%8A%A5%E1%8A%93_%E1%88%8C%E1%88%8E%E1%89%BD%E1%88%9D.jpg",
+ "inLanguage": "am",
+ "name": "ዶክተር አሸብር እና ሌሎችም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_216"
+  },
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_216"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_216"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1zybxcd4",
+   "@type": "Book"
+  }
+ ]
+}

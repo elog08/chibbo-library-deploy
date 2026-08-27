@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "መጋቢት 19/1984 ዓ.ም በምንጃር ሸንኮራ ወረዳ በራራቲ ቀበሌ ተወለድኩ አንደኛ ደረጃ ትምህርቴን በራራት እና ሁሉተኛ ደረጃ ትምህርቴን በአረርቲ ፊት አው... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abarhamqalu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1fg0cedw",
+ "id": "pe_1fg0cedw",
+ "identifiers": {
+  "afroread_id": [
+   "52845469-33a8-4dac-c838-08dcbc3d181c"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "52845469-33a8-4dac-c838-08dcbc3d181c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/52845469-33a8-4dac-c838-08dcbc3d181c"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "52845469-33a8-4dac-c838-08dcbc3d181c",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/52845469-33a8-4dac-c838-08dcbc3d181c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aberham qalu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አብርሃም ቃሉ"
+  },
+  "romanized": "aberham qalu",
+  "sort_key": "አብርሀምቃሉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 66023,
+  "path": "assets/portraits/pe_1fg0cedw.png",
+  "sha256": "75bc9f65b44ad853d5fd4c685af83f96772e2fb00d85ac5e965896b624ca6430",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/f038fc37-3083-4e45-b71e-ed39a8c23108Aberham 320_.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/52845469-33a8-4dac-c838-08dcbc3d181c"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3fycc2v7.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/619f7adb-3530-4cbc-a9bf-1e6df2bc648fyetatekusel.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1fg0cedw",
+     "name": "አብርሃም ቃሉ",
+     "role": "author",
+     "romanized": "aberham qalu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3fycc2v7",
+   "id": "wk_3fycc2v7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetat qusel",
+    "script": "Ethi",
+    "text": "የጣት ቁስል"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_wd8jnkqc.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2025/b0f8bee0-b548-4949-8085-30c2e32a4708ንፍታሌም ቡክ ከበር..jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_1fg0cedw",
+     "name": "አብርሃም ቃሉ",
+     "role": "author",
+     "romanized": "aberham qalu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wd8jnkqc",
+   "id": "wk_wd8jnkqc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "neftalem",
+    "script": "Ethi",
+    "text": "ንፍታሌም"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

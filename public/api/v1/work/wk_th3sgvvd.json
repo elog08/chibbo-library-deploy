@@ -1,0 +1,115 @@
+{
+ "cover": {
+  "bytes": 13110,
+  "path": "assets/covers/wk_th3sgvvd.jpg",
+  "sha256": "c81cb44f04f1bf44efed4a184c46ffa56099bd7206694322cb5852d2170e2010",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/015cf34d-0934-4c33-b309-8d011ae03f42MikreMotBookCover.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_5bhqc9ea",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_8r1ndfte"
+ ],
+ "extensions": {},
+ "fingerprint": "ምክረ|mabatamara",
+ "first_published": {
+  "alternates": [
+   "2022-09-11/2023-09-11"
+  ],
+  "edtf": "2015?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2015"
+  }
+ },
+ "flags": [
+  "format-ebook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_th3sgvvd",
+ "id": "wk_th3sgvvd",
+ "identifiers": {
+  "afroread_id": [
+   "015cf34d-0934-4c33-b309-8d011ae03f42"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "015cf34d-0934-4c33-b309-8d011ae03f42",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/015cf34d-0934-4c33-b309-8d011ae03f42"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "85.00",
+   "provider": "afroread_book",
+   "ref": "015cf34d-0934-4c33-b309-8d011ae03f42",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/015cf34d-0934-4c33-b309-8d011ae03f42"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "3.99",
+   "provider": "afroread_book",
+   "ref": "015cf34d-0934-4c33-b309-8d011ae03f42",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/015cf34d-0934-4c33-b309-8d011ae03f42"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/015cf34d-0934-4c33-b309-8d011ae03f42"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction",
+  "Literature",
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekre",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምክረ"
+  },
+  "romanized": "mekre",
+  "sort_key": "ምክረ"
+ },
+ "type": "work"
+}

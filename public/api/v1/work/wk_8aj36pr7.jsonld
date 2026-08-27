@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8aj36pr7",
+ "@type": "Book",
+ "about": [
+  "Acadamic",
+  "NonFiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2565mny0",
+   "@type": "Person",
+   "name": "ሚካኤል ማስሬ"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/3d89c4c6-e1ef-44df-a4d1-dc802acb137ecover.jpg",
+ "inLanguage": "en",
+ "name": "Virtual Handshakes",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3d89c4c6-e1ef-44df-a4d1-dc802acb137e"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3d89c4c6-e1ef-44df-a4d1-dc802acb137e"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/3d89c4c6-e1ef-44df-a4d1-dc802acb137e"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_91q97zz0",
+   "@type": "Book"
+  }
+ ]
+}

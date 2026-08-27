@@ -1,0 +1,101 @@
+{
+ "extensions": {},
+ "fingerprint": "wanadmuhaylu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b8b9n61n",
+ "id": "pe_b8b9n61n",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Wondimu Hailu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወንድሙ ሀይሉ"
+  },
+  "romanized": "Wondimu Hailu",
+  "sort_key": "ወንድሙሀይሉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3t97rsce.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/radio-tabiayaw.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_b8b9n61n",
+     "name": "ወንድሙ ሀይሉ",
+     "role": "author",
+     "romanized": "Wondimu Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3t97rsce",
+   "id": "wk_3t97rsce",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "radyo tabyaw",
+    "script": "Ethi",
+    "text": "ራድዮ ጣብያው"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_pyfarzss.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Poetry/zufan-ena-beles-wondimu-hailu.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_b8b9n61n",
+     "name": "ወንድሙ ሀይሉ",
+     "role": "author",
+     "romanized": "Wondimu Hailu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pyfarzss",
+   "id": "wk_pyfarzss",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zufan ena beles",
+    "script": "Ethi",
+    "text": "ዙፋን እና በለስ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

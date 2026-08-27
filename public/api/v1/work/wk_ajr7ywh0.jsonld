@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ajr7ywh0",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yamal!"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9efgs37y",
+   "@type": "Person",
+   "name": "ሰለሞን ሳህለ"
+  }
+ ],
+ "datePublished": "2007?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/a36aa4e6-acaa-4edb-a857-35240e081008yamal320.png",
+ "inLanguage": "am",
+ "name": "ያማል!",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "77.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a36aa4e6-acaa-4edb-a857-35240e081008"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a36aa4e6-acaa-4edb-a857-35240e081008"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a36aa4e6-acaa-4edb-a857-35240e081008"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xmfekjqc",
+   "@type": "Book"
+  }
+ ]
+}

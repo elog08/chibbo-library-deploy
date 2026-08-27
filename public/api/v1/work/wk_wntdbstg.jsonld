@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wntdbstg",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "nu! hegeren enawaldat ena leloch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pq0c08h3",
+   "@type": "Person",
+   "name": "ዳንኤል ክብረት"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8A%91_%E1%88%80%E1%8C%88%E1%88%AC%E1%8A%95_%E1%8A%A5%E1%8A%93%E1%8B%8B%E1%88%8D%E1%8B%B3%E1%89%B5_%E1%8A%A5%E1%8A%93_%E1%88%8C%E1%88%8E%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "ኑ! ሀገሬን እናዋልዳት እና ሌሎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "76.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_174"
+  },
+  {
+   "@type": "Offer",
+   "price": "76.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_174"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_174"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1y3jwnve",
+   "@type": "Book"
+  }
+ ]
+}

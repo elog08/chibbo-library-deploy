@@ -1,0 +1,122 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Alemayehu Demeke is a multifaceted Ethiopian artist recognized as an author, songwriter, and music producer. He is best known for his philosophical and literary works that often explore spiritual and historical themes. Notable Books Yotor (ዮቶር"
+ },
+ "extensions": {},
+ "fingerprint": "alamayahudamaka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x4gkjnxh",
+ "id": "pe_x4gkjnxh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "alemayehu-demeke",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/alemayehu-demeke/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "alemayehu-demeke",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/alemayehu-demeke/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alemayehu Demeke"
+  },
+  "romanized": "Alemayehu Demeke",
+  "sort_key": "alemayehudemeke"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 105693,
+  "path": "assets/portraits/pe_x4gkjnxh.jpg",
+  "sha256": "ac472c974779198fc79b98a8d7c38568ae9fb7a0a002f64866abf1f6415cdb3b",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/Alemayehu-Demeke.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/alemayehu-demeke/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2tw8f3w7.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/07/Armageddons-Gate-የአርማጌዶን-በር-by-Alemayehu-Demeke.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_x4gkjnxh",
+     "name": "Alemayehu Demeke",
+     "role": "author",
+     "romanized": "Alemayehu Demeke"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-06-30",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_2tw8f3w7",
+   "id": "wk_2tw8f3w7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Armageddon's Gate",
+    "script": "Ethi",
+    "text": "የአርማጌዶን በር"
+   },
+   "type": "work",
+   "year": 2026
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_y5mvn8af.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/yotor-111.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_x4gkjnxh",
+     "name": "Alemayehu Demeke",
+     "role": "author",
+     "romanized": "Alemayehu Demeke"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2016-05-23",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_y5mvn8af",
+   "id": "wk_y5mvn8af",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yotor Koblayu Kahin",
+    "script": "Ethi",
+    "text": "ዮቶር ኮብላይ ካህን"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

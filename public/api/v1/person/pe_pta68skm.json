@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyahmadali",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pta68skm",
+ "id": "pe_pta68skm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "abiy-ahmed-ali",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/abiy-ahmed-ali"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "abiy-ahmed-ali",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/abiy-ahmed-ali"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abiy Ahmed Ali"
+  },
+  "romanized": "Abiy Ahmed Ali",
+  "sort_key": "abiyahmedali"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 7592,
+  "path": "assets/portraits/pe_pta68skm.webp",
+  "sha256": "370d950dc0f93d2a9516dee0eef1b30b9f5ddd58b26ad0ec57841c8ef234f5ba",
+  "source_url": "https://www.ethiobookreview.com/assets/author_imgs/abiy-ahmed-ali.webp"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview",
+  "source_url": "https://www.ethiobookreview.com/authors/profile/abiy-ahmed-ali"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8cv8bmam.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Afan Oromo/Philosophy/dhaloota-idaamuu-abiy-ahmed-ali.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_pta68skm",
+     "name": "Abiy Ahmed Ali",
+     "role": "author",
+     "romanized": "Abiy Ahmed Ali"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-review",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8cv8bmam",
+   "id": "wk_8cv8bmam",
+   "language": "om",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Dhaloota Ida'amuu",
+    "script": "Latn",
+    "text": "Dhaloota Ida'amuu"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_f5e07zyk.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Afan Oromo/Philosophy/idaamu.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_pta68skm",
+     "name": "Abiy Ahmed Ali",
+     "role": "author",
+     "romanized": "Abiy Ahmed Ali"
+    }
+   ],
+   "flags": [
+    "scope-review"
+   ],
+   "href": "https://chibbo.app/work/wk_f5e07zyk",
+   "id": "wk_f5e07zyk",
+   "language": "om",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ida’amuu",
+    "script": "Latn",
+    "text": "Ida’amuu"
+   },
+   "type": "work"
+  }
+ ]
+}

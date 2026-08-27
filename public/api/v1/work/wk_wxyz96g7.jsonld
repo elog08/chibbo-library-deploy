@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wxyz96g7",
+ "@type": "Book",
+ "about": [
+  "Social Sciences and Politics"
+ ],
+ "alternateName": [
+  "yeadis abeba guday"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3mdvxy1d",
+   "@type": "Person",
+   "name": "አምላኩ ኃ. ስዩም"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8A%A0%E1%8B%B2%E1%88%B5_%E1%8A%A0%E1%89%A0%E1%89%A3_%E1%8C%89%E1%8B%B3%E1%8B%AD.jpg",
+ "inLanguage": "am",
+ "name": "የአዲስ አበባ ጉዳይ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_148"
+  },
+  {
+   "@type": "Offer",
+   "price": "90",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_148"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_148"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nq7187sj",
+   "@type": "Book"
+  }
+ ]
+}

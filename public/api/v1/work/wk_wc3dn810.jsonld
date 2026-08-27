@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wc3dn810",
+ "@type": "Book",
+ "about": [
+  "Adeventure",
+  "Ficition",
+  "Literature"
+ ],
+ "alternateName": [
+  "felegaw"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3a2220q4",
+   "@type": "Person",
+   "name": "ዩኒቲ መፅሐፍ መደብር ፋሲካ"
+  }
+ ],
+ "datePublished": "2006?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/f9d09347-3fb8-49f4-860b-052e06459b32FilegawBookCover.png",
+ "inLanguage": "am",
+ "name": "ፍለጋው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "96.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f9d09347-3fb8-49f4-860b-052e06459b32"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f9d09347-3fb8-49f4-860b-052e06459b32"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f9d09347-3fb8-49f4-860b-052e06459b32"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ym0fz9ds",
+   "@type": "Book"
+  }
+ ]
+}

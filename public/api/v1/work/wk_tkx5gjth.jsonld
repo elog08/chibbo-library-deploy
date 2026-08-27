@@ -1,0 +1,58 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_tkx5gjth",
+ "@type": "Book",
+ "about": [
+  "Fiction"
+ ],
+ "alternateName": [
+  "AF"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a901d0w8",
+   "@type": "Person",
+   "name": "አዳም ረታ"
+  }
+ ],
+ "datePublished": "2018-10-05",
+ "description": "አፍ AF a book by Adam Reta. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/03/af-adam-reta.webp",
+ "inLanguage": "am",
+ "name": "አፍ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/af-by-adam-reta/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/af-adam-reta"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/af-by-adam-reta/",
+  "https://www.ethiobookreview.com/book/af-adam-reta"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_221tj36s",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_vj2zyqp1",
+   "@type": "Book"
+  }
+ ]
+}

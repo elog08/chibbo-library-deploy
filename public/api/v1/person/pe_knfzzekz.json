@@ -1,0 +1,59 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Addis Book Store"
+ },
+ "extensions": {},
+ "fingerprint": "adisbokstora",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_knfzzekz",
+ "id": "pe_knfzzekz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "addis-book-store",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/addis-book-store/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "addis-book-store",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/addis-book-store/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Addis Book Store"
+  },
+  "romanized": "Addis Book Store",
+  "sort_key": "addisbookstore"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 123354,
+  "path": "assets/portraits/pe_knfzzekz.jpg",
+  "sha256": "857922decdc674955cefa0dab7b29c8ad1ea485150bbb63b8d564bde33683d27",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2024/02/addisbooks-website.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/addis-book-store/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": []
+}

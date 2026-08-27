@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "በደቡብ ጎንደር ደብረ ታቦር ዞን በጉና በየምድር ወረዳ ድድም ደብረ ጽዮን ማርያም አጥቢያ ተወለደ በዓብነት ትምህርት ቤትም መጠነኛ ቆይታ አለው ከፊደል... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "magabahaymanotyalaqsharaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ffyf1qjj",
+ "id": "pe_ffyf1qjj",
+ "identifiers": {
+  "afroread_id": [
+   "94aaf333-6b71-4722-1811-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "94aaf333-6b71-4722-1811-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/94aaf333-6b71-4722-1811-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "94aaf333-6b71-4722-1811-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/94aaf333-6b71-4722-1811-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "megabe haymanot yelaq sharew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መጋቤ ሃይማኖት ይላቅ ሻረው"
+  },
+  "romanized": "megabe haymanot yelaq sharew",
+  "sort_key": "መጋቤሀይማኖትይላቅሻረው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 31735,
+  "path": "assets/portraits/pe_ffyf1qjj.png",
+  "sha256": "a0177a384ca221bb054e418a2abef491ed1663b55577523a4317de255bc9ab29",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/e230fa89-512f-41fd-9b60-ea35850c3c70YilakSHarewProfile320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/94aaf333-6b71-4722-1811-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_65366vxk.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2a9b6d2f-d81e-494b-8d1c-fe45edb9c368BegoHilinaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ffyf1qjj",
+     "name": "መጋቤ ሃይማኖት ይላቅ ሻረው",
+     "role": "author",
+     "romanized": "megabe haymanot yelaq sharew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_65366vxk",
+   "id": "wk_65366vxk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bego helina",
+    "script": "Ethi",
+    "text": "በጎ ኅሊና"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

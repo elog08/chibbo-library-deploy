@@ -1,0 +1,75 @@
+{
+ "extensions": {},
+ "fingerprint": "mazamanakar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5tpp0exh",
+ "id": "pe_5tpp0exh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Meaza Menkir",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መዓዛ መንክር"
+  },
+  "romanized": "Meaza Menkir",
+  "sort_key": "መአዛመንክር"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_m7nem3rs.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Health/amharic-medical-book-meaza-menkir.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_5tpp0exh",
+     "name": "መዓዛ መንክር",
+     "role": "author",
+     "romanized": "Meaza Menkir"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m7nem3rs",
+   "id": "wk_m7nem3rs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hulum beaned tegbar tekor yehekemna metshef",
+    "script": "Ethi",
+    "text": "ሁሉም በአንድ ተግባር ተኮር የህክምና መጽሐፍ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

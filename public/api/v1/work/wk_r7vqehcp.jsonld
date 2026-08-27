@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_r7vqehcp",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "yene jegna ena leloch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pq0c08h3",
+   "@type": "Person",
+   "name": "ዳንኤል ክብረት"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8A%94_%E1%8C%80%E1%8C%8D%E1%8A%93_%E1%8A%A5%E1%8A%93_%E1%88%8C%E1%88%8E%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "የኔ ጀግና እና ሌሎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "76.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_196"
+  },
+  {
+   "@type": "Offer",
+   "price": "76.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_196"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_196"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0z9yqwnv",
+   "@type": "Book"
+  }
+ ]
+}

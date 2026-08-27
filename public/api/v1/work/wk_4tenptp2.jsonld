@@ -1,0 +1,57 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4tenptp2",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Politics",
+  "Sociology"
+ ],
+ "alternateName": [
+  "yegehanem dejoch poletika"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_d866pwka",
+   "@type": "Person",
+   "name": "አማኑኤል አማን"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/5035801b-d588-486f-a308-6e54481ee7f9YegehanemDejochPolicticsBookCover.png",
+ "inLanguage": "am",
+ "name": "የገሃነም ደጆች ፖለቲካ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "99.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/5035801b-d588-486f-a308-6e54481ee7f9"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/5035801b-d588-486f-a308-6e54481ee7f9"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/5035801b-d588-486f-a308-6e54481ee7f9"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sw3k6dth",
+   "@type": "Book"
+  }
+ ]
+}

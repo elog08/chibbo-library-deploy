@@ -1,0 +1,101 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dagim Tilahun is a professional Civil Engineer, a Teacher, a passionate Human Rights Defender, a Tra... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dagimtilahun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t0qkk7m0",
+ "id": "pe_t0qkk7m0",
+ "identifiers": {
+  "afroread_id": [
+   "a725c3b3-5d1d-4322-f7c2-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "a725c3b3-5d1d-4322-f7c2-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/a725c3b3-5d1d-4322-f7c2-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "a725c3b3-5d1d-4322-f7c2-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/a725c3b3-5d1d-4322-f7c2-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dagim Tilahun"
+  },
+  "romanized": "Dagim Tilahun",
+  "sort_key": "dagimtilahun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 15718,
+  "path": "assets/portraits/pe_t0qkk7m0.jpg",
+  "sha256": "349bc573998e97ab5e9be0306896aa8f29743bc3a0b23b8921a1497b3e09cd8f",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/111596f0-74e9-4288-897d-fe2922bf9bfdDagimTilahun320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/a725c3b3-5d1d-4322-f7c2-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wh9k13nn.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2cfe009f-4dec-46bf-8c53-d05c6d35878cHomoDesBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_t0qkk7m0",
+     "name": "Dagim Tilahun",
+     "role": "author",
+     "romanized": "Dagim Tilahun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wh9k13nn",
+   "id": "wk_wh9k13nn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "homo diyus",
+    "script": "Ethi",
+    "text": "ሆሞ ዲዩስ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

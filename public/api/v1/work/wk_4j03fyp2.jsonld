@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4j03fyp2",
+ "@type": "Book",
+ "about": [
+  "Self Help"
+ ],
+ "alternateName": [
+  "semetna aemro"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4n6g3j2n",
+   "@type": "Person",
+   "name": "ከተማ አድማሱ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%B5%E1%88%9C%E1%89%B5%E1%8A%93_%E1%8A%A0%E1%8A%A5%E1%88%9D%E1%88%AE.jpg",
+ "inLanguage": "am",
+ "name": "ስሜትና አእምሮ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "145.8",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_190"
+  },
+  {
+   "@type": "Offer",
+   "price": "145.8",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_190"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_190"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ynjh6r3j",
+   "@type": "Book"
+  }
+ ]
+}

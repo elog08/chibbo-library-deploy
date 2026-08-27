@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fw0ejyat",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "yeshenqut lejoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9hg25cp2",
+   "@type": "Person",
+   "name": "ዓለማየሁ አበበ ሸንቁጥ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%88%B8%E1%8A%95%E1%89%81%E1%8C%A5_%E1%88%8D%E1%8C%86%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "የሸንቁጥ ልጆች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "59.4",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_144"
+  },
+  {
+   "@type": "Offer",
+   "price": "59.4",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_144"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_144"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1k1q85zp",
+   "@type": "Book"
+  }
+ ]
+}

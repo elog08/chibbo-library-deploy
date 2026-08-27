@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አንተነህ በንቲ ነገዎ በሀዋሳ ዩኒቨርሲቲ ሌክቸረር በመሆን እያገለገለ ይገኛል ዘሬ ሰው ሀይማኖቱ ፍቅር ዜግነ ኢትዮጵያዊ ሀገሩ ታላቋ እና ትልቋ ኢ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "antanahbantinagawo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pg0x3n4e",
+ "id": "pe_pg0x3n4e",
+ "identifiers": {
+  "afroread_id": [
+   "c85baef2-6a1f-4198-f7c4-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "c85baef2-6a1f-4198-f7c4-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/c85baef2-6a1f-4198-f7c4-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "c85baef2-6a1f-4198-f7c4-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/c85baef2-6a1f-4198-f7c4-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "anteneh benti negewo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንተነህ በንቲ ነገዎ"
+  },
+  "romanized": "anteneh benti negewo",
+  "sort_key": "አንተነህበንቲነገዎ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 85577,
+  "path": "assets/portraits/pe_pg0x3n4e.png",
+  "sha256": "fb0f09e13a43c9a0c34fb336c3c8561a2e499ec6e9833d862acad9b5f6627c6c",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/c4d87269-a0fd-4cd7-8603-3b7cc829e3ffAntenehBenti320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/c85baef2-6a1f-4198-f7c4-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cnhf0rfw.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/4308a8d3-2452-4cf2-86ee-6e7175cc1d95AntenehBentiComedyCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pg0x3n4e",
+     "name": "አንተነህ በንቲ ነገዎ",
+     "role": "author",
+     "romanized": "anteneh benti negewo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cnhf0rfw",
+   "id": "wk_cnhf0rfw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "komedi",
+    "script": "Ethi",
+    "text": "ኮሜዲ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xmtwpxgb.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2f5178de-ea94-4276-af12-9f5fe02018fdEthioBusinessBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_pg0x3n4e",
+     "name": "አንተነህ በንቲ ነገዎ",
+     "role": "author",
+     "romanized": "anteneh benti negewo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xmtwpxgb",
+   "id": "wk_xmtwpxgb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ityo biznes",
+    "script": "Ethi",
+    "text": "ኢትዮ ቢዝነስ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

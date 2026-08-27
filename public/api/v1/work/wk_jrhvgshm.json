@@ -1,0 +1,110 @@
+{
+ "cover": {
+  "bytes": 54732,
+  "path": "assets/covers/wk_jrhvgshm.jpg",
+  "sha256": "d03a0acc37547c612b7318abdf03fe9971fcc2e23b33b8cbda1e297655641d41",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/yebirhantemona.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_yty1z54z",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "የብርሃን ጥሞና Ye Birhan Temona a book by Saba Sisay. Addis Books!"
+ },
+ "editions": [
+  "ed_2afqyf0x"
+ ],
+ "extensions": {},
+ "fingerprint": "የብርሀንጥሞና|sabasisay",
+ "first_published": {
+  "edtf": "2026-01-06",
+  "original": {
+   "calendar": "gregorian",
+   "value": "January 6, 2026"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_jrhvgshm",
+ "id": "wk_jrhvgshm",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6357"
+  ],
+  "isbn13": [
+   "9789999009768"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "ye-birhan-temona-by-saba-sisay",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/ye-birhan-temona-by-saba-sisay/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "25.00",
+   "provider": "addisbooks",
+   "ref": "ye-birhan-temona-by-saba-sisay",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/ye-birhan-temona-by-saba-sisay/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "B0CGL4NL6K",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/B0CGL4NL6K"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/ye-birhan-temona-by-saba-sisay/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yeberhan temona",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የብርሃን ጥሞና"
+  },
+  "romanized": "yeberhan temona",
+  "sort_key": "የብርሀንጥሞና"
+ },
+ "type": "work"
+}

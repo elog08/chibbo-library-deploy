@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sjb7y938",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "tarik “tariken” simoget"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xzm6ev6s",
+   "@type": "Person",
+   "name": "ሓድሽ ረዳ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%89%B3%E1%88%AA%E1%8A%AD_%E1%89%B3%E1%88%AA%E1%8A%AD%E1%8A%95_%E1%88%B2%E1%88%9E%E1%8C%8D%E1%89%B5.jpg",
+ "inLanguage": "am",
+ "name": "ታሪክ “ታሪክን” ሲሞግት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_219"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_219"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_219"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_t5hfx7ag",
+   "@type": "Book"
+  }
+ ]
+}

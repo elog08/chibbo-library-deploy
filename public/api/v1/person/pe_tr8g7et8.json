@@ -1,0 +1,141 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Ye Gordian Knot (quatero) Berihun Adane የጎርዲያን ቋጠሮ: ከራሷ ጋር የታረቀች ኢትዮጵያ (Amharic Edition)"
+ },
+ "extensions": {},
+ "fingerprint": "barihunadana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tr8g7et8",
+ "id": "pe_tr8g7et8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "berihun-adane",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/berihun-adane/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "berihun-adane",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/berihun-adane/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Barihun Adane",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Berihun Adane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በሪሁን አዳነ"
+  },
+  "romanized": "Barihun Adane",
+  "sort_key": "በሪሁንአዳነ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 123354,
+  "path": "assets/portraits/pe_tr8g7et8.jpg",
+  "sha256": "857922decdc674955cefa0dab7b29c8ad1ea485150bbb63b8d564bde33683d27",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2024/02/addisbooks-website.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/berihun-adane/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1bn9jhcn.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/yeken-wetalen-politica-barihun-adane.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_tr8g7et8",
+     "name": "በሪሁን አዳነ",
+     "role": "author",
+     "romanized": "Barihun Adane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1bn9jhcn",
+   "id": "wk_1bn9jhcn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqen wetalen poletika",
+    "script": "Ethi",
+    "text": "የቀን ወጣልን ፖለቲካ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nj2ed1rj.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2023/10/የጎርዲያን-ቋጠሮ-ከራሷ-ጋር-የታረቀች-ኢትዮጵያ-Berihun-Adane.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_tr8g7et8",
+     "name": "በሪሁን አዳነ",
+     "role": "author",
+     "romanized": "Barihun Adane"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-09-23",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_nj2ed1rj",
+   "id": "wk_nj2ed1rj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye Gordian Knot (quatero)",
+    "script": "Latn",
+    "text": "Ye Gordian Knot (quatero)"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

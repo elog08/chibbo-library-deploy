@@ -1,0 +1,97 @@
+{
+ "cover": {
+  "bytes": 6330,
+  "path": "assets/covers/wk_yqy6s6jv.jpg",
+  "sha256": "24215b28dc8f8feaac13af0f071028d4196c6cafdc2a971441d59425b2e819c7",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/exodia.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_rxj7ykpe",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "ኤክሶድያ Exodia, a Book by Solomon Abebe. Addis Books!"
+ },
+ "editions": [
+  "ed_rcezeckf"
+ ],
+ "extensions": {},
+ "fingerprint": "ኤክሶድያ|solomonababa",
+ "first_published": {
+  "edtf": "2020-10-28",
+  "original": {
+   "calendar": "gregorian",
+   "value": "October 28, 2020"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_yqy6s6jv",
+ "id": "wk_yqy6s6jv",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6379"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "exodia-by-solomon-abebe",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/exodia-by-solomon-abebe/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "3.00",
+   "provider": "addisbooks",
+   "ref": "exodia-by-solomon-abebe",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/exodia-by-solomon-abebe/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/exodia-by-solomon-abebe/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Exodia",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤክሶድያ"
+  },
+  "romanized": "Exodia",
+  "sort_key": "ኤክሶድያ"
+ },
+ "type": "work"
+}

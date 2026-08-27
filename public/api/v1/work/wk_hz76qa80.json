@@ -1,0 +1,102 @@
+{
+ "cover": {
+  "bytes": 230496,
+  "path": "assets/covers/wk_hz76qa80.jpg",
+  "sha256": "9fec392fbaae86549ba4a2e937bd8062b9ea59c7e9a533755dd1c14ce2003544",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2023/12/marzot-by-rodas-tadese-abebe-addisbooks.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_wgzdez4n",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dr. Rodas Tadese Abebe has published more than 23 books about the ancient wisdom of Ethiopians and the Ethiopian Orthodox Church. This book focuses on the stars and the creation of God in the universe."
+ },
+ "editions": [
+  "ed_qa8rq8yh"
+ ],
+ "extensions": {},
+ "fingerprint": "ማዛሮት|magabahadisrodastadasa",
+ "first_published": {
+  "edtf": "2022-09-23",
+  "original": {
+   "calendar": "gregorian",
+   "value": "September 23, 2022"
+  }
+ },
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_hz76qa80",
+ "id": "wk_hz76qa80",
+ "identifiers": {
+  "addisbooks_sku": [
+   "read-freely-1"
+  ],
+  "isbn13": [
+   "9798218078867"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "mazarot",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/mazarot/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "20.00",
+   "provider": "addisbooks",
+   "ref": "mazarot",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/mazarot/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/mazarot/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Religious"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Mazarot",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማዛሮት"
+  },
+  "romanized": "Mazarot",
+  "sort_key": "ማዛሮት"
+ },
+ "type": "work"
+}

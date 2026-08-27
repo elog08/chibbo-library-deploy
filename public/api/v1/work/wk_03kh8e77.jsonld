@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_03kh8e77",
+ "@type": "Book",
+ "about": [
+  "Childrens"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rxv4qsm0",
+   "@type": "Person",
+   "name": "Dr. Kebede Michael"
+  }
+ ],
+ "datePublished": "2020-05-27",
+ "description": "Tarik Ena Mesale: An Ethiopian Tale by Dr. Kebede Michael. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/05/tarik-ena-mesale.jpg",
+ "inLanguage": "en",
+ "isbn": "9798648812741",
+ "name": "Tarik Ena Mesale An Ethiopian Tale",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/tarik-ena-mesale-an-ethiopian-tale-by-dr-kebede-michael/"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/tarik-ena-mesale-an-ethiopian-tale-by-dr-kebede-michael/",
+  "https://openlibrary.org/works/OL35794895W"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8vpbhx2r",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዮሐንስ ሞላ ከመደበኛ የዳታቤዝ ዴቨሎፐርነት ሙያው በተጨማሪ ገጣሚ እና ጸሀፊ እንዲሁም የዘፈን ግጥም ደራሲ ነው ከጸሃፊነት ችሎታው ጋር ተያይዞ የጉማ አዋ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yohanasmola",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t56gqfey",
+ "id": "pe_t56gqfey",
+ "identifiers": {
+  "afroread_id": [
+   "ef80ea29-105a-4ae8-2d1e-08dd0ee59e28"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ef80ea29-105a-4ae8-2d1e-08dd0ee59e28",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ef80ea29-105a-4ae8-2d1e-08dd0ee59e28"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ef80ea29-105a-4ae8-2d1e-08dd0ee59e28",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ef80ea29-105a-4ae8-2d1e-08dd0ee59e28"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes mola",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ሞላ"
+  },
+  "romanized": "yohenes mola",
+  "sort_key": "ዮሀንስሞላ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 110297,
+  "path": "assets/portraits/pe_t56gqfey.png",
+  "sha256": "1c3aac3601a91a66ff26f873766fe3302b79790c0608f4f99bf4d2acfee73086",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/f87fe542-1cd9-4a79-a3ca-f9eb367e8397Yohanes_Molla_Profile_Photo_320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ef80ea29-105a-4ae8-2d1e-08dd0ee59e28"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pa4hja88.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/bb848f42-ecfb-46b0-96b8-6b43bb59992eKewedekewWarka_Book_Cover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_t56gqfey",
+     "name": "ዮሐንስ ሞላ",
+     "role": "author",
+     "romanized": "yohenes mola"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pa4hja88",
+   "id": "wk_pa4hja88",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kewedeqew warka",
+    "script": "Ethi",
+    "text": "ከወደቀው ዋርካ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

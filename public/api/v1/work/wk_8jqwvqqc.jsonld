@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8jqwvqqc",
+ "@type": "Book",
+ "about": [
+  "Philosophy"
+ ],
+ "alternateName": [
+  "yeityopya felesefna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ymnb194d",
+   "@type": "Person",
+   "name": "ብሩህ ዓለምነህ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8A%A2%E1%89%B5%E1%8B%AE%E1%8C%B5%E1%8B%AB_%E1%8D%8D%E1%88%8D%E1%88%B5%E1%8D%8D%E1%8A%93.jpg",
+ "inLanguage": "am",
+ "name": "የኢትዮጵያ ፍልስፍና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "82.35",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_57"
+  },
+  {
+   "@type": "Offer",
+   "price": "82.35",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_57"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_57"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1y01xb7p",
+   "@type": "Book"
+  }
+ ]
+}

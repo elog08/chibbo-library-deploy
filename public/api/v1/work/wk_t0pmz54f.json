@@ -1,0 +1,104 @@
+{
+ "cover": {
+  "bytes": 30116,
+  "path": "assets/covers/wk_t0pmz54f.jpg",
+  "sha256": "00bdee06bc2e001c56d73ea226276fefef7c367ff298ac1951210ecb720fa0fb",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/sefinaye.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_3mh7n9c9",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Sefinaye ሠፊናዬ by Naod Wubetu. Addis Books!"
+ },
+ "editions": [
+  "ed_fa9mykq4"
+ ],
+ "extensions": {},
+ "fingerprint": "ሰፊናዬ|naodwubatu",
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_t0pmz54f",
+ "id": "wk_t0pmz54f",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6800"
+  ],
+  "isbn13": [
+   "9781981500819"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "sefinaye-by-naod-wubetu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/sefinaye-by-naod-wubetu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "20.00",
+   "provider": "addisbooks",
+   "ref": "sefinaye-by-naod-wubetu",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/sefinaye-by-naod-wubetu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "1981500812",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/1981500812"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/sefinaye-by-naod-wubetu/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Sefinaye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሠፊናዬ"
+  },
+  "romanized": "Sefinaye",
+  "sort_key": "ሰፊናዬ"
+ },
+ "type": "work"
+}

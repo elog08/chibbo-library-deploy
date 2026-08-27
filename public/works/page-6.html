@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Works — page 6</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Works</a>
+    <a href="../people/page-1.html">People</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../works/page-1.html"><span itemprop="name">Works</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 6</span><meta itemprop="position" content="3"></li></ol></nav>
+<p class="eyebrow">Works</p><h1>Works</h1><ul class="grid"><li class="card">
+  <a class="thumb" href="../work/wk_b53fb25x.html"><img src="../assets/covers/wk_b53fb25x.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_b53fb25x.html">ሰባቱ የስኬት ምስጢራት</a>
+  <span class="r">sebatu yesket mestirat</span>
+  <span class="a">ቢንያም አለማየሁ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hnd90r46.html"><img src="../assets/covers/wk_hnd90r46.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hnd90r46.html">ሰው ብርቱ ብረት ከንቱ</a>
+  <span class="r">Sew Bertu Beret Kentu</span>
+  <span class="a">Tilahun Fanta · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b67vfk1x.html"><img src="../assets/covers/wk_b67vfk1x.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_b67vfk1x.html">ሰውነት</a>
+  <span class="r">sewnet</span>
+  <span class="a">ሐዋዝ የሻነህ · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ejwthenz.html"><img src="../assets/covers/wk_ejwthenz.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ejwthenz.html">ሰውና ሃሳቡ</a>
+  <span class="r">sewna hasabu</span>
+  <span class="a">መክብብ አበበ · 2012</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hx28fyy0.html"><img src="../assets/covers/wk_hx28fyy0.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hx28fyy0.html">ሰው አክባሪው ልጅ</a>
+  <span class="r">sew akbariw lej</span>
+  <span class="a">ሄኖክ ግርማ · 2012</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4tcbacby.html"><img src="../assets/covers/wk_4tcbacby.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_4tcbacby.html">ሰውየው</a>
+  <span class="r">sewyew</span>
+  <span class="a">ሞሃመድ ሀሰን · 2019</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7j0z3ysq.html"><img src="../assets/covers/wk_7j0z3ysq.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7j0z3ysq.html">ሰውየው</a>
+  <span class="r">sewyew</span>
+  <span class="a">መሐመድ ሐሰን</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_t0pmz54f.html"><img src="../assets/covers/wk_t0pmz54f.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_t0pmz54f.html">ሠፊናዬ</a>
+  <span class="r">Sefinaye</span>
+  <span class="a">Naod Wubetu</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2v59q5fc.html"><img src="../assets/covers/wk_2v59q5fc.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_2v59q5fc.html">ሱቱኤል</a>
+  <span class="r">sutuel</span>
+  <span class="a">ታገል አምሳል · 2011</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_gr2pgerd.html"><img src="../assets/covers/wk_gr2pgerd.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_gr2pgerd.html">ሳለቅስ እና ስስቅ</a>
+  <span class="r">saleqes ena seseq</span>
+  <span class="a">ዘሪሁን ገመቹ · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kw4sme5e.html"><img src="../assets/covers/wk_kw4sme5e.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_kw4sme5e.html">ሣልሳዊ ልደት</a>
+  <span class="r">salsawi ledet</span>
+  <span class="a">ሲሳይ ንጉሡ · 2018</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nga7ghdc.html"><img src="../assets/covers/wk_nga7ghdc.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_nga7ghdc.html">ሳቅሽ ይናገራል</a>
+  <span class="r">saqesh yenageral</span>
+  <span class="a">ማሩ እንዳለ ባልቻ · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_m095keny.html"><img src="../assets/covers/wk_m095keny.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_m095keny.html">ሳጥናኤል ጎል ኢትዮጵያ</a>
+  <span class="r">satnael gol ityopya</span>
+  <span class="a">ዋሴ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1p4gmk4n.html"><img src="../assets/covers/wk_1p4gmk4n.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1p4gmk4n.html">ሴክስ ፖዚሽን እና ሳይንሳዊ ምስጢሮች</a>
+  <span class="r">sekes pozishen ena sayensawi mestiroch</span>
+  <span class="a">ቅድስት ባዬ · 2017</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cqv6vfdf.html"><img src="../assets/covers/wk_cqv6vfdf.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_cqv6vfdf.html">ስለ ሰብ</a>
+  <span class="r">sele seb</span>
+  <span class="a">ይኸነው ጌታቸው · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_08t45qkb.html"><img src="../assets/covers/wk_08t45qkb.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_08t45qkb.html">ስልክሽን ልያዘው</a>
+  <span class="r">selekeshen leyazew</span>
+  <span class="a">ሄኖክ ግርማ · 2004</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_syazg3xp.html"><img src="../assets/covers/wk_syazg3xp.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_syazg3xp.html">ስልክሽን ልያዘው እና ሌሎች</a>
+  <span class="r">selekeshen leyazew ena leloch</span>
+  <span class="a">ሄኖክ ግርማ · 2016</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_y1cnwarq.html"><img src="../assets/covers/wk_y1cnwarq.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_y1cnwarq.html">ስማችሁ የለም እና ሌሎች</a>
+  <span class="r">semachhu yelem ena leloch</span>
+  <span class="a">ዳንኤል ክብረት</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4j03fyp2.html"><img src="../assets/covers/wk_4j03fyp2.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_4j03fyp2.html">ስሜትና አእምሮ</a>
+  <span class="r">semetna aemro</span>
+  <span class="a">ከተማ አድማሱ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ck8ydtdt.html"><img src="../assets/covers/wk_ck8ydtdt.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ck8ydtdt.html">ስርዓተ ገዳማት</a>
+  <span class="r">serate gedamat</span>
+  <span class="a">ወይንሸት እምሬ · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_w95zs85d.html"><img src="../assets/covers/wk_w95zs85d.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_w95zs85d.html">ስብሐት ገብረእግዚአብሔር ሕይወትና ክህሎት</a>
+  <span class="r">sebhet gebreegziabher heywetna kehlot</span>
+  <span class="a">አለማየሁ ገላጋይ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_d9yyyz8n.html"><img src="../assets/covers/wk_d9yyyz8n.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_d9yyyz8n.html">ስትራቴጂ</a>
+  <span class="r">setrateji</span>
+  <span class="a">ኮሎኔል ፈቀደ ገብረየስ · 2016</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_my5bfvvq.html"><img src="../assets/covers/wk_my5bfvvq.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_my5bfvvq.html">ስትራቴጂ</a>
+  <span class="r">setrateji</span>
+  <span class="a">ፈቃደ ገብረየስ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dn9nx85e.html"><img src="../assets/covers/wk_dn9nx85e.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_dn9nx85e.html">ስትሮክ መንስዔውና መከላከያ ዘዴው</a>
+  <span class="r">setrok menesewna mekelakeya zedew</span>
+  <span class="a">ባምላኩ አበባው · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j2cm2pf0.html"><img src="../assets/covers/wk_j2cm2pf0.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_j2cm2pf0.html">ስኬታማ አስተሳሰብ</a>
+  <span class="r">seketama astesaseb</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2004</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rc386rsk.html"><img src="../assets/covers/wk_rc386rsk.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rc386rsk.html">ስውር ሴራ</a>
+  <span class="r">sewer sera</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2005</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_afrrhx0t.html"><img src="../assets/covers/wk_afrrhx0t.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_afrrhx0t.html">ሶልያና</a>
+  <span class="r">solyana</span>
+  <span class="a">ኤፍሬም ስዩም · 1998</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_v9m1r3d3.html"><img src="../assets/covers/wk_v9m1r3d3.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_v9m1r3d3.html">ሶምሶማ</a>
+  <span class="r">Somsoma</span>
+  <span class="a">Sirak Wondemu</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cwm2extf.html"><img src="../assets/covers/wk_cwm2extf.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_cwm2extf.html">ሦሥተኛው ኪዳን</a>
+  <span class="r">sostenyaw kidan</span>
+  <span class="a">ደመወዝ ጎሽሜ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qv54agzj.html"><img src="../assets/covers/wk_qv54agzj.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_qv54agzj.html">ሦሥተኛው ኪዳን</a>
+  <span class="r">sostenyaw kidan</span>
+  <span class="a">ደሞዝ ጎሹሜ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vhggyvp9.html"><img src="../assets/covers/wk_vhggyvp9.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vhggyvp9.html">ሸማቂው ኮማንዶ</a>
+  <span class="r">shemaqiw komando</span>
+  <span class="a">ብርጋደር ጀነራል ተፈራ ማሞ · 2013</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2q7nbjsa.html"><img src="../assets/covers/wk_2q7nbjsa.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_2q7nbjsa.html">ሸግዬ ሸጊቱ</a>
+  <span class="r">shegye shegitu</span>
+  <span class="a">ሚካኤል አስጨናቂ · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1r01ne72.html"><img src="../assets/covers/wk_1r01ne72.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1r01ne72.html">ሽልማቱን ለመቀበል</a>
+  <span class="r">shelmatun lemeqebel</span>
+  <span class="a">Milkiyas Gendo Amuma · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_tbeq3qj0.html"><img src="../assets/covers/wk_tbeq3qj0.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_tbeq3qj0.html">ቀላሉን ነገር አታካብድ</a>
+  <span class="r">qelalun neger atakabed</span>
+  <span class="a">ዮናስ ላቀው</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6gp1x1fs.html"><img src="../assets/covers/wk_6gp1x1fs.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_6gp1x1fs.html">ቀልበ ሙሉ ህይወት</a>
+  <span class="r">qelbe mulu heywet</span>
+  <span class="a">Dr. Tesfay Solomon Tsegay · 2016</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_af03kjcx.html"><img src="../assets/covers/wk_af03kjcx.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_af03kjcx.html">ቀበና በትውስታ ጎዳና</a>
+  <span class="r">qebena betewesta godana</span>
+  <span class="a">አለማየሁ ማሞ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kjdv0czz.html"><img src="../assets/covers/wk_kjdv0czz.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_kjdv0czz.html">ቀብጽያ</a>
+  <span class="r">qebetsya</span>
+  <span class="a">የቃናው ስምዖን · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b8cknktm.html"><img src="../assets/covers/wk_b8cknktm.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_b8cknktm.html">ቀን</a>
+  <span class="r">qen</span>
+  <span class="a">ሰሎሞን በርሄ ዶ/ር · 2003</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sgtt9t52.html"><img src="../assets/covers/wk_sgtt9t52.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_sgtt9t52.html">ቀጭኔ እና እኔ</a>
+  <span class="r">qechne ena ene</span>
+  <span class="a">Ready Set Go Books</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_64m4b26y.html"><img src="../assets/covers/wk_64m4b26y.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_64m4b26y.html">ቁጠሩልኝ</a>
+  <span class="r">quteruleny</span>
+  <span class="a">Ready Set Go Books</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kg3wq0pp.html"><img src="../assets/covers/wk_kg3wq0pp.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_kg3wq0pp.html">ቃና ዘገሊላ</a>
+  <span class="r">qana zegelila</span>
+  <span class="a">ዲያቆን ሄኖክ ሀይሌ · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ya783eke.html"><img src="../assets/covers/wk_ya783eke.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ya783eke.html">ቅሌት</a>
+  <span class="r">qelet</span>
+  <span class="a">መቶ አለቃ አንዳርጌ መስፍን · 2009</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_gvv7ytb2.html"><img src="../assets/covers/wk_gvv7ytb2.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_gvv7ytb2.html">ቅበላ</a>
+  <span class="r">qebela</span>
+  <span class="a">አለማየሁ ገላጋይ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8vmwjgfp.html"><img src="../assets/covers/wk_8vmwjgfp.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_8vmwjgfp.html">ቅዱስ ዮሐንስ አፈወርቅ (ሕይወቱና ትምህርቱ)</a>
+  <span class="r">qedus yohenes afewereq (heywetuna temehertu)</span>
+  <span class="a">ድያቆን ያረጋል አበጋዝ · 2011</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g03yeywc.html"><img src="../assets/covers/wk_g03yeywc.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_g03yeywc.html">ቆንጆዎቹ</a>
+  <span class="r">Konjowochu</span>
+  <span class="a">Serk Daniel / Daniel Gobena · 1997</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wht78pqe.html"><img src="../assets/covers/wk_wht78pqe.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wht78pqe.html">በ52 ሳምንታት ሕይወትን የመለወጥ ምስጢር</a>
+  <span class="r">be52 samentat heyweten yemelewet mestir</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2015</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_047h1rh4.html"><img src="../assets/covers/wk_047h1rh4.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_047h1rh4.html">በህይወት የተሞላን ነን</a>
+  <span class="r">beheywet yetemolan nen</span>
+  <span class="a">Ready Set Go Books</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_tm2c2pd6.html"><img src="../assets/covers/wk_tm2c2pd6.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_tm2c2pd6.html">በልባችን የፈሰሰው የእግዚአብሔር ፍቅር</a>
+  <span class="r">belbachen yefesesew yeegziabher feqer</span>
+  <span class="a">ያሬድ ደመረው · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3s79vkhq.html"><img src="../assets/covers/wk_3s79vkhq.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_3s79vkhq.html">በመንገዴ ላይ</a>
+  <span class="r">bemengede lay</span>
+  <span class="a">ሚካኤል ማስሬ · 2014</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_akn51fnk.html"><img src="../assets/covers/wk_akn51fnk.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_akn51fnk.html">በሙት መንፈስ አገር ሲታመስ</a>
+  <span class="r">bemut menfes ager sitames</span>
+  <span class="a">መቶ አለቃ አንዳርጌ መስፍን · 2005</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_n7jkfh7d.html"><img src="../assets/covers/wk_n7jkfh7d.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_n7jkfh7d.html">በምሥራቅ በኩል</a>
+  <span class="r">bemesraq bekul</span>
+  <span class="a">ሰለሞን ሳህለ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9nrtzdh0.html"><img src="../assets/covers/wk_9nrtzdh0.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_9nrtzdh0.html">በረራ ቀዳሚት አዲስ አበባ</a>
+  <span class="r">berera qedamit adis abeba</span>
+  <span class="a">ሀብታሙ መንግስቴ ተገኝ · 2012</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_gw9ydqgg.html"><img src="../assets/covers/wk_gw9ydqgg.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_gw9ydqgg.html">በቅፅበት የማሰብ ኃይል</a>
+  <span class="r">beqetsbet yemaseb hayel</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2013</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ym94e3b8.html"><img src="../assets/covers/wk_ym94e3b8.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ym94e3b8.html">በታዳጊ ኢኮኖሚ</a>
+  <span class="r">betadagi ikonomi</span>
+  <span class="a">ላዕከማርያም ደምሴ · 1998</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_a5dg30nv.html"><img src="../assets/covers/wk_a5dg30nv.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_a5dg30nv.html">በትልቁ የማሰብ ኃይል</a>
+  <span class="r">betelqu yemaseb hayel</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2013</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qqa0rk1a.html"><img src="../assets/covers/wk_qqa0rk1a.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_qqa0rk1a.html">በትረ ሃይማኖት</a>
+  <span class="r">betre haymanot</span>
+  <span class="a">ቀሲስ መዝገቡ ካሣ ፈለቀ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xje5az2p.html"><img src="../assets/covers/wk_xje5az2p.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_xje5az2p.html">በዓለም ውስጥ የተደበቁ ዕንቁዎች እና ኢትዮጵያ</a>
+  <span class="r">bealem weset yetedebequ enquwoch ena ityopya</span>
+  <span class="a">ነጋ ገረመው ታምራት</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vz459vxd.html"><img src="../assets/covers/wk_vz459vxd.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vz459vxd.html">በዓሉ ግርማ ሕይወቱና ስራዎቹ</a>
+  <span class="r">bealu germa heywetuna serawochu</span>
+  <span class="a">እንዳለጌታ ከበደ · 2017</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vbrde9sw.html"><img src="../assets/covers/wk_vbrde9sw.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vbrde9sw.html">በኢትዮጵያ ብቻ</a>
+  <span class="r">beityopya becha</span>
+  <span class="a">Ready Set Go Books</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wv8s2beh.html"><img src="../assets/covers/wk_wv8s2beh.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wv8s2beh.html">በኢትዮጵያ ከፍተኛ ተራሮች ቆይታዬ</a>
+  <span class="r">beityopya keftenya teraroch qoytaye</span>
+  <span class="a">ገነት አየለ አንበሴ</span>
+</li></ul><div class="pager"><a href="page-5.html">&larr; previous</a><span class="spacer"></span><span>page 6 of 17 · 964 records</span><span class="spacer"></span><a href="page-7.html">next &rarr;</a></div>
+<footer>
+  <span>964 works · 605 people</span>
+  <span>Every record is a draft</span>
+  <span>Built from commit 83a93da6</span>
+</footer>
+</div></body></html>

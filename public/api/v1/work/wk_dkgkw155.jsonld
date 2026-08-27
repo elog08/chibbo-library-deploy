@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_dkgkw155",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "ferhad"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_31yf2jsd",
+   "@type": "Person",
+   "name": "ካሳሁን በቀለ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/0bfa848c-21ce-40e6-8746-509fbf1a6159FirhadBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ፍርሃድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0bfa848c-21ce-40e6-8746-509fbf1a6159"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0bfa848c-21ce-40e6-8746-509fbf1a6159"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/0bfa848c-21ce-40e6-8746-509fbf1a6159"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_17nz6e1t",
+   "@type": "Book"
+  }
+ ]
+}

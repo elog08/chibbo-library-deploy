@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wf6sx84y",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "zenbaba"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xmcgabbm",
+   "@type": "Person",
+   "name": "ምግባር ሲራጅ"
+  }
+ ],
+ "datePublished": "2011?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/a5e96611-0dc2-4a67-a017-96f4b9c6216fZenbabaCover.jpg",
+ "inLanguage": "am",
+ "name": "ዘንባባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a5e96611-0dc2-4a67-a017-96f4b9c6216f"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a5e96611-0dc2-4a67-a017-96f4b9c6216f"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a5e96611-0dc2-4a67-a017-96f4b9c6216f"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_07kryzr8",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ኢማናዊት ሀብታሙ የተወለደችው ነሀሴ 12 1994 ዓ.ም ነው የ19 አመት ወጣቷ ኢማናዊት አሁን ላይ የጋዜጠኝነት ሙያ ተማሪ ናት ግጥም መጻፍ የጀመረችው ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "imanawithabtamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_eng78297",
+ "id": "pe_eng78297",
+ "identifiers": {
+  "afroread_id": [
+   "7d389a06-dc40-4d84-cd86-08da4e693c20"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "7d389a06-dc40-4d84-cd86-08da4e693c20",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/7d389a06-dc40-4d84-cd86-08da4e693c20"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "7d389a06-dc40-4d84-cd86-08da4e693c20",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/7d389a06-dc40-4d84-cd86-08da4e693c20"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "imanawit hebtamu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኢማናዊት ሀብታሙ"
+  },
+  "romanized": "imanawit hebtamu",
+  "sort_key": "ኢማናዊትሀብታሙ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 33647,
+  "path": "assets/portraits/pe_eng78297.png",
+  "sha256": "e98904fceb6afabd5f81601412917f2e27113a301c8f8b5f36f29dc1041e915d",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/85af5642-cea5-4137-b41e-a2b36d9b9e41emanawit_profile_320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/7d389a06-dc40-4d84-cd86-08da4e693c20"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pbbzw3wb.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/38cd0f2f-5b84-46e8-b3a2-c2c8de633f2bMegnoet_Book_Cover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_eng78297",
+     "name": "ኢማናዊት ሀብታሙ",
+     "role": "author",
+     "romanized": "imanawit hebtamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pbbzw3wb",
+   "id": "wk_pbbzw3wb",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "menyot",
+    "script": "Ethi",
+    "text": "ምኞት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ታደሰ ብሩ ኬርስሞ በኢትዮጵያ በዩኒቲ ዩኒቨርስቲ በኢኮኖሚክስ በሙሉ ጊዜ በትርፍ ጊዜው ደግሞ በአዲስ አበባ ዩኒቨርስቲ ድህረ ምረቃ በፐብሊክ አድሚኒስትሬሽን ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "doratadasabarukarasmo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mhrf25ze",
+ "id": "pe_mhrf25ze",
+ "identifiers": {
+  "afroread_id": [
+   "7db0dc4c-9247-4179-f7c8-08db452d8e37"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "7db0dc4c-9247-4179-f7c8-08db452d8e37",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/7db0dc4c-9247-4179-f7c8-08db452d8e37"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "7db0dc4c-9247-4179-f7c8-08db452d8e37",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/7db0dc4c-9247-4179-f7c8-08db452d8e37"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re tadese beru keresmo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ታደሰ ብሩ ኬርስሞ"
+  },
+  "romanized": "do/re tadese beru keresmo",
+  "sort_key": "ዶርታደሰብሩኬርስሞ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 8332,
+  "path": "assets/portraits/pe_mhrf25ze.jpg",
+  "sha256": "40e9203b4d4fd837c9dfee09d117550c873fac5d885705272fcb22263c635b27",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/eee2e89f-78b6-4881-acf3-f6f844b2bb1dTadeseBiruProfilePhoto320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/7db0dc4c-9247-4179-f7c8-08db452d8e37"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fk58bdwh.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/f3673fcd-08c4-48b4-ae9f-e0b540c36c88TeketaynetBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_mhrf25ze",
+     "name": "ዶ/ር ታደሰ ብሩ ኬርስሞ",
+     "role": "author",
+     "romanized": "do/re tadese beru keresmo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fk58bdwh",
+   "id": "wk_fk58bdwh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teketaynet",
+    "script": "Ethi",
+    "text": "ተከታይነት"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_frp6ba6a.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/316b7965-b928-43a9-ae3f-dcdaab3edc8bYesraAmerarBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_mhrf25ze",
+     "name": "ዶ/ር ታደሰ ብሩ ኬርስሞ",
+     "role": "author",
+     "romanized": "do/re tadese beru keresmo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_frp6ba6a",
+   "id": "wk_frp6ba6a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesra amerar tebebna teyayazh gudayoch",
+    "script": "Ethi",
+    "text": "የሥራ አመራር ጥበብና ተያያዥ ጉዳዮች"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

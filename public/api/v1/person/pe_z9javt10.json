@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሐዋዝ የሻነህ ዓለሙ ከእናቱ ኢየሩስ ስብሐት ከአባቱ የሻነህ ዓለሙ በጎጃም ክፍለ ሐገር መንዝ አውንት የደፋስ ቀበሌ መጋቢት 26 1981 ዓም ተወለደ ከ6 ዓመ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "hawazyashanah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z9javt10",
+ "id": "pe_z9javt10",
+ "identifiers": {
+  "afroread_id": [
+   "f3ec5137-8c31-4f6d-93ad-08daa31cafa3"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f3ec5137-8c31-4f6d-93ad-08daa31cafa3",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f3ec5137-8c31-4f6d-93ad-08daa31cafa3"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f3ec5137-8c31-4f6d-93ad-08daa31cafa3",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f3ec5137-8c31-4f6d-93ad-08daa31cafa3"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hewaz yeshaneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሐዋዝ የሻነህ"
+  },
+  "romanized": "hewaz yeshaneh",
+  "sort_key": "ሀዋዝየሻነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 71469,
+  "path": "assets/portraits/pe_z9javt10.png",
+  "sha256": "e8dd74078506ed2f0c3eff704c8543a270add8bf0d5b753a94d4d1c4a8605836",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/e116a680-82db-4ad2-b49e-22651af4efb8HawazYeshanehProfilPic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/f3ec5137-8c31-4f6d-93ad-08daa31cafa3"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b67vfk1x.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/18dc47d8-c6ad-4562-ba40-64a96c88cd25HawazSewnetBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z9javt10",
+     "name": "ሐዋዝ የሻነህ",
+     "role": "author",
+     "romanized": "hewaz yeshaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b67vfk1x",
+   "id": "wk_b67vfk1x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewnet",
+    "script": "Ethi",
+    "text": "ሰውነት"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_y94yhdha.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/8d852a75-8f27-4b62-8d74-aca53d9c823fHawazYeshanehYeAdamFirmaBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z9javt10",
+     "name": "ሐዋዝ የሻነህ",
+     "role": "author",
+     "romanized": "hewaz yeshaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y94yhdha",
+   "id": "wk_y94yhdha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeadam firma",
+    "script": "Ethi",
+    "text": "የአዳም ፊርማ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

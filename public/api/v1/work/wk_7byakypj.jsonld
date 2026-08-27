@@ -1,0 +1,81 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7byakypj",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Sociology"
+ ],
+ "alternateName": [
+  "ashenlafi"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_cph2d8r4",
+   "@type": "Person",
+   "name": "ዶዲ ዘመዴ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/32d0dfbe-4e43-4169-8d20-485872248aaeAshenalfiBookCover.png",
+ "inLanguage": "am",
+ "name": "አሸንላፊ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/32d0dfbe-4e43-4169-8d20-485872248aae"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/32d0dfbe-4e43-4169-8d20-485872248aae"
+  },
+  {
+   "@type": "Offer",
+   "price": "111.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3fe9f49d-ad9c-40da-8feb-2b19a011572d"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3fe9f49d-ad9c-40da-8feb-2b19a011572d"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/32d0dfbe-4e43-4169-8d20-485872248aae",
+  "https://afroreadapp.com/Store/Bookdetail/3fe9f49d-ad9c-40da-8feb-2b19a011572d"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5mnm9dse",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_0ae3xtma",
+   "@type": "Book"
+  }
+ ]
+}

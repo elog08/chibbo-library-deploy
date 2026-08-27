@@ -1,0 +1,153 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "( ገጣሚ በእምነት በለጠ ) የካቲት 8 1989 ዓ.ም አርሲ አሰላ ተወለደች የመጀመሪያ የትምህርት ጥንስሷ 1ኛ እስከ 4ኛ አቤኔዘር አንደኛ ደረጃ ት/ቤት በመቀ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "bamnatbalata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jbnnqp0k",
+ "id": "pe_jbnnqp0k",
+ "identifiers": {
+  "afroread_id": [
+   "eb3d8756-d799-4edf-181e-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "eb3d8756-d799-4edf-181e-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/eb3d8756-d799-4edf-181e-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "eb3d8756-d799-4edf-181e-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/eb3d8756-d799-4edf-181e-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beemnet belete",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በእምነት በለጠ"
+  },
+  "romanized": "beemnet belete",
+  "sort_key": "በእምነትበለጠ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 56487,
+  "path": "assets/portraits/pe_jbnnqp0k.png",
+  "sha256": "a1ad353dc0bf069ce262a2208b3cd6f4db961ac73f4ab45ae90447e662502819",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/30b17adb-79b8-479c-8d1c-6faa545d1cb9BeimnetBelete320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/eb3d8756-d799-4edf-181e-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_aa04bt6v.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a65e94c7-1c58-494d-bbce-a543c219c495TimreGetamianKaleSimetCover400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qwkkf4z3",
+     "name": "ዮናስ መስፍን",
+     "role": "author",
+     "romanized": "yonas mesefen"
+    },
+    {
+     "id": "pe_ndpkmnhw",
+     "name": "እመቤት መንግስቴ",
+     "role": "author",
+     "romanized": "emebet menegeste"
+    },
+    {
+     "id": "pe_ywq41zdh",
+     "name": "በረከት ባይጨክን",
+     "role": "author",
+     "romanized": "bereket baycheken"
+    },
+    {
+     "id": "pe_7e3zzs54",
+     "name": "ፍቃዱ አስራት",
+     "role": "author",
+     "romanized": "feqadu asrat"
+    },
+    {
+     "id": "pe_m19khgsa",
+     "name": "መ/ርት ኮከብ ብርሃኑ",
+     "role": "author",
+     "romanized": "me/ret kokeb berhanu"
+    },
+    {
+     "id": "pe_yxhvryse",
+     "name": "መ/ር ፀጋዬ ታደለ",
+     "role": "author",
+     "romanized": "me/re tsegaye tadele"
+    },
+    {
+     "id": "pe_37skhjj7",
+     "name": "ዮናስ ታምሩ ገብሬ",
+     "role": "author",
+     "romanized": "yonas tamru gebre"
+    },
+    {
+     "id": "pe_jbnnqp0k",
+     "name": "በእምነት በለጠ",
+     "role": "author",
+     "romanized": "beemnet belete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_aa04bt6v",
+   "id": "wk_aa04bt6v",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temre getamiyan",
+    "script": "Ethi",
+    "text": "ጥምረ ገጣሚያን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

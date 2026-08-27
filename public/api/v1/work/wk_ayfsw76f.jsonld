@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ayfsw76f",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "gerdosh"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_zwzms5wq",
+   "@type": "Person",
+   "name": "ሲሳይ ንጉሡ"
+  }
+ ],
+ "datePublished": "1982?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/b12f58e0-8821-4288-ac81-a4e14023e5a8GirdoshCoverH400.png",
+ "inLanguage": "am",
+ "name": "ግርዶሽ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "93.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b12f58e0-8821-4288-ac81-a4e14023e5a8"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b12f58e0-8821-4288-ac81-a4e14023e5a8"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/b12f58e0-8821-4288-ac81-a4e14023e5a8"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gfph41yx",
+   "@type": "Book"
+  }
+ ]
+}

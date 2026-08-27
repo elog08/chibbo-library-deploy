@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "gamachumalka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5p7c2qve",
+ "id": "pe_5p7c2qve",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Gemechu Melkasa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገመቹ መልካ"
+  },
+  "romanized": "Gemechu Melkasa",
+  "sort_key": "ገመቹመልካ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hacwgmvt.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/oromia-yetedebekew-yegif-tarik.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_1t6eypd6",
+     "name": "ወልደዮሃንስ ወርቅነህ",
+     "role": "author",
+     "romanized": "Woldeyohanes Werkineh"
+    },
+    {
+     "id": "pe_5p7c2qve",
+     "name": "ገመቹ መልካ",
+     "role": "author",
+     "romanized": "Gemechu Melkasa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hacwgmvt",
+   "id": "wk_hacwgmvt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "oromiya yetedebeqew yegef tarik",
+    "script": "Ethi",
+    "text": "ኦሮሚያ የተደበቀው የግፍ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

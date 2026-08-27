@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Meseret Bahru, born in 1988 in Hossana, Ethiopia, is a dedicated lawyer, accomplished author, and devoted mother of two. Her life and career reflect a deep commitment to justice, storytelling, and the exploration of human experience. She earned her Bachelor of Laws (LLB) from Bahir Dar University School of Law and later pursued a Master"
+ },
+ "extensions": {},
+ "fingerprint": "masaratbahru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bjhsgg75",
+ "id": "pe_bjhsgg75",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "meseret-bahru",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/meseret-bahru/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "meseret-bahru",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/meseret-bahru/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Meseret Bahru"
+  },
+  "romanized": "Meseret Bahru",
+  "sort_key": "meseretbahru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 83350,
+  "path": "assets/portraits/pe_bjhsgg75.jpg",
+  "sha256": "ae3c3f6b7ac3f705963025240ee230328151de47ec1ab845abd330c2799dac20",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Meseret-Bahiru.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/meseret-bahru/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rb5gvf7z.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/eserugn.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_bjhsgg75",
+     "name": "Meseret Bahru",
+     "role": "author",
+     "romanized": "Meseret Bahru"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-05-04",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_rb5gvf7z",
+   "id": "wk_rb5gvf7z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eserugn",
+    "script": "Ethi",
+    "text": "እሰሩኝ"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

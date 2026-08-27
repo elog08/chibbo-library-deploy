@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4frbmdj8",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "aseb qey baherna wedebachen beziyan gize"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7rc17sep",
+   "@type": "Person",
+   "name": "ዮሐንስ ተፈራ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%88%B0%E1%89%A5_%E1%89%80%E1%8B%AD_%E1%89%A3%E1%88%95%E1%88%AD%E1%8A%93_%E1%8B%88%E1%8B%B0%E1%89%A3%E1%89%BD%E1%8A%95_%E1%89%A0%E1%8B%9A%E1%8B%AB%E1%8A%95_%E1%8C%8A%E1%8B%9C.jpg",
+ "inLanguage": "am",
+ "name": "አሰብ ቀይ ባሕርና ወደባችን በዚያን ጊዜ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_177"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_177"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_177"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9181rd8m",
+   "@type": "Book"
+  }
+ ]
+}

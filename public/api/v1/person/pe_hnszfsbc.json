@@ -1,0 +1,127 @@
+{
+ "extensions": {},
+ "fingerprint": "mamowadnah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hnszfsbc",
+ "id": "pe_hnszfsbc",
+ "identifiers": {
+  "wikidata": [
+   "Q3285027"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q3285027",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q3285027"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "am",
+   "provider": "wikipedia",
+   "ref": "ማሞ_ውድነህ",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://am.wikipedia.org/wiki/ማሞ_ውድነህ"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Mammo_Wudneh",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Mammo_Wudneh"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mamo wedneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማሞ ውድነህ"
+  },
+  "romanized": "mamo wedneh",
+  "sort_key": "ማሞውድነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "hahubooks"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jf4gcjbb.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%88%89%E1%88%8B_%E1%8A%A0%E1%89%A3_%E1%8A%90%E1%8C%8B.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_jf4gcjbb",
+   "id": "wk_jf4gcjbb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alula aba nega",
+    "script": "Ethi",
+    "text": "አሉላ አባ ነጋ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_p6p6yx5s.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%88%9D%E1%8C%BD%E1%8A%A0%E1%89%B0%E1%8A%A5%E1%88%B5%E1%88%AB%E1%8A%A4%E1%88%8D.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_p6p6yx5s",
+   "id": "wk_p6p6yx5s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metsate-esrael",
+    "script": "Ethi",
+    "text": "ምጽአተ-እስራኤል"
+   },
+   "type": "work"
+  }
+ ]
+}

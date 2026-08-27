@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_d4zeg27e",
+ "@type": "Book",
+ "about": [
+  "Astrology",
+  "History",
+  "Literature"
+ ],
+ "alternateName": [
+  "maneny"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z7ary0y6",
+   "@type": "Person",
+   "name": "ኤርሚያስ ጌትነት"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a8b076d7-fa27-47ee-b41a-14c711e63638ManegnBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ማነኝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a8b076d7-fa27-47ee-b41a-14c711e63638"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a8b076d7-fa27-47ee-b41a-14c711e63638"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a8b076d7-fa27-47ee-b41a-14c711e63638"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_rn2bz2qq",
+   "@type": "Book"
+  }
+ ]
+}

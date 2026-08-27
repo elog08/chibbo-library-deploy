@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዓለምነህ ደሴ ሙላው 1939 ዓ.ም በቀድሞው ቤጌምድርና ሰሜን ጠቅላይ ግዛት ተወለደከአባቱ ከአቶ ደሴ ሙላው ተሰማ እና ከእናቱ ወ/ሮ የዛብ ንጉሴ ተወለደ በተለ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "alamnahdasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2fh4r3vd",
+ "id": "pe_2fh4r3vd",
+ "identifiers": {
+  "afroread_id": [
+   "5771018a-53da-4daf-930f-92579f272e84"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5771018a-53da-4daf-930f-92579f272e84",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5771018a-53da-4daf-930f-92579f272e84"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5771018a-53da-4daf-930f-92579f272e84",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5771018a-53da-4daf-930f-92579f272e84"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "alemneh dese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አለምነህ ደሴ"
+  },
+  "romanized": "alemneh dese",
+  "sort_key": "አለምነህደሴ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 739778,
+  "path": "assets/portraits/pe_2fh4r3vd.png",
+  "sha256": "ed51ac5f1f87c9aeb3130e29dda871169da91cc5d50b8655ffd873431379cb32",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2025/a1002314-8057-4313-966d-b42083dedb11AlemnewDessieProfilePic320.png.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5771018a-53da-4daf-930f-92579f272e84"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xy12cfjd.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2025/4a8d60f5-e1e5-4175-9af2-c6cde49f86f4AlemnewDessieBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_2fh4r3vd",
+     "name": "አለምነህ ደሴ",
+     "role": "author",
+     "romanized": "alemneh dese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xy12cfjd",
+   "id": "wk_xy12cfjd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wedqo yetegenyew dokter",
+    "script": "Ethi",
+    "text": "ወድቆ የተገኘው ዶክተር"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

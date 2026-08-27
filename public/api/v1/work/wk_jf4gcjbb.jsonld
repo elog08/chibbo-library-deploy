@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jf4gcjbb",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "alula aba nega"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hnszfsbc",
+   "@type": "Person",
+   "name": "ማሞ ውድነህ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%88%89%E1%88%8B_%E1%8A%A0%E1%89%A3_%E1%8A%90%E1%8C%8B.jpg",
+ "inLanguage": "am",
+ "name": "አሉላ አባ ነጋ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "109.8",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_181"
+  },
+  {
+   "@type": "Offer",
+   "price": "109.8",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_181"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_181"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vsvqkkqt",
+   "@type": "Book"
+  }
+ ]
+}

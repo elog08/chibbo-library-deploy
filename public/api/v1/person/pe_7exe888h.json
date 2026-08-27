@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዲቦራ በላይ በልጆች መጽሐፍት ዝግጅት ላይ ብዙ ስራዎችን ለመስራት ፍላት ያላት ወጣት ደራሲ ናት ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "diborabalay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7exe888h",
+ "id": "pe_7exe888h",
+ "identifiers": {
+  "afroread_id": [
+   "a90e47a1-11fc-4978-b9a0-08da933c01a3"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "a90e47a1-11fc-4978-b9a0-08da933c01a3",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/a90e47a1-11fc-4978-b9a0-08da933c01a3"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "a90e47a1-11fc-4978-b9a0-08da933c01a3",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/a90e47a1-11fc-4978-b9a0-08da933c01a3"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dibora belay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲቦራ በላይ"
+  },
+  "romanized": "dibora belay",
+  "sort_key": "ዲቦራበላይ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 74246,
+  "path": "assets/portraits/pe_7exe888h.png",
+  "sha256": "a4a6d7e1075e728d6917c852fedbc656d01b47a3d2b255e8a6a82e9ad12f81cd",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/b761e43f-290d-458c-8d64-a4f14c177979DeboraBelayProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/a90e47a1-11fc-4978-b9a0-08da933c01a3"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_svv0r4da.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/1ad59e3d-a050-4bb9-8942-0cc7499f0b0eDeboraBelayBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7exe888h",
+     "name": "ዲቦራ በላይ",
+     "role": "author",
+     "romanized": "dibora belay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_svv0r4da",
+   "id": "wk_svv0r4da",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yedes des kofya",
+    "script": "Ethi",
+    "text": "የደስ ደስ ኮፍያ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

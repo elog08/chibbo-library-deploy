@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b6hbm1s9",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Non Fiction",
+  "Poetry"
+ ],
+ "alternateName": [
+  "ej mensha"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2j6vjvwj",
+   "@type": "Person",
+   "name": "ታሪኩ ከበደ"
+  }
+ ],
+ "datePublished": "2008?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/9385785c-3d3c-4fac-8b0e-47c6221d37eeEjemaneshaaBookCover.png",
+ "inLanguage": "am",
+ "name": "እጅ መንሻ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "72.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/9385785c-3d3c-4fac-8b0e-47c6221d37ee"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/9385785c-3d3c-4fac-8b0e-47c6221d37ee"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/9385785c-3d3c-4fac-8b0e-47c6221d37ee"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2nm293v9",
+   "@type": "Book"
+  }
+ ]
+}

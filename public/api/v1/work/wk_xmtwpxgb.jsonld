@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xmtwpxgb",
+ "@type": "Book",
+ "about": [
+  "Business",
+  "Non Fiction"
+ ],
+ "alternateName": [
+  "ityo biznes"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pg0x3n4e",
+   "@type": "Person",
+   "name": "አንተነህ በንቲ ነገዎ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2f5178de-ea94-4276-af12-9f5fe02018fdEthioBusinessBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ኢትዮ ቢዝነስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2f5178de-ea94-4276-af12-9f5fe02018fd"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2f5178de-ea94-4276-af12-9f5fe02018fd"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2f5178de-ea94-4276-af12-9f5fe02018fd"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_31vxt56m",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "extensions": {},
+ "fingerprint": "aramyasgulat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gzn69va7",
+ "id": "pe_gzn69va7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ermias Gulilat",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤርምያስ ጉልላት"
+  },
+  "romanized": "Ermias Gulilat",
+  "sort_key": "ኤርምያስጉልላት"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dfmeatte.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/History/adwa-war-ermias-gulilat.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_gzn69va7",
+     "name": "ኤርምያስ ጉልላት",
+     "role": "author",
+     "romanized": "Ermias Gulilat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dfmeatte",
+   "id": "wk_dfmeatte",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeadwa tornetna yealem qeny gezat aselalef",
+    "script": "Ethi",
+    "text": "የአድዋ ጦርነትና የአለም ቅኝ ግዛት አሰላለፍ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

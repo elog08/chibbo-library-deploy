@@ -1,0 +1,100 @@
+{
+ "cover": {
+  "bytes": 10680,
+  "path": "assets/covers/wk_z5zx1ypa.jpg",
+  "sha256": "f6281dda93219dbbaf7e6db128242e15cc82020c6469d5d5fb310ee77698aab3",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/medemer.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_q83kmzyw",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "መደመር Medemer, a book by Prime Minister Abiy Ahmed. Addis Books!"
+ },
+ "editions": [
+  "ed_dd7ap7qs"
+ ],
+ "extensions": {},
+ "fingerprint": "መደመር|primaministarabiyahmad",
+ "first_published": {
+  "edtf": "2019-11-11",
+  "original": {
+   "calendar": "gregorian",
+   "value": "November 11, 2019"
+  }
+ },
+ "flags": [],
+ "href": "https://chibbo.app/work/wk_z5zx1ypa",
+ "id": "wk_z5zx1ypa",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6367"
+  ],
+  "isbn13": [
+   "9781599072050"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "medemer-by-prime-minister-abiy-ahmed",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/medemer-by-prime-minister-abiy-ahmed/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "39.00",
+   "provider": "addisbooks",
+   "ref": "medemer-by-prime-minister-abiy-ahmed",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/medemer-by-prime-minister-abiy-ahmed/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/medemer-by-prime-minister-abiy-ahmed/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Uncategorized"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Medemer",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መደመር"
+  },
+  "romanized": "Medemer",
+  "sort_key": "መደመር"
+ },
+ "type": "work"
+}

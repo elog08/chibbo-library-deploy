@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_afrrhx0t",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "solyana"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y4yb8sp6",
+   "@type": "Person",
+   "name": "ኤፍሬም ስዩም"
+  }
+ ],
+ "datePublished": "1998?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/599782da-79af-483f-a266-7b3f4a907720SolianaCoverMainThumbnail.jpg",
+ "inLanguage": "am",
+ "name": "ሶልያና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+  },
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/599782da-79af-483f-a266-7b3f4a907720"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_66wp9c6z",
+   "@type": "Book"
+  }
+ ]
+}

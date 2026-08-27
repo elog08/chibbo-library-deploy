@@ -1,0 +1,140 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadamikal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5v39ynzf",
+ "id": "pe_5v39ynzf",
+ "identifiers": {
+  "wikidata": [
+   "Q3194578"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q3194578",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q3194578"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "am",
+   "provider": "wikipedia",
+   "ref": "ከበደ_ሚካኤል",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://am.wikipedia.org/wiki/ከበደ_ሚካኤል"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Kebede_Michael",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Kebede_Michael"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Kebede Mikael",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከበደ ሚካኤል"
+  },
+  "romanized": "Kebede Mikael",
+  "sort_key": "ከበደሚካኤል"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 3100877,
+  "path": "assets/portraits/pe_5v39ynzf.jpg",
+  "sha256": "8653bb020277600ef31634a21075d8be62508c22cbecabb9c29e5204e560c07e",
+  "source_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Kebede%20Mikael.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2zrz43d3.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/History/japan-endemn-seletenech-kebede-mikael.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_5v39ynzf",
+     "name": "ከበደ ሚካኤል",
+     "role": "author",
+     "romanized": "Kebede Mikael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2zrz43d3",
+   "id": "wk_2zrz43d3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "japan enedemen seletenech",
+    "script": "Ethi",
+    "text": "ጃፓን እንድምን ሰለጠነች"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_5v39ynzf",
+     "name": "ከበደ ሚካኤል",
+     "role": "author",
+     "romanized": "Kebede Mikael"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1954-09-11/1955-09-11",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_m2ryn7zz",
+   "id": "wk_m2ryn7zz",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarikina Missale",
+    "script": "Ethi",
+    "text": "ታሪክና ምሳሌ"
+   },
+   "type": "work",
+   "year": 1954
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w41hvs77",
+ "@type": "Book",
+ "about": [
+  "Self Help"
+ ],
+ "alternateName": [
+  "hulentenawi beletsegna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_phqxsha1",
+   "@type": "Person",
+   "name": "ኢዮብ ማሞ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%81%E1%88%88%E1%8A%95%E1%89%B0%E1%8A%93%E1%8B%8A_%E1%89%A5%E1%88%8D%E1%8D%85%E1%8C%8D%E1%8A%93.jpg",
+ "inLanguage": "am",
+ "name": "ሁለንተናዊ ብልፅግና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "72.9",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_119"
+  },
+  {
+   "@type": "Offer",
+   "price": "72.9",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_119"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_119"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nqnvxe31",
+   "@type": "Book"
+  }
+ ]
+}

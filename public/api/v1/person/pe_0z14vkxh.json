@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "alyaswaldamaryam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0z14vkxh",
+ "id": "pe_0z14vkxh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "elyas weldemaryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤልያስ ወልደማርያም"
+  },
+  "romanized": "elyas weldemaryam",
+  "sort_key": "ኤልያስወልደማርያም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1fa6n0ps.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2026/f359182e-bfee-42c8-b631-5ec50caf66d4YehiwotMengedCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_0z14vkxh",
+     "name": "ኤልያስ ወልደማርያም",
+     "role": "author",
+     "romanized": "elyas weldemaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2023?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1fa6n0ps",
+   "id": "wk_1fa6n0ps",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ye heywet menged",
+    "script": "Ethi",
+    "text": "የ ህይወት መንገድ"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

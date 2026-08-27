@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሰኔ 24 በ1983 ዓ.ም በምዕ/ጎጃም ዞን ደምበጫ ወረዳ እግዚአብሔርአብ ቀበሌ ተወለድሁ የአንደኛ ደረጃ ትምህርቴንም ከ1ኛ-6ኛ ክፍል በእግዚአብሔርአብ ቀ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "nuralanytsagaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c1d03wh1",
+ "id": "pe_c1d03wh1",
+ "identifiers": {
+  "afroread_id": [
+   "ae47192b-ad14-409f-362a-08dab86d3382"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ae47192b-ad14-409f-362a-08dab86d3382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ae47192b-ad14-409f-362a-08dab86d3382"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "ae47192b-ad14-409f-362a-08dab86d3382",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/ae47192b-ad14-409f-362a-08dab86d3382"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "nureleny tsegaye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኑርልኝ ፀጋዬ"
+  },
+  "romanized": "nureleny tsegaye",
+  "sort_key": "ኑርልኝጸጋዬ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 51898,
+  "path": "assets/portraits/pe_c1d03wh1.png",
+  "sha256": "4d52f118aa1f0a32d4f04077e9c3ac4d0552d2fc3b75acf914a7818ee97beeae",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/a38a0edc-21a3-4394-b930-baf185295cf1HifzibaNurilgnTsegayePhoto320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/ae47192b-ad14-409f-362a-08dab86d3382"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4gra6414.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/eabe557f-975f-4e98-88cc-09d3cdfc358chifzibaBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_c1d03wh1",
+     "name": "ኑርልኝ ፀጋዬ",
+     "role": "author",
+     "romanized": "nureleny tsegaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4gra6414",
+   "id": "wk_4gra6414",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hefziba",
+    "script": "Ethi",
+    "text": "ሄፍዚባ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

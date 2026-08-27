@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rc6jcn7j",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "retin"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5jhmrdkb",
+   "@type": "Person",
+   "name": "መጋቤ ሐዲስ እሸቱ ዓለማየሁ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%AD%E1%8C%A2%E1%8A%95.jpg",
+ "inLanguage": "am",
+ "name": "ርጢን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "63",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_164"
+  },
+  {
+   "@type": "Offer",
+   "price": "63",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_164"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_164"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y9yveq42",
+   "@type": "Book"
+  }
+ ]
+}

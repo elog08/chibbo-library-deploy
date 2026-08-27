@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1fa6n0ps",
+ "@type": "Book",
+ "about": [
+  "Religion"
+ ],
+ "alternateName": [
+  "ye heywet menged"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0z14vkxh",
+   "@type": "Person",
+   "name": "ኤልያስ ወልደማርያም"
+  }
+ ],
+ "datePublished": "2023?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2026/f359182e-bfee-42c8-b631-5ec50caf66d4YehiwotMengedCover.jpg",
+ "inLanguage": "am",
+ "name": "የ ህይወት መንገድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f359182e-bfee-42c8-b631-5ec50caf66d4"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f359182e-bfee-42c8-b631-5ec50caf66d4"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f359182e-bfee-42c8-b631-5ec50caf66d4"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_b1gc4s6b",
+   "@type": "Book"
+  }
+ ]
+}

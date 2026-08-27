@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w6y884y1",
+ "@type": "Book",
+ "about": [
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "men tawqalachhu?"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2998a07a-22dd-4404-ba4a-74f554dd1243WhatDoYouKnowAmharicCover.png",
+ "inLanguage": "am",
+ "name": "ምን ታውቃላችሁ?",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "70.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2998a07a-22dd-4404-ba4a-74f554dd1243"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2998a07a-22dd-4404-ba4a-74f554dd1243"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2998a07a-22dd-4404-ba4a-74f554dd1243"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_7pw11wza",
+   "@type": "Book"
+  }
+ ]
+}

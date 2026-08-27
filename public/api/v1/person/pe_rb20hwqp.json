@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ይበልጣል አድማስ መኮነን ይባላል የተወለደው በደቡብ ጎንደር እስቴ መካነ-ኢየሱስ ከተማ በ1982ዓ/ም ነው የፅሁፍ ዝንባሌው የጀመረው በልጅነቱ ነው የፅ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yabaltaladmas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rb20hwqp",
+ "id": "pe_rb20hwqp",
+ "identifiers": {
+  "afroread_id": [
+   "d9b0f03e-db31-4a17-550b-08dc1eee5139"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d9b0f03e-db31-4a17-550b-08dc1eee5139",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d9b0f03e-db31-4a17-550b-08dc1eee5139"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d9b0f03e-db31-4a17-550b-08dc1eee5139",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d9b0f03e-db31-4a17-550b-08dc1eee5139"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yebeltal admas",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ይበልጣል አድማስ"
+  },
+  "romanized": "yebeltal admas",
+  "sort_key": "ይበልጣልአድማስ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 65321,
+  "path": "assets/portraits/pe_rb20hwqp.png",
+  "sha256": "900ea4831457f9283d4b59706393a7f13930a3aee1c40df321ee408cd89e8c63",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/2cb02f3b-1c59-4036-ab06-431e09f6fdf5YibeltalProfilePicture320_.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/d9b0f03e-db31-4a17-550b-08dc1eee5139"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1svm709f.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/4984cf1a-eaf5-47ce-9e0b-2a416808a81fYergibEshohBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rb20hwqp",
+     "name": "ይበልጣል አድማስ",
+     "role": "author",
+     "romanized": "yebeltal admas"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1svm709f",
+   "id": "wk_1svm709f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeeregeb eshoh",
+    "script": "Ethi",
+    "text": "የዕርግብ እሾህ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_szxyww60.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/82cc5f4a-bf5c-4375-8c40-3939be4b18c0YebahilQuateroBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rb20hwqp",
+     "name": "ይበልጣል አድማስ",
+     "role": "author",
+     "romanized": "yebeltal admas"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_szxyww60",
+   "id": "wk_szxyww60",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebahel qwatero",
+    "script": "Ethi",
+    "text": "የባህል ቋጠሮ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

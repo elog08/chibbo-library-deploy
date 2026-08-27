@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_v1xh9gbv",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yemechereshawa elet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fb5dbq4m",
+   "@type": "Person",
+   "name": "አብርሃም በዕውቀት ታረቀኝ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/ecab1bc3-aa08-45f5-8684-41f7238faa85AbrahamCoverYemechereshawa.png",
+ "inLanguage": "am",
+ "name": "የመጨረሻዋ ዕለት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "79.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ecab1bc3-aa08-45f5-8684-41f7238faa85"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ecab1bc3-aa08-45f5-8684-41f7238faa85"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/ecab1bc3-aa08-45f5-8684-41f7238faa85"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_29pv921d",
+   "@type": "Book"
+  }
+ ]
+}

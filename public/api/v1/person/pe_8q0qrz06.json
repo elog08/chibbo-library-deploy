@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲና ገጣሚ ሲራክ ወንድሙ ታህሳስ 8/ 1993 ዓ.ም በደቡብ ምዕራብ ኢትዮጵያ በሚዛን ተፈሪ ተወለደ አንደኛና ሁለተኛ ደረጃ ትምህርቱን በሚዛን አንደኛና ሁ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "sirakwanadmu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8q0qrz06",
+ "id": "pe_8q0qrz06",
+ "identifiers": {
+  "afroread_id": [
+   "3d7adf07-3c3d-42b7-dc0b-08dca8ba0988"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3d7adf07-3c3d-42b7-dc0b-08dca8ba0988",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3d7adf07-3c3d-42b7-dc0b-08dca8ba0988"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3d7adf07-3c3d-42b7-dc0b-08dca8ba0988",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3d7adf07-3c3d-42b7-dc0b-08dca8ba0988"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sirak wenedmu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሲራክ ወንድሙ"
+  },
+  "romanized": "sirak wenedmu",
+  "sort_key": "ሲራክወንድሙ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 84186,
+  "path": "assets/portraits/pe_8q0qrz06.png",
+  "sha256": "b5c5392dc0f54d6fdf893ae386cb846366c6166e7ef4ad31bdda69acc97fa1fd",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/db8c4692-2b4a-46f1-a47c-6f4cdf4d0fbcSirakWedimuProfilePhoto320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/3d7adf07-3c3d-42b7-dc0b-08dca8ba0988"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ek68vncc.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/0d5ef40c-319f-4b1a-bde6-1afd10032741AzebotBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_8q0qrz06",
+     "name": "ሲራክ ወንድሙ",
+     "role": "author",
+     "romanized": "sirak wenedmu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ek68vncc",
+   "id": "wk_ek68vncc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "azebot",
+    "script": "Ethi",
+    "text": "አዘቦት"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

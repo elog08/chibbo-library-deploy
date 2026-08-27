@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "በ1982 ዓ/ም ከአባቱ አቶ አምሣል ካሣ እና ከእናቱ ወ/ሮ ቀረብሽ ዐየን በችባችባሳ ቀበሌ በአንከሻ ጓጉሣ ወረዳ በአዊ ዞን በአማራ ክልል ተወለደ በ2004... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tagalamsal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4ek8p0py",
+ "id": "pe_4ek8p0py",
+ "identifiers": {
+  "afroread_id": [
+   "3c8e1c56-024c-44fa-6608-08da636c7d9f"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3c8e1c56-024c-44fa-6608-08da636c7d9f",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3c8e1c56-024c-44fa-6608-08da636c7d9f"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "3c8e1c56-024c-44fa-6608-08da636c7d9f",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/3c8e1c56-024c-44fa-6608-08da636c7d9f"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tagel amsal",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታገል አምሳል"
+  },
+  "romanized": "tagel amsal",
+  "sort_key": "ታገልአምሳል"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 77720,
+  "path": "assets/portraits/pe_4ek8p0py.png",
+  "sha256": "e73ed35c64804c569f4c16d62299167ab702cef3da22cf6d935f60426e6b7c7c",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/aa7bf68e-319f-4f41-8cc0-d60752d6cb71TagelProfilePicture320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/3c8e1c56-024c-44fa-6608-08da636c7d9f"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2v59q5fc.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/515e002e-0849-421f-b0c4-8f049ec869beSutueelBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4ek8p0py",
+     "name": "ታገል አምሳል",
+     "role": "author",
+     "romanized": "tagel amsal"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2v59q5fc",
+   "id": "wk_2v59q5fc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sutuel",
+    "script": "Ethi",
+    "text": "ሱቱኤል"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

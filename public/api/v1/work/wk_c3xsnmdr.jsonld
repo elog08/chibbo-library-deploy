@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c3xsnmdr",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "awaf ityopya"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/070c5137-0600-4405-9ebb-d279101a28c3ABoutOpenHeartsBigDreamsCover.png",
+ "inLanguage": "am",
+ "name": "ኣዕዋፍ ኢትዮጵያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/070c5137-0600-4405-9ebb-d279101a28c3"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/070c5137-0600-4405-9ebb-d279101a28c3"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/070c5137-0600-4405-9ebb-d279101a28c3"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_h3cn6429",
+   "@type": "Book"
+  }
+ ]
+}

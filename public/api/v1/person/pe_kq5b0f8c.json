@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዘርይሁን ታደሰ በ1975 ዓ.ም ተወለደ:: ከታዳጊነቱ ጀምሮ በነበረው የስነጽሁፍ ዝንባሌ ተውኔቶችንና ግጥሞችን ይፅፍ የነበረ መሆኑን ይናገራል አሁን በግል ስ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "zarihuntadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kq5b0f8c",
+ "id": "pe_kq5b0f8c",
+ "identifiers": {
+  "afroread_id": [
+   "0c17212e-c402-4484-4ef7-08ddba482adb"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0c17212e-c402-4484-4ef7-08ddba482adb",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0c17212e-c402-4484-4ef7-08ddba482adb"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "0c17212e-c402-4484-4ef7-08ddba482adb",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/0c17212e-c402-4484-4ef7-08ddba482adb"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zerihun tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘሪሁን ታደሰ"
+  },
+  "romanized": "zerihun tadese",
+  "sort_key": "ዘሪሁንታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 62309,
+  "path": "assets/portraits/pe_kq5b0f8c.png",
+  "sha256": "edbb22ac9e1fea961801198479ca3a916bd28a781d0a87d7d58c0da409b49713",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2025/91c34531-e549-4523-a736-1406615fdb2bZerihunTadesseProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/0c17212e-c402-4484-4ef7-08ddba482adb"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wpzkvpxz.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2025/b96bdc86-9072-4cb0-9c16-f478d13c370bBookCoverImageFile"
+   },
+   "credits": [
+    {
+     "id": "pe_kq5b0f8c",
+     "name": "ዘሪሁን ታደሰ",
+     "role": "author",
+     "romanized": "zerihun tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wpzkvpxz",
+   "id": "wk_wpzkvpxz",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yezemen tebta",
+    "script": "Ethi",
+    "text": "የዘመን ጠብታ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

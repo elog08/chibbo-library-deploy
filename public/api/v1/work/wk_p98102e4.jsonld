@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p98102e4",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "hagerawi hezati nech sar"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/ab2a8b06-9f6f-4a9d-a01a-be463c1b28c2NechSarTigrinyaCover.png",
+ "inLanguage": "am",
+ "name": "ሃገራዊ ሕዛእቲ ነጭ ሳር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ab2a8b06-9f6f-4a9d-a01a-be463c1b28c2"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ab2a8b06-9f6f-4a9d-a01a-be463c1b28c2"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/ab2a8b06-9f6f-4a9d-a01a-be463c1b28c2"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_krf4kw2c",
+   "@type": "Book"
+  }
+ ]
+}

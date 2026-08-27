@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የታሪክና ትውፊት መጽሐፍ ደራሲ ጋዜጠኛ ቃልኪዳን ግርማው የአማራ ሚዲያ ኮርፖሬሽን ቤተሰብ በመሆን በሙያው እያገለገለ ይገኛል አሚኮ ነው የአሁኑን እኔነቴን... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "qalkidangarmaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7z0z6q3v",
+ "id": "pe_7z0z6q3v",
+ "identifiers": {
+  "afroread_id": [
+   "5665b2f4-179e-4226-52b1-08db28f00d2a"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5665b2f4-179e-4226-52b1-08db28f00d2a",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5665b2f4-179e-4226-52b1-08db28f00d2a"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5665b2f4-179e-4226-52b1-08db28f00d2a",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5665b2f4-179e-4226-52b1-08db28f00d2a"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qalkidan germaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቃልኪዳን ግርማው"
+  },
+  "romanized": "qalkidan germaw",
+  "sort_key": "ቃልኪዳንግርማው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 56879,
+  "path": "assets/portraits/pe_7z0z6q3v.png",
+  "sha256": "76106fa600f1038b8f39df1e1bb19f82182756e0870a178f2a25ff40ee539d04",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/3c5ee87e-c721-47f0-8a3d-8073e2d69971KalidanGirmaw320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5665b2f4-179e-4226-52b1-08db28f00d2a"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sw3311at.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/68e85873-622b-4dde-a0df-9f196c1f7e1cTarikEnaTufitBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_7z0z6q3v",
+     "name": "ቃልኪዳን ግርማው",
+     "role": "author",
+     "romanized": "qalkidan germaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sw3311at",
+   "id": "wk_sw3311at",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tarik ena tewfit",
+    "script": "Ethi",
+    "text": "ታሪክ እና ትውፊት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

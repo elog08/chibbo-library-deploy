@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nyf5qakq",
+ "@type": "Book",
+ "about": [
+  "Fiction"
+ ],
+ "alternateName": [
+  "lemenor"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ttpyns98",
+   "@type": "Person",
+   "name": "ጥላሁን ተስፋዬ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/131c3e69-7124-44bc-aed5-af1ebd7943c5LemenorBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ለመኖር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/131c3e69-7124-44bc-aed5-af1ebd7943c5"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/131c3e69-7124-44bc-aed5-af1ebd7943c5"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/131c3e69-7124-44bc-aed5-af1ebd7943c5"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k50fgq9b",
+   "@type": "Book"
+  }
+ ]
+}

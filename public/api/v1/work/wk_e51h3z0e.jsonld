@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_e51h3z0e",
+ "@type": "Book",
+ "about": [
+  "Biography",
+  "Non Ficition",
+  "Self Development"
+ ],
+ "alternateName": [
+  "temut gedyelem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_93rpqgks",
+   "@type": "Person",
+   "name": "Dr Tigist Girma"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/622dbea9-e9d9-4941-b262-afd5cdeaddd8TimutGidYelemBookCover.png",
+ "inLanguage": "am",
+ "name": "ትሙት ግድየለም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "125.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/622dbea9-e9d9-4941-b262-afd5cdeaddd8"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/622dbea9-e9d9-4941-b262-afd5cdeaddd8"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/622dbea9-e9d9-4941-b262-afd5cdeaddd8"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1aewv1yx",
+   "@type": "Book"
+  }
+ ]
+}

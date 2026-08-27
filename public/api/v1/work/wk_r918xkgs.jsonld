@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_r918xkgs",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "ate menilek"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_38bg94hx",
+   "@type": "Person",
+   "name": "ጳውሎስ ኞኞ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%8C%A4_%E1%88%9D%E1%8A%92%E1%88%8D%E1%8A%AD.jpg",
+ "inLanguage": "am",
+ "name": "አጤ ምኒልክ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "180",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_211"
+  },
+  {
+   "@type": "Offer",
+   "price": "180",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_211"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_211",
+  "https://openlibrary.org/works/OL31179599W"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c9yz9d92",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayagabrab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vrkkx2m5",
+ "id": "pe_vrkkx2m5",
+ "identifiers": {
+  "wikidata": [
+   "Q7705454"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q7705454",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q7705454"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Tesfaye_Gebreab",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Tesfaye_Gebreab"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Tesfaye Gebreab",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ገብረአብ"
+  },
+  "romanized": "Tesfaye Gebreab",
+  "sort_key": "ተስፋዬገብረአብ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 42874,
+  "path": "assets/portraits/pe_vrkkx2m5.jpg",
+  "sha256": "6e622760cf38084e69b3e81d7c19f0fe2e0fdef8c09ab3c76922704ab3773537",
+  "source_url": "http://commons.wikimedia.org/wiki/Special:FilePath/TesfayGebreab.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7cjdekh1.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/ye-bishoftu-koritoch.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_vrkkx2m5",
+     "name": "ተስፋዬ ገብረአብ",
+     "role": "author",
+     "romanized": "Tesfaye Gebreab"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7cjdekh1",
+   "id": "wk_7cjdekh1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebishoftu qoritoch",
+    "script": "Ethi",
+    "text": "የቢሾፍቱ ቆሪጦች"
+   },
+   "type": "work"
+  }
+ ]
+}

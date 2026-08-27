@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5096tj04",
+ "@type": "Book",
+ "about": [
+  "Non Fiction",
+  "Philosophy",
+  "Religion",
+  "Spritual"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_thbjg90c",
+   "@type": "Person",
+   "name": "ዲያቆን ምትኩ አበራ"
+  }
+ ],
+ "datePublished": "2009?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a9a15977-5712-45eb-bdbc-e0d5150d1f1bMitinKimemAndOromifaCover.png",
+ "inLanguage": "en",
+ "name": "Mi'eessituu Mi'ooftuu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "96.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a9a15977-5712-45eb-bdbc-e0d5150d1f1b"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a9a15977-5712-45eb-bdbc-e0d5150d1f1b"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a9a15977-5712-45eb-bdbc-e0d5150d1f1b"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dnt5s4w7",
+   "@type": "Book"
+  }
+ ]
+}

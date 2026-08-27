@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7bthw6r4",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "teleq betam teleq ejeg betam teleq"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2371a063-1bce-4245-b945-cdaf055f59cbBigBiggerBiggestAmharicCover400.png",
+ "inLanguage": "am",
+ "name": "ትልቅ በጣም ትልቅ እጅግ በጣም ትልቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "67.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2371a063-1bce-4245-b945-cdaf055f59cb"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2371a063-1bce-4245-b945-cdaf055f59cb"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2371a063-1bce-4245-b945-cdaf055f59cb"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f4sc58xc",
+   "@type": "Book"
+  }
+ ]
+}

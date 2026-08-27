@@ -1,0 +1,101 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Woded Ministry is based on the greatest commandment of all. Mattew 22:37-39 You shall love the lord... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "wodadministry",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q4s1qs5j",
+ "id": "pe_q4s1qs5j",
+ "identifiers": {
+  "afroread_id": [
+   "abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Woded Ministry"
+  },
+  "romanized": "Woded Ministry",
+  "sort_key": "wodedministry"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 81332,
+  "path": "assets/portraits/pe_q4s1qs5j.png",
+  "sha256": "6a02ce0e1713aaa038833b1f1d45b9298e7c5d239829c09eac7bb82d72bc1f29",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/03122a4c-a248-4543-a838-d3018c1c8ac5WodedProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/abdf29fb-0ee2-43b3-36c8-08dc2d29f5a0"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_grm9trq4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/26ca1b62-c364-4bf2-89c2-6495bfde76bcWodedBibleCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_q4s1qs5j",
+     "name": "Woded Ministry",
+     "role": "author",
+     "romanized": "Woded Ministry"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1962?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_grm9trq4",
+   "id": "wk_grm9trq4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshef qedus",
+    "script": "Ethi",
+    "text": "መጽሐፍ ቅዱስ"
+   },
+   "type": "work",
+   "year": 1962
+  }
+ ]
+}

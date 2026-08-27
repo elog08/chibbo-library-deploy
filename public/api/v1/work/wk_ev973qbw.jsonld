@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ev973qbw",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "feqer ena beqel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4q7bgvh3",
+   "@type": "Person",
+   "name": "ዘሪሁን ገመቹ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/3f390084-36c9-4a1e-b3f9-c53785610872FikirEnaBekelBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ፍቅር እና በቀል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3f390084-36c9-4a1e-b3f9-c53785610872"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/3f390084-36c9-4a1e-b3f9-c53785610872"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/3f390084-36c9-4a1e-b3f9-c53785610872"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6t4a45rw",
+   "@type": "Book"
+  }
+ ]
+}

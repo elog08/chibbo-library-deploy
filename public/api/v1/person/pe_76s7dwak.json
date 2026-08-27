@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ፍፁም ደመረው በ1978 ዓ.ም በቀድሞው ጀምጀም አውራጃ ክብረ መንግስት ( አደላ ወዩ )ከተማ ተወለደ የልጅነትና የትምህርት ጊዜውን በቦሬ ሸኖ እና ሀዋ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "fatsumdamarawkidana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_76s7dwak",
+ "id": "pe_76s7dwak",
+ "identifiers": {
+  "afroread_id": [
+   "184679ff-0778-42e6-1e7f-08dbf378285e"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "184679ff-0778-42e6-1e7f-08dbf378285e",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/184679ff-0778-42e6-1e7f-08dbf378285e"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "184679ff-0778-42e6-1e7f-08dbf378285e",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/184679ff-0778-42e6-1e7f-08dbf378285e"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "fetsum demerew kidane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍፁም ደመረው ኪዳኔ"
+  },
+  "romanized": "fetsum demerew kidane",
+  "sort_key": "ፍጹምደመረውኪዳኔ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 12661,
+  "path": "assets/portraits/pe_76s7dwak.jpg",
+  "sha256": "19425d299072dac84fc3c40a59d46693ce68c399fa914072862cb021fba48f88",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/26d21a3a-57a4-4c3d-a605-3903c72417d6FitsumProfilePhoto320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/184679ff-0778-42e6-1e7f-08dbf378285e"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_acf4gfr5.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/067d6c14-5072-4426-bbc0-c92953eb53bcYewhdanMiderBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_76s7dwak",
+     "name": "ፍፁም ደመረው ኪዳኔ",
+     "role": "author",
+     "romanized": "fetsum demerew kidane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_acf4gfr5",
+   "id": "wk_acf4gfr5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yewehdan meder",
+    "script": "Ethi",
+    "text": "የውህዳን ምድር"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

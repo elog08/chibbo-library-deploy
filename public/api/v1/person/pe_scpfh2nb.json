@@ -1,0 +1,120 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Bilen Getachew Haile is an Ethiopian author and creator of interactive content with a passion for st... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "monicaharnandaz",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_scpfh2nb",
+ "id": "pe_scpfh2nb",
+ "identifiers": {
+  "afroread_id": [
+   "f40fc699-e525-4d47-27d2-08d9b2a5c576"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f40fc699-e525-4d47-27d2-08d9b2a5c576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f40fc699-e525-4d47-27d2-08d9b2a5c576"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "f40fc699-e525-4d47-27d2-08d9b2a5c576",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/f40fc699-e525-4d47-27d2-08d9b2a5c576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Monica Hernandez"
+  },
+  "romanized": "Monica Hernandez",
+  "sort_key": "monicahernandez"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 67695,
+  "path": "assets/portraits/pe_scpfh2nb.jpg",
+  "sha256": "d1d50976573f0800b6849c0b50b9184b73e234e9a866c43f4703ea2d67008daf",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/cca0d691-efa5-4c04-a120-79c459809493ProfilePicH320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/f40fc699-e525-4d47-27d2-08d9b2a5c576"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_69ra08x4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/2cb895d6-3728-4fde-a9d9-c6a1b33085f5AirAndWaterCoverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_scpfh2nb",
+     "name": "Monica Hernandez",
+     "role": "author",
+     "romanized": "Monica Hernandez"
+    }
+   ],
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_69ra08x4",
+   "id": "wk_69ra08x4",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Air & Water",
+    "script": "Latn",
+    "text": "Air & Water"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_x0sk31r2.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/80e0293a-2391-4b1d-903d-6a7f68c15906WhereIsAuntiMaynmarCoverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_scpfh2nb",
+     "name": "Monica Hernandez",
+     "role": "author",
+     "romanized": "Monica Hernandez"
+    }
+   ],
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_x0sk31r2",
+   "id": "wk_x0sk31r2",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Where is Auntie",
+    "script": "Latn",
+    "text": "Where is Auntie"
+   },
+   "type": "work"
+  }
+ ]
+}

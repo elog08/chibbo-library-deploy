@@ -1,0 +1,57 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5ktm832k",
+ "@type": "Book",
+ "about": [
+  "Communication",
+  "Non Ficition",
+  "Philosophy",
+  "Self Development"
+ ],
+ "alternateName": [
+  "amoza"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sx60snvy",
+   "@type": "Person",
+   "name": "ከፈለኝ ዘለለው"
+  }
+ ],
+ "datePublished": "2007?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/f4476bdc-f4ca-484d-832b-29bd1fd30458AmozaCover.png",
+ "inLanguage": "am",
+ "name": "አሞዛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "125.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f4476bdc-f4ca-484d-832b-29bd1fd30458"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f4476bdc-f4ca-484d-832b-29bd1fd30458"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f4476bdc-f4ca-484d-832b-29bd1fd30458"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ztqwwjzv",
+   "@type": "Book"
+  }
+ ]
+}

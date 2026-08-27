@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fswg40m7",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "yesnadar seneksar"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_g6ke8808",
+   "@type": "Person",
+   "name": "ምንዳርአለው ዘውዴ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%88%B5%E1%8A%93%E1%8B%B3%E1%88%AD_%E1%88%B5%E1%8A%95%E1%8A%AD%E1%88%B3%E1%88%AD.jpg",
+ "inLanguage": "am",
+ "name": "የስናዳር ስንክሳር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "88.65",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_149"
+  },
+  {
+   "@type": "Offer",
+   "price": "88.65",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_149"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_149"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_p1zmyaej",
+   "@type": "Book"
+  }
+ ]
+}

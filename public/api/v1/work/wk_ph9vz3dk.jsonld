@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ph9vz3dk",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "debtera"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ep8jsw3q",
+   "@type": "Person",
+   "name": "ቃለጽድቅ በላይነህ"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1DebteraBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ደብተራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "82.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/dd6ab1d6-eee7-4c79-8dac-cd4b674fe8e1"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y01sh9ms",
+   "@type": "Book"
+  }
+ ]
+}

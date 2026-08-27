@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5s1sqbnn",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "History",
+  "Literature"
+ ],
+ "alternateName": [
+  "yegodanaw ewnet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_16m2d2n0",
+   "@type": "Person",
+   "name": "ሄኖክ ግርማ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/777c7e69-5145-48cf-8e0a-ef9c5e212a9dYegodenawEwnetBookCover.png",
+ "inLanguage": "am",
+ "name": "የጎዳናው እውነት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/777c7e69-5145-48cf-8e0a-ef9c5e212a9d"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/777c7e69-5145-48cf-8e0a-ef9c5e212a9d"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/777c7e69-5145-48cf-8e0a-ef9c5e212a9d"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dcw8s9ha",
+   "@type": "Book"
+  }
+ ]
+}

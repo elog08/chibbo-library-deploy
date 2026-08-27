@@ -1,0 +1,122 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dessie Adam is a contemporary Ethiopian author whose work is deeply rooted in the Amharic literary tradition. He is best known for his philosophical and psychological approach to storytelling, often exploring themes of mortality, human nature, and societal change. Primary Literary Works የሞት መድኃኒት (The Medicine for Death): This is his most prominent work. It"
+ },
+ "extensions": {},
+ "fingerprint": "dasiadam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8xartvr0",
+ "id": "pe_8xartvr0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "dessie-adam",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/dessie-adam/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "dessie-adam",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/dessie-adam/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dessie Adam"
+  },
+  "romanized": "Dessie Adam",
+  "sort_key": "dessieadam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 105001,
+  "path": "assets/portraits/pe_8xartvr0.jpg",
+  "sha256": "5a4657fc2f70d0e7b83faa5e0145300e830112f9008cc0ed992b1acc61417c23",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/dessie-adam.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/dessie-adam/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n6wq8ba2.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/ነጭ-ቅዠት-Nech-Kizhet-by-Dessie-Adam.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_8xartvr0",
+     "name": "Dessie Adam",
+     "role": "author",
+     "romanized": "Dessie Adam"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-02-18",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_n6wq8ba2",
+   "id": "wk_n6wq8ba2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nech Kizhet",
+    "script": "Ethi",
+    "text": "ነጭ ቅዠት"
+   },
+   "type": "work",
+   "year": 2026
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xwyd32p6.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/gate-of-life.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_8xartvr0",
+     "name": "Dessie Adam",
+     "role": "author",
+     "romanized": "Dessie Adam"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-02-25",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_xwyd32p6",
+   "id": "wk_xwyd32p6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Gate of Life",
+    "script": "Ethi",
+    "text": "የሕይወት ደጅ"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

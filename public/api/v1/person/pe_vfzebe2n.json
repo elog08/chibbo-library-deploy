@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ይኸነው ጌታቸው በቀድሞ መጠሪያው ጋሞ ጎፋ ዞን በመባል በሚጠራው አካባቢ ውስጥ በምትገኘው ሳውላ ከተማ በመስከረም 1976 ዓ.ም የተወለደ ሲሆን እድገቱም በአሁ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yakanawgatachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vfzebe2n",
+ "id": "pe_vfzebe2n",
+ "identifiers": {
+  "afroread_id": [
+   "33dbb20e-0b3d-436b-1b1a-08dbb9f8e196"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "33dbb20e-0b3d-436b-1b1a-08dbb9f8e196",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/33dbb20e-0b3d-436b-1b1a-08dbb9f8e196"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "33dbb20e-0b3d-436b-1b1a-08dbb9f8e196",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/33dbb20e-0b3d-436b-1b1a-08dbb9f8e196"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yekenew getachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ይኸነው ጌታቸው"
+  },
+  "romanized": "yekenew getachew",
+  "sort_key": "ይከነውጌታቸው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 10480,
+  "path": "assets/portraits/pe_vfzebe2n.jpg",
+  "sha256": "2f474bb01a6c760a3cd57994b4df28b22bb9c815f8b0f8e920930e8fb1166384",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/87456245-91bb-4f73-a9e8-953b5fe3d013YihanewProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/33dbb20e-0b3d-436b-1b1a-08dbb9f8e196"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cqv6vfdf.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/daeab888-4b7d-4af0-b523-93672449e4b6SileSebBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vfzebe2n",
+     "name": "ይኸነው ጌታቸው",
+     "role": "author",
+     "romanized": "yekenew getachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cqv6vfdf",
+   "id": "wk_cqv6vfdf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sele seb",
+    "script": "Ethi",
+    "text": "ስለ ሰብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

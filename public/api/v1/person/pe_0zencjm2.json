@@ -1,0 +1,100 @@
+{
+ "extensions": {},
+ "fingerprint": "doramahratdababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0zencjm2",
+ "id": "pe_0zencjm2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Dr Miheret Debebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ምህረት ደበበ"
+  },
+  "romanized": "Dr Miheret Debebe",
+  "sort_key": "ዶርምህረትደበበ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_p6p1v876.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/yetekolefebet-kulf.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_0zencjm2",
+     "name": "ዶ/ር ምህረት ደበበ",
+     "role": "author",
+     "romanized": "Dr Miheret Debebe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_p6p1v876",
+   "id": "wk_p6p1v876",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeteqolefebet qulef",
+    "script": "Ethi",
+    "text": "የተቆለፈበት ቁልፍ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vkx6yv14.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/lela-sew-dr-miheret-debebe.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_0zencjm2",
+     "name": "ዶ/ር ምህረት ደበበ",
+     "role": "author",
+     "romanized": "Dr Miheret Debebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vkx6yv14",
+   "id": "wk_vkx6yv14",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lela sew",
+    "script": "Ethi",
+    "text": "ሌላ ሰው"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

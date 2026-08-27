@@ -1,0 +1,89 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Saba Mekuria is an Ethiopian writer, poet, and dedicated educator whose work reflects a deep passion for language, identity, and social consciousness. With a strong academic and professional background, she bridges literature, education, and social engagement through both her career and creative expression. Saba earned her first degrees in English Language Education and Business Administration"
+ },
+ "extensions": {},
+ "fingerprint": "sabamakuria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cr8vvk4j",
+ "id": "pe_cr8vvk4j",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "saba-mekuria",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/saba-mekuria/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "saba-mekuria",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/saba-mekuria/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Saba Mekuria"
+  },
+  "romanized": "Saba Mekuria",
+  "sort_key": "sabamekuria"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 124250,
+  "path": "assets/portraits/pe_cr8vvk4j.webp",
+  "sha256": "784f7a86b805fc4b3930c84e1fc5c859addb2079d37f38ae77e5a071cf875477",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/Saba-Mekuria-book-author.webp"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/saba-mekuria/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hxxpqgsf.webp",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/Saba-Mekuria-book-gizie-weyen-chereka.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_cr8vvk4j",
+     "name": "Saba Mekuria",
+     "role": "author",
+     "romanized": "Saba Mekuria"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_hxxpqgsf",
+   "id": "wk_hxxpqgsf",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gize Weyin Chereka",
+    "script": "Ethi",
+    "text": "ጊዜ...ወይን...ጨረቃ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nk5gscah",
+ "@type": "Book",
+ "about": [
+  "Short Stories"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7fwdhqca",
+   "@type": "Person",
+   "name": "Emebet Mengiste"
+  }
+ ],
+ "datePublished": "2026-08-18",
+ "description": "Athejim by Emebet Mengiste. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/Athejim.jpg",
+ "inLanguage": "am",
+ "isbn": "9781974691609",
+ "name": "Athejim",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/athejim-by-emebet-mengiste/"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/athejim-by-emebet-mengiste/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_txyebvn5",
+   "@type": "Book"
+  }
+ ]
+}

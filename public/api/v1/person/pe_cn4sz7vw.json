@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የአንደኛና ሁለተኛ ደረጃ ትምህርቱን በተወለደባት የጎንደር ከተማ ተከታትሏል ከአዲስ አበባ ዩኒቨርሲቲ ፊት ቴያትር ቀጥሎ ሥነጽሑፍ ተምሯል \"መንታ መንገድ\"... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "alamayahugabrahaywat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cn4sz7vw",
+ "id": "pe_cn4sz7vw",
+ "identifiers": {
+  "afroread_id": [
+   "e58bb5dd-6972-423c-dee4-08d90aade41a"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e58bb5dd-6972-423c-dee4-08d90aade41a",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e58bb5dd-6972-423c-dee4-08d90aade41a"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e58bb5dd-6972-423c-dee4-08d90aade41a",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e58bb5dd-6972-423c-dee4-08d90aade41a"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "alemayehu gebreheywet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዓለማየሁ ገብረሕይወት"
+  },
+  "romanized": "alemayehu gebreheywet",
+  "sort_key": "አለማየሁገብረህይወት"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 59323,
+  "path": "assets/portraits/pe_cn4sz7vw.png",
+  "sha256": "4dd0212025494410f0897e876767e20878bf7906cfa5a18cf6ba4a8c53523f47",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/60189b2a-8d18-49d0-9aa0-a6f6d33b7629AlemayehuGrebreHiwot320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/e58bb5dd-6972-423c-dee4-08d90aade41a"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1n5ebkzm.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/f49b1a3f-9a5d-4f9a-b695-fd62b967b191EtalemH320.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cn4sz7vw",
+     "name": "ዓለማየሁ ገብረሕይወት",
+     "role": "author",
+     "romanized": "alemayehu gebreheywet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1n5ebkzm",
+   "id": "wk_1n5ebkzm",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "etalem",
+    "script": "Ethi",
+    "text": "እታለም"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

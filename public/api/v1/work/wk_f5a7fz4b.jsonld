@@ -1,0 +1,72 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_f5a7fz4b",
+ "@type": "Book",
+ "about": [
+  "Communication",
+  "Non Fiction",
+  "Self Development",
+  "Fiction"
+ ],
+ "alternateName": [
+  "adis heywet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vxb5y60p",
+   "@type": "Person",
+   "name": "ዳግማዊ አሰፋ"
+  }
+ ],
+ "datePublished": "2013?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/23c40713-28e9-4ccc-812a-9b2b11046349DagmawiBookCoverAddisHiwot.png",
+ "inLanguage": "am",
+ "name": "አዲስ ሕይወት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/23c40713-28e9-4ccc-812a-9b2b11046349"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/23c40713-28e9-4ccc-812a-9b2b11046349"
+  },
+  {
+   "@type": "Offer",
+   "price": "100.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/addis-hiwot-dagmawi-aseffa"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/23c40713-28e9-4ccc-812a-9b2b11046349",
+  "https://www.ethiobookreview.com/book/addis-hiwot-dagmawi-aseffa"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z1sgd5re",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_me04pdfq",
+   "@type": "Book"
+  }
+ ]
+}

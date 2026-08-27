@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sgtt9t52",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "qechne ena ene"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/4c05ebb9-a3a0-4680-b0dc-19e73c573bf3GiraffeAndMeAmharicCover400.png",
+ "inLanguage": "am",
+ "name": "ቀጭኔ እና እኔ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "67.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/4c05ebb9-a3a0-4680-b0dc-19e73c573bf3"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/4c05ebb9-a3a0-4680-b0dc-19e73c573bf3"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/4c05ebb9-a3a0-4680-b0dc-19e73c573bf3"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ha7ws882",
+   "@type": "Book"
+  }
+ ]
+}

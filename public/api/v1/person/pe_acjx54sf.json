@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Dr. Birhan Kidane, born in Meta Abo, is a dedicated medical professional and passionate writer. He c... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dorabarhankidana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_acjx54sf",
+ "id": "pe_acjx54sf",
+ "identifiers": {
+  "afroread_id": [
+   "31441955-f906-4e67-2d1f-08dd0ee59e28"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "31441955-f906-4e67-2d1f-08dd0ee59e28",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/31441955-f906-4e67-2d1f-08dd0ee59e28"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "31441955-f906-4e67-2d1f-08dd0ee59e28",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/31441955-f906-4e67-2d1f-08dd0ee59e28"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re berhan kidane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ብርሃን ኪዳኔ"
+  },
+  "romanized": "do/re berhan kidane",
+  "sort_key": "ዶርብርሀንኪዳኔ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 101281,
+  "path": "assets/portraits/pe_acjx54sf.png",
+  "sha256": "694c47f7a83f5b69738e307207edc2959969923aa22206136453a37c1d756696",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/37e054ee-b6d1-4cea-8e7a-d24ff2955d57DrBerhaneKidaneProfilePhoto320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/31441955-f906-4e67-2d1f-08dd0ee59e28"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fymxhna2.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/2b15efd7-7754-480d-a6f9-9a07e276402aYeEnatMidirHazenBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_acjx54sf",
+     "name": "ዶ/ር ብርሃን ኪዳኔ",
+     "role": "author",
+     "romanized": "do/re berhan kidane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fymxhna2",
+   "id": "wk_fymxhna2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenat meder hezen",
+    "script": "Ethi",
+    "text": "የእናት ምድር ኅዘን"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

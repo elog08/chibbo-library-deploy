@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Maebel Fetene is an acclaimed Ethiopian author and scholar of the Orthodox Tewahedo Church known for writing influential spiritual and fictional works in Amharic. His writing often explores deep theological themes, the mystery of the heavens, and Ethiopian historical traditions. Notable Books Maebel Fetene's publications are widely recognized in the Ethiopian literary community for their"
+ },
+ "extensions": {},
+ "fingerprint": "mablafatana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_10p3hy81",
+ "id": "pe_10p3hy81",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "maeble-fetene",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/maeble-fetene/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "maeble-fetene",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/maeble-fetene/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Maeble Fetene"
+  },
+  "romanized": "Maeble Fetene",
+  "sort_key": "maeblefetene"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 7352,
+  "path": "assets/portraits/pe_10p3hy81.png",
+  "sha256": "80f6bda77c45095089658507893ebcb0118f8e33ba750d353e278e9aaa57b753",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2023/12/cropped-addisbooks-logo-1.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/maeble-fetene/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vbbdm7dz.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Hashmal.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_10p3hy81",
+     "name": "Maeble Fetene",
+     "role": "author",
+     "romanized": "Maeble Fetene"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-02-15",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vbbdm7dz",
+   "id": "wk_vbbdm7dz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hashmal",
+    "script": "Ethi",
+    "text": "ሐሽማል"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

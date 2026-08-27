@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wh9k13nn",
+ "@type": "Book",
+ "about": [
+  "Non Fiction",
+  "Philosophy"
+ ],
+ "alternateName": [
+  "homo diyus"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_t0qkk7m0",
+   "@type": "Person",
+   "name": "Dagim Tilahun"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/2cfe009f-4dec-46bf-8c53-d05c6d35878cHomoDesBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ሆሞ ዲዩስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "105.50",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2cfe009f-4dec-46bf-8c53-d05c6d35878c"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2cfe009f-4dec-46bf-8c53-d05c6d35878c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2cfe009f-4dec-46bf-8c53-d05c6d35878c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2pkpdw9r",
+   "@type": "Book"
+  }
+ ]
+}

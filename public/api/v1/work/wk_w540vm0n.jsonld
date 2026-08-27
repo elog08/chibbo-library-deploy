@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w540vm0n",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Litrature"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_haq4c4n2",
+   "@type": "Person",
+   "name": "Clive Uckfield"
+  }
+ ],
+ "datePublished": "2021?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/1895f043-bdc1-417c-8ec2-fc1b334f27bcTheRastaEmpireTrilogyBookCover.jpg",
+ "inLanguage": "en",
+ "name": "The Rasta Empire Trilogy",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1895f043-bdc1-417c-8ec2-fc1b334f27bc"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1895f043-bdc1-417c-8ec2-fc1b334f27bc"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/1895f043-bdc1-417c-8ec2-fc1b334f27bc"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_thhw60jm",
+   "@type": "Book"
+  }
+ ]
+}

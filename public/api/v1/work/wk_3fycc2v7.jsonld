@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3fycc2v7",
+ "@type": "Book",
+ "about": [
+  "Ficition"
+ ],
+ "alternateName": [
+  "yetat qusel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_1fg0cedw",
+   "@type": "Person",
+   "name": "አብርሃም ቃሉ"
+  }
+ ],
+ "datePublished": "2010?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/619f7adb-3530-4cbc-a9bf-1e6df2bc648fyetatekusel.png",
+ "inLanguage": "am",
+ "name": "የጣት ቁስል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "82.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/619f7adb-3530-4cbc-a9bf-1e6df2bc648f"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/619f7adb-3530-4cbc-a9bf-1e6df2bc648f"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/619f7adb-3530-4cbc-a9bf-1e6df2bc648f"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bse27gdc",
+   "@type": "Book"
+  }
+ ]
+}

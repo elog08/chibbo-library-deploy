@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2ajbqrx6",
+ "@type": "Book",
+ "about": [
+  "Fiction"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_n38ykpty",
+   "@type": "Person",
+   "name": "Masarat Abiy fi Mulugeetaa Tarfaa"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_9byppxe5",
+   "@type": "Person",
+   "name": "Mulugeta Terfa"
+  }
+ ],
+ "inLanguage": "om",
+ "name": "Dimimmisa",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "39.99",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/dimimmisa"
+  }
+ ],
+ "sameAs": [
+  "https://openlibrary.org/works/OL32191538W",
+  "https://www.ethiobookreview.com/book/dimimmisa"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pkje3ckc",
+   "@type": "Book"
+  }
+ ]
+}

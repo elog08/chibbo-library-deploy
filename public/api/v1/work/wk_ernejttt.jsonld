@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ernejttt",
+ "@type": "Book",
+ "about": [
+  "Memoir"
+ ],
+ "alternateName": [
+  "Ye Maebel Mengedegnoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_46zg3qgp",
+   "@type": "Person",
+   "name": "አለማየሁ ማሞ"
+  }
+ ],
+ "datePublished": "2022-01-07",
+ "description": "የማዕበል መንገደኞች Ye Maebel Mengedegnoch by Alemayehu Mammo. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/ye-Maebel-Mengedegnoch.jpg",
+ "inLanguage": "am",
+ "name": "የማዕበል መንገደኞች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/ye-maebel-mengedegnoch-by-alemayehu-mammo/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B09Q2GGDHF"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/ye-maebel-mengedegnoch-by-alemayehu-mammo/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0gfb3jav",
+   "@type": "Book"
+  }
+ ]
+}

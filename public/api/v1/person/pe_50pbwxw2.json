@@ -1,0 +1,150 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Hiwot Teffera is a respected Ethiopian author and former political activist best known for her literary contributions that explore Ethiopia's complex socio-political history. Background: She was born and raised in Harar, where she completed her early education at Medhane Alem High School. Education: She moved to Addis Ababa to attend Haile Selassie I University (now"
+ },
+ "extensions": {},
+ "fingerprint": "hiwotafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_50pbwxw2",
+ "id": "pe_50pbwxw2",
+ "identifiers": {
+  "openlibrary": [
+   "OL8644117A"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hiwot-teffera",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hiwot-teffera/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hiwot-teffera",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hiwot-teffera/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "hiwot-tefera",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/hiwot-tefera"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "ethiobookreview_author",
+   "ref": "hiwot-tefera",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.ethiobookreview.com/authors/profile/hiwot-tefera"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL8644117A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL8644117A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiwot Teffera"
+  },
+  "romanized": "Hiwot Teffera",
+  "sort_key": "hiwotteffera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 8788,
+  "path": "assets/portraits/pe_50pbwxw2.jpg",
+  "sha256": "1165d28c404e89d7386e15c7c88bd011dde1dc14aaeb9fe39bf27a5a40dd718b",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/hiwot-tefera.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/hiwot-teffera/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_mdfm4yzx.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/tower-in-the-sky.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_50pbwxw2",
+     "name": "Hiwot Teffera",
+     "role": "author",
+     "romanized": "Hiwot Teffera"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2012-01-01",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_mdfm4yzx",
+   "id": "wk_mdfm4yzx",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Tower in the Sky",
+    "script": "Latn",
+    "text": "Tower in the Sky"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_wg0n7fjx.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/tedbab1.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_50pbwxw2",
+     "name": "Hiwot Teffera",
+     "role": "author",
+     "romanized": "Hiwot Teffera"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024-12-01",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_wg0n7fjx",
+   "id": "wk_wg0n7fjx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tedbab",
+    "script": "Ethi",
+    "text": "ተድባብ"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

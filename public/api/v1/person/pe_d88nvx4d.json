@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲው እጅጉ በየነ ጉግሳ የካቲት 8 ቀን 1981 ዓ.ም በወሎ ክፍለ ሃገር ላስታ አውራጃ በሪቃች ማርያም የገጠር ቀበሌ ከአባቱ አቶ በየነ ጉግሳ እና ከእናቱ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "ajgubayana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d88nvx4d",
+ "id": "pe_d88nvx4d",
+ "identifiers": {
+  "afroread_id": [
+   "da1d552a-329b-438e-4138-08daf279239b"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "da1d552a-329b-438e-4138-08daf279239b",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/da1d552a-329b-438e-4138-08daf279239b"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "da1d552a-329b-438e-4138-08daf279239b",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/da1d552a-329b-438e-4138-08daf279239b"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ejgu beyene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እጅጉ በየነ"
+  },
+  "romanized": "ejgu beyene",
+  "sort_key": "እጅጉበየነ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 23950,
+  "path": "assets/portraits/pe_d88nvx4d.jpg",
+  "sha256": "43d8afa6371f6be731dbf6569169f7e4bb59bf538b79558ab771818ed9e8a901",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/30d2d78a-b918-499c-ab86-b8958fec4634Ejigu Beyene Gugsa Photo 224 ₓ 320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/da1d552a-329b-438e-4138-08daf279239b"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_h7v7kqk6.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1468ec6e-b1b4-49d2-a77f-a8639eac0cedEjiguBeyeneGugsaCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_d88nvx4d",
+     "name": "እጅጉ በየነ",
+     "role": "author",
+     "romanized": "ejgu beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_h7v7kqk6",
+   "id": "wk_h7v7kqk6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ityopyan beewqet yememrat tebebna balereey yemehon mestir",
+    "script": "Ethi",
+    "text": "ኢትዮጵያን በእውቀት የመምራት ጥበብና ባለርዕይ የመሆን ምስጢር"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

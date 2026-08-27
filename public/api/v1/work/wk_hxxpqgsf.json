@@ -1,0 +1,105 @@
+{
+ "cover": {
+  "bytes": 60198,
+  "path": "assets/covers/wk_hxxpqgsf.webp",
+  "sha256": "e3f801781a44d9ac88c125b22d54a1149f7a0a1126326d35d3dabe03ccc3d2e8",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/Saba-Mekuria-book-gizie-weyen-chereka.webp"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_cr8vvk4j",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "ጊዜ...ወይን...ጨረቃ... ሳባ መኩሪያ Gize Weyin Chereka: A poetic exploration of memory, emotion, and the human condition. መጽሐፉን የት ማግኘት ይቻላል? ጃፋር መጻሕፍት መደብር (Jaffar Books): በመገናኛ እና በለጋሃር ቅርንጫፎች በተለያዩ መጻሕፍት መደብር"
+ },
+ "editions": [
+  "ed_ek6m7856"
+ ],
+ "extensions": {},
+ "fingerprint": "ጊዜወይንጨረቃ|sabamakuria",
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_hxxpqgsf",
+ "id": "wk_hxxpqgsf",
+ "identifiers": {
+  "addisbooks_sku": [
+   "Saba Mekuria Book 2"
+  ],
+  "isbn13": [
+   "9781981500819"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "gize-weyin-chereka",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/gize-weyin-chereka/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "10.00",
+   "provider": "addisbooks",
+   "ref": "gize-weyin-chereka",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/gize-weyin-chereka/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "1981500812",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/1981500812"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "poetry": true,
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/gize-weyin-chereka/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Poem",
+  "Poetry"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Gize Weyin Chereka",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጊዜ...ወይን...ጨረቃ"
+  },
+  "romanized": "Gize Weyin Chereka",
+  "sort_key": "ጊዜወይንጨረቃ"
+ },
+ "type": "work"
+}

@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w18mch1n",
+ "@type": "Book",
+ "about": [
+  "Adventure",
+  "Communication",
+  "Ethiopia",
+  "Fiction",
+  "Kids"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_j4k95hep",
+   "@type": "Person",
+   "name": "EthioQuest Adventures"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/69e2997e-3bf1-4572-82f1-c3fd19b4fa3aBaleMountainBookCover420.png",
+ "inLanguage": "en",
+ "name": "Secrets of the Bale Mountain Highlands",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "65.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/69e2997e-3bf1-4572-82f1-c3fd19b4fa3a"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/69e2997e-3bf1-4572-82f1-c3fd19b4fa3a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/69e2997e-3bf1-4572-82f1-c3fd19b4fa3a"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9xx8qm8q",
+   "@type": "Book"
+  }
+ ]
+}

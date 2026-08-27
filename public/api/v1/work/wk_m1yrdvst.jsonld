@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_m1yrdvst",
+ "@type": "Book",
+ "about": [
+  "Entertainment"
+ ],
+ "alternateName": [
+  "mula nesrudin"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_spkf08ek",
+   "@type": "Person",
+   "name": "ግሩም ተበጀ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%99%E1%88%8B_%E1%8A%90%E1%88%B5%E1%88%A9%E1%8B%B2%E1%8A%95.jpg",
+ "inLanguage": "am",
+ "name": "ሙላ ነስሩዲን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_176"
+  },
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_176"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_176"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_37nps9jy",
+   "@type": "Book"
+  }
+ ]
+}

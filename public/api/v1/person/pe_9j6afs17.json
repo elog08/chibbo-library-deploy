@@ -1,0 +1,148 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ጋዜጠኛ መርዕድ እስጢፋኖስ በኢህአዴግ መንግስት በተለያዩ የነጻው ፕሬስ ጋዜጦች ላይ በአዘጋጅነት እና በከፍተኛ ሪፖርተነት አገልግሏል ከዚህም ጋር በተያያዘ በ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "maradastifanos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9j6afs17",
+ "id": "pe_9j6afs17",
+ "identifiers": {
+  "afroread_id": [
+   "5099d290-4557-4d9d-407b-08db11e44ff6"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5099d290-4557-4d9d-407b-08db11e44ff6",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5099d290-4557-4d9d-407b-08db11e44ff6"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5099d290-4557-4d9d-407b-08db11e44ff6",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5099d290-4557-4d9d-407b-08db11e44ff6"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mereed estifanos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መርዕድ እስጢፋኖስ"
+  },
+  "romanized": "mereed estifanos",
+  "sort_key": "መርእድእስጢፋኖስ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 10888,
+  "path": "assets/portraits/pe_9j6afs17.jpg",
+  "sha256": "45411bafb6631d7ba12c7cde91a1b04ec22d2f9e9b6381c51841f5cf150d9294",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/c3e003d4-d633-40a5-b12e-c9c44ab4537eMeridEstifanosPicH320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5099d290-4557-4d9d-407b-08db11e44ff6"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_622hrdd6.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/f4818e58-74aa-4fc5-a0d9-001c1ef9b500YepapasuTilaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_9j6afs17",
+     "name": "መርዕድ እስጢፋኖስ",
+     "role": "author",
+     "romanized": "mereed estifanos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_622hrdd6",
+   "id": "wk_622hrdd6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yepapasu tela",
+    "script": "Ethi",
+    "text": "የጳጳሱ ጥላ"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zxq0ern8.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/4472b975-36e4-40d1-9547-cb95aebd1ff7LozaZeTsatBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_9j6afs17",
+     "name": "መርዕድ እስጢፋኖስ",
+     "role": "author",
+     "romanized": "mereed estifanos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_zxq0ern8",
+   "id": "wk_zxq0ern8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "loza ze-tseat",
+    "script": "Ethi",
+    "text": "ሎዛ ዘ-ጸአት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

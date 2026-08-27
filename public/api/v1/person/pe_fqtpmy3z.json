@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyahmad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fqtpmy3z",
+ "id": "pe_fqtpmy3z",
+ "identifiers": {
+  "openlibrary": [
+   "OL11818785A"
+  ],
+  "wikidata": [
+   "Q50365049"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q50365049",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q50365049"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL11818785A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL11818785A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abiy ahmed",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዐቢይ አሕመድ"
+  },
+  "romanized": "abiy ahmed",
+  "sort_key": "አቢይአህመድ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "hahubooks"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dtrxpzvb.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%88%98%E1%8B%B0%E1%88%98%E1%88%AD.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_fqtpmy3z",
+     "name": "ዐቢይ አሕመድ",
+     "role": "author",
+     "romanized": "abiy ahmed"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_dtrxpzvb",
+   "id": "wk_dtrxpzvb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "medemer",
+    "script": "Ethi",
+    "text": "መደመር"
+   },
+   "type": "work"
+  }
+ ]
+}

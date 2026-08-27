@@ -1,0 +1,156 @@
+{
+ "extensions": {},
+ "fingerprint": "balugirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_50p2p1t8",
+ "id": "pe_50p2p1t8",
+ "identifiers": {
+  "openlibrary": [
+   "OL1294464A"
+  ],
+  "wikidata": [
+   "Q13144160"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q13144160",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q13144160"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL1294464A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL1294464A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bealu germa",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Baalu Girma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በአሉ ግርማ"
+  },
+  "romanized": "bealu germa",
+  "sort_key": "በአሉግርማ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7njeenhv.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8A%A8%E1%8A%A0%E1%8B%B5%E1%88%9B%E1%88%B5_%E1%89%A3%E1%88%BB%E1%8C%88%E1%88%AD.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_7njeenhv",
+   "id": "wk_7njeenhv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "keadmas bashager",
+    "script": "Ethi",
+    "text": "ከአድማስ ባሻገር"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_7r1cacb3.jpg",
+    "source_url": "https://covers.openlibrary.org/b/id/14856727-L.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1983",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_7r1cacb3",
+   "id": "wk_7r1cacb3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Oromay",
+    "script": "Ethi",
+    "text": "ኦሮማይ"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1969",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_ac5vz4hr",
+   "id": "wk_ac5vz4hr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ke Admas Bashager",
+    "script": "Ethi",
+    "text": "ከአድማስ ባሻገር"
+   },
+   "type": "work",
+   "year": 1969
+  }
+ ]
+}

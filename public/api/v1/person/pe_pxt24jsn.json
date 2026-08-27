@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Abdirezak Sahane Elmi is a man of many talents and accomplishments. Born in the Somali region of Eth... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abdirazaqsahanailmi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pxt24jsn",
+ "id": "pe_pxt24jsn",
+ "identifiers": {
+  "afroread_id": [
+   "5e291d95-22da-4043-fbe0-08dcd6a0a0d9"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5e291d95-22da-4043-fbe0-08dcd6a0a0d9",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5e291d95-22da-4043-fbe0-08dcd6a0a0d9"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "5e291d95-22da-4043-fbe0-08dcd6a0a0d9",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/5e291d95-22da-4043-fbe0-08dcd6a0a0d9"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abdirezaq sehene ilmi",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አብዲረዛቅ ሰሀኔ ኢልሚ"
+  },
+  "romanized": "abdirezaq sehene ilmi",
+  "sort_key": "አብዲረዛቅሰሀኔኢልሚ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 48174,
+  "path": "assets/portraits/pe_pxt24jsn.png",
+  "sha256": "4635035c46ac591a17837ccf435e8bd52b0b5f1ded7e243e089e29db467d4bde",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/9ac22659-67eb-4fb3-b360-90b3bfa3d25bAbdirezak_Abdu_320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/5e291d95-22da-4043-fbe0-08dcd6a0a0d9"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0zhaxm7g.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/f7771b2a-a2cd-48c6-afda-73b953309bfaRAGAAD_Book_Cover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pxt24jsn",
+     "name": "አብዲረዛቅ ሰሀኔ ኢልሚ",
+     "role": "author",
+     "romanized": "abdirezaq sehene ilmi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0zhaxm7g",
+   "id": "wk_0zhaxm7g",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "RAGAAD",
+    "script": "Latn",
+    "text": "RAGAAD"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ks29veky.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/b2660b3d-f713-40fd-8631-b0a09e541402ApromisingFutureForYoungAfricansBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pxt24jsn",
+     "name": "አብዲረዛቅ ሰሀኔ ኢልሚ",
+     "role": "author",
+     "romanized": "abdirezaq sehene ilmi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ks29veky",
+   "id": "wk_ks29veky",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "A Promising Future For Young Africans",
+    "script": "Latn",
+    "text": "A Promising Future For Young Africans"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

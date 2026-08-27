@@ -1,0 +1,122 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Hailu Worku Obsse is an Ethiopian writer, researcher and software developer who is currently pursuing his PhD in Optimization Engineering at Ecriyes University in Turkey. He has authored more than 12 books, published many research articles, and contributed much to the development of literature."
+ },
+ "extensions": {},
+ "fingerprint": "hailuworkuobsa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qk47k35g",
+ "id": "pe_qk47k35g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hailu-worku-obsse",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hailu-worku-obsse/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "hailu-worku-obsse",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/hailu-worku-obsse/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hailu Worku Obsse"
+  },
+  "romanized": "Hailu Worku Obsse",
+  "sort_key": "hailuworkuobsse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 5912,
+  "path": "assets/portraits/pe_qk47k35g.jpg",
+  "sha256": "534e0c93fd965606eb42a1cfe52c5308277638d3260f276239ecedfb16bac6b5",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Hailu-Worku-Obsse-e1778230551948.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/hailu-worku-obsse/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_mnghkpty.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Mot-be-Wekelena-ሞት-በውክልና-by-Hailu-Worku-Obsse.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_qk47k35g",
+     "name": "Hailu Worku Obsse",
+     "role": "author",
+     "romanized": "Hailu Worku Obsse"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023-03-17",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_mnghkpty",
+   "id": "wk_mnghkpty",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mot be Wekelena",
+    "script": "Ethi",
+    "text": "ሞት በውክልና"
+   },
+   "type": "work",
+   "year": 2023
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_qjtz42d8.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/የፓቶጵያ-ፍቅር-ብቸኛ-የሰው-ልጆች-ተስፋ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_qk47k35g",
+     "name": "Hailu Worku Obsse",
+     "role": "author",
+     "romanized": "Hailu Worku Obsse"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024-03-21",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_qjtz42d8",
+   "id": "wk_qjtz42d8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yepatopya feqer: bechenya yesew lejoch tesfa",
+    "script": "Ethi",
+    "text": "የፓቶጵያ ፍቅር: ብቸኛ የሰው ልጆች ተስፋ"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

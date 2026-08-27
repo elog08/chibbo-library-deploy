@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "authordagmawiamalawark",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t9cmtejw",
+ "id": "pe_t9cmtejw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "author-dagmawi-amelewerk",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/author-dagmawi-amelewerk/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "author-dagmawi-amelewerk",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/author-dagmawi-amelewerk/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Author Dagmawi Amelewerk"
+  },
+  "romanized": "Author Dagmawi Amelewerk",
+  "sort_key": "authordagmawiamelewerk"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/author-dagmawi-amelewerk/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wfgda6kn.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/zeha.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_k3pvwses",
+     "name": "Dagmawi Amelewerk",
+     "role": "author",
+     "romanized": "Dagmawi Amelewerk"
+    },
+    {
+     "id": "pe_t9cmtejw",
+     "name": "Author Dagmawi Amelewerk",
+     "role": "author",
+     "romanized": "Author Dagmawi Amelewerk"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-03-16",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_wfgda6kn",
+   "id": "wk_wfgda6kn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zeha",
+    "script": "Ethi",
+    "text": "ዝሃ"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

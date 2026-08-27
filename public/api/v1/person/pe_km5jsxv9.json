@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "ነቢል አዱኛ በአዲስ አበባ የተወለደ እና ያደገ ... የመጀመሪያ ደረጃ ትምህርቱን በግል ሁለተኛ ደረጃ በመድሐኔዓለም ሁለተኛ ደረጃ ትምህርት ቤት የተማረ.... በIT ዲፕሎማ ያለው በሥነ-ጽሑፍ ከ2016-2017 በአዲስአድማስ ጋዜጣ የሰራ ሲሆን አሁን ደግሞ በመዲና እና ባይራ ዲጂታል መጽሔቶች ላይ የተለያዩ ጽሑፎችን ያቀርባል የመጽሐፍት ኂስ ትንታኔ እና ማብራሪዎችን ይጽፋል በ2018 ደግሞ እፉዬ የሚል የልብወለድ መጽሐፍ አሳትሟል"
+ },
+ "extensions": {},
+ "fingerprint": "nabiladugna",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_km5jsxv9",
+ "id": "pe_km5jsxv9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "nebil-adugna",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/nebil-adugna/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "nebil-adugna",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/nebil-adugna/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nebil Adugna"
+  },
+  "romanized": "Nebil Adugna",
+  "sort_key": "nebiladugna"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 83522,
+  "path": "assets/portraits/pe_km5jsxv9.jpg",
+  "sha256": "310bfcd6d703c1735c7f2a0aec281413af5f7e70d32097da3e273b0441b4ba45",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/nebil-adugna1.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/nebil-adugna/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zrf6e0p6.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/efuye.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_km5jsxv9",
+     "name": "Nebil Adugna",
+     "role": "author",
+     "romanized": "Nebil Adugna"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025-12-15",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_zrf6e0p6",
+   "id": "wk_zrf6e0p6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Efuye",
+    "script": "Ethi",
+    "text": "እፉዬ"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

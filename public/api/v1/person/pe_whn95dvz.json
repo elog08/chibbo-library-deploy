@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዳዊት ኃይሉ ከአባቱ ከሻምበል ኃይሉ ኪሮስ እና ከእናቱ ከወ/ሮ ዘቡ ካሳዬ በ1974 ዓ.ም በሃዋ ተወለደ የቤተሰቡ አራተኛ ልጅ የሆነው ለሁለት ዓመት ዓያቶቹ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "dawithaylu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_whn95dvz",
+ "id": "pe_whn95dvz",
+ "identifiers": {
+  "afroread_id": [
+   "1d4cbc8a-2a72-4df1-93ac-08daa31cafa3"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1d4cbc8a-2a72-4df1-93ac-08daa31cafa3",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1d4cbc8a-2a72-4df1-93ac-08daa31cafa3"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1d4cbc8a-2a72-4df1-93ac-08daa31cafa3",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1d4cbc8a-2a72-4df1-93ac-08daa31cafa3"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit haylu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት ኃይሉ"
+  },
+  "romanized": "dawit haylu",
+  "sort_key": "ዳዊትሀይሉ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 49523,
+  "path": "assets/portraits/pe_whn95dvz.png",
+  "sha256": "be48b30014b22afc6ad61ad4b8a162005c15be3a0c621207b33f83c7c0affa2d",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/de8c7b2f-bf61-4859-af0f-bfc3a7778f71DawitHailuProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/1d4cbc8a-2a72-4df1-93ac-08daa31cafa3"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k51rbnwb.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/97cdf274-1fe8-4155-aa04-58208542777aDawitHailuYethaqelayaayMinstruDebedabeCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_whn95dvz",
+     "name": "ዳዊት ኃይሉ",
+     "role": "author",
+     "romanized": "dawit haylu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k51rbnwb",
+   "id": "wk_k51rbnwb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeteqlay menisteru debdabena leloch",
+    "script": "Ethi",
+    "text": "የጠቅላይ ምኒስቴሩ ደብዳቤና ሌሎች"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

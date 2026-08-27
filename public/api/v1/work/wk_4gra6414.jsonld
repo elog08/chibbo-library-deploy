@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4gra6414",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "hefziba"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_c1d03wh1",
+   "@type": "Person",
+   "name": "ኑርልኝ ፀጋዬ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/eabe557f-975f-4e98-88cc-09d3cdfc358chifzibaBookCover.png",
+ "inLanguage": "am",
+ "name": "ሄፍዚባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/eabe557f-975f-4e98-88cc-09d3cdfc358c"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/eabe557f-975f-4e98-88cc-09d3cdfc358c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/eabe557f-975f-4e98-88cc-09d3cdfc358c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gxxpjnt3",
+   "@type": "Book"
+  }
+ ]
+}

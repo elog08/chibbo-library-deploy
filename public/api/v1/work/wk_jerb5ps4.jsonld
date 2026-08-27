@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jerb5ps4",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "mata mata ena leloch terekawoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_tqy04a3p",
+   "@type": "Person",
+   "name": "ሕይወት እምሻው"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%9B%E1%89%B3_%E1%88%9B%E1%89%B3_%E1%8A%A5%E1%8A%93_%E1%88%8C%E1%88%8E%E1%89%BD_%E1%89%B5%E1%88%A8%E1%8A%AB%E1%8B%8E%E1%89%BD.jpg",
+ "inLanguage": "am",
+ "name": "ማታ ማታ እና ሌሎች ትረካዎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_40"
+  },
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_40"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_40"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_165x1a4k",
+   "@type": "Book"
+  }
+ ]
+}

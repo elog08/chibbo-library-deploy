@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_z85v936y",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3t22hmwq",
+   "@type": "Person",
+   "name": "Tilahun Tassew"
+  }
+ ],
+ "datePublished": "2015-06-14",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/adabai.jpg",
+ "inLanguage": "am",
+ "isbn": "9781512072808",
+ "name": "Adabai",
+ "offers": [
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/adabai-by-tilahun-tassew/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/151207280X"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/adabai-by-tilahun-tassew/",
+  "https://openlibrary.org/works/OL41375596W"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_egqrhhr6",
+   "@type": "Book"
+  }
+ ]
+}

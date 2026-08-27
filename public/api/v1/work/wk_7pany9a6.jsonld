@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7pany9a6",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "yemedemer sekar"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_288pe51v",
+   "@type": "Person",
+   "name": "መስፍን ይልማ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6c0a8727-43ce-4179-9466-ba3cac4c3f56YemedemerSekarBookCover.png",
+ "inLanguage": "am",
+ "name": "የመደመር ስካር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6c0a8727-43ce-4179-9466-ba3cac4c3f56"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6c0a8727-43ce-4179-9466-ba3cac4c3f56"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/6c0a8727-43ce-4179-9466-ba3cac4c3f56"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wd8hn13z",
+   "@type": "Book"
+  }
+ ]
+}

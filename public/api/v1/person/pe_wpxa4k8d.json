@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Azaries Dessie is a poet and author with an unusual life story. He was born in Wondegeri, a rural area near Gondar, in 1991. In 2006, when he was around 15 years old, he published his first poetry book, Arimat. Most of the poems were written when he was 14 or younger. Because of this,"
+ },
+ "extensions": {},
+ "fingerprint": "azariasdasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wpxa4k8d",
+ "id": "pe_wpxa4k8d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "azaries-dessie",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/azaries-dessie/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "azaries-dessie",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/azaries-dessie/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Azaries Dessie"
+  },
+  "romanized": "Azaries Dessie",
+  "sort_key": "azariesdessie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 25103,
+  "path": "assets/portraits/pe_wpxa4k8d.jpg",
+  "sha256": "4134bda69a00cf3bf338b5a6433a539885baece1f2191b1dfa35c8516e24f885",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/06/Azaries-Dessie-1.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/azaries-dessie/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cnak7j4v.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/06/Karamon-Pigeon-and-Falcon.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_wpxa4k8d",
+     "name": "Azaries Dessie",
+     "role": "author",
+     "romanized": "Azaries Dessie"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-01-05",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_cnak7j4v",
+   "id": "wk_cnak7j4v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Karamon Pigeon and Falcon",
+    "script": "Ethi",
+    "text": "ካራሞን ዋኖስ እና ጭልፊት"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

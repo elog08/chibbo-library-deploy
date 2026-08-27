@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "haruywaldasalasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5gx8fw8y",
+ "id": "pe_5gx8fw8y",
+ "identifiers": {
+  "wikidata": [
+   "Q3134389"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q3134389",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q3134389"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "am",
+   "provider": "wikipedia",
+   "ref": "ኅሩይ_ወልደሥላሴ_(ብላቴን_ጌታ)",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://am.wikipedia.org/wiki/ኅሩይ_ወልደሥላሴ_(ብላቴን_ጌታ)"
+  },
+  {
+   "checked": "2026-08-26",
+   "lang": "en",
+   "provider": "wikipedia",
+   "ref": "Heruy_Wolde_Selassie",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://en.wikipedia.org/wiki/Heruy_Wolde_Selassie"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Heruy Walda Sellasse"
+  },
+  "romanized": "Heruy Walda Sellasse",
+  "sort_key": "heruywaldasellasse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 42322,
+  "path": "assets/portraits/pe_5gx8fw8y.jpg",
+  "sha256": "9c425dcf0a306adc31fae16c986b49ce9fb313bd68420c3b8d4882df5bc48aab",
+  "source_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Heruyjapan2.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5gx8fw8y",
+     "name": "Heruy Walda Sellasse",
+     "role": "author",
+     "romanized": "Heruy Walda Sellasse"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1923",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_1xtxzt0z",
+   "id": "wk_1xtxzt0z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wadaje Lebbe",
+    "script": "Ethi",
+    "text": "ወዳጄ ልቤ"
+   },
+   "type": "work",
+   "year": 1923
+  }
+ ]
+}

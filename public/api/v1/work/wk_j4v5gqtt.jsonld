@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_j4v5gqtt",
+ "@type": "Book",
+ "about": [
+  "Science Fiction"
+ ],
+ "alternateName": [
+  "yotod"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7fqevmxn",
+   "@type": "Person",
+   "name": "ይስማዕከ ወርቁ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%AE%E1%89%B6%E1%8B%B5.jpg",
+ "inLanguage": "am",
+ "name": "ዮቶድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "82.08",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_133"
+  },
+  {
+   "@type": "Offer",
+   "price": "82.08",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_133"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_133"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_844wvah2",
+   "@type": "Book"
+  }
+ ]
+}

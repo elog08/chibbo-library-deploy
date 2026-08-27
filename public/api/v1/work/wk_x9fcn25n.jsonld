@@ -1,0 +1,81 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_x9fcn25n",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Philosophy"
+ ],
+ "alternateName": [
+  "athejim"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ndpkmnhw",
+   "@type": "Person",
+   "name": "እመቤት መንግስቴ"
+  }
+ ],
+ "datePublished": "2009?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/b8fa7f4e-f629-4c06-a739-abee6340f0b4Atihejim.png",
+ "inLanguage": "am",
+ "name": "አትሄጂም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "88.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b8fa7f4e-f629-4c06-a739-abee6340f0b4"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/b8fa7f4e-f629-4c06-a739-abee6340f0b4"
+  },
+  {
+   "@type": "Offer",
+   "price": "108.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/add69a25-99d9-49c8-9be0-fdfdeaef812a"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/add69a25-99d9-49c8-9be0-fdfdeaef812a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/add69a25-99d9-49c8-9be0-fdfdeaef812a",
+  "https://afroreadapp.com/Store/Bookdetail/b8fa7f4e-f629-4c06-a739-abee6340f0b4"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gdvc3k1h",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_55tqf54r",
+   "@type": "Book"
+  }
+ ]
+}

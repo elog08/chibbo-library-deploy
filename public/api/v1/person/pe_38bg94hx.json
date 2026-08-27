@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "pawlosnyonyo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_38bg94hx",
+ "id": "pe_38bg94hx",
+ "identifiers": {
+  "openlibrary": [
+   "OL11392264A"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL11392264A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL11392264A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "pawlos nyonyo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጳውሎስ ኞኞ"
+  },
+  "romanized": "pawlos nyonyo",
+  "sort_key": "ጳውሎስኞኞ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "hahubooks"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r918xkgs.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%8C%A4_%E1%88%9D%E1%8A%92%E1%88%8D%E1%8A%AD.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_r918xkgs",
+   "id": "wk_r918xkgs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ate menilek",
+    "script": "Ethi",
+    "text": "አጤ ምኒልክ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vhgdc655.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%8C%A4_%E1%89%B4%E1%8B%8E%E1%8B%B5%E1%88%AE%E1%88%B5.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_vhgdc655",
+   "id": "wk_vhgdc655",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ate tewodros",
+    "script": "Ethi",
+    "text": "አጤ ቴዎድሮስ"
+   },
+   "type": "work"
+  }
+ ]
+}

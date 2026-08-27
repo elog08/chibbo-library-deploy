@@ -1,0 +1,78 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_x0sk31r2",
+ "@type": "Book",
+ "about": [
+  "History",
+  "Kids",
+  "Literature"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_scpfh2nb",
+   "@type": "Person",
+   "name": "Monica Hernandez"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/80e0293a-2391-4b1d-903d-6a7f68c15906WhereIsAuntiMaynmarCoverH400.png",
+ "inLanguage": "en",
+ "name": "Where is Auntie",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/80e0293a-2391-4b1d-903d-6a7f68c15906"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/80e0293a-2391-4b1d-903d-6a7f68c15906"
+  },
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/87bdcf54-a6cb-4148-9556-df5f47262c38"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/87bdcf54-a6cb-4148-9556-df5f47262c38"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/80e0293a-2391-4b1d-903d-6a7f68c15906",
+  "https://afroreadapp.com/Store/Bookdetail/87bdcf54-a6cb-4148-9556-df5f47262c38",
+  "https://openlibrary.org/works/OL35781574W"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9jfpgs2s",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_e7xyw86n",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_r18myhqe",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yeras mesel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hekw06gf",
+   "@type": "Person",
+   "name": "ዶክተር በድሉ ዋቅጅራ"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/c0a37c90-b259-4951-ba09-f58a743cb5a7YerasMeseleCoverThumbnail.png",
+ "inLanguage": "am",
+ "name": "የራስ ምስል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c0a37c90-b259-4951-ba09-f58a743cb5a7"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c0a37c90-b259-4951-ba09-f58a743cb5a7"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/c0a37c90-b259-4951-ba09-f58a743cb5a7"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4crh8331",
+   "@type": "Book"
+  }
+ ]
+}

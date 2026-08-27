@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_25dy2q4y",
+ "@type": "Book",
+ "about": [
+  "Kids"
+ ],
+ "alternateName": [
+  "wenedme yaqob"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ayk78vqn",
+   "@type": "Person",
+   "name": "Melkam Media"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/d20830d7-b454-452b-951b-ea4d464b2603BrotherJohnCoverH400.jpg",
+ "inLanguage": "am",
+ "name": "ወንድሜ ያቆብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "64.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/d20830d7-b454-452b-951b-ea4d464b2603"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/d20830d7-b454-452b-951b-ea4d464b2603"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/d20830d7-b454-452b-951b-ea4d464b2603"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z9v36n35",
+   "@type": "Book"
+  }
+ ]
+}

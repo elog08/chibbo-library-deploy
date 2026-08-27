@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ያሬድ ደመረው ኪዳኔ የተወለደው ቦሬ ሲሆን የልጅነቱ ቆይተው እና እድገቱ በሀዋሳ ከተማ ነው አሁን በአዲስ አበባ ከተማ በትምህርትና በአገልግሎት ላይ ይገኛል... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yaradamaraw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h1n96gwq",
+ "id": "pe_h1n96gwq",
+ "identifiers": {
+  "afroread_id": [
+   "82c651f6-ea35-4003-4813-08dba6585e1c"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "82c651f6-ea35-4003-4813-08dba6585e1c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/82c651f6-ea35-4003-4813-08dba6585e1c"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "82c651f6-ea35-4003-4813-08dba6585e1c",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/82c651f6-ea35-4003-4813-08dba6585e1c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yared demerew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ያሬድ ደመረው"
+  },
+  "romanized": "yared demerew",
+  "sort_key": "ያሬድደመረው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 9426,
+  "path": "assets/portraits/pe_h1n96gwq.jpg",
+  "sha256": "435d3056e0c3a301cd1a7e3a28917f9f4d1115fe001f6b753cd8c0b0bef89042",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/3f3feb41-d2f2-41cb-ae57-534c3febd413YaredProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/82c651f6-ea35-4003-4813-08dba6585e1c"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tm2c2pd6.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/0e55299c-6ab6-4d51-87e8-686785c07f3eBelbachinYefesesewYegziabharFikirBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_h1n96gwq",
+     "name": "ያሬድ ደመረው",
+     "role": "author",
+     "romanized": "yared demerew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tm2c2pd6",
+   "id": "wk_tm2c2pd6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "belbachen yefesesew yeegziabher feqer",
+    "script": "Ethi",
+    "text": "በልባችን የፈሰሰው የእግዚአብሔር ፍቅር"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

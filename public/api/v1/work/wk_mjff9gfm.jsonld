@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mjff9gfm",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yetesfa ketbat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hekw06gf",
+   "@type": "Person",
+   "name": "ዶክተር በድሉ ዋቅጅራ"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/d80d23cd-6e04-4250-bdf7-d1065106b82cYetesfaKitebatThumbnail.png",
+ "inLanguage": "am",
+ "name": "የተስፋ ክትባት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "80.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/d80d23cd-6e04-4250-bdf7-d1065106b82c"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/d80d23cd-6e04-4250-bdf7-d1065106b82c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/d80d23cd-6e04-4250-bdf7-d1065106b82c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_v47mkqt2",
+   "@type": "Book"
+  }
+ ]
+}

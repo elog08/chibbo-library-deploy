@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cnk7panq",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Philosophy"
+ ],
+ "alternateName": [
+  "agelfano"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sx60snvy",
+   "@type": "Person",
+   "name": "ከፈለኝ ዘለለው"
+  }
+ ],
+ "datePublished": "2004?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/fcf6db3f-82b8-4ea0-9e8b-0a45d74f02adAgelFanoBookCover.png",
+ "inLanguage": "am",
+ "name": "አገልፋኖ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "80.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/fcf6db3f-82b8-4ea0-9e8b-0a45d74f02ad"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/fcf6db3f-82b8-4ea0-9e8b-0a45d74f02ad"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/fcf6db3f-82b8-4ea0-9e8b-0a45d74f02ad"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_117y5tbn",
+   "@type": "Book"
+  }
+ ]
+}

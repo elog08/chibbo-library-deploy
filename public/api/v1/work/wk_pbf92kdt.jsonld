@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pbf92kdt",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "yezer kared"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0y68pgsw",
+   "@type": "Person",
+   "name": "ቡርሃን አዲስ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8B%98%E1%88%AD_%E1%8A%AB%E1%88%AD%E1%8B%B5.jpg",
+ "inLanguage": "am",
+ "name": "የዘር ካርድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "88.992",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+  },
+  {
+   "@type": "Offer",
+   "price": "88.992",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2b3dvzqs",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8pt8qfbd",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "abren"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ndpkmnhw",
+   "@type": "Person",
+   "name": "እመቤት መንግስቴ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/8acd5c43-2dac-47b1-ad9f-46e92ab14d41AbrenBookCover.jpg",
+ "inLanguage": "am",
+ "name": "አብረን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/8acd5c43-2dac-47b1-ad9f-46e92ab14d41"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/8acd5c43-2dac-47b1-ad9f-46e92ab14d41"
+  },
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c9ecfb07-2fde-4f6f-bdea-adde9a779ae4"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/c9ecfb07-2fde-4f6f-bdea-adde9a779ae4"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/8acd5c43-2dac-47b1-ad9f-46e92ab14d41",
+  "https://afroreadapp.com/Store/Bookdetail/c9ecfb07-2fde-4f6f-bdea-adde9a779ae4"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x7wqvm2y",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_07rvwfen",
+   "@type": "Book"
+  }
+ ]
+}

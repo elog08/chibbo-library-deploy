@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_s5yet16z",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "yemenyta bet mestiroch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_x9d9vbm2",
+   "@type": "Person",
+   "name": "እንዳለጌታ ከበደ"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/5f724845-681e-46e3-81ec-7f4084d4e822YeMegnitaBetMisteroch.png",
+ "inLanguage": "am",
+ "name": "የመኝታ ቤት ምስጢሮች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jbt5z9hb",
+   "@type": "Book"
+  }
+ ]
+}

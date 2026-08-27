@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_86dmpkth",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "yepiyasa lej"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dy0jtbbc",
+   "@type": "Person",
+   "name": "ፍቅሩ ኪዳኔ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8D%92%E1%8B%AB%E1%88%B3_%E1%88%8D%E1%8C%85.jpg",
+ "inLanguage": "am",
+ "name": "የፒያሳ ልጅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_208"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_208"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_208"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c28jxz2f",
+   "@type": "Book"
+  }
+ ]
+}

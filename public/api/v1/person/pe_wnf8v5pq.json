@@ -1,0 +1,102 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Abraham Ebisa Godina Wallagga aanaa Najjoo Ganda Amuumaa Deggerootti bara 1985 A.L.A tti dhalate. Ba... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abrahamabisa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wnf8v5pq",
+ "id": "pe_wnf8v5pq",
+ "identifiers": {
+  "afroread_id": [
+   "bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abraham Ebisa"
+  },
+  "romanized": "Abraham Ebisa",
+  "sort_key": "abrahamebisa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 104831,
+  "path": "assets/portraits/pe_wnf8v5pq.png",
+  "sha256": "027d5ca705807458cb76903cf12be0bdedfd51cfeada7382d7aa4639ebb3cab4",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/0edfdef2-ea4d-4235-a042-81823bb2c321AbrahamEbisaProfilePicH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/bfc9c13f-f9b5-46d6-ba06-08da2b7eef9f"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7bkpdq0j.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/8407a7f1-1a74-4d92-a211-9eb270725a91AbdiisaaAagaaH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wnf8v5pq",
+     "name": "Abraham Ebisa",
+     "role": "author",
+     "romanized": "Abraham Ebisa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "scope-review"
+   ],
+   "href": "https://chibbo.app/work/wk_7bkpdq0j",
+   "id": "wk_7bkpdq0j",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "ABDIISAA AAGAA",
+    "script": "Latn",
+    "text": "ABDIISAA AAGAA"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p6p6yx5s",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "metsate-esrael"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hnszfsbc",
+   "@type": "Person",
+   "name": "ማሞ ውድነህ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%9D%E1%8C%BD%E1%8A%A0%E1%89%B0%E1%8A%A5%E1%88%B5%E1%88%AB%E1%8A%A4%E1%88%8D.jpg",
+ "inLanguage": "am",
+ "name": "ምጽአተ-እስራኤል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "225",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_126"
+  },
+  {
+   "@type": "Offer",
+   "price": "225",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_126"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_126"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8v630sxy",
+   "@type": "Book"
+  }
+ ]
+}

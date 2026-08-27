@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የኑስ ሙሐመድ ለሥነጽሑፍ የተለየ ክብር ያለው ጋዜጠኛ ሲሆን በአዲስ አበባ ዩኒቨርስቲ በኢትዮጵያ ቋንቋዎችና ሥነጽሑፍ ባህልና ኮሙኒኬሽን የመጀመሪያ ድግሪውን ተ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yanusmuhamad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6chd2v44",
+ "id": "pe_6chd2v44",
+ "identifiers": {
+  "afroread_id": [
+   "d876b0ee-18fc-4afe-123f-08da5578c027"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d876b0ee-18fc-4afe-123f-08da5578c027",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d876b0ee-18fc-4afe-123f-08da5578c027"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "d876b0ee-18fc-4afe-123f-08da5578c027",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/d876b0ee-18fc-4afe-123f-08da5578c027"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yenus muhemed",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የኑስ ሙሐመድ"
+  },
+  "romanized": "yenus muhemed",
+  "sort_key": "የኑስሙሀመድ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 55057,
+  "path": "assets/portraits/pe_6chd2v44.png",
+  "sha256": "d0139bb40e4d42779be5ac2d7f8b37e089451be7863a5170ccb136fe7a902bee",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/00b86b57-1b30-46be-b398-0f1e85788acbYenusProfilePicture320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/d876b0ee-18fc-4afe-123f-08da5578c027"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_58dz7rdj.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/45388baa-65e1-419a-8b53-1d8438a7fff6amarignasewasew.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6chd2v44",
+     "name": "የኑስ ሙሐመድ",
+     "role": "author",
+     "romanized": "yenus muhemed"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_58dz7rdj",
+   "id": "wk_58dz7rdj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "amarnya sewasew ena senetshef",
+    "script": "Ethi",
+    "text": "አማርኛ ሰዋስው እና ሥነጽሐፍ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

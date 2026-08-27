@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n0qycby8",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Outdoors"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/a387b6b8-0ffe-4c7c-bde8-5b181ba55a56GoOutsideAfaanOromoCover.png",
+ "inLanguage": "en",
+ "name": "Gara Alaatti Bahaa",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a387b6b8-0ffe-4c7c-bde8-5b181ba55a56"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a387b6b8-0ffe-4c7c-bde8-5b181ba55a56"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a387b6b8-0ffe-4c7c-bde8-5b181ba55a56"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_swqw1mr4",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,1085 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>decade: 2020s</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Works</a>
+    <a href="../people/page-1.html">People</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../browse.html"><span itemprop="name">Browse</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">decade: 2020s</span><meta itemprop="position" content="3"></li></ol></nav>
+<p class="eyebrow">decade</p><h1>2020s</h1><p class="sub">161 works</p><ul class="grid"><li class="card">
+  <a class="thumb" href="../work/wk_03kh8e77.html"><img src="../assets/covers/wk_03kh8e77.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_03kh8e77.html">Tarik Ena Mesale An Ethiopian Tale</a>
+  
+  <span class="a">Dr. Kebede Michael · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_0d43qj85.html"><img src="../assets/covers/wk_0d43qj85.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_0d43qj85.html">የአሸናፊነት ጉዞ</a>
+  <span class="r">Ye Ashenafinet Guzo</span>
+  <span class="a">Dr Shimelis Wondimu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_0devmsfw.html"><img src="../assets/covers/wk_0devmsfw.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_0devmsfw.html">Sebseb Getemoche</a>
+  
+  <span class="a">በዕውቁቱ ስዩም · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_0t3xktcy.html"><img src="../assets/covers/wk_0t3xktcy.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_0t3xktcy.html">888</a>
+  
+  <span class="a">Megabe Haddis Rodas Tadese · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1fa6n0ps.html"><img src="../assets/covers/wk_1fa6n0ps.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1fa6n0ps.html">የ ህይወት መንገድ</a>
+  <span class="r">ye heywet menged</span>
+  <span class="a">ኤልያስ ወልደማርያም · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1vxxt15t.html"><img src="../assets/covers/wk_1vxxt15t.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1vxxt15t.html">የሕግ ፍልስፍና</a>
+  <span class="r">yeheg felesefna</span>
+  <span class="a">ዳዊት በዛብህ · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1yd60mke.html"><img src="../assets/covers/wk_1yd60mke.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1yd60mke.html">የመደመር መንገድ</a>
+  <span class="r">yemedemer menged</span>
+  <span class="a">አብይ አህመድ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2qb6yeft.html"><img src="../assets/covers/wk_2qb6yeft.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_2qb6yeft.html">ትንሹ ቢትኮይን መጽሐፍ</a>
+  <span class="r">tenshu bitkoyen metshef</span>
+  <span class="a">BITCOINBIRR For Ethiopia · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2r0db806.html"><img src="../assets/covers/wk_2r0db806.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_2r0db806.html">Fanaye: Standing Strong</a>
+  
+  <span class="a">Salome Kassa · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2tw8f3w7.html"><img src="../assets/covers/wk_2tw8f3w7.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_2tw8f3w7.html">የአርማጌዶን በር</a>
+  <span class="r">Armageddon&#x27;s Gate</span>
+  <span class="a">Alemayehu Demeke · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2v53pxtq.html"><img src="../assets/covers/wk_2v53pxtq.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_2v53pxtq.html">AI Diplomat</a>
+  
+  <span class="a">ሚካኤል ማስሬ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_30j24h4b.html"><img src="../assets/covers/wk_30j24h4b.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_30j24h4b.html">Key Challenges in Leadership</a>
+  
+  <span class="a">Dr Shimelis Wondimu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3h4701dz.html"><img src="../assets/covers/wk_3h4701dz.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_3h4701dz.html">Kerkeresha</a>
+  
+  <span class="a">Dr. Elias Samuel Matheos · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3kpke90h.html"><img src="../assets/covers/wk_3kpke90h.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_3kpke90h.html">Qaalii Seenaa Artistoota Qabsaa&#x27;ota Oromoo</a>
+  
+  <span class="a">Baqqalaa Lataa fi Obsii Filee, Obsi File · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3qy5szzm.html"><img src="../assets/covers/wk_3qy5szzm.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_3qy5szzm.html">ከዕለታት ግማሽ ቀን</a>
+  <span class="r">KE ELETAT GIMASH QEN</span>
+  <span class="a">አሌክስ አብርሃም · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_411w41h6.html"><img src="../assets/covers/wk_411w41h6.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_411w41h6.html">እኔ እና የኤል ቲቪ ሚስጥሮቼ</a>
+  <span class="r">ene ena yeel tivi misetroche</span>
+  <span class="a">ቤተልሄም ታፈሰ · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_45715rm7.html"><img src="../assets/covers/wk_45715rm7.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_45715rm7.html">ፋልስ</a>
+  <span class="r">fales</span>
+  <span class="a">ተመስገን ጌታሁን · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_475c8s4j.html"><img src="../assets/covers/wk_475c8s4j.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_475c8s4j.html">እኔ</a>
+  <span class="r">I</span>
+  <span class="a">Mistre Aderaw · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4e9qgcnd.html"><img src="../assets/covers/wk_4e9qgcnd.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_4e9qgcnd.html">Azebot</a>
+  
+  <span class="a">Sirak Wondemu · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4fnrjh8x.html"><img src="../assets/covers/wk_4fnrjh8x.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_4fnrjh8x.html">Kemaizenu Wedih</a>
+  
+  <span class="a">ዳግማዊ አሰፋ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4nnn0f9v.html"><img src="../assets/covers/wk_4nnn0f9v.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_4nnn0f9v.html">ዮዲታ</a>
+  <span class="r">Yodita</span>
+  <span class="a">Roman Tewolde · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_59hetcxg.html"><img src="../assets/covers/wk_59hetcxg.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_59hetcxg.html">Panthera African Leopard - The Silent Hunter</a>
+  
+  <span class="a">Betselot Firdawok Debelle · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5hpzwffh.html"><img src="../assets/covers/wk_5hpzwffh.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_5hpzwffh.html">ዓይነ ርግብ</a>
+  <span class="r">Ayne Ergib</span>
+  <span class="a">Tigest Samuel · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5mdyk8kt.html"><img src="../assets/covers/wk_5mdyk8kt.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_5mdyk8kt.html">The History of a Difficult Child</a>
+  
+  <span class="a">Mihret Sibhat · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5q7yvcp2.html"><img src="../assets/covers/wk_5q7yvcp2.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_5q7yvcp2.html">ያልታሰበው</a>
+  <span class="r">yaltasebew</span>
+  <span class="a">ሌተናል ኮለኔል ብርሃኑ ባየህ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5ycq6445.html"><img src="../assets/covers/wk_5ycq6445.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_5ycq6445.html">የተጠላው እንዳልተጠላ</a>
+  <span class="r">yetetelaw endaltetela</span>
+  <span class="a">አለማየሁ ገላጋይ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_67tyg2n0.html"><img src="../assets/covers/wk_67tyg2n0.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_67tyg2n0.html">Enqilf Ena Edeme</a>
+  
+  <span class="a">በዕውቁቱ ስዩም · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6e030z4x.html"><img src="../assets/covers/wk_6e030z4x.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_6e030z4x.html">መረቅ</a>
+  <span class="r">Mereq</span>
+  <span class="a">አዳም ረታ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7g7aq9qa.html"><img src="../assets/covers/wk_7g7aq9qa.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7g7aq9qa.html">ምኔ ነህ</a>
+  <span class="r">Menie neh?</span>
+  <span class="a">Yared Teshome Zelelew · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7nv1kwg8.html"><img src="../assets/covers/wk_7nv1kwg8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7nv1kwg8.html">ለምን? አለመቻልን የምትፋለመው ትንሿ ጠጠር</a>
+  <span class="r">lemen? alemechalen yemetfalemew tenshwa teter</span>
+  <span class="a">Adugna Hirpa · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7nwapxkq.html"><img src="../assets/covers/wk_7nwapxkq.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7nwapxkq.html">መንግሥቱ ኃይለ ማርያም የስደተኛው መሪ ትረካዎች</a>
+  <span class="r">Mengistu Hailemariam : Yesidetegnaw Meri Tirekawoch</span>
+  <span class="a">Yitagesu Gebeyehu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7q33gyfb.html"><img src="../assets/covers/wk_7q33gyfb.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7q33gyfb.html">የአማኑኤል ሆስፒታል ታሪኮች</a>
+  <span class="r">yeamanuel hospital tarikoch</span>
+  <span class="a">ዶ/ር ዮናስ ላቀው · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7sttt12n.html"><img src="../assets/covers/wk_7sttt12n.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_7sttt12n.html">ከሳቆችሽ መኃል</a>
+  <span class="r">Kesaqochish Mehal l l Haymanot Dilnesaw</span>
+  <span class="a">Haymanot Dilnesaw · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_86qxe5w1.html"><img src="../assets/covers/wk_86qxe5w1.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_86qxe5w1.html">Endihem Tenurual</a>
+  
+  <span class="a">አበራ ለማ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8c95kvsj.html"><img src="../assets/covers/wk_8c95kvsj.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_8c95kvsj.html">የማይናገረው ልዑል</a>
+  <span class="r">The Silent Prince</span>
+  <span class="a">Meseret Kinfe Haile · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8y6c2h82.html"><img src="../assets/covers/wk_8y6c2h82.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_8y6c2h82.html">Tsehayu Enquo Selassie</a>
+  
+  <span class="a">Dr. Amare Tegbaru · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9212e5be.html"><img src="../assets/covers/wk_9212e5be.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_9212e5be.html">Legendary Folktales from Ethiopia</a>
+  
+  <span class="a"> · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_97kwj55t.html"><img src="../assets/covers/wk_97kwj55t.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_97kwj55t.html">Garbummaa Birmadummaa Fakkaatu</a>
+  
+  <span class="a">Miratuu Shaanqoo · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9gapcqpz.html"><img src="../assets/covers/wk_9gapcqpz.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_9gapcqpz.html">ዥዋዥዌ</a>
+  <span class="r">zhewazhwe</span>
+  <span class="a">Hiwot Emishaw · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9rgmyd44.html"><img src="../assets/covers/wk_9rgmyd44.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_9rgmyd44.html">ራስን ማወቅ</a>
+  <span class="r">rasen maweq</span>
+  <span class="a">ሮቢን ሻርማ ትርጉም ብርሃኑ በላችው · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_a3bewr5x.html"><img src="../assets/covers/wk_a3bewr5x.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_a3bewr5x.html">Shemune</a>
+  
+  <span class="a">Mesfin Wondwossen · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_a3fz8cdv.html"><img src="../assets/covers/wk_a3fz8cdv.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_a3fz8cdv.html">Defending the Ancient Faith: An Orthodox Response to the Knechtle Debate</a>
+  
+  <span class="a">Dn. Mihret Melaku · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_apd64t3j.html"><img src="../assets/covers/wk_apd64t3j.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_apd64t3j.html">የመሻገር ሲቃ ከዐውሎ ነፋስ ጋር መደነስ</a>
+  <span class="r">yemeshager siqa keawlo nefas gar medenes</span>
+  <span class="a">Yacob Berhanu · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_avx3tj30.html"><img src="../assets/covers/wk_avx3tj30.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_avx3tj30.html">Jember: In English and Amharic (Etan Comics Early Reader)</a>
+  
+  <span class="a">Beserat Debebe · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b146rrze.html"><img src="../assets/covers/wk_b146rrze.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_b146rrze.html">ትናንት እመጣለሁ</a>
+  <span class="r">Tenant Emetalehu</span>
+  <span class="a">Natnael Kerealem · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b28sjzrt.html"><img src="../assets/covers/wk_b28sjzrt.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_b28sjzrt.html">Adam Reta&#x27;s Couch Grass Translated</a>
+  
+  <span class="a">Bethlehem Attfield, አዳም ረታ · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_bfcs3cpk.html"><img src="../assets/covers/wk_bfcs3cpk.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_bfcs3cpk.html">ከርሞ ልጅነት</a>
+  <span class="r">The Echoes of Childhood</span>
+  <span class="a">Yitbarek Mengistu · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_bk49606w.html"><img src="../assets/covers/wk_bk49606w.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_bk49606w.html">YeZersiwoch Fikir</a>
+  
+  <span class="a">Fikremarkos Desta · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_bwrx95d8.html"><img src="../assets/covers/wk_bwrx95d8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_bwrx95d8.html">ዝንቡላ እና ካሮት</a>
+  <span class="r">Zinbula and Carrot</span>
+  <span class="a">Tagel Seifu, Makida Arshi, Makida Arshi · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_bwze4841.html"><img src="../assets/covers/wk_bwze4841.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_bwze4841.html">ፈሪሳ</a>
+  <span class="r">Ferisa</span>
+  <span class="a">አለማየሁ ገላጋይ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c2v3hncs.html"><img src="../assets/covers/wk_c2v3hncs.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_c2v3hncs.html">ምናብ እና ምንባብ</a>
+  <span class="r">menab ena menbab</span>
+  <span class="a">ኢሳያስ ባንጫ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c4jy1z34.html"><img src="../assets/covers/wk_c4jy1z34.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_c4jy1z34.html">የውቦች ንግሥት</a>
+  <span class="r">Yewboch Negest</span>
+  <span class="a">Mihret Degif · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c57cbg6w.html"><img src="../assets/covers/wk_c57cbg6w.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_c57cbg6w.html">እነሆ ስንክሳር</a>
+  <span class="r">Eneho Sinksar</span>
+  <span class="a">Mekonnen Woldearegay · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c9dkct9m.html"><img src="../assets/covers/wk_c9dkct9m.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_c9dkct9m.html">የትዝታዬ ማኅደር</a>
+  <span class="r">Memoir</span>
+  <span class="a">Getachew Belete · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cnak7j4v.html"><img src="../assets/covers/wk_cnak7j4v.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_cnak7j4v.html">ካራሞን ዋኖስ እና ጭልፊት</a>
+  <span class="r">Karamon Pigeon and Falcon</span>
+  <span class="a">Azaries Dessie · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cs86mxhz.html"><img src="../assets/covers/wk_cs86mxhz.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_cs86mxhz.html">Bishaan Gubate</a>
+  
+  <span class="a">Mohaammad Siraaj · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_d2wmxtph.html"><img src="../assets/covers/wk_d2wmxtph.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_d2wmxtph.html">ኑሮና አእምሮ</a>
+  <span class="r">nurona aemro</span>
+  <span class="a">አዲሱ እንግዳ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_d42myw3n.html"><img src="../assets/covers/wk_d42myw3n.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_d42myw3n.html">The Magical Voyage to Harar</a>
+  
+  <span class="a">EthioQuest Adventures · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dh2nbpgp.html"><img src="../assets/covers/wk_dh2nbpgp.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_dh2nbpgp.html">Autobiography, Poems, and Scientific Articles</a>
+  
+  <span class="a">Dr. Fekadu Fullas · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dpfjc1m3.html"><img src="../assets/covers/wk_dpfjc1m3.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_dpfjc1m3.html">ሰበዝ</a>
+  <span class="r">Sebez</span>
+  <span class="a">Dr. Alemayehu Wassie · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dtbwp5qg.html"><img src="../assets/covers/wk_dtbwp5qg.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_dtbwp5qg.html">Amharic For Foreigners and the Ethiopian Diaspora</a>
+  
+  <span class="a">Amlaku Bikss Eshetie · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_e9nc6dy1.html"><img src="../assets/covers/wk_e9nc6dy1.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_e9nc6dy1.html">ሕማማት</a>
+  <span class="r">Himamat</span>
+  <span class="a">Deacon Henok Haile · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_efw1mmgf.html"><img src="../assets/covers/wk_efw1mmgf.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_efw1mmgf.html">የብርሌ አደባባይ</a>
+  <span class="r">Ye Berele Adebabay</span>
+  <span class="a">Belay Mekonen Yemenu · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ernejttt.html"><img src="../assets/covers/wk_ernejttt.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ernejttt.html">የማዕበል መንገደኞች</a>
+  <span class="r">Ye Maebel Mengedegnoch</span>
+  <span class="a">አለማየሁ ማሞ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f414gabt.html"><img src="../assets/covers/wk_f414gabt.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_f414gabt.html">ጣይቱ በዚያች ሰዓት</a>
+  <span class="r">Taytu Bezach Sat</span>
+  <span class="a">Essayias Lesanu Bezabeh · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fc86vb5y.html"><img src="../assets/covers/wk_fc86vb5y.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fc86vb5y.html">አምስት ጉዳይ</a>
+  <span class="r">Amest Guday</span>
+  <span class="a">Yared Teshome Zelelew · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fd8k6vfe.html"><img src="../assets/covers/wk_fd8k6vfe.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fd8k6vfe.html">በፍም እሳት ማቃመስ በ ያዕቆብ ብርሃኑ</a>
+  <span class="r">befem esat maqames be yaqob berhanu</span>
+  <span class="a">Yacob Berhanu · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fgbq4q2d.html"><img src="../assets/covers/wk_fgbq4q2d.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fgbq4q2d.html">ከአመጿ ጀርባ</a>
+  <span class="r">Ke Ametsua Jerba</span>
+  <span class="a">ኤደን ሀብታሙ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fhyp7yem.html"><img src="../assets/covers/wk_fhyp7yem.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fhyp7yem.html">ሌላ ዕውነት የለኝም</a>
+  <span class="r">Lela Ewnet Yelegnem</span>
+  <span class="a">Meron Getnet · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fq368ek9.html"><img src="../assets/covers/wk_fq368ek9.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_fq368ek9.html">The Road to Detroit</a>
+  
+  <span class="a">Dr. Ashenafie Tsegaye · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fq6sbcmt.html"><img src="../assets/covers/wk_fq6sbcmt.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fq6sbcmt.html">ወሪሳ (የውድቀት ፈለጎች)</a>
+  <span class="r">Werisa (Yewidket Felegoch)</span>
+  <span class="a">አለማየሁ ገላጋይ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fsj3w22m.html"><img src="../assets/covers/wk_fsj3w22m.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_fsj3w22m.html">ከርታታ ኮከቦች</a>
+  <span class="r">kertata kokeboch</span>
+  <span class="a"> · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g322y4gz.html"><img src="../assets/covers/wk_g322y4gz.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_g322y4gz.html">ዘወር ብዬ ሳየው</a>
+  <span class="r">Zewer Beye Sayew</span>
+  <span class="a">Dr Shimelis Wondimu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g5a3emv6.html"><img src="../assets/covers/wk_g5a3emv6.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_g5a3emv6.html">ኑ! እንሟገት</a>
+  <span class="r">translated</span>
+  <span class="a">Yeshitela Yigezu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_gpkzrpyr.html"><img src="../assets/covers/wk_gpkzrpyr.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_gpkzrpyr.html">Minding the Mind</a>
+  
+  <span class="a">ሄኖክ አምዴ አካለወርቅ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_h2ctqwps.html"><img src="../assets/covers/wk_h2ctqwps.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_h2ctqwps.html">የብላቴናው ማስታወሻ</a>
+  <span class="r">yeblatenaw mastawesha</span>
+  <span class="a">አክሊሉ ከበደ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ha0q7zcf.html"><img src="../assets/covers/wk_ha0q7zcf.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ha0q7zcf.html">ሆሞ ዴዩስ የመጪው ዘመ አጭር ታሪክ</a>
+  <span class="r">homo deyus yemechiw zeme acher tarik</span>
+  <span class="a">ዳግም ጥላሁን · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hge95986.html"><img src="../assets/covers/wk_hge95986.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_hge95986.html">Sebeez</a>
+  
+  <span class="a">Dr. Alemayehu Wassie · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hnd90r46.html"><img src="../assets/covers/wk_hnd90r46.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hnd90r46.html">ሰው ብርቱ ብረት ከንቱ</a>
+  <span class="r">Sew Bertu Beret Kentu</span>
+  <span class="a">Tilahun Fanta · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hz76qa80.html"><img src="../assets/covers/wk_hz76qa80.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hz76qa80.html">ማዛሮት</a>
+  <span class="r">Mazarot</span>
+  <span class="a">Megabe Haddis Rodas Tadese · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j06np2p1.html"><img src="../assets/covers/wk_j06np2p1.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_j06np2p1.html">ዛምራ</a>
+  <span class="r">Zamra</span>
+  <span class="a">Yismake Worku · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j6rc23n8.html"><img src="../assets/covers/wk_j6rc23n8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_j6rc23n8.html">ጸሎትን እንማር</a>
+  <span class="r">Tseloten Enemar</span>
+  <span class="a">Dr Shimelis Wondimu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j94t060m.html"><img src="../assets/covers/wk_j94t060m.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_j94t060m.html">Rakkinni Haa Rakkatu</a>
+  
+  <span class="a">Abdiisaa Ejjetaa Uuchee · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jjb11j10.html"><img src="../assets/covers/wk_jjb11j10.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jjb11j10.html">እነማን ነበሩ?</a>
+  <span class="r">Eneman Neberu</span>
+  <span class="a">አለማየሁ ማሞ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jrhvgshm.html"><img src="../assets/covers/wk_jrhvgshm.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jrhvgshm.html">የብርሃን ጥሞና</a>
+  <span class="r">yeberhan temona</span>
+  <span class="a">ሳባ ሲሳይ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jspjep0a.html"><img src="../assets/covers/wk_jspjep0a.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jspjep0a.html">መመለስ ቦጌ ትውስታዎቼ</a>
+  <span class="r">Memeles</span>
+  <span class="a">Birtukan Mideksa · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jyqha4yx.html"><img src="../assets/covers/wk_jyqha4yx.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_jyqha4yx.html">Haile Fida ena YeGillé Tizita</a>
+  
+  <span class="a">Dr. Amare Tegbaru · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_k4ezvswm.html"><img src="../assets/covers/wk_k4ezvswm.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_k4ezvswm.html">KALLATTII Qajeelfamootaa fi Falaasamoota Jireenyaa Barbaachisoo</a>
+  
+  <span class="a">Eebbisaa Baayisaa · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kc9wtsn7.html"><img src="../assets/covers/wk_kc9wtsn7.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_kc9wtsn7.html">The Village of the Spirits</a>
+  
+  <span class="a">ታደሰ ፀጋ · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kgbz39tv.html"><img src="../assets/covers/wk_kgbz39tv.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_kgbz39tv.html">ግፉዓን</a>
+  <span class="r">Gefuan</span>
+  <span class="a">Yismake Worku · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kvevvf5r.html"><img src="../assets/covers/wk_kvevvf5r.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_kvevvf5r.html">የእናቴ ሮሚዮ እና ሌሎች አጫጭር ታሪኮች</a>
+  <span class="r">My Mom’s ‘Romio’ &#x27; &#x27;</span>
+  <span class="a">Simegn Gizaw Bedada · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_mnghkpty.html"><img src="../assets/covers/wk_mnghkpty.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_mnghkpty.html">ሞት በውክልና</a>
+  <span class="r">Mot be Wekelena</span>
+  <span class="a">Hailu Worku Obsse · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_n1ycqprr.html"><img src="../assets/covers/wk_n1ycqprr.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_n1ycqprr.html">Addis Hiwot</a>
+  
+  <span class="a">ዳግማዊ አሰፋ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_n6wq8ba2.html"><img src="../assets/covers/wk_n6wq8ba2.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_n6wq8ba2.html">ነጭ ቅዠት</a>
+  <span class="r">Nech Kizhet</span>
+  <span class="a">Dessie Adam · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_n7jkfh7d.html"><img src="../assets/covers/wk_n7jkfh7d.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_n7jkfh7d.html">በምሥራቅ በኩል</a>
+  <span class="r">bemesraq bekul</span>
+  <span class="a">ሰለሞን ሳህለ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ndag931b.html"><img src="../assets/covers/wk_ndag931b.png" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_ndag931b.html">The Adventure of Piny</a>
+  
+  <span class="a">Liron Michael · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nj2ed1rj.html"><img src="../assets/covers/wk_nj2ed1rj.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_nj2ed1rj.html">Ye Gordian Knot (quatero)</a>
+  
+  <span class="a">በሪሁን አዳነ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nk5gscah.html"><img src="../assets/covers/wk_nk5gscah.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_nk5gscah.html">Athejim</a>
+  
+  <span class="a">Emebet Mengiste · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nz4g43cn.html"><img src="../assets/covers/wk_nz4g43cn.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_nz4g43cn.html">ገሊላ</a>
+  <span class="r">Gelila</span>
+  <span class="a">Tigist Wolde · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_p1vvgfje.html"><img src="../assets/covers/wk_p1vvgfje.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_p1vvgfje.html">አልተዘዋወረችም</a>
+  <span class="r">Altezewawerechim</span>
+  <span class="a">አሌክስ አብርሃም · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_p53z1tkn.html"><img src="../assets/covers/wk_p53z1tkn.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_p53z1tkn.html">ሀሰተኛው በእምነት ስም</a>
+  <span class="r">hesetenyaw beemnet sem</span>
+  <span class="a">አለማየሁ ገላጋይ · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_p8pky315.html"><img src="../assets/covers/wk_p8pky315.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_p8pky315.html">A Treatise on Ethiopian Traditional Medicinal Plants</a>
+  
+  <span class="a">Dr. Fekadu Fullas · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pbghtgts.html"><img src="../assets/covers/wk_pbghtgts.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_pbghtgts.html">የዙፋን ልፊያ</a>
+  <span class="r">Ye zufan Lefiya</span>
+  <span class="a">Tesfa ab Teshome · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pgs6xwdc.html"><img src="../assets/covers/wk_pgs6xwdc.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_pgs6xwdc.html">የራስህን ኑሮ ኑር</a>
+  <span class="r">Yerasehn Nuro Nur</span>
+  <span class="a">Michael Masrie · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ppysv3v1.html"><img src="../assets/covers/wk_ppysv3v1.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_ppysv3v1.html">Secure In My Limitation: Resting In His Wholeness</a>
+  
+  <span class="a">Hamrawit Tesfa · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pvd3yxdv.html"><img src="../assets/covers/wk_pvd3yxdv.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_pvd3yxdv.html">የታጋቹ ማስታወሻ</a>
+  <span class="r">yetagachu mastawesha</span>
+  <span class="a">ሻምበል አክሊሉ ሃይሉ ጥላሁን · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pvyfq4vp.html"><img src="../assets/covers/wk_pvyfq4vp.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_pvyfq4vp.html">Home Remedies A-Z: Natural Therapies for Your Family — A Practical Guide to Healing at Home: Also includes herbal-based cosmetic formulations</a>
+  
+  <span class="a">Prof. Bisrat Hailemeskel, Dr. Fekadu Fullas · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pzgk185n.html"><img src="../assets/covers/wk_pzgk185n.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_pzgk185n.html">ዛሬ ቅዳሜ አይደለም</a>
+  <span class="r">Zare Kedame Aydelem</span>
+  <span class="a">Natnael Kerealem · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_q5z4mmw1.html"><img src="../assets/covers/wk_q5z4mmw1.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_q5z4mmw1.html">የሳጃው ዳኛ</a>
+  <span class="r">yesajaw danya</span>
+  <span class="a">ሙአዝ ዝያድ · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qj8kv3cx.html"><img src="../assets/covers/wk_qj8kv3cx.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_qj8kv3cx.html">ዋናተኛ ፀሐይ</a>
+  <span class="r">wanatenya tsehey</span>
+  <span class="a">Elssa Mulugeta · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qjtz42d8.html"><img src="../assets/covers/wk_qjtz42d8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_qjtz42d8.html">የፓቶጵያ ፍቅር: ብቸኛ የሰው ልጆች ተስፋ</a>
+  <span class="r">yepatopya feqer: bechenya yesew lejoch tesfa</span>
+  <span class="a">Hailu Worku Obsse · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qsk43bh0.html"><img src="../assets/covers/wk_qsk43bh0.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_qsk43bh0.html">KeAmen Bashager</a>
+  
+  <span class="a">በዕውቁቱ ስዩም · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qwb8snjr.html"><img src="../assets/covers/wk_qwb8snjr.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_qwb8snjr.html">ትርኳሽ</a>
+  <span class="r">Tirkuash</span>
+  <span class="a">Seid Muhye Ahmed · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r7xexzaj.html"><img src="../assets/covers/wk_r7xexzaj.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_r7xexzaj.html">Unanchored But Not Lost</a>
+  
+  <span class="a">Selam Fessha · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r8vyt2g8.html"><img src="../assets/covers/wk_r8vyt2g8.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_r8vyt2g8.html">ማለዳ ደጃፍ ላይ</a>
+  <span class="r">Maleda Dejaf Lay</span>
+  <span class="a">ኤደን ሀብታሙ · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rb3vrm9g.html"><img src="../assets/covers/wk_rb3vrm9g.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_rb3vrm9g.html">The Shadow King</a>
+  
+  <span class="a">Maaza Mengiste · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rb5gvf7z.html"><img src="../assets/covers/wk_rb5gvf7z.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rb5gvf7z.html">እሰሩኝ</a>
+  <span class="r">Eserugn</span>
+  <span class="a">Meseret Bahru · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rhv7p4yv.html"><img src="../assets/covers/wk_rhv7p4yv.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_rhv7p4yv.html">FAANA OF DHA&#x27;UU - Qajeelfamoota Amalaa fi Si&#x27;aayinaa</a>
+  
+  <span class="a">Falmataa Taarraqany Cimdii · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rj0cbh81.html"><img src="../assets/covers/wk_rj0cbh81.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_rj0cbh81.html">Trials of Hope</a>
+  
+  <span class="a">Dr. Yirga Gelaw Woldeyes · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rj132nak.html"><img src="../assets/covers/wk_rj132nak.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_rj132nak.html">Selasa Besost Memoire of an Immigrant Traveler</a>
+  
+  <span class="a">Essayias Lesanu Bezabeh · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rjfsk5mx.html"><img src="../assets/covers/wk_rjfsk5mx.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rjfsk5mx.html">የታፋኙ ማስታወሻ</a>
+  <span class="r">yetafanyu mastawesha</span>
+  <span class="a">አንዳራጋቸው ፅጌ · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rw3fyqy6.html"><img src="../assets/covers/wk_rw3fyqy6.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_rw3fyqy6.html">Sagalicha</a>
+  
+  <span class="a">Iyyaasuu Tarrafaa Fayyisaa · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_s19sd7st.html"><img src="../assets/covers/wk_s19sd7st.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_s19sd7st.html">የቡና ቁርስ</a>
+  <span class="r">yebuna qures</span>
+  <span class="a">Hiwot Emishaw · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_s8mz2ht8.html"><img src="../assets/covers/wk_s8mz2ht8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_s8mz2ht8.html">የቤት ውስጥ ሕክምና መፍትሄዎች ከሀ እስከ ፐ): ( በእንግሊዝኛ እና በአማርኛ)</a>
+  <span class="r">Home Remedies A-Z ( in English &amp;amp;amp; Amharic</span>
+  <span class="a">Dr. Fekadu Fullas, Prof. Bisrat Hailemeskel · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_s9nj5fka.html"><img src="../assets/covers/wk_s9nj5fka.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_s9nj5fka.html">ኢትዮጵያዊው ጃንደረባ</a>
+  <span class="r">Ethiopiawiw Jandereba</span>
+  <span class="a">Deacon Henok Haile · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_saqmpv0a.html"><img src="../assets/covers/wk_saqmpv0a.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_saqmpv0a.html">ያንዲት ምድር ልጆች</a>
+  <span class="r">Yandit Medir Lejotch</span>
+  <span class="a">Dr. Amare Tegbaru · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_svgnt13j.html"><img src="../assets/covers/wk_svgnt13j.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_svgnt13j.html">ክቡር ድንጋይ</a>
+  <span class="r">The Lost Spell</span>
+  <span class="a">Yismake Worku, Bethlehem Attfield · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_syrew4xp.html"><img src="../assets/covers/wk_syrew4xp.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_syrew4xp.html">ከሙኒክ ባሻገር</a>
+  <span class="r">kemunik bashager</span>
+  <span class="a">ሳይመን ሪቭ ትርጉም ጥላሁን ግርማ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_szc20aaa.html"><img src="../assets/covers/wk_szc20aaa.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_szc20aaa.html">37 Alpha 73</a>
+  
+  <span class="a">Megabe Haddis Rodas Tadese · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_t1s2vjqr.html"><img src="../assets/covers/wk_t1s2vjqr.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_t1s2vjqr.html">በፍቅር መንገድ</a>
+  <span class="r">Befikir Menged</span>
+  <span class="a">Alemayehu Gebrehiwot · 2022</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_tqgcp33p.html"><img src="../assets/covers/wk_tqgcp33p.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_tqgcp33p.html">Mo&#x27;amee Hin Galu</a>
+  
+  <span class="a">Diittaa Abdurrahmaan Huseen · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_tt617bn6.html"><img src="../assets/covers/wk_tt617bn6.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_tt617bn6.html">ሃያ ሶስት 23</a>
+  <span class="r">haya soset 23</span>
+  <span class="a">Daniel Abreha · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vbbdm7dz.html"><img src="../assets/covers/wk_vbbdm7dz.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vbbdm7dz.html">ሐሽማል</a>
+  <span class="r">Hashmal</span>
+  <span class="a">Maeble Fetene · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vdney386.html"><img src="../assets/covers/wk_vdney386.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_vdney386.html">Bado</a>
+  
+  <span class="a">Dr. Mesfin Endrias Hailegebriel · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vf262wr4.html"><img src="../assets/covers/wk_vf262wr4.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vf262wr4.html">እጅ የበዛበት የኦሮሞ ፖለቲካ እና ኢትዮጵያዊነት</a>
+  <span class="r">ej yebezabet yeoromo poletika ena ityopyawinet</span>
+  <span class="a">ዮሴፍ ከተማ ሆርዶፋ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vft1wswj.html"><img src="../assets/covers/wk_vft1wswj.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_vft1wswj.html">የአባቱ ልጅ</a>
+  <span class="r">Yeabatu Lej</span>
+  <span class="a">Etefworkie Ademe · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vjskkbcc.html"><img src="../assets/covers/wk_vjskkbcc.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_vjskkbcc.html">Kolfeen Aare</a>
+  
+  <span class="a">Falmataa Taarraqany Cimdii · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_w540vm0n.html"><img src="../assets/covers/wk_w540vm0n.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_w540vm0n.html">The Rasta Empire Trilogy</a>
+  
+  <span class="a">Clive Uckfield · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_w5n8tehy.html"><img src="../assets/covers/wk_w5n8tehy.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_w5n8tehy.html">Mirga Ajjeesuu</a>
+  
+  <span class="a">Jaankoo Geetaachoo · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wb1r66hn.html"><img src="../assets/covers/wk_wb1r66hn.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wb1r66hn.html">የብርሃን ፈለጎች</a>
+  <span class="r">Yebirhan Felegoch</span>
+  <span class="a">አለማየሁ ገላጋይ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wf47q1s3.html"><img src="../assets/covers/wk_wf47q1s3.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wf47q1s3.html">ሚተራሊዮን</a>
+  <span class="r">Miteralion</span>
+  <span class="a">Dr. Alemayehu Wassie · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wfgda6kn.html"><img src="../assets/covers/wk_wfgda6kn.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wfgda6kn.html">ዝሃ</a>
+  <span class="r">Zeha</span>
+  <span class="a">Dagmawi Amelewerk, Author Dagmawi Amelewerk · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wg0n7fjx.html"><img src="../assets/covers/wk_wg0n7fjx.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wg0n7fjx.html">ተድባብ</a>
+  <span class="r">Tedbab</span>
+  <span class="a">Hiwot Teffera · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wh3bx4y3.html"><img src="../assets/covers/wk_wh3bx4y3.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_wh3bx4y3.html">Not a Cinderella Story</a>
+  
+  <span class="a">Bethel Stevens · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_whmpwv5s.html"><img src="../assets/covers/wk_whmpwv5s.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_whmpwv5s.html">ግጥሞቼና ትዝታዎቼ</a>
+  <span class="r">My Poems and Memory Notes</span>
+  <span class="a">Dr. Fekadu Fullas · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wrmrss70.html"><img src="../assets/covers/wk_wrmrss70.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wrmrss70.html">ሎሚት</a>
+  <span class="r">Lomit</span>
+  <span class="a">Assaye Tilahun · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wvydev9y.html"><img src="../assets/covers/wk_wvydev9y.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wvydev9y.html">ሚሎሪና ስውር ጥበብ</a>
+  <span class="r">milorina sewer tebeb</span>
+  <span class="a">ናሁሰናይ ፀዳሉ አበራ · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_x1vaaqnq.html"><img src="../assets/covers/wk_x1vaaqnq.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_x1vaaqnq.html">Midwifery Exit Exam Review</a>
+  
+  <span class="a">Desalegn Lungo · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xbn4nk7b.html"><img src="../assets/covers/wk_xbn4nk7b.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_xbn4nk7b.html">ዛምራ</a>
+  <span class="r">zamra</span>
+  <span class="a">ይስማዕከ ወርቁ · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xttjwcqf.html"><img src="../assets/covers/wk_xttjwcqf.jpg" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_xttjwcqf.html">The Weight of Salvation</a>
+  
+  <span class="a">Dr Shimelis Wondimu · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xwyd32p6.html"><img src="../assets/covers/wk_xwyd32p6.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_xwyd32p6.html">የሕይወት ደጅ</a>
+  <span class="r">The Gate of Life</span>
+  <span class="a">Dessie Adam · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_y05mqws2.html"><img src="../assets/covers/wk_y05mqws2.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_y05mqws2.html">እውነት / አዛምድ</a>
+  <span class="r">Ewnet /Azamed</span>
+  <span class="a">Natnael Kerealem · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_y25apjxn.html"><img src="../assets/covers/wk_y25apjxn.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_y25apjxn.html">Qimmiiddaa</a>
+  
+  <span class="a">Ifargan Guddataa Itichaa · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_y62gttkj.html"><img src="../assets/covers/wk_y62gttkj.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_y62gttkj.html">ጠያይም መላእክት: የኮምዩኒዝም ርኩስ መንፈስ</a>
+  <span class="r">Black Angels</span>
+  <span class="a">Betemariam Teshome · 2026</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ya5sbdj7.html"><img src="../assets/covers/wk_ya5sbdj7.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ya5sbdj7.html">የተፈቱ ሰንሰለቶች</a>
+  <span class="r">Yetefetu Senseletoch</span>
+  <span class="a">ዳግማዊ አሰፋ · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_yq8b6j4y.html"><img src="../assets/covers/wk_yq8b6j4y.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_yq8b6j4y.html">የከተማው መናኝ ኤልያስ መልካ</a>
+  <span class="r">yeketemaw menany elyas melka</span>
+  <span class="a">ይነገር ጌታቸው · 2021</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_yqy6s6jv.html"><img src="../assets/covers/wk_yqy6s6jv.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_yqy6s6jv.html">ኤክሶድያ</a>
+  <span class="r">Exodia</span>
+  <span class="a">Solomon Abebe · 2020</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zacmatx5.html"><img src="../assets/covers/wk_zacmatx5.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_zacmatx5.html">የቤት ውስጥ የሕክምና መፍትሄዎች ከሀ እስከ ፐ ተፈጥሯዊ ህክምና ለቤተሰብዎ ከ 80 በላይ የሚሆኑ በሽታዎች እና የተፈጥሮ ሕክምናዎቻቸው</a>
+  <span class="r">yebet weset yehekemna mefethewoch kehe eske pe tefetrwawi hekemna lebetesebwo ke 80 belay yemihonu beshtawoch ena yetefetro hekemnawochachew</span>
+  <span class="a">Prof. Bisrat Hailemeskel, Dr. Fekadu Fullas · 2024</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zfrfzaac.html"><img src="../assets/covers/wk_zfrfzaac.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_zfrfzaac.html">እውን እኔ ብቁ ነኝ?</a>
+  <span class="r">ewen ene bequ neny?</span>
+  <span class="a">Hamrawit Tesfa · 2025</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zqp0x1ce.html"><img src="../assets/covers/wk_zqp0x1ce.webp" alt="" loading="lazy"></a>
+  <a class="t latn"
+     href="../work/wk_zqp0x1ce.html">My Name Means His God: A Journey of A Lucky Country Boy</a>
+  
+  <span class="a">Amlaku Bikss Eshetie · 2023</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zrf6e0p6.html"><img src="../assets/covers/wk_zrf6e0p6.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_zrf6e0p6.html">እፉዬ</a>
+  <span class="r">Efuye</span>
+  <span class="a">Nebil Adugna · 2025</span>
+</li></ul>
+<footer>
+  <span>964 works · 605 people</span>
+  <span>Every record is a draft</span>
+  <span>Built from commit 83a93da6</span>
+</footer>
+</div></body></html>

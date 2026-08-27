@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_dp43jpdz",
+ "@type": "Book",
+ "about": [
+  "History"
+ ],
+ "alternateName": [
+  "yetor meda welowoch siqa"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ad5ae0z1",
+   "@type": "Person",
+   "name": "ካሣዬ ጨመዳ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8C%A6%E1%88%AD_%E1%88%9C%E1%8B%B3_%E1%8B%8D%E1%88%8E%E1%8B%8E%E1%89%BD_%E1%88%B2%E1%89%83.jpg",
+ "inLanguage": "am",
+ "name": "የጦር ሜዳ ውሎዎች ሲቃ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "180",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_156"
+  },
+  {
+   "@type": "Offer",
+   "price": "180",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_156"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_156"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_r2g7zg5p",
+   "@type": "Book"
+  }
+ ]
+}

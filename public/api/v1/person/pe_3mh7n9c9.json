@@ -1,0 +1,89 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Ethi",
+  "text": "ናኦድ ውበቱ በደቡብ ምዕራብ ኢትዮጵያ ሚዛን አማን ከተማ የሚኖር የአራተኛ አመት የሜዲካል ላቦራቶሪ ተማሪ ነው. ሰፌናዬ የመጀመሪያ መፅሀፉ ነው"
+ },
+ "extensions": {},
+ "fingerprint": "naodwubatu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3mh7n9c9",
+ "id": "pe_3mh7n9c9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "naod-wubetu",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/naod-wubetu/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "naod-wubetu",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/naod-wubetu/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Naod Wubetu"
+  },
+  "romanized": "Naod Wubetu",
+  "sort_key": "naodwubetu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 33670,
+  "path": "assets/portraits/pe_3mh7n9c9.jpg",
+  "sha256": "e40cd0864d9ae0a6bd72010035398ebe7abe3c84adee35edb3bee3fad6b98bb3",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/ናኦድ-ውበቱ.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/naod-wubetu/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t0pmz54f.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/sefinaye.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_3mh7n9c9",
+     "name": "Naod Wubetu",
+     "role": "author",
+     "romanized": "Naod Wubetu"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_t0pmz54f",
+   "id": "wk_t0pmz54f",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sefinaye",
+    "script": "Ethi",
+    "text": "ሠፊናዬ"
+   },
+   "type": "work"
+  }
+ ]
+}

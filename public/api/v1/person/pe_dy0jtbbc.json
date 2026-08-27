@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "faqrukidana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dy0jtbbc",
+ "id": "pe_dy0jtbbc",
+ "identifiers": {
+  "openlibrary": [
+   "OL6939870A"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL6939870A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL6939870A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feqru kidane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍቅሩ ኪዳኔ"
+  },
+  "romanized": "feqru kidane",
+  "sort_key": "ፍቅሩኪዳኔ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "hahubooks"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_86dmpkth.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8D%92%E1%8B%AB%E1%88%B3_%E1%88%8D%E1%8C%85.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_dy0jtbbc",
+     "name": "ፍቅሩ ኪዳኔ",
+     "role": "author",
+     "romanized": "feqru kidane"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_86dmpkth",
+   "id": "wk_86dmpkth",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yepiyasa lej",
+    "script": "Ethi",
+    "text": "የፒያሳ ልጅ"
+   },
+   "type": "work"
+  }
+ ]
+}

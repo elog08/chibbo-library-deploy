@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2chstbxj",
+ "@type": "Book",
+ "about": [
+  "poetry"
+ ],
+ "alternateName": [
+  "wehaye neh"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_r3v2df7x",
+   "@type": "Person",
+   "name": "መቅደስ ጌታቸው"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/048ed09d-5877-4747-8f03-47df891f4a0acover.png",
+ "inLanguage": "am",
+ "name": "ውሃዬ ነህ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "45.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/048ed09d-5877-4747-8f03-47df891f4a0a"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/048ed09d-5877-4747-8f03-47df891f4a0a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/048ed09d-5877-4747-8f03-47df891f4a0a"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ecr34qsa",
+   "@type": "Book"
+  }
+ ]
+}

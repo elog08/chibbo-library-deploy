@@ -1,0 +1,148 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ጋዜጠኛ አብርሃም በዕውቀት ታረቀኝ ትውልዱ ሰሜን ጎንደር በየዳ ወረዳ ልዩ ስሙ ዓባይ መስኖ የተባለ አካባቢ ነው ያደገው ደግሞ ምዕራብ ጎጃም ቡሬ ከተማ ነው... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "abarhambawqataraqany",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fb5dbq4m",
+ "id": "pe_fb5dbq4m",
+ "identifiers": {
+  "afroread_id": [
+   "1d067dd3-66cd-47a9-841e-08da87f3d293"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1d067dd3-66cd-47a9-841e-08da87f3d293",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1d067dd3-66cd-47a9-841e-08da87f3d293"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1d067dd3-66cd-47a9-841e-08da87f3d293",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1d067dd3-66cd-47a9-841e-08da87f3d293"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aberham beewqet tareqeny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አብርሃም በዕውቀት ታረቀኝ"
+  },
+  "romanized": "aberham beewqet tareqeny",
+  "sort_key": "አብርሀምበእውቀትታረቀኝ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 82715,
+  "path": "assets/portraits/pe_fb5dbq4m.png",
+  "sha256": "823f634cdcc370d9c4748e856d6a12260c38139bfb43a9b83bf9a5f4b676514a",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/7bb1f861-c090-47eb-bc32-46593d166387AbrahamBewketProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/1d067dd3-66cd-47a9-841e-08da87f3d293"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8x5g1bkx.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/5c722915-9aa8-42c0-9889-062c1f74593cAbrahamCoverAmaregnSinTsihuf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fb5dbq4m",
+     "name": "አብርሃም በዕውቀት ታረቀኝ",
+     "role": "author",
+     "romanized": "aberham beewqet tareqeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8x5g1bkx",
+   "id": "wk_8x5g1bkx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya serate tsehfet",
+    "script": "Ethi",
+    "text": "የአማርኛ ሥርዐተ ጽሕፈት"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_v1xh9gbv.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/ecab1bc3-aa08-45f5-8684-41f7238faa85AbrahamCoverYemechereshawa.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fb5dbq4m",
+     "name": "አብርሃም በዕውቀት ታረቀኝ",
+     "role": "author",
+     "romanized": "aberham beewqet tareqeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v1xh9gbv",
+   "id": "wk_v1xh9gbv",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemechereshawa elet",
+    "script": "Ethi",
+    "text": "የመጨረሻዋ ዕለት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

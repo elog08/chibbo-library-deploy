@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t07hd0g5",
+ "@type": "Book",
+ "about": [
+  "Ficition",
+  "History",
+  "Literature"
+ ],
+ "alternateName": [
+  "dem bedem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bybvaeqa",
+   "@type": "Person",
+   "name": "መቶ አለቃ አንዳርጌ መስፍን"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/4a59ceb5-1c56-484a-a8e7-840d38c35f58DemBedemBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ደም በደም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/4a59ceb5-1c56-484a-a8e7-840d38c35f58"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/4a59ceb5-1c56-484a-a8e7-840d38c35f58"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/4a59ceb5-1c56-484a-a8e7-840d38c35f58"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vcrmq7s1",
+   "@type": "Book"
+  }
+ ]
+}

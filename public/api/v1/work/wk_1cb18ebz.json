@@ -1,0 +1,114 @@
+{
+ "cover": {
+  "bytes": 19589,
+  "path": "assets/covers/wk_1cb18ebz.jpg",
+  "sha256": "31b7c136842e667f518c8c991487ed4f6db7105d655510e875b6d675b8dac3ce",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1dd8d3c3-493f-4d59-ab39-cb48d949699bHuletKatanaCover.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_j1d1k8d7",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_n58kzmyy"
+ ],
+ "extensions": {},
+ "fingerprint": "ሁለትካቴና|abalfita",
+ "first_published": {
+  "alternates": [
+   "2020-09-11/2021-09-10"
+  ],
+  "edtf": "2013?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2013"
+  }
+ },
+ "flags": [
+  "format-ebook",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_1cb18ebz",
+ "id": "wk_1cb18ebz",
+ "identifiers": {
+  "afroread_id": [
+   "1dd8d3c3-493f-4d59-ab39-cb48d949699b"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread_book",
+   "ref": "1dd8d3c3-493f-4d59-ab39-cb48d949699b",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1dd8d3c3-493f-4d59-ab39-cb48d949699b"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "ETB",
+   "price": "105.00",
+   "provider": "afroread_book",
+   "ref": "1dd8d3c3-493f-4d59-ab39-cb48d949699b",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1dd8d3c3-493f-4d59-ab39-cb48d949699b"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "7.25",
+   "provider": "afroread_book",
+   "ref": "1dd8d3c3-493f-4d59-ab39-cb48d949699b",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/Bookdetail/1dd8d3c3-493f-4d59-ab39-cb48d949699b"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/Bookdetail/1dd8d3c3-493f-4d59-ab39-cb48d949699b"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction",
+  "History",
+  "Literature"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hulet katena",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሁለት ካቴና"
+  },
+  "romanized": "hulet katena",
+  "sort_key": "ሁለትካቴና"
+ },
+ "type": "work"
+}

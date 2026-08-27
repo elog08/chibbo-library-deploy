@@ -1,0 +1,71 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_y00mm1t2",
+ "@type": "Book",
+ "about": [
+  "Non Fiction",
+  "Philosphy",
+  "Fiction"
+ ],
+ "alternateName": [
+  "yemot medhenit"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_44h634xs",
+   "@type": "Person",
+   "name": "ደሴ አዳም"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/18326fb1-e762-4078-9f7a-e31b0a6c66efYemotMedhanitBookCover.jpg",
+ "inLanguage": "am",
+ "name": "የሞት መድሀኒት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "97.50",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/18326fb1-e762-4078-9f7a-e31b0a6c66ef"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/18326fb1-e762-4078-9f7a-e31b0a6c66ef"
+  },
+  {
+   "@type": "Offer",
+   "price": "180.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "ethiobookreview"
+   },
+   "url": "https://www.ethiobookreview.com/book/yemot-medhanit-dase-adem"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/18326fb1-e762-4078-9f7a-e31b0a6c66ef",
+  "https://www.ethiobookreview.com/book/yemot-medhanit-dase-adem"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_q02emmpm",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_9k1f6qwc",
+   "@type": "Book"
+  }
+ ]
+}

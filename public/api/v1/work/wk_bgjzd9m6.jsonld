@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bgjzd9m6",
+ "@type": "Book",
+ "about": [
+  "Philosophy"
+ ],
+ "alternateName": [
+  "felesefna 3"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ymnb194d",
+   "@type": "Person",
+   "name": "ብሩህ ዓለምነህ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%88%8D%E1%88%B5%E1%8D%8D%E1%8A%93_3.jpg",
+ "inLanguage": "am",
+ "name": "ፍልስፍና ፫",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_110"
+  },
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_110"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_110"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_qvcj64kq",
+   "@type": "Book"
+  }
+ ]
+}

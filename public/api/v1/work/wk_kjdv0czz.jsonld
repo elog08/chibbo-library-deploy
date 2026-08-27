@@ -1,0 +1,56 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_kjdv0czz",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Spritual"
+ ],
+ "alternateName": [
+  "qebetsya"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4ra3jb5c",
+   "@type": "Person",
+   "name": "የቃናው ስምዖን"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/6a802d39-f2a8-4910-9b53-043aa65ae86eQebtsyaBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ቀብጽያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6a802d39-f2a8-4910-9b53-043aa65ae86e"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6a802d39-f2a8-4910-9b53-043aa65ae86e"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/6a802d39-f2a8-4910-9b53-043aa65ae86e"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yf46hdpe",
+   "@type": "Book"
+  }
+ ]
+}

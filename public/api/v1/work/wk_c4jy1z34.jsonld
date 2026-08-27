@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c4jy1z34",
+ "@type": "Book",
+ "about": [
+  "Poem",
+  "Short Stories"
+ ],
+ "alternateName": [
+  "Yewboch Negest"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7yw07gqw",
+   "@type": "Person",
+   "name": "Mihret Degif"
+  }
+ ],
+ "datePublished": "2026-06-06",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/06/yeweboch-ngste-new-scaled-e1780675554882.jpg",
+ "inLanguage": "am",
+ "isbn": "9781088020906",
+ "name": "የውቦች ንግሥት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/yewboch-negest-by-mihret-degif/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/1088020909"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/yewboch-negest-by-mihret-degif/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_td7bm41m",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b8cknktm",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "qen"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xnbnsf97",
+   "@type": "Person",
+   "name": "ሰሎሞን በርሄ ዶ/ር"
+  }
+ ],
+ "datePublished": "2003?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1b2e339b-50e3-4911-9218-471824225486KenBookCover.png",
+ "inLanguage": "am",
+ "name": "ቀን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/1b2e339b-50e3-4911-9218-471824225486"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mnbbf522",
+   "@type": "Book"
+  }
+ ]
+}

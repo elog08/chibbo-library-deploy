@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ጋዜጠኛና ደራሲ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "wasandababamandafro",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ckp1f8ss",
+ "id": "pe_ckp1f8ss",
+ "identifiers": {
+  "afroread_id": [
+   "1023adb8-f5b6-4a8b-7f98-08db93b2d112"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1023adb8-f5b6-4a8b-7f98-08db93b2d112",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1023adb8-f5b6-4a8b-7f98-08db93b2d112"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1023adb8-f5b6-4a8b-7f98-08db93b2d112",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1023adb8-f5b6-4a8b-7f98-08db93b2d112"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wesen debebe mandefro",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወሰን ደበበ ማንደፍሮ"
+  },
+  "romanized": "wesen debebe mandefro",
+  "sort_key": "ወሰንደበበማንደፍሮ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 24546,
+  "path": "assets/portraits/pe_ckp1f8ss.jpg",
+  "sha256": "65a8b0b48d456ac8024737f400f30bdc68ea87c9343921d1e85b9dfd9782cef7",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/5643bb0a-a411-4275-800e-4e5f0264384eAlemayehuBookCover.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/1023adb8-f5b6-4a8b-7f98-08db93b2d112"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_eh9cjnw3.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1399a6da-e41d-48b0-9767-2d47d433e69dAlemayehuBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ckp1f8ss",
+     "name": "ወሰን ደበበ ማንደፍሮ",
+     "role": "author",
+     "romanized": "wesen debebe mandefro"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_eh9cjnw3",
+   "id": "wk_eh9cjnw3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alemayehu eshete",
+    "script": "Ethi",
+    "text": "ዓለማየሁ እሸቴ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

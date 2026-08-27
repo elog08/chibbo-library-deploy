@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2v59q5fc",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "sutuel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4ek8p0py",
+   "@type": "Person",
+   "name": "ታገል አምሳል"
+  }
+ ],
+ "datePublished": "2011?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/515e002e-0849-421f-b0c4-8f049ec869beSutueelBookCover.png",
+ "inLanguage": "am",
+ "name": "ሱቱኤል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "99.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/515e002e-0849-421f-b0c4-8f049ec869be"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/515e002e-0849-421f-b0c4-8f049ec869be"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/515e002e-0849-421f-b0c4-8f049ec869be"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y9kwd9j0",
+   "@type": "Book"
+  }
+ ]
+}

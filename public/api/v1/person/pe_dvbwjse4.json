@@ -1,0 +1,149 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ መክብብ አበበ በ1969 ዓ.ም ተወለደ የመጀመሪያ ዲግሪ ትምህርቱን ከአዲስ አበባ ዩኒቨርሲቲ አጠናቋል በአሁኑ ስዓት የኒው ሲኒማ መጽሔት ምክትል አዘጋጅ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "makababababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dvbwjse4",
+ "id": "pe_dvbwjse4",
+ "identifiers": {
+  "afroread_id": [
+   "14031b44-e6c6-46cd-362b-08dab86d3382"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "14031b44-e6c6-46cd-362b-08dab86d3382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/14031b44-e6c6-46cd-362b-08dab86d3382"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "14031b44-e6c6-46cd-362b-08dab86d3382",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/14031b44-e6c6-46cd-362b-08dab86d3382"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekebeb abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መክብብ አበበ"
+  },
+  "romanized": "mekebeb abebe",
+  "sort_key": "መክብብአበበ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 57032,
+  "path": "assets/portraits/pe_dvbwjse4.png",
+  "sha256": "fe742d915f5e0c334404a6a87ba9d7a712efb9da8b7caa55b53c8a3fe2d5e92e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/9acd7ec6-3ba6-4a5e-b988-adfe99d29630MekibbAbebe Photo320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/14031b44-e6c6-46cd-362b-08dab86d3382"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_efdnnppd.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/481a4c3c-702a-4025-ba96-0058a5699d28MekibbAbebeHiwotBetenjoyuBetBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_dvbwjse4",
+     "name": "መክብብ አበበ",
+     "role": "author",
+     "romanized": "mekebeb abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_efdnnppd",
+   "id": "wk_efdnnppd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heywet betenqway bet weset",
+    "script": "Ethi",
+    "text": "ሕይወት በጠንቋይ ቤት ውስጥ"
+   },
+   "type": "work",
+   "year": 2008
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ejwthenz.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/f494de0b-347e-481f-9dcc-b28ec91afa05MekibAbebeSewenaHasbuBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_dvbwjse4",
+     "name": "መክብብ አበበ",
+     "role": "author",
+     "romanized": "mekebeb abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous",
+    "format-audiobook"
+   ],
+   "href": "https://chibbo.app/work/wk_ejwthenz",
+   "id": "wk_ejwthenz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewna hasabu",
+    "script": "Ethi",
+    "text": "ሰውና ሃሳቡ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "extensions": {},
+ "fingerprint": "abayahmad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3kbyj6fa",
+ "id": "pe_3kbyj6fa",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abiy Ahmed Ali",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አብይ አህመድ"
+  },
+  "romanized": "Abiy Ahmed Ali",
+  "sort_key": "አብይአህመድ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "ethiobookreview"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1yd60mke.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/yemedemer-menged-abiy-ahmed-ali.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_3kbyj6fa",
+     "name": "አብይ አህመድ",
+     "role": "author",
+     "romanized": "Abiy Ahmed Ali"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2021?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1yd60mke",
+   "id": "wk_1yd60mke",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemedemer menged",
+    "script": "Ethi",
+    "text": "የመደመር መንገድ"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_c8bwv0hq.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/erkabna-menber-abiy-ahmed.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_3kbyj6fa",
+     "name": "አብይ አህመድ",
+     "role": "author",
+     "romanized": "Abiy Ahmed Ali"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c8bwv0hq",
+   "id": "wk_c8bwv0hq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "erkabna menber",
+    "script": "Ethi",
+    "text": "እርካብና መንበር"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

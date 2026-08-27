@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "maqdasgatachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_r3v2df7x",
+ "id": "pe_r3v2df7x",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "meqdes getachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መቅደስ ጌታቸው"
+  },
+  "romanized": "meqdes getachew",
+  "sort_key": "መቅደስጌታቸው"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2chstbxj.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/048ed09d-5877-4747-8f03-47df891f4a0acover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r3v2df7x",
+     "name": "መቅደስ ጌታቸው",
+     "role": "author",
+     "romanized": "meqdes getachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2chstbxj",
+   "id": "wk_2chstbxj",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wehaye neh",
+    "script": "Ethi",
+    "text": "ውሃዬ ነህ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

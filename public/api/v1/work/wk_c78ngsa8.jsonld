@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c78ngsa8",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yeanwanwar aynetoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a7s06nx2",
+   "@type": "Person",
+   "name": "የሻንበል ታዴ የኔዓለም"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/0cb2de4d-c25c-4666-99ef-30859851612aShanbelBookCover.png",
+ "inLanguage": "am",
+ "name": "የአኗኗር ዓይነቶች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "75.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0cb2de4d-c25c-4666-99ef-30859851612a"
+  },
+  {
+   "@type": "Offer",
+   "price": "3.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/0cb2de4d-c25c-4666-99ef-30859851612a"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/0cb2de4d-c25c-4666-99ef-30859851612a"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0mvd6sej",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_69ra08x4",
+ "@type": "Book",
+ "about": [
+  "History",
+  "Kids",
+  "Literature"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_scpfh2nb",
+   "@type": "Person",
+   "name": "Monica Hernandez"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/2cb895d6-3728-4fde-a9d9-c6a1b33085f5AirAndWaterCoverH400.png",
+ "inLanguage": "en",
+ "name": "Air & Water",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "57.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2cb895d6-3728-4fde-a9d9-c6a1b33085f5"
+  },
+  {
+   "@type": "Offer",
+   "price": "1.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/2cb895d6-3728-4fde-a9d9-c6a1b33085f5"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/2cb895d6-3728-4fde-a9d9-c6a1b33085f5"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_84xargvk",
+   "@type": "Book"
+  }
+ ]
+}

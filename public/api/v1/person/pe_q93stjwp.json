@@ -1,0 +1,116 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ጌትነት ፈለቀ (ፒኤችዲ) '' ANDROMEDA'' የጥንታዊት ኢትዮጵያውያን ስልጣኔ ከዘመናዊ ሳይንስ ጋር ሲነፃፀር '' የተሰኘውን መጽሐፍ ከፃፉት ጸሐፊዎች መ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "doktargatnatfalaqa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q93stjwp",
+ "id": "pe_q93stjwp",
+ "identifiers": {
+  "afroread_id": [
+   "71481759-d076-4581-c187-08d8f7005c26"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "71481759-d076-4581-c187-08d8f7005c26",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/71481759-d076-4581-c187-08d8f7005c26"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "71481759-d076-4581-c187-08d8f7005c26",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/71481759-d076-4581-c187-08d8f7005c26"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dokter getnet feleqe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶክተር ጌትነት ፈለቀ"
+  },
+  "romanized": "dokter getnet feleqe",
+  "sort_key": "ዶክተርጌትነትፈለቀ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 74554,
+  "path": "assets/portraits/pe_q93stjwp.png",
+  "sha256": "16958f338c3d370e3c610833a58acb5cf74b5643a0227ad40a7b08479e96150a",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/DrGetnet320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/71481759-d076-4581-c187-08d8f7005c26"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_g0v3fy36.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/6eebca19-b252-451f-89b0-1037619b2818Andromeda400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_q93stjwp",
+     "name": "ዶክተር ጌትነት ፈለቀ",
+     "role": "author",
+     "romanized": "dokter getnet feleqe"
+    },
+    {
+     "id": "pe_3rr517es",
+     "name": "መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "megabe hedis dokter rodas tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g0v3fy36",
+   "id": "wk_g0v3fy36",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anedromeda",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

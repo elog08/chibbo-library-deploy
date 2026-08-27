@@ -1,0 +1,134 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Abel Gashe is a published author who wrote a 570-page spiritual treatise titled “The Wisdom Compass to Eternal Life: እግዚእ”. He also authored a commentary on American society in his book titled “GPS for America: Toward a more perfect union.” For more than 20 years, Abel dedicated his life to Ethiopia and the Ethiopian community as"
+ },
+ "extensions": {},
+ "fingerprint": "abalgasha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bmja8bwk",
+ "id": "pe_bmja8bwk",
+ "identifiers": {
+  "openlibrary": [
+   "OL8639315A"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "abel-gashe",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/abel-gashe/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "abel-gashe",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/abel-gashe/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "openlibrary_author",
+   "ref": "OL8639315A",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://openlibrary.org/authors/OL8639315A"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abel Gashe"
+  },
+  "romanized": "Abel Gashe",
+  "sort_key": "abelgashe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 6614,
+  "path": "assets/portraits/pe_bmja8bwk.jpg",
+  "sha256": "46ac9acd9e67d55f1aa46ad7c5f1039e493f2294e07151cd167c1acec162493f",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/abel-gashe.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/abel-gashe/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3sexp2n8.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/Gps-for-America-Toward-Building-a-More-Perfect-Union.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_bmja8bwk",
+     "name": "Abel Gashe",
+     "role": "author",
+     "romanized": "Abel Gashe"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2014-09-11",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_3sexp2n8",
+   "id": "wk_3sexp2n8",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Gps for America: Toward “Building a More Perfect Union”",
+    "script": "Latn",
+    "text": "Gps for America: Toward “Building a More Perfect Union”"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vk65t0rr.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/the-wisdom-compass-to-eternal-life.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_bmja8bwk",
+     "name": "Abel Gashe",
+     "role": "author",
+     "romanized": "Abel Gashe"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2011-07-14",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vk65t0rr",
+   "id": "wk_vk65t0rr",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Wisdom Compass to Eternal Life",
+    "script": "Latn",
+    "text": "The Wisdom Compass to Eternal Life"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

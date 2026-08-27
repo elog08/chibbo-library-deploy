@@ -1,0 +1,80 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_06tmd8a0",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "beljepera"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6p59mktv",
+   "@type": "Person",
+   "name": "አበበ ፈንቴ ገላዉ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6f06997b-260e-4cb4-bdee-830f693fdd35AbebeBookCoverBeljepera.png",
+ "inLanguage": "am",
+ "name": "ቤልጀጴራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6f06997b-260e-4cb4-bdee-830f693fdd35"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/6f06997b-260e-4cb4-bdee-830f693fdd35"
+  },
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/7f8105f8-b9e1-4659-887c-943410dc9664"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/7f8105f8-b9e1-4659-887c-943410dc9664"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/6f06997b-260e-4cb4-bdee-830f693fdd35",
+  "https://afroreadapp.com/Store/Bookdetail/7f8105f8-b9e1-4659-887c-943410dc9664"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_qdrzafpe",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_serwdbn9",
+   "@type": "Book"
+  }
+ ]
+}

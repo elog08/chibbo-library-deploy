@@ -1,0 +1,51 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0zhaxm7g",
+ "@type": "Book",
+ "about": [
+  "Communication"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pxt24jsn",
+   "@type": "Person",
+   "name": "አብዲረዛቅ ሰሀኔ ኢልሚ"
+  }
+ ],
+ "datePublished": "2016?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/f7771b2a-a2cd-48c6-afda-73b953309bfaRAGAAD_Book_Cover.png",
+ "inLanguage": "en",
+ "name": "RAGAAD",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "110.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f7771b2a-a2cd-48c6-afda-73b953309bfa"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/f7771b2a-a2cd-48c6-afda-73b953309bfa"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/f7771b2a-a2cd-48c6-afda-73b953309bfa"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c0a2mh0k",
+   "@type": "Book"
+  }
+ ]
+}

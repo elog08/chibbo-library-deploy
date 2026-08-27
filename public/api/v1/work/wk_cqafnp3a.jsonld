@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cqafnp3a",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "feqer’na mareg"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_36d861q0",
+   "@type": "Person",
+   "name": "ሰብለ ይርጋ"
+  }
+ ],
+ "datePublished": "2014?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/075f74a5-555b-48e5-9146-a13b87438b20FekerenaMaregBookCover.png",
+ "inLanguage": "am",
+ "name": "ፍቅር’ና ማዕረግ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "91.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/075f74a5-555b-48e5-9146-a13b87438b20"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/075f74a5-555b-48e5-9146-a13b87438b20"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/075f74a5-555b-48e5-9146-a13b87438b20"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f49jfx25",
+   "@type": "Book"
+  }
+ ]
+}

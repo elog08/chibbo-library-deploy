@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዲያቆን ኢንጂነር ዮሴፍ በቀለ አወል በኮንስትራክሽን ኢንጂነሪንግ ማናጅመንት እና ነገረ መለኮት የመጀመሪያ ዲግሪ ትምህርቱን አጠናቋል በሥራው ዓለም 17 ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yosafbaqaladiyaqoninjinar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q6nch0r3",
+ "id": "pe_q6nch0r3",
+ "identifiers": {
+  "afroread_id": [
+   "2423fb01-bd4d-4752-1815-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2423fb01-bd4d-4752-1815-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2423fb01-bd4d-4752-1815-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2423fb01-bd4d-4752-1815-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2423fb01-bd4d-4752-1815-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yosef beqele (diyaqon injiner)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሴፍ በቀለ (ዲያቆን ኢንጂነር)"
+  },
+  "romanized": "yosef beqele (diyaqon injiner)",
+  "sort_key": "ዮሴፍበቀለዲያቆንኢንጂነር"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 8258,
+  "path": "assets/portraits/pe_q6nch0r3.jpg",
+  "sha256": "3d07c1f4d6e3fd76e71b09e7a21e971dbc32ecee5f419ebfc95b1b4314bbc2eb",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/a91e0b17-efd8-47f8-bcc0-4c5f01d9eb6aYosephBekele320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/2423fb01-bd4d-4752-1815-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bnxp72j9.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/98efb21d-0f73-45bf-961f-425112a1916cYeSewHiwetuBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_q6nch0r3",
+     "name": "ዮሴፍ በቀለ (ዲያቆን ኢንጂነር)",
+     "role": "author",
+     "romanized": "yosef beqele (diyaqon injiner)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bnxp72j9",
+   "id": "wk_bnxp72j9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesew heywetu",
+    "script": "Ethi",
+    "text": "የሰው ሕይወቱ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

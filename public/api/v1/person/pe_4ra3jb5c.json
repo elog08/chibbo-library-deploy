@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የቃናው ስምዖን ትውልዱና እድገቱ በወሎ ክፍለሀገር ቃሉ አውራጃ በቀድሟዋ ቢራሮ ነው የመጀመሪያ ደረጃ ትምህርቱን በሚማርበት ወቅት የተለየ ደራሲ የመሆን ፍላ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yaqanawsamon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4ra3jb5c",
+ "id": "pe_4ra3jb5c",
+ "identifiers": {
+  "afroread_id": [
+   "e2c71dfc-19d4-485b-1814-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e2c71dfc-19d4-485b-1814-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e2c71dfc-19d4-485b-1814-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e2c71dfc-19d4-485b-1814-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e2c71dfc-19d4-485b-1814-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yeqanaw semon",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የቃናው ስምዖን"
+  },
+  "romanized": "yeqanaw semon",
+  "sort_key": "የቃናውስምኦን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 52567,
+  "path": "assets/portraits/pe_4ra3jb5c.png",
+  "sha256": "2c8926657ed1dd2ac1d912c28122622bf15bd7aa8d185a7af07bf7a94a652b5b",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/181af077-9ea4-45d3-832f-166471c0f6b0YekanawSemeonProfile320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/e2c71dfc-19d4-485b-1814-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kjdv0czz.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/6a802d39-f2a8-4910-9b53-043aa65ae86eQebtsyaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_4ra3jb5c",
+     "name": "የቃናው ስምዖን",
+     "role": "author",
+     "romanized": "yeqanaw semon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kjdv0czz",
+   "id": "wk_kjdv0czz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qebetsya",
+    "script": "Ethi",
+    "text": "ቀብጽያ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

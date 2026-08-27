@@ -1,0 +1,110 @@
+{
+ "cover": {
+  "bytes": 23290,
+  "path": "assets/covers/wk_kgbz39tv.jpg",
+  "sha256": "543f0563db3d3bdcf2bb6579288121f1aeb7c0982e52f94b65c4910ecfd4e79b",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/gifuaan.jpg"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xqdr1zsg",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Gefuan ግፉዓን by Yismake Worku . Addis Books!"
+ },
+ "editions": [
+  "ed_ttjn1pw0"
+ ],
+ "extensions": {},
+ "fingerprint": "ግፉአን|yismakaworku",
+ "first_published": {
+  "edtf": "2025-01-21",
+  "original": {
+   "calendar": "gregorian",
+   "value": "January 21, 2025"
+  }
+ },
+ "flags": [
+  "suspect-isbn"
+ ],
+ "href": "https://chibbo.app/work/wk_kgbz39tv",
+ "id": "wk_kgbz39tv",
+ "identifiers": {
+  "addisbooks_sku": [
+   "6855"
+  ],
+  "isbn13": [
+   "9781916218628"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks",
+   "ref": "gefuan-by-yismake-worku",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/gefuan-by-yismake-worku/"
+  },
+  {
+   "checked": "2026-08-26",
+   "currency": "USD",
+   "price": "25.00",
+   "provider": "addisbooks",
+   "ref": "gefuan-by-yismake-worku",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://addisbooks.com/book/gefuan-by-yismake-worku/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "amazon",
+   "ref": "B0DZS4HKF3",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.amazon.com/dp/B0DZS4HKF3"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/book/gefuan-by-yismake-worku/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [
+  "Fiction"
+ ],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Gefuan",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግፉዓን"
+  },
+  "romanized": "Gefuan",
+  "sort_key": "ግፉአን"
+ },
+ "type": "work"
+}

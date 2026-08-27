@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "እራሴን ያገኘሁበትና በፍቅር የምሰራው ከሁሉም በላይ ሰላምን በመጻፍ ውስጥ አገኘዋለሁ ምስጋና ለአባቴ እንዳነብ ስለገፋፋኝ እና ለ አዳም ረታ ሰለ ተወዳጅ ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "bazawitzarayhun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rd7tpx7f",
+ "id": "pe_rd7tpx7f",
+ "identifiers": {
+  "afroread_id": [
+   "52bdee5f-860c-4a82-92c1-08d98d158d7c"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "52bdee5f-860c-4a82-92c1-08d98d158d7c",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/52bdee5f-860c-4a82-92c1-08d98d158d7c"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "52bdee5f-860c-4a82-92c1-08d98d158d7c",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/52bdee5f-860c-4a82-92c1-08d98d158d7c"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bezawit zereyhun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቤዛዊት ዘርይሁን"
+  },
+  "romanized": "bezawit zereyhun",
+  "sort_key": "ቤዛዊትዘርይሁን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 64725,
+  "path": "assets/portraits/pe_rd7tpx7f.png",
+  "sha256": "a8d962587b15a61f97e920610d8dc5a4f53472772c8e5009f83c9bddddf776c8",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/9ebeb3ee-5e5f-44a3-8846-bcd787b1d40aBezawitZerihunProfilePicH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/52bdee5f-860c-4a82-92c1-08d98d158d7c"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_eb350sw0.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/c9ea9966-7122-435b-9191-df81c90940f5BezawitZerihunYemehalLijCoverH400.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_rd7tpx7f",
+     "name": "ቤዛዊት ዘርይሁን",
+     "role": "author",
+     "romanized": "bezawit zereyhun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_eb350sw0",
+   "id": "wk_eb350sw0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemehel lej",
+    "script": "Ethi",
+    "text": "የመሀል ልጅ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "extensions": {},
+ "fingerprint": "hadisalamayahu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mqh1gb2n",
+ "id": "pe_mqh1gb2n",
+ "identifiers": {
+  "wikidata": [
+   "Q982661"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "wikidata",
+   "ref": "Q982661",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://www.wikidata.org/wiki/Q982661"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hedis alemayehu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Haddis Alemayehu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሀዲስ ዓለማየሁ"
+  },
+  "romanized": "hedis alemayehu",
+  "sort_key": "ሀዲስአለማየሁ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ev9kxm9r.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%89%85%E1%88%AD_%E1%8A%A5%E1%88%B5%E1%8A%A8_%E1%88%98%E1%89%83%E1%89%A5%E1%88%AD.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_mqh1gb2n",
+     "name": "ሀዲስ ዓለማየሁ",
+     "role": "author",
+     "romanized": "hedis alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": [
+     "ec-gc-conflict"
+    ]
+   },
+   "flags": [
+    "ec-gc-conflict",
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_ev9kxm9r",
+   "id": "wk_ev9kxm9r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fikir Eske Mekabir",
+    "script": "Ethi",
+    "text": "ፍቅር እስከ መቃብር"
+   },
+   "type": "work",
+   "year": 1965
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mqh1gb2n",
+     "name": "ሀዲስ ዓለማየሁ",
+     "role": "author",
+     "romanized": "hedis alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1981-09-11/1982-09-10",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vv1gg3dv",
+   "id": "wk_vv1gg3dv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wanjelagnaw Dagna",
+    "script": "Ethi",
+    "text": "ወንጀለኛው ዳኛ"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ መንግስቱ መርሃጽዮን በትምህርቱ የመጀምሪያ ዲግሪ ያለው ሲሆን በሙያው አካውንታንት ነው ነዋሪነቱ ደግሞ በሰሜን አሜሪካ ካሊፎርኒያ ነው ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "managastumarhatsyon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b7jx9jv1",
+ "id": "pe_b7jx9jv1",
+ "identifiers": {
+  "afroread_id": [
+   "e41b78cc-55a1-4355-bc56-08da7c1ae9a2"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e41b78cc-55a1-4355-bc56-08da7c1ae9a2",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e41b78cc-55a1-4355-bc56-08da7c1ae9a2"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "e41b78cc-55a1-4355-bc56-08da7c1ae9a2",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/e41b78cc-55a1-4355-bc56-08da7c1ae9a2"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menegestu merhatsyon",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መንግስቱ መርሃጽዮን"
+  },
+  "romanized": "menegestu merhatsyon",
+  "sort_key": "መንግስቱመርሀጽዮን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 46363,
+  "path": "assets/portraits/pe_b7jx9jv1.png",
+  "sha256": "06ba32a42e63e0f080a0d5deaad85ae9c3bcc9cabfe42c9e13d7347674432326",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/8d444578-226c-4b3f-998f-8fb67c19c709MengistuMerhatsionProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/e41b78cc-55a1-4355-bc56-08da7c1ae9a2"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_d4vnhmp4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/d6f79e26-a8db-4445-92b7-0b6b18ac339aMengistuMerhatsionBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_b7jx9jv1",
+     "name": "መንግስቱ መርሃጽዮን",
+     "role": "author",
+     "romanized": "menegestu merhatsyon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d4vnhmp4",
+   "id": "wk_d4vnhmp4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kefrisko dubay",
+    "script": "Ethi",
+    "text": "ከፍሪስኮ ዱባይ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_gr2pgerd",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "saleqes ena seseq"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4q7bgvh3",
+   "@type": "Person",
+   "name": "ዘሪሁን ገመቹ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a36a2b1f-0bfc-4bd0-9585-88c942ea195cSalekisEnaSisikBookCover.jpg",
+ "inLanguage": "am",
+ "name": "ሳለቅስ እና ስስቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "79.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a36a2b1f-0bfc-4bd0-9585-88c942ea195c"
+  },
+  {
+   "@type": "Offer",
+   "price": "2.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/a36a2b1f-0bfc-4bd0-9585-88c942ea195c"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/a36a2b1f-0bfc-4bd0-9585-88c942ea195c"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zx05yzh6",
+   "@type": "Book"
+  }
+ ]
+}

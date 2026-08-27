@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዮናስ አብርሃም:- በሬድዮ ጋዜጠኝነት እና ደራሲነት /play wright/ ከ26 ዓመት ባላይ አገልግሏል አሁንም ከሙያው አልተለየም በፀሐፊነትና ፕሮግራም አ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yonasabarham",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2aefsj9d",
+ "id": "pe_2aefsj9d",
+ "identifiers": {
+  "afroread_id": [
+   "95e7d735-8f8b-430c-8198-08dc3fd07a53"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "95e7d735-8f8b-430c-8198-08dc3fd07a53",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/95e7d735-8f8b-430c-8198-08dc3fd07a53"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "95e7d735-8f8b-430c-8198-08dc3fd07a53",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/95e7d735-8f8b-430c-8198-08dc3fd07a53"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yonas aberham",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮናስ አብርሃም"
+  },
+  "romanized": "yonas aberham",
+  "sort_key": "ዮናስአብርሀም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 53560,
+  "path": "assets/portraits/pe_2aefsj9d.png",
+  "sha256": "c5195990b45beefe7a0b99b8c0bc81ee57122cace01def846d4644de3b4e774e",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2024/b5b0d7de-f693-4278-bd84-a8e5b3174a0cYonasProfilePicture320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/95e7d735-8f8b-430c-8198-08dc3fd07a53"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hzsxprmw.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/58d06ddb-0822-4716-8231-aacb1c10e7ebYemaledaFikerBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2aefsj9d",
+     "name": "ዮናስ አብርሃም",
+     "role": "author",
+     "romanized": "yonas aberham"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hzsxprmw",
+   "id": "wk_hzsxprmw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemaleda feqer",
+    "script": "Ethi",
+    "text": "የማለዳ ፍቅር"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

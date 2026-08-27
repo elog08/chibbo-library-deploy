@@ -1,0 +1,85 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "A sculptor, Daniel Kebede, is an elementary art and physical education teacher at a private school in the Seattle, Washington area. Born and raised in Ethiopia, Daniel recalls loving to draw and paint as a child. He first discovered the art of carving when he was at an early age, and during his teen years,"
+ },
+ "extensions": {},
+ "fingerprint": "danialkabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2dmpa917",
+ "id": "pe_2dmpa917",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "daniel-kebede",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/daniel-kebede/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "daniel-kebede",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/daniel-kebede/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Kebede"
+  },
+  "romanized": "Daniel Kebede",
+  "sort_key": "danielkebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 5336,
+  "path": "assets/portraits/pe_2dmpa917.jpg",
+  "sha256": "27cb6615036a4f8a126b3719566cdca68bb86294f281c6ae323c978f14ecc9df",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Daniel-Kebede.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/daniel-kebede/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_yr60xg9e.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Ye-Dengay-Anagariw-Mastawesha.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_2dmpa917",
+     "name": "Daniel Kebede",
+     "role": "author",
+     "romanized": "Daniel Kebede"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yr60xg9e",
+   "id": "wk_yr60xg9e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye Dengay Anagariw Mastawesha",
+    "script": "Ethi",
+    "text": "የድንጋይ አናጋሪው ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

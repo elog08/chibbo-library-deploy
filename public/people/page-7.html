@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>People — page 7</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Works</a>
+    <a href="../people/page-1.html">People</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../people/page-1.html"><span itemprop="name">People</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 7</span><meta itemprop="position" content="3"></li></ol></nav>
+<p class="eyebrow">People</p><h1>People</h1><ul class="grid"><li class="card">
+  <a class="thumb" href="../person/pe_dkxam7ba.html"><div class="placeholder" lang="am">መሆን ተክሉ (ኤልያስ)</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_dkxam7ba.html">መሆን ተክሉ (ኤልያስ)</a>
+  <span class="r">Mehon Teklu Elias</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_b6msr0bd.html"><img src="../assets/portraits/pe_b6msr0bd.jpg" alt="Portrait of ምሕረት አቤሴሎም" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_b6msr0bd.html">ምሕረት አቤሴሎም</a>
+  <span class="r">mehret abeselom</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_5mnxt7pp.html"><div class="placeholder" lang="am">ምህረቱ ጴ ጉታ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_5mnxt7pp.html">ምህረቱ ጴ ጉታ</a>
+  <span class="r">Miheretu Phe Guta</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_dvbwjse4.html"><img src="../assets/portraits/pe_dvbwjse4.png" alt="Portrait of መክብብ አበበ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_dvbwjse4.html">መክብብ አበበ</a>
+  <span class="r">mekebeb abebe</span>
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mfb0t3jd.html"><div class="placeholder" lang="am">መክት ፋንቱ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_mfb0t3jd.html">መክት ፋንቱ</a>
+  <span class="r">Mekit Fantu</span>
+  <span class="a">4 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_swsdbhra.html"><img src="../assets/portraits/pe_swsdbhra.jpg" alt="Portrait of መክት ፋንቱ (መምህር)" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_swsdbhra.html">መክት ፋንቱ (መምህር)</a>
+  <span class="r">meket fantu (memeher)</span>
+  <span class="a">5 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_9e1pw36a.html"><img src="../assets/portraits/pe_9e1pw36a.jpg" alt="Portrait of Makida Arshi" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_9e1pw36a.html">Makida Arshi</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_gpzazm5c.html"><div class="placeholder">Mekit fantu</div></a>
+  <a class="t latn"
+     href="../person/pe_gpzazm5c.html">Mekit fantu</a>
+  
+  <span class="a">0 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_gpx2csak.html"><div class="placeholder" lang="am">መኮንን አረዳ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_gpx2csak.html">መኮንን አረዳ</a>
+  <span class="r">Mekonnnen Areda</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_7acettyz.html"><img src="../assets/portraits/pe_7acettyz.png" alt="Portrait of መኮነን ተካ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_7acettyz.html">መኮነን ተካ</a>
+  <span class="r">mekonen teka</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_bn01wfhg.html"><img src="../assets/portraits/pe_bn01wfhg.jpg" alt="Portrait of Mekonnen Woldearegay" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_bn01wfhg.html">Mekonnen Woldearegay</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_g1jaszkv.html"><div class="placeholder" lang="am">መላኩ አለም</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_g1jaszkv.html">መላኩ አለም</a>
+  <span class="r">melaku alem</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_63xdcyhf.html"><div class="placeholder" lang="am">ማሊክ አብዱ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_63xdcyhf.html">ማሊክ አብዱ</a>
+  <span class="r">malik abdu</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_ayk78vqn.html"><img src="../assets/portraits/pe_ayk78vqn.png" alt="Portrait of Melkam Media" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_ayk78vqn.html">Melkam Media</a>
+  
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rh8ahqfm.html"><img src="../assets/portraits/pe_rh8ahqfm.png" alt="Portrait of መምህር ማርቆስ ደስታ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_rh8ahqfm.html">መምህር ማርቆስ ደስታ</a>
+  <span class="r">memeher marqos desta</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_hnszfsbc.html"><div class="placeholder" lang="am">ማሞ ውድነህ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_hnszfsbc.html">ማሞ ውድነህ</a>
+  <span class="r">mamo wedneh</span>
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_v2ckrqj4.html"><div class="placeholder" lang="am">ማሙሽ ኃይሌ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_v2ckrqj4.html">ማሙሽ ኃይሌ</a>
+  <span class="r">mamush hayle</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_b7jx9jv1.html"><img src="../assets/portraits/pe_b7jx9jv1.png" alt="Portrait of መንግስቱ መርሃጽዮን" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_b7jx9jv1.html">መንግስቱ መርሃጽዮን</a>
+  <span class="r">menegestu merhatsyon</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_g6ke8808.html"><div class="placeholder" lang="am">ምንዳርአለው ዘውዴ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_g6ke8808.html">ምንዳርአለው ዘውዴ</a>
+  <span class="r">mendaralew zewde</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_9cx0ze6f.html"><div class="placeholder">Mengistu Lemma</div></a>
+  <a class="t latn"
+     href="../person/pe_9cx0ze6f.html">Mengistu Lemma</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_r3v2df7x.html"><div class="placeholder" lang="am">መቅደስ ጌታቸው</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_r3v2df7x.html">መቅደስ ጌታቸው</a>
+  <span class="r">meqdes getachew</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_9j6afs17.html"><img src="../assets/portraits/pe_9j6afs17.jpg" alt="Portrait of መርዕድ እስጢፋኖስ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_9j6afs17.html">መርዕድ እስጢፋኖስ</a>
+  <span class="r">mereed estifanos</span>
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_7j4ejg6p.html"><div class="placeholder" lang="am">መርዕድ ንጉሤ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_7j4ejg6p.html">መርዕድ ንጉሤ</a>
+  <span class="r">mereed neguse</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_jmhe1wnk.html"><div class="placeholder">Mararaa tafarii Baallaa</div></a>
+  <a class="t latn"
+     href="../person/pe_jmhe1wnk.html">Mararaa tafarii Baallaa</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_m19khgsa.html"><img src="../assets/portraits/pe_m19khgsa.png" alt="Portrait of መ/ርት ኮከብ ብርሃኑ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_m19khgsa.html">መ/ርት ኮከብ ብርሃኑ</a>
+  <span class="r">me/ret kokeb berhanu</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_yxhvryse.html"><img src="../assets/portraits/pe_yxhvryse.png" alt="Portrait of መ/ር ፀጋዬ ታደለ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_yxhvryse.html">መ/ር ፀጋዬ ታደለ</a>
+  <span class="r">me/re tsegaye tadele</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_z7a5rqb5.html"><div class="placeholder" lang="am">ሜሪ ፈለቀ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_z7a5rqb5.html">ሜሪ ፈለቀ</a>
+  <span class="r">meri feleqe</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_m8tmp3kb.html"><div class="placeholder" lang="am">መሪራስ አማን በላይ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_m8tmp3kb.html">መሪራስ አማን በላይ</a>
+  <span class="r">Mariras Aman Belay</span>
+  <span class="a">3 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rdwjabqh.html"><div class="placeholder" lang="am">መርከቤ ንጉሴ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_rdwjabqh.html">መርከቤ ንጉሴ</a>
+  <span class="r">Merkebe Negussie</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_2bvx860v.html"><img src="../assets/portraits/pe_2bvx860v.png" alt="Portrait of Meron Getnet" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_2bvx860v.html">Meron Getnet</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mahztjj6.html"><img src="../assets/portraits/pe_mahztjj6.jpg" alt="Portrait of ማሩ እንዳለ ባልቻ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_mahztjj6.html">ማሩ እንዳለ ባልቻ</a>
+  <span class="r">maru endale balcha</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_288pe51v.html"><img src="../assets/portraits/pe_288pe51v.jpg" alt="Portrait of መስፍን ይልማ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_288pe51v.html">መስፍን ይልማ</a>
+  <span class="r">mesefen yelma</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_n38ykpty.html"><div class="placeholder">Masarat Abiy fi Mulugeetaa Tarfaa</div></a>
+  <a class="t latn"
+     href="../person/pe_n38ykpty.html">Masarat Abiy fi Mulugeetaa Tarfaa</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_bjhsgg75.html"><img src="../assets/portraits/pe_bjhsgg75.jpg" alt="Portrait of Meseret Bahru" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_bjhsgg75.html">Meseret Bahru</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_k8j2svk2.html"><img src="../assets/portraits/pe_k8j2svk2.jpg" alt="Portrait of Meseret Kinfe Haile" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_k8j2svk2.html">Meseret Kinfe Haile</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_q47784tk.html"><img src="../assets/portraits/pe_q47784tk.jpg" alt="Portrait of Mesfin Wondwossen" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_q47784tk.html">Mesfin Wondwossen</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mysnv8qn.html"><img src="../assets/portraits/pe_mysnv8qn.jpg" alt="Portrait of ምስጋናው አንዱዓለም" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_mysnv8qn.html">ምስጋናው አንዱዓለም</a>
+  <span class="r">mesganaw andualem</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mvhcqwbh.html"><div class="placeholder" lang="am">መስከረም አበራ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_mvhcqwbh.html">መስከረም አበራ</a>
+  <span class="r">Meskerem Abera</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_br8een36.html"><div class="placeholder" lang="am">መስከረም ለቺሳ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_br8een36.html">መስከረም ለቺሳ</a>
+  <span class="r">meskerem lechisa</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_j7xmftyp.html"><div class="placeholder" lang="am">ምስራቅ ተረፈ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_j7xmftyp.html">ምስራቅ ተረፈ</a>
+  <span class="r">Misrak Terefe</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_jgq0bd49.html"><div class="placeholder" lang="am">ምትኩ በላቸው ትርጉም አዜብ ወርቁ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_jgq0bd49.html">ምትኩ በላቸው ትርጉም አዜብ ወርቁ</a>
+  <span class="r">Mitiku Belachew</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_bybvaeqa.html"><img src="../assets/portraits/pe_bybvaeqa.jpg" alt="Portrait of መቶ አለቃ አንዳርጌ መስፍን" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_bybvaeqa.html">መቶ አለቃ አንዳርጌ መስፍን</a>
+  <span class="r">meto aleqa andarge mesefen</span>
+  <span class="a">8 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_5tpp0exh.html"><div class="placeholder" lang="am">መዓዛ መንክር</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_5tpp0exh.html">መዓዛ መንክር</a>
+  <span class="r">Meaza Menkir</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_zpqw2spz.html"><img src="../assets/portraits/pe_zpqw2spz.webp" alt="Portrait of Maaza Mengiste" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_zpqw2spz.html">Maaza Mengiste</a>
+  
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_qgbxn097.html"><div class="placeholder">Meaza Menkir</div></a>
+  <a class="t latn"
+     href="../person/pe_qgbxn097.html">Meaza Menkir</a>
+  
+  <span class="a">0 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_1y5kh0zs.html"><img src="../assets/portraits/pe_1y5kh0zs.png" alt="Portrait of መዘምር ግርማ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_1y5kh0zs.html">መዘምር ግርማ</a>
+  <span class="r">mezemer germa</span>
+  <span class="a">3 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_0a48btm3.html"><div class="placeholder">Mazgabuu Bafirdee</div></a>
+  <a class="t latn"
+     href="../person/pe_0a48btm3.html">Mazgabuu Bafirdee</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_23zskazs.html"><img src="../assets/portraits/pe_23zskazs.jpg" alt="Portrait of Michael Argaw (MD)" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_23zskazs.html">Michael Argaw (MD)</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_27q9zbrg.html"><img src="../assets/portraits/pe_27q9zbrg.jpg" alt="Portrait of Michael Masrie" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_27q9zbrg.html">Michael Masrie</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_7yw07gqw.html"><img src="../assets/portraits/pe_7yw07gqw.jpg" alt="Portrait of Mihret Degif" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_7yw07gqw.html">Mihret Degif</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_a1k0qkqy.html"><img src="../assets/portraits/pe_a1k0qkqy.jpg" alt="Portrait of Mihret Sibhat" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_a1k0qkqy.html">Mihret Sibhat</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_2cybbxs3.html"><img src="../assets/portraits/pe_2cybbxs3.png" alt="Portrait of ሚካኤል አስጨናቂ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_2cybbxs3.html">ሚካኤል አስጨናቂ</a>
+  <span class="r">mikael aschenaqi</span>
+  <span class="a">2 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_2565mny0.html"><img src="../assets/portraits/pe_2565mny0.png" alt="Portrait of ሚካኤል ማስሬ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_2565mny0.html">ሚካኤል ማስሬ</a>
+  <span class="r">mikael masre</span>
+  <span class="a">7 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mxpjk0a0.html"><div class="placeholder" lang="am">ሚካኤል ሽፈራው</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_mxpjk0a0.html">ሚካኤል ሽፈራው</a>
+  <span class="r">mikael sheferaw</span>
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_jbg9n49g.html"><img src="../assets/portraits/pe_jbg9n49g.png" alt="Portrait of Milkiyas Gendo Amuma" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_jbg9n49g.html">Milkiyas Gendo Amuma</a>
+  
+  <span class="a">6 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_84apydmx.html"><div class="placeholder">Miratu Shanko</div></a>
+  <a class="t latn"
+     href="../person/pe_84apydmx.html">Miratu Shanko</a>
+  
+  <span class="a">0 works</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_2jce119z.html"><div class="placeholder">Miratuu Shaanqoo</div></a>
+  <a class="t latn"
+     href="../person/pe_2jce119z.html">Miratuu Shaanqoo</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_b5tmcbcj.html"><div class="placeholder">Misgaanuu Gulummaa Irranaa</div></a>
+  <a class="t latn"
+     href="../person/pe_b5tmcbcj.html">Misgaanuu Gulummaa Irranaa</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_m32z9g1x.html"><img src="../assets/portraits/pe_m32z9g1x.jpg" alt="Portrait of Mistre Aderaw" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_m32z9g1x.html">Mistre Aderaw</a>
+  
+  <span class="a">1 work</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_v6g2q3js.html"><div class="placeholder">Mitiku Belachew</div></a>
+  <a class="t latn"
+     href="../person/pe_v6g2q3js.html">Mitiku Belachew</a>
+  
+  <span class="a">0 works</span>
+</li></ul><div class="pager"><a href="page-6.html">&larr; previous</a><span class="spacer"></span><span>page 7 of 11 · 605 records</span><span class="spacer"></span><a href="page-8.html">next &rarr;</a></div>
+<footer>
+  <span>964 works · 605 people</span>
+  <span>Every record is a draft</span>
+  <span>Built from commit 83a93da6</span>
+</footer>
+</div></body></html>

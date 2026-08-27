@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Latn",
+  "text": "ሰው ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "azizshifa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ba5a2eqa",
+ "id": "pe_ba5a2eqa",
+ "identifiers": {
+  "afroread_id": [
+   "4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aziz shifa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አዚዝ ሺፋ"
+  },
+  "romanized": "aziz shifa",
+  "sort_key": "አዚዝሺፋ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 13344,
+  "path": "assets/portraits/pe_ba5a2eqa.jpg",
+  "sha256": "f90fddaeda429e8dec20df1ea69799ffb34199bb4480607e00fe893ba2e29a69",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/29e8076c-be08-4e76-bf6f-f02b580dc28aAzizProfilePicture320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/4de9aa67-e0b0-4dbe-1b1b-08dbb9f8e196"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_374d9akc.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/50331488-c6b3-4485-8c75-1c632b2b32a2RasinFilegaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ba5a2eqa",
+     "name": "አዚዝ ሺፋ",
+     "role": "author",
+     "romanized": "aziz shifa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_374d9akc",
+   "id": "wk_374d9akc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "rasen felega",
+    "script": "Ethi",
+    "text": "ራስን ፍለጋ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

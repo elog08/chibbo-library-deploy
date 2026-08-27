@@ -1,0 +1,111 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "መብት አማረ በ1983 ዓ.ም አሶሳ ወረዳ አምባ ሁለት ቀበሌ ተወለደ የመጀመሪያና ሁለተኛ ደረጃ ትምህርቱን ሆሃ ቁጥር ሁለት ትምህርት ቤት የተከታተለ ሲሆን ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "mabatamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5bhqc9ea",
+ "id": "pe_5bhqc9ea",
+ "identifiers": {
+  "afroread_id": [
+   "2af76d96-19c2-41a8-1813-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2af76d96-19c2-41a8-1813-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2af76d96-19c2-41a8-1813-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2af76d96-19c2-41a8-1813-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2af76d96-19c2-41a8-1813-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mebet amare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መብት አማረ"
+  },
+  "romanized": "mebet amare",
+  "sort_key": "መብትአማረ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 47371,
+  "path": "assets/portraits/pe_5bhqc9ea.png",
+  "sha256": "84815edf4d472cc81945063fcb1f34e7d42bf3c6201a22432f42ab7f0c4de62a",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/26f33e95-587f-4289-9f65-6d6ae592a50bMebtAmareProfile320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/2af76d96-19c2-41a8-1813-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_th3sgvvd.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/015cf34d-0934-4c33-b309-8d011ae03f42MikreMotBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_5bhqc9ea",
+     "name": "መብት አማረ",
+     "role": "author",
+     "romanized": "mebet amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_th3sgvvd",
+   "id": "wk_th3sgvvd",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mekre",
+    "script": "Ethi",
+    "text": "ምክረ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

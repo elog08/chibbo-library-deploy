@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_e4td66zv",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "werisa"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qzah44c2",
+   "@type": "Person",
+   "name": "አለማየሁ ገላጋይ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%88%E1%88%AA%E1%88%B3.jpg",
+ "inLanguage": "am",
+ "name": "ወሪሳ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_114"
+  },
+  {
+   "@type": "Offer",
+   "price": "135",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_114"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_114"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_etks53q1",
+   "@type": "Book"
+  }
+ ]
+}

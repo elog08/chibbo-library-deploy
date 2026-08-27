@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ወይንሸት እምሬ በ 1983 አም በባህርዳር ከተማ ተወለደች የመጀመሪያ ደረጃ ትምህርቷን በእውቀት ፋና ትምህርት ቤት ተከታትላለች ሁለተኛ ደረጃ ትም... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "wayanshatamra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j4mkptj1",
+ "id": "pe_j4mkptj1",
+ "identifiers": {
+  "afroread_id": [
+   "6ff8ae4b-53e2-4b79-f257-08db18435bab"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6ff8ae4b-53e2-4b79-f257-08db18435bab",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6ff8ae4b-53e2-4b79-f257-08db18435bab"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "6ff8ae4b-53e2-4b79-f257-08db18435bab",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/6ff8ae4b-53e2-4b79-f257-08db18435bab"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "weyenshet emre",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወይንሸት እምሬ"
+  },
+  "romanized": "weyenshet emre",
+  "sort_key": "ወይንሸትእምሬ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 9834,
+  "path": "assets/portraits/pe_j4mkptj1.jpg",
+  "sha256": "9b2c76c2cfd2665fcff0929950498ad06f13580533a3046695928365a80faaa1",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/2a3196c4-cb39-4d44-938e-2eb9260a7362WeynshetEmira320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/6ff8ae4b-53e2-4b79-f257-08db18435bab"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ck8ydtdt.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/60a23f3f-a29c-4a28-a595-61239cbde3a1SirateGedamatCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_j4mkptj1",
+     "name": "ወይንሸት እምሬ",
+     "role": "author",
+     "romanized": "weyenshet emre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ck8ydtdt",
+   "id": "wk_ck8ydtdt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "serate gedamat",
+    "script": "Ethi",
+    "text": "ስርዓተ ገዳማት"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zg1mbtwy.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/b17c45a4-117e-4b78-8354-1b1f068d531cYekoselLibCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_j4mkptj1",
+     "name": "ወይንሸት እምሬ",
+     "role": "author",
+     "romanized": "weyenshet emre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zg1mbtwy",
+   "id": "wk_zg1mbtwy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqosele leb",
+    "script": "Ethi",
+    "text": "የቆሰለ ልብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

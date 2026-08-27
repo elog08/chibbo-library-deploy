@@ -1,0 +1,71 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fgbq4q2d",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "Ke Ametsua Jerba"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jrmpwmk4",
+   "@type": "Person",
+   "name": "ኤደን ሀብታሙ"
+  }
+ ],
+ "datePublished": "2021-04-01",
+ "description": "ከአመጿ ጀርባ Ke Ametsua Jerba, a book by Eden Habtamu. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/03/Ke-Ametsua-Jerba.jpg",
+ "inLanguage": "am",
+ "name": "ከአመጿ ጀርባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/ke-ametsua-jerba-by-eden-habtamu/"
+  },
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/eefec44b-9dd4-4029-a09c-10bf32cb9be9"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/eefec44b-9dd4-4029-a09c-10bf32cb9be9"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/ke-ametsua-jerba-by-eden-habtamu/",
+  "https://afroreadapp.com/Store/Bookdetail/eefec44b-9dd4-4029-a09c-10bf32cb9be9"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xa888dtv",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_4ktyz609",
+   "@type": "Book"
+  }
+ ]
+}

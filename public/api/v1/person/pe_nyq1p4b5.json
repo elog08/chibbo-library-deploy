@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Jeff Pearce has traveled far and wide to get his unique stories. For his landmark history, PREVAIL, he tracked down survivors from the Italian-Ethiopian War of the 1930s and 40s, and he uncovered shocking records about Britain's role during the conflict in London archives. For WINGED BULL, his biography of archaeologist and adventurer Henry Layard,"
+ },
+ "extensions": {},
+ "fingerprint": "jafparca",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nyq1p4b5",
+ "id": "pe_nyq1p4b5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "jeff-pearce",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/jeff-pearce/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "jeff-pearce",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/jeff-pearce/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jeff Pearce"
+  },
+  "romanized": "Jeff Pearce",
+  "sort_key": "jeffpearce"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 19218,
+  "path": "assets/portraits/pe_nyq1p4b5.jpg",
+  "sha256": "fac4a5e81c72f93626d9d3dfcc7acb0debdb6979f1b75341ceeae611eec3c9ff",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Jeff-Pearce.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/jeff-pearce/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tfx9a25h.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/prevail.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_nyq1p4b5",
+     "name": "Jeff Pearce",
+     "role": "author",
+     "romanized": "Jeff Pearce"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2017-07-28",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_tfx9a25h",
+   "id": "wk_tfx9a25h",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Prevail: The Inspiring Story of Ethiopia's Victory over Mussolini's Invasion, 1935-1941",
+    "script": "Latn",
+    "text": "Prevail: The Inspiring Story of Ethiopia's Victory over Mussolini's Invasion, 1935-1941"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rzf2a8p1",
+ "@type": "Book",
+ "about": [
+  "Literature",
+  "Poetry"
+ ],
+ "alternateName": [
+  "yeberhan kenfoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y4yb8sp6",
+   "@type": "Person",
+   "name": "ኤፍሬም ስዩም"
+  }
+ ],
+ "datePublished": "2004?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/39076a80-cbe6-44d9-bd8c-2baa051a5a35LuminousWingsCover400.jpg",
+ "inLanguage": "am",
+ "name": "የብርሃን ክንፎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/39076a80-cbe6-44d9-bd8c-2baa051a5a35"
+  },
+  {
+   "@type": "Offer",
+   "price": "0",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/39076a80-cbe6-44d9-bd8c-2baa051a5a35"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/39076a80-cbe6-44d9-bd8c-2baa051a5a35"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wa147zyx",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Zyyy",
+  "text": "-"
+ },
+ "extensions": {},
+ "fingerprint": "haymanotdilnasaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jnzvwjnx",
+ "id": "pe_jnzvwjnx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "haymanot-dilnesaw",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/haymanot-dilnesaw/"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "addisbooks_author",
+   "ref": "haymanot-dilnesaw",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://addisbooks.com/authors/haymanot-dilnesaw/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Haymanot Dilnesaw"
+  },
+  "romanized": "Haymanot Dilnesaw",
+  "sort_key": "haymanotdilnesaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 123354,
+  "path": "assets/portraits/pe_jnzvwjnx.jpg",
+  "sha256": "857922decdc674955cefa0dab7b29c8ad1ea485150bbb63b8d564bde33683d27",
+  "source_url": "https://addisbooks.com/wp-content/uploads/2024/02/addisbooks-website.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "addisbooks",
+  "source_url": "https://addisbooks.com/authors/haymanot-dilnesaw/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7sttt12n.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/01/book1.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_jnzvwjnx",
+     "name": "Haymanot Dilnesaw",
+     "role": "author",
+     "romanized": "Haymanot Dilnesaw"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2026-01-12",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_7sttt12n",
+   "id": "wk_7sttt12n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kesaqochish Mehal l l Haymanot Dilnesaw",
+    "script": "Ethi",
+    "text": "ከሳቆችሽ መኃል"
+   },
+   "type": "work",
+   "year": 2026
+  }
+ ]
+}

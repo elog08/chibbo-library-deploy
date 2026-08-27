@@ -1,0 +1,51 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p8pky315",
+ "@type": "Book",
+ "about": [
+  "Medical Science"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9bgfk50p",
+   "@type": "Person",
+   "name": "Dr. Fekadu Fullas"
+  }
+ ],
+ "datePublished": "2024-03-23",
+ "description": "A Treatise on Ethiopian Traditional Medicinal Plants, a book by Dr Fekadu Fullas.",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/ethiopian-medicine.jpg",
+ "inLanguage": "en",
+ "isbn": "9798320718972",
+ "name": "A Treatise on Ethiopian Traditional Medicinal Plants",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "60.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/a-treatise-on-ethiopian-traditional-medicinal-plants/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/108785251X"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/a-treatise-on-ethiopian-traditional-medicinal-plants/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_27hpskq1",
+   "@type": "Book"
+  }
+ ]
+}

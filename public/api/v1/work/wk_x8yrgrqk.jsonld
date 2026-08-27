@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_x8yrgrqk",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature"
+ ],
+ "alternateName": [
+  "tonetor"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rc64jrs1",
+   "@type": "Person",
+   "name": "ቤካ ሙሉነህ"
+  }
+ ],
+ "datePublished": "2015?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/240547c4-4931-4c0f-adc6-ac018f7a89edTonetorBook Cover.png",
+ "inLanguage": "am",
+ "name": "ቶኔቶር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "104.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/240547c4-4931-4c0f-adc6-ac018f7a89ed"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/240547c4-4931-4c0f-adc6-ac018f7a89ed"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/240547c4-4931-4c0f-adc6-ac018f7a89ed"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_spf7kjhq",
+   "@type": "Book"
+  }
+ ]
+}

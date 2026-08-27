@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ቴዎድሮስ ዘዋለ በሙያው አርቲስት ነው ሙዚቃ ይጫወታል የሬጌ ስልት አቀንቃኝ የግጥምና ዜማ ደራሲ እንዲሁም ፕሮዲውሰር ሲሆን ዳንስ ጎንደር ላይ ህገ ህ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tawodroszawala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pssazw4g",
+ "id": "pe_pssazw4g",
+ "identifiers": {
+  "afroread_id": [
+   "2477c003-433a-4b94-97af-08da8327c629"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2477c003-433a-4b94-97af-08da8327c629",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2477c003-433a-4b94-97af-08da8327c629"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "2477c003-433a-4b94-97af-08da8327c629",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/2477c003-433a-4b94-97af-08da8327c629"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tewodros zewale",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቴዎድሮስ ዘዋለ"
+  },
+  "romanized": "tewodros zewale",
+  "sort_key": "ቴዎድሮስዘዋለ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 61054,
+  "path": "assets/portraits/pe_pssazw4g.png",
+  "sha256": "0e3d0b4d4b96f5a3c4ff05930c47fa5d4929da49f3959cdf196b6eaec0133210",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/d8a9c0b5-e9c4-4f46-a34b-c47db51d4939TewodrosZewaleProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/2477c003-433a-4b94-97af-08da8327c629"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tx95t35z.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/35588d02-dd07-4128-bc6c-3df8bbefe1b3TewodrosZewaleBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pssazw4g",
+     "name": "ቴዎድሮስ ዘዋለ",
+     "role": "author",
+     "romanized": "tewodros zewale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tx95t35z",
+   "id": "wk_tx95t35z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "nirvana",
+    "script": "Ethi",
+    "text": "ኒርቫና"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

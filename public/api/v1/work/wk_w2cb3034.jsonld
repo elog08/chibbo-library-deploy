@@ -1,0 +1,57 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w2cb3034",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Literature",
+  "Philosophy",
+  "Psychology"
+ ],
+ "alternateName": [
+  "wenjelna fered"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3a2220q4",
+   "@type": "Person",
+   "name": "ዩኒቲ መፅሐፍ መደብር ፋሲካ"
+  }
+ ],
+ "datePublished": "2012?",
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/ccf00ece-df3a-4687-87de-8da902d10e82WenjelEnaFirdBookCover.png",
+ "inLanguage": "am",
+ "name": "ወንጀልና ፍርድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "105.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ccf00ece-df3a-4687-87de-8da902d10e82"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ccf00ece-df3a-4687-87de-8da902d10e82"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/ccf00ece-df3a-4687-87de-8da902d10e82"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_whktkd9f",
+   "@type": "Book"
+  }
+ ]
+}

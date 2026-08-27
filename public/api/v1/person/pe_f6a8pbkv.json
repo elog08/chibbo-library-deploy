@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ተስፋዬ አየለ በኢትዮጵያ ዘመናዊ ስነ-ፅሑፍ ውስጥ የራሳቸውን አሻራ ለማኖር ከሚተጉ ወጣት ፀሐፊያን መካከል አንዱ ሲሆን አምስት መፅሐፍትን ለአንባቢያን በማድረ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "tasfayayala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f6a8pbkv",
+ "id": "pe_f6a8pbkv",
+ "identifiers": {
+  "afroread_id": [
+   "c4cce9b2-9b33-474b-987f-08da6b7fd9aa"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "c4cce9b2-9b33-474b-987f-08da6b7fd9aa",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/c4cce9b2-9b33-474b-987f-08da6b7fd9aa"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "c4cce9b2-9b33-474b-987f-08da6b7fd9aa",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/c4cce9b2-9b33-474b-987f-08da6b7fd9aa"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye ayele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ አየለ"
+  },
+  "romanized": "tesfaye ayele",
+  "sort_key": "ተስፋዬአየለ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 52632,
+  "path": "assets/portraits/pe_f6a8pbkv.png",
+  "sha256": "61b9d99403b9c7febd85381c20a9a2dd80517e21557d8a8e57cd5dc6cac7cd62",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/0c79b9ce-5c12-45df-a9b1-94737234c165TesfayeProfilePic224w420H.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/c4cce9b2-9b33-474b-987f-08da6b7fd9aa"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bq1qnhwe.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/6fef220e-4caa-4169-8634-ee507e5e9273MengedegnaBaleKinaeCoverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f6a8pbkv",
+     "name": "ተስፋዬ አየለ",
+     "role": "author",
+     "romanized": "tesfaye ayele"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bq1qnhwe",
+   "id": "wk_bq1qnhwe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mengedenyaw baleqne",
+    "script": "Ethi",
+    "text": "መንገደኛው ባለቅኔ"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_x41vqseg.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/52365e05-b3ba-474a-9385-3bf9279a3645OddaJala.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f6a8pbkv",
+     "name": "ተስፋዬ አየለ",
+     "role": "author",
+     "romanized": "tesfaye ayele"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x41vqseg",
+   "id": "wk_x41vqseg",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Odaa Jala",
+    "script": "Latn",
+    "text": "Odaa Jala"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

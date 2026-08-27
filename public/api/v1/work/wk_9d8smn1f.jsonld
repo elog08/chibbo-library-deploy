@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_9d8smn1f",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "lasebbet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_m2vgk60y",
+   "@type": "Person",
+   "name": "ፍሬዓለም ሺባባው"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%88%8B%E1%88%B5%E1%89%A5%E1%89%A0%E1%89%B5.jpg",
+ "inLanguage": "am",
+ "name": "ላስብበት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "112.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_109"
+  },
+  {
+   "@type": "Offer",
+   "price": "112.5",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_109"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_109"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_es2kfr69",
+   "@type": "Book"
+  }
+ ]
+}

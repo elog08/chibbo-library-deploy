@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አቶ አለሙ አማረ በመስከረም 15 ቀን 1961ዓ.ም ተወለዱ የመጀመሪያና ሁለተኛ ደረጃ ትምህርታቸውን በመቱ እና በአዲስ አበበ የተማሩ ሲሆን በሊደርሽፕ (መሪ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "alamuamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w8v8148g",
+ "id": "pe_w8v8148g",
+ "identifiers": {
+  "afroread_id": [
+   "33db6343-123a-43ef-6d35-08da75de59fe"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "33db6343-123a-43ef-6d35-08da75de59fe",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/33db6343-123a-43ef-6d35-08da75de59fe"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "33db6343-123a-43ef-6d35-08da75de59fe",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/33db6343-123a-43ef-6d35-08da75de59fe"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "alemu amare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አለሙ አማረ"
+  },
+  "romanized": "alemu amare",
+  "sort_key": "አለሙአማረ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 66901,
+  "path": "assets/portraits/pe_w8v8148g.png",
+  "sha256": "713f66c2e79b1e8555acbd9c75abfc8bc3fde70b86861775badc4fb4ac8798e1",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2022/1bace178-0df0-46cc-a719-d3343312f8daAlemuAmareProfilePic320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/33db6343-123a-43ef-6d35-08da75de59fe"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f2kdwvx4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/8db10be6-3796-4893-84fe-405768168c80AlemuAmareBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_w8v8148g",
+     "name": "አለሙ አማረ",
+     "role": "author",
+     "romanized": "alemu amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f2kdwvx4",
+   "id": "wk_f2kdwvx4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "amerar ena teteyaqinet",
+    "script": "Ethi",
+    "text": "አመራር እና ተጠያቂነት"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_z05m3hk4.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/7c7e109c-46b4-473d-90e1-ea4910b05274coverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_w8v8148g",
+     "name": "አለሙ አማረ",
+     "role": "author",
+     "romanized": "alemu amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z05m3hk4",
+   "id": "wk_z05m3hk4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegechet afetatna ayayaz tebeb",
+    "script": "Ethi",
+    "text": "የግጭት አፈታትና አያያዝ ጥበብ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8y6c2h82",
+ "@type": "Book",
+ "about": [
+  "Biography"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qq737f3d",
+   "@type": "Person",
+   "name": "Dr. Amare Tegbaru"
+  }
+ ],
+ "datePublished": "2021-12-23",
+ "description": "Tsehayu Enquo Selassie a book by Dr Amare Tegbaru. Addis Books! &amp;nbsp;",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/04/tsehayu-enq.jpg",
+ "inLanguage": "am",
+ "isbn": "9789151987071",
+ "name": "Tsehayu Enquo Selassie",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "29.86",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/tsehayu-enquo-selassie-by-dr-amare-tegbaru/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/9163962756"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/tsehayu-enquo-selassie-by-dr-amare-tegbaru/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xfvc3mqt",
+   "@type": "Book"
+  }
+ ]
+}

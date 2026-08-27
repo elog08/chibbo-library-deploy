@@ -1,0 +1,110 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሙሉቀን አሰግደው ቸኮል(ዶ/ር) ጋዜጠኛ በደብረ ማርቆስ ዩኒቨርሲቲ የሚዲያና ኮሙዩኒኬሽን ረዳት ፕሮፌሰር ደራሲ ተመራማሪ የሚዲያ አሰልጣኝነታቸው ሞያቸው... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "muluqanasagdawchakoldora",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fqjrsmas",
+ "id": "pe_fqjrsmas",
+ "identifiers": {
+  "afroread_id": [
+   "379c25ac-7669-4b31-4079-08db11e44ff6"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "379c25ac-7669-4b31-4079-08db11e44ff6",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/379c25ac-7669-4b31-4079-08db11e44ff6"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "379c25ac-7669-4b31-4079-08db11e44ff6",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/379c25ac-7669-4b31-4079-08db11e44ff6"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "muluqen asegdew chekol do/re",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሙሉቀን አሰግደው ቸኮል ዶ/ር"
+  },
+  "romanized": "muluqen asegdew chekol do/re",
+  "sort_key": "ሙሉቀንአሰግደውቸኮልዶር"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 65571,
+  "path": "assets/portraits/pe_fqjrsmas.png",
+  "sha256": "55d3293cff58223a94c01e02f1fc85d2084125510351d1b5b6aa1315fa30c57a",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/0f566738-3d1d-45ae-b331-26d49a2f53c5DrMulukenAsegidewPicH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/379c25ac-7669-4b31-4079-08db11e44ff6"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6k41rv57.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/dbecfd7d-4c54-4e1e-91f8-aad8e5878debCoverYeGazetegnnetEnaTegbabotMeseretawiEsabewoch.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fqjrsmas",
+     "name": "ሙሉቀን አሰግደው ቸኮል ዶ/ር",
+     "role": "author",
+     "romanized": "muluqen asegdew chekol do/re"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6k41rv57",
+   "id": "wk_6k41rv57",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegazetenynetna tegbabot meseretawi esabewoch",
+    "script": "Ethi",
+    "text": "የጋዜጠኝነትና ተግባቦት መሠረታዊ እሳቤዎች"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

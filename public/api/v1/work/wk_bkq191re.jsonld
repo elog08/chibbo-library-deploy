@@ -1,0 +1,55 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bkq191re",
+ "@type": "Book",
+ "about": [
+  "Fiction",
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "yeatekelet bota gwadenyamoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/ae3a9d80-98b8-42d3-9c56-2e9b65588e0bGardenFriendsAmharicCover.png",
+ "inLanguage": "am",
+ "name": "የአትክልት ቦታ ጓደኛሞች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "42.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ae3a9d80-98b8-42d3-9c56-2e9b65588e0b"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/ae3a9d80-98b8-42d3-9c56-2e9b65588e0b"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/ae3a9d80-98b8-42d3-9c56-2e9b65588e0b"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_t4n8vzmk",
+   "@type": "Book"
+  }
+ ]
+}

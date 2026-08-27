@@ -1,0 +1,64 @@
+{
+ "extensions": {},
+ "fingerprint": "naburadyashaqofaksum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w5q8sgrd",
+ "id": "pe_w5q8sgrd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nebura'ed Yeshaq of Aksum"
+  },
+  "romanized": "Nebura'ed Yeshaq of Aksum",
+  "sort_key": "neburaedyeshaqofaksum"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Credited as compiler of ክብረ ነገሥት"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "curated-canon"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w5q8sgrd",
+     "name": "Nebura'ed Yeshaq of Aksum",
+     "role": "author",
+     "romanized": "Nebura'ed Yeshaq of Aksum"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1321?",
+    "flags": []
+   },
+   "flags": [
+    "date-uncertain"
+   ],
+   "href": "https://chibbo.app/work/wk_8gz428tt",
+   "id": "wk_8gz428tt",
+   "language": "gez",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kebra Nagast",
+    "script": "Ethi",
+    "text": "ክብረ ነገሥት"
+   },
+   "type": "work",
+   "year": 1321
+  }
+ ]
+}

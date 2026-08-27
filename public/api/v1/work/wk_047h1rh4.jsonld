@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_047h1rh4",
+ "@type": "Book",
+ "about": [
+  "Kids",
+  "Story"
+ ],
+ "alternateName": [
+  "beheywet yetemolan nen"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mmzc7fc1",
+   "@type": "Person",
+   "name": "Ready Set Go Books"
+  }
+ ],
+ "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/aeabe51a-3280-4831-b509-718ca2f781acWeAreFullOfLifeAmharicCover.png",
+ "inLanguage": "am",
+ "name": "በህይወት የተሞላን ነን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "70.00",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/aeabe51a-3280-4831-b509-718ca2f781ac"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "afroread_book"
+   },
+   "url": "https://afroreadapp.com/Store/Bookdetail/aeabe51a-3280-4831-b509-718ca2f781ac"
+  }
+ ],
+ "sameAs": [
+  "https://afroreadapp.com/Store/Bookdetail/aeabe51a-3280-4831-b509-718ca2f781ac"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_aga00r9d",
+   "@type": "Book"
+  }
+ ]
+}

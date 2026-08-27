@@ -1,0 +1,153 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ዮናስ ታምሩ ገብሬ ዮናስ ታምሩ ገብሬ በ1986 ዓ.ም. ቦንጋ ካፋ ተወለደ የመጀመሪያ ዲግሪውን በ2007 ዓ.ም. ከወልቂጤ ዩኒቨርሲቲ በእንግልዚኛ ቋንቋና ሥ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "yonastamrugabra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_37skhjj7",
+ "id": "pe_37skhjj7",
+ "identifiers": {
+  "afroread_id": [
+   "bdd8da1f-5136-4784-181d-08db45200aca"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "bdd8da1f-5136-4784-181d-08db45200aca",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/bdd8da1f-5136-4784-181d-08db45200aca"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "bdd8da1f-5136-4784-181d-08db45200aca",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/bdd8da1f-5136-4784-181d-08db45200aca"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yonas tamru gebre",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮናስ ታምሩ ገብሬ"
+  },
+  "romanized": "yonas tamru gebre",
+  "sort_key": "ዮናስታምሩገብሬ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 65937,
+  "path": "assets/portraits/pe_37skhjj7.png",
+  "sha256": "9e7c41f16dcfe881d61dfda342b8dc525b01ce69bbdae7546583b2988ca74782",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/9d6c3b81-1775-427c-b6d9-a2fa95a1514cYonasTamiru320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/bdd8da1f-5136-4784-181d-08db45200aca"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_aa04bt6v.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a65e94c7-1c58-494d-bbce-a543c219c495TimreGetamianKaleSimetCover400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qwkkf4z3",
+     "name": "ዮናስ መስፍን",
+     "role": "author",
+     "romanized": "yonas mesefen"
+    },
+    {
+     "id": "pe_ndpkmnhw",
+     "name": "እመቤት መንግስቴ",
+     "role": "author",
+     "romanized": "emebet menegeste"
+    },
+    {
+     "id": "pe_ywq41zdh",
+     "name": "በረከት ባይጨክን",
+     "role": "author",
+     "romanized": "bereket baycheken"
+    },
+    {
+     "id": "pe_7e3zzs54",
+     "name": "ፍቃዱ አስራት",
+     "role": "author",
+     "romanized": "feqadu asrat"
+    },
+    {
+     "id": "pe_m19khgsa",
+     "name": "መ/ርት ኮከብ ብርሃኑ",
+     "role": "author",
+     "romanized": "me/ret kokeb berhanu"
+    },
+    {
+     "id": "pe_yxhvryse",
+     "name": "መ/ር ፀጋዬ ታደለ",
+     "role": "author",
+     "romanized": "me/re tsegaye tadele"
+    },
+    {
+     "id": "pe_37skhjj7",
+     "name": "ዮናስ ታምሩ ገብሬ",
+     "role": "author",
+     "romanized": "yonas tamru gebre"
+    },
+    {
+     "id": "pe_jbnnqp0k",
+     "name": "በእምነት በለጠ",
+     "role": "author",
+     "romanized": "beemnet belete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_aa04bt6v",
+   "id": "wk_aa04bt6v",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temre getamiyan",
+    "script": "Ethi",
+    "text": "ጥምረ ገጣሚያን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

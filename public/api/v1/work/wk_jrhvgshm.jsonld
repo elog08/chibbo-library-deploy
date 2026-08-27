@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jrhvgshm",
+ "@type": "Book",
+ "about": [
+  "Poetry"
+ ],
+ "alternateName": [
+  "yeberhan temona"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yty1z54z",
+   "@type": "Person",
+   "name": "ሳባ ሲሳይ"
+  }
+ ],
+ "datePublished": "2026-01-06",
+ "description": "የብርሃን ጥሞና Ye Birhan Temona a book by Saba Sisay. Addis Books!",
+ "image": "https://addisbooks.com/wp-content/uploads/2026/03/yebirhantemona.jpg",
+ "inLanguage": "am",
+ "isbn": "9789999009768",
+ "name": "የብርሃን ጥሞና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "addisbooks"
+   },
+   "url": "https://addisbooks.com/book/ye-birhan-temona-by-saba-sisay/"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "amazon"
+   },
+   "url": "https://www.amazon.com/dp/B0CGL4NL6K"
+  }
+ ],
+ "sameAs": [
+  "https://addisbooks.com/book/ye-birhan-temona-by-saba-sisay/"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2afqyf0x",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "bio": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ደራሲ ዶ/ር ሰሎሞን በርሄ በ1950 ዓ.ም. ተወለደ በትውልድ ከተማው ዳዊት ደግሞ እስከ አስራ ሁለተኛ ክፍል ከተማረ በኋላ ጎንደር ህክምና ሳይንስ ኮሌጅ በመ... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "salomonbarhadora",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xnbnsf97",
+ "id": "pe_xnbnsf97",
+ "identifiers": {
+  "afroread_id": [
+   "1024b727-0974-4539-2990-08db3adf6d4d"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1024b727-0974-4539-2990-08db3adf6d4d",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1024b727-0974-4539-2990-08db3adf6d4d"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "1024b727-0974-4539-2990-08db3adf6d4d",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/1024b727-0974-4539-2990-08db3adf6d4d"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selomon berhe do/re",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን በርሄ ዶ/ር"
+  },
+  "romanized": "selomon berhe do/re",
+  "sort_key": "ሰሎሞንበርሄዶር"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 10974,
+  "path": "assets/portraits/pe_xnbnsf97.jpg",
+  "sha256": "8a9074a6d605643b9392a09b9aa71554e36e0abe94be0b933e0444a3f0d8d61d",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2023/8b1e39a9-d188-4d7b-9506-c84766011fb7SolomonBerehe320.jpg"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/1024b727-0974-4539-2990-08db3adf6d4d"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b8cknktm.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1b2e339b-50e3-4911-9218-471824225486KenBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xnbnsf97",
+     "name": "ሰሎሞን በርሄ ዶ/ር",
+     "role": "author",
+     "romanized": "selomon berhe do/re"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b8cknktm",
+   "id": "wk_b8cknktm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qen",
+    "script": "Ethi",
+    "text": "ቀን"
+   },
+   "type": "work",
+   "year": 2003
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fgp8wcf2.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/642fbdfa-1ebe-41d0-88a6-f58c570e2cb1YeEthiopiaAderaCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xnbnsf97",
+     "name": "ሰሎሞን በርሄ ዶ/ር",
+     "role": "author",
+     "romanized": "selomon berhe do/re"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fgp8wcf2",
+   "id": "wk_fgp8wcf2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya adera",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ አደራ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

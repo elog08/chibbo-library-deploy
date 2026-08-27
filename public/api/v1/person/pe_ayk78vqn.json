@@ -1,0 +1,120 @@
+{
+ "bio": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "Simple, colorful books that contain visual representations of our culture and written in Amharic are... Read More"
+ },
+ "extensions": {},
+ "fingerprint": "malkamadia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ayk78vqn",
+ "id": "pe_ayk78vqn",
+ "identifiers": {
+  "afroread_id": [
+   "36c80df3-5bfc-450c-37d7-08d9b2e0bdbc"
+  ]
+ },
+ "links": [
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "36c80df3-5bfc-450c-37d7-08d9b2e0bdbc",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/36c80df3-5bfc-450c-37d7-08d9b2e0bdbc"
+  },
+  {
+   "checked": "2026-08-26",
+   "provider": "afroread",
+   "ref": "36c80df3-5bfc-450c-37d7-08d9b2e0bdbc",
+   "rel": "about",
+   "status": "ok",
+   "url": "https://afroreadapp.com/Store/AuthorStore/36c80df3-5bfc-450c-37d7-08d9b2e0bdbc"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Melkam Media"
+  },
+  "romanized": "Melkam Media",
+  "sort_key": "melkammedia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "portrait": {
+  "bytes": 11785,
+  "path": "assets/portraits/pe_ayk78vqn.png",
+  "sha256": "f5410d0b81b137a53da6486ffe1edcafda1507161e643f122aaf2fe1d4762589",
+  "source_url": "https://afroreadstoragepd.blob.core.windows.net/authorprofilefiles/2021/e978a03d-e668-4e2e-9b5b-420a234db3b1MelkaMedaiProffilPicH320.png"
+ },
+ "provenance": {
+  "retrieved": "2026-08-26",
+  "source": "afroread",
+  "source_url": "https://afroreadapp.com/Store/AuthorStore/36c80df3-5bfc-450c-37d7-08d9b2e0bdbc"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_25dy2q4y.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/d20830d7-b454-452b-951b-ea4d464b2603BrotherJohnCoverH400.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ayk78vqn",
+     "name": "Melkam Media",
+     "role": "author",
+     "romanized": "Melkam Media"
+    }
+   ],
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_25dy2q4y",
+   "id": "wk_25dy2q4y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wenedme yaqob",
+    "script": "Ethi",
+    "text": "ወንድሜ ያቆብ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_tnbm8hch.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/0fd84b9d-5647-4a77-a184-be4879111c24AmharicCoverH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ayk78vqn",
+     "name": "Melkam Media",
+     "role": "author",
+     "romanized": "Melkam Media"
+    }
+   ],
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_tnbm8hch",
+   "id": "wk_tnbm8hch",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "amarnya",
+    "script": "Ethi",
+    "text": "አማርኛ"
+   },
+   "type": "work"
+  }
+ ]
+}

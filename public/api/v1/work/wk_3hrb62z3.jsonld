@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3hrb62z3",
+ "@type": "Book",
+ "about": [
+  "Literature and Fiction"
+ ],
+ "alternateName": [
+  "yedem enba"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rnh6w0hy",
+   "@type": "Person",
+   "name": "ዳዊት ወልደ ጊዮር? - ደበበ እሸቱ"
+  }
+ ],
+ "image": "https://hahubooks.com/resource/img/%E1%8B%A8%E1%8B%B0%E1%88%9D_%E1%8B%95%E1%8A%95%E1%89%A3.jpg",
+ "inLanguage": "am",
+ "name": "የደም ዕንባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_111"
+  },
+  {
+   "@type": "Offer",
+   "price": "108",
+   "priceCurrency": "ETB",
+   "seller": {
+    "@type": "Organization",
+    "name": "hahubooks"
+   },
+   "url": "https://hahubooks.com/single-product.php?jbook_code=jb_111"
+  }
+ ],
+ "sameAs": [
+  "https://hahubooks.com/single-product.php?jbook_code=jb_111"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1wk1s5x5",
+   "@type": "Book"
+  }
+ ]
+}
