@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "dorawadajanahmaharana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8qt5my92",
+ "id": "pe_8qt5my92",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Dr Wodajeneh Meharene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ወዳጄነህ መሐረነ"
+  },
+  "romanized": "Dr Wodajeneh Meharene",
+  "sort_key": "ዶርወዳጄነህመሀረነ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የማርያም_ታላቅ_አእምሮ_በዶር_ወዳጄነህ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6be3a406625557d0cb261b4f2acd31adf252ab1fa6821ff3fc62776ddb6e1519",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8d0t1h00.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8d0t1h00.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8qt5my92",
+     "name": "ዶ/ር ወዳጄነህ መሐረነ",
+     "role": "author",
+     "romanized": "Dr Wodajeneh Meharene"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8d0t1h00",
+   "id": "wk_8d0t1h00",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemaryam talaq aemro",
+    "script": "Ethi",
+    "text": "የማርያም ታላቅ አእምሮ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

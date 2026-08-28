@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "winastancharachal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_yyesp2pd",
+ "id": "pe_yyesp2pd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "winesten cherechel",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዊንስተን ቸርችል"
+  },
+  "romanized": "winesten cherechel",
+  "sort_key": "ዊንስተንቸርችል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የዐረቦችና_እስራዔል_የ6ቱ_ቀን_ጦርነት_ማሞ_ውድነህ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "78ba04fccafb7d54e912861926519640f581f9ea0e76e168f80ec227ecda1bdd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_nya5ny29.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nya5ny29.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t7mhryvt",
+     "name": "ራንዶልፍ ቸርችል",
+     "role": "author",
+     "romanized": "randolef cherechel"
+    },
+    {
+     "id": "pe_yyesp2pd",
+     "name": "ዊንስተን ቸርችል",
+     "role": "author",
+     "romanized": "winesten cherechel"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_nya5ny29",
+   "id": "wk_nya5ny29",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yearebochna esrael ye6 qen tornet",
+    "script": "Ethi",
+    "text": "የአረቦችና እስራኤል የ፮ ቀን ጦርነት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

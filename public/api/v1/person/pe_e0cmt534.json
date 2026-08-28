@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "tashomadamtaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_e0cmt534",
+ "id": "pe_e0cmt534",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "teshome damtew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተሾመ ዳምጠው"
+  },
+  "romanized": "teshome damtew",
+  "sort_key": "ተሾመዳምጠው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሞገድ - ኸርቪንግ ዋላስ.pdf",
+  "Read from the title page of እፎይታ - አሌክሳንደር ዱማስ ፔሬ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1fe39920b419315a998671a1e28e3a1e02d5b309bdaae2ff91976af5beff2087",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e42gxwen.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e42gxwen.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bw6g393v",
+     "name": "ኸርቪንግ ዋላስ",
+     "role": "author",
+     "romanized": "kervineg walas"
+    },
+    {
+     "id": "pe_e0cmt534",
+     "name": "ተሾመ ዳምጠው",
+     "role": "author",
+     "romanized": "teshome damtew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_e42gxwen",
+   "id": "wk_e42gxwen",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "moged",
+    "script": "Ethi",
+    "text": "ሞገድ"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_qpjs2gcc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qpjs2gcc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_aaayj7d3",
+     "name": "አሌክሳንደር ዱማስ",
+     "role": "author",
+     "romanized": "aleksander dumas"
+    },
+    {
+     "id": "pe_e0cmt534",
+     "name": "ተሾመ ዳምጠው",
+     "role": "author",
+     "romanized": "teshome damtew"
+    },
+    {
+     "id": "pe_jn4fjxgf",
+     "name": "ተሾመ ጻምጠው",
+     "role": "author",
+     "romanized": "teshome tsamtew"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qpjs2gcc",
+   "id": "wk_qpjs2gcc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "efoyta",
+    "script": "Ethi",
+    "text": "እፎይታ"
+   },
+   "type": "work"
+  }
+ ]
+}

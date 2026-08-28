@@ -13,8 +13,19 @@
    "@id": "https://chibbo.app/person/pe_2pxe4qa4",
    "@type": "Person",
    "name": "ሀኒም ኤልያስ"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_s3sq0rf3",
+   "@type": "Person",
+   "name": "ተክሉ ጥላሁን"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_5bwr2wgn",
+   "@type": "Person",
+   "name": "Michael Dorsnin"
   }
  ],
+ "datePublished": "2017-09-11/2018-09-10",
  "image": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Science/bible-code.webp",
  "inLanguage": "am",
  "name": "ባይብል ኮድ",
@@ -30,6 +41,10 @@
    "url": "https://www.ethiobookreview.com/book/bible-code"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "ቡክ ላንድ አሳታሚና አከፋፋይ"
+ },
  "sameAs": [
   "https://www.ethiobookreview.com/book/bible-code"
  ],
@@ -37,6 +52,10 @@
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_vnfcgq27",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_245d9s2p",
    "@type": "Book"
   }
  ]

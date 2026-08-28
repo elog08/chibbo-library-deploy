@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "ayalnahmulatu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_vkjwezyj",
+ "id": "pe_vkjwezyj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ayalneh mulatu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አያልነህ ሙላቱ"
+  },
+  "romanized": "ayalneh mulatu",
+  "sort_key": "አያልነህሙላቱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የስነ ፅሁፍ ቅኝት - አያልነህ ሙላቱ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9f96e69ee81413767ea2cd7c3b8e6a5c31de76f8136a11bf6f2e4e4b9513da20",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_na8pqp9p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_na8pqp9p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vkjwezyj",
+     "name": "አያልነህ ሙላቱ",
+     "role": "author",
+     "romanized": "ayalneh mulatu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1977?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_na8pqp9p",
+   "id": "wk_na8pqp9p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesne tsehuf qenyet",
+    "script": "Ethi",
+    "text": "የሥነ ጽሑፍ ቅኝት"
+   },
+   "type": "work",
+   "year": 1977
+  }
+ ]
+}

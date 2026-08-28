@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfasantayahu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_k09ssza3",
+ "id": "pe_k09ssza3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Tesfa Sintayehu Workneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋ ስንታየሁ"
+  },
+  "romanized": "Tesfa Sintayehu Workneh",
+  "sort_key": "ተስፋስንታየሁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጨዋታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2e02f78bf8883a43af8631ec41ec06b240231d2734172d78dc4a5fedc8e378a7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pa4va0cn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pa4va0cn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_k09ssza3",
+     "name": "ተስፋ ስንታየሁ",
+     "role": "author",
+     "romanized": "Tesfa Sintayehu Workneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pa4va0cn",
+   "id": "wk_pa4va0cn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "chewata tobiya beyerusalem",
+    "script": "Ethi",
+    "text": "ጨዋታ ጦቢያ በየሩሳሌም"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

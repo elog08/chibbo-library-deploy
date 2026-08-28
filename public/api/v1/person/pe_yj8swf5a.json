@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "walasdiwatalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_yj8swf5a",
+ "id": "pe_yj8swf5a",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "walas di. wateles",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዋላስ ዲ. ዋትልስ"
+  },
+  "romanized": "walas di. wateles",
+  "sort_key": "ዋላስዲዋትልስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የብልፅግና ሳይንሳዊ መንገድ  @amhbook1  .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b30e89b05eb0c83883c46f72d284fb9dd19704943e680970b5feecfda31c5b0d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c43mbbw6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c43mbbw6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_yj8swf5a",
+     "name": "ዋላስ ዲ. ዋትልስ",
+     "role": "author",
+     "romanized": "walas di. wateles"
+    },
+    {
+     "id": "pe_65pn3wb4",
+     "name": "ኢዮብ ካሣ",
+     "role": "author",
+     "romanized": "iyob kasa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c43mbbw6",
+   "id": "wk_c43mbbw6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebeletsegna sayensawi menged",
+    "script": "Ethi",
+    "text": "የብልፅግና ሳይንሳዊ መንገድ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "jamasalan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_k3dry788",
+ "id": "pe_k3dry788",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "jemes alen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጀምስ አለን"
+  },
+  "romanized": "jemes alen",
+  "sort_key": "ጀምስአለን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰውና ሀሳቡ - ጀምስ አለን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cda57ebf4d2f22bef920b08408b6b294f75145c1d1e215b07c9eb7cbf9cb5349",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_y9jgrfe9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_y9jgrfe9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_k3dry788",
+     "name": "ጀምስ አለን",
+     "role": "author",
+     "romanized": "jemes alen"
+    },
+    {
+     "id": "pe_03qfs9gn",
+     "name": "መክበብ አበበ",
+     "role": "author",
+     "romanized": "mekbeb abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_y9jgrfe9",
+   "id": "wk_y9jgrfe9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewna hasabu",
+    "script": "Ethi",
+    "text": "ሰውና ሃሣቡ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "doragatnatfalaqayana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bvh0wvce",
+ "id": "pe_bvh0wvce",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re getnet feleqe ayane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ጌትነት ፈለቀ አያኔ"
+  },
+  "romanized": "do/re getnet feleqe ayane",
+  "sort_key": "ዶርጌትነትፈለቀአያኔ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of andromeda 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8a2e4ba536511730b5261289710741a97b72bcface95e4275faaea41b0dc9337",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1ajf2n2e.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1ajf2n2e.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2ep3p39x",
+     "name": "መጋቤ ሐዲስ ዶ/ር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "megabe hedis do/re rodas tadese"
+    },
+    {
+     "id": "pe_bvh0wvce",
+     "name": "ዶ/ር ጌትነት ፈለቀ አያኔ",
+     "role": "author",
+     "romanized": "do/re getnet feleqe ayane"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1ajf2n2e",
+   "id": "wk_1ajf2n2e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Andromeda",
+    "script": "Ethi",
+    "text": "እንድሮሜዳ የጥንት ኢትዮጵያውያን የሕዋ ሥልጣኔ ከዘመናዊ ሳይንስ አንጻር"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

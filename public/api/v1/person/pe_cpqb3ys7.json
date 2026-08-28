@@ -1,0 +1,124 @@
+{
+ "extensions": {},
+ "fingerprint": "fasilyatbarak",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cpqb3ys7",
+ "id": "pe_cpqb3ys7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "fasil yetbarek",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፋሲል ይትባረክ"
+  },
+  "romanized": "fasil yetbarek",
+  "sort_key": "ፋሲልይትባረክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የስርቻው መጣጥፍ.pdf",
+  "Read from the title page of የስርቻው መጣጥፎች - ፋሲል ይትባረክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f75b27b5ad98e11639e2a95e6a11a62364d6a87074ccc264c1ba7ee81deee080",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8s5yt1c7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8s5yt1c7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cpqb3ys7",
+     "name": "ፋሲል ይትባረክ",
+     "role": "author",
+     "romanized": "fasil yetbarek"
+    },
+    {
+     "id": "pe_vsaf6fr1",
+     "name": "ፊዮዶር ዶስቶቪስኪ",
+     "role": "author",
+     "romanized": "fiyodor dostoviski"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_8s5yt1c7",
+   "id": "wk_8s5yt1c7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeserchaw metatef",
+    "script": "Ethi",
+    "text": "የስርቻው መጣጥፍ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xw20fy4p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xw20fy4p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9nsyr2qy",
+     "name": "ፊዮዶር ዶስቶየቭስኪ",
+     "role": "author",
+     "romanized": "fiyodor dostoyeveski"
+    },
+    {
+     "id": "pe_cpqb3ys7",
+     "name": "ፋሲል ይትባረክ",
+     "role": "author",
+     "romanized": "fasil yetbarek"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xw20fy4p",
+   "id": "wk_xw20fy4p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeserchaw metatef",
+    "script": "Ethi",
+    "text": "የስርቻው መጣጥፍ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

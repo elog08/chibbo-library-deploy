@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "diraz",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tgw9nkxe",
+ "id": "pe_tgw9nkxe",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "diraaz",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲራዓዝ"
+  },
+  "romanized": "diraaz",
+  "sort_key": "ዲራአዝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማዕዶተ ሕይወት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d4f3050ff0b1d275b7450eec12f639a7f53259fbe6e1041e18dbc5ff5e4c7581",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b8b01qm5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b8b01qm5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tgw9nkxe",
+     "name": "ዲራዓዝ",
+     "role": "author",
+     "romanized": "diraaz"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_b8b01qm5",
+   "id": "wk_b8b01qm5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "madote heywet",
+    "script": "Ethi",
+    "text": "ማዕዶተ ሕይወት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

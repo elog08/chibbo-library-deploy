@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "maryawitshamalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zsx9bvja",
+ "id": "pe_zsx9bvja",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "maryawit shemeles",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማርያዊት ሽመልስ"
+  },
+  "romanized": "maryawit shemeles",
+  "sort_key": "ማርያዊትሽመልስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አድማጭ_ያጣ_ጩኸት_መስፍን_ወልደማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e7943e33fc7761e7e89862be81b9723b26bba41ab51971d846daa333c72f6cc2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3dgvyggw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3dgvyggw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3vrvhw7q",
+     "name": "መስፍን ወልደ ማርያም",
+     "role": "author",
+     "romanized": "mesefen welde maryam"
+    },
+    {
+     "id": "pe_zsx9bvja",
+     "name": "ማርያዊት ሽመልስ",
+     "role": "author",
+     "romanized": "maryawit shemeles"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3dgvyggw",
+   "id": "wk_3dgvyggw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "admach yata chuket",
+    "script": "Ethi",
+    "text": "አድማጭ ያጣ ጩኸት"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

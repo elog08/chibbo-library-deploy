@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "danalhuk",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7skf6g1b",
+ "id": "pe_7skf6g1b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "D. Hoek",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል ሁክ"
+  },
+  "romanized": "D. Hoek",
+  "sort_key": "ዳንኤልሁክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አመፀኛው ክልስ - ዳንኤል ሁክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e5edd5412b85e8f62b25ffdb3a2362325e02d295af42597f8725692776d7b5c4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qpjbkywv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qpjbkywv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7skf6g1b",
+     "name": "ዳንኤል ሁክ",
+     "role": "author",
+     "romanized": "D. Hoek"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qpjbkywv",
+   "id": "wk_qpjbkywv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ametsenyaw keles",
+    "script": "Ethi",
+    "text": "አመፀኛው ክልስ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

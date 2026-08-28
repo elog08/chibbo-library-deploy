@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "gabrakarastosdasta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ezmnrs41",
+ "id": "pe_ezmnrs41",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Gebre Kristos Desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገብረ ክርስቶስ ደስታ"
+  },
+  "romanized": "Gebre Kristos Desta",
+  "sort_key": "ገብረክርስቶስደስታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መንገድ_ስጡኝ_ሰፊ_በገብረ_ክርስቶስ_ደስታ.pdf",
+  "Read from the title page of የገብረ ክርስቶስ ደስታ ግጥሞች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "de1181687f516e57cf0ca15c7f2b0ac121ef9dc87f47661614f103bba29fde51",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1xxqnc3g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1xxqnc3g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ezmnrs41",
+     "name": "ገብረ ክርስቶስ ደስታ",
+     "role": "author",
+     "romanized": "Gebre Kristos Desta"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_tfjm9dtn",
+     "name": "አምሃ አስፋው",
+     "role": "author",
+     "romanized": "Amha Asfaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1xxqnc3g",
+   "id": "wk_1xxqnc3g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegebrekerestos desta getmoch",
+    "script": "Ethi",
+    "text": "የገብረክርስቶስ ደስታ ግጥሞች"
+   },
+   "type": "work",
+   "year": 2005
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xp36ntge.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xp36ntge.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ezmnrs41",
+     "name": "ገብረ ክርስቶስ ደስታ",
+     "role": "author",
+     "romanized": "Gebre Kristos Desta"
+    },
+    {
+     "id": "pe_4zq9csb1",
+     "name": "ሄራን ሠረቀ ብርሃን",
+     "role": "author",
+     "romanized": "Heran Sereke-Brhan"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2006",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_xp36ntge",
+   "id": "wk_xp36ntge",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Expansive Pathway ... Lifetime Traveler",
+    "script": "Ethi",
+    "text": "መንገድ ስጡኝ ሰፊ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

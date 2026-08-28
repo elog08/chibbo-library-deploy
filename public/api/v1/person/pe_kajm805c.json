@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "ganadiyudin",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kajm805c",
+ "id": "pe_kajm805c",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "genadiy yudin",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጌናዲይ ዩዲን"
+  },
+  "romanized": "genadiy yudin",
+  "sort_key": "ጌናዲይዩዲን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኢህቲአንደር - አሌክሳንደር ቤላዬቭ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ca9cf193d67f7e1b8de8217b7f6b52df51eda0f5f8f25ced714cdf7ece3c0043",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_yx3fnavy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_yx3fnavy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_enjvr7x5",
+     "name": "አሌክሳንደር ቤላዬቭ",
+     "role": "author",
+     "romanized": "aleksander belayev"
+    },
+    {
+     "id": "pe_65bmf1bb",
+     "name": "ተስፋዬ ለማ",
+     "role": "author",
+     "romanized": "tesfaye lema"
+    },
+    {
+     "id": "pe_kajm805c",
+     "name": "ጌናዲይ ዩዲን",
+     "role": "author",
+     "romanized": "genadiy yudin"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1986",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_yx3fnavy",
+   "id": "wk_yx3fnavy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ahtiander",
+    "script": "Ethi",
+    "text": "አህቲአንደር"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

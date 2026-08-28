@@ -837,6 +837,10 @@
    "year": 2015
   },
   {
+   "cover": {
+    "path": "assets/covers/wk_m2ryn7zz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m2ryn7zz.png"
+   },
    "credits": [
     {
      "id": "pe_5v39ynzf",
@@ -850,6 +854,10 @@
     "edtf": "1954-09-11/1955-09-11",
     "flags": []
    },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
    "href": "https://chibbo.app/work/wk_m2ryn7zz",
    "id": "wk_m2ryn7zz",
    "language": "am",
@@ -1114,6 +1122,44 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_8989e1k8.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/a39df819-b59a-46e0-afd6-bef217840c63EmotilshalehuBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4wc8wgv2",
+     "name": "አንዱአለም ሰማው",
+     "role": "author",
+     "romanized": "andualem semaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8989e1k8",
+   "id": "wk_8989e1k8",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "emotelshalehu",
+    "script": "Ethi",
+    "text": "እሞትልሻለሁ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_1n5ebkzm.png",
     "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/f49b1a3f-9a5d-4f9a-b695-fd62b967b191EtalemH320.png"
    },
@@ -1168,6 +1214,9 @@
     "edtf": "2009-03-07",
     "flags": []
    },
+   "flags": [
+    "llm-extracted"
+   ],
    "href": "https://chibbo.app/work/wk_cv0a9vch",
    "id": "wk_cv0a9vch",
    "language": "am",
@@ -1539,7 +1588,8 @@
    },
    "flags": [
     "format-ebook",
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_q73q9701",
    "id": "wk_q73q9701",
@@ -2069,44 +2119,6 @@
     "text": "ጊዜ...ወይን...ጨረቃ"
    },
    "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_s7qh97mw.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/10bafbb8-bb42-4ef6-a9f0-93d9035b328fGizaeWineCherekaH400.png"
-   },
-   "credits": [
-    {
-     "id": "pe_qtzkdq03",
-     "name": "ሳባ መኩሪያ",
-     "role": "author",
-     "romanized": "saba mekuriya"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2013?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_s7qh97mw",
-   "id": "wk_s7qh97mw",
-   "language": "am",
-   "poetry": true,
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "gize...weyen...chereqa",
-    "script": "Ethi",
-    "text": "ጊዜ...ወይን...ጨረቃ"
-   },
-   "type": "work",
-   "year": 2013
   }
  ],
  "next": "/api/v1/poetry/page-2.json",
@@ -2114,5 +2126,5 @@
  "page_size": 60,
  "pages": 2,
  "prev": null,
- "total": 67
+ "total": 68
 }

@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "zamanayohanaszoskalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2tjmq76x",
+ "id": "pe_2tjmq76x",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "zemene yohannes (zoskales)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘመነ ዮሐንስ (ዞስካለስ)"
+  },
+  "romanized": "zemene yohannes (zoskales)",
+  "sort_key": "ዘመነዮሀንስዞስካለስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዘመነ ዮሀንስ (ዞስካለስ).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e98e0055f4dc5455bf88020c20069e698537e95b115d3bf05ae27faa0cab7052",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3v00rpd1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3v00rpd1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2tjmq76x",
+     "name": "ዘመነ ዮሐንስ (ዞስካለስ)",
+     "role": "author",
+     "romanized": "zemene yohannes (zoskales)"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3v00rpd1",
+   "id": "wk_3v00rpd1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zemene yohenes (zoskales)",
+    "script": "Ethi",
+    "text": "ዘመነ ዮሐንስ (ዞስካለስ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

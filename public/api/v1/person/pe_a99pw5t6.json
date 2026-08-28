@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyababa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_a99pw5t6",
+ "id": "pe_a99pw5t6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abiy abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቢይ አበበ"
+  },
+  "romanized": "abiy abebe",
+  "sort_key": "አቢይአበበ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አውቀን እንታረም - አቢይ አበበ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5e9b24f073b5ac20871d6f3a2a690636d014a30a8d53b0f9df43b433e57506cc",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_z7sxpmn9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_z7sxpmn9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a99pw5t6",
+     "name": "አቢይ አበበ",
+     "role": "author",
+     "romanized": "abiy abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1963-09-12/1964-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_z7sxpmn9",
+   "id": "wk_z7sxpmn9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "awqen entarem",
+    "script": "Ethi",
+    "text": "አውቀን እንታረም"
+   },
+   "type": "work",
+   "year": 1963
+  }
+ ]
+}

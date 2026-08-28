@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "dorabushayalaw",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_6ygy1z0f",
  "id": "pe_6ygy1z0f",
  "identifiers": {},
@@ -26,7 +28,11 @@
   "sort_key": "ዶርአቡሽአያለው"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ስኬታማ_የጥናት_ምስጢር_አቡሽ_አያሌው.pdf",
+  "Read from the title page of ዘ ማይንድ - ዶ_ር አቡሽ አያሌው.pdf",
+  "Read from the title page of የኮሮናው መብረቅ- ዶር አቡሽ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +41,99 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0gadht5t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0gadht5t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    },
+    {
+     "id": "pe_hbb1r72q",
+     "name": "ዶ/ር ቃልኪዳን ቅጣው",
+     "role": "author",
+     "romanized": "do/re qalkidan qetaw"
+    },
+    {
+     "id": "pe_bs4v7dzb",
+     "name": "ዮሴፍ ጥሩነህ",
+     "role": "author",
+     "romanized": "yosef teruneh"
+    },
+    {
+     "id": "pe_80fyzn3s",
+     "name": "ዶ/ር ደሳለው ካሣሁን",
+     "role": "author",
+     "romanized": "do/re desalew kasahun"
+    },
+    {
+     "id": "pe_8ntffwxz",
+     "name": "ዶ/ር አብርሃም ክብረት",
+     "role": "author",
+     "romanized": "do/re aberham kebret"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_0gadht5t",
+   "id": "wk_0gadht5t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yekoronaw mebreq",
+    "script": "Ethi",
+    "text": "የኮሮናው መብረቅ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_9jchy2sr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9jchy2sr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    },
+    {
+     "id": "pe_jz8ahpw2",
+     "name": "ሒሩት ደተበሬ",
+     "role": "author",
+     "romanized": "hirut detebere"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_9jchy2sr",
+   "id": "wk_9jchy2sr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "seketama tenat",
+    "script": "Ethi",
+    "text": "ስኬታማ ጥናት"
+   },
+   "type": "work",
+   "year": 2005
+  },
   {
    "cover": {
     "path": "assets/covers/wk_dm355emh.webp",
@@ -112,6 +211,40 @@
    },
    "type": "work",
    "year": 2018
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_h20tqmyw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_h20tqmyw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_h20tqmyw",
+   "id": "wk_h20tqmyw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ze mayened",
+    "script": "Ethi",
+    "text": "ዘ ማይንድ"
+   },
+   "type": "work",
+   "year": 2008
   },
   {
    "cover": {

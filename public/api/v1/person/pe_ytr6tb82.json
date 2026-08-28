@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "saraqda",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ytr6tb82",
+ "id": "pe_ytr6tb82",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sereq da.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሠርቅ ዳ."
+  },
+  "romanized": "sereq da.",
+  "sort_key": "ሰርቅዳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቆንጆዎቹ  by ሠርቅ ዳንኤል  .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "865bdb4bfcd433adb94528972d48a0961005f0c30e17c31bb981c33acfaaec8e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_h9hrh9x4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_h9hrh9x4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ytr6tb82",
+     "name": "ሠርቅ ዳ.",
+     "role": "author",
+     "romanized": "sereq da."
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_h9hrh9x4",
+   "id": "wk_h9hrh9x4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qonjowochu",
+    "script": "Ethi",
+    "text": "ቆንጆዎቹ"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

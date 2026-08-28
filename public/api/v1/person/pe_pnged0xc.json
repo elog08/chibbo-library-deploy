@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "dorislunad",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_pnged0xc",
+ "id": "pe_pnged0xc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "doris luned",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶሪስ ሉንድ"
+  },
+  "romanized": "doris luned",
+  "sort_key": "ዶሪስሉንድ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኤሪክ - ዶሪስ ሉንድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7801bfb36ef4ec5b57018381b0261f4f15f3b0c08194b46b507d3e18c6f2a9fa",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dacw9qt4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dacw9qt4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pnged0xc",
+     "name": "ዶሪስ ሉንድ",
+     "role": "author",
+     "romanized": "doris luned"
+    },
+    {
+     "id": "pe_ag34r06n",
+     "name": "ተስፋዬ ብርሃኑ",
+     "role": "author",
+     "romanized": "tesfaye berhanu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dacw9qt4",
+   "id": "wk_dacw9qt4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "erik (asazany ewnetenya tarik)",
+    "script": "Ethi",
+    "text": "ኤሪክ (አሳዛኝ ዕውነተኛ ታሪክ)"
+   },
+   "type": "work",
+   "year": 1993
+  }
+ ]
+}

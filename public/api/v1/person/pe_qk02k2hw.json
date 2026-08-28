@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "haylagiyorgismamo",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_qk02k2hw",
  "id": "pe_qk02k2hw",
  "identifiers": {},
@@ -27,7 +29,10 @@
   "sort_key": "ሀይለጊዮርጊስማሞ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሱፊዝም - ሀይለጊዮርጊስ ማሞ.pdf",
+  "Read from the title page of ጥበብ_ከ_ጲላጦስ_1_ሀይለጊዮርጊስ_ማሞ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +68,80 @@
     "text": "ጥበብ ከጲላጦስ ቅፅ ፪"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_f21aadtv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f21aadtv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qk02k2hw",
+     "name": "ኃይለጊዮርጊስ ማሞ",
+     "role": "author",
+     "romanized": "haylegiyorgis mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2004-09-11/2005-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f21aadtv",
+   "id": "wk_f21aadtv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tebeb 1 kepilatos",
+    "script": "Ethi",
+    "text": "ጥበብ ፩ ከጲላጦስ"
+   },
+   "type": "work",
+   "year": 2004
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_t0ef9ctd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t0ef9ctd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qk02k2hw",
+     "name": "ኃይለጊዮርጊስ ማሞ",
+     "role": "author",
+     "romanized": "haylegiyorgis mamo"
+    },
+    {
+     "id": "pe_ctcncwh2",
+     "name": "ጲላጦስ",
+     "role": "author",
+     "romanized": "pilatos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_t0ef9ctd",
+   "id": "wk_t0ef9ctd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sufizem",
+    "script": "Ethi",
+    "text": "ሱፊዝም"
+   },
+   "type": "work",
+   "year": 2014
   }
  ]
 }

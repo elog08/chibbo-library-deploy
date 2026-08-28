@@ -1,0 +1,76 @@
+{
+ "extensions": {},
+ "fingerprint": "danialsilva",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_321vekhn",
+ "id": "pe_321vekhn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Silva"
+  },
+  "romanized": "Daniel Silva",
+  "sort_key": "danielsilva"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሞሳድ_ተልዕኮ_ሙሉቀን_ታሪኩ_The_Messenger_Daniel_Silva.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "859c9307ff7f6a460a3ebd6e053fd1dd0dc8778367fcec3f12e85934f9a5e974",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zdsx8pk5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zdsx8pk5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_321vekhn",
+     "name": "Daniel Silva",
+     "role": "author",
+     "romanized": "Daniel Silva"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zdsx8pk5",
+   "id": "wk_zdsx8pk5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemosad teleko",
+    "script": "Ethi",
+    "text": "የሞሳድ ተልዕኮ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

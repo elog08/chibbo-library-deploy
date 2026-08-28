@@ -1,0 +1,140 @@
+{
+ "extensions": {},
+ "fingerprint": "amaramamo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0qnk9fq5",
+ "id": "pe_0qnk9fq5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Amare Mamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አማረ ማሞ"
+  },
+  "romanized": "Amare Mamo",
+  "sort_key": "አማረማሞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ተረበኛው ናስሩዲን - አማረ ማሞ.pdf",
+  "Read from the title page of የገብረ ክርስቶስ ደስታ ግጥሞች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b285f7e9098800a26f28e1923927153f51c8da1a232b8f8aa5f9492eb301fce7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1xxqnc3g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1xxqnc3g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ezmnrs41",
+     "name": "ገብረ ክርስቶስ ደስታ",
+     "role": "author",
+     "romanized": "Gebre Kristos Desta"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_tfjm9dtn",
+     "name": "አምሃ አስፋው",
+     "role": "author",
+     "romanized": "Amha Asfaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1xxqnc3g",
+   "id": "wk_1xxqnc3g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegebrekerestos desta getmoch",
+    "script": "Ethi",
+    "text": "የገብረክርስቶስ ደስታ ግጥሞች"
+   },
+   "type": "work",
+   "year": 2005
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_w9ahmpjb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w9ahmpjb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ygfesv3",
+     "name": "ኢድሪስ ሻህ",
+     "role": "author",
+     "romanized": "Idries Shah"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_192stbw4",
+     "name": "ቦጋለ በላቸው",
+     "role": "author",
+     "romanized": "bogale belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w9ahmpjb",
+   "id": "wk_w9ahmpjb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "terebenyaw nasrudin",
+    "script": "Ethi",
+    "text": "ተረበኛው ናስሩዲን"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

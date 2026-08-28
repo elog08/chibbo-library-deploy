@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "sabhatgagziabhar",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tz2cp0fs",
+ "id": "pe_tz2cp0fs",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sebhet ge/egziabher",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ስብሀት ገ/እግዚአብሔር"
+  },
+  "romanized": "sebhet ge/egziabher",
+  "sort_key": "ስብሀትገእግዚአብሄር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እነሆ_ጀግና_ስብሃት_ገብረ_እግዚአብሔር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7cf54b203fa4db8262581b830587b6a34f5164e1d99f3aa45e659287e74cf091",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7eqt050k.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7eqt050k.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz2cp0fs",
+     "name": "ስብሀት ገ/እግዚአብሔር",
+     "role": "author",
+     "romanized": "sebhet ge/egziabher"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_7eqt050k",
+   "id": "wk_7eqt050k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eneho jegna!",
+    "script": "Ethi",
+    "text": "እነሆ ጀግና!"
+   },
+   "type": "work"
+  }
+ ]
+}

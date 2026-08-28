@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_z48a1v1s"
+  "ed_z48a1v1s",
+  "ed_y187hf8e"
  ],
  "extensions": {},
  "fingerprint": "ጃፓንእንድምንሰለጠነች|kabadamikal",
@@ -31,11 +32,21 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted",
+  "filename-title-mismatch"
  ],
  "href": "https://chibbo.app/work/wk_2zrz43d3",
  "id": "wk_2zrz43d3",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "0d0b3b33271b1f68",
+   "290e0d0d320d4d60",
+   "490f174c0c064c18",
+   "715d7d797d7d7318",
+   "cc2f1b3b2b130bc0"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -68,13 +79,17 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 0.00/5 from 1 rating(s)"
+  "ethiobookreview community rating 0.00/5 from 1 rating(s)",
+  "Read from PDF front matter: ጃፓን_እንደምን_ሠለጠነች_ከበደ_ሚካኤል.pdf",
+  "Also held as PDF: ጃፓን_እንደምን_ሰለጠነች_ከበደ_ሚካኤል.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/japan-endemn-seletenech-kebede-mikael"
  },
+ "publication_place": "አዲስ አበባ",
+ "publisher_name": "ሜጋ አሳታሚ ድርጅት",
  "relations": [],
  "rights": {
   "shippable": false,

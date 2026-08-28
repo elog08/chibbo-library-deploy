@@ -452,7 +452,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_4anezpep",
    "id": "wk_4anezpep",
@@ -676,8 +677,14 @@
      "romanized": "Zenebe Wela"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5j6t4gpc",
    "id": "wk_5j6t4gpc",
@@ -689,7 +696,8 @@
     "script": "Ethi",
     "text": "ማስታወሻ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2013
   },
   {
    "cover": {
@@ -739,7 +747,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5r9t6pwh",
    "id": "wk_5r9t6pwh",
@@ -880,7 +889,8 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_7njeenhv",
    "id": "wk_7njeenhv",
@@ -991,8 +1001,14 @@
      "romanized": "yesmake werqu"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_8f9yskqx",
    "id": "wk_8f9yskqx",
@@ -1004,7 +1020,8 @@
     "script": "Ethi",
     "text": "ተልሚድ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2010
   },
   {
    "cover": {
@@ -1101,10 +1118,22 @@
      "name": "ሀብታሙ አለባቸው",
      "role": "author",
      "romanized": "Habtamu Alebachew"
+    },
+    {
+     "id": "pe_kp4yhrjv",
+     "name": "ሐኒባል ገብረሕይወት",
+     "role": "author",
+     "romanized": "henibal gebreheywet"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_98zc6sdd",
    "id": "wk_98zc6sdd",
@@ -1116,7 +1145,8 @@
     "script": "Ethi",
     "text": "የሱፍ አበባ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2015
   },
   {
    "cover": {
@@ -1575,8 +1605,14 @@
      "romanized": "abiy ahmed"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_dtrxpzvb",
    "id": "wk_dtrxpzvb",
@@ -1588,7 +1624,8 @@
     "script": "Ethi",
     "text": "መደመር"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2019
   },
   {
    "cover": {
@@ -1780,7 +1817,9 @@
    },
    "flags": [
     "ec-gc-conflict",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_ev9kxm9r",
    "id": "wk_ev9kxm9r",
@@ -2067,8 +2106,14 @@
      "romanized": "sebhet gebreegziabher"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_g7n5sr0m",
    "id": "wk_g7n5sr0m",
@@ -2080,7 +2125,8 @@
     "script": "Ethi",
     "text": "እግረ መንገድ ፩-፪"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2018
   },
   {
    "cover": {
@@ -2151,8 +2197,14 @@
      "romanized": "Mariras Aman Belay"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_gkfsfpk6",
    "id": "wk_gkfsfpk6",
@@ -2164,7 +2216,8 @@
     "script": "Ethi",
     "text": "መጽሐፈ ፈውስ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2016
   },
   {
    "cover": {
@@ -2375,8 +2428,14 @@
      "romanized": "yesmake werqu"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_j4v5gqtt",
    "id": "wk_j4v5gqtt",
@@ -2388,7 +2447,8 @@
     "script": "Ethi",
     "text": "ዮቶድ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2016
   },
   {
    "cover": {
@@ -2483,8 +2543,17 @@
      "romanized": "mamo wedneh"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_jf4gcjbb",
    "id": "wk_jf4gcjbb",
@@ -2496,7 +2565,8 @@
     "script": "Ethi",
     "text": "አሉላ አባ ነጋ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 1981
   },
   {
    "cover": {
@@ -2611,7 +2681,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_m9k33myf",
    "id": "wk_m9k33myf",
@@ -2696,7 +2767,8 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n26x01d4",
    "id": "wk_n26x01d4",
@@ -2724,7 +2796,8 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n3d2pras",
    "id": "wk_n3d2pras",
@@ -3682,7 +3755,9 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "filename-title-mismatch"
    ],
    "href": "https://chibbo.app/work/wk_vhgdc655",
    "id": "wk_vhgdc655",
@@ -3933,8 +4008,15 @@
      "romanized": "danel kebret"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "filename-title-mismatch"
    ],
    "href": "https://chibbo.app/work/wk_wntdbstg",
    "id": "wk_wntdbstg",
@@ -3946,7 +4028,8 @@
     "script": "Ethi",
     "text": "ኑ! ሀገሬን እናዋልዳት እና ሌሎች"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2017
   },
   {
    "cover": {
@@ -4017,8 +4100,14 @@
      "romanized": "Zenebe Wela"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_x11n3naw",
    "id": "wk_x11n3naw",
@@ -4030,7 +4119,8 @@
     "script": "Ethi",
     "text": "ልጅነት"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2007
   },
   {
    "cover": {

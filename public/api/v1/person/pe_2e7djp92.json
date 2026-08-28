@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "abatasfasalasamogas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2e7djp92",
+ "id": "pe_2e7djp92",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aba tesfa selase moges",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አባ ተስፋ ሥላሴ ሞገስ"
+  },
+  "romanized": "aba tesfa selase moges",
+  "sort_key": "አባተስፋስላሴሞገስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቅ ማርቆስ ኢትዮጵያዊ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "39cf055d5240942d2eab812b5a8310583cc81f404539a65e41d19c7749ab96f6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_p6g0mqbe.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p6g0mqbe.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2e7djp92",
+     "name": "አባ ተስፋ ሥላሴ ሞገስ",
+     "role": "author",
+     "romanized": "aba tesfa selase moges"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_p6g0mqbe",
+   "id": "wk_p6g0mqbe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qedus marqos ityopyawi new yetewahdo anbesam medhanialem iyesus kerestos new",
+    "script": "Ethi",
+    "text": "ቅዱስ ማርቆስ ኢትዮጵያዊ ነው የተዋሕዶ አንበሣም መድኃኒዓለም ኢየሱስ ክርስቶስ ነው"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

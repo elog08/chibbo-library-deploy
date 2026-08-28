@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "miliyonshurba",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_490dxf4k",
+ "id": "pe_490dxf4k",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "miliyon shurbe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሚሊዮን ሹርቤ"
+  },
+  "romanized": "miliyon shurbe",
+  "sort_key": "ሚሊዮንሹርቤ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ውስልትና_ዘ_አዲስ_አበባ_ሚሊዮን_ሹርቤ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f9b8cd58445b684a7a88e7ac0b8719ab4a57916fd3b6d6095cc7cb4eee37602e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7e6edjae.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7e6edjae.png"
+   },
+   "credits": [
+    {
+     "id": "pe_490dxf4k",
+     "name": "ሚሊዮን ሹርቤ",
+     "role": "author",
+     "romanized": "miliyon shurbe"
+    },
+    {
+     "id": "pe_2e2jd0mj",
+     "name": "ሠላም ውድነህ",
+     "role": "author",
+     "romanized": "selam wedneh"
+    },
+    {
+     "id": "pe_z95pmgrq",
+     "name": "ዳንኤል ነጋሽ",
+     "role": "author",
+     "romanized": "danel negash"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_7e6edjae",
+   "id": "wk_7e6edjae",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wesibawi weseletna (ze-adis abeba)",
+    "script": "Ethi",
+    "text": "ወሲባዊ ውስልትና (ዘ-አዲስ አበባ)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

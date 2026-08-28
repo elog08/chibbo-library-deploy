@@ -1,0 +1,89 @@
+{
+ "extensions": {},
+ "fingerprint": "davidlamab",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hd5h363f",
+ "id": "pe_hd5h363f",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "devid lameb",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዴቪድ ላምብ"
+  },
+  "romanized": "devid lameb",
+  "sort_key": "ዴቪድላምብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአፍሪካ አምባገነን መሪዎች.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "0218c9a4f834307edcee965f3308247af783ef71ef1d5b2e88b5f35a99e3d4a4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1q8jhabt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1q8jhabt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hd5h363f",
+     "name": "ዴቪድ ላምብ",
+     "role": "author",
+     "romanized": "devid lameb"
+    },
+    {
+     "id": "pe_mmd0w6xs",
+     "name": "ነቢዩ ኢያሱ",
+     "role": "author",
+     "romanized": "nebiyu iyasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1984?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1q8jhabt",
+   "id": "wk_1q8jhabt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "afrikana ambagenen meriwochwa (ze afrikanes)",
+    "script": "Ethi",
+    "text": "አፍሪካና አምባገነን መሪዎቿ (ዘ አፍሪካንስ)"
+   },
+   "type": "work",
+   "year": 1984
+  }
+ ]
+}

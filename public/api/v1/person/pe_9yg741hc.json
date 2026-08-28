@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "barhanuzarihun",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_9yg741hc",
  "id": "pe_9yg741hc",
  "identifiers": {
@@ -40,16 +42,33 @@
  "locked_fields": [],
  "merged_into": null,
  "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu zerihun",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Berhanu Zerihun",
+    "type": "romanization"
+   }
+  ],
   "primary": {
-   "lang": "en",
-   "script": "Latn",
-   "text": "Berhanu Zerihun"
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ ዘሪሁን"
   },
-  "romanized": "Berhanu Zerihun",
-  "sort_key": "berhanuzerihun"
+  "romanized": "berhanu zerihun",
+  "sort_key": "ብርሀኑዘሪሁን"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ማዕበል_የአብዮቱ_ማግሥት_ብረሃኑ_ዘሪሁን.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
@@ -62,9 +81,9 @@
    "credits": [
     {
      "id": "pe_9yg741hc",
-     "name": "Berhanu Zerihun",
+     "name": "ብርሃኑ ዘሪሁን",
      "role": "author",
-     "romanized": "Berhanu Zerihun"
+     "romanized": "berhanu zerihun"
     }
    ],
    "date": {
@@ -86,12 +105,40 @@
    "year": 1980
   },
   {
+   "cover": {
+    "path": "assets/covers/wk_rj6hf489.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rj6hf489.png"
+   },
    "credits": [
     {
      "id": "pe_9yg741hc",
-     "name": "Berhanu Zerihun",
+     "name": "ብርሃኑ ዘሪሁን",
      "role": "author",
-     "romanized": "Berhanu Zerihun"
+     "romanized": "berhanu zerihun"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rj6hf489",
+   "id": "wk_rj6hf489",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mabel yeabyotu mageset",
+    "script": "Ethi",
+    "text": "ማዕበል የአብዮቱ ማግሥት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9yg741hc",
+     "name": "ብርሃኑ ዘሪሁን",
+     "role": "author",
+     "romanized": "berhanu zerihun"
     }
    ],
    "date": {

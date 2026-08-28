@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "hiwotafara",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_50pbwxw2",
  "id": "pe_50pbwxw2",
  "identifiers": {
@@ -68,7 +70,9 @@
   "sort_key": "hiwotteffera"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of TOWER IN THE SKY By Hiwot Tefera.pdf"
+ ],
  "portrait": {
   "bytes": 8788,
   "path": "assets/portraits/pe_50pbwxw2.jpg",
@@ -102,6 +106,11 @@
     "edtf": "2012-01-01",
     "flags": []
    },
+   "flags": [
+    "llm-extracted",
+    "scope-review",
+    "calendar-ambiguous"
+   ],
    "href": "https://chibbo.app/work/wk_mdfm4yzx",
    "id": "wk_mdfm4yzx",
    "language": "en",

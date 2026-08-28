@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "hanimalyas",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_2pxe4qa4",
  "id": "pe_2pxe4qa4",
  "identifiers": {},
@@ -26,7 +28,10 @@
   "sort_key": "ሀኒምኤልያስ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ባይብል ኮድ.pdf",
+  "Read from the title page of የቤተክርስቲያን ማፊያዎች.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -62,6 +67,52 @@
     "text": "በጥበብ የመኖር ዕሴት"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_4jx73gq2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4jx73gq2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ncmgb067",
+     "name": "Makhado Sinthumule Ramabulana",
+     "role": "author",
+     "romanized": "Makhado Sinthumule Ramabulana"
+    },
+    {
+     "id": "pe_2pxe4qa4",
+     "name": "ሀኒም ኤልያስ",
+     "role": "author",
+     "romanized": "Hanim Eliyas"
+    },
+    {
+     "id": "pe_s3sq0rf3",
+     "name": "ተክሉ ጥላሁን",
+     "role": "author",
+     "romanized": "teklu telahun"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4jx73gq2",
+   "id": "wk_4jx73gq2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebetekerestiyan mafiyawoch",
+    "script": "Ethi",
+    "text": "የቤተክርስቲያን ማፊያዎች"
+   },
+   "type": "work",
+   "year": 2019
   },
   {
    "cover": {
@@ -102,7 +153,27 @@
      "name": "ሀኒም ኤልያስ",
      "role": "author",
      "romanized": "Hanim Eliyas"
+    },
+    {
+     "id": "pe_s3sq0rf3",
+     "name": "ተክሉ ጥላሁን",
+     "role": "author",
+     "romanized": "teklu telahun"
+    },
+    {
+     "id": "pe_5bwr2wgn",
+     "name": "Michael Dorsnin",
+     "role": "author",
+     "romanized": "Michael Dorsnin"
     }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_q0qcprj5",
    "id": "wk_q0qcprj5",
@@ -114,7 +185,8 @@
     "script": "Ethi",
     "text": "ባይብል ኮድ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2017
   },
   {
    "cover": {

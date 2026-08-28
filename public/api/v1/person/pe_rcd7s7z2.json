@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "saragawgalaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rcd7s7z2",
+ "id": "pe_rcd7s7z2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "seregew gelaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ስርግው ገላው"
+  },
+  "romanized": "seregew gelaw",
+  "sort_key": "ስርግውገላው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ክብረ ነገስት በአማርኛና በግዕዝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0ed1ea6731905694997805e9f20d45a7c57825f128fb2c29fefd68f08ff8488e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vqqp2kyg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vqqp2kyg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rcd7s7z2",
+     "name": "ስርግው ገላው",
+     "role": "author",
+     "romanized": "seregew gelaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous",
+    "language-unmapped"
+   ],
+   "href": "https://chibbo.app/work/wk_vqqp2kyg",
+   "id": "wk_vqqp2kyg",
+   "language": "und",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kebre negeset geezna amarnya",
+    "script": "Ethi",
+    "text": "ክብረ ነገስት ግእዝና አማርኛ"
+   },
+   "type": "work",
+   "year": 1994
+  }
+ ]
+}

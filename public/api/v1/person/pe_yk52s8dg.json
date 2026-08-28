@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "salomonalmara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_yk52s8dg",
+ "id": "pe_yk52s8dg",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selomon almare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን አልማረ"
+  },
+  "romanized": "selomon almare",
+  "sort_key": "ሰሎሞንአልማረ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትልቅ ሕልም አለኝ @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b6c451e7a2c2bed1a92aea0ee248e2413c16c5a00bf36e2f27ca2037d65cf8da",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c458y6ds.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Psychology/i-have-a-big-dream-dawit-dreams.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_12cb4vdj",
+     "name": "ዳዊት ድሪምስ",
+     "role": "author",
+     "romanized": "Dawit Dreams"
+    },
+    {
+     "id": "pe_yk52s8dg",
+     "name": "ሰሎሞን አልማረ",
+     "role": "author",
+     "romanized": "selomon almare"
+    },
+    {
+     "id": "pe_j45etz2f",
+     "name": "ጥላሁን አዱኛ",
+     "role": "author",
+     "romanized": "telahun adunya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_c458y6ds",
+   "id": "wk_c458y6ds",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teleq helem aleny",
+    "script": "Ethi",
+    "text": "ትልቅ ህልም አለኝ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

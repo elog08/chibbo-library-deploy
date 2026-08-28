@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "harunyahya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zchtssz6",
+ "id": "pe_zchtssz6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "herun yahya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሀሩን ያህያ"
+  },
+  "romanized": "herun yahya",
+  "sort_key": "ሀሩንያህያ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፈጣሪ ህልውና በሳይንስ መነፅር .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "81e6b098f9c943b3761df9790708416147f5a7fa01e14daa16a2fba2748ca924",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cb0p7nzb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cb0p7nzb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zchtssz6",
+     "name": "ሀሩን ያህያ",
+     "role": "author",
+     "romanized": "herun yahya"
+    },
+    {
+     "id": "pe_j74gjcpz",
+     "name": "ሀምዱ እድሪስ",
+     "role": "author",
+     "romanized": "hemdu edris"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cb0p7nzb",
+   "id": "wk_cb0p7nzb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefetari helewna besayenes menetser",
+    "script": "Ethi",
+    "text": "የፈጣሪ ሕልውና በሳይንስ መነጽር"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

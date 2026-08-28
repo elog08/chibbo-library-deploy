@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "garmahaylaslasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3h0qrt3z",
+ "id": "pe_3h0qrt3z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "germa hayleslase",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግርማ ኃይለሥላሴ"
+  },
+  "romanized": "germa hayleslase",
+  "sort_key": "ግርማሀይለስላሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ህልምሽን አጫውቺኝ የተስተካከለ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "aff65f741702747a4ee6926d3f71f49f5813397e810f660ceeb11e838806e0f5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kdzdqvah.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kdzdqvah.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_3h0qrt3z",
+     "name": "ግርማ ኃይለሥላሴ",
+     "role": "author",
+     "romanized": "germa hayleslase"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kdzdqvah",
+   "id": "wk_kdzdqvah",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "helemeshen achawchiny",
+    "script": "Ethi",
+    "text": "ህልምሽን አጫውቺኝ"
+   },
+   "type": "work"
+  }
+ ]
+}

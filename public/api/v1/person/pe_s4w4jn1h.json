@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "hanokyashitla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_s4w4jn1h",
+ "id": "pe_s4w4jn1h",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "henok yeshitla",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሄኖክ የሺጥላ"
+  },
+  "romanized": "henok yeshitla",
+  "sort_key": "ሄኖክየሺጥላ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰው እንጂ ህዝብ  አላጣሽም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b64ebf597a694b4773753a6365adfaf524465893bc3b786442caa2602ecc36a3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_yb8hf1qt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_yb8hf1qt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_s4w4jn1h",
+     "name": "ሄኖክ የሺጥላ",
+     "role": "author",
+     "romanized": "henok yeshitla"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yb8hf1qt",
+   "id": "wk_yb8hf1qt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sew enji hezeb alatashem",
+    "script": "Ethi",
+    "text": "ሰው እንጂ ህዝብ አላጣሽም"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

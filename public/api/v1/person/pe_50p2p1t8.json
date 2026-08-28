@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "balugirma",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_50p2p1t8",
  "id": "pe_50p2p1t8",
  "identifiers": {
@@ -57,7 +59,13 @@
   "sort_key": "በአሉግርማ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሀዲስ - በአሉ ግርማ.pdf",
+  "Read from the title page of ከአድማስ ባሻገር በዓሉ ግርማ.pdf",
+  "Read from the title page of የህሊና ደወል በዐሉ ግርማ.pdf",
+  "Read from the title page of የቀይ ኮኮብ ጥሪ - በዐሉ ግርማ.pdf",
+  "Read from the title page of ደራሲው - በአሉ ግርማ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
@@ -80,7 +88,8 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_7njeenhv",
    "id": "wk_7njeenhv",
@@ -151,6 +160,146 @@
    },
    "type": "work",
    "year": 1969
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_cemy8tqx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cemy8tqx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_cemy8tqx",
+   "id": "wk_cemy8tqx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehlina dewel",
+    "script": "Ethi",
+    "text": "የህሊና ደወል"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_h8rnkr31.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_h8rnkr31.png"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_h8rnkr31",
+   "id": "wk_h8rnkr31",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqey kokeb teri",
+    "script": "Ethi",
+    "text": "የቀይ ኮከብ ጥሪ"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_qzdk46j9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qzdk46j9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qzdk46j9",
+   "id": "wk_qzdk46j9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "derasiw",
+    "script": "Ethi",
+    "text": "ደራሲው"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vrzagk1c.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vrzagk1c.png"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vrzagk1c",
+   "id": "wk_vrzagk1c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hedis",
+    "script": "Ethi",
+    "text": "ሀዲስ"
+   },
+   "type": "work",
+   "year": 2010
   }
  ]
 }

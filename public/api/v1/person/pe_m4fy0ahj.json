@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "awagchawtarafa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_m4fy0ahj",
+ "id": "pe_m4fy0ahj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "awegchew terefe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አውግቸው ተረፈ"
+  },
+  "romanized": "awegchew terefe",
+  "sort_key": "አውግቸውተረፈ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ወይ አዲስ አበባ - አውግቸው ተረፈ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ca1cbd148460cdf500dcd982aa6338479d5798e12fc716d7da17892bc85ef2fa",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fvn4wdf1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fvn4wdf1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m4fy0ahj",
+     "name": "አውግቸው ተረፈ",
+     "role": "author",
+     "romanized": "awegchew terefe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fvn4wdf1",
+   "id": "wk_fvn4wdf1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wey adis abeba ... ena leloch achacher lebweledoch",
+    "script": "Ethi",
+    "text": "ወይ አዲስ አበባ ... እና ሌሎች አጫጭር ልብወለዶች"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

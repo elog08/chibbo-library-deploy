@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "yaqobhaylamaryamdora",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_n7jj1fh8",
+ "id": "pe_n7jj1fh8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yaqob haylemaryam (do/re)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ያዕቆብ ኃይለማርያም (ዶ/ር)"
+  },
+  "romanized": "yaqob haylemaryam (do/re)",
+  "sort_key": "ያእቆብሀይለማርያምዶር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አሰብ የማናት.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "7680987d0975947cf5f5ea49183b10eeb575c6f0941253e887e723c33e6a397d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qs68k65w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qs68k65w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_n7jj1fh8",
+     "name": "ያዕቆብ ኃይለማርያም (ዶ/ር)",
+     "role": "author",
+     "romanized": "yaqob haylemaryam (do/re)"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_qs68k65w",
+   "id": "wk_qs68k65w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aseb yeman nat? (yeityopya yebaher ber teyaqe)",
+    "script": "Ethi",
+    "text": "አሰብ የማን ናት? (የኢትዮጵያ የባህር በር ጥያቄ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

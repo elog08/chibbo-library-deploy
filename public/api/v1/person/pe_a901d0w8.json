@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "adamrata",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_a901d0w8",
  "id": "pe_a901d0w8",
  "identifiers": {
@@ -85,7 +87,17 @@
   "sort_key": "አዳምረታ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መረቅ - በ አዳም ረታ ብዙነህ .pdf",
+  "Read from the title page of አለንጋና ምስር  by አዳም ረታ  .pdf",
+  "Read from the title page of አለንጋና ምስር- አዳም ረታ.pdf",
+  "Read from the title page of እቴሜቴ ሎሚ ሽታ - አዳም ረታ.pdf",
+  "Read from the title page of ከሰማይ የወረደ ፍርፍር - አዳም ረታ.pdf",
+  "Read from the title page of ግራጫ ቃጭሎች - አዳም ረታ.pdf",
+  "Read from the title page of ግራጫ_ቃጭሎች_ክፍል_2_በአዳም_ረታ.pdf",
+  "Read from the title page of ግራጫ_ቃጭሎች_ክፍል_3_በአዳም_ረታ.pdf",
+  "Read from the title page of ግራጫ_ቃጭሎች_ክፍል_4_በአዳም_ረታ.pdf"
+ ],
  "portrait": {
   "bytes": 123354,
   "path": "assets/portraits/pe_a901d0w8.jpg",
@@ -174,6 +186,35 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_1q1p5rhk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1q1p5rhk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a901d0w8",
+     "name": "አዳም ረታ",
+     "role": "author",
+     "romanized": "Adam Reta"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_1q1p5rhk",
+   "id": "wk_1q1p5rhk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gericha qachloch",
+    "script": "Ethi",
+    "text": "ግሪጫ ቃጭሎች"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_5r9t6pwh.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/giracha-kacheloch.jpg"
    },
@@ -192,7 +233,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5r9t6pwh",
    "id": "wk_5r9t6pwh",
@@ -226,7 +268,8 @@
     "flags": []
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_6e030z4x",
    "id": "wk_6e030z4x",
@@ -240,6 +283,43 @@
    },
    "type": "work",
    "year": 2022
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_8f8t601s.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8f8t601s.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a901d0w8",
+     "name": "አዳም ረታ",
+     "role": "author",
+     "romanized": "Adam Reta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8f8t601s",
+   "id": "wk_8f8t601s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kesemay yewerede ferefer ena leloch achacher lebweledoch",
+    "script": "Ethi",
+    "text": "ከሰማይ የወረደ ፍርፍር እና ሌሎች አጫጭር ልብወለዶች"
+   },
+   "type": "work",
+   "year": 2012
   },
   {
    "credits": [
@@ -343,6 +423,44 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_ccv1ey9d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ccv1ey9d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a901d0w8",
+     "name": "አዳም ረታ",
+     "role": "author",
+     "romanized": "Adam Reta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2004?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ccv1ey9d",
+   "id": "wk_ccv1ey9d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alengana meser ena leloch achacher tarikoch",
+    "script": "Ethi",
+    "text": "አለንጋና ምስር እና ሌሎች አጫጭር ታሪኮች"
+   },
+   "type": "work",
+   "year": 2004
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_k4hg44k6.webp",
     "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/himamatna-begena-adam-reta.webp"
    },
@@ -434,7 +552,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_m9k33myf",
    "id": "wk_m9k33myf",

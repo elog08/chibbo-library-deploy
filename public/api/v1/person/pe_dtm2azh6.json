@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "aklilubaracha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dtm2azh6",
+ "id": "pe_dtm2azh6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aklilu berecha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አክሊሉ በሬቻ"
+  },
+  "romanized": "aklilu berecha",
+  "sort_key": "አክሊሉበሬቻ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የገንዘብ ነፃነት - ሮበርት ኪዮስኪ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e35731c3a5af861b40a6ae29a99919b1d82a32905f369f09cbb533b7cdf4e0cd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5m9m0t46.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5m9m0t46.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wczkdthc",
+     "name": "Robert T. Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T. Kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_dtm2azh6",
+     "name": "አክሊሉ በሬቻ",
+     "role": "author",
+     "romanized": "aklilu berecha"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5m9m0t46",
+   "id": "wk_5m9m0t46",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegenzeb netsanet",
+    "script": "Ethi",
+    "text": "የገንዘብ ነፃነት"
+   },
+   "type": "work"
+  }
+ ]
+}

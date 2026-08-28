@@ -1,0 +1,89 @@
+{
+ "extensions": {},
+ "fingerprint": "paralbak",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qxashs2s",
+ "id": "pe_qxashs2s",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "perel bek",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፐርል በክ"
+  },
+  "romanized": "perel bek",
+  "sort_key": "ፐርልበክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እምዩ - ሣህለሥላሴ ብርሀነማርያም.pdf",
+  "Read from the title page of እምዩ - ሣህለሥላሴ ብርሃነማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b5271b25e8645daa889c2ce48149625f8f43f2a67aae98551488f8384d7742a8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xywyqt8s.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xywyqt8s.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxashs2s",
+     "name": "ፐርል በክ",
+     "role": "author",
+     "romanized": "perel bek"
+    },
+    {
+     "id": "pe_qh2npd58",
+     "name": "ሣህለ ሥላሴ ብርሃነ ማርያም",
+     "role": "author",
+     "romanized": "sahle selase berhane maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xywyqt8s",
+   "id": "wk_xywyqt8s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "emyu",
+    "script": "Ethi",
+    "text": "እምዩ"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

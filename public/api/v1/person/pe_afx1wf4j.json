@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "zanabafalaqa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_afx1wf4j",
+ "id": "pe_afx1wf4j",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zenebe feleqe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘነበ ፈለቀ"
+  },
+  "romanized": "zenebe feleqe",
+  "sort_key": "ዘነበፈለቀ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ነበር-ዘነበ ፈለቀ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f928afdf849371082bbf6a356b763c9df13bf01e4672b61c2d8c920e7d3ed219",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xc4m4a6w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xc4m4a6w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_afx1wf4j",
+     "name": "ዘነበ ፈለቀ",
+     "role": "author",
+     "romanized": "zenebe feleqe"
+    },
+    {
+     "id": "pe_q1dm2xpy",
+     "name": "ሮማን ታደሰ",
+     "role": "author",
+     "romanized": "roman tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xc4m4a6w",
+   "id": "wk_xc4m4a6w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "neber",
+    "script": "Ethi",
+    "text": "ነበር"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

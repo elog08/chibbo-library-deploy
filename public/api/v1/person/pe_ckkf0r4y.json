@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "marshabanabaru",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ckkf0r4y",
+ "id": "pe_ckkf0r4y",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mersha beneberu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መርሻ በነበሩ"
+  },
+  "romanized": "mersha beneberu",
+  "sort_key": "መርሻበነበሩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የንቃት ፀሀይ - መርሻ በነበሩ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b2d13885c63f161f72ffe166fa4ea815f91f828cafdf45d9acb69e71834ca938",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2ybm4tjq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2ybm4tjq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_ckkf0r4y",
+     "name": "መርሻ በነበሩ",
+     "role": "author",
+     "romanized": "mersha beneberu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2ybm4tjq",
+   "id": "wk_2ybm4tjq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenqat tsehey",
+    "script": "Ethi",
+    "text": "የንቃት ፀሐይ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

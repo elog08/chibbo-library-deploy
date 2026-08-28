@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "abagubanya",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_tz5j4c6m",
  "id": "pe_tz5j4c6m",
  "identifiers": {
@@ -57,7 +59,13 @@
   "sort_key": "አቤጉበኛ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መሬት የማን ነው-ከአቤ ጉበኛ.pdf",
+  "Read from the title page of ምልክአም.pdf",
+  "Read from the title page of ምልክአም_ሰይፈ_ነበልባል_አቤ_ጉበኛ_etbookstore.pdf",
+  "Read from the title page of አልወለድም አቤ ጉበኛ.pdf",
+  "Read from the title page of አልወለድም አቤ ጉበኛዉ ALEWLEDEM.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -90,6 +98,108 @@
     "text": "አንድ ለእናቱ"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_3f9pdx5x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3f9pdx5x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz5j4c6m",
+     "name": "አቤ ጉበኛ",
+     "role": "author",
+     "romanized": "Abe Gubenga"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1974-09-11/1975-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3f9pdx5x",
+   "id": "wk_3f9pdx5x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meret yeman new?",
+    "script": "Ethi",
+    "text": "መሬት የማን ነው?"
+   },
+   "type": "work",
+   "year": 1974
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_anz3fyf5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_anz3fyf5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz5j4c6m",
+     "name": "አቤ ጉበኛ",
+     "role": "author",
+     "romanized": "Abe Gubenga"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_anz3fyf5",
+   "id": "wk_anz3fyf5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alweledem",
+    "script": "Ethi",
+    "text": "አልወለድም"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_yh0sdjhm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_yh0sdjhm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz5j4c6m",
+     "name": "አቤ ጉበኛ",
+     "role": "author",
+     "romanized": "Abe Gubenga"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1963-09-12/1964-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_yh0sdjhm",
+   "id": "wk_yh0sdjhm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "melekam “seyfe nebelbal”",
+    "script": "Ethi",
+    "text": "ምልክአም “ሰይፈ ነበልባል”"
+   },
+   "type": "work",
+   "year": 1963
   }
  ]
 }

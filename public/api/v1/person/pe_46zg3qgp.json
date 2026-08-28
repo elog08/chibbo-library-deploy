@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "alamayahumamo",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_46zg3qgp",
  "id": "pe_46zg3qgp",
  "identifiers": {},
@@ -86,7 +88,10 @@
   "sort_key": "አለማየሁማሞ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of አራተኛው ሻማ ሚስጢር እና ሌሎች.pdf",
+  "Read from the title page of የጋብቻ እንቆቅልሽ AFYM_01.pdf"
+ ],
  "portrait": {
   "bytes": 9192,
   "path": "assets/portraits/pe_46zg3qgp.jpg",
@@ -140,6 +145,71 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_63909y85.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_63909y85.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4frmjanm",
+     "name": "ብሩስ ብሪተን",
+     "role": "author",
+     "romanized": "Bruce Britten"
+    },
+    {
+     "id": "pe_t1tbj1mz",
+     "name": "ካሮል ብሪተን",
+     "role": "author",
+     "romanized": "Carol Britten"
+    },
+    {
+     "id": "pe_qshz32dk",
+     "name": "ጌቱ ግዛው",
+     "role": "author",
+     "romanized": "getu gezaw"
+    },
+    {
+     "id": "pe_ztkxtym9",
+     "name": "ፈቃዱ ገብሬ",
+     "role": "author",
+     "romanized": "feqadu gebre"
+    },
+    {
+     "id": "pe_46zg3qgp",
+     "name": "አለማየሁ ማሞ",
+     "role": "author",
+     "romanized": "Alemayehu Mamo"
+    },
+    {
+     "id": "pe_6n8y333k",
+     "name": "ወርቁ ኃ/ማርያም",
+     "role": "author",
+     "romanized": "werqu ha/maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_63909y85",
+   "id": "wk_63909y85",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegabcha enqoqelshochna mefethewochachew",
+    "script": "Ethi",
+    "text": "የጋብቻ እንቆቅልሾችና መፍትሔዎቻቸው"
+   },
+   "type": "work",
+   "year": 2002
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_af03kjcx.webp",
     "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Weg/kebena-betewsta-godana-alemayehu-mamo.webp"
    },
@@ -162,6 +232,59 @@
     "text": "ቀበና በትውስታ ጎዳና"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_dxh41j0p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dxh41j0p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hm14ef3c",
+     "name": "Patricia St. John",
+     "role": "author",
+     "romanized": "Patricia St. John"
+    },
+    {
+     "id": "pe_46zg3qgp",
+     "name": "አለማየሁ ማሞ",
+     "role": "author",
+     "romanized": "Alemayehu Mamo"
+    },
+    {
+     "id": "pe_10h93vzy",
+     "name": "ናሁሰናይ አፈወርቅ",
+     "role": "author",
+     "romanized": "nahusenay afewereq"
+    },
+    {
+     "id": "pe_n90yswht",
+     "name": "መሠረት አበበ",
+     "role": "author",
+     "romanized": "meseret abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2001-09-11/2002-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_dxh41j0p",
+   "id": "wk_dxh41j0p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yearatenyaw shama mestir ena leloch hulet achacher tarikoch",
+    "script": "Ethi",
+    "text": "የአራተኛው ሻማ ምሥጢር እና ሌሎች ሁለት አጫጭር ታሪኮች"
+   },
+   "type": "work",
+   "year": 2001
   },
   {
    "cover": {

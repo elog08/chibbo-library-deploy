@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "danaltadasabayana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rqaw2zeh",
+ "id": "pe_rqaw2zeh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Daniel tadesse beyene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል ታደሰ በየነ"
+  },
+  "romanized": "Daniel tadesse beyene",
+  "sort_key": "ዳንኤልታደሰበየነ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የታነቀች ሀገር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c1fc98d3f19654e2e9cf71dc24d12a66ef090567904a4496ebf808822fc14ed0",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zvxpc5tx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zvxpc5tx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rqaw2zeh",
+     "name": "ዳንኤል ታደሰ በየነ",
+     "role": "author",
+     "romanized": "Daniel tadesse beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zvxpc5tx",
+   "id": "wk_zvxpc5tx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetanekech hager",
+    "script": "Ethi",
+    "text": "የታነቀች ሀገር"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

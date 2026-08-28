@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "doralaykunbarhanu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nv3mvfwz",
+ "id": "pe_nv3mvfwz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Leykun Berhanu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ለይኩን ብርሃኑ"
+  },
+  "romanized": "Leykun Berhanu",
+  "sort_key": "ዶርለይኩንብርሀኑ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የግዕዝ መማርያ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "aca8711a7cbff2cd5145c2b1bb7a75991ce0a92d5068869391586988050774da",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_eeemnyfd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_eeemnyfd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_nv3mvfwz",
+     "name": "ዶ/ር ለይኩን ብርሃኑ",
+     "role": "author",
+     "romanized": "Leykun Berhanu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_eeemnyfd",
+   "id": "wk_eeemnyfd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez Lesson",
+    "script": "Ethi",
+    "text": "የግዕዝ መማሪያ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

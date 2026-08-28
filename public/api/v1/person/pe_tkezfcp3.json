@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "dorakaka",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_tkezfcp3",
  "id": "pe_tkezfcp3",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ዶርኬኬ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ማርና ሞሪንጋ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +67,40 @@
     "text": "የዕውቀት ማኅደር ቁጥር ፩"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zm5pxwb8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zm5pxwb8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tkezfcp3",
+     "name": "ዶ/ር ኬኬ",
+     "role": "author",
+     "romanized": "do/re keke"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zm5pxwb8",
+   "id": "wk_zm5pxwb8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "marna moringa",
+    "script": "Ethi",
+    "text": "ማርና ሞሪንጋ"
+   },
+   "type": "work",
+   "year": 2013
   }
  ]
 }

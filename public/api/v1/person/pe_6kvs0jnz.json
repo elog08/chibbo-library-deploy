@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "andargamasafan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6kvs0jnz",
+ "id": "pe_6kvs0jnz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "andarge mesefen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንዳርጌ መስፍን"
+  },
+  "romanized": "andarge mesefen",
+  "sort_key": "አንዳርጌመስፍን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቅሌት.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "aa9fc6fd4e7312e7473962dbaf8ec58c407ff426d19c31f8414f0c8a5962aca7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hab5gyve.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hab5gyve.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6kvs0jnz",
+     "name": "አንዳርጌ መስፍን",
+     "role": "author",
+     "romanized": "andarge mesefen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1986?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hab5gyve",
+   "id": "wk_hab5gyve",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qelet",
+    "script": "Ethi",
+    "text": "ቅሌት"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

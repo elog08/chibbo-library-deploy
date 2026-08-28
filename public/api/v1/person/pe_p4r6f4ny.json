@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "bafantahunhayla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_p4r6f4ny",
+ "id": "pe_p4r6f4ny",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "befentahun hayle",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በፈንታሁን ኃይሌ"
+  },
+  "romanized": "befentahun hayle",
+  "sort_key": "በፈንታሁንሀይሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የመኖር ክህሎት - ዴል ካርኔጊ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "089b2e0ccc5e7339e1bdb5e12322a69328542c7b0101f887408032acd9155e93",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4m5xhph0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4m5xhph0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ts1cqw9p",
+     "name": "ዴል ካርኔጊ",
+     "role": "author",
+     "romanized": "del karnegi"
+    },
+    {
+     "id": "pe_p4r6f4ny",
+     "name": "በፈንታሁን ኃይሌ",
+     "role": "author",
+     "romanized": "befentahun hayle"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4m5xhph0",
+   "id": "wk_4m5xhph0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemenor kehlot",
+    "script": "Ethi",
+    "text": "የመኖር ክህሎት"
+   },
+   "type": "work"
+  }
+ ]
+}

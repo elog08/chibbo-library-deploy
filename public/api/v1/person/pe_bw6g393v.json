@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "karvinagwalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bw6g393v",
+ "id": "pe_bw6g393v",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kervineg walas",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኸርቪንግ ዋላስ"
+  },
+  "romanized": "kervineg walas",
+  "sort_key": "ከርቪንግዋላስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሞገድ - ኸርቪንግ ዋላስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1fe39920b419315a998671a1e28e3a1e02d5b309bdaae2ff91976af5beff2087",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e42gxwen.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e42gxwen.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bw6g393v",
+     "name": "ኸርቪንግ ዋላስ",
+     "role": "author",
+     "romanized": "kervineg walas"
+    },
+    {
+     "id": "pe_e0cmt534",
+     "name": "ተሾመ ዳምጠው",
+     "role": "author",
+     "romanized": "teshome damtew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_e42gxwen",
+   "id": "wk_e42gxwen",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "moged",
+    "script": "Ethi",
+    "text": "ሞገድ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

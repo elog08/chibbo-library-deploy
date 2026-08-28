@@ -19,7 +19,8 @@
  },
  "editions": [
   "ed_81m2gb0r",
-  "ed_gcb45vax"
+  "ed_gcb45vax",
+  "ed_jwep06es"
  ],
  "extensions": {},
  "fingerprint": "የማታእንጀራ|alamtsahaywadajo",
@@ -38,8 +39,10 @@
  },
  "flags": [
   "format-ebook",
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted"
  ],
+ "form": "የግጥም መድበል",
  "href": "https://chibbo.app/work/wk_q73q9701",
  "id": "wk_q73q9701",
  "identifiers": {
@@ -48,6 +51,12 @@
   ],
   "afroread_id": [
    "47dbadc5-2d42-4fc5-8d52-116815c660b6"
+  ],
+  "pdf_pagehash": [
+   "ccc4c478c888c158",
+   "ece3eaeaeae8baf8",
+   "ecf2f373f37373f8",
+   "fcf2f373f37373f8"
   ]
  },
  "language": "am",
@@ -101,13 +110,16 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: Yemata Enjera- Alem Tsehay Wedajo.pdf"
+ ],
  "poetry": true,
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/yemata-injera-alemtsehay-wedajo/"
  },
+ "publisher_name": "ደረኮ አሳታሚ",
  "relations": [],
  "rights": {
   "shippable": false,

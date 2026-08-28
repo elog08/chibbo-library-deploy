@@ -52,6 +52,10 @@
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_125"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "ከውዱ ቤተ መጻሕፍት"
+ },
  "sameAs": [
   "https://hahubooks.com/single-product.php?jbook_code=jb_125",
   "https://www.ethiobookreview.com/book/hashmal-maebel-fetene"
@@ -64,6 +68,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_bkca24sf",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_v7jnat1z",
    "@type": "Book"
   }
  ]

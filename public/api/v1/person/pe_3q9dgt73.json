@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "managastugadamu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3q9dgt73",
+ "id": "pe_3q9dgt73",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menegestu gedamu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መንግሥቱ ገዳሙ"
+  },
+  "romanized": "menegestu gedamu",
+  "sort_key": "መንግስቱገዳሙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሶማሌው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "651275bf3e3bfe4984a4090b6dcce95c689084be50b67be2d71fd8f1f9637552",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_42xhb3bs.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_42xhb3bs.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3q9dgt73",
+     "name": "መንግሥቱ ገዳሙ",
+     "role": "author",
+     "romanized": "menegestu gedamu"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_42xhb3bs",
+   "id": "wk_42xhb3bs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "somalew",
+    "script": "Ethi",
+    "text": "ሶማሌው"
+   },
+   "type": "work"
+  }
+ ]
+}

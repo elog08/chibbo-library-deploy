@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "alyashatakun",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_m62pvdy5",
+ "id": "pe_m62pvdy5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Elias Shitahun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤልያስ ሽታኹን"
+  },
+  "romanized": "Elias Shitahun",
+  "sort_key": "ኤልያስሽታኩን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ርእስ የለውም - ኤልያስ ሽታኹን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cced8b66dc6f861e4e7156a710894ca533f53ffe4d9ed4afb653c78e2e575a62",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1d93jea2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1d93jea2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m62pvdy5",
+     "name": "ኤልያስ ሽታኹን",
+     "role": "author",
+     "romanized": "Elias Shitahun"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1d93jea2",
+   "id": "wk_1d93jea2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "rees yelewem",
+    "script": "Ethi",
+    "text": "ርእስ የለውም"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

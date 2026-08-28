@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "alaqayaradfantawaldayohanas",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_rnq78c5g",
  "id": "pe_rnq78c5g",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "አለቃያሬድፈንታወልደዮሀንስ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ባሕረ ሐሳብ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -70,6 +74,40 @@
    },
    "type": "work",
    "year": 2012
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_etbbavqk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_etbbavqk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rnq78c5g",
+     "name": "አለቃ ያሬድ ፈንታ ወልደዮሐንስ",
+     "role": "author",
+     "romanized": "Aleka Yared Fenta Weldeyohanes"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_etbbavqk",
+   "id": "wk_etbbavqk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bahre hesab",
+    "script": "Ethi",
+    "text": "ባሕረ ሐሳብ"
+   },
+   "type": "work",
+   "year": 2011
   }
  ]
 }

@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "salomonababagabramadahan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4528wqjf",
+ "id": "pe_4528wqjf",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Solomon Abebe Gebremedhin",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን አበበ ገብረ መድኅን"
+  },
+  "romanized": "Solomon Abebe Gebremedhin",
+  "sort_key": "ሰሎሞንአበበገብረመድህን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የትሩፋነ ናፍቆት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a17414d373b735eed05044b56e269c56c968b7d6e2857a5f2e7c02e0679e3ddb",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8mdx816m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8mdx816m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4528wqjf",
+     "name": "ሰሎሞን አበበ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "Solomon Abebe Gebremedhin"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8mdx816m",
+   "id": "wk_8mdx816m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yátrufân Nâfqot",
+    "script": "Ethi",
+    "text": "የትሩፋነ ናፍቆት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

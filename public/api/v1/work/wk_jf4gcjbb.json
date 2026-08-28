@@ -13,18 +13,41 @@
   }
  ],
  "editions": [
-  "ed_vsvqkkqt"
+  "ed_vsvqkkqt",
+  "ed_jtv68c6y"
  ],
  "extensions": {},
  "fingerprint": "አሉላአባነጋ|mamowadnah",
+ "first_published": {
+  "alternates": [
+   "1988-09-11/1989-09-10"
+  ],
+  "edtf": "1981?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1981"
+  }
+ },
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted",
+  "calendar-ambiguous"
  ],
  "href": "https://chibbo.app/work/wk_jf4gcjbb",
  "id": "wk_jf4gcjbb",
  "identifiers": {
   "hahubooks_code": [
    "jb_181"
+  ],
+  "pdf_pagehash": [
+   "0a2a2d2d65850c08",
+   "47140d1d5b39b010",
+   "8c8c0a0a0a4c0d08",
+   "cc2cceafabacaca8",
+   "eccfab234b63cfc8"
   ]
  },
  "language": "am",
@@ -61,12 +84,16 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: አሉላ አባ ነጋ ማሞ ውድነህ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks",
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_181"
  },
+ "publication_place": "አዲስ አበባ / ADDIS ABABA",
+ "publisher_name": "ኩራዝ አሳታሚ ድርጅት / Kuraz Publishing Agency",
  "relations": [],
  "rights": {
   "shippable": false,

@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "danalkabrat",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_pq0c08h3",
  "id": "pe_pq0c08h3",
  "identifiers": {},
@@ -27,7 +29,12 @@
   "sort_key": "ዳንኤልክብረት"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ኑ_ሀገሬን_እናዋልዳት_ዳንኤል_ክብረት_.pdf",
+  "Read from the title page of የሁለት ሀውልቶች ወግ.pdf",
+  "Read from the title page of የሰርቆ_አደሮች_ስብሰባ_እና_ሌሎችም_በዳንኤል_ክብረት.pdf",
+  "Read from the title page of ጠጠሮቹ እና ሌሎቹም - ዳንኤል ክብረት.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -36,6 +43,108 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0y7084y8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0y7084y8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pq0c08h3",
+     "name": "ዳንኤል ክብረት",
+     "role": "author",
+     "romanized": "danel kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_0y7084y8",
+   "id": "wk_0y7084y8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehulet heweltoch weg ena leloch",
+    "script": "Ethi",
+    "text": "የሁለት ሐውልቶች ወግ እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_9t3mheq0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9t3mheq0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pq0c08h3",
+     "name": "ዳንኤል ክብረት",
+     "role": "author",
+     "romanized": "danel kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_9t3mheq0",
+   "id": "wk_9t3mheq0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeserqo aderoch sebseba ena leloch",
+    "script": "Ethi",
+    "text": "የሰርቆ አደሮች ስብሰባ እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fgb9s0mg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fgb9s0mg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pq0c08h3",
+     "name": "ዳንኤል ክብረት",
+     "role": "author",
+     "romanized": "danel kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_fgb9s0mg",
+   "id": "wk_fgb9s0mg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teterochu ena lelochu",
+    "script": "Ethi",
+    "text": "ጠጠሮቹ እና ሌሎቹ"
+   },
+   "type": "work",
+   "year": 2015
+  },
   {
    "cover": {
     "path": "assets/covers/wk_r7vqehcp.jpg",
@@ -77,8 +186,15 @@
      "romanized": "danel kebret"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "filename-title-mismatch"
    ],
    "href": "https://chibbo.app/work/wk_wntdbstg",
    "id": "wk_wntdbstg",
@@ -90,7 +206,8 @@
     "script": "Ethi",
     "text": "ኑ! ሀገሬን እናዋልዳት እና ሌሎች"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2017
   },
   {
    "cover": {

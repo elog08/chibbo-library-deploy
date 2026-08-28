@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "batsuwaqdusabunashinodasostanya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_67qgvsec",
+ "id": "pe_67qgvsec",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "betsu weqdus abune shinoda sostenya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብፁዕ ወቅዱስ አቡነ ሺኖዳ ሦስተኛ"
+  },
+  "romanized": "betsu weqdus abune shinoda sostenya",
+  "sort_key": "ብጹእወቅዱስአቡነሺኖዳሶስተኛ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የምስጋና ሕይወት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8c0e47a2e7188851c3f1608f64a60515efeb5f11ad131cd4126a379e004562f5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qaq2mcz2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qaq2mcz2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_67qgvsec",
+     "name": "ብፁዕ ወቅዱስ አቡነ ሺኖዳ ሦስተኛ",
+     "role": "author",
+     "romanized": "betsu weqdus abune shinoda sostenya"
+    },
+    {
+     "id": "pe_f3bw9j21",
+     "name": "ዲ/ን ዘኤልያስ ወ/ሚካኤል",
+     "role": "author",
+     "romanized": "di/ne zeelyas we/mikael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qaq2mcz2",
+   "id": "wk_qaq2mcz2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemesgana heywet",
+    "script": "Ethi",
+    "text": "የምስጋና ሕይወት"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "yasmakwarqu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_t0f8fcqz",
+ "id": "pe_t0f8fcqz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yismake Worku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ይስማዕክ ወርቁ"
+  },
+  "romanized": "Yismake Worku",
+  "sort_key": "ይስማእክወርቁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኦጋዴን ድመቶች በ ይስማዕከ ወርቁ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a18753959f526f928c0005b255a61ba8c50109ffce55e0c4c802730ed734ca28",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_btmfrkd1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_btmfrkd1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t0f8fcqz",
+     "name": "ይስማዕክ ወርቁ",
+     "role": "author",
+     "romanized": "Yismake Worku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_btmfrkd1",
+   "id": "wk_btmfrkd1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "OGADEN",
+    "script": "Ethi",
+    "text": "የአጋዴን ድመቶች"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

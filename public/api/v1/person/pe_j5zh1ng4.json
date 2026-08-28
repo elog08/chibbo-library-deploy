@@ -1,0 +1,84 @@
+{
+ "extensions": {},
+ "fingerprint": "rondabayaran",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j5zh1ng4",
+ "id": "pe_j5zh1ng4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Rhonda Byrne",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሮንዳ ቤይርን"
+  },
+  "romanized": "Rhonda Byrne",
+  "sort_key": "ሮንዳቤይርን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ምስጢሩ - ሮህንዳ ባይረን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "4c7430fb13cbe34ca3f51f9e3e07cd787c6af45c6632badacc5d0897e6ae937f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bcndf78v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bcndf78v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j5zh1ng4",
+     "name": "ሮንዳ ቤይርን",
+     "role": "author",
+     "romanized": "Rhonda Byrne"
+    },
+    {
+     "id": "pe_bbk2y1hv",
+     "name": "ጋሻው አባተ",
+     "role": "author",
+     "romanized": "gashaw abate"
+    },
+    {
+     "id": "pe_pv3fb9c5",
+     "name": "በዕውቀቱ ታደሰ",
+     "role": "author",
+     "romanized": "beewqetu tadese"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_bcndf78v",
+   "id": "wk_bcndf78v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mestiru",
+    "script": "Ethi",
+    "text": "ምስጢሩ"
+   },
+   "type": "work"
+  }
+ ]
+}

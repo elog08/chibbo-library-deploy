@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "marirasambalay",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_b3a9n3hs",
+ "id": "pe_b3a9n3hs",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "meri. ras e. em. belay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መሪ. ራስ ኤ. ኤም. በላይ"
+  },
+  "romanized": "meri. ras e. em. belay",
+  "sort_key": "መሪራስኤኤምበላይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጥንቷ የኢትዮጵያ ትንሳኤ ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "69a00d59e8ae1227bdf67d0159f97a7c7a72d95101113c035ad0f204a74726ed",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6m9j5sm1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6m9j5sm1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_b3a9n3hs",
+     "name": "መሪ. ራስ ኤ. ኤም. በላይ",
+     "role": "author",
+     "romanized": "meri. ras e. em. belay"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_6m9j5sm1",
+   "id": "wk_6m9j5sm1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetentwa yeityopya tensae tarik",
+    "script": "Ethi",
+    "text": "የጥንቷ የኢትዮጵያ ትንሳኤ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

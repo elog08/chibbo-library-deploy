@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "zawdatafara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_byryc69d",
+ "id": "pe_byryc69d",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zewde tefera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘውዴ ተፈራ"
+  },
+  "romanized": "zewde tefera",
+  "sort_key": "ዘውዴተፈራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እምቧ በሉ ሰወች ዳኛቸው ወርቁ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b0e9597db95497cc7fe9a7f4599d338f8ff1c12832313ee4fa8f939ecbeec44c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_19w79eb9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_19w79eb9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    },
+    {
+     "id": "pe_byryc69d",
+     "name": "ዘውዴ ተፈራ",
+     "role": "author",
+     "romanized": "zewde tefera"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1974-09-11/1975-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_19w79eb9",
+   "id": "wk_19w79eb9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "embi belu sewoch",
+    "script": "Ethi",
+    "text": "እምቢ በሉ ሰዎች"
+   },
+   "type": "work",
+   "year": 1974
+  }
+ ]
+}

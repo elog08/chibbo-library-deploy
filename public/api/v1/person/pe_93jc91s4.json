@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "marshabanabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_93jc91s4",
+ "id": "pe_93jc91s4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mersha benebere",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መርሻ በነበረ"
+  },
+  "romanized": "mersha benebere",
+  "sort_key": "መርሻበነበረ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የነፍስ መንገድ - ኦሾ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "935802bf076b03a76c0c1020f7adf8fa9033087dac5ed8e2f3cc2c643757150d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bdng1hx3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bdng1hx3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_93jc91s4",
+     "name": "መርሻ በነበረ",
+     "role": "author",
+     "romanized": "mersha benebere"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_bdng1hx3",
+   "id": "wk_bdng1hx3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenefes menged",
+    "script": "Ethi",
+    "text": "የነፍስ መንገድ"
+   },
+   "type": "work"
+  }
+ ]
+}

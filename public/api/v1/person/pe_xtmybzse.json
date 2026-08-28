@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadachtaklab",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xtmybzse",
+ "id": "pe_xtmybzse",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kebedech tekleab",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከበደች ተክለአብ"
+  },
+  "romanized": "kebedech tekleab",
+  "sort_key": "ከበደችተክለአብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የት ነው - ከበደች ተክለአብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "af00927ae9b8b9c3b8b2c8c3baeea298e93a5e1e539cd4dabdd193f31af7d91b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_efqnecq2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_efqnecq2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xtmybzse",
+     "name": "ከበደች ተክለአብ",
+     "role": "author",
+     "romanized": "kebedech tekleab"
+    },
+    {
+     "id": "pe_qb27bcvp",
+     "name": "እሸቱ ጥሩነህ",
+     "role": "author",
+     "romanized": "eshetu teruneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_efqnecq2",
+   "id": "wk_efqnecq2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yet new?",
+    "script": "Ethi",
+    "text": "የት ነው?"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

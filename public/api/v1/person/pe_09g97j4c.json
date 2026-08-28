@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasi",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_09g97j4c",
+ "id": "pe_09g97j4c",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohanes si.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሃንስ ሲ."
+  },
+  "romanized": "yohanes si.",
+  "sort_key": "ዮሀንስሲ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኑሮ ማፕ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2d65894eb420ba93ae4a07e27c1e4d3d5b112e28cd369187f4e154193533be6e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_gxtftv05.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_gxtftv05.png"
+   },
+   "credits": [
+    {
+     "id": "pe_20zw4w7f",
+     "name": "ዶ/ር ኤርሲዶ ለንደቦ",
+     "role": "author",
+     "romanized": "do/re ersido lendebo"
+    },
+    {
+     "id": "pe_09g97j4c",
+     "name": "ዮሃንስ ሲ.",
+     "role": "author",
+     "romanized": "yohanes si."
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_gxtftv05",
+   "id": "wk_gxtftv05",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "nuroMAP",
+    "script": "Latn",
+    "text": "ኑሮMAP"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

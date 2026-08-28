@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "balaygaday",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6cqckcm0",
+ "id": "pe_6cqckcm0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "BELAI GIDAY",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በላይ ግደይ"
+  },
+  "romanized": "BELAI GIDAY",
+  "sort_key": "በላይግደይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያ ስልጣኔ - ከበላይ ግደይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0f6c058ae31ce959addcc48b8c710fa2fed03efa4ee543a465c9c86265825c4f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_nrye8kqf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nrye8kqf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6cqckcm0",
+     "name": "በላይ ግደይ",
+     "role": "author",
+     "romanized": "BELAI GIDAY"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nrye8kqf",
+   "id": "wk_nrye8kqf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya seltane",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሥልጣኔ"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

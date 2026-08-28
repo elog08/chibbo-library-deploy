@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "waldagiyorgiswaldayohanas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bn24r4xn",
+ "id": "pe_bn24r4xn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "welde giyorgis welde yohenes",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወልደ ጊዮርጊስ ወልደ ዮሐንስ"
+  },
+  "romanized": "welde giyorgis welde yohenes",
+  "sort_key": "ወልደጊዮርጊስወልደዮሀንስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አግዐዚ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b83d49bddcb13b1b6ff057ac9fcf49a3356c2f471970bba895aacfe7c26880f7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_395k81bn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_395k81bn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bn24r4xn",
+     "name": "ወልደ ጊዮርጊስ ወልደ ዮሐንስ",
+     "role": "author",
+     "romanized": "welde giyorgis welde yohenes"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1968-09-11/1969-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_395k81bn",
+   "id": "wk_395k81bn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "agazi wede wech ager heje neber",
+    "script": "Ethi",
+    "text": "አግዐዚ ወደ ውጭ አገር ሔጄ ነበር"
+   },
+   "type": "work",
+   "year": 1968
+  }
+ ]
+}

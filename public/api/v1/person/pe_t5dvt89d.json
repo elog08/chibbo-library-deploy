@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "tamratgazakany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_t5dvt89d",
+ "id": "pe_t5dvt89d",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tamrat gezakeny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታምራት ገዛኸኝ"
+  },
+  "romanized": "tamrat gezakeny",
+  "sort_key": "ታምራትገዛከኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰባተኛው መልአክ kelam_book.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9a0ecbb0441a382d8b1af3b366994d669e884a6f8dffbe7d84680d4d1ff5762f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_p91vjv3g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p91vjv3g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz78y5xr",
+     "name": "ስብሀት ገብረእግዚአብሄር",
+     "role": "author",
+     "romanized": "sebhet gebreegziabher"
+    },
+    {
+     "id": "pe_t5dvt89d",
+     "name": "ታምራት ገዛኸኝ",
+     "role": "author",
+     "romanized": "tamrat gezakeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_p91vjv3g",
+   "id": "wk_p91vjv3g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sebatenyaw melak",
+    "script": "Ethi",
+    "text": "ሰባተኛው መልአክ"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "durazh",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fje03nnq",
+ "id": "pe_fje03nnq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "duraazh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዱራአዥ"
+  },
+  "romanized": "duraazh",
+  "sort_key": "ዱራአዥ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እርካብና መንበር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d2a1bc7a433f9a6dca934b75d1504476de6479d960679361de14274a2873fc8f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_82dk4dg4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_82dk4dg4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fje03nnq",
+     "name": "ዱራአዥ",
+     "role": "author",
+     "romanized": "duraazh"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_82dk4dg4",
+   "id": "wk_82dk4dg4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "erkabna menber",
+    "script": "Ethi",
+    "text": "እርካብና መንበር"
+   },
+   "type": "work"
+  }
+ ]
+}

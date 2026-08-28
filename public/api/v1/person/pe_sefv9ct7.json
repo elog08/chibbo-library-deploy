@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "diraza",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_sefv9ct7",
+ "id": "pe_sefv9ct7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "di ra a ze",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲ ራ ዓ ዝ"
+  },
+  "romanized": "di ra a ze",
+  "sort_key": "ዲራአዝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሎጎስ በለሆሳስ ዲራዓዝ 2007.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2524c16153cc41821900ec55f42cd6869c75d96030c4fdbc5c28426819c6cffa",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_v32aard9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_v32aard9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sefv9ct7",
+     "name": "ዲ ራ ዓ ዝ",
+     "role": "author",
+     "romanized": "di ra a ze"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_v32aard9",
+   "id": "wk_v32aard9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "logos belehosas",
+    "script": "Ethi",
+    "text": "ሎጎስ በለሆሳስ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

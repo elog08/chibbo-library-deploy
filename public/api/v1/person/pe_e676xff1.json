@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "malasawagu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_e676xff1",
+ "id": "pe_e676xff1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "melese wegu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መለሰ ወጉ"
+  },
+  "romanized": "melese wegu",
+  "sort_key": "መለሰወጉ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአእምሮ ጭንቀት - መለሰ ወጉ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9a464a97c08079f883184cd882a01e1e7c020a359760dfc4072f5c9879d164aa",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_afdyf6nb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_afdyf6nb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_e676xff1",
+     "name": "መለሰ ወጉ",
+     "role": "author",
+     "romanized": "melese wegu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1992",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_afdyf6nb",
+   "id": "wk_afdyf6nb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeaemro chenqet",
+    "script": "Ethi",
+    "text": "የአዕምሮ ጭንቀት"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

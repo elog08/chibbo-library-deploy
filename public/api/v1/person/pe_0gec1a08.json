@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "makwananandalkachaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0gec1a08",
+ "id": "pe_0gec1a08",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekwenen endalkachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መኰንን እንዳልካቸው"
+  },
+  "romanized": "mekwenen endalkachew",
+  "sort_key": "መከንንእንዳልካቸው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፀሐይ_መስፍን_ልብ_ወለድ_ታርክ_በ_ቢትወደድ_መኰንን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c4bad8535a907db923480fded76f2a851220eee0023fd8d1c58b2155df47d32e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_y0e2vdrm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_y0e2vdrm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0gec1a08",
+     "name": "መኰንን እንዳልካቸው",
+     "role": "author",
+     "romanized": "mekwenen endalkachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1957-09-11/1958-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_y0e2vdrm",
+   "id": "wk_y0e2vdrm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tsehey mesefen leb weled tarik",
+    "script": "Ethi",
+    "text": "ፀሐይ መስፍን ልብ ወለድ ታሪክ"
+   },
+   "type": "work",
+   "year": 1957
+  }
+ ]
+}

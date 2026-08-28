@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "tafarigadamu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dyadxa4d",
+ "id": "pe_dyadxa4d",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "teferi gedamu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተፈሪ ገዳሙ"
+  },
+  "romanized": "teferi gedamu",
+  "sort_key": "ተፈሪገዳሙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of 1001 ሌሊት ( ቅፅ 1 ) - ተረፈ ገዳሙ.pdf",
+  "Read from the title page of አንድ ሺ አንድ ሌሊት.pdf",
+  "Read from the title page of አንድ_ሺህ_አንድ_ሌሊት_ቅፅ_2_@OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f6af015a14f7f6695a56a2d11268963570c59febd7867a5f9e2708699268680a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_prbnanph.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_prbnanph.png"
+   },
+   "credits": [
+    {
+     "id": "pe_dyadxa4d",
+     "name": "ተፈሪ ገዳሙ",
+     "role": "author",
+     "romanized": "teferi gedamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_prbnanph",
+   "id": "wk_prbnanph",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned shi aned lelit",
+    "script": "Ethi",
+    "text": "አንድ ሺ አንድ ሌሊት"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

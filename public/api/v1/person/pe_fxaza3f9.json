@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "arvinagwalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fxaza3f9",
+ "id": "pe_fxaza3f9",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ervineg walas",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እርቪንግ ዋላስ"
+  },
+  "romanized": "ervineg walas",
+  "sort_key": "እርቪንግዋላስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጉብሊቱ ምስጢር @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0baf4084ef07868511406bcee4720be0b02f44e35b7ada24c056ff6f50c2e018",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8qwphf1r.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8qwphf1r.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fxaza3f9",
+     "name": "እርቪንግ ዋላስ",
+     "role": "author",
+     "romanized": "ervineg walas"
+    },
+    {
+     "id": "pe_qbvyjgn8",
+     "name": "ያሬድ ብርሃኑ ሣህሌ",
+     "role": "author",
+     "romanized": "yared berhanu sahle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1998-09-11/1999-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_8qwphf1r",
+   "id": "wk_8qwphf1r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Miracle",
+    "script": "Ethi",
+    "text": "የጉብሊቷ ሚስጥር"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

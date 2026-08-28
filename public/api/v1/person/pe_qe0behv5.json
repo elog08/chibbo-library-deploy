@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "habtamualabachaw",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_qe0behv5",
  "id": "pe_qe0behv5",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ሀብታሙአለባቸው"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የሱፍ አበባ - ሀብታሙ አለባቸው.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -74,10 +78,22 @@
      "name": "ሀብታሙ አለባቸው",
      "role": "author",
      "romanized": "Habtamu Alebachew"
+    },
+    {
+     "id": "pe_kp4yhrjv",
+     "name": "ሐኒባል ገብረሕይወት",
+     "role": "author",
+     "romanized": "henibal gebreheywet"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_98zc6sdd",
    "id": "wk_98zc6sdd",
@@ -89,7 +105,8 @@
     "script": "Ethi",
     "text": "የሱፍ አበባ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2015
   },
   {
    "cover": {

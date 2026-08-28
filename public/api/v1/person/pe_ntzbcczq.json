@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "akharatol",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ntzbcczq",
+ "id": "pe_ntzbcczq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ekheret tol",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤክሀርት ቶል"
+  },
+  "romanized": "ekheret tol",
+  "sort_key": "ኤክሀርትቶል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአሁን ሃያልነት - ኤክሀርት ቶል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d6b06537f75ae3fa94b32dc3f4c224bf3ca8f4458d226720a5883253d2e307e9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_efrbxje1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_efrbxje1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ntzbcczq",
+     "name": "ኤክሀርት ቶል",
+     "role": "author",
+     "romanized": "ekheret tol"
+    },
+    {
+     "id": "pe_8n0krxes",
+     "name": "ብስራት እውነቱ",
+     "role": "author",
+     "romanized": "besrat ewnetu"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_efrbxje1",
+   "id": "wk_efrbxje1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Power of Now",
+    "script": "Ethi",
+    "text": "የአሁን ሃያልነት"
+   },
+   "type": "work"
+  }
+ ]
+}

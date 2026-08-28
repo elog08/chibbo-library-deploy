@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "andargachawtsaga",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_p3y5gwq5",
+ "id": "pe_p3y5gwq5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Andargachew Tsege",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንዳርጋቸው ፅጌ"
+  },
+  "romanized": "Andargachew Tsege",
+  "sort_key": "አንዳርጋቸውጽጌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትውልድ_አይደናገር_እኛም_እንናገር_አንዳርጋቸው_ፅጌ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e2bc4d3e8047c49bc19215ac4fe10b267b444d077b0ac407ba73da47f7d15b79",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7nczhmyh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7nczhmyh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_p3y5gwq5",
+     "name": "አንዳርጋቸው ፅጌ",
+     "role": "author",
+     "romanized": "Andargachew Tsege"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_7nczhmyh",
+   "id": "wk_7nczhmyh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tiwlid AyeDenager Egnam EniNager Volume 1",
+    "script": "Ethi",
+    "text": "ትውልድ አይደናገር እኛም እንናገር"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "tiyusdaylobsanagrampa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ef3t63ja",
+ "id": "pe_ef3t63ja",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "T. LOBOSANG RAMPA",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቲዩስዴይ ሎብሳንግ ራምፓ"
+  },
+  "romanized": "T. LOBOSANG RAMPA",
+  "sort_key": "ቲዩስዴይሎብሳንግራምፓ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እናንተ_ለዘላለም_ትዩስዴይ_ሎብሳንግ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b9b6e4dbb5d97209892f3b9532fc0039e2908007163bf875cf4b33e4a63c6fed",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8vjrybdx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8vjrybdx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ef3t63ja",
+     "name": "ቲዩስዴይ ሎብሳንግ ራምፓ",
+     "role": "author",
+     "romanized": "T. LOBOSANG RAMPA"
+    },
+    {
+     "id": "pe_jdc5qscr",
+     "name": "በትረ-አሮን ጌሬ ወርቅ",
+     "role": "author",
+     "romanized": "betre-aron gere wereq"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8vjrybdx",
+   "id": "wk_8vjrybdx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YOU-FOREVER",
+    "script": "Ethi",
+    "text": "እናንተ-ለዘላለም"
+   },
+   "type": "work"
+  }
+ ]
+}

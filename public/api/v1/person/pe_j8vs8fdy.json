@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "taganyabalhatu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j8vs8fdy",
+ "id": "pe_j8vs8fdy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tegenye belhetu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተገኘ ብልሔቱ"
+  },
+  "romanized": "tegenye belhetu",
+  "sort_key": "ተገኘብልሄቱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፍሬ አልባ በለሶች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "4cdbe51f708be5249e8f1ea1cf6f51069d584c9511513ab03f5cd4bd84f21533",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pzv5vsbk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pzv5vsbk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j8vs8fdy",
+     "name": "ተገኘ ብልሔቱ",
+     "role": "author",
+     "romanized": "tegenye belhetu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_pzv5vsbk",
+   "id": "wk_pzv5vsbk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fere alba belesoch (yeqeb weset gemena)",
+    "script": "Ethi",
+    "text": "ፍሬ አልባ በለሶች (የቅብ ውስጥ ገመና)"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

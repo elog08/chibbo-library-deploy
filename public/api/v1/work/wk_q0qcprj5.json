@@ -10,17 +10,45 @@
    "order": 1,
    "person": "pe_2pxe4qa4",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_s3sq0rf3",
+   "role": "author"
+  },
+  {
+   "order": 3,
+   "person": "pe_5bwr2wgn",
+   "role": "author"
   }
  ],
  "editions": [
-  "ed_vnfcgq27"
+  "ed_vnfcgq27",
+  "ed_245d9s2p"
  ],
  "extensions": {},
  "fingerprint": "ባይብልኮድ|hanimalyas",
- "flags": [],
+ "first_published": {
+  "edtf": "2017-09-11/2018-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2010"
+  }
+ },
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/work/wk_q0qcprj5",
  "id": "wk_q0qcprj5",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "80f870684c84c688",
+   "882b93f09cb333d8",
+   "980e8733939317f0",
+   "c80be76b030b13f0",
+   "e42721073727a7c0"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,13 +81,15 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.05/5 from 21 rating(s), 9 written review(s)"
+  "ethiobookreview community rating 4.05/5 from 21 rating(s), 9 written review(s)",
+  "Read from PDF front matter: ባይብል ኮድ.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/bible-code"
  },
+ "publisher_name": "ቡክ ላንድ አሳታሚና አከፋፋይ",
  "relations": [],
  "rights": {
   "shippable": false,

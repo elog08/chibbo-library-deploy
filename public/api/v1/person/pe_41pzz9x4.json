@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "yalqalayalaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_41pzz9x4",
+ "id": "pe_41pzz9x4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yelqal ayalew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ይልቃል አያሌው"
+  },
+  "romanized": "yelqal ayalew",
+  "sort_key": "ይልቃልአያሌው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የመኖር ጥበብ - ኦሾ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d8a5088e1f81201617d5db997104a32f190faa41cdcd7ff1d47bb3c687dc0d15",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_43thx399.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_43thx399.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_hvwaxmyc",
+     "name": "ቴዎድሮስ ካሬ",
+     "role": "author",
+     "romanized": "tewodros kare"
+    },
+    {
+     "id": "pe_41pzz9x4",
+     "name": "ይልቃል አያሌው",
+     "role": "author",
+     "romanized": "yelqal ayalew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_43thx399",
+   "id": "wk_43thx399",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemenor tebeb",
+    "script": "Ethi",
+    "text": "የመኖር ጥበብ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

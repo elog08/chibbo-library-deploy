@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "kamatatafara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ydrcc9vd",
+ "id": "pe_ydrcc9vd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kemete tefera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከመቴ ተፈራ"
+  },
+  "romanized": "kemete tefera",
+  "sort_key": "ከመቴተፈራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሃገር_ባህል_ምግባችንን_ሰርተን_እንብላ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "eb8f2dda221146893d2576fc81d035a863b73ec79e3ecbbef25b0eaa9dd54aa2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rrsdphcq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rrsdphcq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ydrcc9vd",
+     "name": "ከመቴ ተፈራ",
+     "role": "author",
+     "romanized": "kemete tefera"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_rrsdphcq",
+   "id": "wk_rrsdphcq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bewech ager leminoru ityopyawyan mastawesha",
+    "script": "Ethi",
+    "text": "በውጭ አገር ለሚኖሩ ኢትዮጵያውያን ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

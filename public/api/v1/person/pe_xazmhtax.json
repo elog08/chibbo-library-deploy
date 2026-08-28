@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "waraqyadamsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xazmhtax",
+ "id": "pe_xazmhtax",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wereqye demse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወርቅዬ ደምሴ"
+  },
+  "romanized": "wereqye demse",
+  "sort_key": "ወርቅዬደምሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፍቅር ጀርባው @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "393b6df8b1086120948cdc440a38319d2197ee63859c8a912237a102205699d8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_m55zbydr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m55zbydr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xazmhtax",
+     "name": "ወርቅዬ ደምሴ",
+     "role": "author",
+     "romanized": "wereqye demse"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_m55zbydr",
+   "id": "wk_m55zbydr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefeqer jerbaw",
+    "script": "Ethi",
+    "text": "የፍቅር ጀርባው"
+   },
+   "type": "work"
+  }
+ ]
+}

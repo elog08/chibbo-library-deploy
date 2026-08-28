@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "liqatababataklilabarhanwaldaqirqos",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xnyxw8td",
+ "id": "pe_xnyxw8td",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "liqe tebebet aklile berhan welde qirqos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሊቀ ጠበብት አክሊለ ብርሃን ወልደ ቂርቆስ"
+  },
+  "romanized": "liqe tebebet aklile berhan welde qirqos",
+  "sort_key": "ሊቀጠበብትአክሊለብርሀንወልደቂርቆስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መርሐ ልቡና.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7826c06daba2c21f6cecd7a33aeb0bfe79a4261de7848f6c072156e6ee0b4032",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7421gm4f.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7421gm4f.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xnyxw8td",
+     "name": "ሊቀ ጠበብት አክሊለ ብርሃን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "liqe tebebet aklile berhan welde qirqos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1953-09-11/1954-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_7421gm4f",
+   "id": "wk_7421gm4f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "merhe lebuna",
+    "script": "Ethi",
+    "text": "መርሐ ልቡና"
+   },
+   "type": "work",
+   "year": 1953
+  }
+ ]
+}

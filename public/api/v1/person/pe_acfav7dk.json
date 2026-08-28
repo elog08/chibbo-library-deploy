@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "abaydamsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_acfav7dk",
+ "id": "pe_acfav7dk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abey demse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዐብይ ደምሴ"
+  },
+  "romanized": "abey demse",
+  "sort_key": "አብይደምሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተናቁ_ዕንቁዎች_መዲና_ገብረማርያም.pdf",
+  "Read from the title page of ጃኩሊን - አጋታ ክርስቲ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c8ee47d4c3fbcfad8cef08118c6cce7b4a11a767c9dbc43bdcbf9e204336e8ef",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a5q1syjx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a5q1syjx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_590hh3c8",
+     "name": "መዲና ገ/ማርያም",
+     "role": "author",
+     "romanized": "Medina Gebramariam"
+    },
+    {
+     "id": "pe_acfav7dk",
+     "name": "ዐብይ ደምሴ",
+     "role": "author",
+     "romanized": "abey demse"
+    },
+    {
+     "id": "pe_xtdk132m",
+     "name": "ምናሴ ጌታቸው",
+     "role": "author",
+     "romanized": "menase getachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1997-09-11/1998-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a5q1syjx",
+   "id": "wk_a5q1syjx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "CASTAWAY PEARLS",
+    "script": "Ethi",
+    "text": "የተናቁ ዕንቁዎች"
+   },
+   "type": "work",
+   "year": 1997
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_kw0gt8ax.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kw0gt8ax.png"
+   },
+   "credits": [
+    {
+     "id": "pe_av35se2z",
+     "name": "አጋታ ክሪስቴ",
+     "role": "author",
+     "romanized": "agata keriste"
+    },
+    {
+     "id": "pe_acfav7dk",
+     "name": "ዐብይ ደምሴ",
+     "role": "author",
+     "romanized": "abey demse"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1987-09-12/1988-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kw0gt8ax",
+   "id": "wk_kw0gt8ax",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "jakulin",
+    "script": "Ethi",
+    "text": "ጃኩሊን"
+   },
+   "type": "work",
+   "year": 1987
+  }
+ ]
+}

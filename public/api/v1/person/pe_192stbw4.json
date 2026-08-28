@@ -1,0 +1,141 @@
+{
+ "extensions": {},
+ "fingerprint": "bogalabalachaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_192stbw4",
+ "id": "pe_192stbw4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bogale belachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቦጋለ በላቸው"
+  },
+  "romanized": "bogale belachew",
+  "sort_key": "ቦጋለበላቸው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ተረበኛው ናስሩዲን - አማረ ማሞ.pdf",
+  "Read from the title page of የእንስሳት_እድር_#_ኦርዌል_ጆርጅ_ትርጉም_#_ለማ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b285f7e9098800a26f28e1923927153f51c8da1a232b8f8aa5f9492eb301fce7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5yjrycbw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5yjrycbw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m05pe2vz",
+     "name": "ጆርጅ ኦርዌል",
+     "role": "author",
+     "romanized": "jorej orwel"
+    },
+    {
+     "id": "pe_wrakcpf0",
+     "name": "ለማ ፈይሣ ጭቅስየ",
+     "role": "author",
+     "romanized": "lema feysa cheqesye"
+    },
+    {
+     "id": "pe_192stbw4",
+     "name": "ቦጋለ በላቸው",
+     "role": "author",
+     "romanized": "bogale belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1990-09-11/1991-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5yjrycbw",
+   "id": "wk_5yjrycbw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeenessat eder (animal farem)",
+    "script": "Ethi",
+    "text": "የእንስሳት ዕድር (አኒማል ፋርም)"
+   },
+   "type": "work",
+   "year": 1990
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_w9ahmpjb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w9ahmpjb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ygfesv3",
+     "name": "ኢድሪስ ሻህ",
+     "role": "author",
+     "romanized": "Idries Shah"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_192stbw4",
+     "name": "ቦጋለ በላቸው",
+     "role": "author",
+     "romanized": "bogale belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w9ahmpjb",
+   "id": "wk_w9ahmpjb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "terebenyaw nasrudin",
+    "script": "Ethi",
+    "text": "ተረበኛው ናስሩዲን"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "haylamaryamangasha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0f9a3hjc",
+ "id": "pe_0f9a3hjc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "haylemaryam mengesha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኃይለማርያም መንገሻ"
+  },
+  "romanized": "haylemaryam mengesha",
+  "sort_key": "ሀይለማርያምመንገሻ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቱሪስት መስህብ ሀብቶች ጎንደር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e5927199df990606c36702c6d45c8e8b9bdffc2313b292d45a82459017ca179d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_y6wh1zw7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_y6wh1zw7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0f9a3hjc",
+     "name": "ኃይለማርያም መንገሻ",
+     "role": "author",
+     "romanized": "haylemaryam mengesha"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1998-09-11/1999-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_y6wh1zw7",
+   "id": "wk_y6wh1zw7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamara kelel yeturiset meseheb habtoch (acher qenyet)",
+    "script": "Ethi",
+    "text": "የአማራ ክልል የቱሪስት መስህብ ሃብቶች (አጭር ቅኝት)"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

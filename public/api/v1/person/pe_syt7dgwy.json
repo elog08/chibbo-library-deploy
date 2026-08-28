@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "dorayamanagamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_syt7dgwy",
+ "id": "pe_syt7dgwy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re yemane ge/maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር የማነ ገ/ማርያም"
+  },
+  "romanized": "do/re yemane ge/maryam",
+  "sort_key": "ዶርየማነገማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፍልስፍና_መግቢያ_ቅፅ_2_የማነ_ገብረማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a3aa391dc454ecf4606f839d93a9dc189836bf2c51e0b0623fdfdd592d956a82",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cwza0pbv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cwza0pbv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_syt7dgwy",
+     "name": "ዶ/ር የማነ ገ/ማርያም",
+     "role": "author",
+     "romanized": "do/re yemane ge/maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_cwza0pbv",
+   "id": "wk_cwza0pbv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefelesefna megbiya",
+    "script": "Ethi",
+    "text": "የፍልስፍና መግቢያ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

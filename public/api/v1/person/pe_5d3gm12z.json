@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "danyachawyalma",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5d3gm12z",
+ "id": "pe_5d3gm12z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danyachew yelma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳኛቸው ይልማ"
+  },
+  "romanized": "danyachew yelma",
+  "sort_key": "ዳኛቸውይልማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኬኔዲን ማ ገደላቸው - ዴቪድ ኢ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2a8ceb9b782b84013f5a71e3f1507c8efa8fa989feced0dc1ab13fafb6192acd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4q52h715.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4q52h715.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a6bkzsj7",
+     "name": "ዴቪድ ኢ ሼም",
+     "role": "author",
+     "romanized": "devid i shem"
+    },
+    {
+     "id": "pe_5d3gm12z",
+     "name": "ዳኛቸው ይልማ",
+     "role": "author",
+     "romanized": "danyachew yelma"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4q52h715",
+   "id": "wk_4q52h715",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kenedin ma gedelachew?",
+    "script": "Ethi",
+    "text": "ኬኔዲን ማ ገደላቸው?"
+   },
+   "type": "work"
+  }
+ ]
+}

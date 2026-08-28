@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "yasinhusan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2h95bgh3",
+ "id": "pe_2h95bgh3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yasin husen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ያሲን ሑሴን"
+  },
+  "romanized": "yasin husen",
+  "sort_key": "ያሲንሁሴን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቁራስ_ሀረሪ_ኦሮምኛ_አማርኛ_መዝገበ_ቃላት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5caa0b3315f8699e9686c25e9db5f7cbadb3704e6eda2c57d62e41aa8dc44ff2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t7ftmzq3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t7ftmzq3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2h95bgh3",
+     "name": "ያሲን ሑሴን",
+     "role": "author",
+     "romanized": "yasin husen"
+    },
+    {
+     "id": "pe_wthxee85",
+     "name": "አብዱልአዚዝ አደም",
+     "role": "author",
+     "romanized": "abdulaziz adem"
+    },
+    {
+     "id": "pe_m0n93ssk",
+     "name": "ወሒብ መሐመድ",
+     "role": "author",
+     "romanized": "wehib mehemed"
+    },
+    {
+     "id": "pe_8hyq6xqg",
+     "name": "አዲል አብደላ ሐሰን",
+     "role": "author",
+     "romanized": "Adil Abdella"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous",
+    "multilingual",
+    "language-unmapped"
+   ],
+   "href": "https://chibbo.app/work/wk_t7ftmzq3",
+   "id": "wk_t7ftmzq3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Galmee jechoota",
+    "script": "Ethi",
+    "text": "“ቁራስ” መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

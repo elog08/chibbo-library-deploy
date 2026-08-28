@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "gazanyamana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jznby5n5",
+ "id": "pe_jznby5n5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "gezan yemane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግዕዛን የማነ"
+  },
+  "romanized": "gezan yemane",
+  "sort_key": "ግእዛንየማነ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እናት - ማክሲም ጎርኪይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d549fae32bc3bff5e0d2951ab544f911f5a752e50d2852199bf47bf6c7e25db9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t21w9xvy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t21w9xvy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tjhcxdx8",
+     "name": "ማክሲም ጎርኪይ",
+     "role": "author",
+     "romanized": "maksim gorkiy"
+    },
+    {
+     "id": "pe_jznby5n5",
+     "name": "ግዕዛን የማነ",
+     "role": "author",
+     "romanized": "gezan yemane"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1986",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_t21w9xvy",
+   "id": "wk_t21w9xvy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "enat",
+    "script": "Ethi",
+    "text": "እናት"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

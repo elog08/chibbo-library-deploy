@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "jonwildon",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_az981y21",
+ "id": "pe_az981y21",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "jon wildon",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጆን ዊልዶን"
+  },
+  "romanized": "jon wildon",
+  "sort_key": "ጆንዊልዶን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዩፎስ በራሪ ዲስኮች @OLDBOOKSPD.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "585f2148b090884bf8d5f5fc0db4f8ca1671e8b5990e450afebe157be850a757",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a0hq99cp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a0hq99cp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_az981y21",
+     "name": "ጆን ዊልዶን",
+     "role": "author",
+     "romanized": "jon wildon"
+    },
+    {
+     "id": "pe_v1mbbz2r",
+     "name": "ዞላ ሊቪቲት",
+     "role": "author",
+     "romanized": "zola livitit"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a0hq99cp",
+   "id": "wk_a0hq99cp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yufos-berari diskoch",
+    "script": "Ethi",
+    "text": "ዩፎስ-በራሪ ዲስኮች"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

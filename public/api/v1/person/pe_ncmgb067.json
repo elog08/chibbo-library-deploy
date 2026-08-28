@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "makhadosinthumularamabulana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ncmgb067",
+ "id": "pe_ncmgb067",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Makhado Sinthumule Ramabulana"
+  },
+  "romanized": "Makhado Sinthumule Ramabulana",
+  "sort_key": "makhadosinthumuleramabulana"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቤተክርስቲያን ማፊያዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "63a021ec37dd39fb42cd9b5e6886a3eb0ff373cf7ad9eb660e63ff2b616232f5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4jx73gq2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4jx73gq2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ncmgb067",
+     "name": "Makhado Sinthumule Ramabulana",
+     "role": "author",
+     "romanized": "Makhado Sinthumule Ramabulana"
+    },
+    {
+     "id": "pe_2pxe4qa4",
+     "name": "ሀኒም ኤልያስ",
+     "role": "author",
+     "romanized": "Hanim Eliyas"
+    },
+    {
+     "id": "pe_s3sq0rf3",
+     "name": "ተክሉ ጥላሁን",
+     "role": "author",
+     "romanized": "teklu telahun"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4jx73gq2",
+   "id": "wk_4jx73gq2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebetekerestiyan mafiyawoch",
+    "script": "Ethi",
+    "text": "የቤተክርስቲያን ማፊያዎች"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

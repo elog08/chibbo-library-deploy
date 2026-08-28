@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "alaqatsagagabrakidan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zsnfgwx7",
+ "id": "pe_zsnfgwx7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aleqa tsege gebre kidan",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አለቃ ጽጌ ገብረ ኪዳን"
+  },
+  "romanized": "aleqa tsege gebre kidan",
+  "sort_key": "አለቃጽጌገብረኪዳን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያለ መምህር አስተማሪ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9d6c573066e962c3f6028b90092710741f46d8e737d9b2d7d2386613cb0ee98f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sa8mnddt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sa8mnddt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zsnfgwx7",
+     "name": "አለቃ ጽጌ ገብረ ኪዳን",
+     "role": "author",
+     "romanized": "aleqa tsege gebre kidan"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sa8mnddt",
+   "id": "wk_sa8mnddt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yale memeher astemari",
+    "script": "Ethi",
+    "text": "ያለ መምህር አስተማሪ"
+   },
+   "type": "work",
+   "year": 1965
+  }
+ ]
+}

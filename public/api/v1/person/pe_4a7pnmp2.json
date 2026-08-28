@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dajazmachgarmachawtaklahawaryat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4a7pnmp2",
+ "id": "pe_4a7pnmp2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dejazmach germachew tekle hewaryat",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደጃዝማች ግርማቸው ተክለ ሐዋርያት"
+  },
+  "romanized": "dejazmach germachew tekle hewaryat",
+  "sort_key": "ደጃዝማችግርማቸውተክለሀዋርያት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቴዎድሮስ_ታሪካዊ_ድራማ_ከደጃዝማች_ግርማቸው_ተክለ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5d170aa5839b8ebcf6dc85d8027285730539d394a14fd7acf586a7a4aa6daeb2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zabdrtdr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zabdrtdr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4a7pnmp2",
+     "name": "ደጃዝማች ግርማቸው ተክለ ሐዋርያት",
+     "role": "author",
+     "romanized": "dejazmach germachew tekle hewaryat"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zabdrtdr",
+   "id": "wk_zabdrtdr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tewodros tarikawi derama",
+    "script": "Ethi",
+    "text": "ቴዎድሮስ ታሪካዊ ድራማ"
+   },
+   "type": "work"
+  }
+ ]
+}

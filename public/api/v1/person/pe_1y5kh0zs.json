@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "mazamargarma",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_1y5kh0zs",
  "id": "pe_1y5kh0zs",
  "identifiers": {
@@ -53,7 +55,9 @@
   "sort_key": "መዘምርግርማ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሁቱ ቱሲ Left to Tell (Amharic) by Mezemir Girma.pdf"
+ ],
  "portrait": {
   "bytes": 67353,
   "path": "assets/portraits/pe_1y5kh0zs.png",
@@ -105,6 +109,53 @@
    },
    "type": "work",
    "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_asmfv0y0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_asmfv0y0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_aw4sh3ag",
+     "name": "ኢማኪዩሌ ኢሊባጊዛ",
+     "role": "author",
+     "romanized": "imakiyule ilibagiza"
+    },
+    {
+     "id": "pe_p4yn3gx1",
+     "name": "ስቲቭ ኤርዊን",
+     "role": "author",
+     "romanized": "setiv erwin"
+    },
+    {
+     "id": "pe_1y5kh0zs",
+     "name": "መዘምር ግርማ",
+     "role": "author",
+     "romanized": "mezemer germa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_asmfv0y0",
+   "id": "wk_asmfv0y0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hututsi yewetatwa leb anteltay tewestawoch",
+    "script": "Ethi",
+    "text": "ሁቱትሲ የወጣቷ ልብ አንጠልጣይ ትውስታዎች"
+   },
+   "type": "work",
+   "year": 2018
   },
   {
    "cover": {

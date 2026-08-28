@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "agwalagabrayohanas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_20a10zh7",
+ "id": "pe_20a10zh7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "egwale gebre yohenes",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እጓለ ገብረ ዮሐንስ"
+  },
+  "romanized": "egwale gebre yohenes",
+  "sort_key": "እጋለገብረዮሀንስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የከፍተኛ_ትምህርት_ዘይቤ_እጓለ_ገብረ_ዩሀንስ_.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "fd423e88a9142376b24d68b174e7fc694cc72b026597e18e2b40d0c2161b01ea",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kaqcwknm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kaqcwknm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_20a10zh7",
+     "name": "እጓለ ገብረ ዮሐንስ",
+     "role": "author",
+     "romanized": "egwale gebre yohenes"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1959-09-12/1960-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kaqcwknm",
+   "id": "wk_kaqcwknm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yekeftenya temeheret zeybe",
+    "script": "Ethi",
+    "text": "የከፍተኛ ትምህርት ዘይቤ"
+   },
+   "type": "work",
+   "year": 1959
+  }
+ ]
+}

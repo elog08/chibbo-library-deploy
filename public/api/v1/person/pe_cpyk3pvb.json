@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "asratgabramaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cpyk3pvb",
+ "id": "pe_cpyk3pvb",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "asrat gebremaryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዓሥራት ገብረማርያም"
+  },
+  "romanized": "asrat gebremaryam",
+  "sort_key": "አስራትገብረማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትምህርት መለኮት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "723970b54dbb1074d5b454e1a74b491a1fad3cc1be74177c8109ad75013fc033",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0pbvzx1p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0pbvzx1p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cpyk3pvb",
+     "name": "ዓሥራት ገብረማርያም",
+     "role": "author",
+     "romanized": "asrat gebremaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1990-09-11/1991-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0pbvzx1p",
+   "id": "wk_0pbvzx1p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temeherte melekot",
+    "script": "Ethi",
+    "text": "ትምህርተ መለኮት"
+   },
+   "type": "work",
+   "year": 1990
+  }
+ ]
+}

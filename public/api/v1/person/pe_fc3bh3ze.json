@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "konastantinsataniyukovich",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fc3bh3ze",
+ "id": "pe_fc3bh3ze",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "konestantin setaniyukovich",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኮንስታንቲን ስታኒዩኮቪች"
+  },
+  "romanized": "konestantin setaniyukovich",
+  "sort_key": "ኮንስታንቲንስታኒዩኮቪች"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማክሲምካ_ኮንስታንቲን_ስታንዩኮቪች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "03b080902a0236a1f02285899f86a19d5c29b4900ebea69558b58f33efccc5c2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e3s0x958.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e3s0x958.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fc3bh3ze",
+     "name": "ኮንስታንቲን ስታኒዩኮቪች",
+     "role": "author",
+     "romanized": "konestantin setaniyukovich"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_e3s0x958",
+   "id": "wk_e3s0x958",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "maksimka yemerkebenyoch tarik",
+    "script": "Ethi",
+    "text": "ማክሲምካ የመርከበኞች ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

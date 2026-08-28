@@ -1,0 +1,98 @@
+{
+ "extensions": {},
+ "fingerprint": "nahusanayafawaraq",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_10h93vzy",
+ "id": "pe_10h93vzy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "nahusenay afewereq",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ናሁሰናይ አፈወርቅ"
+  },
+  "romanized": "nahusenay afewereq",
+  "sort_key": "ናሁሰናይአፈወርቅ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አራተኛው ሻማ ሚስጢር እና ሌሎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0429bb340de7f8deb205136df3e44a5f165136c6ebefec3f076620aa59e32778",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dxh41j0p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dxh41j0p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hm14ef3c",
+     "name": "Patricia St. John",
+     "role": "author",
+     "romanized": "Patricia St. John"
+    },
+    {
+     "id": "pe_46zg3qgp",
+     "name": "አለማየሁ ማሞ",
+     "role": "author",
+     "romanized": "Alemayehu Mamo"
+    },
+    {
+     "id": "pe_10h93vzy",
+     "name": "ናሁሰናይ አፈወርቅ",
+     "role": "author",
+     "romanized": "nahusenay afewereq"
+    },
+    {
+     "id": "pe_n90yswht",
+     "name": "መሠረት አበበ",
+     "role": "author",
+     "romanized": "meseret abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2001-09-11/2002-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_dxh41j0p",
+   "id": "wk_dxh41j0p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yearatenyaw shama mestir ena leloch hulet achacher tarikoch",
+    "script": "Ethi",
+    "text": "የአራተኛው ሻማ ምሥጢር እና ሌሎች ሁለት አጫጭር ታሪኮች"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

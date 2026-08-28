@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "zalalamnagusa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nr1csve1",
+ "id": "pe_nr1csve1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zelalem neguse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘላለም ንጉሴ"
+  },
+  "romanized": "zelalem neguse",
+  "sort_key": "ዘላለምንጉሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ራስን ማግኘት ኦሾ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2cb3422fbe8c023d46594491271477efac36f81f96b1077e664d5a36a7b0a7ae",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4g47ev6z.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4g47ev6z.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_nr1csve1",
+     "name": "ዘላለም ንጉሴ",
+     "role": "author",
+     "romanized": "zelalem neguse"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4g47ev6z",
+   "id": "wk_4g47ev6z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "rasen magnyet",
+    "script": "Ethi",
+    "text": "ራስን ማግኘት"
+   },
+   "type": "work"
+  }
+ ]
+}

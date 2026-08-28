@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "nagadrasgabrahaywatbaykadany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_p4vx8txs",
+ "id": "pe_p4vx8txs",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "negadras gebre heywet baykedany",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ነጋድራስ ገብረ ሕይወት ባይከዳኝ"
+  },
+  "romanized": "negadras gebre heywet baykedany",
+  "sort_key": "ነጋድራስገብረህይወትባይከዳኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መንግስትና የህዝብ አስተዳደር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cb86dc37496667d04cb82761f49df8aaabb012f26a349a7f55f22b604e0dcc46",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zxzk92r0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zxzk92r0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_p4vx8txs",
+     "name": "ነጋድራስ ገብረ ሕይወት ባይከዳኝ",
+     "role": "author",
+     "romanized": "negadras gebre heywet baykedany"
+    },
+    {
+     "id": "pe_518x5w9d",
+     "name": "ጳውሎስ መናመኖ",
+     "role": "author",
+     "romanized": "pawlos menameno"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1960-09-11/1961-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zxzk92r0",
+   "id": "wk_zxzk92r0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "menegesetna yehezeb astedader",
+    "script": "Ethi",
+    "text": "መንግሥትና የሕዝብ አስተዳደር"
+   },
+   "type": "work",
+   "year": 1960
+  }
+ ]
+}

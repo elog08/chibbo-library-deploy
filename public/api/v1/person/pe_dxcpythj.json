@@ -1,0 +1,84 @@
+{
+ "extensions": {},
+ "fingerprint": "samualhandamo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dxcpythj",
+ "id": "pe_dxcpythj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Samuel Handamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳሙኤል ሀንዳሞ"
+  },
+  "romanized": "Samuel Handamo",
+  "sort_key": "ሳሙኤልሀንዳሞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሀዲያ ህዝብ ታሪክ እና ባህል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3fa873cda35c4fc9690d57f6ae07f9a3f7665cb130ab99bfb9bb77fe0d080424",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f38nrr2t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f38nrr2t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_e68yyvyc",
+     "name": "አለባቸዉ ኬዕሚሶ",
+     "role": "author",
+     "romanized": "Alebachew Kemiso"
+    },
+    {
+     "id": "pe_dxcpythj",
+     "name": "ሳሙኤል ሀንዳሞ",
+     "role": "author",
+     "romanized": "Samuel Handamo"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f38nrr2t",
+   "id": "wk_f38nrr2t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehediya hezeb tarik ena bahel",
+    "script": "Ethi",
+    "text": "የሀዲያ ህዝብ ታሪክ እና ባህል"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

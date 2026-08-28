@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "gatachawhayla",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_0hvvznpf",
  "id": "pe_0hvvznpf",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ጌታቸውሀይሌ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሐተታ ዘዘርአ ያዕቆብ- ጌታቸው ሀይሌ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +67,41 @@
     "text": "ባሕረ ሐሳብ"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_h2m54kpd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_h2m54kpd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0hvvznpf",
+     "name": "ጌታቸው ኃይሌ",
+     "role": "author",
+     "romanized": "getachew hayle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_h2m54kpd",
+   "id": "wk_h2m54kpd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heteta zezera yaqob bemibal sem yemitaweqew yewerqe yeheywet tarike",
+    "script": "Ethi",
+    "text": "ሐተታ ዘዘርአ ያዕቆብ በሚባል ስም የሚታወቀው የወርቄ የሕይወት ታሪከ"
+   },
+   "type": "work",
+   "year": 2009
   }
  ]
 }

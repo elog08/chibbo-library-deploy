@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayadamalashsisay",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7pnhv74j",
+ "id": "pe_7pnhv74j",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye demelash sisay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ደመላሽ ሲሳይ"
+  },
+  "romanized": "tesfaye demelash sisay",
+  "sort_key": "ተስፋዬደመላሽሲሳይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያኮረፉ ምድሮች ወለጋ እና ጎጃም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0835b841d37a682d533260d9c3da2d7f4f5d857f4f73b5a0a22ad5a35608e043",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5dxked59.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5dxked59.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7pnhv74j",
+     "name": "ተስፋዬ ደመላሽ ሲሳይ",
+     "role": "author",
+     "romanized": "tesfaye demelash sisay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5dxked59",
+   "id": "wk_5dxked59",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yakorefu medroch (welega ena gojam)",
+    "script": "Ethi",
+    "text": "ያኮረፉ ምድሮች (ወለጋ እና ጎጃም)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

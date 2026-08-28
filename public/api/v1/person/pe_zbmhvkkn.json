@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "antanahyagzaw",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_zbmhvkkn",
  "id": "pe_zbmhvkkn",
  "identifiers": {},
@@ -26,7 +28,10 @@
   "sort_key": "አንተነህይግዘው"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መልስ አዳኝ እና ሌሎች.pdf",
+  "Read from the title page of መልስ አዳኝ እና ሌሎችም.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +40,41 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_560phdmq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_560phdmq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zbmhvkkn",
+     "name": "አንተነህ ይግዘው",
+     "role": "author",
+     "romanized": "Anteneh Yigizaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_560phdmq",
+   "id": "wk_560phdmq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meles adany ena leloch achacher leb weledoch",
+    "script": "Ethi",
+    "text": "መልስ አዳኝ እና ሌሎች አጫጭር ልብ ወለዶች"
+   },
+   "type": "work",
+   "year": 2010
+  },
   {
    "cover": {
     "path": "assets/covers/wk_bst9jhfr.webp",

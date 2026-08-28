@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "nalsanmandala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bw9wn3v6",
+ "id": "pe_bw9wn3v6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "nelsen mandela",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኔልሰን ማንዴላ"
+  },
+  "romanized": "nelsen mandela",
+  "sort_key": "ኔልሰንማንዴላ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ረዥሙ የነፃነት ጉዞ - ኔልሰን ማንዴላ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ad81b4b1cf8bdd0748c9fe47f65913fd8e9aa5a82e43b06f5c672d235a910f7b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k08g44hc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k08g44hc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bw9wn3v6",
+     "name": "ኔልሰን ማንዴላ",
+     "role": "author",
+     "romanized": "nelsen mandela"
+    },
+    {
+     "id": "pe_8n0krxes",
+     "name": "ብስራት እውነቱ",
+     "role": "author",
+     "romanized": "besrat ewnetu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_k08g44hc",
+   "id": "wk_k08g44hc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "rejmu yenetsanet guzo",
+    "script": "Ethi",
+    "text": "ረጅሙ የነፃነት ጉዞ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

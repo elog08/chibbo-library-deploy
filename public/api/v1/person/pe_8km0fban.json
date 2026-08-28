@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "salsawidanaqatasama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8km0fban",
+ "id": "pe_8km0fban",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "salsawi deneqe tesema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳልሳዊ ደነቀ ተሰማ"
+  },
+  "romanized": "salsawi deneqe tesema",
+  "sort_key": "ሳልሳዊደነቀተሰማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በበዳይ_ተበዳይ_ታሪክ_የተማገረው_የኢትዮጵያ_ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "fcd701ac9bfbe86fcbcebf6e195c57a599367bb05ebe1c62e63c34696588b4d0",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kdfsbja9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kdfsbja9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8km0fban",
+     "name": "ሳልሳዊ ደነቀ ተሰማ",
+     "role": "author",
+     "romanized": "salsawi deneqe tesema"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_kdfsbja9",
+   "id": "wk_kdfsbja9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "“bebeday tebeday tarik” yetemagerew yeityopya poletika yeamara helewna yeoromo-amara gennyunet",
+    "script": "Ethi",
+    "text": "“በበዳይ ተበዳይ ታሪክ” የተማገረው የኢትዮጵያ ፖለቲካ የአማራ ህልውና የኦሮሞ-አማራ ግንኙነት"
+   },
+   "type": "work"
+  }
+ ]
+}

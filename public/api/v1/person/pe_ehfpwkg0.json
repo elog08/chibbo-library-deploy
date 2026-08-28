@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "napoliyonhil",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ehfpwkg0",
+ "id": "pe_ehfpwkg0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "napoliyon hil",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ናፖሊዮን ሂል"
+  },
+  "romanized": "napoliyon hil",
+  "sort_key": "ናፖሊዮንሂል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አስበህ ሀብታም ሁን - ናፖሊዮን ሂል.pdf",
+  "Read from the title page of የስኬት ፍልስፍና kelam_book.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6cd882eab1e8ce5332e005583595c9363ceb5d1cca33f2dceee5965e026d1a45",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1a2f50cn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1a2f50cn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ehfpwkg0",
+     "name": "ናፖሊዮን ሂል",
+     "role": "author",
+     "romanized": "napoliyon hil"
+    },
+    {
+     "id": "pe_ze3qkj0b",
+     "name": "ውድነህ ደሳለኝ",
+     "role": "author",
+     "romanized": "wedneh desaleny"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1a2f50cn",
+   "id": "wk_1a2f50cn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Think and Grow Rich",
+    "script": "Ethi",
+    "text": "አስበህ ሀብታም ሁን"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zk2ssb0b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zk2ssb0b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ehfpwkg0",
+     "name": "ናፖሊዮን ሂል",
+     "role": "author",
+     "romanized": "napoliyon hil"
+    },
+    {
+     "id": "pe_t3n3cw32",
+     "name": "ራሴላስ ጋሻነህ",
+     "role": "author",
+     "romanized": "raselas gashaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2022-09-11/2023-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zk2ssb0b",
+   "id": "wk_zk2ssb0b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesket felesefna",
+    "script": "Ethi",
+    "text": "የስኬት ፍልስፍና"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

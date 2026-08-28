@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "baqalataganymakwanan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_pj2tgtjp",
+ "id": "pe_pj2tgtjp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beqele tegeny mekwenen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በቀለ ተገኝ መኰንን"
+  },
+  "romanized": "beqele tegeny mekwenen",
+  "sort_key": "በቀለተገኝመከንን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የምዕራባውያን_ፍልስፍናና_ሥልጣኔ_ታሪክ_በቀለ_ተገኝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "023b22982d512633502dfa24e788a1856dff34c0338fe84970987e7ecd1e4535",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dkkbqnk7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dkkbqnk7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pj2tgtjp",
+     "name": "በቀለ ተገኝ መኰንን",
+     "role": "author",
+     "romanized": "beqele tegeny mekwenen"
+    },
+    {
+     "id": "pe_hyc8wdxa",
+     "name": "በርትራንድ ረስል",
+     "role": "author",
+     "romanized": "beretraned resel"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1992-09-11/1993-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_dkkbqnk7",
+   "id": "wk_dkkbqnk7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemerabawyan felesefnana seltane tarik (1)",
+    "script": "Ethi",
+    "text": "የምዕራባውያን ፍልስፍናና ሥልጣኔ ታሪክ (፩)"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

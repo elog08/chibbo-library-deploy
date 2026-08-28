@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "doktaralamubiftu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_h4hgv37m",
+ "id": "pe_h4hgv37m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Alemu Beeftu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶክተር ዓለሙ ቢፍቱ"
+  },
+  "romanized": "Alemu Beeftu",
+  "sort_key": "ዶክተርአለሙቢፍቱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የትዳር ሚስጢር (ዶ_ር ዓለሙ ቢፍቱ).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "efbd37e2c141d002fce4641a674317f9dfd97b011de72ac341b200ff7be94b6c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1ymwrmj2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1ymwrmj2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h4hgv37m",
+     "name": "ዶክተር ዓለሙ ቢፍቱ",
+     "role": "author",
+     "romanized": "Alemu Beeftu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1ymwrmj2",
+   "id": "wk_1ymwrmj2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetdar mestir",
+    "script": "Ethi",
+    "text": "የትዳር ምስጢር"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

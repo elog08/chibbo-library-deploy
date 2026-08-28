@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "faqadabalatashambal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_vpwenry0",
+ "id": "pe_vpwenry0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feqade belete (shambel)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፈቃደ በለጠ (ሻምበል)"
+  },
+  "romanized": "feqade belete (shambel)",
+  "sort_key": "ፈቃደበለጠሻምበል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰንሰለት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9032c5c2c12681413c46af8ad9ba0abdc342dbaa71668d3ba978d4509f7d9b27",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4yby01tj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4yby01tj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vpwenry0",
+     "name": "ፈቃደ በለጠ (ሻምበል)",
+     "role": "author",
+     "romanized": "feqade belete (shambel)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4yby01tj",
+   "id": "wk_4yby01tj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "senselet",
+    "script": "Ethi",
+    "text": "ሠንሠለት"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

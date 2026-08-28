@@ -28,7 +28,8 @@
  },
  "flags": [
   "calendar-ambiguous",
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted"
  ],
  "form": "novel",
  "href": "https://chibbo.app/work/wk_5r9t6pwh",
@@ -36,6 +37,23 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_137"
+  ],
+  "pdf_pagehash": [
+   "0b0f3333333b2320",
+   "0b1f3b3f1f3b3f68",
+   "130b1f1b1b031f68",
+   "1323330f27130b48",
+   "1b1f173b41010968",
+   "1b3b2b233f3b2f68",
+   "1f03131b1b0b0b78",
+   "25072b372b293300",
+   "271b37393f3b0f60",
+   "313b2b2b1b1b1f68",
+   "381b3333273b3b00",
+   "393f3f1f41012968",
+   "3f1b130b031f0b68",
+   "473b3f3b1f3f3b68",
+   "716d6d6161614948"
   ]
  },
  "language": "am",
@@ -113,7 +131,14 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 5.00/5 from 3 rating(s), 2 written review(s)"
+  "ethiobookreview community rating 5.00/5 from 3 rating(s), 2 written review(s)",
+  "Read from PDF front matter: ግራጫ ቃጭሎች - አዳም ረታ.pdf",
+  "Scanned pages include the front cover/title page and pages v-viii of the introduction.",
+  "Also held as PDF: ግራጫ ቃጭሎች .pdf",
+  "Read from PDF front matter: ግራጫ_ቃጭሎች_ክፍል_2_በአዳም_ረታ.pdf",
+  "Title and author extracted from the running headers on pages 114–118. No title page is present in these scanned pages.",
+  "Read from PDF front matter: ግራጫ_ቃጭሎች_ክፍል_4_በአዳም_ረታ.pdf",
+  "No title page is present in these scans. Title and author are extracted from the running headers on pages 340–344."
  ],
  "provenance": {
   "retrieved": "2026-08-26",

@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "mig",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bjftq46f",
+ "id": "pe_bjftq46f",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mig",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሚግ"
+  },
+  "romanized": "mig",
+  "sort_key": "ሚግ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እውነተኛው የCIA ምስጢር - ሮበርት ባር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3206cec832ff267b4fe9c9ca27ba0ffba97779ab1dd0f76a64bec335c5e91a25",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7vvzpb6a.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7vvzpb6a.png"
+   },
+   "credits": [
+    {
+     "id": "pe_41pe7xs5",
+     "name": "ROBERT BAER",
+     "role": "author",
+     "romanized": "ROBERT BAER"
+    },
+    {
+     "id": "pe_bjftq46f",
+     "name": "ሚግ",
+     "role": "author",
+     "romanized": "mig"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7vvzpb6a",
+   "id": "wk_7vvzpb6a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "SEE NO EVIL",
+    "script": "Ethi",
+    "text": "እውነተኛው የCIA ምስጢር (እውነተኛ ታሪክ)"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "raymonkano",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_980jwvaj",
+ "id": "pe_980jwvaj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "reymon keno",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ረይሞን ከኖ"
+  },
+  "romanized": "reymon keno",
+  "sort_key": "ረይሞንከኖ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዛዚ - ስብሀት ገብረ እግዚአብሔር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "eeefe13806cffc213906e551151df73778622792d857486001a7181ef40e232f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4cydj5ra.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4cydj5ra.png"
+   },
+   "credits": [
+    {
+     "id": "pe_980jwvaj",
+     "name": "ረይሞን ከኖ",
+     "role": "author",
+     "romanized": "reymon keno"
+    },
+    {
+     "id": "pe_tz78y5xr",
+     "name": "ስብሀት ገብረእግዚአብሄር",
+     "role": "author",
+     "romanized": "sebhet gebreegziabher"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4cydj5ra",
+   "id": "wk_4cydj5ra",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zazi",
+    "script": "Ethi",
+    "text": "ዛዚ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

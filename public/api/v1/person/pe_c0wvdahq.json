@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "ababawarqu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_c0wvdahq",
+ "id": "pe_c0wvdahq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebe werqu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበ ወርቁ"
+  },
+  "romanized": "abebe werqu",
+  "sort_key": "አበበወርቁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኢንፌርኖ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c4ce2c5f4bc851aa93e82672ebe34a444407176bf4ec93d60bbf05c3d13f6bbd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qb55791p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qb55791p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_yykyhnwv",
+     "name": "ዳን ብራውን",
+     "role": "author",
+     "romanized": "dan berawen"
+    },
+    {
+     "id": "pe_c0wvdahq",
+     "name": "አበበ ወርቁ",
+     "role": "author",
+     "romanized": "abebe werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qb55791p",
+   "id": "wk_qb55791p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "inferno",
+    "script": "Ethi",
+    "text": "ኢንፌርኖ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

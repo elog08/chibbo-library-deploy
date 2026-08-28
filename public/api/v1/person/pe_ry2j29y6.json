@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "yadnaqachawtasama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ry2j29y6",
+ "id": "pe_ry2j29y6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yedneqachew tesema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ይድነቃቸው ተሰማ"
+  },
+  "romanized": "yedneqachew tesema",
+  "sort_key": "ይድነቃቸውተሰማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የህዝብ አስተዳደር ሞራል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "359ed2ba40eddd064410cf2d22db491c8cdc942a2431a0290bfac5922c79a2d4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_82mx5m5z.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_82mx5m5z.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ry2j29y6",
+     "name": "ይድነቃቸው ተሰማ",
+     "role": "author",
+     "romanized": "yedneqachew tesema"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1961-09-11/1962-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_82mx5m5z",
+   "id": "wk_82mx5m5z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hezebna astedader moral",
+    "script": "Ethi",
+    "text": "ሕዝብና አስተዳደር ሞራል"
+   },
+   "type": "work",
+   "year": 1961
+  }
+ ]
+}

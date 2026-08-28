@@ -13,18 +13,34 @@
   }
  ],
  "editions": [
-  "ed_1y3jwnve"
+  "ed_1y3jwnve",
+  "ed_37j4r339"
  ],
  "extensions": {},
  "fingerprint": "ኑሀገሬንእናዋልዳትእናሌሎች|danalkabrat",
+ "first_published": {
+  "edtf": "2017-09-11/2018-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2010"
+  }
+ },
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted",
+  "filename-title-mismatch"
  ],
  "href": "https://chibbo.app/work/wk_wntdbstg",
  "id": "wk_wntdbstg",
  "identifiers": {
   "hahubooks_code": [
    "jb_174"
+  ],
+  "pdf_pagehash": [
+   "b19d99f3e7e7e7e0",
+   "c0c000202020b0e0",
+   "d08880808088a088",
+   "e080a0a4a0b0e0e0"
   ]
  },
  "language": "am",
@@ -61,12 +77,15 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: ኑ_ሀገሬን_እናዋልዳት_ዳንኤል_ክብረት_.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks",
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_174"
  },
+ "publication_place": "አዲስ አበባ፤ ኢትዮጵያ",
  "relations": [],
  "rights": {
   "shippable": false,

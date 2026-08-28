@@ -1,4 +1,10 @@
 {
+ "cover": {
+  "bytes": 477221,
+  "path": "assets/covers/wk_m2ryn7zz.png",
+  "sha256": "9d75e554f8cfee948fa257c1fa58284f3b5e37c579748c412387b346f474aba0",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m2ryn7zz.png"
+ },
  "credits": [
   {
    "order": 1,
@@ -7,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_0w2v0f8v"
+  "ed_0w2v0f8v",
+  "ed_fjqq6eqx"
  ],
  "extensions": {},
  "fingerprint": "ታሪክናምሳሌ|kabadamikal",
@@ -19,16 +26,30 @@
    "value": "1947"
   }
  },
- "flags": [],
+ "flags": [
+  "llm-extracted",
+  "calendar-ambiguous"
+ ],
  "form": "poetry",
  "href": "https://chibbo.app/work/wk_m2ryn7zz",
  "id": "wk_m2ryn7zz",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "0b26366606060600",
+   "1a63636363630300",
+   "2b5b4b4b4a481b08",
+   "2b66476e686c6c68",
+   "6d6c69496f254948"
+  ]
+ },
  "language": "am",
  "links": [],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: ታሪክና ምሳሌ (2).pdf",
+  "Also held as PDF: ታሪክና_ምሳሌ_2ኛ_መፅሐፍ_ዶር_ከበደ_ሚካኤል.pdf"
+ ],
  "poetry": true,
  "provenance": {
   "retrieved": "2026-08-26",

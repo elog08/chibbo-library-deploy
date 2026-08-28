@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "waritshawanasashdasalany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9mcabbh4",
+ "id": "pe_9mcabbh4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "we/rit shewaanesesh desaleny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወ/ሪት ሸዋአነሰሽ ደሳለኝ"
+  },
+  "romanized": "we/rit shewaanesesh desaleny",
+  "sort_key": "ወሪትሸዋአነሰሽደሳለኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልኬሚስቱ (Amharic).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e4890f5f3b2604e4f9143cb2e0099b0afe639f4242e6a05e342c426285bedf35",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_d4j4q2t1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_d4j4q2t1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_07p1zbeg",
+     "name": "Paulo Coelho",
+     "role": "author",
+     "romanized": "Paulo Coelho"
+    },
+    {
+     "id": "pe_j4z666da",
+     "name": "Alan R. Clarke",
+     "role": "author",
+     "romanized": "Alan R. Clarke"
+    },
+    {
+     "id": "pe_9mcabbh4",
+     "name": "ወ/ሪት ሸዋአነሰሽ ደሳለኝ",
+     "role": "author",
+     "romanized": "we/rit shewaanesesh desaleny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d4j4q2t1",
+   "id": "wk_d4j4q2t1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alkemistu",
+    "script": "Ethi",
+    "text": "አልኬሚስቱ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

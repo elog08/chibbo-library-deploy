@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "kidanawaladkafla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_m1kt16cx",
+ "id": "pe_m1kt16cx",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kidane weled kefle",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኪዳነ ወልድ ክፍሌ"
+  },
+  "romanized": "kidane weled kefle",
+  "sort_key": "ኪዳነወልድክፍሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አበገደ_ፊደልና_ፊደላዋሪያ_የልጆች_አፍ_መፍቻ_ኪዳነ.pdf",
+  "Read from the title page of ክፍለ_ጊዮርጊስና_ኪዳነ_ወልድ_ክፍሌ_መጽሐፈ_ሰዋስው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "140e32316edb24996558b918f6b27dfb334d01eaef0d7c27d23355ff4cfd958d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hc3pwy7d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hc3pwy7d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m1kt16cx",
+     "name": "ኪዳነ ወልድ ክፍሌ",
+     "role": "author",
+     "romanized": "kidane weled kefle"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_hc3pwy7d",
+   "id": "wk_hc3pwy7d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshefe sewasew weges wemezgebe qalat hedis",
+    "script": "Ethi",
+    "text": "መጽሐፈ ሰዋስው ወግስ ወመዝገበ ቃላት ሐዲስ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rm9q3260.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rm9q3260.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m1kt16cx",
+     "name": "ኪዳነ ወልድ ክፍሌ",
+     "role": "author",
+     "romanized": "kidane weled kefle"
+    },
+    {
+     "id": "pe_zk46yq2r",
+     "name": "ደስታ ተክለ ወልድ",
+     "role": "author",
+     "romanized": "desta tekle weled"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1947-09-12/1948-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rm9q3260",
+   "id": "wk_rm9q3260",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "abegede fidelna fidelawariya yeljoch af mefcha",
+    "script": "Ethi",
+    "text": "አበገደ ፊደልና ፊደላዋሪያ የልጆች አፍ መፍቻ"
+   },
+   "type": "work",
+   "year": 1947
+  }
+ ]
+}

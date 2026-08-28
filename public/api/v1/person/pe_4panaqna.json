@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "fashayazakasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4panaqna",
+ "id": "pe_4panaqna",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feshe yaze kasa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍሥሐ ያዜ ካሣ"
+  },
+  "romanized": "feshe yaze kasa",
+  "sort_key": "ፍስሀያዜካሳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሳጥናኤል ጎል ኢትዮጵያ- part 3.pdf",
+  "Read from the title page of የሳጥናኤል_ጎል_ኢትዮጵያ_በፍስሀ_ያዜ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "93c5934115533e7fd00b14b5dc84cbe9186dcf7b57914a3e3c2e27cfbf89b549",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qrcr6y87.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qrcr6y87.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4panaqna",
+     "name": "ፍሥሐ ያዜ ካሣ",
+     "role": "author",
+     "romanized": "feshe yaze kasa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_qrcr6y87",
+   "id": "wk_qrcr6y87",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesatnael gol ityopya quter soset",
+    "script": "Ethi",
+    "text": "የሳጥናኤል ጎል ኢትዮጵያ ቁጥር ሦስት"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_x8j4xhdh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_x8j4xhdh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4panaqna",
+     "name": "ፍሥሐ ያዜ ካሣ",
+     "role": "author",
+     "romanized": "feshe yaze kasa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_x8j4xhdh",
+   "id": "wk_x8j4xhdh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesatnael gol ityopya!!",
+    "script": "Ethi",
+    "text": "የሳጥናኤል ጎል ኢትዮጵያ!!"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

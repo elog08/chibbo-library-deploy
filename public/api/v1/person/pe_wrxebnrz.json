@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyalma",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wrxebnrz",
+ "id": "pe_wrxebnrz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abiy Yilma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዐቢይ ይልማ"
+  },
+  "romanized": "Abiy Yilma",
+  "sort_key": "አቢይይልማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልፈራም2021-03-15 19.58.00.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "06cab44dc9562931fa2713e36c6164afe941f6d13fe8d7b40929e117987e486d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rmqr5hca.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rmqr5hca.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wrxebnrz",
+     "name": "ዐቢይ ይልማ",
+     "role": "author",
+     "romanized": "Abiy Yilma"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rmqr5hca",
+   "id": "wk_rmqr5hca",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alferam",
+    "script": "Ethi",
+    "text": "አልፈራም"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

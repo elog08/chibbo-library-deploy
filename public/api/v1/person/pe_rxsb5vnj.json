@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "awinmontagwa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rxsb5vnj",
+ "id": "pe_rxsb5vnj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ewin montagwe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤዊን ሞንታጐ"
+  },
+  "romanized": "ewin montagwe",
+  "sort_key": "ኤዊንሞንታገ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰላዩ ሬሳ - ማሞ ውድነህ (1).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6e76195427fb2ebbf351bb3fde6ec96b6a34c7e9fae7d9cd24a0b843b0ba1bb7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9gj14kpn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9gj14kpn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rxsb5vnj",
+     "name": "ኤዊን ሞንታጐ",
+     "role": "author",
+     "romanized": "ewin montagwe"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1978-09-11/1979-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_9gj14kpn",
+   "id": "wk_9gj14kpn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "selayu resa",
+    "script": "Ethi",
+    "text": "ሰላዩ ሬሳ"
+   },
+   "type": "work",
+   "year": 1978
+  }
+ ]
+}

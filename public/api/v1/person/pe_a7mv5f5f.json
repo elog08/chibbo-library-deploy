@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "shalaqamamolama",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_a7mv5f5f",
  "id": "pe_a7mv5f5f",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ሻለቃማሞለማ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የወገን ጦር ትዝታዬ - ሻለቃ ማሞ ለማ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +39,43 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6a1kqrdc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6a1kqrdc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a7mv5f5f",
+     "name": "ሻለቃ ማሞ ለማ",
+     "role": "author",
+     "romanized": "Shaleka Mamo Lemma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6a1kqrdc",
+   "id": "wk_6a1kqrdc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yewegen tor teztaye",
+    "script": "Ethi",
+    "text": "የወገን ጦር ትዝታዬ"
+   },
+   "type": "work",
+   "year": 2001
+  },
   {
    "cover": {
     "path": "assets/covers/wk_9jcfrf85.webp",

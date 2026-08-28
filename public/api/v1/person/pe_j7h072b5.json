@@ -1,0 +1,135 @@
+{
+ "extensions": {},
+ "fingerprint": "luqasamari",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j7h072b5",
+ "id": "pe_j7h072b5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "luqas amari",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሉቃስ አማሪ"
+  },
+  "romanized": "luqas amari",
+  "sort_key": "ሉቃስአማሪ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መከረኞች - Les Misérables (ትርጉም).PDF",
+  "Read from the title page of አንቷን ቼኾቭ - በላይነህ አሰጉ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9d4c4392a3cb30b46ab418e280f8e3663b020b3e1f7bb71b9387c12899de4b4e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_46f3dxem.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_46f3dxem.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bddft6qc",
+     "name": "አንቷን ቼኾቭ",
+     "role": "author",
+     "romanized": "antwan chekov"
+    },
+    {
+     "id": "pe_a9cee3kj",
+     "name": "በላይነህ አሠጉ",
+     "role": "author",
+     "romanized": "belayneh asegu"
+    },
+    {
+     "id": "pe_j7h072b5",
+     "name": "ሉቃስ አማሪ",
+     "role": "author",
+     "romanized": "luqas amari"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_46f3dxem",
+   "id": "wk_46f3dxem",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeantwan chekov meret achacher lebweled tarikoch",
+    "script": "Ethi",
+    "text": "የአንቷን ቼኾቭ ምርጥ አጫጭር ልብወለድ ታሪኮች"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fv1aarha.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fv1aarha.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hmscne28",
+     "name": "ቪክቶር ኢ.ጎ",
+     "role": "author",
+     "romanized": "viktor i.go"
+    },
+    {
+     "id": "pe_5kp8kj3q",
+     "name": "ሣህለሥላሴ ብርሃነ ማርያም",
+     "role": "author",
+     "romanized": "sahleslase berhane maryam"
+    },
+    {
+     "id": "pe_j7h072b5",
+     "name": "ሉቃስ አማሪ",
+     "role": "author",
+     "romanized": "luqas amari"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_fv1aarha",
+   "id": "wk_fv1aarha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mekerenyoch",
+    "script": "Ethi",
+    "text": "መከረኞች"
+   },
+   "type": "work"
+  }
+ ]
+}

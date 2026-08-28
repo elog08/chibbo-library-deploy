@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "robaratkiyosaki",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0ftac5cp",
+ "id": "pe_0ftac5cp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "roberet kiyosaki",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሮበርት ኪዮሳኪ"
+  },
+  "romanized": "roberet kiyosaki",
+  "sort_key": "ሮበርትኪዮሳኪ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሀብት መንገድ - ብርሀኑ በላቸው .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "54771c1a782ebd8b44a0936b800946e71272d2efff7e09d256243bb366a7061e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ew3tywqj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ew3tywqj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ftac5cp",
+     "name": "ሮበርት ኪዮሳኪ",
+     "role": "author",
+     "romanized": "roberet kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ew3tywqj",
+   "id": "wk_ew3tywqj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rich Dad Poor Dad",
+    "script": "Ethi",
+    "text": "የሀብት መንገድ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

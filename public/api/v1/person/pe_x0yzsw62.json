@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "nahusanaytsahayababa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_x0yzsw62",
+ "id": "pe_x0yzsw62",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "nahusenay tsehey abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ናሁሰናይ ፀሐይ አበበ"
+  },
+  "romanized": "nahusenay tsehey abebe",
+  "sort_key": "ናሁሰናይጸሀይአበበ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሜሎሪና -ስውር ጥበብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0b70bbd551d5e7a3c88672e7c7b655012a8bdaa2f013452bcd7fc6182b8772c5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ext3f7y9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ext3f7y9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x0yzsw62",
+     "name": "ናሁሰናይ ፀሐይ አበበ",
+     "role": "author",
+     "romanized": "nahusenay tsehey abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2000-09-11/2001-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ext3f7y9",
+   "id": "wk_ext3f7y9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "melorina",
+    "script": "Ethi",
+    "text": "ሜሎሪና"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

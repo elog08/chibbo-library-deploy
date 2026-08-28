@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "galatsyasahuny",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tde5as7x",
+ "id": "pe_tde5as7x",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "gelets yesehuny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግለጽ የሰሁኝ"
+  },
+  "romanized": "gelets yesehuny",
+  "sort_key": "ግለጽየሰሁኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ግብረ_ሰዶማውያንና_የሴቶች_ክህነት_በቤ_ክ_እይታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "947a549400812f7bc685c8a988df01c3eff30da459898757f4ad3f66eed22ddf",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_056tkpq2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_056tkpq2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_33eh7c50",
+     "name": "አቡነ ሺኖዳ ፫ኛ",
+     "role": "author",
+     "romanized": "abune shinoda 3nya"
+    },
+    {
+     "id": "pe_g0ms8fqe",
+     "name": "ተስፋ እንደሰ",
+     "role": "author",
+     "romanized": "tesfa endese"
+    },
+    {
+     "id": "pe_tde5as7x",
+     "name": "ግለጽ የሰሁኝ",
+     "role": "author",
+     "romanized": "gelets yesehuny"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_056tkpq2",
+   "id": "wk_056tkpq2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gebresedomawinet ena yesetoch «kehnet» bebete-kerestiyan eyta",
+    "script": "Ethi",
+    "text": "ግብረሰዶማዊነት እና የሴቶች «ክህነት» በቤተ-ክርስቲያን ዕይታ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

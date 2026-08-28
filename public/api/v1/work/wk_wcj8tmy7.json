@@ -1,4 +1,10 @@
 {
+ "cover": {
+  "bytes": 345633,
+  "path": "assets/covers/wk_wcj8tmy7.png",
+  "sha256": "c7d26dc1eca7c7ab4db219414e2517b244a134deb516f4029bbe7406c9ba38df",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wcj8tmy7.png"
+ },
  "credits": [
   {
    "order": 1,
@@ -6,7 +12,9 @@
    "role": "author"
   }
  ],
- "editions": [],
+ "editions": [
+  "ed_d2fwgcmc"
+ ],
  "extensions": {},
  "fingerprint": "ትኩሳት|sabhatgabragziabhar",
  "first_published": {
@@ -23,24 +31,47 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted"
  ],
  "form": "novel",
  "href": "https://chibbo.app/work/wk_wcj8tmy7",
  "id": "wk_wcj8tmy7",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "0001612f3b1f1c40",
+   "033f3f3b3f3b3bc0",
+   "091f3b3b3b3b3bc0",
+   "0f0f07170d4d0d20",
+   "0f33371b172b3700",
+   "113f373f3f3f3bc0",
+   "2b010e0c0f332b00",
+   "2e273f27131b07c0",
+   "373737373f3f3f70",
+   "4026361640080300",
+   "4d5d7d5d7d7d7d70",
+   "5e7e7e7e7e7c7c78",
+   "6f656743531b0320",
+   "7f7d7d79777b7f70",
+   "d0d82c4653990720"
+  ]
+ },
  "language": "am",
  "links": [],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "Introduced modernist stream-of-consciousness to Amharic literature."
+  "Introduced modernist stream-of-consciousness to Amharic literature.",
+  "Read from PDF front matter: ትኩሳት - ስብሀት ገብረእግዚአብሔር.pdf",
+  "Read from PDF front matter: ትኩሳት ስብሀት ገእግዚአብሔር.pdf",
+  "Read from PDF front matter: ትኩሳት_by_ጋሽ_ስብሃት_ገብረእግዚአብሔር_.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
  },
  "publication_place": "Addis Ababa, Ethiopia",
+ "publisher_name": "አትሮንስ ፐፕሊሸርስ",
  "relations": [],
  "rights": {
   "shippable": false,

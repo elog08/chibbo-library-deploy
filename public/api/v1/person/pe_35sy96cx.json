@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "dabtarazanab",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_35sy96cx",
+ "id": "pe_35sy96cx",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Debterā Zaneb"
+  },
+  "romanized": "Debterā Zaneb",
+  "sort_key": "debterazaneb"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቴዎድሮስ ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "32c8c425bfd5189ef7bed6838bc9bf118ecad1eef9d8e88d2c520345678f984f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hn0dvvb3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hn0dvvb3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1ytx8adr",
+     "name": "ዶክቶር አኖ ሊትመን",
+     "role": "author",
+     "romanized": "ENNO LITTMANN"
+    },
+    {
+     "id": "pe_14k98vn0",
+     "name": "አስፋው ተፈራ",
+     "role": "author",
+     "romanized": "asfaw tefera"
+    },
+    {
+     "id": "pe_35sy96cx",
+     "name": "Debterā Zaneb",
+     "role": "author",
+     "romanized": "Debterā Zaneb"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1988-09-11/1989-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_hn0dvvb3",
+   "id": "wk_hn0dvvb3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE CHRONICLE OF KING THEODORE OF ABYSSINIA",
+    "script": "Ethi",
+    "text": "የቴዎድሮስ ታሪክ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

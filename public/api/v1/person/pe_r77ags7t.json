@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanuzarayhun",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_r77ags7t",
+ "id": "pe_r77ags7t",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu zereyhun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ ዘርይሁን"
+  },
+  "romanized": "berhanu zereyhun",
+  "sort_key": "ብርሀኑዘርይሁን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቴዎድሮስ እንባ - ብርሃኑ ዘርይሁን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6327d90a7dc26e425a0619e76b3f01830da8f67ffdba032366c3f417a902024f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r7xprepn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r7xprepn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r77ags7t",
+     "name": "ብርሃኑ ዘርይሁን",
+     "role": "author",
+     "romanized": "berhanu zereyhun"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_r7xprepn",
+   "id": "wk_r7xprepn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetewodros enba",
+    "script": "Ethi",
+    "text": "የቴዎድሮስ ዕንባ"
+   },
+   "type": "work",
+   "year": 1965
+  }
+ ]
+}

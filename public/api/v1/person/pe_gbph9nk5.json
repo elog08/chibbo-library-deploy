@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "asafabaqalagayasus",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_gbph9nk5",
+ "id": "pe_gbph9nk5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "asefa beqele ge/yesus",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አሰፋ በቀለ ገ/የሱስ"
+  },
+  "romanized": "asefa beqele ge/yesus",
+  "sort_key": "አሰፋበቀለገየሱስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያልታበሱ እንባዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ade44b2a13418c9dccf750755943cfd658aeca52b55fb2f846016dbcdcfd6389",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4wx3avp4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4wx3avp4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_gbph9nk5",
+     "name": "አሰፋ በቀለ ገ/የሱስ",
+     "role": "author",
+     "romanized": "asefa beqele ge/yesus"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4wx3avp4",
+   "id": "wk_4wx3avp4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yaltabesu enbawoch",
+    "script": "Ethi",
+    "text": "ያልታበሱ እንባዎች"
+   },
+   "type": "work"
+  }
+ ]
+}

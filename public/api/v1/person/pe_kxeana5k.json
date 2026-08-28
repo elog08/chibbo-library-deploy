@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "abdurahmanmahamadqaram",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kxeana5k",
+ "id": "pe_kxeana5k",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abdurahman mehemed qerem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አብዱራህማን መሀመድ ቀሬም"
+  },
+  "romanized": "abdurahman mehemed qerem",
+  "sort_key": "አብዱራህማንመሀመድቀሬም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መምህርና_ስራው_አብዱራህማን_መሀመድ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "3f22b8591174e51f35f4b966b3df0266d521977462f1cb59fb39fde984b28bca",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_72jch7j1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_72jch7j1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kxeana5k",
+     "name": "አብዱራህማን መሀመድ ቀሬም",
+     "role": "author",
+     "romanized": "abdurahman mehemed qerem"
+    },
+    {
+     "id": "pe_em6ag0r4",
+     "name": "አንዳርጋቸው በጋሻው",
+     "role": "author",
+     "romanized": "andargachew begashaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1990-09-11/1991-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_72jch7j1",
+   "id": "wk_72jch7j1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "memeherna seraw",
+    "script": "Ethi",
+    "text": "መምህርና ሥራው"
+   },
+   "type": "work",
+   "year": 1990
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "extensions": {},
+ "fingerprint": "kasagabrahaywat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_f0yeqyka",
+ "id": "pe_f0yeqyka",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kasa gebre heywet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሳ ገብረ ሕይወት"
+  },
+  "romanized": "kasa gebre heywet",
+  "sort_key": "ካሳገብረህይወት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሳይላክ_የቀረ_ደብዳቤ_ካሳ_ገብረሂወት.pdf",
+  "Read from the title page of የኢቫን ቤልኪን ታሪኮች ፪ - ፑሽኪን.pdf",
+  "Read from the title page of ድኃ_ሰዎች_ብርሃናዊ_ሌሊት_ፌዮዶር_ዶስቶዬቭስኪይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e0ce095b60727ab1571b1b0c887608a1d8532d3c147244b645fddfebcba4d437",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a1xp36jq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a1xp36jq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_32xtx7a8",
+     "name": "ፌዮዶር ዶስቶዬቭስኪይ",
+     "role": "author",
+     "romanized": "feyodor dostoyeveskiy"
+    },
+    {
+     "id": "pe_f0yeqyka",
+     "name": "ካሳ ገብረ ሕይወት",
+     "role": "author",
+     "romanized": "kasa gebre heywet"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1976",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a1xp36jq",
+   "id": "wk_a1xp36jq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "deha sewoch * berhanawi lelit",
+    "script": "Ethi",
+    "text": "ድኃ ሰዎች * ብርሃናዊ ሌሊት"
+   },
+   "type": "work",
+   "year": 1976
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jqz4qe56.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jqz4qe56.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f0yeqyka",
+     "name": "ካሳ ገብረ ሕይወት",
+     "role": "author",
+     "romanized": "kasa gebre heywet"
+    },
+    {
+     "id": "pe_7sd83a05",
+     "name": "ዩ ኮፒሎቭ",
+     "role": "author",
+     "romanized": "yu kopilov"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jqz4qe56",
+   "id": "wk_jqz4qe56",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "saylak yeqere debdabe",
+    "script": "Ethi",
+    "text": "ሳይላክ የቀረ ደብዳቤ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_n71x23hy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n71x23hy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_psmmy26s",
+     "name": "አሌክሳንደር ፑሽኪን",
+     "role": "author",
+     "romanized": "aleksander pushkin"
+    },
+    {
+     "id": "pe_f0yeqyka",
+     "name": "ካሳ ገብረ ሕይወት",
+     "role": "author",
+     "romanized": "kasa gebre heywet"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1978",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_n71x23hy",
+   "id": "wk_n71x23hy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aleksander pushkin qets hulet (yetelqu petros tequru balemwal yeshambelu lej)",
+    "script": "Ethi",
+    "text": "አሌክሳንደር ፑሽኪን ቅጽ ሁለት (የትልቁ ጴጥሮስ ጥቁሩ ባለሟል የሻምበሉ ልጅ)"
+   },
+   "type": "work",
+   "year": 1978
+  }
+ ]
+}

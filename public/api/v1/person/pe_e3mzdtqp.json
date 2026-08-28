@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "luqaslama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_e3mzdtqp",
+ "id": "pe_e3mzdtqp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "luqas lema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሉቃስ ለማ"
+  },
+  "romanized": "luqas lema",
+  "sort_key": "ሉቃስለማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሸበጥ.pdf",
+  "Read from the title page of አንድ ለአምስት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6b036d647c190a811e8e2acdbd37079031b25efbb83312dc9320892b2a89b485",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3h1x3nzb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3h1x3nzb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xy2qvpk0",
+     "name": "አስፋው ዳምጤ",
+     "role": "author",
+     "romanized": "asfaw damte"
+    },
+    {
+     "id": "pe_e3mzdtqp",
+     "name": "ሉቃስ ለማ",
+     "role": "author",
+     "romanized": "luqas lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3h1x3nzb",
+   "id": "wk_3h1x3nzb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned leameset",
+    "script": "Ethi",
+    "text": "አንድ ለአምስት"
+   },
+   "type": "work",
+   "year": 1980
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_s2wvc0cy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s2wvc0cy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t8nxnbg1",
+     "name": "ከብርሃን ዳኘ",
+     "role": "author",
+     "romanized": "keberhan danye"
+    },
+    {
+     "id": "pe_e3mzdtqp",
+     "name": "ሉቃስ ለማ",
+     "role": "author",
+     "romanized": "luqas lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s2wvc0cy",
+   "id": "wk_s2wvc0cy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sabat",
+    "script": "Ethi",
+    "text": "ሸበጥ እና ሌሎች አጫጭር ታሪኮች"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

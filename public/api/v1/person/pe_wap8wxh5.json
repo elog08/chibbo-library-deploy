@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "makunanzawda",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wap8wxh5",
+ "id": "pe_wap8wxh5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekunen zewde",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መኩንን ዘውዴ"
+  },
+  "romanized": "mekunen zewde",
+  "sort_key": "መኩንንዘውዴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአለም ሰው እርምጃ -መኮንን ዘውዴ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "185279195269a84f89f455d94648f85d35955260606d6ba4e9359fa76de32168",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xre8fhrn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xre8fhrn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wap8wxh5",
+     "name": "መኩንን ዘውዴ",
+     "role": "author",
+     "romanized": "mekunen zewde"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xre8fhrn",
+   "id": "wk_xre8fhrn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yealem sew eremja",
+    "script": "Ethi",
+    "text": "የዓለም ሰው እርምጃ"
+   },
+   "type": "work",
+   "year": 1965
+  }
+ ]
+}

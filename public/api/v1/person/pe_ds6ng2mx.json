@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "patrishyasanatjon",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ds6ng2mx",
+ "id": "pe_ds6ng2mx",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Patricia M St John",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፓትሪሽያ ሴንት ጆን"
+  },
+  "romanized": "Patricia M St John",
+  "sort_key": "ፓትሪሽያሴንትጆን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፓትሪሽያ ሴንት ጆን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3122ce2b9011d6ed5a3e577902f4191953e99d414a757d979519824a7c30dbdc",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k2v8fffd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k2v8fffd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ds6ng2mx",
+     "name": "ፓትሪሽያ ሴንት ጆን",
+     "role": "author",
+     "romanized": "Patricia M St John"
+    },
+    {
+     "id": "pe_c15qgvnb",
+     "name": "ዳንኤል ተሾመ",
+     "role": "author",
+     "romanized": "danel teshome"
+    },
+    {
+     "id": "pe_0hjy9qb4",
+     "name": "ዘነበ ገብረሐና",
+     "role": "author",
+     "romanized": "zenebe gebrehena"
+    },
+    {
+     "id": "pe_rre9zr4y",
+     "name": "ኃይሌ ጀናይ",
+     "role": "author",
+     "romanized": "hayle jenay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_k2v8fffd",
+   "id": "wk_k2v8fffd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gwerebet felge neber",
+    "script": "Ethi",
+    "text": "ጐረቤት ፈልጌ ነበር"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

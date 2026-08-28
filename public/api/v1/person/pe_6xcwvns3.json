@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "salomondanyachakol",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6xcwvns3",
+ "id": "pe_6xcwvns3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selomon danye chekol",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን ዳኜ ቸኮል"
+  },
+  "romanized": "selomon danye chekol",
+  "sort_key": "ሰሎሞንዳኜቸኮል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቶማስ_ሳንካራ_ጥቁሩ_አብዮተኛ @metsehaf.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2b2de1a238f323bd149b192ae82946a67ff14cc2cda6b3be115bc6563ea2248c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8ter3en1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8ter3en1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6xcwvns3",
+     "name": "ሰሎሞን ዳኜ ቸኮል",
+     "role": "author",
+     "romanized": "selomon danye chekol"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8ter3en1",
+   "id": "wk_8ter3en1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tomas sankara tequru abyotenya",
+    "script": "Ethi",
+    "text": "ቶማስ ሳንካራ ጥቁሩ አብዮተኛ"
+   },
+   "type": "work"
+  }
+ ]
+}

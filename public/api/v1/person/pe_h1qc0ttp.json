@@ -1,0 +1,111 @@
+{
+ "extensions": {},
+ "fingerprint": "parofasarfaqratolosajigsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_h1qc0ttp",
+ "id": "pe_h1qc0ttp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Fikre Tolossa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፕሮፌሰር ፍቅሬ ቶሎሳ ጂግሳ"
+  },
+  "romanized": "Fikre Tolossa",
+  "sort_key": "ፕሮፌሰርፍቅሬቶሎሳጂግሳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ስውሩና_ያልተነገረው_የአይሁዳውያን_እና_የኢትዮጵያውያን.PDF",
+  "Read from the title page of የኦሮሞ_እና_አማራ_እውነተኛው_የዘር_ምንጭ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "8f0cf2eb5c0c6ee85b6cde4eea1a3009c137ca6a385f6292264789a0bcab6635",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cpnza6ad.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cpnza6ad.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h1qc0ttp",
+     "name": "ፕሮፌሰር ፍቅሬ ቶሎሳ ጂግሳ",
+     "role": "author",
+     "romanized": "Fikre Tolossa"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_cpnza6ad",
+   "id": "wk_cpnza6ad",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yearomo ena yeamara ewnetenyaw yezer menech",
+    "script": "Ethi",
+    "text": "የአሮሞ እና የአማራ እውነተኛው የዘር ምንጭ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rdxz5kp9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rdxz5kp9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h1qc0ttp",
+     "name": "ፕሮፌሰር ፍቅሬ ቶሎሳ ጂግሳ",
+     "role": "author",
+     "romanized": "Fikre Tolossa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rdxz5kp9",
+   "id": "wk_rdxz5kp9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewruna yaltenegerew yeayhudawyan ena yeityopyawyan tarik",
+    "script": "Ethi",
+    "text": "ስውሩና ያልተነገረው የአይሁዳውያን እና የኢትዮጵያውያን ታሪክ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

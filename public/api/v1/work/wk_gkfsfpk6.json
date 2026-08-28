@@ -13,18 +13,34 @@
   }
  ],
  "editions": [
-  "ed_05b4n303"
+  "ed_05b4n303",
+  "ed_p0y3ad6m"
  ],
  "extensions": {},
  "fingerprint": "መጽሀፈፈውስ|marirasamanbalay",
+ "first_published": {
+  "edtf": "2016-09-11/2017-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2009"
+  }
+ },
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_gkfsfpk6",
  "id": "wk_gkfsfpk6",
  "identifiers": {
   "hahubooks_code": [
    "jb_199"
+  ],
+  "pdf_pagehash": [
+   "111e16060e0e2020",
+   "3937557d7d7d3f38",
+   "4e0f1e160e1e0300",
+   "51178f8c2b0f8d40",
+   "6096160c00044240"
   ]
  },
  "language": "am",
@@ -61,12 +77,16 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: መጽሐፈ ፈውስ.pdf",
+  "Subtitle: መዝገበ ጥበብ ወፈለገ ጠቢብ ዘስርወ እፀዋት"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks",
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_199"
  },
+ "publisher_name": "መልአከ መዊዕ ቀሲስ ፀጋዬ ሽፋራው",
  "relations": [],
  "rights": {
   "shippable": false,

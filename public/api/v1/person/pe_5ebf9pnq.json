@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "baysagamachu",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_5ebf9pnq",
  "id": "pe_5ebf9pnq",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ባይሳገመቹ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የዘረኝነት አውራቂስ - ባይሣ ገመቹ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -59,6 +63,41 @@
     "text": "የዘረኝነት አውራቂስ"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vb5x0xby.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vb5x0xby.png"
+   },
+   "credits": [
+    {
+     "id": "pe_5ebf9pnq",
+     "name": "ባይሳ ገመቹ",
+     "role": "author",
+     "romanized": "Bayissa Gemechu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_vb5x0xby",
+   "id": "wk_vb5x0xby",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yezenynet awraqis",
+    "script": "Ethi",
+    "text": "የዘኝነት አውራቂስ"
+   },
+   "type": "work",
+   "year": 2018
   }
  ]
 }

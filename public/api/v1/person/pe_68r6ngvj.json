@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "salomonshumyamakonan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_68r6ngvj",
+ "id": "pe_68r6ngvj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selomon shumye mekonen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን ሹምዬ መኮንን"
+  },
+  "romanized": "selomon shumye mekonen",
+  "sort_key": "ሰሎሞንሹምዬመኮንን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ገመና (ረጅም ልብወለድ).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7dbc7221e97b69b062585acc6a9aa5f78d42a2fa72afd0b9a83afdda861d86cd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vaeq5apx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vaeq5apx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_68r6ngvj",
+     "name": "ሰሎሞን ሹምዬ መኮንን",
+     "role": "author",
+     "romanized": "selomon shumye mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vaeq5apx",
+   "id": "wk_vaeq5apx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gemena",
+    "script": "Ethi",
+    "text": "ገመና"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

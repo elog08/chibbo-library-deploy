@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "amnatgabramlak",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_59e6pvht",
+ "id": "pe_59e6pvht",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "emnet gebre amlak",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እምነት ገብረ አምላክ"
+  },
+  "romanized": "emnet gebre amlak",
+  "sort_key": "እምነትገብረአምላክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ልጅነት_ተመልሶ_አይመጣም_#እምነት_ገብረ_አምላክ.pdf",
+  "Read from the title page of ልጅነት_ተመልሶ_አይመጣም_በእምነት_ገብረ_አምላክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bedb14f722a43e67a261d8ae8a752309ef2b133bbb5990c6a143af01fef286ba",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r4d0n4sr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r4d0n4sr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_59e6pvht",
+     "name": "እምነት ገብረ አምላክ",
+     "role": "author",
+     "romanized": "emnet gebre amlak"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1959-09-12/1960-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_r4d0n4sr",
+   "id": "wk_r4d0n4sr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lejnet temelso aymetam",
+    "script": "Ethi",
+    "text": "ልጅነት ተመልሶ አይመጣም"
+   },
+   "type": "work",
+   "year": 1959
+  }
+ ]
+}

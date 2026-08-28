@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "mahratdababagabratsadaq",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ravjndzy",
+ "id": "pe_ravjndzy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mehret debebe gebretsadeq",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምህረት ደበበ ገብረጻድቅ"
+  },
+  "romanized": "mehret debebe gebretsadeq",
+  "sort_key": "ምህረትደበበገብረጻድቅ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሌላ ሰው በ ዶ.ር ምህረት ደበበ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "28949cb04da1a6fe60ab7cef8e601e6e2900bf30a9a6c5a8e29a24b84b0b6631",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qwyn095e.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qwyn095e.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ravjndzy",
+     "name": "ምህረት ደበበ ገብረጻድቅ",
+     "role": "author",
+     "romanized": "mehret debebe gebretsadeq"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qwyn095e",
+   "id": "wk_qwyn095e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "LelaSew",
+    "script": "Ethi",
+    "text": "ሌላ ሰው"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

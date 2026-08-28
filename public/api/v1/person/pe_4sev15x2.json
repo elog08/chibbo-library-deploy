@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "haylamalakotmawal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4sev15x2",
+ "id": "pe_4sev15x2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "haylemelekot mewael",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኃይለመለኮት መዋዕል"
+  },
+  "romanized": "haylemelekot mewael",
+  "sort_key": "ሀይለመለኮትመዋእል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከእለታት_ግማሽ_ቀን_አሌክስ_አብረሐም.pdf",
+  "Read from the title page of ጉንጉን.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "546052622bbadfb1be2494f1fe7e3be99ef7f73dad9e89247b050a71747cf741",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3qy5szzm.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2024/02/kgk.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    },
+    {
+     "id": "pe_4sev15x2",
+     "name": "ኃይለመለኮት መዋዕል",
+     "role": "author",
+     "romanized": "haylemelekot mewael"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2020-01-01",
+    "flags": []
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "suspect-isbn",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3qy5szzm",
+   "id": "wk_3qy5szzm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KE ELETAT GIMASH QEN",
+    "script": "Ethi",
+    "text": "ከዕለታት ግማሽ ቀን"
+   },
+   "type": "work",
+   "year": 2020
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jdw8j7m2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jdw8j7m2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4sev15x2",
+     "name": "ኃይለመለኮት መዋዕል",
+     "role": "author",
+     "romanized": "haylemelekot mewael"
+    },
+    {
+     "id": "pe_j5bt59wr",
+     "name": "መስፍን ሀብተ ማርያም ግዛው",
+     "role": "author",
+     "romanized": "mesefen hebte maryam gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jdw8j7m2",
+   "id": "wk_jdw8j7m2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gungun",
+    "script": "Ethi",
+    "text": "ጉንጉን"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

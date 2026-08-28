@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "danalabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ycyd7d7z",
+ "id": "pe_ycyd7d7z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danel abera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል አበራ"
+  },
+  "romanized": "danel abera",
+  "sort_key": "ዳንኤልአበራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማረኛ ተረትና ምሳሌዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bfed46a58acf33b78a309be30b7df5b5cda142def6a4a8ec6ca0c32ca0076e0d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_eb6crwbb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_eb6crwbb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ycyd7d7z",
+     "name": "ዳንኤል አበራ",
+     "role": "author",
+     "romanized": "danel abera"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_eb6crwbb",
+   "id": "wk_eb6crwbb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya teretna mesalewoch",
+    "script": "Ethi",
+    "text": "የአማርኛ ተረትና ምሳሌዎች"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

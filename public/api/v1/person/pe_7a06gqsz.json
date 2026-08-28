@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "darajadamsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7a06gqsz",
+ "id": "pe_7a06gqsz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "DEREGE DEMISSIE",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደረጀ ደምሴ"
+  },
+  "romanized": "DEREGE DEMISSIE",
+  "sort_key": "ደረጀደምሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አባቴ ያቺን ሰዐት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a0f1985d5232b193b9a24b261d7a5c7bd9c1140938166b9ee48ce7625e1d7d57",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cmks67cc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cmks67cc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7a06gqsz",
+     "name": "ደረጀ ደምሴ",
+     "role": "author",
+     "romanized": "DEREGE DEMISSIE"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cmks67cc",
+   "id": "wk_cmks67cc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ABATE YACHIN SEA'T",
+    "script": "Ethi",
+    "text": "አባቴ ያቺን ሰዓት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

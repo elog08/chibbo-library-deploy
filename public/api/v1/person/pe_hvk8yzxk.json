@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "admasuararunagash",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hvk8yzxk",
+ "id": "pe_hvk8yzxk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "admasu areru negash",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አድማሱ አረሩ ነጋሽ"
+  },
+  "romanized": "admasu areru negash",
+  "sort_key": "አድማሱአረሩነጋሽ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተገነዘ ምስጢር - አድማሱ አረሩ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c0709a5013ff2abdfa0159334ab9b794e22a24774b5a6d8ef29580e5e5ce2b86",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jjm464xd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jjm464xd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hvk8yzxk",
+     "name": "አድማሱ አረሩ ነጋሽ",
+     "role": "author",
+     "romanized": "admasu areru negash"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jjm464xd",
+   "id": "wk_jjm464xd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetegeneze mestir",
+    "script": "Ethi",
+    "text": "የተገነዘ ምሥጢር"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

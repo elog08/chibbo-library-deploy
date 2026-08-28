@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "darajatasfaya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zvceqazv",
+ "id": "pe_zvceqazv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dereje Tesfaye"
+  },
+  "romanized": "Dereje Tesfaye",
+  "sort_key": "derejetesfaye"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of Life 101 Photo Comic Book 14 by AAU MARCH Project.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9abbcb96a7a878e60dd660c8a13e76c72c18df09ae0827fb4706103800e49424",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xzsvsh25.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xzsvsh25.png"
+   },
+   "credits": [
+    {
+     "id": "pe_83fkk71c",
+     "name": "Abiy Alazar",
+     "role": "author",
+     "romanized": "Abiy Alazar"
+    },
+    {
+     "id": "pe_kbj3rfrw",
+     "name": "Tsige G/Mariam",
+     "role": "author",
+     "romanized": "Tsige G/Mariam"
+    },
+    {
+     "id": "pe_7dm09pqd",
+     "name": "Daniel Fekade",
+     "role": "author",
+     "romanized": "Daniel Fekade"
+    },
+    {
+     "id": "pe_xz6xxggx",
+     "name": "Endale Workalemahu",
+     "role": "author",
+     "romanized": "Endale Workalemahu"
+    },
+    {
+     "id": "pe_zvceqazv",
+     "name": "Dereje Tesfaye",
+     "role": "author",
+     "romanized": "Dereje Tesfaye"
+    },
+    {
+     "id": "pe_4spfsedm",
+     "name": "Fikru Kassa",
+     "role": "author",
+     "romanized": "Fikru Kassa"
+    },
+    {
+     "id": "pe_ecnyt13m",
+     "name": "Daniel Seleshi",
+     "role": "author",
+     "romanized": "Daniel Seleshi"
+    },
+    {
+     "id": "pe_4ym1khpm",
+     "name": "Biniyam Wubishet",
+     "role": "author",
+     "romanized": "Biniyam Wubishet"
+    },
+    {
+     "id": "pe_8kwhtmqh",
+     "name": "Addis Tesfa",
+     "role": "author",
+     "romanized": "Addis Tesfa"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_xzsvsh25",
+   "id": "wk_xzsvsh25",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "THE JOURNEY LIFE 101",
+    "script": "Latn",
+    "text": "THE JOURNEY LIFE 101"
+   },
+   "type": "work"
+  }
+ ]
+}

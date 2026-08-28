@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "haylugamoraw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2pp5e6ar",
+ "id": "pe_2pp5e6ar",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Hailu Gabre Yohannes (Gemoraw)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኃይሉ (ገሞራው)"
+  },
+  "romanized": "Hailu Gabre Yohannes (Gemoraw)",
+  "sort_key": "ሀይሉገሞራው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በናቴኮ ሴት ነኝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1c57ba00d30e949d197cc935f9576077c0826ee0075fc75dfecb4605420b1fa4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2ddrteew.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2ddrteew.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2pp5e6ar",
+     "name": "ኃይሉ (ገሞራው)",
+     "role": "author",
+     "romanized": "Hailu Gabre Yohannes (Gemoraw)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2ddrteew",
+   "id": "wk_2ddrteew",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bennateco Set Negn",
+    "script": "Ethi",
+    "text": "በናቴኮ ሴት ነኝ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

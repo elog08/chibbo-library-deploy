@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "faqadayohanashambal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6x38a8pe",
+ "id": "pe_6x38a8pe",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feqede yohenes (shambel)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፈቀደ ዮሐንስ (ሻምበል)"
+  },
+  "romanized": "feqede yohenes (shambel)",
+  "sort_key": "ፈቀደዮሀንስሻምበል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰንሰለት - ፈቀደ ዮሃንስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "179a476aa71af6b84bdb5d9fad71f113a7e3976fed672a75c7f8061a33728043",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bzpg4ha5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bzpg4ha5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6x38a8pe",
+     "name": "ፈቀደ ዮሐንስ (ሻምበል)",
+     "role": "author",
+     "romanized": "feqede yohenes (shambel)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bzpg4ha5",
+   "id": "wk_bzpg4ha5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "senselet",
+    "script": "Ethi",
+    "text": "ሠንሠለት"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

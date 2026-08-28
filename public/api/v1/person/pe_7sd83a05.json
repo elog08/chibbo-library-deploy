@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "yukopilov",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7sd83a05",
+ "id": "pe_7sd83a05",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yu kopilov",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዩ ኮፒሎቭ"
+  },
+  "romanized": "yu kopilov",
+  "sort_key": "ዩኮፒሎቭ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሳይላክ_የቀረ_ደብዳቤ_ካሳ_ገብረሂወት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e0ce095b60727ab1571b1b0c887608a1d8532d3c147244b645fddfebcba4d437",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jqz4qe56.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jqz4qe56.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f0yeqyka",
+     "name": "ካሳ ገብረ ሕይወት",
+     "role": "author",
+     "romanized": "kasa gebre heywet"
+    },
+    {
+     "id": "pe_7sd83a05",
+     "name": "ዩ ኮፒሎቭ",
+     "role": "author",
+     "romanized": "yu kopilov"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jqz4qe56",
+   "id": "wk_jqz4qe56",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "saylak yeqere debdabe",
+    "script": "Ethi",
+    "text": "ሳይላክ የቀረ ደብዳቤ"
+   },
+   "type": "work"
+  }
+ ]
+}

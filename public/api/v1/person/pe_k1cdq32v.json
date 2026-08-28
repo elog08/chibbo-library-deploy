@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "sharonlachtar",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_k1cdq32v",
+ "id": "pe_k1cdq32v",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sharon lechter",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሻሮን ሌችተር"
+  },
+  "romanized": "sharon lechter",
+  "sort_key": "ሻሮንሌችተር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሀብት መንገድ - ብርሀኑ በላቸው .pdf",
+  "Read from the title page of የገንዘብ ነፃነት - ሮበርት ኪዮስኪ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "54771c1a782ebd8b44a0936b800946e71272d2efff7e09d256243bb366a7061e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5m9m0t46.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5m9m0t46.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wczkdthc",
+     "name": "Robert T. Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T. Kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_dtm2azh6",
+     "name": "አክሊሉ በሬቻ",
+     "role": "author",
+     "romanized": "aklilu berecha"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5m9m0t46",
+   "id": "wk_5m9m0t46",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegenzeb netsanet",
+    "script": "Ethi",
+    "text": "የገንዘብ ነፃነት"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ew3tywqj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ew3tywqj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ftac5cp",
+     "name": "ሮበርት ኪዮሳኪ",
+     "role": "author",
+     "romanized": "roberet kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ew3tywqj",
+   "id": "wk_ew3tywqj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rich Dad Poor Dad",
+    "script": "Ethi",
+    "text": "የሀብት መንገድ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

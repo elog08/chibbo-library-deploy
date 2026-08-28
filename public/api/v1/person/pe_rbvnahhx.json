@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "bayubogalalaqaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rbvnahhx",
+ "id": "pe_rbvnahhx",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bayu bogale laqew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባዩ ቦጋለ ላቀው"
+  },
+  "romanized": "bayu bogale laqew",
+  "sort_key": "ባዩቦጋለላቀው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቅማንት - ባዩ ቦጋለ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a42ddd355019eb98eee62a70798cd6cef6d72a319c4400440c8cca8c8cf5db26",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_frsp2b98.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_frsp2b98.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2x7wvt4k",
+     "name": "ፍሬደሪክ ሲ ጋምስት",
+     "role": "author",
+     "romanized": "ferederik si gameset"
+    },
+    {
+     "id": "pe_rbvnahhx",
+     "name": "ባዩ ቦጋለ ላቀው",
+     "role": "author",
+     "romanized": "bayu bogale laqew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_frsp2b98",
+   "id": "wk_frsp2b98",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qemanet aremawi-oritawi ityopyawi gebere",
+    "script": "Ethi",
+    "text": "ቅማንት አረማዊ-ኦሪታዊ ኢትዮጵያዊ ገበሬ"
+   },
+   "type": "work",
+   "year": 1993
+  }
+ ]
+}

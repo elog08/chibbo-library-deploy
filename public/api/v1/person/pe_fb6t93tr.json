@@ -1,0 +1,100 @@
+{
+ "extensions": {},
+ "fingerprint": "dorabarhabasrat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fb6t93tr",
+ "id": "pe_fb6t93tr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re aberha besrat",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር አብርሃ ብስራት"
+  },
+  "romanized": "do/re aberha besrat",
+  "sort_key": "ዶርአብርሀብስራት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የእንስሳት_በሽታዎችን_በጥቅል_ምልክቶቻቸው_መሠረት_መለየት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7daeee3574445736b2dd7ad87687853973790dc57b6e4e797b5c072802b126d6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_63mnmtwh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_63mnmtwh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ked0pxcp",
+     "name": "ኮሪ ብራውን",
+     "role": "author",
+     "romanized": "kori berawen"
+    },
+    {
+     "id": "pe_5jxgjbdb",
+     "name": "ዶ/ር ዕፃይ ከበደ",
+     "role": "author",
+     "romanized": "do/re etsay kebede"
+    },
+    {
+     "id": "pe_t2ssjqsz",
+     "name": "ዶ/ር ዮውሃንስ ተክሌ",
+     "role": "author",
+     "romanized": "do/re yowhanes tekle"
+    },
+    {
+     "id": "pe_fb6t93tr",
+     "name": "ዶ/ር አብርሃ ብስራት",
+     "role": "author",
+     "romanized": "do/re aberha besrat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_63mnmtwh",
+   "id": "wk_63mnmtwh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeenessat beshtawochen beteqel melektochachewu meseret meleyet",
+    "script": "Ethi",
+    "text": "የእንስሳት በሽታዎችን በጥቅል ምልክቶቻቸዉ መሠረት መለየት"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

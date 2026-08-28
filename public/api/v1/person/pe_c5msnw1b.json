@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "balatangatamahtamasalasawama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_c5msnw1b",
+ "id": "pe_c5msnw1b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "belaten geta mahteme selase we me",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብላቴን ጌታ ማኅተመ ሥላሴ ወ መ"
+  },
+  "romanized": "belaten geta mahteme selase we me",
+  "sort_key": "ብላቴንጌታማህተመስላሴወመ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እንቅልፍ ለምኔ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "86d4190e47aa0f62e6a6db5bf16766a7dd34253e7aa1d437e9e447a080396f07",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fq8bzq3j.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fq8bzq3j.png"
+   },
+   "credits": [
+    {
+     "id": "pe_c5msnw1b",
+     "name": "ብላቴን ጌታ ማኅተመ ሥላሴ ወ መ",
+     "role": "author",
+     "romanized": "belaten geta mahteme selase we me"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1958-09-11/1959-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_fq8bzq3j",
+   "id": "wk_fq8bzq3j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eneqelef lemne",
+    "script": "Ethi",
+    "text": "እንቅልፍ ለምኔ"
+   },
+   "type": "work",
+   "year": 1958
+  }
+ ]
+}

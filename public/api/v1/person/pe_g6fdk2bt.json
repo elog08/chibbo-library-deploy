@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "waraqafarahuasafa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_g6fdk2bt",
+ "id": "pe_g6fdk2bt",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wereqaferahu asefa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወርቅአፈራሁ አሰፋ"
+  },
+  "romanized": "wereqaferahu asefa",
+  "sort_key": "ወርቅአፈራሁአሰፋ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ራ የኢትዮጵያ ቀንደኛ ጠላት.pdf",
+  "Read from the title page of ከሀዲዎቹ - ወርቃፈራሁ አሰፋ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "28573f328078ada128eb3a9e0cf28119dc36ac5867a2e8238fba0bdbbcad4748",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e4dw8f94.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e4dw8f94.png"
+   },
+   "credits": [
+    {
+     "id": "pe_g6fdk2bt",
+     "name": "ወርቅአፈራሁ አሰፋ",
+     "role": "author",
+     "romanized": "wereqaferahu asefa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_e4dw8f94",
+   "id": "wk_e4dw8f94",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ra yeityopya qendenya telat!",
+    "script": "Ethi",
+    "text": "ራ የኢትዮጵያ ቀንደኛ ጠላት!"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_mntppvew.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_mntppvew.png"
+   },
+   "credits": [
+    {
+     "id": "pe_g6fdk2bt",
+     "name": "ወርቅአፈራሁ አሰፋ",
+     "role": "author",
+     "romanized": "wereqaferahu asefa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_mntppvew",
+   "id": "wk_mntppvew",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kehediwochu",
+    "script": "Ethi",
+    "text": "ከሀዲዎቹ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

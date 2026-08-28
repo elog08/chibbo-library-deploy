@@ -13,9 +13,20 @@
    "@id": "https://chibbo.app/person/pe_12cb4vdj",
    "@type": "Person",
    "name": "ዳዊት ድሪምስ"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_yk52s8dg",
+   "@type": "Person",
+   "name": "ሰሎሞን አልማረ"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_j45etz2f",
+   "@type": "Person",
+   "name": "ጥላሁን አዱኛ"
   }
  ],
  "datePublished": "2012?",
+ "genre": "Print",
  "image": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Psychology/i-have-a-big-dream-dawit-dreams.webp",
  "inLanguage": "am",
  "name": "ትልቅ ህልም አለኝ",
@@ -31,6 +42,10 @@
    "url": "https://www.ethiobookreview.com/book/i-have-a-big-dream-dawit-dreams"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Dawit Dreams"
+ },
  "sameAs": [
   "https://www.ethiobookreview.com/book/i-have-a-big-dream-dawit-dreams"
  ],
@@ -38,6 +53,10 @@
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_6r9ttbpx",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_qzbqs937",
    "@type": "Book"
   }
  ]

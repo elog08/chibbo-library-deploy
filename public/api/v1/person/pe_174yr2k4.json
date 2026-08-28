@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "ababalamu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_174yr2k4",
+ "id": "pe_174yr2k4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebe alemu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበ ዓለሙ"
+  },
+  "romanized": "abebe alemu",
+  "sort_key": "አበበአለሙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዉርዬና ቡችዬ ከ አበበ ዓለሙ 1998 ዓ.ም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5fdcd6f6ed4c080dfee2e3053236f435f637cba2a15d65affa66a7bd03822d6b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_91xmsnt6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_91xmsnt6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_174yr2k4",
+     "name": "አበበ ዓለሙ",
+     "role": "author",
+     "romanized": "abebe alemu"
+    },
+    {
+     "id": "pe_174yr2k4",
+     "name": "አበበ ዓለሙ",
+     "role": "author",
+     "romanized": "abebe alemu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_91xmsnt6",
+   "id": "wk_91xmsnt6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "werye ena buchye",
+    "script": "Ethi",
+    "text": "ውርዬ እና ቡችዬ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

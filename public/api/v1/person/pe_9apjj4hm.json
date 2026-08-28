@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanaswaldamaryamzabharatagulat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9apjj4hm",
+ "id": "pe_9apjj4hm",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes welde maryam zebhere tegulet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ወልደ ማርያም ዘብሔረ ተጉለት"
+  },
+  "romanized": "yohenes welde maryam zebhere tegulet",
+  "sort_key": "ዮሀንስወልደማርያምዘብሄረተጉለት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአለም_ታሪክ_ከጂዎግራፊ_ጋር_የተያያዘ_ዮሐንስ_ወልደ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1158633f4c9aee0310d64cde27e9abcbaba1fd8b8238a29890a69e0528071cf4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3gmh4j6v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3gmh4j6v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9apjj4hm",
+     "name": "ዮሐንስ ወልደ ማርያም ዘብሔረ ተጉለት",
+     "role": "author",
+     "romanized": "yohenes welde maryam zebhere tegulet"
+    },
+    {
+     "id": "pe_mhn15371",
+     "name": "ጴጥሮስ ፓርሌ",
+     "role": "author",
+     "romanized": "petros parle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1947-09-12/1948-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3gmh4j6v",
+   "id": "wk_3gmh4j6v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yealem tarik kejiwografi gar yeteyayaze",
+    "script": "Ethi",
+    "text": "የዓለም ታሪክ ከጂዎግራፊ ጋር የተያያዘ"
+   },
+   "type": "work",
+   "year": 1947
+  }
+ ]
+}

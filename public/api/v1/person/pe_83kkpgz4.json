@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "daglaspatros",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_83kkpgz4",
+ "id": "pe_83kkpgz4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "daglas petros",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳግላስ ጴጥሮስ"
+  },
+  "romanized": "daglas petros",
+  "sort_key": "ዳግላስጴጥሮስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ስሞተኛው - ዳግላስ ጴጥሮስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bb37495136af43bfff8bd228719dca7314b4fa7f1a969f420ceaec85d2f20e93",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sy006ptx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sy006ptx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_83kkpgz4",
+     "name": "ዳግላስ ጴጥሮስ",
+     "role": "author",
+     "romanized": "daglas petros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sy006ptx",
+   "id": "wk_sy006ptx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "semotenyaw ena leloch achacher leboledoch",
+    "script": "Ethi",
+    "text": "ስሞተኛው እና ሌሎች አጫጭር ልቦለዶች"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

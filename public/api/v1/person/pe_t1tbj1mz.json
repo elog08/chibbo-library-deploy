@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "karolbaritan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_t1tbj1mz",
+ "id": "pe_t1tbj1mz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Carol Britten",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሮል ብሪተን"
+  },
+  "romanized": "Carol Britten",
+  "sort_key": "ካሮልብሪተን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጋብቻ እንቆቅልሽ AFYM_01.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "39750f47f3764e3767709d318ef9f960ff72f8c5ef2ac802a4c1d5666eb7a243",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_63909y85.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_63909y85.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4frmjanm",
+     "name": "ብሩስ ብሪተን",
+     "role": "author",
+     "romanized": "Bruce Britten"
+    },
+    {
+     "id": "pe_t1tbj1mz",
+     "name": "ካሮል ብሪተን",
+     "role": "author",
+     "romanized": "Carol Britten"
+    },
+    {
+     "id": "pe_qshz32dk",
+     "name": "ጌቱ ግዛው",
+     "role": "author",
+     "romanized": "getu gezaw"
+    },
+    {
+     "id": "pe_ztkxtym9",
+     "name": "ፈቃዱ ገብሬ",
+     "role": "author",
+     "romanized": "feqadu gebre"
+    },
+    {
+     "id": "pe_46zg3qgp",
+     "name": "አለማየሁ ማሞ",
+     "role": "author",
+     "romanized": "Alemayehu Mamo"
+    },
+    {
+     "id": "pe_6n8y333k",
+     "name": "ወርቁ ኃ/ማርያም",
+     "role": "author",
+     "romanized": "werqu ha/maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_63909y85",
+   "id": "wk_63909y85",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegabcha enqoqelshochna mefethewochachew",
+    "script": "Ethi",
+    "text": "የጋብቻ እንቆቅልሾችና መፍትሔዎቻቸው"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "extensions": {},
+ "fingerprint": "doktargabayahutafari",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qtm9pn8j",
+ "id": "pe_qtm9pn8j",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Dr. Gebeyehu Teferi",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶክተር ገበየሁ ተፈሪ"
+  },
+  "romanized": "Dr. Gebeyehu Teferi",
+  "sort_key": "ዶክተርገበየሁተፈሪ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተደበቀው ማስታወሻ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "9ab2783ded83a69cdbcfc124b9323368e329f20c6a51dd0a7085f2df2c1c786c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_j7g5hstv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_j7g5hstv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_k6hq61t0",
+     "name": "ዶክተር ሀራልድ ናይስተሮም",
+     "role": "author",
+     "romanized": "Dr. Harald Nystrom"
+    },
+    {
+     "id": "pe_qtm9pn8j",
+     "name": "ዶክተር ገበየሁ ተፈሪ",
+     "role": "author",
+     "romanized": "Dr. Gebeyehu Teferi"
+    },
+    {
+     "id": "pe_xfasdeez",
+     "name": "ደስአለኝ አለሙ",
+     "role": "author",
+     "romanized": "Dessalegn Alemu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_j7g5hstv",
+   "id": "wk_j7g5hstv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetedebeqew mastawesha",
+    "script": "Ethi",
+    "text": "የተደበቀው ማስታወሻ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

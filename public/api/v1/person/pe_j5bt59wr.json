@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "masafanhabtamaryamgazaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j5bt59wr",
+ "id": "pe_j5bt59wr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen hebte maryam gezaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ሀብተ ማርያም ግዛው"
+  },
+  "romanized": "mesefen hebte maryam gezaw",
+  "sort_key": "መስፍንሀብተማርያምግዛው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጉንጉን.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "8437ad3630ffb707f82a21dc0fe0bd6f0bc0b916ca0c58b1d88a23b3de077845",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jdw8j7m2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jdw8j7m2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4sev15x2",
+     "name": "ኃይለመለኮት መዋዕል",
+     "role": "author",
+     "romanized": "haylemelekot mewael"
+    },
+    {
+     "id": "pe_j5bt59wr",
+     "name": "መስፍን ሀብተ ማርያም ግዛው",
+     "role": "author",
+     "romanized": "mesefen hebte maryam gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jdw8j7m2",
+   "id": "wk_jdw8j7m2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gungun",
+    "script": "Ethi",
+    "text": "ጉንጉን"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

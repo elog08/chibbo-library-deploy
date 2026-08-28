@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "arafaynahagwas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_h7q16j9v",
+ "id": "pe_h7q16j9v",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "arefeayne hegwes",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አረፈዓይኔ ሐጐስ"
+  },
+  "romanized": "arefeayne hegwes",
+  "sort_key": "አረፈአይኔሀገስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቀልዶች__ከጋብሮቮ_ምድር_አረፈዓይኔ_ሃጎስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1fa37a21f5aa5f91b47e1d7e361293a427b8b24e4f895ecdf80178d7fd259ea3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_53k5jvhm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_53k5jvhm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h7q16j9v",
+     "name": "አረፈዓይኔ ሐጐስ",
+     "role": "author",
+     "romanized": "arefeayne hegwes"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_53k5jvhm",
+   "id": "wk_53k5jvhm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qeldoch kegabrovo meder",
+    "script": "Ethi",
+    "text": "ቀልዶች ከጋብሮቮ ምድር"
+   },
+   "type": "work"
+  }
+ ]
+}

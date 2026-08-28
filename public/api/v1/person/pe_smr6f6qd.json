@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "aschalawkabada",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_smr6f6qd",
+ "id": "pe_smr6f6qd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aschalew kebede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አስቻለው ከበደ"
+  },
+  "romanized": "aschalew kebede",
+  "sort_key": "አስቻለውከበደ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከርከቤዴል ሳዶፍ - አስቻለው ከበደ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "eea4de888c847801e241b5a25decf67853844368761e2edfc450b2f06a05d736",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_te2nh6n3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_te2nh6n3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_smr6f6qd",
+     "name": "አስቻለው ከበደ",
+     "role": "author",
+     "romanized": "aschalew kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_te2nh6n3",
+   "id": "wk_te2nh6n3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kerkebedel sadof ityopyana yesemay hayalat",
+    "script": "Ethi",
+    "text": "ከርከቤዴል ሳዶፍ ኢትዮጵያና የሰማይ ኃያላት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

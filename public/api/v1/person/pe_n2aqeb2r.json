@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "asmamawbadama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_n2aqeb2r",
+ "id": "pe_n2aqeb2r",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "asmamaw bedema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አስማማው በደማ"
+  },
+  "romanized": "asmamaw bedema",
+  "sort_key": "አስማማውበደማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአንድ ሰው እጣ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "353896130500910711c33bbdf0727a55615d1ec15fefb7a6edc63d2b47dea420",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k08makna.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k08makna.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sgzhmcqw",
+     "name": "ሚካሃይል ሾሎኰቭ",
+     "role": "author",
+     "romanized": "mikahayel sholokwev"
+    },
+    {
+     "id": "pe_n2aqeb2r",
+     "name": "አስማማው በደማ",
+     "role": "author",
+     "romanized": "asmamaw bedema"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_k08makna",
+   "id": "wk_k08makna",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeaned sew eta",
+    "script": "Ethi",
+    "text": "የአንድ ሰው እጣ"
+   },
+   "type": "work"
+  }
+ ]
+}

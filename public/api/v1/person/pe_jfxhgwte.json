@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "ahadusabura",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jfxhgwte",
+ "id": "pe_jfxhgwte",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ahedu sabure",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አሐዱ ሳቡሬ"
+  },
+  "romanized": "ahedu sabure",
+  "sort_key": "አሀዱሳቡሬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአለም መስታወት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "baa3faad0a7f6c2228802b953395901b5c90d6997f365e1aaf4fb4b9907ede5e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r5pcjh8e.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r5pcjh8e.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jfxhgwte",
+     "name": "አሐዱ ሳቡሬ",
+     "role": "author",
+     "romanized": "ahedu sabure"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1953-09-11/1954-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_r5pcjh8e",
+   "id": "wk_r5pcjh8e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yealem mestewat",
+    "script": "Ethi",
+    "text": "የዓለም መስተዋት"
+   },
+   "type": "work",
+   "year": 1953
+  }
+ ]
+}

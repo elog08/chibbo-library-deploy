@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "zabanalama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kcev36sb",
+ "id": "pe_kcev36sb",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Zebene Lemma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘበነ ለማ"
+  },
+  "romanized": "Zebene Lemma",
+  "sort_key": "ዘበነለማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰው ምንድን ነው - ዘበነ ለማ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "aac3337df8f6b793f6086f6de8d383af79e0ee4c765f208fa9d18fc6e8f26572",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kgxm27dh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kgxm27dh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kcev36sb",
+     "name": "ዘበነ ለማ",
+     "role": "author",
+     "romanized": "Zebene Lemma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2019?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kgxm27dh",
+   "id": "wk_kgxm27dh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "menetnu wetu sebe sew meneden new? yemanneten tergum felega",
+    "script": "Ethi",
+    "text": "ምንትኑ ውእቱ ሰብእ ሰው ምንድን ነው? የማንነትን ትርጉም ፍለጋ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

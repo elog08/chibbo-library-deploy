@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "maryamawitshamalas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_r4yk18dn",
+ "id": "pe_r4yk18dn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "maryamawit shemeles",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማርያማዊት ሸመልስ"
+  },
+  "romanized": "maryamawit shemeles",
+  "sort_key": "ማርያማዊትሸመልስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተራቡ ጭኖች - ጠበቆቹ ሶማሊላንድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7ff240c903a7f29a5d59363ddfdca508ce5f2eed4fd993188ddd9e58f8f99595",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vcsz04fz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vcsz04fz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2btmfr78",
+     "name": "ንጋቱ ክፍሌ",
+     "role": "author",
+     "romanized": "Nigatu Kifle"
+    },
+    {
+     "id": "pe_r4yk18dn",
+     "name": "ማርያማዊት ሸመልስ",
+     "role": "author",
+     "romanized": "maryamawit shemeles"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_vcsz04fz",
+   "id": "wk_vcsz04fz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeterabu chenoch tebeqochu - somali laned",
+    "script": "Ethi",
+    "text": "የተራቡ ጭኖች ጠበቆቹ - ሶማሊ ላንድ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

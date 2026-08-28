@@ -1,0 +1,204 @@
+{
+ "extensions": {},
+ "fingerprint": "danyachawarqu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qxyycqs0",
+ "id": "pe_qxyycqs0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danyachew werqu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳኛቸው ወርቁ"
+  },
+  "romanized": "danyachew werqu",
+  "sort_key": "ዳኛቸውወርቁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አደፍርስ - ዳኛቸው ወርቁ.pdf",
+  "Read from the title page of እምቧ በሉ ሰወች ዳኛቸው ወርቁ.pdf",
+  "Read from the title page of የአማረኛ ፈሊጦች.pdf",
+  "Read from the title page of የፅሁፍ ጥበብ መመሪያ @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dfc57aee3d14a06a8b567d86ca0c4602b110087403edda569a215f8fc89bd577",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0h85npxj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0h85npxj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_34skjv3a",
+     "name": "አምሳሉ አክሊሉ",
+     "role": "author",
+     "romanized": "amsalu aklilu"
+    },
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0h85npxj",
+   "id": "wk_0h85npxj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya felitoch",
+    "script": "Ethi",
+    "text": "የአማርኛ ፈሊጦች"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_19w79eb9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_19w79eb9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    },
+    {
+     "id": "pe_byryc69d",
+     "name": "ዘውዴ ተፈራ",
+     "role": "author",
+     "romanized": "zewde tefera"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1974-09-11/1975-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_19w79eb9",
+   "id": "wk_19w79eb9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "embi belu sewoch",
+    "script": "Ethi",
+    "text": "እምቢ በሉ ሰዎች"
+   },
+   "type": "work",
+   "year": 1974
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rxdq9qm9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rxdq9qm9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1969-09-11/1970-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rxdq9qm9",
+   "id": "wk_rxdq9qm9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "adeferes",
+    "script": "Ethi",
+    "text": "አደፍርስ"
+   },
+   "type": "work",
+   "year": 1969
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_s3md22dj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s3md22dj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s3md22dj",
+   "id": "wk_s3md22dj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetshuf tebeb memeriya",
+    "script": "Ethi",
+    "text": "የጽሑፍ ጥበብ መመሪያ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "extensions": {},
+ "fingerprint": "marasahazanwaldaqirqos",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bth9vfq4",
+ "id": "pe_bth9vfq4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "merese hezen welde qirqos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መርስዔ ኀዘን ወልደ ቂርቆስ"
+  },
+  "romanized": "merese hezen welde qirqos",
+  "sort_key": "መርስኤሀዘንወልደቂርቆስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትዝታዬ_ስለ_ራሴ_ከማስታውሰው_መርስዔ_ሀዘን_ወልደቂርቆስ.pdf",
+  "Read from the title page of የሐያኛው_ክፍለ_ዘመን_መባቻ_መርስዔ_ሀዘን_ወልደ_ቂርቆስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6b750ca551f82183e0616251dabe034af7371c02c7d00103aa4df6e836152411",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k5haw9fr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k5haw9fr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bth9vfq4",
+     "name": "መርስዔ ኀዘን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "merese hezen welde qirqos"
+    },
+    {
+     "id": "pe_mm77zbpa",
+     "name": "አምኃ መርስዔ ኀዘን",
+     "role": "author",
+     "romanized": "amha merese hezen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_k5haw9fr",
+   "id": "wk_k5haw9fr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeheyanyaw kefle zemen mebacha",
+    "script": "Ethi",
+    "text": "የሐያኛው ክፍለ ዘመን መባቻ"
+   },
+   "type": "work",
+   "year": 2009
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xq5q04ef.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xq5q04ef.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bth9vfq4",
+     "name": "መርስዔ ኀዘን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "merese hezen welde qirqos"
+    },
+    {
+     "id": "pe_mm77zbpa",
+     "name": "አምኃ መርስዔ ኀዘን",
+     "role": "author",
+     "romanized": "amha merese hezen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_xq5q04ef",
+   "id": "wk_xq5q04ef",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teztaye selerase yemastawsew",
+    "script": "Ethi",
+    "text": "ትዝታዬ ስለራሴ የማስታውሰው"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

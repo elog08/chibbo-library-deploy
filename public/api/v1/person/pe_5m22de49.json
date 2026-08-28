@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "sayumwaldaramsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5m22de49",
+ "id": "pe_5m22de49",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "seyum welde ramse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሥዩም ወልዴ ራምሴ"
+  },
+  "romanized": "seyum welde ramse",
+  "sort_key": "ስዩምወልዴራምሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኩርፊያ_የሸፈነው_ፈገግታ_ስዩም_ወልደራምሴ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "fa5449492f5cca4f036c9826992b15987f91924d503fb47fc8dbab24eeeda811",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_j2cpft75.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_j2cpft75.png"
+   },
+   "credits": [
+    {
+     "id": "pe_5m22de49",
+     "name": "ሥዩም ወልዴ ራምሴ",
+     "role": "author",
+     "romanized": "seyum welde ramse"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1992-09-11/1993-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_j2cpft75",
+   "id": "wk_j2cpft75",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kurfiya yeshefenew fegegta",
+    "script": "Ethi",
+    "text": "ኩርፊያ የሸፈነው ፈገግታ"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

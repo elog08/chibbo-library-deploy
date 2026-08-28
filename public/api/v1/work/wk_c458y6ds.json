@@ -10,10 +10,21 @@
    "order": 1,
    "person": "pe_12cb4vdj",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_yk52s8dg",
+   "role": "author"
+  },
+  {
+   "order": 3,
+   "person": "pe_j45etz2f",
+   "role": "author"
   }
  ],
  "editions": [
-  "ed_6r9ttbpx"
+  "ed_6r9ttbpx",
+  "ed_qzbqs937"
  ],
  "extensions": {},
  "fingerprint": "ትልቅህልምአለኝ|dawitdarimas",
@@ -31,11 +42,21 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted"
  ],
+ "form": "Print",
  "href": "https://chibbo.app/work/wk_c458y6ds",
  "id": "wk_c458y6ds",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "0b3b232333036168",
+   "133333333b171700",
+   "2d1b232757347948",
+   "4969134939535540",
+   "6b7f7d7131316948"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -68,13 +89,16 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.33/5 from 109 rating(s), 56 written review(s)"
+  "ethiobookreview community rating 4.33/5 from 109 rating(s), 56 written review(s)",
+  "Read from PDF front matter: ትልቅ ሕልም አለኝ @ETHIO_PDF_BOOKS.pdf",
+  "Edition date is printed as 01 | 05 | 2014."
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/i-have-a-big-dream-dawit-dreams"
  },
+ "publisher_name": "Dawit Dreams",
  "relations": [],
  "rights": {
   "shippable": false,

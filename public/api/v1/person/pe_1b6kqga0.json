@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "masafangabramikal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1b6kqga0",
+ "id": "pe_1b6kqga0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen gebremikael",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ገብረሚካኤል"
+  },
+  "romanized": "mesefen gebremikael",
+  "sort_key": "መስፍንገብረሚካኤል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጊታር ትምህርት ለጀማሪዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d52a43683217bc4c675010af1e68d7634341448a3d9db353859033c858bb6e55",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jhjqn9s9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jhjqn9s9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1b6kqga0",
+     "name": "መስፍን ገብረሚካኤል",
+     "role": "author",
+     "romanized": "mesefen gebremikael"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1979-09-12/1980-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jhjqn9s9",
+   "id": "wk_jhjqn9s9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegitar temeheret lejemariwoch",
+    "script": "Ethi",
+    "text": "የጊታር ትምህርት ለጀማሪዎች"
+   },
+   "type": "work",
+   "year": 1979
+  }
+ ]
+}

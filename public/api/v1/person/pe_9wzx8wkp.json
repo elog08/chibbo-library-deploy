@@ -1,0 +1,162 @@
+{
+ "extensions": {},
+ "fingerprint": "dababasayfu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9wzx8wkp",
+ "id": "pe_9wzx8wkp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "debebe seyfu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደበበ ሰይፉ"
+  },
+  "romanized": "debebe seyfu",
+  "sort_key": "ደበበሰይፉ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf",
+  "Read from the title page of ለራስ_የተፃፈ_ደብዳቤ_የብርሃን_ፍቅር_ቁጥር_2_በደበበ.pdf",
+  "Read from the title page of ማርክሲዝምና የቋንቋ ችግሮች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "40e69871d3fd7b627d12a54c5ce3978fe67919667717e6d8af4cee9c573855b3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1cy4c93f.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1cy4c93f.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d6t1fe99",
+     "name": "ጆሴፍ እስታሊን",
+     "role": "author",
+     "romanized": "josef estalin"
+    },
+    {
+     "id": "pe_9wzx8wkp",
+     "name": "ደበበ ሰይፉ",
+     "role": "author",
+     "romanized": "debebe seyfu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1979-09-12/1980-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1cy4c93f",
+   "id": "wk_1cy4c93f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mareksizemna yeqwanqwa chegroch",
+    "script": "Ethi",
+    "text": "ማርክሲዝምና የቋንቋ ችግሮች"
+   },
+   "type": "work",
+   "year": 1979
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_8c7rrrv4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8c7rrrv4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9wzx8wkp",
+     "name": "ደበበ ሰይፉ",
+     "role": "author",
+     "romanized": "debebe seyfu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8c7rrrv4",
+   "id": "wk_8c7rrrv4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "leras yetetsafe debdabe (yeberhan feqer qets 2)",
+    "script": "Ethi",
+    "text": "ለራስ የተጻፈ ደብዳቤ (የብርሃን ፍቅር ቅጽ ፪)"
+   },
+   "type": "work",
+   "year": 1992
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_cfdxn5dx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9wzx8wkp",
+     "name": "ደበበ ሰይፉ",
+     "role": "author",
+     "romanized": "debebe seyfu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cfdxn5dx",
+   "id": "wk_cfdxn5dx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeberhan feqer",
+    "script": "Ethi",
+    "text": "የብርሃን ፍቅር"
+   },
+   "type": "work",
+   "year": 1980
+  }
+ ]
+}

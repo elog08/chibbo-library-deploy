@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "walanaga",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2stnd3a4",
+ "id": "pe_2stnd3a4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wele nega",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወሌ ነጋ"
+  },
+  "romanized": "wele nega",
+  "sort_key": "ወሌነጋ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መፅሐፍ ቅዱስ በአማረኛ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "654bcd3d2d62c96df21fb10b903f78d9d64bcd9e75983f34a91e230a574316df",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ga55d1ke.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ga55d1ke.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2stnd3a4",
+     "name": "ወሌ ነጋ",
+     "role": "author",
+     "romanized": "wele nega"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ga55d1ke",
+   "id": "wk_ga55d1ke",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshef qedus yebluyna yehedis kidan metsahefet",
+    "script": "Ethi",
+    "text": "መጽሐፍ ቅዱስ የብሉይና የሐዲስ ኪዳን መጻሕፍት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

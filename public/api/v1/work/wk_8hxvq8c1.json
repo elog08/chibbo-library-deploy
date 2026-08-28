@@ -1,0 +1,68 @@
+{
+ "cover": {
+  "bytes": 191884,
+  "path": "assets/covers/wk_8hxvq8c1.png",
+  "sha256": "06f216b5e658e5c5b418c85a197fee732bd84142327adb99f1e88264f31a5147",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8hxvq8c1.png"
+ },
+ "credits": [],
+ "editions": [],
+ "extensions": {},
+ "fingerprint": "ባይብልኮድክፍል|",
+ "flags": [
+  "llm-extracted",
+  "title-from-filename"
+ ],
+ "href": "https://chibbo.app/work/wk_8hxvq8c1",
+ "id": "wk_8hxvq8c1",
+ "identifiers": {
+  "pdf_pagehash": [
+   "1606061616160608",
+   "161e1e1e0e1e0e00",
+   "161e1e1e1e1e1e10",
+   "161e1e1e1e1e1e18",
+   "1e1e1e1e1e1e1e18"
+  ]
+ },
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: ባይብል ኮድ ክፍል ፪ .pdf",
+  "Scanned pages are body pages (pages 151-155) of a book, likely 'The Bible Code Part 2' based on the filename and content, but no title page or bibliographic details (title page, author, publisher, author/title/publisher/date are missing because the title page not found in the front matter/title page are missing from the scanned selection of the Hebrew Bible code grid content. Since there is no title page, metadata fields like title, author, and publisher are not printed on these pages, they are left blank or body pages, they are left empty.",
+  "Also held as PDF: ባይብል ኮድ ክፍል ፩ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0bb4e657ef0855cd11f50e208f5e3ef21bc5c14b1e17431fc912dbd719f27b8b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bayebel kod kefel 2",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባይብል ኮድ ክፍል ፪"
+  },
+  "romanized": "bayebel kod kefel 2",
+  "sort_key": "ባይብልኮድክፍል"
+ },
+ "type": "work"
+}

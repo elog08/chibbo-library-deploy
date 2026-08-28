@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "balatamarasahazanwaldaqirqos",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bnc3xqv3",
+ "id": "pe_bnc3xqv3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "belata merese hezen welde qirqos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብላታ መርስዔ ኀዘን ወልደ ቂርቆስ"
+  },
+  "romanized": "belata merese hezen welde qirqos",
+  "sort_key": "ብላታመርስኤሀዘንወልደቂርቆስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማርኛ_ሰዋሰው_ብላቴን_ጌታ_መርስኤ.pdf",
+  "Read from the title page of ፍሬ ከናፍር ዘቀዳማዊ ሀይለስላሴ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c0754720358d3f57e4642fa3e47227fcb75c275c1af350b8fea7cce9f5dbf557",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r7x2er91.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r7x2er91.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zs063mdg",
+     "name": "ቀዳማዊ ኃይለ ሥላሴ",
+     "role": "author",
+     "romanized": "qedamawi hayle selase"
+    },
+    {
+     "id": "pe_bnc3xqv3",
+     "name": "ብላታ መርስዔ ኀዘን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "belata merese hezen welde qirqos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1954-09-11/1955-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_r7x2er91",
+   "id": "wk_r7x2er91",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fere kenafer",
+    "script": "Ethi",
+    "text": "ፍሬ ከናፍር"
+   },
+   "type": "work",
+   "year": 1954
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sjtjs2v9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sjtjs2v9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bnc3xqv3",
+     "name": "ብላታ መርስዔ ኀዘን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "belata merese hezen welde qirqos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1955-09-12/1956-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_sjtjs2v9",
+   "id": "wk_sjtjs2v9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya sewasew",
+    "script": "Ethi",
+    "text": "የአማርኛ ሰዋስው"
+   },
+   "type": "work",
+   "year": 1955
+  }
+ ]
+}

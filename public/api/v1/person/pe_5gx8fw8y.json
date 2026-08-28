@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "haruywaldasalasa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_5gx8fw8y",
  "id": "pe_5gx8fw8y",
  "identifiers": {
@@ -40,16 +42,33 @@
  "locked_fields": [],
  "merged_into": null,
  "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "heruy welde selase",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Heruy Walda Sellasse",
+    "type": "romanization"
+   }
+  ],
   "primary": {
-   "lang": "en",
-   "script": "Latn",
-   "text": "Heruy Walda Sellasse"
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኅሩይ ወልደ ሥላሴ"
   },
-  "romanized": "Heruy Walda Sellasse",
-  "sort_key": "heruywaldasellasse"
+  "romanized": "heruy welde selase",
+  "sort_key": "ህሩይወልደስላሴ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ለልጅ_ምክር_ለአባት_መታሰቢያ_ብላቴን_ጌታ_ኅሩይ_ወልደሥላሴ.pdf"
+ ],
  "portrait": {
   "bytes": 42322,
   "path": "assets/portraits/pe_5gx8fw8y.jpg",
@@ -68,9 +87,9 @@
    "credits": [
     {
      "id": "pe_5gx8fw8y",
-     "name": "Heruy Walda Sellasse",
+     "name": "ኅሩይ ወልደ ሥላሴ",
      "role": "author",
-     "romanized": "Heruy Walda Sellasse"
+     "romanized": "heruy welde selase"
     }
    ],
    "date": {
@@ -90,6 +109,40 @@
    },
    "type": "work",
    "year": 1923
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_4mvseeqz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4mvseeqz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_5gx8fw8y",
+     "name": "ኅሩይ ወልደ ሥላሴ",
+     "role": "author",
+     "romanized": "heruy welde selase"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1917-09-11/1918-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4mvseeqz",
+   "id": "wk_4mvseeqz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lelej meker leabat metasebiya",
+    "script": "Ethi",
+    "text": "ለልጅ ምክር ለአባት መታሰቢያ"
+   },
+   "type": "work",
+   "year": 1917
   }
  ]
 }

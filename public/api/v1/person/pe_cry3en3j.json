@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "malcolmx",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cry3en3j",
+ "id": "pe_cry3en3j",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "MALCOLM X"
+  },
+  "romanized": "MALCOLM X",
+  "sort_key": "malcolmx"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማልከም ኤክስ @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5a6db89b162cf8a705d102ce1e31bbf637fa72dbf2e135438e3929ad2eb838c4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jxsaengh.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/the-autobiography-of-malcom-x-muluken-tariku.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    },
+    {
+     "id": "pe_w44g2rjs",
+     "name": "አማረ ብርሃኑ",
+     "role": "author",
+     "romanized": "amare berhanu"
+    },
+    {
+     "id": "pe_25sg7st3",
+     "name": "ALEX HALEY",
+     "role": "author",
+     "romanized": "ALEX HALEY"
+    },
+    {
+     "id": "pe_cry3en3j",
+     "name": "MALCOLM X",
+     "role": "author",
+     "romanized": "MALCOLM X"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jxsaengh",
+   "id": "wk_jxsaengh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "malkem ekes (yeheywet tarik)",
+    "script": "Ethi",
+    "text": "ማልከም ኤክስ (የሕይወት ታሪክ)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

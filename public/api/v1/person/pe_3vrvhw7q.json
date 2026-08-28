@@ -1,0 +1,156 @@
+{
+ "extensions": {},
+ "fingerprint": "masafanwaldamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3vrvhw7q",
+ "id": "pe_3vrvhw7q",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen welde maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ወልደ ማርያም"
+  },
+  "romanized": "mesefen welde maryam",
+  "sort_key": "መስፍንወልደማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አዳፍኔ.pdf",
+  "Read from the title page of አድማጭ_ያጣ_ጩኸት_መስፍን_ወልደማርያም.pdf",
+  "Read from the title page of እንጉርጉሮ.pdf",
+  "Read from the title page of እንጉርጉሮ_መስፍን_ወልደ_ማሪያምenegurguro.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2b4af08cc08cd768274cf501287f817cb24a7a161a358e9ed5886868a6db8b52",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2n89s90h.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2n89s90h.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3vrvhw7q",
+     "name": "መስፍን ወልደ ማርያም",
+     "role": "author",
+     "romanized": "mesefen welde maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1994-09-11/1995-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2n89s90h",
+   "id": "wk_2n89s90h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "engurguro",
+    "script": "Ethi",
+    "text": "እንጉርጉሮ"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_3dgvyggw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3dgvyggw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3vrvhw7q",
+     "name": "መስፍን ወልደ ማርያም",
+     "role": "author",
+     "romanized": "mesefen welde maryam"
+    },
+    {
+     "id": "pe_zsx9bvja",
+     "name": "ማርያዊት ሽመልስ",
+     "role": "author",
+     "romanized": "maryawit shemeles"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3dgvyggw",
+   "id": "wk_3dgvyggw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "admach yata chuket",
+    "script": "Ethi",
+    "text": "አድማጭ ያጣ ጩኸት"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_8f2dd453.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8f2dd453.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3vrvhw7q",
+     "name": "መስፍን ወልደ ማርያም",
+     "role": "author",
+     "romanized": "mesefen welde maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8f2dd453",
+   "id": "wk_8f2dd453",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "adafne ferhatna mekeshef",
+    "script": "Ethi",
+    "text": "አዳፍኔ ፍርሃትና መከሸፍ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

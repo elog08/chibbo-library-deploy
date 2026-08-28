@@ -1,0 +1,93 @@
+{
+ "extensions": {},
+ "fingerprint": "idrishah",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0ygfesv3",
+ "id": "pe_0ygfesv3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Idries Shah",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኢድሪስ ሻህ"
+  },
+  "romanized": "Idries Shah",
+  "sort_key": "ኢድሪስሻህ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ተረበኛው ናስሩዲን - አማረ ማሞ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b285f7e9098800a26f28e1923927153f51c8da1a232b8f8aa5f9492eb301fce7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_w9ahmpjb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w9ahmpjb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ygfesv3",
+     "name": "ኢድሪስ ሻህ",
+     "role": "author",
+     "romanized": "Idries Shah"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_192stbw4",
+     "name": "ቦጋለ በላቸው",
+     "role": "author",
+     "romanized": "bogale belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w9ahmpjb",
+   "id": "wk_w9ahmpjb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "terebenyaw nasrudin",
+    "script": "Ethi",
+    "text": "ተረበኛው ናስሩዲን"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

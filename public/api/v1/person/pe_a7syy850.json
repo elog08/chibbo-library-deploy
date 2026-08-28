@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "jacquasfaitlovitch",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_a7syy850",
+ "id": "pe_a7syy850",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "JACQUES FAÏTLOVITCH"
+  },
+  "romanized": "JACQUES FAÏTLOVITCH",
+  "sort_key": "jacquesfaitlovitch"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሐበሻ_ተረት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f41d2601791f6ba7c6ac508e8c6514fce27f75ef13bd63508ae4643d4fa40a1b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dsr4yt1t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dsr4yt1t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a7syy850",
+     "name": "JACQUES FAÏTLOVITCH",
+     "role": "author",
+     "romanized": "JACQUES FAÏTLOVITCH"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1907?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_dsr4yt1t",
+   "id": "wk_dsr4yt1t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "PROVERBES ABYSSINS",
+    "script": "Ethi",
+    "text": "የሐበሻ ተረት"
+   },
+   "type": "work",
+   "year": 1907
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "tasamashata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_e2t5pehy",
+ "id": "pe_e2t5pehy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesema eshete",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተሰማ እሸቴ"
+  },
+  "romanized": "tesema eshete",
+  "sort_key": "ተሰማእሸቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰምና ወርቁ ተሰማ እሸቴ @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2bad464e6dc89169e50f40dffe512085850c7062c4651d6168155dd9f1835b60",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9ff275km.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9ff275km.png"
+   },
+   "credits": [
+    {
+     "id": "pe_e2t5pehy",
+     "name": "ተሰማ እሸቴ",
+     "role": "author",
+     "romanized": "tesema eshete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9ff275km",
+   "id": "wk_9ff275km",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "semna werqu",
+    "script": "Ethi",
+    "text": "ሰምና ወርቁ"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

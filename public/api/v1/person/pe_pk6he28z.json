@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "fashayaza",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_pk6he28z",
  "id": "pe_pk6he28z",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ፍስሀያዜ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የሳጥናኤል ጎል 2.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +67,41 @@
     "text": "የሳጥናኤል ጎል ኢትዮጵያ"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_wv1aa7h0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wv1aa7h0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pk6he28z",
+     "name": "ፍሥሐ ያዜ",
+     "role": "author",
+     "romanized": "feshe yaze"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_wv1aa7h0",
+   "id": "wk_wv1aa7h0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesatnael gol ityopya!! quter hulet",
+    "script": "Ethi",
+    "text": "የሳጥናኤል ጎል ኢትዮጵያ!! ቁጥር ሁለት"
+   },
+   "type": "work",
+   "year": 2017
   }
  ]
 }

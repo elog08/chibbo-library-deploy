@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "doktarkaka",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5dm59fhs",
+ "id": "pe_5dm59fhs",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dokter keke",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶክተር ኬኬ"
+  },
+  "romanized": "dokter keke",
+  "sort_key": "ዶክተርኬኬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የእውቀት ማኅደር ቁጥር 3 - ዶር ኬኬ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a6bcd76943a8ce43e324693f494257b3ad89c20b0dd3df3bed968b12364d6aae",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ctnfjcmb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ctnfjcmb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_5dm59fhs",
+     "name": "ዶክተር ኬኬ",
+     "role": "author",
+     "romanized": "dokter keke"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ctnfjcmb",
+   "id": "wk_ctnfjcmb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeewqet mahder quter 3",
+    "script": "Ethi",
+    "text": "የዕውቀት ማኅደር ቁጥር 3"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

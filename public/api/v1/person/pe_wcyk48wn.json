@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "salamontadasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wcyk48wn",
+ "id": "pe_wcyk48wn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selemon tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰለሞን ታደሰ"
+  },
+  "romanized": "selemon tadese",
+  "sort_key": "ሰለሞንታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሸገር ወጎች - ሰለሞን ታደሰ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0d8e6f220a90ae7a6a7ed83bf1a7efe172b8e3d252a8dc1facde003a8579cdf5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_czgxakkh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_czgxakkh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wcyk48wn",
+     "name": "ሰለሞን ታደሰ",
+     "role": "author",
+     "romanized": "selemon tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_czgxakkh",
+   "id": "wk_czgxakkh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesheger wegoch",
+    "script": "Ethi",
+    "text": "የሸገር ወጎች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yabadanmakalawikomita",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ye8jxkms",
+ "id": "pe_ye8jxkms",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yebaden makelawi komite",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የብአዴን ማእከላዊ ኮሚቴ"
+  },
+  "romanized": "yebaden makelawi komite",
+  "sort_key": "የብአዴንማእከላዊኮሚቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢህዴን (ብአዴን) ታሪክ -1973-2008-E.C.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "217bc5d53933f551d4cfd84f835c7af28894d5eb9dc0d3950bc993b733ec7a04",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ry9n0jzq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ry9n0jzq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ye8jxkms",
+     "name": "የብአዴን ማእከላዊ ኮሚቴ",
+     "role": "author",
+     "romanized": "yebaden makelawi komite"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ry9n0jzq",
+   "id": "wk_ry9n0jzq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeihden/beaden tarik 1973-2008",
+    "script": "Ethi",
+    "text": "የኢህዴን/ብአዴን ታሪክ 1973-2008"
+   },
+   "type": "work"
+  }
+ ]
+}

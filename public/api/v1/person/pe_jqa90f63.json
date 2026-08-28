@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "garmamulisa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jqa90f63",
+ "id": "pe_jqa90f63",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "germa mulisa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግርማ ሙልኢሣ"
+  },
+  "romanized": "germa mulisa",
+  "sort_key": "ግርማሙልኢሳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከአቶም እስከ ኮከብ - ግርማ ሙልኢሣ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "fe8864ce1e2a1ffbf4819261ca9d9bbc6ad46638a803a1bdedb719231fda2435",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tpbzyd0c.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tpbzyd0c.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jqa90f63",
+     "name": "ግርማ ሙልኢሣ",
+     "role": "author",
+     "romanized": "germa mulisa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tpbzyd0c",
+   "id": "wk_tpbzyd0c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "keatom eske kokeb",
+    "script": "Ethi",
+    "text": "ከአቶም እስከ ኮከብ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

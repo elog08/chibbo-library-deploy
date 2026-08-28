@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "barukmamo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fqhd8sv7",
+ "id": "pe_fqhd8sv7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beruk mamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብሩክ ማሞ"
+  },
+  "romanized": "beruk mamo",
+  "sort_key": "ብሩክማሞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of uutaye.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2735c58479a9e8ea512b967558055818bc3ec8eb03c6a015c982fc0f13a03547",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2zkwekmp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2zkwekmp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fqhd8sv7",
+     "name": "ብሩክ ማሞ",
+     "role": "author",
+     "romanized": "beruk mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2zkwekmp",
+   "id": "wk_2zkwekmp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "uutaye",
+    "script": "Ethi",
+    "text": "ኡኡታዬ"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

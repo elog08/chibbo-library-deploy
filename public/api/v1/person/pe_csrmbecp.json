@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "qasgwadraydayal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_csrmbecp",
+ "id": "pe_csrmbecp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qes gwedrey deyel",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቄስ ጐድሬይ ዴይል"
+  },
+  "romanized": "qes gwedrey deyel",
+  "sort_key": "ቄስገድሬይዴይል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እስልምናና_አፍሪቃ_ቄስ_ጉድፍሬይ_ዴይል_ጎበዜ_ጣፈጠ_.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e836710f1f8e9ae019eb7f86eb44831116c28996735b1a750e3d6b50af7d6163",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2zqyq9vz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2zqyq9vz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_csrmbecp",
+     "name": "ቄስ ጐድሬይ ዴይል",
+     "role": "author",
+     "romanized": "qes gwedrey deyel"
+    },
+    {
+     "id": "pe_4qvhg0mv",
+     "name": "ጐበዜ ጣፈጠ",
+     "role": "author",
+     "romanized": "gwebeze tafete"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1956-09-11/1957-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2zqyq9vz",
+   "id": "wk_2zqyq9vz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eselemnana afriqa",
+    "script": "Ethi",
+    "text": "እስልምናና አፍሪቃ"
+   },
+   "type": "work",
+   "year": 1956
+  }
+ ]
+}

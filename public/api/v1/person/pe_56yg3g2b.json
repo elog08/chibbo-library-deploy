@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "doraiyobmamo",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_56yg3g2b",
  "id": "pe_56yg3g2b",
  "identifiers": {},
@@ -26,7 +28,11 @@
   "sort_key": "ዶርኢዮብማሞ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of እይታ - ዶር እዮብ ማሞ.pdf",
+  "Read from the title page of የመገፋት ህመም @Ethio_treca.pdf",
+  "Read from the title page of የጊዜ አጠቃቀም ጥበብ .pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -145,6 +151,117 @@
    },
    "type": "work",
    "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_s0gh3xr6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s0gh3xr6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_56yg3g2b",
+     "name": "ዶ/ር ኢዮብ ማሞ",
+     "role": "author",
+     "romanized": "Dr Eyob Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2020?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s0gh3xr6",
+   "id": "wk_s0gh3xr6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemegefat hemem menesewochuna mefethewochu",
+    "script": "Ethi",
+    "text": "የመገፋት ሕመም መንስኤዎቹና መፍትሄዎቹ"
+   },
+   "type": "work",
+   "year": 2020
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_tfyxkbes.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tfyxkbes.png"
+   },
+   "credits": [
+    {
+     "id": "pe_56yg3g2b",
+     "name": "ዶ/ር ኢዮብ ማሞ",
+     "role": "author",
+     "romanized": "Dr Eyob Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tfyxkbes",
+   "id": "wk_tfyxkbes",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mindset",
+    "script": "Ethi",
+    "text": "እይታ"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zf06crjw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zf06crjw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_56yg3g2b",
+     "name": "ዶ/ር ኢዮብ ማሞ",
+     "role": "author",
+     "romanized": "Dr Eyob Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2020?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zf06crjw",
+   "id": "wk_zf06crjw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegize ateqaqem tebeb",
+    "script": "Ethi",
+    "text": "የጊዜ አጠቃቀም ጥበብ"
+   },
+   "type": "work",
+   "year": 2020
   }
  ]
 }

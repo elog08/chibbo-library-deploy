@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "asfawdamta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xy2qvpk0",
+ "id": "pe_xy2qvpk0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "asfaw damte",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አስፋው ዳምጤ"
+  },
+  "romanized": "asfaw damte",
+  "sort_key": "አስፋውዳምጤ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንድ ለአምስት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0516789d7cf0e92e4c419f4bd3faf5940de931c8bac3feeea02dfd931a0dc99b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3h1x3nzb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3h1x3nzb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xy2qvpk0",
+     "name": "አስፋው ዳምጤ",
+     "role": "author",
+     "romanized": "asfaw damte"
+    },
+    {
+     "id": "pe_e3mzdtqp",
+     "name": "ሉቃስ ለማ",
+     "role": "author",
+     "romanized": "luqas lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3h1x3nzb",
+   "id": "wk_3h1x3nzb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned leameset",
+    "script": "Ethi",
+    "text": "አንድ ለአምስት"
+   },
+   "type": "work",
+   "year": 1980
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "michaldorsnin",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5bwr2wgn",
+ "id": "pe_5bwr2wgn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Michael Dorsnin"
+  },
+  "romanized": "Michael Dorsnin",
+  "sort_key": "michaeldorsnin"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ባይብል ኮድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b26898e9b77290c2a0ab78da66f40706064e3bd71296bc5cafdcdce604ab3746",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q0qcprj5.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Science/bible-code.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_2pxe4qa4",
+     "name": "ሀኒም ኤልያስ",
+     "role": "author",
+     "romanized": "Hanim Eliyas"
+    },
+    {
+     "id": "pe_s3sq0rf3",
+     "name": "ተክሉ ጥላሁን",
+     "role": "author",
+     "romanized": "teklu telahun"
+    },
+    {
+     "id": "pe_5bwr2wgn",
+     "name": "Michael Dorsnin",
+     "role": "author",
+     "romanized": "Michael Dorsnin"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_q0qcprj5",
+   "id": "wk_q0qcprj5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bayebel kod",
+    "script": "Ethi",
+    "text": "ባይብል ኮድ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

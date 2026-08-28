@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "fatsumbarhana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7b5nf4yx",
+ "id": "pe_7b5nf4yx",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "fetsum berhane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍጹም ብርሃኔ"
+  },
+  "romanized": "fetsum berhane",
+  "sort_key": "ፍጹምብርሀኔ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሮዛ 2.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "76f374cc36abacf0592d4a1d7c1de6464538c0b9b9dc21e1845cfcd427c1ba76",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2khnvt93.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2khnvt93.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kggc3x8r",
+     "name": "ሮዛ ደይነቃቸው",
+     "role": "author",
+     "romanized": "roza deyneqachew"
+    },
+    {
+     "id": "pe_7b5nf4yx",
+     "name": "ፍጹም ብርሃኔ",
+     "role": "author",
+     "romanized": "fetsum berhane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2khnvt93",
+   "id": "wk_2khnvt93",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "roza-2",
+    "script": "Ethi",
+    "text": "ሮዛ-2"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "madahansiraj",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_s0dz3p8m",
+ "id": "pe_s0dz3p8m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "medehen siraj",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መደህን ሲራጅ"
+  },
+  "romanized": "medehen siraj",
+  "sort_key": "መደህንሲራጅ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተጠለፈ_ትግል_The_Hijacked_Revolution.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "48840bca88d1a961636670f3160ac8e916cc0eb062ceb0a735fe425d0558b9c9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vwb607vv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vwb607vv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_s0dz3p8m",
+     "name": "መደህን ሲራጅ",
+     "role": "author",
+     "romanized": "medehen siraj"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_vwb607vv",
+   "id": "wk_vwb607vv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Hijacked Revolution",
+    "script": "Ethi",
+    "text": "የተጠለፈ ትግል"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

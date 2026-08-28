@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "muluqantariku",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_neyxkzeg",
  "id": "pe_neyxkzeg",
  "identifiers": {},
@@ -26,7 +28,12 @@
   "sort_key": "ሙሉቀንታሪኩ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ማሃትማ ጋንዲ ሙሉቀን ታሪኩ.pdf",
+  "Read from the title page of ማልከም ኤክስ @ETHIO_PDF_BOOKS.pdf",
+  "Read from the title page of አጼ ምኒልክና የአድዋ ድል- 1.pdf",
+  "Read from the title page of የሞሳድ_ተልዕኮ_ሙሉቀን_ታሪኩ_The_Messenger_Daniel_Silva.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -199,6 +206,24 @@
      "name": "ሙሉቀን ታሪኩ",
      "role": "author",
      "romanized": "Muluken Tariku"
+    },
+    {
+     "id": "pe_w44g2rjs",
+     "name": "አማረ ብርሃኑ",
+     "role": "author",
+     "romanized": "amare berhanu"
+    },
+    {
+     "id": "pe_25sg7st3",
+     "name": "ALEX HALEY",
+     "role": "author",
+     "romanized": "ALEX HALEY"
+    },
+    {
+     "id": "pe_cry3en3j",
+     "name": "MALCOLM X",
+     "role": "author",
+     "romanized": "MALCOLM X"
     }
    ],
    "date": {
@@ -209,7 +234,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_jxsaengh",
    "id": "wk_jxsaengh",
@@ -223,6 +249,100 @@
    },
    "type": "work",
    "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_m70zt2ys.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m70zt2ys.png"
+   },
+   "credits": [
+    {
+     "id": "pe_649s63rk",
+     "name": "ሬይሞንድ ጆናስ",
+     "role": "author",
+     "romanized": "Raymond Jonas"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_m70zt2ys",
+   "id": "wk_m70zt2ys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Battle of Adwa",
+    "script": "Ethi",
+    "text": "አፄ ምኒልክ እና የአድዋ ድል"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nwwt5a4d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nwwt5a4d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ykgm7tkt",
+     "name": "ማሃትማ ጋንዲ",
+     "role": "author",
+     "romanized": "MAHATMA GANDHI"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    },
+    {
+     "id": "pe_w44g2rjs",
+     "name": "አማረ ብርሃኑ",
+     "role": "author",
+     "romanized": "amare berhanu"
+    },
+    {
+     "id": "pe_5s771qy5",
+     "name": "ፋሲካ ግዛው",
+     "role": "author",
+     "romanized": "fasika gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_nwwt5a4d",
+   "id": "wk_nwwt5a4d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "MAHATMA GANDHI THE STORY OF MY EXPERIMENTS WITH TRUTH AUTOBIOGRAPHY",
+    "script": "Ethi",
+    "text": "ማሃትማ ጋንዲ የሕይወት ታሪክ"
+   },
+   "type": "work",
+   "year": 2020
   },
   {
    "cover": {
@@ -248,6 +368,46 @@
     "text": "መናፍቁ ካህሊል እና ሌሎች"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zdsx8pk5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zdsx8pk5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_321vekhn",
+     "name": "Daniel Silva",
+     "role": "author",
+     "romanized": "Daniel Silva"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zdsx8pk5",
+   "id": "wk_zdsx8pk5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemosad teleko",
+    "script": "Ethi",
+    "text": "የሞሳድ ተልዕኮ"
+   },
+   "type": "work",
+   "year": 2015
   }
  ]
 }

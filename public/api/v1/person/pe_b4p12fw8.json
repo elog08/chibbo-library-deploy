@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "alakasabarham",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_b4p12fw8",
  "id": "pe_b4p12fw8",
  "identifiers": {},
@@ -48,7 +50,12 @@
   "sort_key": "አሌክስአብርሀም"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of እናት_ፍቅር_ሃገር_አሌክስ_አብርሃም.pdf",
+  "Read from the title page of ከእለታት_ግማሽ_ቀን_አሌክስ_አብረሐም.pdf",
+  "Read from the title page of ዙቤይዳ ከአሌክስ አብርሃም.pdf",
+  "Read from the title page of ዶክተር አሸብር እና ሌሎችም.pdf"
+ ],
  "portrait": {
   "bytes": 29388,
   "path": "assets/portraits/pe_b4p12fw8.jpg",
@@ -75,6 +82,12 @@
      "name": "አሌክስ አብርሃም",
      "role": "author",
      "romanized": "Alex Abreham"
+    },
+    {
+     "id": "pe_4sev15x2",
+     "name": "ኃይለመለኮት መዋዕል",
+     "role": "author",
+     "romanized": "haylemelekot mewael"
     }
    ],
    "date": {
@@ -84,7 +97,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "suspect-isbn"
+    "suspect-isbn",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_3qy5szzm",
    "id": "wk_3qy5szzm",
@@ -117,6 +131,9 @@
     "edtf": "2009-03-07",
     "flags": []
    },
+   "flags": [
+    "llm-extracted"
+   ],
    "href": "https://chibbo.app/work/wk_cv0a9vch",
    "id": "wk_cv0a9vch",
    "language": "am",
@@ -208,7 +225,8 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n3d2pras",
    "id": "wk_n3d2pras",
@@ -267,7 +285,21 @@
      "name": "አሌክስ አብርሃም",
      "role": "author",
      "romanized": "Alex Abreham"
+    },
+    {
+     "id": "pe_spkf08ek",
+     "name": "ግሩም ተበጀ",
+     "role": "author",
+     "romanized": "Michael Neimi"
     }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_tje785zx",
    "id": "wk_tje785zx",
@@ -279,7 +311,8 @@
     "script": "Ethi",
     "text": "ዙቤይዳ )"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2016
   }
  ]
 }

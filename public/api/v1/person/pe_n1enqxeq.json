@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayawaldatsadaqwayaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_n1enqxeq",
+ "id": "pe_n1enqxeq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye weldetsadeq (qwayaw)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ወልደጻድቅ (ቋያው)"
+  },
+  "romanized": "tesfaye weldetsadeq (qwayaw)",
+  "sort_key": "ተስፋዬወልደጻድቅቃያው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኦሜርታ - ተስፋዬ ወልደፃዲቅ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f8bfafabfc6a7e1f1f38922da049279d6abf22f0353066574c30f6c0a03d23b1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tah59dj7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tah59dj7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_n1enqxeq",
+     "name": "ተስፋዬ ወልደጻድቅ (ቋያው)",
+     "role": "author",
+     "romanized": "tesfaye weldetsadeq (qwayaw)"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_tah59dj7",
+   "id": "wk_tah59dj7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "omerta",
+    "script": "Ethi",
+    "text": "ኦሜርታ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

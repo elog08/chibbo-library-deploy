@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "magabahadisdoktarodastadasa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_3rr517es",
  "id": "pe_3rr517es",
  "identifiers": {
@@ -53,7 +55,10 @@
   "sort_key": "መጋቤሀዲስዶክተርሮዳስታደሰ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መጽሀፈ ፊስአልጎስ 2021-03-15 17.43.08.pdf",
+  "Read from the title page of ማዛሮት.pdf"
+ ],
  "portrait": {
   "bytes": 55804,
   "path": "assets/portraits/pe_3rr517es.png",
@@ -111,6 +116,76 @@
    },
    "type": "work",
    "year": 2011
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_j3fd5sfm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_j3fd5sfm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3rr517es",
+     "name": "መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "megabe hedis dokter rodas tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "language-unmapped"
+   ],
+   "href": "https://chibbo.app/work/wk_j3fd5sfm",
+   "id": "wk_j3fd5sfm",
+   "language": "und",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshefe fisalgos begeezna beamarnya",
+    "script": "Ethi",
+    "text": "መጽሐፈ ፊስአልጎስ በግእዝና በዐማርኛ"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_knbtn6cm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_knbtn6cm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3rr517es",
+     "name": "መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "megabe hedis dokter rodas tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_knbtn6cm",
+   "id": "wk_knbtn6cm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mazarot",
+    "script": "Ethi",
+    "text": "ማዛሮት"
+   },
+   "type": "work",
+   "year": 2021
   }
  ]
 }

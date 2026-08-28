@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "diyaqonhanokhayla",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_k44fgg5r",
  "id": "pe_k44fgg5r",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ዲያቆንሄኖክሀይሌ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የብርሃን እናት ዲያቆን ሔኖክ ሃይሌ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -128,7 +132,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_dx8rpvs8",
    "id": "wk_dx8rpvs8",

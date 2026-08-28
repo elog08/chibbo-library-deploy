@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "shambalabdisaga",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_m3cbc484",
+ "id": "pe_m3cbc484",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "shambel abdisa aga",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሻምበል አብዲሣ አጋ"
+  },
+  "romanized": "shambel abdisa aga",
+  "sort_key": "ሻምበልአብዲሳአጋ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በኢጣሊያ በረሀዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "08304465efd576bf88d6899ac580e0bd01acc6ee83f8c440ac648db0a57f755e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f9b37stn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f9b37stn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m3cbc484",
+     "name": "ሻምበል አብዲሣ አጋ",
+     "role": "author",
+     "romanized": "shambel abdisa aga"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f9b37stn",
+   "id": "wk_f9b37stn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bei.taliya berehawoch",
+    "script": "Ethi",
+    "text": "በኢ.ጣሊያ በረሃዎች"
+   },
+   "type": "work"
+  }
+ ]
+}

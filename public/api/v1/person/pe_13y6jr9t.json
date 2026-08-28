@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "wanadmunagashdasta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_13y6jr9t",
+ "id": "pe_13y6jr9t",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wenedmu negash desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወንድሙ ነጋሽ ደስታ"
+  },
+  "romanized": "wenedmu negash desta",
+  "sort_key": "ወንድሙነጋሽደስታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቬኑሱ_ነጋዴና_ሌሎችም_ምርጥ_የሼክስፒር_ስራዎች_ወንድሙ_ነጋሽ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d2e4a22a282721d6e29e7588c521e4de62f082e30c2f3475bd4011d2c1aa6ef5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_g7gf0xxx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_g7gf0xxx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_13y6jr9t",
+     "name": "ወንድሙ ነጋሽ ደስታ",
+     "role": "author",
+     "romanized": "wenedmu negash desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g7gf0xxx",
+   "id": "wk_g7gf0xxx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "shekespir serawoch",
+    "script": "Ethi",
+    "text": "ሼክስፒር ሥራዎች"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

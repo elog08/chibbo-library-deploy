@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagayagamadahan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3bd05vyt",
+ "id": "pe_3bd05vyt",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tsegaye ge/medehen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጸጋዬ ገ/መድህን"
+  },
+  "romanized": "tsegaye ge/medehen",
+  "sort_key": "ጸጋዬገመድህን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በልግ -  ፀጋዬ ገብረመድህን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cf9260e857eef73c3da9ecf09d970e800d51f49733e7b51b43eeaa9547244e22",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c62a8gbt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c62a8gbt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3bd05vyt",
+     "name": "ጸጋዬ ገ/መድህን",
+     "role": "author",
+     "romanized": "tsegaye ge/medehen"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_c62a8gbt",
+   "id": "wk_c62a8gbt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beleg",
+    "script": "Ethi",
+    "text": "በልግ"
+   },
+   "type": "work"
+  }
+ ]
+}

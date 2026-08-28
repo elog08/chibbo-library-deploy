@@ -1,0 +1,99 @@
+{
+ "extensions": {},
+ "fingerprint": "barushandarsan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6sskbd0z",
+ "id": "pe_6sskbd0z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Bruce Henderson",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብሩስ ሄንደርሰን"
+  },
+  "romanized": "Bruce Henderson",
+  "sort_key": "ብሩስሄንደርሰን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ስድስቱ_ወንጀለኞች_ብሩስ_አንደርሰን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "55b16a149e04e71b4b8a7b257f628facbaf673044fb36f47c479f7ec4c886f19",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rk5g8x4g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rk5g8x4g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6sskbd0z",
+     "name": "ብሩስ ሄንደርሰን",
+     "role": "author",
+     "romanized": "Bruce Henderson"
+    },
+    {
+     "id": "pe_k95q2kg0",
+     "name": "ሳም ሱመርሊን",
+     "role": "author",
+     "romanized": "Sam Summerlin"
+    },
+    {
+     "id": "pe_91y71q7z",
+     "name": "ጌታቸው መኮንን ሐሰን (ሌ/ኮሎኔል)",
+     "role": "author",
+     "romanized": "getachew mekonen hesen (le/kolonel)"
+    },
+    {
+     "id": "pe_6nxp4mem",
+     "name": "ሉቃስ አማረ",
+     "role": "author",
+     "romanized": "luqas amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rk5g8x4g",
+   "id": "wk_rk5g8x4g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The World's Great Detectives and Their Most Famous Cases",
+    "script": "Ethi",
+    "text": "ስድስቱ ወንጀለኞች"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

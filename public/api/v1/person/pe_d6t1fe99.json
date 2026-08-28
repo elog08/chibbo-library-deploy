@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "josafastalin",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d6t1fe99",
+ "id": "pe_d6t1fe99",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "josef estalin",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጆሴፍ እስታሊን"
+  },
+  "romanized": "josef estalin",
+  "sort_key": "ጆሴፍእስታሊን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማርክሲዝምና የቋንቋ ችግሮች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "be4f5b93f719436164d695bd5483bff25f35f35c90e1a9c12c1b9edd100929cf",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1cy4c93f.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1cy4c93f.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d6t1fe99",
+     "name": "ጆሴፍ እስታሊን",
+     "role": "author",
+     "romanized": "josef estalin"
+    },
+    {
+     "id": "pe_9wzx8wkp",
+     "name": "ደበበ ሰይፉ",
+     "role": "author",
+     "romanized": "debebe seyfu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1979-09-12/1980-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1cy4c93f",
+   "id": "wk_1cy4c93f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mareksizemna yeqwanqwa chegroch",
+    "script": "Ethi",
+    "text": "ማርክሲዝምና የቋንቋ ችግሮች"
+   },
+   "type": "work",
+   "year": 1979
+  }
+ ]
+}

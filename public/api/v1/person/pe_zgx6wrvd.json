@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "barakatsamon",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_zgx6wrvd",
  "id": "pe_zgx6wrvd",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "በረከትስሞን"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ትንሳኤ ዘ-ኢትዮጵያ (በረከት ሥምኦን).pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +39,41 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_79m5t079.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_79m5t079.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zgx6wrvd",
+     "name": "በረከት ስሞን",
+     "role": "author",
+     "romanized": "Bereket Simon"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_79m5t079",
+   "id": "wk_79m5t079",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tensae ze-ityopya kementa menged",
+    "script": "Ethi",
+    "text": "ትንሳኤ ዘ-ኢትዮጵያ ከመንታ መንገድ"
+   },
+   "type": "work",
+   "year": 2017
+  },
   {
    "cover": {
     "path": "assets/covers/wk_90tze80v.webp",

@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "mabalfatana",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_818gszxc",
  "id": "pe_818gszxc",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ማእበልፈጠነ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሐሽማል.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -57,7 +61,8 @@
    },
    "flags": [
     "calendar-ambiguous",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_4anezpep",
    "id": "wk_4anezpep",

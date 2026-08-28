@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "wandasanwaba",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ntmdy3s6",
+ "id": "pe_ntmdy3s6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wendesen webe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወንደሰን ውቤ"
+  },
+  "romanized": "wendesen webe",
+  "sort_key": "ወንደሰንውቤ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የስርቻ ጣዝማ - ወንደሰን ውቤ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dd0a01d42565cc6cd55b434c202b7be41e35b70855f25821c2912558fd0100e9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zxkgdspk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zxkgdspk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ntmdy3s6",
+     "name": "ወንደሰን ውቤ",
+     "role": "author",
+     "romanized": "wendesen webe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zxkgdspk",
+   "id": "wk_zxkgdspk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesercha tazma",
+    "script": "Ethi",
+    "text": "የስርቻ ጣዝማ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

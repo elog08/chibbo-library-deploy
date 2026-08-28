@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "abiydagfafaraw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_te5eev1y",
+ "id": "pe_te5eev1y",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abiy Degfie Frew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዐቢይ ደግፌ ፍሬው"
+  },
+  "romanized": "Abiy Degfie Frew",
+  "sort_key": "አቢይደግፌፍሬው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያላየሁት_እግዚአብሔር_እና_ያልኖርኩት_ዘለአለም_አለ_ወይስ_የለም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "789beb44b1c281378b74e7719a4f91fceac65c893a0a4a6527cb000e9329019e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c1dawr0f.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c1dawr0f.png"
+   },
+   "credits": [
+    {
+     "id": "pe_te5eev1y",
+     "name": "ዐቢይ ደግፌ ፍሬው",
+     "role": "author",
+     "romanized": "Abiy Degfie Frew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_c1dawr0f",
+   "id": "wk_c1dawr0f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yalayehut egziabher ena yalnorkut zelealem ale weyes yelem?",
+    "script": "Ethi",
+    "text": "ያላየሁት እግዚአብሔር እና ያልኖርኩት ዘለዓለም አለ ወይስ የለም?"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

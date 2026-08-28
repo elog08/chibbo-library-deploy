@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "manilikzalaqa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_x89kyf00",
+ "id": "pe_x89kyf00",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menilik zeleqe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምኒሊክ ዘለቀ"
+  },
+  "romanized": "menilik zeleqe",
+  "sort_key": "ምኒሊክዘለቀ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኦማሂሬ - ምኒሊክ ዘለቀ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3b94736a749b2b227f3805a5ba1e4c288d3093a1c64328068963a4fa47ae9251",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q7ac548d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_q7ac548d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x89kyf00",
+     "name": "ምኒሊክ ዘለቀ",
+     "role": "author",
+     "romanized": "menilik zeleqe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_q7ac548d",
+   "id": "wk_q7ac548d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "omahire",
+    "script": "Ethi",
+    "text": "ኦማሂሬ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

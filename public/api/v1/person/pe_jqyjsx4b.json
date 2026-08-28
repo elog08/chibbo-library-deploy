@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "hadusalamayahu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jqyjsx4b",
+ "id": "pe_jqyjsx4b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hedus alemayehu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሀዱስ አለማየሁ"
+  },
+  "romanized": "hedus alemayehu",
+  "sort_key": "ሀዱስአለማየሁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትዝታ-ሀዱስ አሇማየሁ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "01140252eef023a8e3386ad46c10ba5ed449ddb569194b82d9e979c55a2b3b80",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jfgcass0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jfgcass0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jqyjsx4b",
+     "name": "ሀዱስ አለማየሁ",
+     "role": "author",
+     "romanized": "hedus alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1992-09-11/1993-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jfgcass0",
+   "id": "wk_jfgcass0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tezta",
+    "script": "Ethi",
+    "text": "ትዝታ"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

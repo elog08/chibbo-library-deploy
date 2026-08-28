@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "pawlokoyalho",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_07bv12pc",
+ "id": "pe_07bv12pc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "pawlo koyelho",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፓውሎ ኮየልሆ"
+  },
+  "romanized": "pawlo koyelho",
+  "sort_key": "ፓውሎኮየልሆ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልኬሚስቱ..pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "aa005022b1c72f559013068059e65bbe784b7c4051a5527739bb6516ca17bf53",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k5bb0zbn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k5bb0zbn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_07bv12pc",
+     "name": "ፓውሎ ኮየልሆ",
+     "role": "author",
+     "romanized": "pawlo koyelho"
+    },
+    {
+     "id": "pe_wngf5gc8",
+     "name": "ቴዎድሮስ አጥላው",
+     "role": "author",
+     "romanized": "Victor E Frankil"
+    },
+    {
+     "id": "pe_j4z666da",
+     "name": "Alan R. Clarke",
+     "role": "author",
+     "romanized": "Alan R. Clarke"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k5bb0zbn",
+   "id": "wk_k5bb0zbn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alkemistu",
+    "script": "Ethi",
+    "text": "አልኬሚስቱ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

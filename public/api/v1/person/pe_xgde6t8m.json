@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "makababdasta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xgde6t8m",
+ "id": "pe_xgde6t8m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekebeb desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መክብብ ደስታ"
+  },
+  "romanized": "mekebeb desta",
+  "sort_key": "መክብብደስታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአቶ መሰንበት ባልንጀርነት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c9e696f10cd211df3de25b24cb84a7a2cd971c2eebc2c08fdfc18ce78e8be780",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_872ytzhe.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_872ytzhe.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xgde6t8m",
+     "name": "መክብብ ደስታ",
+     "role": "author",
+     "romanized": "mekebeb desta"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1933-09-11/1934-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_872ytzhe",
+   "id": "wk_872ytzhe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+    "script": "Ethi",
+    "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+   },
+   "type": "work",
+   "year": 1933
+  }
+ ]
+}

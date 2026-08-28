@@ -1,0 +1,93 @@
+{
+ "extensions": {},
+ "fingerprint": "alialamuhasan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cvn26kdz",
+ "id": "pe_cvn26kdz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ali Alemu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዓሊ ዓለሙ ሃሰን"
+  },
+  "romanized": "Ali Alemu",
+  "sort_key": "አሊአለሙሀሰን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አርባ_ጅራፍ_በዓሊ_ዓለሙ_አትላንታ_ጆርጂያ_2008.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2f9bc9aeaf9e605ec2f16e1b7ba527fe90b3528e8c757eb9d3ad5077fd6e1abe",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hkx7nmb4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hkx7nmb4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cvn26kdz",
+     "name": "ዓሊ ዓለሙ ሃሰን",
+     "role": "author",
+     "romanized": "Ali Alemu"
+    },
+    {
+     "id": "pe_b3wydkzs",
+     "name": "መዓዛ ኑሬ",
+     "role": "author",
+     "romanized": "meaza nure"
+    },
+    {
+     "id": "pe_v9z1dj8p",
+     "name": "መሳይ ጫኔ",
+     "role": "author",
+     "romanized": "mesay chane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hkx7nmb4",
+   "id": "wk_hkx7nmb4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "arba jeraf",
+    "script": "Ethi",
+    "text": "አርባ ጅራፍ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

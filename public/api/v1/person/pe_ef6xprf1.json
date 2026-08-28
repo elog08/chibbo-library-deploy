@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "saraqabarhangabragzi",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ef6xprf1",
+ "id": "pe_ef6xprf1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sereqe berhan gebre egzi",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሠረቀ ብርሃን ገብረ እግዚእ"
+  },
+  "romanized": "sereqe berhan gebre egzi",
+  "sort_key": "ሰረቀብርሀንገብረእግዚእ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ክሪቶን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "104fe09171ae35ff379e8a334ed6a90c885a735f4c59319be9909b8f1cfe6b67",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bmtr6gkn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bmtr6gkn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jk83sk9k",
+     "name": "ፕላቶን",
+     "role": "author",
+     "romanized": "pelaton"
+    },
+    {
+     "id": "pe_ef6xprf1",
+     "name": "ሠረቀ ብርሃን ገብረ እግዚእ",
+     "role": "author",
+     "romanized": "sereqe berhan gebre egzi"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1936-09-11/1937-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "language-unmapped"
+   ],
+   "href": "https://chibbo.app/work/wk_bmtr6gkn",
+   "id": "wk_bmtr6gkn",
+   "language": "und",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "keriton",
+    "script": "Ethi",
+    "text": "ክሪቶን"
+   },
+   "type": "work",
+   "year": 1936
+  }
+ ]
+}

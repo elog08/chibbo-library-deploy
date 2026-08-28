@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "nahusanaytsadaluabara",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_61ffbrth",
  "id": "pe_61ffbrth",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ናሁሰናይጸዳሉአበራ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ቴሎስ @ETHIO_PDF_BOOKS.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +39,58 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qbma3cns.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qbma3cns.png"
+   },
+   "credits": [
+    {
+     "id": "pe_61ffbrth",
+     "name": "ናሁሰናይ ፀዳሉ አበራ",
+     "role": "author",
+     "romanized": "Nahusenay Tsedalu Abera"
+    },
+    {
+     "id": "pe_9vnh61cr",
+     "name": "መስከረም በቀለ",
+     "role": "author",
+     "romanized": "meskerem beqele"
+    },
+    {
+     "id": "pe_nyetj7pd",
+     "name": "ናይእግዚ ኅሩይ",
+     "role": "author",
+     "romanized": "nayeegzi heruy"
+    },
+    {
+     "id": "pe_q1ddet3r",
+     "name": "ናሁሰናይ ፀዳሉ",
+     "role": "author",
+     "romanized": "nahusenay tsedalu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qbma3cns",
+   "id": "wk_qbma3cns",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "melorina - telos",
+    "script": "Ethi",
+    "text": "ሜሎሪና - ቴሎስ"
+   },
+   "type": "work",
+   "year": 2021
+  },
   {
    "cover": {
     "path": "assets/covers/wk_wvydev9y.webp",

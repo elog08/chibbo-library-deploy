@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "manasagatachaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xtdk132m",
+ "id": "pe_xtdk132m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menase getachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምናሴ ጌታቸው"
+  },
+  "romanized": "menase getachew",
+  "sort_key": "ምናሴጌታቸው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተናቁ_ዕንቁዎች_መዲና_ገብረማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c8ee47d4c3fbcfad8cef08118c6cce7b4a11a767c9dbc43bdcbf9e204336e8ef",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a5q1syjx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a5q1syjx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_590hh3c8",
+     "name": "መዲና ገ/ማርያም",
+     "role": "author",
+     "romanized": "Medina Gebramariam"
+    },
+    {
+     "id": "pe_acfav7dk",
+     "name": "ዐብይ ደምሴ",
+     "role": "author",
+     "romanized": "abey demse"
+    },
+    {
+     "id": "pe_xtdk132m",
+     "name": "ምናሴ ጌታቸው",
+     "role": "author",
+     "romanized": "menase getachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1997-09-11/1998-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a5q1syjx",
+   "id": "wk_a5q1syjx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "CASTAWAY PEARLS",
+    "script": "Ethi",
+    "text": "የተናቁ ዕንቁዎች"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

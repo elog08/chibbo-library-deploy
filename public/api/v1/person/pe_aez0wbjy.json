@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hayliyorgismamo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_aez0wbjy",
+ "id": "pe_aez0wbjy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hayliyorgis mamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኃይሊዮርጊስ ማሞ"
+  },
+  "romanized": "hayliyorgis mamo",
+  "sort_key": "ሀይሊዮርጊስማሞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጥበብ ከ ጲላጦስ 2.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "703ef2f73e4a0b073f7d5eae992ca091e62bcc7a013c68466b53eb14c301100d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_saq21jse.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_saq21jse.png"
+   },
+   "credits": [
+    {
+     "id": "pe_aez0wbjy",
+     "name": "ኃይሊዮርጊስ ማሞ",
+     "role": "author",
+     "romanized": "hayliyorgis mamo"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_saq21jse",
+   "id": "wk_saq21jse",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tebeb 2 kepilatos",
+    "script": "Ethi",
+    "text": "ጥበብ ፪ ከጲላጦስ"
+   },
+   "type": "work"
+  }
+ ]
+}

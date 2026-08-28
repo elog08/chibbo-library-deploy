@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "darusiladunajanhawastan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1yrj4vqe",
+ "id": "pe_1yrj4vqe",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "derusila dunejen hewesten",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ድሩሲላ ዱንጅን ሐውስተን"
+  },
+  "romanized": "derusila dunejen hewesten",
+  "sort_key": "ድሩሲላዱንጅንሀውስተን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፒራሚድ_ገንቢዎቹ_ጥንታዊ_ኢትዮጵያውያን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2d89ef3bf2167c6118c42ed3c807781399f44871b127fc08229a1d21c639e7bd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qq50rckw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qq50rckw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1yrj4vqe",
+     "name": "ድሩሲላ ዱንጅን ሐውስተን",
+     "role": "author",
+     "romanized": "derusila dunejen hewesten"
+    },
+    {
+     "id": "pe_a146jere",
+     "name": "ጌታቸው ተስፋዬ ጎጂ",
+     "role": "author",
+     "romanized": "getachew tesfaye goji"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qq50rckw",
+   "id": "wk_qq50rckw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "piramid genbiwochu tentawi ityopyawyan",
+    "script": "Ethi",
+    "text": "ፒራሚድ ገንቢዎቹ ጥንታዊ ኢትዮጵያውያን"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

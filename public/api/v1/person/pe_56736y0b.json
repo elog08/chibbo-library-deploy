@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "dagmaynaqatbab",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_56736y0b",
+ "id": "pe_56736y0b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dagmay neqatbeb",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳግማይ ነቅዓጥበብ"
+  },
+  "romanized": "dagmay neqatbeb",
+  "sort_key": "ዳግማይነቅአጥበብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አዲስ 1879 - ዳግማዊ ነቅዐጥበብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e1c37deb9d8bca4ca58ff9d1e55c4a938235bcda05e2ab19c743864ce4f03386",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_je4ksnjs.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_je4ksnjs.png"
+   },
+   "credits": [
+    {
+     "id": "pe_56736y0b",
+     "name": "ዳግማይ ነቅዓጥበብ",
+     "role": "author",
+     "romanized": "dagmay neqatbeb"
+    },
+    {
+     "id": "pe_fwz4cwtq",
+     "name": "ዓለም በተፈጠረ",
+     "role": "author",
+     "romanized": "alem betefetere"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_je4ksnjs",
+   "id": "wk_je4ksnjs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "adis 1879",
+    "script": "Ethi",
+    "text": "አዲስ 1879"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

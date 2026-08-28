@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "ganatayalanbasa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_arh0hgap",
  "id": "pe_arh0hgap",
  "identifiers": {
@@ -40,7 +42,9 @@
   "sort_key": "ገነትአየለአንበሴ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መንግስቱ ትዝታዎች- 1.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -49,6 +53,44 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_h1rmwena.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_h1rmwena.png"
+   },
+   "credits": [
+    {
+     "id": "pe_arh0hgap",
+     "name": "ገነት አየለ አንበሴ",
+     "role": "author",
+     "romanized": "genet ayele anbese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_h1rmwena",
+   "id": "wk_h1rmwena",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeletena kolonel menegestu haylemaryam teztawoch",
+    "script": "Ethi",
+    "text": "የሌተና ኮሎኔል መንግሥቱ ኃይለማርያም ትዝታዎች"
+   },
+   "type": "work",
+   "year": 1994
+  },
   {
    "cover": {
     "path": "assets/covers/wk_wv8s2beh.jpg",

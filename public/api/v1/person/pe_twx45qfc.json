@@ -1,0 +1,87 @@
+{
+ "extensions": {},
+ "fingerprint": "ivanjalikaltiwolojikalkolaj",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_twx45qfc",
+ "id": "pe_twx45qfc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Evangelical Theological College",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኢቫንጄሊካል ቲዎሎጂካል ኮሌጅ"
+  },
+  "romanized": "Evangelical Theological College",
+  "sort_key": "ኢቫንጄሊካልቲዎሎጂካልኮሌጅ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of The_purpose_driven_life,,,.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bd97957caa7569de49b7f0e0fae63402df6b79c5c7caf5dcd39497bf12c1b5d6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8na8h1rt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8na8h1rt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bm3w6qa4",
+     "name": "ሪክ ዋረን",
+     "role": "author",
+     "romanized": "Rick Warren"
+    },
+    {
+     "id": "pe_twx45qfc",
+     "name": "ኢቫንጄሊካል ቲዎሎጂካል ኮሌጅ",
+     "role": "author",
+     "romanized": "Evangelical Theological College"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8na8h1rt",
+   "id": "wk_8na8h1rt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alama mer heywet",
+    "script": "Ethi",
+    "text": "ዓላማ መር ሕይወት"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

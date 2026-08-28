@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "yonaszawdakabada",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_txp11s6w",
+ "id": "pe_txp11s6w",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yonas zewde kebede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮናስ ዘውዴ ከበደ"
+  },
+  "romanized": "yonas zewde kebede",
+  "sort_key": "ዮናስዘውዴከበደ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልገባኝም - ዮናስ ዘውዴ.pdf.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "4e78078dfcf639b86353d8a516845b762f4c18da5afad56eaeffe2328be6f788",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_96dkwegv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_96dkwegv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_txp11s6w",
+     "name": "ዮናስ ዘውዴ ከበደ",
+     "role": "author",
+     "romanized": "yonas zewde kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_96dkwegv",
+   "id": "wk_96dkwegv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "algebanyem",
+    "script": "Ethi",
+    "text": "አልገባኝም"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "bayudimatros",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_apw0z9w5",
+ "id": "pe_apw0z9w5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bayu dimetros",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባዩ ዲሜጥሮስ"
+  },
+  "romanized": "bayu dimetros",
+  "sort_key": "ባዩዲሜጥሮስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የምግቦችና መጠጦች አሰራር ዘዴ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "97591d658a98d4e5f696472be90e9b85b94273ef17589c6f72396e63c2e39753",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0mp75nkx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0mp75nkx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_apw0z9w5",
+     "name": "ባዩ ዲሜጥሮስ",
+     "role": "author",
+     "romanized": "bayu dimetros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0mp75nkx",
+   "id": "wk_0mp75nkx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemegbochna metetoch aserar zede",
+    "script": "Ethi",
+    "text": "የምግቦችና መጠጦች አሠራር ዘዴ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

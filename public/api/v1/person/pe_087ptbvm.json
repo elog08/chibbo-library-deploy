@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "bogalatafaribazu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_087ptbvm",
+ "id": "pe_087ptbvm",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bogale teferi bezu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቦጋለ ተፈሪ በዙ"
+  },
+  "romanized": "bogale teferi bezu",
+  "sort_key": "ቦጋለተፈሪበዙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትንቢተ_ሽህ_ሁሴን_ጀብሪል_ቦጋለ_ተፈሪ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "4a69f21c0587e76d60489d2ed51bb3ef04b057927371843211e71880e82d8e9b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0gbxwvmb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0gbxwvmb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_087ptbvm",
+     "name": "ቦጋለ ተፈሪ በዙ",
+     "role": "author",
+     "romanized": "bogale teferi bezu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0gbxwvmb",
+   "id": "wk_0gbxwvmb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tenbite sheh husen jebril",
+    "script": "Ethi",
+    "text": "ትንቢተ ሸህ ሁሴን ጀብሪል"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

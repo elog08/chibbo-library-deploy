@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "faqadagwar",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1d0wea6w",
+ "id": "pe_1d0wea6w",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Fekede Agwar",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፈቀደ አግዋር"
+  },
+  "romanized": "Fekede Agwar",
+  "sort_key": "ፈቀደአግዋር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የልብ ጠጋኙ ማስታወሻ @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0afe2c0bde4c9a005cd56d651354b342da9389768ce0a737fe382c1e69dfb56d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_s62671dz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s62671dz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1d0wea6w",
+     "name": "ፈቀደ አግዋር",
+     "role": "author",
+     "romanized": "Fekede Agwar"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_s62671dz",
+   "id": "wk_s62671dz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeleb teganyu mastawesha",
+    "script": "Ethi",
+    "text": "የልብ ጠጋኙ ማስታወሻ"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

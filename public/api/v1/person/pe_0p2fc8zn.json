@@ -1,0 +1,135 @@
+{
+ "extensions": {},
+ "fingerprint": "sisaybayana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0p2fc8zn",
+ "id": "pe_0p2fc8zn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sisay beyene",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሲሣይ በየነ"
+  },
+  "romanized": "sisay beyene",
+  "sort_key": "ሲሳይበየነ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መቆያ_አጫጭር_ልብ_ወለዶች_እና_ግጥሞች_አበራ_ለማ.pdf",
+  "Read from the title page of የኤድስ በሽታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f7b13e57d6104d27d903a7cd2118a54637e4cfd079808016f6de71058e7c6bda",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_40kbm8ga.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_40kbm8ga.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vhkcqx8x",
+     "name": "ደነቀው አሣዬ",
+     "role": "author",
+     "romanized": "deneqew asaye"
+    },
+    {
+     "id": "pe_0p2fc8zn",
+     "name": "ሲሣይ በየነ",
+     "role": "author",
+     "romanized": "sisay beyene"
+    },
+    {
+     "id": "pe_qj07rm51",
+     "name": "ማኅሌት ወርቁ",
+     "role": "author",
+     "romanized": "mahlet werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1988-09-11/1989-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_40kbm8ga",
+   "id": "wk_40kbm8ga",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeedes beshta",
+    "script": "Ethi",
+    "text": "የኤድስ በሽታ"
+   },
+   "type": "work",
+   "year": 1988
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_bre9wyze.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bre9wyze.png"
+   },
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    },
+    {
+     "id": "pe_0p2fc8zn",
+     "name": "ሲሣይ በየነ",
+     "role": "author",
+     "romanized": "sisay beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bre9wyze",
+   "id": "wk_bre9wyze",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meqoya",
+    "script": "Ethi",
+    "text": "መቆያ"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

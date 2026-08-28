@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "takalu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fvswg7ee",
+ "id": "pe_fvswg7ee",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "te/akalu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተ/አካሉ"
+  },
+  "romanized": "te/akalu",
+  "sort_key": "ተአካሉ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኛ ሰው በደማስቆ - ማሞ ውድነህ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "64b2f6a6f809cb61f4fa16ec9e33cd11ad76f29ae140ca5ac2e081e874446ebe",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f7h0pjr1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f7h0pjr1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    },
+    {
+     "id": "pe_fvswg7ee",
+     "name": "ተ/አካሉ",
+     "role": "author",
+     "romanized": "te/akalu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f7h0pjr1",
+   "id": "wk_f7h0pjr1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenya sew bedemasqo",
+    "script": "Ethi",
+    "text": "የኛ ሰው በደማስቆ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,4 +1,10 @@
 {
+ "cover": {
+  "bytes": 388084,
+  "path": "assets/covers/wk_vv1gg3dv.png",
+  "sha256": "12d9f57c677f5b531b4ca6c03bcf5ffc3bc1350fef4e55bf4857f2e916a7495e",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vv1gg3dv.png"
+ },
  "credits": [
   {
    "order": 1,
@@ -19,16 +25,29 @@
    "value": "1974"
   }
  },
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "form": "novel",
  "href": "https://chibbo.app/work/wk_vv1gg3dv",
  "id": "wk_vv1gg3dv",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "213b3b332b2b3328",
+   "33634d2d69333330",
+   "400f2733332f3b08",
+   "6533332723232b28",
+   "732323233b230b08"
+  ]
+ },
  "language": "am",
  "links": [],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: ወንጀለኛው ዳኛ - ሀዲስ አለማየሁ.pdf",
+  "Scanned pages show the front cover and the preface (መቅድም) only. No formal title page or publication metadata is present."
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"

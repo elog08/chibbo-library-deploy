@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "gatachawyaroma",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_beegbjjg",
+ "id": "pe_beegbjjg",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "getachew yerome",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጌታቸው የሮሜ"
+  },
+  "romanized": "getachew yerome",
+  "sort_key": "ጌታቸውየሮሜ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የለውጡ_ረመጥ_የታሪክ_ማስታወሻ_በሻለቃ_ጌታቸው_የሮም.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "118b287073de94e7c33156ffb93fe78970514f116005dba8fddb0178ce862d22",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ag50s9na.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ag50s9na.png"
+   },
+   "credits": [
+    {
+     "id": "pe_beegbjjg",
+     "name": "ጌታቸው የሮሜ",
+     "role": "author",
+     "romanized": "getachew yerome"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1989-09-11/1990-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ag50s9na",
+   "id": "wk_ag50s9na",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yelewtu remet yetarik mastawesha",
+    "script": "Ethi",
+    "text": "የለውጡ ረመጥ የታሪክ ማስታወሻ"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

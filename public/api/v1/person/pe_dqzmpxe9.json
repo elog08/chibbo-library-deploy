@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "basratatlabachawhayla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dqzmpxe9",
+ "id": "pe_dqzmpxe9",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "besrat atlabachew hayle",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብሥራት አጥላባቸው ኃይሌ"
+  },
+  "romanized": "besrat atlabachew hayle",
+  "sort_key": "ብስራትአጥላባቸውሀይሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፍርድ ቀን ዘመቻ - ሲድኒ ሼልደን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "90573af012f200a16907ea7758fe516d9fcf95a989465c0acee5c9806a2afde2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vvn2g819.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vvn2g819.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_dqzmpxe9",
+     "name": "ብሥራት አጥላባቸው ኃይሌ",
+     "role": "author",
+     "romanized": "besrat atlabachew hayle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_vvn2g819",
+   "id": "wk_vvn2g819",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefered qen zemecha",
+    "script": "Ethi",
+    "text": "የፍርድ ቀን ዘመቻ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitadasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1p7aajaa",
+ "id": "pe_1p7aajaa",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት ታደሠ"
+  },
+  "romanized": "dawit tadese",
+  "sort_key": "ዳዊትታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የህዳሴ አብዮት.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "2abd452d23e6ee5678084c429dd18c4dac59be0f099a6f13b0c699fbd5ae4a8a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xf9bgst9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xf9bgst9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kxp383a2",
+     "name": "ሙሱነህ አያሌው",
+     "role": "author",
+     "romanized": "musuneh ayalew"
+    },
+    {
+     "id": "pe_tsqrhxds",
+     "name": "ኃይለመስቀል በሸዋምየለህ",
+     "role": "author",
+     "romanized": "haylemesqel beshewamyeleh"
+    },
+    {
+     "id": "pe_1p7aajaa",
+     "name": "ዳዊት ታደሠ",
+     "role": "author",
+     "romanized": "dawit tadese"
+    },
+    {
+     "id": "pe_hqzbda1a",
+     "name": "እስከንድር ነጋ",
+     "role": "author",
+     "romanized": "eskeneder nega"
+    },
+    {
+     "id": "pe_xxavxyyc",
+     "name": "ተመስገን ደሳለኝ",
+     "role": "author",
+     "romanized": "temesgen desaleny"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xf9bgst9",
+   "id": "wk_xf9bgst9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehdase abyot",
+    "script": "Ethi",
+    "text": "የሕዳሴ አብዮት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

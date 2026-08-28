@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "zarayaqob",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tb2n5fxv",
+ "id": "pe_tb2n5fxv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zera yaqob",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘርአ ያዕቆብ"
+  },
+  "romanized": "zera yaqob",
+  "sort_key": "ዘርአያእቆብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መፅሐፈ ፍልስፍና - ዘርአ ያዕቆብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "760a66ad6d4d124ce3a974e23ba58c575f01061e14e1c28d31f2506cdb400051",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5tt5zwp0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5tt5zwp0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tb2n5fxv",
+     "name": "ዘርአ ያዕቆብ",
+     "role": "author",
+     "romanized": "zera yaqob"
+    },
+    {
+     "id": "pe_y5mg42mv",
+     "name": "ዳንኤል ወርቁ ካሳ",
+     "role": "author",
+     "romanized": "danel werqu kasa"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_5tt5zwp0",
+   "id": "wk_5tt5zwp0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heteta zerayaqob",
+    "script": "Ethi",
+    "text": "ሐተታ ዘርአያቆብ"
+   },
+   "type": "work"
+  }
+ ]
+}

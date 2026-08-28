@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "abaralama",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_69k04xse",
  "id": "pe_69k04xse",
  "identifiers": {
@@ -75,7 +77,10 @@
   "sort_key": "አበራለማ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of አውጫችኝ - አበራ ለማ.pdf",
+  "Read from the title page of መቆያ_አጫጭር_ልብ_ወለዶች_እና_ግጥሞች_አበራ_ለማ.pdf"
+ ],
  "portrait": {
   "bytes": 90793,
   "path": "assets/portraits/pe_69k04xse.jpg",
@@ -124,6 +129,49 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_bre9wyze.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bre9wyze.png"
+   },
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    },
+    {
+     "id": "pe_0p2fc8zn",
+     "name": "ሲሣይ በየነ",
+     "role": "author",
+     "romanized": "sisay beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bre9wyze",
+   "id": "wk_bre9wyze",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meqoya",
+    "script": "Ethi",
+    "text": "መቆያ"
+   },
+   "type": "work",
+   "year": 1981
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_enrb4qnk.png",
     "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/5d0a6678-37b8-410d-9b3d-7f713cf43318AberaLemaMequoyaMogedegnawNewtaeH400.png"
    },
@@ -158,6 +206,44 @@
    },
    "type": "work",
    "year": 1980
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_pp1vw4r4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pp1vw4r4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pp1vw4r4",
+   "id": "wk_pp1vw4r4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awchachign (Dikt samling)",
+    "script": "Ethi",
+    "text": "አውጫጭኝ"
+   },
+   "type": "work",
+   "year": 2002
   }
  ]
 }

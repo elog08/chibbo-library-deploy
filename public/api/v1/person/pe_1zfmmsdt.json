@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "arafaynahagus",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1zfmmsdt",
+ "id": "pe_1zfmmsdt",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "arefeayne hegus",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አረፈዓይኔ ሐጉስ"
+  },
+  "romanized": "arefeayne hegus",
+  "sort_key": "አረፈአይኔሀጉስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አለቃ ገብረሃና በ አረፋይኔ ሐጎስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "06c2ca18774d1bf80f2b0d4a942c81e95b69a2b6edee129155ab4de0b74c2f94",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3z0hhf04.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3z0hhf04.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1zfmmsdt",
+     "name": "አረፈዓይኔ ሐጉስ",
+     "role": "author",
+     "romanized": "arefeayne hegus"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3z0hhf04",
+   "id": "wk_3z0hhf04",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aleqa gebrehena ena asqiny qeldochachew",
+    "script": "Ethi",
+    "text": "አለቃ ገብረሐና እና አስቂኝ ቀልዶቻቸው"
+   },
+   "type": "work"
+  }
+ ]
+}

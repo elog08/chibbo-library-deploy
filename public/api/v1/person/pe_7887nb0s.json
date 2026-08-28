@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "bayayamam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7887nb0s",
+ "id": "pe_7887nb0s",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "baye yemam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባየ ይማም"
+  },
+  "romanized": "baye yemam",
+  "sort_key": "ባየይማም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማረኛ ሰዋሰው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "637f2e260077398f5f3850f796621e2bbe4c8813e471fce3b47a2a650b847915",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n3p4rrc3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n3p4rrc3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7887nb0s",
+     "name": "ባየ ይማም",
+     "role": "author",
+     "romanized": "baye yemam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n3p4rrc3",
+   "id": "wk_n3p4rrc3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya sewasew",
+    "script": "Ethi",
+    "text": "የአማርኛ ሰዋስው"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

@@ -31,6 +31,10 @@
    "url": "https://www.ethiobookreview.com/book/japan-endemn-seletenech-kebede-mikael"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "ሜጋ አሳታሚ ድርጅት"
+ },
  "sameAs": [
   "https://www.ethiobookreview.com/book/japan-endemn-seletenech-kebede-mikael"
  ],
@@ -38,6 +42,10 @@
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_z48a1v1s",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_y187hf8e",
    "@type": "Book"
   }
  ]

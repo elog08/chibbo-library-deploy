@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "amabatworku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3wnxrmts",
+ "id": "pe_3wnxrmts",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Emebet Worku"
+  },
+  "romanized": "Emebet Worku",
+  "sort_key": "emebetworku"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of Life 101 Photo Comic Book 03 by AAU MARCH Project.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8b0cabfb99c7c0f098bf3d803c5a624764dded9e2d2ff06040cb2e72cd2db39c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hm42v8aa.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hm42v8aa.png"
+   },
+   "credits": [
+    {
+     "id": "pe_84wee6h6",
+     "name": "Fitsum Asefaw",
+     "role": "author",
+     "romanized": "Fitsum Asefaw"
+    },
+    {
+     "id": "pe_xvqrsa1v",
+     "name": "Zekarias Samuel",
+     "role": "author",
+     "romanized": "Zekarias Samuel"
+    },
+    {
+     "id": "pe_actr918g",
+     "name": "Binyam Woubeshet",
+     "role": "author",
+     "romanized": "Binyam Woubeshet"
+    },
+    {
+     "id": "pe_4spfsedm",
+     "name": "Fikru Kassa",
+     "role": "author",
+     "romanized": "Fikru Kassa"
+    },
+    {
+     "id": "pe_ec0kmvjk",
+     "name": "Zewge Abate",
+     "role": "author",
+     "romanized": "Zewge Abate"
+    },
+    {
+     "id": "pe_3wnxrmts",
+     "name": "Emebet Worku",
+     "role": "author",
+     "romanized": "Emebet Worku"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_hm42v8aa",
+   "id": "wk_hm42v8aa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "THE JOURNEY LIFE 101",
+    "script": "Latn",
+    "text": "THE JOURNEY LIFE 101"
+   },
+   "type": "work"
+  }
+ ]
+}

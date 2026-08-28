@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "hanoksayum",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_gzz22vq7",
  "id": "pe_gzz22vq7",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ሄኖክስዩም"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሀገሬን - ሄኖክ ስዩም.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -70,6 +74,34 @@
    },
    "type": "work",
    "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_kfgej495.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kfgej495.png"
+   },
+   "credits": [
+    {
+     "id": "pe_gzz22vq7",
+     "name": "ሄኖክ ስዩም",
+     "role": "author",
+     "romanized": "Henok Seyoum"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kfgej495",
+   "id": "wk_kfgej495",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hegeren",
+    "script": "Ethi",
+    "text": "ሀገሬን"
+   },
+   "type": "work"
   }
  ]
 }

@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "kabartakalay",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6bdysy3n",
+ "id": "pe_6bdysy3n",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "keberta keley",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከበርታ ክሌይ"
+  },
+  "romanized": "keberta keley",
+  "sort_key": "ከበርታክሌይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ህሊና ሲታወር-2.pdf",
+  "Read from the title page of የውበት ወጥመድ - በርታ ክሌይ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8ff7e1ae49d0a9348eae7e8e94cf8221f0a42674d3c0ce30b3e64453ebf46d6a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qes5xbn1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qes5xbn1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6bdysy3n",
+     "name": "ከበርታ ክሌይ",
+     "role": "author",
+     "romanized": "keberta keley"
+    },
+    {
+     "id": "pe_zq0w9qj2",
+     "name": "ዮሐንስ ገብረ ጻድቅ",
+     "role": "author",
+     "romanized": "yohenes gebre tsadeq"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qes5xbn1",
+   "id": "wk_qes5xbn1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "helina sitawer",
+    "script": "Ethi",
+    "text": "ህሊና ሲታወር"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xeak0716.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xeak0716.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6bdysy3n",
+     "name": "ከበርታ ክሌይ",
+     "role": "author",
+     "romanized": "keberta keley"
+    },
+    {
+     "id": "pe_zq0w9qj2",
+     "name": "ዮሐንስ ገብረ ጻድቅ",
+     "role": "author",
+     "romanized": "yohenes gebre tsadeq"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xeak0716",
+   "id": "wk_xeak0716",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yewbet wetmed",
+    "script": "Ethi",
+    "text": "የውበት ወጥመድ"
+   },
+   "type": "work"
+  }
+ ]
+}

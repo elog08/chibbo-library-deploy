@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "hamrawitasfa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_tjgj0z2f",
  "id": "pe_tjgj0z2f",
  "identifiers": {},
@@ -31,16 +33,33 @@
  "locked_fields": [],
  "merged_into": null,
  "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hemrawit tesfa",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Hamrawit Tesfa",
+    "type": "romanization"
+   }
+  ],
   "primary": {
-   "lang": "en",
-   "script": "Latn",
-   "text": "Hamrawit Tesfa"
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሐምራዊት ተስፋ"
   },
-  "romanized": "Hamrawit Tesfa",
-  "sort_key": "hamrawittesfa"
+  "romanized": "hemrawit tesfa",
+  "sort_key": "ሀምራዊትተስፋ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ልጅን እንዴት እናሳድግ- 1.PDF"
+ ],
  "portrait": {
   "bytes": 665402,
   "path": "assets/portraits/pe_tjgj0z2f.webp",
@@ -58,15 +77,44 @@
  "works": [
   {
    "cover": {
+    "path": "assets/covers/wk_k2h7pbth.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k2h7pbth.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tjgj0z2f",
+     "name": "ሐምራዊት ተስፋ",
+     "role": "author",
+     "romanized": "hemrawit tesfa"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_k2h7pbth",
+   "id": "wk_k2h7pbth",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lejen endet lasadeg bemerab ageroch",
+    "script": "Ethi",
+    "text": "ልጅን እንዴት ላሳድግ በምዕራብ አገሮች"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_ppysv3v1.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/SECURE-IN-MY-LIMITATION-book-by-Hamrawit-Tesfa.jpg"
    },
    "credits": [
     {
      "id": "pe_tjgj0z2f",
-     "name": "Hamrawit Tesfa",
+     "name": "ሐምራዊት ተስፋ",
      "role": "author",
-     "romanized": "Hamrawit Tesfa"
+     "romanized": "hemrawit tesfa"
     }
    ],
    "date": {
@@ -95,9 +143,9 @@
    "credits": [
     {
      "id": "pe_tjgj0z2f",
-     "name": "Hamrawit Tesfa",
+     "name": "ሐምራዊት ተስፋ",
      "role": "author",
-     "romanized": "Hamrawit Tesfa"
+     "romanized": "hemrawit tesfa"
     }
    ],
    "date": {

@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "qadamawihaylasalasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zs063mdg",
+ "id": "pe_zs063mdg",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qedamawi hayle selase",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቀዳማዊ ኃይለ ሥላሴ"
+  },
+  "romanized": "qedamawi hayle selase",
+  "sort_key": "ቀዳማዊሀይለስላሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሕይወቴና_የኢትዮጵያ_እርምጃ_ቀዳማዊ_ኃይለ_ሥላሴ_1ኛ.pdf",
+  "Read from the title page of ፍሬ ከናፍር ዘቀዳማዊ ሀይለስላሴ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ef8da9b952dc6093ede951ed67c13b909bb575eb04b16deefecf3750982b4bad",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ma1zksqn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ma1zksqn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zs063mdg",
+     "name": "ቀዳማዊ ኃይለ ሥላሴ",
+     "role": "author",
+     "romanized": "qedamawi hayle selase"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1936-09-11/1937-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ma1zksqn",
+   "id": "wk_ma1zksqn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heywetena yeityopya eremja",
+    "script": "Ethi",
+    "text": "ሕይወቴና የኢትዮጵያ እርምጃ"
+   },
+   "type": "work",
+   "year": 1936
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_r7x2er91.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r7x2er91.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zs063mdg",
+     "name": "ቀዳማዊ ኃይለ ሥላሴ",
+     "role": "author",
+     "romanized": "qedamawi hayle selase"
+    },
+    {
+     "id": "pe_bnc3xqv3",
+     "name": "ብላታ መርስዔ ኀዘን ወልደ ቂርቆስ",
+     "role": "author",
+     "romanized": "belata merese hezen welde qirqos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1954-09-11/1955-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_r7x2er91",
+   "id": "wk_r7x2er91",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fere kenafer",
+    "script": "Ethi",
+    "text": "ፍሬ ከናፍር"
+   },
+   "type": "work",
+   "year": 1954
+  }
+ ]
+}

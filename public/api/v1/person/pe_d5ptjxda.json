@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "sisaynagusa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d5ptjxda",
+ "id": "pe_d5ptjxda",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sisay neguse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሲሳይ ንጉሠ"
+  },
+  "romanized": "sisay neguse",
+  "sort_key": "ሲሳይንጉሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰመመን ከሲሳይ ንጉሱ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b1b91b83940ad8b11865c91f90836a44c936bccacb853802f967a03fc0ebe94f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ntfzb1br.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ntfzb1br.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d5ptjxda",
+     "name": "ሲሳይ ንጉሠ",
+     "role": "author",
+     "romanized": "sisay neguse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1978?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ntfzb1br",
+   "id": "wk_ntfzb1br",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sememen",
+    "script": "Ethi",
+    "text": "ሰመመን"
+   },
+   "type": "work",
+   "year": 1978
+  }
+ ]
+}

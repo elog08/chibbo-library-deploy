@@ -1,0 +1,90 @@
+{
+ "extensions": {},
+ "fingerprint": "faransishkualvarash",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_pcw5jshs",
+ "id": "pe_pcw5jshs",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Francisco Alvares",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍራንሲሽኩ አልቫርሽ"
+  },
+  "romanized": "Francisco Alvares",
+  "sort_key": "ፍራንሲሽኩአልቫርሽ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኢትዮጵያ_ፖርቱጌዞች_እንዳዩዋት_ግርማ_ባሻህ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e9ba1f5618d5bd5d17729ea640920da774d33236b7a48e0e06126edbd629e338",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9scpvmh6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9scpvmh6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pcw5jshs",
+     "name": "ፍራንሲሽኩ አልቫርሽ",
+     "role": "author",
+     "romanized": "Francisco Alvares"
+    },
+    {
+     "id": "pe_8za4545a",
+     "name": "ግርማ በሻህ",
+     "role": "author",
+     "romanized": "Girma Beshah"
+    },
+    {
+     "id": "pe_94q5w4n5",
+     "name": "Merid Wolde Aregay",
+     "role": "author",
+     "romanized": "Merid Wolde Aregay"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1966",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_9scpvmh6",
+   "id": "wk_9scpvmh6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Verdadeira informaçam das terras do Preste Joam",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ ፖርቱጌዞች እንዳዩዋት"
+   },
+   "type": "work",
+   "year": 1966
+  }
+ ]
+}

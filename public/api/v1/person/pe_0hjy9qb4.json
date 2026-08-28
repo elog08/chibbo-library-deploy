@@ -1,0 +1,166 @@
+{
+ "extensions": {},
+ "fingerprint": "zanabagabrahana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0hjy9qb4",
+ "id": "pe_0hjy9qb4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zenebe gebrehena",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘነበ ገብረሐና"
+  },
+  "romanized": "zenebe gebrehena",
+  "sort_key": "ዘነበገብረሀና"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኖኅ (ዘፍጥረት ም1 እስከ 5).pdf",
+  "Read from the title page of ፓትሪሽያ ሴንት ጆን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "02e33fec5748a0c04174091cb81a43afb372b03766d4dfc0c17eb70ffb8af038",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_46z79ke7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_46z79ke7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ht0yskbe",
+     "name": "ኪቲ አና ግሪፊትስ",
+     "role": "author",
+     "romanized": "Kitty Anna Griffiths"
+    },
+    {
+     "id": "pe_cy10ssr8",
+     "name": "ገበየሁ አየለ",
+     "role": "author",
+     "romanized": "gebeyehu ayele"
+    },
+    {
+     "id": "pe_1fek8vz0",
+     "name": "ዊሊ",
+     "role": "author",
+     "romanized": "wili"
+    },
+    {
+     "id": "pe_tfbmbb3f",
+     "name": "ሰላመአብ አሰፋ",
+     "role": "author",
+     "romanized": "selameab asefa"
+    },
+    {
+     "id": "pe_b7xypj4x",
+     "name": "ዮዲት ኃይሉ",
+     "role": "author",
+     "romanized": "yodit haylu"
+    },
+    {
+     "id": "pe_0hjy9qb4",
+     "name": "ዘነበ ገብረሐና",
+     "role": "author",
+     "romanized": "zenebe gebrehena"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_46z79ke7",
+   "id": "wk_46z79ke7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "NOAH",
+    "script": "Ethi",
+    "text": "ኖኅ"
+   },
+   "type": "work",
+   "year": 2005
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_k2v8fffd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k2v8fffd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ds6ng2mx",
+     "name": "ፓትሪሽያ ሴንት ጆን",
+     "role": "author",
+     "romanized": "Patricia M St John"
+    },
+    {
+     "id": "pe_c15qgvnb",
+     "name": "ዳንኤል ተሾመ",
+     "role": "author",
+     "romanized": "danel teshome"
+    },
+    {
+     "id": "pe_0hjy9qb4",
+     "name": "ዘነበ ገብረሐና",
+     "role": "author",
+     "romanized": "zenebe gebrehena"
+    },
+    {
+     "id": "pe_rre9zr4y",
+     "name": "ኃይሌ ጀናይ",
+     "role": "author",
+     "romanized": "hayle jenay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_k2v8fffd",
+   "id": "wk_k2v8fffd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gwerebet felge neber",
+    "script": "Ethi",
+    "text": "ጐረቤት ፈልጌ ነበር"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

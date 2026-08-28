@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "tafarashata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_34keq0e3",
+ "id": "pe_34keq0e3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tefera eshete",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተፈራ እሸቴ"
+  },
+  "romanized": "tefera eshete",
+  "sort_key": "ተፈራእሸቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሌሎቸ አለማት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dc77b1fd18defa90252285101837e1a35eebbe505cc414d04f70aa44b437e44c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tk9qm5qy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tk9qm5qy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x9edxda5",
+     "name": "ታፈሰ ሙሉነህ",
+     "role": "author",
+     "romanized": "tafese muluneh"
+    },
+    {
+     "id": "pe_34keq0e3",
+     "name": "ተፈራ እሸቴ",
+     "role": "author",
+     "romanized": "tefera eshete"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1985-09-11/1986-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_tk9qm5qy",
+   "id": "wk_tk9qm5qy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "leloch alemat",
+    "script": "Ethi",
+    "text": "ሌሎች ዓለማት"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

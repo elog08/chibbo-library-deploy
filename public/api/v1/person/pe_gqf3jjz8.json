@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "habtamutasfaya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_gqf3jjz8",
+ "id": "pe_gqf3jjz8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hebtamu tesfaye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሀብታሙ ተስፋዬ"
+  },
+  "romanized": "hebtamu tesfaye",
+  "sort_key": "ሀብታሙተስፋዬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሕያዉነት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "881cb9e85348d3501f88ed5d606b086deb6e2f6146af201d1ae170d02ba18168",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_42zd3krr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_42zd3krr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jxa6s76a",
+     "name": "አሾ",
+     "role": "author",
+     "romanized": "OSHO"
+    },
+    {
+     "id": "pe_gqf3jjz8",
+     "name": "ሀብታሙ ተስፋዬ",
+     "role": "author",
+     "romanized": "hebtamu tesfaye"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_42zd3krr",
+   "id": "wk_42zd3krr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "heyawnet",
+    "script": "Ethi",
+    "text": "ህያውነት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

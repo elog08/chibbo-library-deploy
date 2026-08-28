@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "antwandasanatagzupari",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xfm3w1p7",
+ "id": "pe_xfm3w1p7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "antwan de senet- egzuperi",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንቷን ደ ሰንት- ኤግዙፔሪ"
+  },
+  "romanized": "antwan de senet- egzuperi",
+  "sort_key": "አንቷንደሰንትኤግዙፔሪ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ታዳጊው ልዑል 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d1017be07079a038617642b401686d5d19ef0e13f98caa310e784057a70ae97b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8m67me0v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8m67me0v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xfm3w1p7",
+     "name": "አንቷን ደ ሰንት- ኤግዙፔሪ",
+     "role": "author",
+     "romanized": "antwan de senet- egzuperi"
+    },
+    {
+     "id": "pe_z9ccavvz",
+     "name": "ዶ/ር ብርሃኑ አበበ",
+     "role": "author",
+     "romanized": "do/re berhanu abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8m67me0v",
+   "id": "wk_8m67me0v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tadagiw leul",
+    "script": "Ethi",
+    "text": "ታዳጊው ልዑል"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

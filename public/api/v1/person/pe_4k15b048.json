@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "amanualabarham",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4k15b048",
+ "id": "pe_4k15b048",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "amanuel aberham",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አማኑኤል አብርሃም"
+  },
+  "romanized": "amanuel aberham",
+  "sort_key": "አማኑኤልአብርሀም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሕይወቴ ትዝታ - አማኑኤል አብርሀም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3bbe7ea697ac89e8dea863abf824975acd866a72c35104869710f386d719ed70",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e3r6apq4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e3r6apq4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4k15b048",
+     "name": "አማኑኤል አብርሃም",
+     "role": "author",
+     "romanized": "amanuel aberham"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1999-09-12/2000-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_e3r6apq4",
+   "id": "wk_e3r6apq4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeheywete tezta",
+    "script": "Ethi",
+    "text": "የሕይወቴ ትዝታ"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

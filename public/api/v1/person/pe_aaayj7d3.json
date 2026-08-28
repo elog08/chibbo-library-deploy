@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "alaksandardumas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_aaayj7d3",
+ "id": "pe_aaayj7d3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aleksander dumas",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አሌክሳንደር ዱማስ"
+  },
+  "romanized": "aleksander dumas",
+  "sort_key": "አሌክሳንደርዱማስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እፎይታ - አሌክሳንደር ዱማስ ፔሬ.pdf",
+  "Read from the title page of እፎይታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2dda6f56f6e4862009130fc6364d12c6c6643a3a5d61be6c42550f1cae6c98f1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qpjs2gcc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qpjs2gcc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_aaayj7d3",
+     "name": "አሌክሳንደር ዱማስ",
+     "role": "author",
+     "romanized": "aleksander dumas"
+    },
+    {
+     "id": "pe_e0cmt534",
+     "name": "ተሾመ ዳምጠው",
+     "role": "author",
+     "romanized": "teshome damtew"
+    },
+    {
+     "id": "pe_jn4fjxgf",
+     "name": "ተሾመ ጻምጠው",
+     "role": "author",
+     "romanized": "teshome tsamtew"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qpjs2gcc",
+   "id": "wk_qpjs2gcc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "efoyta",
+    "script": "Ethi",
+    "text": "እፎይታ"
+   },
+   "type": "work"
+  }
+ ]
+}

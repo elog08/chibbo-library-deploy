@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tadlazayohanaszawda",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6ptss4n5",
+ "id": "pe_6ptss4n5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tedla zeyohenes zewde",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተድላ ዘዮሐንስ ዘውዴ"
+  },
+  "romanized": "tedla zeyohenes zewde",
+  "sort_key": "ተድላዘዮሀንስዘውዴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያ_ታሪክ_ኢጣሊያ_በ_ኢትዮጵያ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cae9a59c10264d96a05734b3402b9c4834a94d1bf57d98ca196537d8e013dec3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rs5h2c65.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rs5h2c65.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ptss4n5",
+     "name": "ተድላ ዘዮሐንስ ዘውዴ",
+     "role": "author",
+     "romanized": "tedla zeyohenes zewde"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rs5h2c65",
+   "id": "wk_rs5h2c65",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya tarik i.ta.li.ya bei.te.yo.pe.ya kewelwel eske gwender",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ኢ.ጣ.ሊ.ያ በኢ.ት.ዮ.ጵ.ያ ከወልወል እስከ ጐንደር"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

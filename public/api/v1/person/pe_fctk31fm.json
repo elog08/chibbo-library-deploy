@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "gatachawutaraqany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fctk31fm",
+ "id": "pe_fctk31fm",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "getachewu tareqeny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጌታቸዉ ታረቀኝ"
+  },
+  "romanized": "getachewu tareqeny",
+  "sort_key": "ጌታቸዉታረቀኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አቤቶ ልጅ ኢያሱ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "4ff9074e2bd91f36231bf37e23f223b6efe81c9ae920760f03b336cccf89a9fd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5jjk52nm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5jjk52nm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fctk31fm",
+     "name": "ጌታቸዉ ታረቀኝ",
+     "role": "author",
+     "romanized": "getachewu tareqeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5jjk52nm",
+   "id": "wk_5jjk52nm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "abeto lej eyasu",
+    "script": "Ethi",
+    "text": "አቤቶ ልጅ እያሱ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

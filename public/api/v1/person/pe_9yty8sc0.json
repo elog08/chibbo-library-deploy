@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "masafanbantayahudora",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9yty8sc0",
+ "id": "pe_9yty8sc0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen bantayehu do/re",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ባንታየሁ ዶ/ር"
+  },
+  "romanized": "mesefen bantayehu do/re",
+  "sort_key": "መስፍንባንታየሁዶር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መሪነት - መስፍን ባንታየሁ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8911ca70a311b890ffe978b28e81d231492f2332ce2371d1b79c9ead6b06172a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jgp4ej3c.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jgp4ej3c.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9yty8sc0",
+     "name": "መስፍን ባንታየሁ ዶ/ር",
+     "role": "author",
+     "romanized": "mesefen bantayehu do/re"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jgp4ej3c",
+   "id": "wk_jgp4ej3c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Leadership",
+    "script": "Ethi",
+    "text": "መሪነት"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

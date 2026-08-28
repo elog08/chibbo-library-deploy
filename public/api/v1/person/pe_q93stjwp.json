@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "doktargatnatfalaqa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_q93stjwp",
  "id": "pe_q93stjwp",
  "identifiers": {
@@ -53,7 +55,10 @@
   "sort_key": "ዶክተርጌትነትፈለቀ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of andromeda 2.pdf",
+  "Read from the title page of andromeda 3.pdf"
+ ],
  "portrait": {
   "bytes": 74554,
   "path": "assets/portraits/pe_q93stjwp.png",
@@ -69,6 +74,40 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1sqecwdg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1sqecwdg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4h2m93p4",
+     "name": "ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "dokter rodas tadese"
+    },
+    {
+     "id": "pe_q93stjwp",
+     "name": "ዶክተር ጌትነት ፈለቀ",
+     "role": "author",
+     "romanized": "dokter getnet feleqe"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1sqecwdg",
+   "id": "wk_1sqecwdg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anedromeda",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_g0v3fy36.png",

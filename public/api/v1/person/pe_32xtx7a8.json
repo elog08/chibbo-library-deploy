@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "fayodordostoyavaskiy",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_32xtx7a8",
+ "id": "pe_32xtx7a8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feyodor dostoyeveskiy",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፌዮዶር ዶስቶዬቭስኪይ"
+  },
+  "romanized": "feyodor dostoyeveskiy",
+  "sort_key": "ፌዮዶርዶስቶዬቭስኪይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ድኃ_ሰዎች_ብርሃናዊ_ሌሊት_ፌዮዶር_ዶስቶዬቭስኪይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "202ae12e7fcad5af922930825b4965c39d7a6da00fa5ad65a9c1f8df643902c9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a1xp36jq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a1xp36jq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_32xtx7a8",
+     "name": "ፌዮዶር ዶስቶዬቭስኪይ",
+     "role": "author",
+     "romanized": "feyodor dostoyeveskiy"
+    },
+    {
+     "id": "pe_f0yeqyka",
+     "name": "ካሳ ገብረ ሕይወት",
+     "role": "author",
+     "romanized": "kasa gebre heywet"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1976",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a1xp36jq",
+   "id": "wk_a1xp36jq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "deha sewoch * berhanawi lelit",
+    "script": "Ethi",
+    "text": "ድኃ ሰዎች * ብርሃናዊ ሌሊት"
+   },
+   "type": "work",
+   "year": 1976
+  }
+ ]
+}

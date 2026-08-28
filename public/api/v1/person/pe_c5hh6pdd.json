@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "garumtahaymanot",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_c5hh6pdd",
+ "id": "pe_c5hh6pdd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "gerum te/heymanot",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግሩም ተ/ሀይማኖት"
+  },
+  "romanized": "gerum te/heymanot",
+  "sort_key": "ግሩምተሀይማኖት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሞት ጉዞ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "83beb82f1a166f66b2512a468408e3286a839365ebc825cabb8b8f24a85bc365",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q7b2a6j1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_q7b2a6j1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_c5hh6pdd",
+     "name": "ግሩም ተ/ሀይማኖት",
+     "role": "author",
+     "romanized": "gerum te/heymanot"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_q7b2a6j1",
+   "id": "wk_q7b2a6j1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemot guzo",
+    "script": "Ethi",
+    "text": "የሞት ጉዞ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

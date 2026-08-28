@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "akliluhabtawalad",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_72tyzq6h",
+ "id": "pe_72tyzq6h",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aklilu hebteweled",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አክሊሉ ሀብተወልድ"
+  },
+  "romanized": "aklilu hebteweled",
+  "sort_key": "አክሊሉሀብተወልድ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አክሊሉ ሀብተወልድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d3b0b4b84112838eb23c61b4ef95e399e0eb84429629ca7bb398b1060769f80e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zazxvc5v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zazxvc5v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_72tyzq6h",
+     "name": "አክሊሉ ሀብተወልድ",
+     "role": "author",
+     "romanized": "aklilu hebteweled"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zazxvc5v",
+   "id": "wk_zazxvc5v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aklilu Remembers",
+    "script": "Ethi",
+    "text": "የአክሊሉ ማስታወሻ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

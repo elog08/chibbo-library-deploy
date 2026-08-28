@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "atnafsagadkidana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9e49fr9z",
+ "id": "pe_9e49fr9z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "atnafseged kidane",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አጥናፍሰገድ ኪዳኔ"
+  },
+  "romanized": "atnafseged kidane",
+  "sort_key": "አጥናፍሰገድኪዳኔ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሌዮኔ-[በአጥናፍሰገድ.ኪዳኔ.pdf",
+  "Read from the title page of ሌዮኔ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5df1c9901748b887a3fedcfef8f77b8d5525e903cbb1881022058457a544f6e1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1ybg9rzr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1ybg9rzr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9e49fr9z",
+     "name": "አጥናፍሰገድ ኪዳኔ",
+     "role": "author",
+     "romanized": "atnafseged kidane"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1ybg9rzr",
+   "id": "wk_1ybg9rzr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "le yo ne",
+    "script": "Ethi",
+    "text": "ሌ ዮ ኔ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

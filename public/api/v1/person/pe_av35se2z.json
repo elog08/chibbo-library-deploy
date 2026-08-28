@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "agatakarista",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_av35se2z",
+ "id": "pe_av35se2z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "agata keriste",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አጋታ ክሪስቴ"
+  },
+  "romanized": "agata keriste",
+  "sort_key": "አጋታክሪስቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጃኩሊን - አጋታ ክርስቲ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7c4b299bb3e26bcdc477d42aa7e63ad3388e7bd3cfc0c15fe9540d2ea250805b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kw0gt8ax.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kw0gt8ax.png"
+   },
+   "credits": [
+    {
+     "id": "pe_av35se2z",
+     "name": "አጋታ ክሪስቴ",
+     "role": "author",
+     "romanized": "agata keriste"
+    },
+    {
+     "id": "pe_acfav7dk",
+     "name": "ዐብይ ደምሴ",
+     "role": "author",
+     "romanized": "abey demse"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1987-09-12/1988-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kw0gt8ax",
+   "id": "wk_kw0gt8ax",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "jakulin",
+    "script": "Ethi",
+    "text": "ጃኩሊን"
+   },
+   "type": "work",
+   "year": 1987
+  }
+ ]
+}

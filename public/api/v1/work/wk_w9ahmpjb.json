@@ -1,0 +1,106 @@
+{
+ "cover": {
+  "bytes": 144952,
+  "path": "assets/covers/wk_w9ahmpjb.png",
+  "sha256": "b69d4a365cb40e5b3be774cc82e4b76bcc5582499dc2554913f5ec18645993ad",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w9ahmpjb.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_0ygfesv3",
+   "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_0qnk9fq5",
+   "role": "author"
+  },
+  {
+   "order": 3,
+   "person": "pe_192stbw4",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_p631z5zw"
+ ],
+ "extensions": {},
+ "fingerprint": "ተረበኛውናስሩዲን|idrishah",
+ "first_published": {
+  "alternates": [
+   "1995-09-12/1996-09-10"
+  ],
+  "edtf": "1988?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1988"
+  }
+ },
+ "flags": [
+  "llm-extracted",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_w9ahmpjb",
+ "id": "wk_w9ahmpjb",
+ "identifiers": {
+  "pdf_pagehash": [
+   "0d0f270d0d0f1f08",
+   "0f27231b3b232308",
+   "1a1a060606060600",
+   "2b03073733270348",
+   "3b0b07233b270348"
+  ]
+ },
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: ተረበኛው ናስሩዲን - አማረ ማሞ.pdf",
+  "The title page shows both 1981 and 1988, but no calendar is explicitly stated. The English/Ethiopic explicitly stated. The original English title misspelling of"
+ ],
+ "provenance": {
+  "raw_sha256": "b285f7e9098800a26f28e1923927153f51c8da1a232b8f8aa5f9492eb301fce7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "publication_place": "Addis Ababa",
+ "publisher_name": "Ethiopia Book Centre",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "terebenyaw nasrudin",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "The Exploits of the Incomperable Mulla Nasrudin",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተረበኛው ናስሩዲን"
+  },
+  "romanized": "terebenyaw nasrudin",
+  "sort_key": "ተረበኛውናስሩዲን"
+ },
+ "type": "work"
+}

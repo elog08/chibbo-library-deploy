@@ -1,0 +1,150 @@
+{
+ "extensions": {},
+ "fingerprint": "tadalabatulkabrat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ejkw1d27",
+ "id": "pe_ejkw1d27",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tadele betul kebret",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታደለ ብጡል ክብረት"
+  },
+  "romanized": "tadele betul kebret",
+  "sort_key": "ታደለብጡልክብረት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማራዝት.pdf",
+  "Read from the title page of አዛዥ_ሀኪም_ወርቅነህ_እሸቱ_ከታደለ_ብጡል_ክብረት.pdf",
+  "Read from the title page of አጤ_ቴድሮስ_እና_ልዑል_አለማየሁ_ቴድሮስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "67b4afd26de96e0a0cbe60d063bd32db192622385f9a501c0b74e0628373a1e7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0jqhy9nw.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0jqhy9nw.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ejkw1d27",
+     "name": "ታደለ ብጡል ክብረት",
+     "role": "author",
+     "romanized": "tadele betul kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1994-09-11/1995-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_0jqhy9nw",
+   "id": "wk_0jqhy9nw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "marazet",
+    "script": "Ethi",
+    "text": "ማራዝት"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_55j56ab0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_55j56ab0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ejkw1d27",
+     "name": "ታደለ ብጡል ክብረት",
+     "role": "author",
+     "romanized": "tadele betul kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_55j56ab0",
+   "id": "wk_55j56ab0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "atse tewodros ena leul alemayehu tewodros",
+    "script": "Ethi",
+    "text": "ዐፄ ቴዎድሮስ እና ልዑል ዓለማየሁ ቴዎድሮስ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_hsajynne.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hsajynne.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ejkw1d27",
+     "name": "ታደለ ብጡል ክብረት",
+     "role": "author",
+     "romanized": "tadele betul kebret"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_hsajynne",
+   "id": "wk_hsajynne",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Doctor Charles Martin",
+    "script": "Ethi",
+    "text": "አዛዥ ሐኪም ወርቅነህ እሸቱ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

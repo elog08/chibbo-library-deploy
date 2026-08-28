@@ -1,0 +1,130 @@
+{
+ "extensions": {},
+ "fingerprint": "yaradbarhanusahla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qbvyjgn8",
+ "id": "pe_qbvyjgn8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yared berhanu sahle",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ያሬድ ብርሃኑ ሣህሌ"
+  },
+  "romanized": "yared berhanu sahle",
+  "sort_key": "ያሬድብርሀኑሳህሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሀያሉ ሽብርተኛ - A.W ሚኬል.pdf",
+  "Read from the title page of የጉብሊቱ ምስጢር @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dd778f56eb02e5ad0300ae412b048a7ebf8d204a22f92b6c151972e38f1f7be4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8qwphf1r.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8qwphf1r.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fxaza3f9",
+     "name": "እርቪንግ ዋላስ",
+     "role": "author",
+     "romanized": "ervineg walas"
+    },
+    {
+     "id": "pe_qbvyjgn8",
+     "name": "ያሬድ ብርሃኑ ሣህሌ",
+     "role": "author",
+     "romanized": "yared berhanu sahle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1998-09-11/1999-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_8qwphf1r",
+   "id": "wk_8qwphf1r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Miracle",
+    "script": "Ethi",
+    "text": "የጉብሊቷ ሚስጥር"
+   },
+   "type": "work",
+   "year": 1998
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_m67m3k7w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m67m3k7w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j6ta72qa",
+     "name": "ኤ.ደብልዩ. ሚኬል",
+     "role": "author",
+     "romanized": "e.debelyu. mikel"
+    },
+    {
+     "id": "pe_qbvyjgn8",
+     "name": "ያሬድ ብርሃኑ ሣህሌ",
+     "role": "author",
+     "romanized": "yared berhanu sahle"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m67m3k7w",
+   "id": "wk_m67m3k7w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE LUXUS",
+    "script": "Ethi",
+    "text": "ኃያሉ ሽብርተኛ"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

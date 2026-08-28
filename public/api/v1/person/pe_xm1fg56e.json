@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "tsahaymalaku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xm1fg56e",
+ "id": "pe_xm1fg56e",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tsehey melaku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፀሐይ መላኩ"
+  },
+  "romanized": "tsehey melaku",
+  "sort_key": "ጸሀይመላኩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንጉዝ በፀሀይ መላኩ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d51c652a7629de63312342dce184235359caff42557b8df1f6be1e881520a5a9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sxmp3rgq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sxmp3rgq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xm1fg56e",
+     "name": "ፀሐይ መላኩ",
+     "role": "author",
+     "romanized": "tsehey melaku"
+    },
+    {
+     "id": "pe_jkfhjr4j",
+     "name": "በላይ በየነ",
+     "role": "author",
+     "romanized": "belay beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sxmp3rgq",
+   "id": "wk_sxmp3rgq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anguz",
+    "script": "Ethi",
+    "text": "አንጉዝ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

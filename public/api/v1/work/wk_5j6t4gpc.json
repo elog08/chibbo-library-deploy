@@ -13,18 +13,34 @@
   }
  ],
  "editions": [
-  "ed_a7a51r88"
+  "ed_a7a51r88",
+  "ed_52myv2rt"
  ],
  "extensions": {},
  "fingerprint": "ማስታወሻ|zanabawala",
+ "first_published": {
+  "edtf": "2013-09-11/2014-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2006"
+  }
+ },
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_5j6t4gpc",
  "id": "wk_5j6t4gpc",
  "identifiers": {
   "hahubooks_code": [
    "jb_218"
+  ],
+  "pdf_pagehash": [
+   "080a0a8b8b8a0a08",
+   "086a6b0b2b4b6828",
+   "0c2f373737270808",
+   "0e2c2a2323272308",
+   "4b6b6b2b6f2f6c88"
   ]
  },
  "language": "am",
@@ -61,12 +77,16 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: ማስታወሻ ዘነበ ወላ.pdf.pdf",
+  "The cover pages display 'ስብሐት ገብረ እግዚአብሔር የሕይወት ታሪክ' as a header/subject' as 'የሕይወት ታሪክ' followed by the main title 'ማስታወሻ'."
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks",
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_218"
  },
+ "publication_place": "አዲስ አበባ",
  "relations": [],
  "rights": {
   "shippable": false,

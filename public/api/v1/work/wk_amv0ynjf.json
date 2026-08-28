@@ -1,0 +1,90 @@
+{
+ "cover": {
+  "bytes": 131142,
+  "path": "assets/covers/wk_amv0ynjf.png",
+  "sha256": "3db0165d77bf6d780ce6f8f96a3eb63c73d6a910582ef9e0a2d9e703a7055488",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_amv0ynjf.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_6gsrgwd0",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_grzeds8j"
+ ],
+ "extensions": {},
+ "fingerprint": "የማርእሸት|admasudasta",
+ "first_published": {
+  "alternates": [
+   "1987-09-12/1988-09-10"
+  ],
+  "edtf": "1980?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1980"
+  }
+ },
+ "flags": [
+  "llm-extracted",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_amv0ynjf",
+ "id": "wk_amv0ynjf",
+ "identifiers": {
+  "pdf_pagehash": [
+   "ffb99dd5d59d9938",
+   "868b0b0b0a4b8bc0",
+   "03353727270838c8",
+   "0a03010501030108",
+   "0313331333333748"
+  ]
+ },
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: የማር እሸት.pdf",
+  "The title page lists both 1980 and 1988 without explicitly naming the calendar systems."
+ ],
+ "provenance": {
+  "raw_sha256": "ca59abefb1c22e37e91cc455143f0e6576289337c8e974705c736f25b5924a72",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "publication_place": "አዲስ አበባ / Addis Ababa",
+ "publisher_name": "ኢትዮጵያ መጻሕፍት ድርጅት / Ethiopia Book Centre",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yemar eshet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የማር እሸት"
+  },
+  "romanized": "yemar eshet",
+  "sort_key": "የማርእሸት"
+ },
+ "type": "work"
+}

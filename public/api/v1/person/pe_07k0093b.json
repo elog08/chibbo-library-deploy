@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasgatsadaq",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_07k0093b",
+ "id": "pe_07k0093b",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes ge/tsadeq",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ገ/ጻድቅ"
+  },
+  "romanized": "yohenes ge/tsadeq",
+  "sort_key": "ዮሀንስገጻድቅ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ምንዱባን_ዮሀንስ_ገብረፃድቅLes_Miserables.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2e8c35bbf338b2c61c1d187594bd2ccba4f04bd951848a88b0ad92b30d15d10b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5pk3nzns.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5pk3nzns.png"
+   },
+   "credits": [
+    {
+     "id": "pe_v20khgdd",
+     "name": "ቪክተር ህዩጎ",
+     "role": "author",
+     "romanized": "vikter heyugo"
+    },
+    {
+     "id": "pe_07k0093b",
+     "name": "ዮሐንስ ገ/ጻድቅ",
+     "role": "author",
+     "romanized": "yohenes ge/tsadeq"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_5pk3nzns",
+   "id": "wk_5pk3nzns",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "menduban (ley mizerabel)",
+    "script": "Ethi",
+    "text": "ምንዱባን (ሌይ ሚዘራብል)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

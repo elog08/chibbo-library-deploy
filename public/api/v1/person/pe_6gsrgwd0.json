@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "admasudasta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6gsrgwd0",
+ "id": "pe_6gsrgwd0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "admasu desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አድማሱ ደስታ"
+  },
+  "romanized": "admasu desta",
+  "sort_key": "አድማሱደስታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የማር እሸት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ca59abefb1c22e37e91cc455143f0e6576289337c8e974705c736f25b5924a72",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_amv0ynjf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_amv0ynjf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6gsrgwd0",
+     "name": "አድማሱ ደስታ",
+     "role": "author",
+     "romanized": "admasu desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_amv0ynjf",
+   "id": "wk_amv0ynjf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemar eshet",
+    "script": "Ethi",
+    "text": "የማር እሸት"
+   },
+   "type": "work",
+   "year": 1980
+  }
+ ]
+}

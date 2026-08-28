@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayagabiso",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_abp1mqbr",
+ "id": "pe_abp1mqbr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye gabiso",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ጋቢሶ"
+  },
+  "romanized": "tesfaye gabiso",
+  "sort_key": "ተስፋዬጋቢሶ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በዚያን ጊዜ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0b6e8c822c7b7d38cfceb8932dcf78b91898b7eb742ce8b17548ee342e5f8311",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6b5f64t3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6b5f64t3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_abp1mqbr",
+     "name": "ተስፋዬ ጋቢሶ",
+     "role": "author",
+     "romanized": "tesfaye gabiso"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_6b5f64t3",
+   "id": "wk_6b5f64t3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beziyan gize",
+    "script": "Ethi",
+    "text": "በዚያን ጊዜ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "garumtabaja",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_spkf08ek",
  "id": "pe_spkf08ek",
  "identifiers": {},
@@ -26,7 +28,10 @@
   "sort_key": "ግሩምተበጀ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ዙቤይዳ ከአሌክስ አብርሃም.pdf",
+  "Read from the title page of ግሩም_የዓለማችን_ምርጥ_ታሪኮች_ግሩም_ተበጀ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -98,6 +103,80 @@
     "text": "ሙላ ነስሩዲን"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_mb2egnew.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_mb2egnew.png"
+   },
+   "credits": [
+    {
+     "id": "pe_spkf08ek",
+     "name": "ግሩም ተበጀ",
+     "role": "author",
+     "romanized": "Michael Neimi"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_mb2egnew",
+   "id": "wk_mb2egnew",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gerum yealemachen meret tarikoch",
+    "script": "Ethi",
+    "text": "ግሩም የዓለማችን ምርጥ ታሪኮች"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_tje785zx.jpg",
+    "source_url": "https://addisbooks.com/wp-content/uploads/2026/02/alex-abrham.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    },
+    {
+     "id": "pe_spkf08ek",
+     "name": "ግሩም ተበጀ",
+     "role": "author",
+     "romanized": "Michael Neimi"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_tje785zx",
+   "id": "wk_tje785zx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zubeyda Alex Abreham(",
+    "script": "Ethi",
+    "text": "ዙቤይዳ )"
+   },
+   "type": "work",
+   "year": 2016
   }
  ]
 }

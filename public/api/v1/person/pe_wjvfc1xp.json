@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "andargamasafanmau",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wjvfc1xp",
+ "id": "pe_wjvfc1xp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "andarge mesefen me. u.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንዳርጌ መስፍን መ. ኡ."
+  },
+  "romanized": "andarge mesefen me. u.",
+  "sort_key": "አንዳርጌመስፍንመኡ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጥቁር ደም በ አንዳርጌ መስፍን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f0e1b7349103767bae923f390795b59f1b307703694773ef57a6123434e8d752",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ppm8s8yq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ppm8s8yq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wjvfc1xp",
+     "name": "አንዳርጌ መስፍን መ. ኡ.",
+     "role": "author",
+     "romanized": "andarge mesefen me. u."
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ppm8s8yq",
+   "id": "wk_ppm8s8yq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tequr dem",
+    "script": "Ethi",
+    "text": "ጥቁር ደም"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

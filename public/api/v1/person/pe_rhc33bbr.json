@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "balaynashmanagastu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rhc33bbr",
+ "id": "pe_rhc33bbr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "belaynesh menegestu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በላይነሽ መንግሥቱ"
+  },
+  "romanized": "belaynesh menegestu",
+  "sort_key": "በላይነሽመንግስቱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የባልትና ትምህርት መምርያ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7c66ee5e6bcd4cb9ffcaa2df30c3feefd593a2f4ee9695bc28a53393b16067f1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4ec8j87b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4ec8j87b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rhc33bbr",
+     "name": "በላይነሽ መንግሥቱ",
+     "role": "author",
+     "romanized": "belaynesh menegestu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1962-09-11/1963-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_4ec8j87b",
+   "id": "wk_4ec8j87b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebaletna temeheret memriya",
+    "script": "Ethi",
+    "text": "የባልትና ትምህርት መምሪያ"
+   },
+   "type": "work",
+   "year": 1962
+  }
+ ]
+}

@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "bawkatusayoum",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_mmbpr17m",
  "id": "pe_mmbpr17m",
  "identifiers": {
@@ -91,7 +93,12 @@
   "sort_key": "በእውቁቱስዩም"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የማለዳ_ድባብ_ገጣሚደራሲ_በዕውቀቱ_ሥዩም.PDF",
+  "Read from the title page of መግባት እና መውጣት በዕዉቀቱ ስዩም.pdf",
+  "Read from the title page of አዳምኤል በእውቀቱ ስዩም.pdf",
+  "Read from the title page of ከአሜን ባሻገር በእውቀቱ ስዩም.pdf"
+ ],
  "portrait": {
   "bytes": 123354,
   "path": "assets/portraits/pe_mmbpr17m.jpg",
@@ -143,6 +150,43 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_0rwt850r.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0rwt850r.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2020?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0rwt850r",
+   "id": "wk_0rwt850r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "adamel",
+    "script": "Ethi",
+    "text": "አዳምኤል"
+   },
+   "type": "work",
+   "year": 2020
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_67tyg2n0.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2023/10/Enqilf-Ena-Edeme-by-Bewketu-Seyoum.jpg"
    },
@@ -174,6 +218,41 @@
    },
    "type": "work",
    "year": 2023
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_894jj7fh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_894jj7fh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_894jj7fh",
+   "id": "wk_894jj7fh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "megbatna ena mewtat",
+    "script": "Ethi",
+    "text": "መግባትና እና መውጣት"
+   },
+   "type": "work",
+   "year": 2012
   },
   {
    "cover": {
@@ -213,6 +292,14 @@
      "romanized": "Bewuketu Seyoum"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
    "href": "https://chibbo.app/work/wk_kjj3kzn1",
    "id": "wk_kjj3kzn1",
    "language": "am",
@@ -223,7 +310,8 @@
     "script": "Ethi",
     "text": "ከአሜን ባሻገር"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2015
   },
   {
    "credits": [
@@ -312,6 +400,40 @@
     "romanized": "KeAmen Bashager",
     "script": "Ethi",
     "text": "ከአሜን ባሻገር"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ybsa0a0q.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ybsa0a0q.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ybsa0a0q",
+   "id": "wk_ybsa0a0q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemaleda debab",
+    "script": "Ethi",
+    "text": "የማለዳ ድባብ"
    },
    "type": "work",
    "year": 2016

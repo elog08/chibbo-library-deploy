@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "kasagahaywat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4na0pq1n",
+ "id": "pe_4na0pq1n",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kasa ge/heywet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሳ ገ/ህይወት"
+  },
+  "romanized": "kasa ge/heywet",
+  "sort_key": "ካሳገህይወት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ወንጀል_እና_ቅጣት_ፊዮደር_ደስቶየቭስኪ_ተርጓሚዎች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f43f2c9683aa1ec283391bc128f31e84d9694de444a2665e9d80379b37e63cb2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2009gmpc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2009gmpc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_92ngczex",
+     "name": "ፊዮደር ደስቶየቭስኪ",
+     "role": "author",
+     "romanized": "fiyoder destoyeveski"
+    },
+    {
+     "id": "pe_4na0pq1n",
+     "name": "ካሳ ገ/ህይወት",
+     "role": "author",
+     "romanized": "kasa ge/heywet"
+    },
+    {
+     "id": "pe_e04687rx",
+     "name": "ፋንቱ ሳህሌ",
+     "role": "author",
+     "romanized": "fantu sahle"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2004-09-11/2005-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_2009gmpc",
+   "id": "wk_2009gmpc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wenjelna qetat",
+    "script": "Ethi",
+    "text": "ወንጀልና ቅጣት"
+   },
+   "type": "work",
+   "year": 2004
+  }
+ ]
+}

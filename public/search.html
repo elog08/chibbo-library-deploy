@@ -97,6 +97,7 @@ border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
 .entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
 dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
 </style>
+<script>const S = {"close_spellings": "close spellings", "no_matches": "No matches. Try <a href=\"browse.html\">browsing by title</a>."};</script>
 <script>
 // The same folding the index was built with, plus one search-only step: q -> k.
 // romanize() writes ቀ as "q" while popular romanization writes "k", so
@@ -152,12 +153,12 @@ const run = () => {
     const seen = new Set(hits.map(r => r[1]));
     const fuzzy = rows.filter(r => !seen.has(r[1]) &&
       (near(key, r[6].slice(0, key.length + 2), 2) || near(key, r[7].slice(0, key.length + 2), 2)));
-    if (fuzzy.length) { note = 'close spellings'; hits = hits.concat(fuzzy); }
+    if (fuzzy.length) { note = S.close_spellings; hits = hits.concat(fuzzy); }
   }
   hits = hits.slice(0, 60);
   render(out, hits, hits.length ? note : '');
-  if (!hits.length) out.innerHTML = '<li style="color:var(--muted)">No matches. Try ' +
-    '<a href="browse.html">browsing by title</a>.</li>';
+  if (!hits.length) out.innerHTML =
+    '<li style="color:var(--muted)">' + S.no_matches + '</li>';
 };
 document.getElementById('q').addEventListener('input', run);
 </script></head>
@@ -180,10 +181,9 @@ document.getElementById('q').addEventListener('input', run);
    autocomplete="off"></p>
 <p class="eyebrow" id="hint">Loading search…</p>
 <ul id="results"></ul>
-<noscript><p>Search needs JavaScript. The <a href="browse.html">letter indexes</a>
-cover the same ground without it.</p></noscript>
+<noscript><p>Search needs JavaScript. The <a href="browse.html">letter indexes</a> cover the same ground without it.</p></noscript>
 <footer>
-  <span>964 books · 605 authors and poets</span>
+  <span>1608 books · 1267 authors and poets</span>
   <span>Amharic titles with romanized search</span>
 </footer>
 </div></body></html>

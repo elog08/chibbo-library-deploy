@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "asubalawamara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d1zvqxkf",
+ "id": "pe_d1zvqxkf",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "esubalew amare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እሱባለው አማረ"
+  },
+  "romanized": "esubalew amare",
+  "sort_key": "እሱባለውአማረ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዘርዐ ስተር ይትናግር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "01803896ec071932692e149189a703c028f5c4ac7fba89b57f6b23f07427ff42",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b7qjmjkf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b7qjmjkf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xq4cfn7n",
+     "name": "FRIEDRICH NIETZSCHE",
+     "role": "author",
+     "romanized": "FRIEDRICH NIETZSCHE"
+    },
+    {
+     "id": "pe_d1zvqxkf",
+     "name": "እሱባለው አማረ",
+     "role": "author",
+     "romanized": "esubalew amare"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_b7qjmjkf",
+   "id": "wk_b7qjmjkf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zera seter yetnager",
+    "script": "Ethi",
+    "text": "ዘርዐ ስተር ይትናግር"
+   },
+   "type": "work"
+  }
+ ]
+}

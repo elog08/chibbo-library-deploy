@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "zanabawala",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_rcct9y4q",
  "id": "pe_rcct9y4q",
  "identifiers": {},
@@ -43,7 +45,13 @@
   "sort_key": "ዘነበወላ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ልጅነት ዘነበ ወላ Zenebe Wola  2000ዓ.ም.pdf",
+  "Read from the title page of መልህቅ - ዘነበ ወላ.pdf",
+  "Read from the title page of መልህቅ በዘነበ ወላ.pdf",
+  "Read from the title page of ማስታወሻ ዘነበ ወላ.pdf.pdf",
+  "Read from the title page of ማስታወሻ.pdf"
+ ],
  "portrait": {
   "bytes": 10062,
   "path": "assets/portraits/pe_rcct9y4q.webp",
@@ -72,8 +80,14 @@
      "romanized": "Zenebe Wela"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5j6t4gpc",
    "id": "wk_5j6t4gpc",
@@ -85,7 +99,8 @@
     "script": "Ethi",
     "text": "ማስታወሻ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2013
   },
   {
    "cover": {
@@ -108,7 +123,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_6k4qchtk",
    "id": "wk_6k4qchtk",
@@ -161,6 +177,46 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_9gm2cjwe.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9gm2cjwe.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz78y5xr",
+     "name": "ስብሀት ገብረእግዚአብሄር",
+     "role": "author",
+     "romanized": "sebhet gebreegziabher"
+    },
+    {
+     "id": "pe_rcct9y4q",
+     "name": "ዘነበ ወላ",
+     "role": "author",
+     "romanized": "Zenebe Wela"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_9gm2cjwe",
+   "id": "wk_9gm2cjwe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mastawesha",
+    "script": "Ethi",
+    "text": "ማስታወሻ"
+   },
+   "type": "work",
+   "year": 2008
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_x11n3naw.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%88%8D%E1%8C%85%E1%8A%90%E1%89%B5.jpg"
    },
@@ -172,8 +228,14 @@
      "romanized": "Zenebe Wela"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_x11n3naw",
    "id": "wk_x11n3naw",
@@ -185,7 +247,8 @@
     "script": "Ethi",
     "text": "ልጅነት"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2007
   },
   {
    "cover": {

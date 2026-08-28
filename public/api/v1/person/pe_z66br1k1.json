@@ -1,0 +1,101 @@
+{
+ "extensions": {},
+ "fingerprint": "lawrayumayalroy",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_z66br1k1",
+ "id": "pe_z66br1k1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "lawreyu mayelroy",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ላውሬዩ ማይልሮይ"
+  },
+  "romanized": "lawreyu mayelroy",
+  "sort_key": "ላውሬዩማይልሮይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሳዳም ሁሴንና የባህረ ሰላጤው ቀውስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ae03528617ec25479c189fb5ab2e205c08e62a78b3388e7b8acaa5fe8be62b45",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_81qfe6hs.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_81qfe6hs.png"
+   },
+   "credits": [
+    {
+     "id": "pe_n2nvgkts",
+     "name": "ጁዲት ሚለር",
+     "role": "author",
+     "romanized": "judit miler"
+    },
+    {
+     "id": "pe_z66br1k1",
+     "name": "ላውሬዩ ማይልሮይ",
+     "role": "author",
+     "romanized": "lawreyu mayelroy"
+    },
+    {
+     "id": "pe_eyxzbcsn",
+     "name": "ጸጋዬ ኃይሉ ተፈራ",
+     "role": "author",
+     "romanized": "tsegaye haylu tefera"
+    },
+    {
+     "id": "pe_pxjnk30m",
+     "name": "ጌታሁን አበበ ወልደ ሚካኤል",
+     "role": "author",
+     "romanized": "getahun abebe welde mikael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_81qfe6hs",
+   "id": "wk_81qfe6hs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sadam husen ena yebahre selatew qewes",
+    "script": "Ethi",
+    "text": "ሣዳም ሑሴን እና የባሕረ ሰላጤው ቀውስ"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

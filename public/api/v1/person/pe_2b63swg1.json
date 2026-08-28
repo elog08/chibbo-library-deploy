@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitwanadamagany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2b63swg1",
+ "id": "pe_2b63swg1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit wenedemageny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት ወንድምአገኝ"
+  },
+  "romanized": "dawit wenedemageny",
+  "sort_key": "ዳዊትወንድምአገኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አለማወቅ @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "166d4c1615c70a9cbb8af199f8a578ad3de9bf3bbeeaef82890ac3d5df748276",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ffef5c8n.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ffef5c8n.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2b63swg1",
+     "name": "ዳዊት ወንድምአገኝ",
+     "role": "author",
+     "romanized": "dawit wenedemageny"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ffef5c8n",
+   "id": "wk_ffef5c8n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alemaweq",
+    "script": "Ethi",
+    "text": "አለማወቅ"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

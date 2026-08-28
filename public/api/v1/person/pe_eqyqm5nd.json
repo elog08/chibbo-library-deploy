@@ -1,0 +1,161 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagayagabramadahan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_eqyqm5nd",
+ "id": "pe_eqyqm5nd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tsegaye gebre medehen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጸጋዬ ገብረ መድኅን"
+  },
+  "romanized": "tsegaye gebre medehen",
+  "sort_key": "ጸጋዬገብረመድህን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of abeba-1.pdf",
+  "Read from the title page of ሀምሌት - ዊልያም ሼክስፒር.pdf",
+  "Read from the title page of ማክቤዝ - ዊልያም ሼክስፒር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "eb3a541fc84285cdcf1f38c391ecce4719c2258fb5cb883c713186c94a49025e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2xm0hb32.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2xm0hb32.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3y0yebve",
+     "name": "ዊሊያም ሼክስፒር",
+     "role": "author",
+     "romanized": "wiliyam shekespir"
+    },
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1971-09-12/1972-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2xm0hb32",
+   "id": "wk_2xm0hb32",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hemlet",
+    "script": "Ethi",
+    "text": "ኀምሌት"
+   },
+   "type": "work",
+   "year": 1971
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jke3abjg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jke3abjg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3y0yebve",
+     "name": "ዊሊያም ሼክስፒር",
+     "role": "author",
+     "romanized": "wiliyam shekespir"
+    },
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1971-09-12/1972-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jke3abjg",
+   "id": "wk_jke3abjg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "MACBETH",
+    "script": "Ethi",
+    "text": "ማክቤዝ"
+   },
+   "type": "work",
+   "year": 1971
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jkwbag59.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jkwbag59.png"
+   },
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jkwbag59",
+   "id": "wk_jkwbag59",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "esat wey abeba",
+    "script": "Ethi",
+    "text": "እሳት ወይ አበባ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

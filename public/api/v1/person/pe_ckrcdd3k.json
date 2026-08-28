@@ -1,0 +1,144 @@
+{
+ "extensions": {},
+ "fingerprint": "sayumtadasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ckrcdd3k",
+ "id": "pe_ckrcdd3k",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "seyum tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰዩም ታደሰ"
+  },
+  "romanized": "seyum tadese",
+  "sort_key": "ሰዩምታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትንግርት - ጀምስ ሀድሌይ.pdf",
+  "Read from the title page of ቹቹ በጎዳና ክፍል2.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b4ac773f3b4f8dba699b21e98f128dc34378d86fe0b73dcca277ae1b7803d7e8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_33kyezh8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_33kyezh8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z95pmgrq",
+     "name": "ዳንኤል ነጋሽ",
+     "role": "author",
+     "romanized": "danel negash"
+    },
+    {
+     "id": "pe_ckrcdd3k",
+     "name": "ሰዩም ታደሰ",
+     "role": "author",
+     "romanized": "seyum tadese"
+    },
+    {
+     "id": "pe_7rast4x7",
+     "name": "መስፍን ሀብተማርያም",
+     "role": "author",
+     "romanized": "mesefen hebtemaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_33kyezh8",
+   "id": "wk_33kyezh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "chuchu begwedana",
+    "script": "Ethi",
+    "text": "ቹቹ በጐዳና"
+   },
+   "type": "work",
+   "year": 1992
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_3ap6b7c0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3ap6b7c0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ratvdsrt",
+     "name": "ጄምስ ሀድሌይ ቼዝ",
+     "role": "author",
+     "romanized": "jemes hedley chez"
+    },
+    {
+     "id": "pe_9mwxamj5",
+     "name": "ደምሴ ፅጌ",
+     "role": "author",
+     "romanized": "demse tsege"
+    },
+    {
+     "id": "pe_ckrcdd3k",
+     "name": "ሰዩም ታደሰ",
+     "role": "author",
+     "romanized": "seyum tadese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3ap6b7c0",
+   "id": "wk_3ap6b7c0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tenegeret",
+    "script": "Ethi",
+    "text": "ትንግርት"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

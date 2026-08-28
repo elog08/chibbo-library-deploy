@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "dawitdarimas",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_12cb4vdj",
  "id": "pe_12cb4vdj",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ዳዊትድሪምስ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ትልቅ ሕልም አለኝ @ETHIO_PDF_BOOKS.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -46,6 +50,18 @@
      "name": "ዳዊት ድሪምስ",
      "role": "author",
      "romanized": "Dawit Dreams"
+    },
+    {
+     "id": "pe_yk52s8dg",
+     "name": "ሰሎሞን አልማረ",
+     "role": "author",
+     "romanized": "selomon almare"
+    },
+    {
+     "id": "pe_j45etz2f",
+     "name": "ጥላሁን አዱኛ",
+     "role": "author",
+     "romanized": "telahun adunya"
     }
    ],
    "date": {
@@ -56,7 +72,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_c458y6ds",
    "id": "wk_c458y6ds",

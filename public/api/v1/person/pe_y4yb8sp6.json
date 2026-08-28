@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "aframsayum",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_y4yb8sp6",
  "id": "pe_y4yb8sp6",
  "identifiers": {
@@ -53,7 +55,10 @@
   "sort_key": "ኤፍሬምስዩም"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ኑ!_ግርግዳ_እናፍርስ_ኤፍሬም_ስዩም.pdf",
+  "Read from the title page of ፍቅር_እዚህ_ቦታ_ፈገግ_ብሎ_ነበር_ኤፍሬም_ስዩም_.pdf"
+ ],
  "portrait": {
   "bytes": 101137,
   "path": "assets/portraits/pe_y4yb8sp6.png",
@@ -129,7 +134,8 @@
    },
    "flags": [
     "format-ebook",
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_bh5zp6ct",
    "id": "wk_bh5zp6ct",
@@ -144,6 +150,34 @@
    },
    "type": "work",
    "year": 2004
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_emnj3m96.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_emnj3m96.png"
+   },
+   "credits": [
+    {
+     "id": "pe_y4yb8sp6",
+     "name": "ኤፍሬም ስዩም",
+     "role": "author",
+     "romanized": "efrem seyum"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_emnj3m96",
+   "id": "wk_emnj3m96",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "nu - geregda enaferes",
+    "script": "Ethi",
+    "text": "ኑ - ግርግዳ እናፍርስ"
+   },
+   "type": "work"
   },
   {
    "cover": {

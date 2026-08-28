@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "doradasalawkasahun",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_80fyzn3s",
+ "id": "pe_80fyzn3s",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re desalew kasahun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ደሳለው ካሣሁን"
+  },
+  "romanized": "do/re desalew kasahun",
+  "sort_key": "ዶርደሳለውካሳሁን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኮሮናው መብረቅ- ዶር አቡሽ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1c5cc38d644b5bb39c62d0120c0aeae3cbcf7272219b59858e5c318b744d5f7a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0gadht5t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0gadht5t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    },
+    {
+     "id": "pe_hbb1r72q",
+     "name": "ዶ/ር ቃልኪዳን ቅጣው",
+     "role": "author",
+     "romanized": "do/re qalkidan qetaw"
+    },
+    {
+     "id": "pe_bs4v7dzb",
+     "name": "ዮሴፍ ጥሩነህ",
+     "role": "author",
+     "romanized": "yosef teruneh"
+    },
+    {
+     "id": "pe_80fyzn3s",
+     "name": "ዶ/ር ደሳለው ካሣሁን",
+     "role": "author",
+     "romanized": "do/re desalew kasahun"
+    },
+    {
+     "id": "pe_8ntffwxz",
+     "name": "ዶ/ር አብርሃም ክብረት",
+     "role": "author",
+     "romanized": "do/re aberham kebret"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_0gadht5t",
+   "id": "wk_0gadht5t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yekoronaw mebreq",
+    "script": "Ethi",
+    "text": "የኮሮናው መብረቅ"
+   },
+   "type": "work"
+  }
+ ]
+}

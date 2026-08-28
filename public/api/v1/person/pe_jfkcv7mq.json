@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "mahamadsalman",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jfkcv7mq",
+ "id": "pe_jfkcv7mq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mehemed selman",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መሐመድ ሰልማን"
+  },
+  "romanized": "mehemed selman",
+  "sort_key": "መሀመድሰልማን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፒያሳ_መሀሙድ_ጋር_ጠብቂኝ_–_መሀመድ_ሰልማን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9d1d19f3bcf9addd41a2c6a87cd4776d3023b816b8c370311a51521dd7a6f512",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jkhtm0yt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jkhtm0yt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jfkcv7mq",
+     "name": "መሐመድ ሰልማን",
+     "role": "author",
+     "romanized": "mehemed selman"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_jkhtm0yt",
+   "id": "wk_jkhtm0yt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "piyasa mahmud ga tebqiny!",
+    "script": "Ethi",
+    "text": "ፒያሳ ማሕሙድ ጋ ጠብቂኝ!"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

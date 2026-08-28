@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "barhanubalachaw",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_vggxg34r",
  "id": "pe_vggxg34r",
  "identifiers": {},
@@ -27,7 +29,11 @@
   "sort_key": "ብርሀኑበላቸው"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ታላቁ ሐይል.pdf",
+  "Read from the title page of እውነት+ እምነትና ሕይወት @ETHIO_PDF_BOOKS.pdf",
+  "Read from the title page of የሀብት መንገድ - ብርሀኑ በላቸው .pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +69,126 @@
     "text": "ታላቁ ኃይል"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_3f69z0vy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3f69z0vy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jbpxvc3g",
+     "name": "Rhonda Byrne",
+     "role": "author",
+     "romanized": "Rhonda Byrne"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3f69z0vy",
+   "id": "wk_3f69z0vy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "talaqu hayel",
+    "script": "Ethi",
+    "text": "ታላቁ ኃይል"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_94jzdkq8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_94jzdkq8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_94jzdkq8",
+   "id": "wk_94jzdkq8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ewnet emnetna heywet",
+    "script": "Ethi",
+    "text": "እውነት እምነትና ሕይወት"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ew3tywqj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ew3tywqj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0ftac5cp",
+     "name": "ሮበርት ኪዮሳኪ",
+     "role": "author",
+     "romanized": "roberet kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ew3tywqj",
+   "id": "wk_ew3tywqj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rich Dad Poor Dad",
+    "script": "Ethi",
+    "text": "የሀብት መንገድ"
+   },
+   "type": "work",
+   "year": 2015
   },
   {
    "cover": {

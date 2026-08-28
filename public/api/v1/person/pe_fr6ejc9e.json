@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "alaqataya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fr6ejc9e",
+ "id": "pe_fr6ejc9e",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "ALEQA TAJE",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አለቃ ታዬ"
+  },
+  "romanized": "ALEQA TAJE",
+  "sort_key": "አለቃታዬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያ ህዝብ ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5dbae8fa1ccd3f2400ced3a2de4cfc670addc102aa2d8a8059f22da8ec40538c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8xn2m61k.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8xn2m61k.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fr6ejc9e",
+     "name": "አለቃ ታዬ",
+     "role": "author",
+     "romanized": "ALEQA TAJE"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1922?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8xn2m61k",
+   "id": "wk_8xn2m61k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya hezeb tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሕዝብ ታሪክ"
+   },
+   "type": "work",
+   "year": 1922
+  }
+ ]
+}

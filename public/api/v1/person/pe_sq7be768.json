@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "faluyalam",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_sq7be768",
  "id": "pe_sq7be768",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "ፍሉይአለም"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ተአምረኛው - አእምሮህ .pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -70,6 +74,46 @@
    },
    "type": "work",
    "year": 2014
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_eqarc10g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_eqarc10g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3b4vm8bp",
+     "name": "ጆ ዲስፔንዛ",
+     "role": "author",
+     "romanized": "Joe Dispenza"
+    },
+    {
+     "id": "pe_sq7be768",
+     "name": "ፍሉይ ዓለም",
+     "role": "author",
+     "romanized": "Feluy Alem"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_eqarc10g",
+   "id": "wk_eqarc10g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teamrenyaw aemroh",
+    "script": "Ethi",
+    "text": "ተአምረኛው አእምሮህ"
+   },
+   "type": "work",
+   "year": 2021
   }
  ]
 }

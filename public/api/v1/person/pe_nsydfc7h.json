@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "amarafalibishaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nsydfc7h",
+ "id": "pe_nsydfc7h",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Amare Afelae Bishaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አማረ አፈሊ ቢሻው"
+  },
+  "romanized": "Amare Afelae Bishaw",
+  "sort_key": "አማረአፈሊቢሻው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቴዎድሮስ ለኢትዮጵያ- 1.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "5aa8170a6755cfbda55092e603ccfd562ccd616378c14ba0f5ac15e7d4ac5360",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b8f4mtc3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b8f4mtc3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_nsydfc7h",
+     "name": "አማረ አፈሊ ቢሻው",
+     "role": "author",
+     "romanized": "Amare Afelae Bishaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b8f4mtc3",
+   "id": "wk_b8f4mtc3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ate tewodros leityopya tenanetem zarem negem!",
+    "script": "Ethi",
+    "text": "አጤ ቴዎድሮስ ለኢትዮጵያ ትናንትም ዛሬም ነገም!"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

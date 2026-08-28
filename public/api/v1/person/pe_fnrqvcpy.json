@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "mariyopuzo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fnrqvcpy",
+ "id": "pe_fnrqvcpy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mariyo puzo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማሪዮ ፑዞ"
+  },
+  "romanized": "mariyo puzo",
+  "sort_key": "ማሪዮፑዞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሲሲሊያዊው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b0532920d889dfb7d722674a92c42f62a926f51689325536c838691d51a2a1bd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_myeaxhsv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_myeaxhsv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fnrqvcpy",
+     "name": "ማሪዮ ፑዞ",
+     "role": "author",
+     "romanized": "mariyo puzo"
+    },
+    {
+     "id": "pe_eft1dns7",
+     "name": "ሐሰን አሊ",
+     "role": "author",
+     "romanized": "hesen ali"
+    },
+    {
+     "id": "pe_qb27bcvp",
+     "name": "እሸቱ ጥሩነህ",
+     "role": "author",
+     "romanized": "eshetu teruneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_myeaxhsv",
+   "id": "wk_myeaxhsv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sisiliyawiw",
+    "script": "Ethi",
+    "text": "ሲሲሊያዊው"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

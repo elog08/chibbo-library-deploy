@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "papashinodasalsay",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_mfnxh8js",
+ "id": "pe_mfnxh8js",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "papa shinoda salsay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፓፓ ሺኖዳ ሣልሳይ"
+  },
+  "romanized": "papa shinoda salsay",
+  "sort_key": "ፓፓሺኖዳሳልሳይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሕይወት መንገድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "94a888fc07d53447cf290c072143a4eacaeeb3f736f14d1f2a44c7fabfa49091",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0m63wyqa.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0m63wyqa.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mfnxh8js",
+     "name": "ፓፓ ሺኖዳ ሣልሳይ",
+     "role": "author",
+     "romanized": "papa shinoda salsay"
+    },
+    {
+     "id": "pe_paxt6t2h",
+     "name": "ሰሎሞን በቀለ",
+     "role": "author",
+     "romanized": "selomon beqele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2001-09-11/2002-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_0m63wyqa",
+   "id": "wk_0m63wyqa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeheywet menged",
+    "script": "Ethi",
+    "text": "የሕይወት መንገድ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

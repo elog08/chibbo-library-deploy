@@ -1,0 +1,112 @@
+{
+ "extensions": {},
+ "fingerprint": "wanadwasanayala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6v7p6y3y",
+ "id": "pe_6v7p6y3y",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wenedwesen ayele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወንድወሰን አየለ"
+  },
+  "romanized": "wenedwesen ayele",
+  "sort_key": "ወንድወሰንአየለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቀላሉን ነገር አታካብድ @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e6299c25b06c41cf49ebbcd65a5e3536dc02d585f59cab8f41313adc87413fb7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_4p9zy255.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4p9zy255.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sqwp19pw",
+     "name": "ዶ/ር ሪቻርድ ካርሰን",
+     "role": "author",
+     "romanized": "do/re richared karsen"
+    },
+    {
+     "id": "pe_9t0afmr1",
+     "name": "ዶ/ር ዮናስ ላቀው",
+     "role": "author",
+     "romanized": "Dr Yonas Lakew"
+    },
+    {
+     "id": "pe_6v7p6y3y",
+     "name": "ወንድወሰን አየለ",
+     "role": "author",
+     "romanized": "wenedwesen ayele"
+    },
+    {
+     "id": "pe_sm0pbc2q",
+     "name": "ብዙነሽ ክፍሌ",
+     "role": "author",
+     "romanized": "bezunesh kefle"
+    },
+    {
+     "id": "pe_aygcbmdz",
+     "name": "ትግስት አድማሱ",
+     "role": "author",
+     "romanized": "tegeset admasu"
+    },
+    {
+     "id": "pe_axbwyhav",
+     "name": "ያዕቆብ ዓድናለም",
+     "role": "author",
+     "romanized": "yaqob adnalem"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4p9zy255",
+   "id": "wk_4p9zy255",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qelalun neger atakabed!",
+    "script": "Ethi",
+    "text": "ቀላሉን ነገር አታካብድ!"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

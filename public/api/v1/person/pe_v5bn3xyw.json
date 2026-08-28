@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "dorabarayan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_v5bn3xyw",
+ "id": "pe_v5bn3xyw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re berayen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ብራየን"
+  },
+  "romanized": "do/re berayen",
+  "sort_key": "ዶርብራየን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሞታ የተነሳችው ካትሪን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1a00167f4f57f3562c213adcdcffebe16bc13c8ad3de12d23690621b87558cb5",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_140b4ms8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_140b4ms8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_v5bn3xyw",
+     "name": "ዶ/ር ብራየን",
+     "role": "author",
+     "romanized": "do/re berayen"
+    },
+    {
+     "id": "pe_kq46qeg9",
+     "name": "ገ/መድህን ግዛው",
+     "role": "author",
+     "romanized": "ge/medehen gezaw"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_140b4ms8",
+   "id": "wk_140b4ms8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mota yetenesach katrin",
+    "script": "Ethi",
+    "text": "ሞታ የተነሳች ካትሪን"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "jarmanbaraha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qdt82jae",
+ "id": "pe_qdt82jae",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "jermen berehe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጀርመን በረሀ"
+  },
+  "romanized": "jermen berehe",
+  "sort_key": "ጀርመንበረሀ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ንጋት - ሲድኒ ሸልደን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cb042864c0b589e922760a0749338af3efffcfcf767951782d436fa70df6d669",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8kbbktf6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8kbbktf6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_qdt82jae",
+     "name": "ጀርመን በረሀ",
+     "role": "author",
+     "romanized": "jermen berehe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1984?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8kbbktf6",
+   "id": "wk_8kbbktf6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "negat",
+    "script": "Ethi",
+    "text": "ንጋት"
+   },
+   "type": "work",
+   "year": 1984
+  }
+ ]
+}

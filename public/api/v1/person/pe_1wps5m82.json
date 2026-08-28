@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "itayoplinak",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1wps5m82",
+ "id": "pe_1wps5m82",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "i.teyop.li.nek",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኢ.ትዮጵ.ሊ.ንክ"
+  },
+  "romanized": "i.teyop.li.nek",
+  "sort_key": "ኢትዮጵሊንክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፍቅር_ኬሚስትሪ_ከብርሀኔ_ንጉሴ_ኢትዮፒካል_ሊንክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1af36e043597ef1669afeec8f72647fec4383425bca6949ec7b586d4741fbaf2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1bvw7fz9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1bvw7fz9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_b79m0v7w",
+     "name": "ብርሃኔ ንጉሴ",
+     "role": "author",
+     "romanized": "berhane neguse"
+    },
+    {
+     "id": "pe_1wps5m82",
+     "name": "ኢ.ትዮጵ.ሊ.ንክ",
+     "role": "author",
+     "romanized": "i.teyop.li.nek"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1bvw7fz9",
+   "id": "wk_1bvw7fz9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefeqer kemisetri",
+    "script": "Ethi",
+    "text": "የፍቅር ኬሚስትሪ"
+   },
+   "type": "work"
+  }
+ ]
+}

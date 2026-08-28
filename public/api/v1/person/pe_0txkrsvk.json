@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "masfanhabtamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0txkrsvk",
+ "id": "pe_0txkrsvk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesfen habtemaryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፈን ሃብተማርያም"
+  },
+  "romanized": "mesfen habtemaryam",
+  "sort_key": "መስፈንሀብተማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አምስት_ስድስት_ሰባት_እና_ሌሎችም_ታሪኮች_ስብሐት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d1941b6bb78bbd0ee157edd76dd355de3d638d697734da7158168dcfd82e0395",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n7rbqc04.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n7rbqc04.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tz78y5xr",
+     "name": "ስብሀት ገብረእግዚአብሄር",
+     "role": "author",
+     "romanized": "sebhet gebreegziabher"
+    },
+    {
+     "id": "pe_0txkrsvk",
+     "name": "መስፈን ሃብተማርያም",
+     "role": "author",
+     "romanized": "mesfen habtemaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n7rbqc04",
+   "id": "wk_n7rbqc04",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ameset sedeset sebat ena lelochem tarikoch",
+    "script": "Ethi",
+    "text": "አምስት ስድስት ሰባት እና ሌሎችም ታሪኮች"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

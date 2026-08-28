@@ -6,7 +6,9 @@
  },
  "extensions": {},
  "fingerprint": "alamayahugalagay",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_qzah44c2",
  "id": "pe_qzah44c2",
  "identifiers": {},
@@ -64,7 +66,13 @@
   "sort_key": "አለማየሁገላጋይ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መለያየት ሞት ነው - አለማየሁ ገላጋይ.pdf",
+  "Read from the title page of መለያየት ሞት ነው @ETHIO_PDF_BOOKS.pdf",
+  "Read from the title page of ታለ በእውነት ስም - ዓለማየሁ ገላጋይ.pdf",
+  "Read from the title page of አጥቢያ አለማየሁ ገላጋይ.pdf",
+  "Read from the title page of ወሪሳ - አለማየሁ ገላጋይ.pdf"
+ ],
  "portrait": {
   "bytes": 174701,
   "path": "assets/portraits/pe_qzah44c2.png",
@@ -79,6 +87,40 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5pw44f44.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5pw44f44.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qzah44c2",
+     "name": "አለማየሁ ገላጋይ",
+     "role": "author",
+     "romanized": "Alemayehu Gelagay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5pw44f44",
+   "id": "wk_5pw44f44",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meleyayet mot new",
+    "script": "Ethi",
+    "text": "መለያየት ሞት ነው"
+   },
+   "type": "work",
+   "year": 2018
+  },
   {
    "cover": {
     "path": "assets/covers/wk_5ycq6445.jpg",
@@ -146,6 +188,40 @@
    },
    "type": "work",
    "year": 2026
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_d1tfptj7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_d1tfptj7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qzah44c2",
+     "name": "አለማየሁ ገላጋይ",
+     "role": "author",
+     "romanized": "Alemayehu Gelagay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_d1tfptj7",
+   "id": "wk_d1tfptj7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "werisa (yewedeqet felegoch)",
+    "script": "Ethi",
+    "text": "ወሪሳ (የውድቅት ፈለጎች)"
+   },
+   "type": "work",
+   "year": 2016
   },
   {
    "cover": {
@@ -434,6 +510,10 @@
    "year": 2015
   },
   {
+   "cover": {
+    "path": "assets/covers/wk_w2s8fcfj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w2s8fcfj.png"
+   },
    "credits": [
     {
      "id": "pe_qzah44c2",
@@ -441,6 +521,15 @@
      "role": "author",
      "romanized": "Alemayehu Gelagay"
     }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "language-unmapped"
    ],
    "href": "https://chibbo.app/work/wk_w2s8fcfj",
    "id": "wk_w2s8fcfj",
@@ -452,7 +541,8 @@
     "script": "Ethi",
     "text": "አጥቢያ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2014
   },
   {
    "cover": {
@@ -512,6 +602,40 @@
    },
    "type": "work",
    "year": 2023
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xpb5gpw2.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xpb5gpw2.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qzah44c2",
+     "name": "አለማየሁ ገላጋይ",
+     "role": "author",
+     "romanized": "Alemayehu Gelagay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xpb5gpw2",
+   "id": "wk_xpb5gpw2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tale beewnet sem",
+    "script": "Ethi",
+    "text": "ታለ በዕውነት ስም"
+   },
+   "type": "work",
+   "year": 2018
   },
   {
    "cover": {

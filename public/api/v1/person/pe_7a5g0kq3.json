@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "qadoramakrasalasagabramanual",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7a5g0kq3",
+ "id": "pe_7a5g0kq3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Mikre-Sellassie G. A.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቀ/ዶ/ር ምክረ ሥላሴ ገብረ አማኑኤል"
+  },
+  "romanized": "Mikre-Sellassie G. A.",
+  "sort_key": "ቀዶርምክረስላሴገብረአማኑኤል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በኢትዮጵያ_የመጀመርያው_የመፅሀፍ_ቅዱስ_ትርጉም_በግዕዝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bdc1b2a7a8935dc2a238ac151adf9ecceb713da9aa40f60f503b097019c6f002",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tjk31by8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tjk31by8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7a5g0kq3",
+     "name": "ቀ/ዶ/ር ምክረ ሥላሴ ገብረ አማኑኤል",
+     "role": "author",
+     "romanized": "Mikre-Sellassie G. A."
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_tjk31by8",
+   "id": "wk_tjk31by8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beityopya yemejemeryaw yemetshef qedus tergum begeez qwanqwa",
+    "script": "Ethi",
+    "text": "በኢትዮጵያ የመጀመርያው የመጽሐፍ ቅዱስ ትርጉም በግእዝ ቋንቋ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

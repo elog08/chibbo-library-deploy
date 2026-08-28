@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "dastataklawaladzabharawagda",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7kyzqkq3",
+ "id": "pe_7kyzqkq3",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "desta tekle weled zebhere wegda",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደስታ ተክለ ወልድ ዘብሔረ ወግዳ"
+  },
+  "romanized": "desta tekle weled zebhere wegda",
+  "sort_key": "ደስታተክለወልድዘብሄረወግዳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ገበታ ዋሪያ የንባብ መማርያ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1fc0e1739a84378e2dba812ff24be17871832ddb06353b07eecda90c4a0fc115",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n4mbfb7y.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n4mbfb7y.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7kyzqkq3",
+     "name": "ደስታ ተክለ ወልድ ዘብሔረ ወግዳ",
+     "role": "author",
+     "romanized": "desta tekle weled zebhere wegda"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1935?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n4mbfb7y",
+   "id": "wk_n4mbfb7y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gebeta wariya yenbab memarya",
+    "script": "Ethi",
+    "text": "ገበታ ዋሪያ የንባብ መማርያ"
+   },
+   "type": "work",
+   "year": 1935
+  }
+ ]
+}

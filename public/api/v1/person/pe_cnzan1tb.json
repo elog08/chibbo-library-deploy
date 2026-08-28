@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "danalasatil",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cnzan1tb",
+ "id": "pe_cnzan1tb",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danela setil",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤላ ስቲል"
+  },
+  "romanized": "danela setil",
+  "sort_key": "ዳንኤላስቲል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ብርቅርቅታ ዳኔላ ስቲል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0aab2741b6bf6df59c83cdc005eb0336e7908020103bf80739ec092c7f4076ef",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cse2rtte.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cse2rtte.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cnzan1tb",
+     "name": "ዳንኤላ ስቲል",
+     "role": "author",
+     "romanized": "danela setil"
+    },
+    {
+     "id": "pe_9nxzww50",
+     "name": "ዓቢይ ደምሴ",
+     "role": "author",
+     "romanized": "abiy demse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cse2rtte",
+   "id": "wk_cse2rtte",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bereqereqta",
+    "script": "Ethi",
+    "text": "ብርቅርቅታ"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

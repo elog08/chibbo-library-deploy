@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "talahuntasaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qkg1bj3c",
+ "id": "pe_qkg1bj3c",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "telahun tasew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጥላሁን ጣሰው"
+  },
+  "romanized": "telahun tasew",
+  "sort_key": "ጥላሁንጣሰው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የመጭው ዘመን ቴክኖሎጂና ኑሮ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c0b3672f61299ed5e4986b79e4444e86137484e6ada66cf3593cc4b45ff5eb6e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xgp7k8fn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xgp7k8fn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qkg1bj3c",
+     "name": "ጥላሁን ጣሰው",
+     "role": "author",
+     "romanized": "telahun tasew"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2015",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xgp7k8fn",
+   "id": "wk_xgp7k8fn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemechew zemen teknolojina nuro",
+    "script": "Ethi",
+    "text": "የመጭው ዘመን ቴክኖሎጂና ኑሮ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

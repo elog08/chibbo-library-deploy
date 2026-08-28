@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "doktarodastadasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4h2m93p4",
+ "id": "pe_4h2m93p4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dokter rodas tadese",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶክተር ሮዳስ ታደሰ"
+  },
+  "romanized": "dokter rodas tadese",
+  "sort_key": "ዶክተርሮዳስታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of andromeda 2.pdf",
+  "Read from the title page of andromeda 3.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a3f245126cb51050d240cb4a7d3a647e2783d3d4adde309c51348f45052a7d78",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1sqecwdg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1sqecwdg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4h2m93p4",
+     "name": "ዶክተር ሮዳስ ታደሰ",
+     "role": "author",
+     "romanized": "dokter rodas tadese"
+    },
+    {
+     "id": "pe_q93stjwp",
+     "name": "ዶክተር ጌትነት ፈለቀ",
+     "role": "author",
+     "romanized": "dokter getnet feleqe"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_1sqecwdg",
+   "id": "wk_1sqecwdg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anedromeda",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ"
+   },
+   "type": "work"
+  }
+ ]
+}

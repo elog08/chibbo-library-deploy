@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "kaflabocharshambal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4srgg88r",
+ "id": "pe_4srgg88r",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kefle abocher (shambel)",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ክፍሌ አቦቸር (ሻምበል)"
+  },
+  "romanized": "kefle abocher (shambel)",
+  "sort_key": "ክፍሌአቦቸርሻምበል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንድ ቀን - ክፍሌ አቦቸር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f73020854afc15270e6eaa8cde0c4b97287d98ea515477c5aae02a53cf6d5b25",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bhb8q4cp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bhb8q4cp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4srgg88r",
+     "name": "ክፍሌ አቦቸር (ሻምበል)",
+     "role": "author",
+     "romanized": "kefle abocher (shambel)"
+    },
+    {
+     "id": "pe_g0rj1chd",
+     "name": "አስራት ተሾመ",
+     "role": "author",
+     "romanized": "asrat teshome"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bhb8q4cp",
+   "id": "wk_bhb8q4cp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned qen",
+    "script": "Ethi",
+    "text": "አንድ ቀን"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

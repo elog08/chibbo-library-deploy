@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "warquabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bc9jspwj",
+ "id": "pe_bc9jspwj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "werqu abera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወርቁ አበራ"
+  },
+  "romanized": "werqu abera",
+  "sort_key": "ወርቁአበራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፍርሀትን አትፍራው - ሱዛን ጄፈርስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b0d799b198c3ec65b2e7c43c5b01581b8c9997e63f992e5944fc2eaf8575d3c0",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ba2e50jf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ba2e50jf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jkx6nnej",
+     "name": "ሱዛን ጄፈርስ",
+     "role": "author",
+     "romanized": "suzan jeferes"
+    },
+    {
+     "id": "pe_bc9jspwj",
+     "name": "ወርቁ አበራ",
+     "role": "author",
+     "romanized": "werqu abera"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_ba2e50jf",
+   "id": "wk_ba2e50jf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Feel the Fear And Do It",
+    "script": "Ethi",
+    "text": "ፍርሀትህን አትፍራው"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

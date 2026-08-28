@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "abiyahmad",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_fqtpmy3z",
  "id": "pe_fqtpmy3z",
  "identifiers": {
@@ -51,7 +53,9 @@
   "sort_key": "አቢይአህመድ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መደመር - ዐቢይ አህመድ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -73,8 +77,14 @@
      "romanized": "abiy ahmed"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_dtrxpzvb",
    "id": "wk_dtrxpzvb",
@@ -86,7 +96,8 @@
     "script": "Ethi",
     "text": "መደመር"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2019
   }
  ]
 }

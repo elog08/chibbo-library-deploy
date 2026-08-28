@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "masganawandualamalashara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fqfhrmcw",
+ "id": "pe_fqfhrmcw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Mesganaw Andualem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ምስጋናው አንዱዓለም (መለስ ሐራ)"
+  },
+  "romanized": "Mesganaw Andualem",
+  "sort_key": "ምስጋናውአንዱአለምመለስሀራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ግዮናዊነት_የአማራ_መነሻ_እና_መዳረሻ_ምስጋናው_አንዱዓለም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6e3b27553459f861454a69db7318bd82213a0a6dc7132e1622c1f81458d8c86f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_td5aprfz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_td5aprfz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fqfhrmcw",
+     "name": "ምስጋናው አንዱዓለም (መለስ ሐራ)",
+     "role": "author",
+     "romanized": "Mesganaw Andualem"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_td5aprfz",
+   "id": "wk_td5aprfz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "geyonawinet yeamara menesha ena medaresha",
+    "script": "Ethi",
+    "text": "ግዮናዊነት የአማራ መነሻ እና መዳረሻ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

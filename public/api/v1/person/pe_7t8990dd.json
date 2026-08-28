@@ -1,0 +1,124 @@
+{
+ "extensions": {},
+ "fingerprint": "managastulama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7t8990dd",
+ "id": "pe_7t8990dd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menegestu lema",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መንግሥቱ ለማ"
+  },
+  "romanized": "menegestu lema",
+  "sort_key": "መንግስቱለማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የግጥም ጉባኤ  መንግሥቱ ለማ.pdf",
+  "Read from the title page of ደማሙ ብእረኛ መንግስቱ ለማ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "26b2e75c9d9dc288f2bf89f4d1376ca4d606a674d1a1bc2b7515e9e7d6c67735",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_7jjyzndt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7jjyzndt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    },
+    {
+     "id": "pe_vj6yng8a",
+     "name": "መስፍን አለማየሁ",
+     "role": "author",
+     "romanized": "mesefen alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7jjyzndt",
+   "id": "wk_7jjyzndt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "menegestu lema -demamu berenya- (gele tarik)",
+    "script": "Ethi",
+    "text": "መንግሥቱ ለማ -ደማሙ ብዕረኛ- (ግለ ታሪክ)"
+   },
+   "type": "work",
+   "year": 1988
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_t4mekwzy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t4mekwzy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1966-09-11/1967-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_t4mekwzy",
+   "id": "wk_t4mekwzy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegetem gubae",
+    "script": "Ethi",
+    "text": "የግጥም ጉባኤ"
+   },
+   "type": "work",
+   "year": 1966
+  }
+ ]
+}

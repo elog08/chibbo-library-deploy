@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tadalabasaznawayala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_c45z5he5",
+ "id": "pe_c45z5he5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tadele basaznew ayele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታደለ ባሳዝነው አየለ"
+  },
+  "romanized": "tadele basaznew ayele",
+  "sort_key": "ታደለባሳዝነውአየለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፍቅር በጥንቆል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c804cab03e920dbb72af7a75b0ed95b8cbcbf621f5b8ed6481d8813a0da74e06",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wfmjkxc9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wfmjkxc9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_c45z5he5",
+     "name": "ታደለ ባሳዝነው አየለ",
+     "role": "author",
+     "romanized": "tadele basaznew ayele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_wfmjkxc9",
+   "id": "wk_wfmjkxc9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "feqer betenqola beaned weqet beityopya",
+    "script": "Ethi",
+    "text": "ፍቅር በጥንቆላ በአንድ ወቅት በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

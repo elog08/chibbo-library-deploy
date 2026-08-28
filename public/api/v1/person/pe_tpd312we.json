@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "bakafahaylayasus",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tpd312we",
+ "id": "pe_tpd312we",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bekafa hayle yesus",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በካፋ ኃይለ የሱስ"
+  },
+  "romanized": "bekafa hayle yesus",
+  "sort_key": "በካፋሀይለየሱስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ልጅነት - ማክሲም ጎርኪይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e1c69086a0e2f97879a2298e2ce1870e7443327a9e42b1c3bab3a294a23ee9a3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sfht94rj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sfht94rj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_yxh7e4xs",
+     "name": "ማክሲም ጐርኪይ",
+     "role": "author",
+     "romanized": "maksim gwerkiy"
+    },
+    {
+     "id": "pe_tpd312we",
+     "name": "በካፋ ኃይለ የሱስ",
+     "role": "author",
+     "romanized": "bekafa hayle yesus"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sfht94rj",
+   "id": "wk_sfht94rj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "lejnet",
+    "script": "Ethi",
+    "text": "ልጅነት"
+   },
+   "type": "work"
+  }
+ ]
+}

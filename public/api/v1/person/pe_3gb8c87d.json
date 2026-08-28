@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "asagadmakonan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3gb8c87d",
+ "id": "pe_3gb8c87d",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aseged mekonen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አሰግድ መኮንን"
+  },
+  "romanized": "aseged mekonen",
+  "sort_key": "አሰግድመኮንን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ነፀብራቅ ከ አሰግድ መኮንን 2002 ዓ.ም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "23daed4ee27d930848f9de31819a7d1f72e44bb01a1e91de2e67de5e2b0be0cd",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e6cy0wwk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e6cy0wwk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3gb8c87d",
+     "name": "አሰግድ መኮንን",
+     "role": "author",
+     "romanized": "aseged mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_e6cy0wwk",
+   "id": "wk_e6cy0wwk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "netsebraq",
+    "script": "Ethi",
+    "text": "ነፀብራቅ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

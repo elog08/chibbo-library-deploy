@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "ababayahuwarqu",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_sfyc3yj3",
  "id": "pe_sfyc3yj3",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "አበባየሁወርቁ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of እንግሊዝኛ_አማርኛ_መዝገበ_ቃላት_አበባየሁ_ወርቁ_1993.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +67,44 @@
     "text": "የስኬት በሮች"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_73x0r5my.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_73x0r5my.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sfyc3yj3",
+     "name": "አበባየሁ ወርቁ",
+     "role": "author",
+     "romanized": "abebayehu werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_73x0r5my",
+   "id": "wk_73x0r5my",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "enegliznya - amarnya mezgebe qalat",
+    "script": "Ethi",
+    "text": "እንግሊዝኛ - አማርኛ መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 1993
   }
  ]
 }

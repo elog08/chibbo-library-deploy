@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "balambarasmahtamasalasawama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wvj61gs4",
+ "id": "pe_wvj61gs4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "balambaras mahteme selase we me",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባላምባራስ ማኅተመ ሥላሴ ወ መ"
+  },
+  "romanized": "balambaras mahteme selase we me",
+  "sort_key": "ባላምባራስማህተመስላሴወመ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እንቅልፍ ለምኔ 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d53cf124f38c2e2c6d8b1b1746429e2d30b3c2d32f9173398edacdda1aafd41d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ts0rj0pe.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ts0rj0pe.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wvj61gs4",
+     "name": "ባላምባራስ ማኅተመ ሥላሴ ወ መ",
+     "role": "author",
+     "romanized": "balambaras mahteme selase we me"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ts0rj0pe",
+   "id": "wk_ts0rj0pe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eneqelef lemne",
+    "script": "Ethi",
+    "text": "እንቅልፍ ለምኔ"
+   },
+   "type": "work",
+   "year": 1965
+  }
+ ]
+}

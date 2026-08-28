@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "balatasamara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zw0ryyfh",
+ "id": "pe_zw0ryyfh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beletas amare",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በለታስ አማረ"
+  },
+  "romanized": "beletas amare",
+  "sort_key": "በለታስአማረ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዶጮ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dd483b52f0843614b25db9010110bc28934bdbfce07a308dae23d8011e9ad549",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_388f9w6a.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_388f9w6a.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zw0ryyfh",
+     "name": "በለታስ አማረ",
+     "role": "author",
+     "romanized": "beletas amare"
+    },
+    {
+     "id": "pe_7gwct6r2",
+     "name": "ጌታቸው ሙሊሳ",
+     "role": "author",
+     "romanized": "getachew mulisa"
+    },
+    {
+     "id": "pe_5kpvbmnn",
+     "name": "መስፍን ኃ/ማርያም",
+     "role": "author",
+     "romanized": "mesefen ha/maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1998-09-11/1999-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_388f9w6a",
+   "id": "wk_388f9w6a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temesaslo teleyayto",
+    "script": "Ethi",
+    "text": "ተመሳስሎ ተለያይቶ"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

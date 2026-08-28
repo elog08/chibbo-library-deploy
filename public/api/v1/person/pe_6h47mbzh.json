@@ -1,0 +1,119 @@
+{
+ "extensions": {},
+ "fingerprint": "garmadamtahabtayas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6h47mbzh",
+ "id": "pe_6h47mbzh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Girma Damte",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግርማ ዳምጤ ሀብተየስ"
+  },
+  "romanized": "Girma Damte",
+  "sort_key": "ግርማዳምጤሀብተየስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ተማሪው ግርማ.pdf",
+  "Read from the title page of የቀለም ጠብታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "df6b0e3fc4b06d00c3267422435a7ebd03099fdecb5a8852161ea5248451766f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8yc0evyf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8yc0evyf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6h47mbzh",
+     "name": "ግርማ ዳምጤ ሀብተየስ",
+     "role": "author",
+     "romanized": "Girma Damte"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8yc0evyf",
+   "id": "wk_8yc0evyf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "temariw germa",
+    "script": "Ethi",
+    "text": "ተማሪው ግርማ"
+   },
+   "type": "work",
+   "year": 2009
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_9yc5wbk3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9yc5wbk3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6h47mbzh",
+     "name": "ግርማ ዳምጤ ሀብተየስ",
+     "role": "author",
+     "romanized": "Girma Damte"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9yc5wbk3",
+   "id": "wk_9yc5wbk3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqelem tebta",
+    "script": "Ethi",
+    "text": "የቀለም ጠብታ"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

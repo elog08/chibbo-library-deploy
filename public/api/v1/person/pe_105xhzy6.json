@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "tawaldataku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_105xhzy6",
+ "id": "pe_105xhzy6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tewelde teku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተወልደ ተኩእ"
+  },
+  "romanized": "tewelde teku",
+  "sort_key": "ተወልደተኩእ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያ አንድነትና ኢጣሊያ- 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b05cd928d6c81a711670008a22a495bef2d6247c9afeea39b8943cc37c1f1968",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_z3e0ehqr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_z3e0ehqr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_105xhzy6",
+     "name": "ተወልደ ተኩእ",
+     "role": "author",
+     "romanized": "tewelde teku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1997-09-11/1998-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_z3e0ehqr",
+   "id": "wk_z3e0ehqr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yei.teyopya anednet ena i.taliya",
+    "script": "Ethi",
+    "text": "የኢ.ትዮጵያ አንድነት እና ኢ.ጣሊያ"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

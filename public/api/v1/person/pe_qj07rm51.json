@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mahlatwarqu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qj07rm51",
+ "id": "pe_qj07rm51",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mahlet werqu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማኅሌት ወርቁ"
+  },
+  "romanized": "mahlet werqu",
+  "sort_key": "ማህሌትወርቁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኤድስ በሽታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "4ddc5321d17d5000d9d336b2e48ddba1bad9da598779afc87f75db43ad248d8a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_40kbm8ga.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_40kbm8ga.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vhkcqx8x",
+     "name": "ደነቀው አሣዬ",
+     "role": "author",
+     "romanized": "deneqew asaye"
+    },
+    {
+     "id": "pe_0p2fc8zn",
+     "name": "ሲሣይ በየነ",
+     "role": "author",
+     "romanized": "sisay beyene"
+    },
+    {
+     "id": "pe_qj07rm51",
+     "name": "ማኅሌት ወርቁ",
+     "role": "author",
+     "romanized": "mahlet werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1988-09-11/1989-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_40kbm8ga",
+   "id": "wk_40kbm8ga",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeedes beshta",
+    "script": "Ethi",
+    "text": "የኤድስ በሽታ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

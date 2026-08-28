@@ -2,6 +2,44 @@
  "items": [
   {
    "cover": {
+    "path": "assets/covers/wk_s7qh97mw.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/10bafbb8-bb42-4ef6-a9f0-93d9035b328fGizaeWineCherekaH400.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qtzkdq03",
+     "name": "ሳባ መኩሪያ",
+     "role": "author",
+     "romanized": "saba mekuriya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-ebook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s7qh97mw",
+   "id": "wk_s7qh97mw",
+   "language": "am",
+   "poetry": true,
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "gize...weyen...chereqa",
+    "script": "Ethi",
+    "text": "ጊዜ...ወይን...ጨረቃ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_whmpwv5s.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/my-poem-memories.jpg"
    },
@@ -282,7 +320,8 @@
    },
    "flags": [
     "format-ebook",
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_bh5zp6ct",
    "id": "wk_bh5zp6ct",
@@ -304,5 +343,5 @@
  "page_size": 60,
  "pages": 2,
  "prev": "/api/v1/poetry/page-1.json",
- "total": 67
+ "total": 68
 }

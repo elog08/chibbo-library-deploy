@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "antonirobinas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d28tqdrq",
+ "id": "pe_d28tqdrq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "antoni robines",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንቶኒ ሮቢንስ"
+  },
+  "romanized": "antoni robines",
+  "sort_key": "አንቶኒሮቢንስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሰው_ልጅ_የጥበበኛነት_መንገድ_አንቶኒ_ሮቢንስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "57e39e4e45ee168cd9ac7efeebf2edb313f45676bf684ed3780f70176281d9d2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6apv6767.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6apv6767.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d28tqdrq",
+     "name": "አንቶኒ ሮቢንስ",
+     "role": "author",
+     "romanized": "antoni robines"
+    },
+    {
+     "id": "pe_wgksgz3z",
+     "name": "ፀጋዬ ሽንብር",
+     "role": "author",
+     "romanized": "tsegaye sheneber"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_6apv6767",
+   "id": "wk_6apv6767",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "UNLIMITED POWER",
+    "script": "Ethi",
+    "text": "የሰው ልጅ የጥበበኛነት መንገድ (ሞዴል)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

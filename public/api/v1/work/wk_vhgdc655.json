@@ -18,13 +18,22 @@
  "extensions": {},
  "fingerprint": "አጤቴዎድሮስ|pawlosnyonyo",
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted",
+  "filename-title-mismatch"
  ],
  "href": "https://chibbo.app/work/wk_vhgdc655",
  "id": "wk_vhgdc655",
  "identifiers": {
   "hahubooks_code": [
    "jb_132"
+  ],
+  "pdf_pagehash": [
+   "0000080f2f333320",
+   "0000093d1b3b3740",
+   "00000c0b333b0200",
+   "001c1c000c080000",
+   "10367a5100000000"
   ]
  },
  "language": "am",
@@ -61,7 +70,9 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: አጤ ቴድሮስ - ጳውሎስ ኞኞ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks",

@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanuasras",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_51g0z8zj",
+ "id": "pe_51g0z8zj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu asres",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ አስረስ"
+  },
+  "romanized": "berhanu asres",
+  "sort_key": "ብርሀኑአስረስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማን ይናገር የነበረ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d06bd44f0b72c66d221388a5cb384097da4fe7adee4e17eb9e210f13369dc831",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_264tt0e9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_264tt0e9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_51g0z8zj",
+     "name": "ብርሃኑ አስረስ",
+     "role": "author",
+     "romanized": "berhanu asres"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_264tt0e9",
+   "id": "wk_264tt0e9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "man yenager yenebere... yetahsasu geregerna mezezu",
+    "script": "Ethi",
+    "text": "ማን ይናገር የነበረ... የታኅሣሡ ግርግርና መዘዙ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

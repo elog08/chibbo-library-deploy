@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanastadasaka",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_930w2tpp",
+ "id": "pe_930w2tpp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yohannes Tadesse Aka",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሃንስ ታደሰ አካ"
+  },
+  "romanized": "Yohannes Tadesse Aka",
+  "sort_key": "ዮሀንስታደሰአካ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የተስፋው_ነፀብራቅ_ዩሀንስ_ታደሰ_አካ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9a6f161d95992393797d766e0fec4026fe46f1af0b4951f0f437ef9944ff0798",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vpfm94x1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vpfm94x1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_930w2tpp",
+     "name": "ዮሃንስ ታደሰ አካ",
+     "role": "author",
+     "romanized": "Yohannes Tadesse Aka"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vpfm94x1",
+   "id": "wk_vpfm94x1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetesfaw Netsebirak.",
+    "script": "Ethi",
+    "text": "የተስፋው ነፀብራቅ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "zinavyavna",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rtbynbwa",
+ "id": "pe_rtbynbwa",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zi.navyevna",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዚ.ናቭዬቭና"
+  },
+  "romanized": "zi.navyevna",
+  "sort_key": "ዚናቭዬቭና"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መሀይምነት_በሶቪየት_ህብረት_ውስጥ_እንዴት_እንደተደመሰሰ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f61f9642ac7b7cc94c415b712b4fb82438072dbd12b9658967b8f3a97979e394",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_azcrx2s7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_azcrx2s7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rtbynbwa",
+     "name": "ዚ.ናቭዬቭና",
+     "role": "author",
+     "romanized": "zi.navyevna"
+    },
+    {
+     "id": "pe_v7q01csj",
+     "name": "ፕሌሻኮቫ",
+     "role": "author",
+     "romanized": "peleshakova"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1978",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_azcrx2s7",
+   "id": "wk_azcrx2s7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mehayemnet besoviyet hebret weset endet endetedemesese",
+    "script": "Ethi",
+    "text": "መሃይምነት በሶቪዬት ኅብረት ውስጥ እንዴት እንደተደመሰሰ"
+   },
+   "type": "work",
+   "year": 1978
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "viktorigo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hmscne28",
+ "id": "pe_hmscne28",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "viktor i.go",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቪክቶር ኢ.ጎ"
+  },
+  "romanized": "viktor i.go",
+  "sort_key": "ቪክቶርኢጎ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መከረኞች - Les Misérables (ትርጉም).PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "9d4c4392a3cb30b46ab418e280f8e3663b020b3e1f7bb71b9387c12899de4b4e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fv1aarha.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fv1aarha.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hmscne28",
+     "name": "ቪክቶር ኢ.ጎ",
+     "role": "author",
+     "romanized": "viktor i.go"
+    },
+    {
+     "id": "pe_5kp8kj3q",
+     "name": "ሣህለሥላሴ ብርሃነ ማርያም",
+     "role": "author",
+     "romanized": "sahleslase berhane maryam"
+    },
+    {
+     "id": "pe_j7h072b5",
+     "name": "ሉቃስ አማሪ",
+     "role": "author",
+     "romanized": "luqas amari"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_fv1aarha",
+   "id": "wk_fv1aarha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mekerenyoch",
+    "script": "Ethi",
+    "text": "መከረኞች"
+   },
+   "type": "work"
+  }
+ ]
+}

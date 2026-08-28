@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "gatachawabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_f44b9qp4",
+ "id": "pe_f44b9qp4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "getachew abera",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጌታቸው አበራ"
+  },
+  "romanized": "getachew abera",
+  "sort_key": "ጌታቸውአበራ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያገር ቤት ጎጆዬ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "20c7c10f803cd4e67c6ce801318a0c4fa0aa10f56a206f49b8f0b0a88509cd0c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_d37q9ttx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_d37q9ttx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f44b9qp4",
+     "name": "ጌታቸው አበራ",
+     "role": "author",
+     "romanized": "getachew abera"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1995-09-12/1996-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_d37q9ttx",
+   "id": "wk_d37q9ttx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yager bet gojoye",
+    "script": "Ethi",
+    "text": "ያገር ቤት ጎጆዬ"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

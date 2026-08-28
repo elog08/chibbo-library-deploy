@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "bitawadadamakwananandalkachaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_98d4an7d",
+ "id": "pe_98d4an7d",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bi. tewedede mekwenen endelkachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቢ. ትወደደ መኰንን እንደልካቸው"
+  },
+  "romanized": "bi. tewedede mekwenen endelkachew",
+  "sort_key": "ቢትወደደመከንንእንደልካቸው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የፍቅር ጮራ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8d16c83e79f1105a269923d7d11484b57a3b9585c27849061c5b474c159cce74",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ckyhdv00.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ckyhdv00.png"
+   },
+   "credits": [
+    {
+     "id": "pe_98d4an7d",
+     "name": "ቢ. ትወደደ መኰንን እንደልካቸው",
+     "role": "author",
+     "romanized": "bi. tewedede mekwenen endelkachew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1946-09-11/1947-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_ckyhdv00",
+   "id": "wk_ckyhdv00",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yefeqer chora",
+    "script": "Ethi",
+    "text": "የፍቅር ጮራ"
+   },
+   "type": "work",
+   "year": 1946
+  }
+ ]
+}

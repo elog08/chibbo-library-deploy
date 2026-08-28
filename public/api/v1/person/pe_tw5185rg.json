@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "salomonababa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tw5185rg",
+ "id": "pe_tw5185rg",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "selomon abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰሎሞን አበበ"
+  },
+  "romanized": "selomon abebe",
+  "sort_key": "ሰሎሞንአበበ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኤክሶድያ - ሰለሞን አበበ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "67eb9221568a3224083ac774ec23dd13a538cbc8ce01fdc356e004677a431dfe",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_j3vea9tf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_j3vea9tf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tw5185rg",
+     "name": "ሰሎሞን አበበ",
+     "role": "author",
+     "romanized": "selomon abebe"
+    },
+    {
+     "id": "pe_5pc09erd",
+     "name": "እንዳለ ሰለሞን",
+     "role": "author",
+     "romanized": "endale selemon"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_j3vea9tf",
+   "id": "wk_j3vea9tf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eksodya",
+    "script": "Ethi",
+    "text": "ኤክሶድያ"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

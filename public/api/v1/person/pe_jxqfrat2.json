@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "dadaqwaldamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jxqfrat2",
+ "id": "pe_jxqfrat2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dedeq welde maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ድድቅ ወልደ ማርያም"
+  },
+  "romanized": "dedeq welde maryam",
+  "sort_key": "ድድቅወልደማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መጽሔተ ጥበብ ወዕፀ ደብዳቤ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7877fcf5a67b9182ea5b559624a38e55895d97038318dbde83609e0505a4df0d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8155tmd9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8155tmd9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jxqfrat2",
+     "name": "ድድቅ ወልደ ማርያም",
+     "role": "author",
+     "romanized": "dedeq welde maryam"
+    },
+    {
+     "id": "pe_sr6mm74x",
+     "name": "Simachew Mesfin",
+     "role": "author",
+     "romanized": "Simachew Mesfin"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8155tmd9",
+   "id": "wk_8155tmd9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshete tebeb wetse debdabe",
+    "script": "Ethi",
+    "text": "መጽሔተ ጥበብ ወዕፀ ደብዳቤ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

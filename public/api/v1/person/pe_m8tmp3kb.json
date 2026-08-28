@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "marirasamanbalay",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_m8tmp3kb",
  "id": "pe_m8tmp3kb",
  "identifiers": {},
@@ -26,7 +28,12 @@
   "sort_key": "መሪራስአማንበላይ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መጽሐፈ ፈውስ.pdf",
+  "Read from the title page of ሰረገላ-ታቦር-ኢዮር.pdf",
+  "Read from the title page of የልቤ_ወዳጅ_የሰዉ_ዘር_ልጅ_መሪራስ_አማን_በላይ.pdf",
+  "Read from the title page of ጥበበ እንቆ አእባን.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -65,6 +72,75 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_b606h0qd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b606h0qd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m8tmp3kb",
+     "name": "መሪራስ አማን በላይ",
+     "role": "author",
+     "romanized": "Mariras Aman Belay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_b606h0qd",
+   "id": "wk_b606h0qd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yelbe wedaj yesew zer lej",
+    "script": "Ethi",
+    "text": "የልቤ ወዳጅ የሰው ዘር ልጅ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_dq8prs23.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dq8prs23.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m8tmp3kb",
+     "name": "መሪራስ አማን በላይ",
+     "role": "author",
+     "romanized": "Mariras Aman Belay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_dq8prs23",
+   "id": "wk_dq8prs23",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tebebe enqo aban",
+    "script": "Ethi",
+    "text": "ጥበበ ዕንቆ አእባን"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_gkfsfpk6.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%88%98%E1%8C%BD%E1%88%90%E1%8D%88_%E1%8D%88%E1%8B%8D%E1%88%B5.jpg"
    },
@@ -76,8 +152,14 @@
      "romanized": "Mariras Aman Belay"
     }
    ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_gkfsfpk6",
    "id": "wk_gkfsfpk6",
@@ -89,7 +171,42 @@
     "script": "Ethi",
     "text": "መጽሐፈ ፈውስ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jpqfyp8b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jpqfyp8b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m8tmp3kb",
+     "name": "መሪራስ አማን በላይ",
+     "role": "author",
+     "romanized": "Mariras Aman Belay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jpqfyp8b",
+   "id": "wk_jpqfyp8b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "seregela - tabor iyor sele sene - fetret mestir",
+    "script": "Ethi",
+    "text": "ሰረገላ - ታቦር ኢዮር ስለ ስነ - ፍጥረት ምስጢር"
+   },
+   "type": "work",
+   "year": 2019
   },
   {
    "cover": {

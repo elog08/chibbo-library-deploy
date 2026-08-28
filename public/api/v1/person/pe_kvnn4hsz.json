@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "mkgandhi",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kvnn4hsz",
+ "id": "pe_kvnn4hsz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "M. K. Gandhi"
+  },
+  "romanized": "M. K. Gandhi",
+  "sort_key": "mkgandhi"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የማህተማ ጋንዲ ግለ ታሪክ Autobiography.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1aa25301b99cc8d5aadc4f4f58eaedeb231be8e490695b4077e8a6f565e1219c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ea83e5jd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ea83e5jd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kvnn4hsz",
+     "name": "M. K. Gandhi",
+     "role": "author",
+     "romanized": "M. K. Gandhi"
+    },
+    {
+     "id": "pe_3mrr4zcp",
+     "name": "Mahadev Desai",
+     "role": "author",
+     "romanized": "Mahadev Desai"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "scope-review"
+   ],
+   "href": "https://chibbo.app/work/wk_ea83e5jd",
+   "id": "wk_ea83e5jd",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "AN AUTOBIOGRAPHY OR The story of my experiments with truth",
+    "script": "Latn",
+    "text": "AN AUTOBIOGRAPHY OR The story of my experiments with truth"
+   },
+   "type": "work"
+  }
+ ]
+}

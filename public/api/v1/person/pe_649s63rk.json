@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "raymonadjonas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_649s63rk",
+ "id": "pe_649s63rk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Raymond Jonas",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሬይሞንድ ጆናስ"
+  },
+  "romanized": "Raymond Jonas",
+  "sort_key": "ሬይሞንድጆናስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አጼ ምኒልክና የአድዋ ድል- 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "65924531665ce8d229fe6a8dab215f2a740f4565a4ffa39ab609bd52fad544d8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_m70zt2ys.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m70zt2ys.png"
+   },
+   "credits": [
+    {
+     "id": "pe_649s63rk",
+     "name": "ሬይሞንድ ጆናስ",
+     "role": "author",
+     "romanized": "Raymond Jonas"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_m70zt2ys",
+   "id": "wk_m70zt2ys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Battle of Adwa",
+    "script": "Ethi",
+    "text": "አፄ ምኒልክ እና የአድዋ ድል"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

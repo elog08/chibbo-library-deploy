@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "balambirasjabasajata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nbv84rqj",
+ "id": "pe_nbv84rqj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "balambiras jebesa ejeta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባላምቢራስ ጀቤሣ ኤጄታ"
+  },
+  "romanized": "balambiras jebesa ejeta",
+  "sort_key": "ባላምቢራስጀቤሳኤጄታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኦሮሞ_ብሄር_ባህልና_አጭር_ታሪክ_ጀቤሳ_ኤጀታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "aea819490635fa315b44f0ef090f3386b608a9db83636e41bff780d1bd01328b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dqadg532.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dqadg532.png"
+   },
+   "credits": [
+    {
+     "id": "pe_nbv84rqj",
+     "name": "ባላምቢራስ ጀቤሣ ኤጄታ",
+     "role": "author",
+     "romanized": "balambiras jebesa ejeta"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_dqadg532",
+   "id": "wk_dqadg532",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeorom beher bahelna acher tarik",
+    "script": "Ethi",
+    "text": "የኦሮም ብሔር ባህልና አጭር ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

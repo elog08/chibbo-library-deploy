@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "darajabaqala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bf04ca4y",
+ "id": "pe_bf04ca4y",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dereje beqele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደረጀ በቀለ"
+  },
+  "romanized": "dereje beqele",
+  "sort_key": "ደረጀበቀለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of 90 ደቂቃ በመንግስተ ሰማያት ደጅ- 1.pdf",
+  "Read from the title page of በቋጥኝ ላይ የበቀለች ዋርካ- 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3b6629397239dee4b72bccac00dab07af0c6b2152e30cba507a398c48d3f7259",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jdwvpgnv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jdwvpgnv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bf04ca4y",
+     "name": "ደረጀ በቀለ",
+     "role": "author",
+     "romanized": "dereje beqele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jdwvpgnv",
+   "id": "wk_jdwvpgnv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beqwateny lay yebeqelech warka",
+    "script": "Ethi",
+    "text": "በቋጥኝ ላይ የበቀለች ዋርካ"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rsja4aqx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rsja4aqx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4tqcq1be",
+     "name": "ዶን ፒፐር",
+     "role": "author",
+     "romanized": "Don Piper"
+    },
+    {
+     "id": "pe_reb27bht",
+     "name": "ሲስል ሙርፊ",
+     "role": "author",
+     "romanized": "Cecil Murphey"
+    },
+    {
+     "id": "pe_bf04ca4y",
+     "name": "ደረጀ በቀለ",
+     "role": "author",
+     "romanized": "dereje beqele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rsja4aqx",
+   "id": "wk_rsja4aqx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "90 deqiqa bemenegeste semay dej",
+    "script": "Ethi",
+    "text": "90 ደቂቃ በመንግሥተ ሰማይ ደጅ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

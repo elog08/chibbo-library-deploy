@@ -1,0 +1,127 @@
+{
+ "extensions": {},
+ "fingerprint": "sahlasalasabarhanamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qh2npd58",
+ "id": "pe_qh2npd58",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "sahle selase berhane maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሣህለ ሥላሴ ብርሃነ ማርያም"
+  },
+  "romanized": "sahle selase berhane maryam",
+  "sort_key": "ሳህለስላሴብርሀነማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ባሻ ቅጣው.PDF",
+  "Read from the title page of እምዩ - ሣህለሥላሴ ብርሀነማርያም.pdf",
+  "Read from the title page of እምዩ - ሣህለሥላሴ ብርሃነማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cab502a486fb9cb549d79998f67d3ace6351ad2124bf5c80460372ef221f6b84",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fm5nv0ss.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fm5nv0ss.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qh2npd58",
+     "name": "ሣህለ ሥላሴ ብርሃነ ማርያም",
+     "role": "author",
+     "romanized": "sahle selase berhane maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fm5nv0ss",
+   "id": "wk_fm5nv0ss",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "basha qetaw",
+    "script": "Ethi",
+    "text": "ባሻ ቅጣው"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xywyqt8s.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xywyqt8s.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qxashs2s",
+     "name": "ፐርል በክ",
+     "role": "author",
+     "romanized": "perel bek"
+    },
+    {
+     "id": "pe_qh2npd58",
+     "name": "ሣህለ ሥላሴ ብርሃነ ማርያም",
+     "role": "author",
+     "romanized": "sahle selase berhane maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xywyqt8s",
+   "id": "wk_xywyqt8s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "emyu",
+    "script": "Ethi",
+    "text": "እምዩ"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

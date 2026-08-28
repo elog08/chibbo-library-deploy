@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "masafanlasanu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4d0gyeg8",
+ "id": "pe_4d0gyeg8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen lesanu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ልሳኑ"
+  },
+  "romanized": "mesefen lesanu",
+  "sort_key": "መስፍንልሳኑ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማረኛ መፅሔተ ቃላት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5a4c7d2a6d9f85a5e46a2b3997126101ddf5433c4486738f1bb29bf525dc9fb2",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b6t7t1mc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b6t7t1mc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4d0gyeg8",
+     "name": "መስፍን ልሳኑ",
+     "role": "author",
+     "romanized": "mesefen lesanu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1949-09-11/1950-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_b6t7t1mc",
+   "id": "wk_b6t7t1mc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya metshete qalat",
+    "script": "Ethi",
+    "text": "የአማርኛ መጽሐተ ቃላት"
+   },
+   "type": "work",
+   "year": 1949
+  }
+ ]
+}

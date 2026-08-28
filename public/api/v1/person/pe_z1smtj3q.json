@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "sayfumatafariyafaraw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_z1smtj3q",
+ "id": "pe_z1smtj3q",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "seyfu metaferiya ferew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሰይፉ መታፈሪያ ፍሬው"
+  },
+  "romanized": "seyfu metaferiya ferew",
+  "sort_key": "ሰይፉመታፈሪያፍሬው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የእስራት ዘመን በአበሻ አገር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "78c2db658ab70079d4bd6f077243a5b94414da58fcf37b1fff5dc2c09807f209",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vfr67q3w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vfr67q3w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z1smtj3q",
+     "name": "ሰይፉ መታፈሪያ ፍሬው",
+     "role": "author",
+     "romanized": "seyfu metaferiya ferew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1986-09-11/1987-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_vfr67q3w",
+   "id": "wk_vfr67q3w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetesfa eger beret",
+    "script": "Ethi",
+    "text": "የተስፋ እግር ብረት"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

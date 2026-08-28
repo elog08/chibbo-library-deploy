@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "dastataklawalad",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zk46yq2r",
+ "id": "pe_zk46yq2r",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "desta tekle weled",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደስታ ተክለ ወልድ"
+  },
+  "romanized": "desta tekle weled",
+  "sort_key": "ደስታተክለወልድ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አበገደ_ፊደልና_ፊደላዋሪያ_የልጆች_አፍ_መፍቻ_ኪዳነ.pdf",
+  "Read from the title page of ዐዲሰ ያማረኛ መዝገበ ቃላት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "140e32316edb24996558b918f6b27dfb334d01eaef0d7c27d23355ff4cfd958d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0sdkf38r.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0sdkf38r.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zk46yq2r",
+     "name": "ደስታ ተክለ ወልድ",
+     "role": "author",
+     "romanized": "desta tekle weled"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1969-09-11/1970-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0sdkf38r",
+   "id": "wk_0sdkf38r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "adis yamarnya mezgebe qalat",
+    "script": "Ethi",
+    "text": "ዐዲስ ያማርኛ መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 1969
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rm9q3260.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rm9q3260.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m1kt16cx",
+     "name": "ኪዳነ ወልድ ክፍሌ",
+     "role": "author",
+     "romanized": "kidane weled kefle"
+    },
+    {
+     "id": "pe_zk46yq2r",
+     "name": "ደስታ ተክለ ወልድ",
+     "role": "author",
+     "romanized": "desta tekle weled"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1947-09-12/1948-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rm9q3260",
+   "id": "wk_rm9q3260",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "abegede fidelna fidelawariya yeljoch af mefcha",
+    "script": "Ethi",
+    "text": "አበገደ ፊደልና ፊደላዋሪያ የልጆች አፍ መፍቻ"
+   },
+   "type": "work",
+   "year": 1947
+  }
+ ]
+}

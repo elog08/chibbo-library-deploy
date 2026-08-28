@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "wagayahutabaja",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_zsnwn7g2",
  "id": "pe_zsnwn7g2",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ወጋየሁተበጀ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የጡት አባት ከማርዮ ፑዞ (ትርጉም).pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +67,55 @@
     "text": "የጡት አባት"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_9hvw1s8m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9hvw1s8m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r2sb88gd",
+     "name": "ማርዮ ፑዞ",
+     "role": "author",
+     "romanized": "maryo puzo"
+    },
+    {
+     "id": "pe_zsnwn7g2",
+     "name": "ወጋየሁ ተበጀ",
+     "role": "author",
+     "romanized": "wegayehu tebeje"
+    },
+    {
+     "id": "pe_t32r0jjg",
+     "name": "ግርማ ደምሴ",
+     "role": "author",
+     "romanized": "germa demse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9hvw1s8m",
+   "id": "wk_9hvw1s8m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetut abat",
+    "script": "Ethi",
+    "text": "የጡት አባት"
+   },
+   "type": "work",
+   "year": 1982
   }
  ]
 }

@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanudanqa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d20bjdcv",
+ "id": "pe_d20bjdcv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu denqe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ ድንቄ"
+  },
+  "romanized": "berhanu denqe",
+  "sort_key": "ብርሀኑድንቄ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልቦ ዘመድ - ብርሃኑ ድንቄ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b32ea81a7f8505a7fd0236079e5c9908878aae334d5c7e079574057331910dec",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n1wwavcy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n1wwavcy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d20bjdcv",
+     "name": "ብርሃኑ ድንቄ",
+     "role": "author",
+     "romanized": "berhanu denqe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1994-09-11/1995-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_n1wwavcy",
+   "id": "wk_n1wwavcy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Albo Zemed",
+    "script": "Ethi",
+    "text": "አልቦ ዘመድ"
+   },
+   "type": "work",
+   "year": 1994
+  }
+ ]
+}

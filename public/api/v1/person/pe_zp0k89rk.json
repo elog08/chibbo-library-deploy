@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "alokran",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zp0k89rk",
+ "id": "pe_zp0k89rk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "elokran",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤሎክራን"
+  },
+  "romanized": "elokran",
+  "sort_key": "ኤሎክራን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኢካረስ (1).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "745172a112ad0f865d10aec0fdb9f35fb0af89c8932ff194e2e0fa65c89d5e05",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9gypapws.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9gypapws.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zp0k89rk",
+     "name": "ኤሎክራን",
+     "role": "author",
+     "romanized": "elokran"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9gypapws",
+   "id": "wk_9gypapws",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ikares",
+    "script": "Ethi",
+    "text": "ኢካረስ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

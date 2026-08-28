@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "qanyazmachaylazalaqa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3vvt7rb9",
+ "id": "pe_3vvt7rb9",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "qenyazmach hayle zeleqa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቀኛዝማች ኃይለ ዘለቃ"
+  },
+  "romanized": "qenyazmach hayle zeleqa",
+  "sort_key": "ቀኛዝማችሀይለዘለቃ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የደጃዝማች ገርማሜ የሕይወት ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dd51c664ae2cf2e5c9c59bf0cc75abf010768a7b8d1bd34b34a9268bb64b2c83",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_58zktt33.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_58zktt33.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3vvt7rb9",
+     "name": "ቀኛዝማች ኃይለ ዘለቃ",
+     "role": "author",
+     "romanized": "qenyazmach hayle zeleqa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1964-09-11/1965-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_58zktt33",
+   "id": "wk_58zktt33",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yedejazmach germame yeheywet tarik",
+    "script": "Ethi",
+    "text": "የደጃዝማች ገርማሜ የሕይወት ታሪክ"
+   },
+   "type": "work",
+   "year": 1964
+  }
+ ]
+}

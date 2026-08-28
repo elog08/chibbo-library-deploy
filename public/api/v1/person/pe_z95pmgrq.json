@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "danalnagash",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_z95pmgrq",
+ "id": "pe_z95pmgrq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danel negash",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል ነጋሽ"
+  },
+  "romanized": "danel negash",
+  "sort_key": "ዳንኤልነጋሽ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቹቹ በጎዳና ክፍል2.pdf",
+  "Read from the title page of ውስልትና_ዘ_አዲስ_አበባ_ሚሊዮን_ሹርቤ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d8214dc90b3599abf8bbe5a5cfc413720eeee6f7125e34523260b126693b8e6a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_33kyezh8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_33kyezh8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z95pmgrq",
+     "name": "ዳንኤል ነጋሽ",
+     "role": "author",
+     "romanized": "danel negash"
+    },
+    {
+     "id": "pe_ckrcdd3k",
+     "name": "ሰዩም ታደሰ",
+     "role": "author",
+     "romanized": "seyum tadese"
+    },
+    {
+     "id": "pe_7rast4x7",
+     "name": "መስፍን ሀብተማርያም",
+     "role": "author",
+     "romanized": "mesefen hebtemaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_33kyezh8",
+   "id": "wk_33kyezh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "chuchu begwedana",
+    "script": "Ethi",
+    "text": "ቹቹ በጐዳና"
+   },
+   "type": "work",
+   "year": 1992
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_7e6edjae.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_7e6edjae.png"
+   },
+   "credits": [
+    {
+     "id": "pe_490dxf4k",
+     "name": "ሚሊዮን ሹርቤ",
+     "role": "author",
+     "romanized": "miliyon shurbe"
+    },
+    {
+     "id": "pe_2e2jd0mj",
+     "name": "ሠላም ውድነህ",
+     "role": "author",
+     "romanized": "selam wedneh"
+    },
+    {
+     "id": "pe_z95pmgrq",
+     "name": "ዳንኤል ነጋሽ",
+     "role": "author",
+     "romanized": "danel negash"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_7e6edjae",
+   "id": "wk_7e6edjae",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wesibawi weseletna (ze-adis abeba)",
+    "script": "Ethi",
+    "text": "ወሲባዊ ውስልትና (ዘ-አዲስ አበባ)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

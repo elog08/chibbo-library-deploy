@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "kimilsunag",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_22c9pss8",
+ "id": "pe_22c9pss8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kim il suneg",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኪም ኢል ሱንግ"
+  },
+  "romanized": "kim il suneg",
+  "sort_key": "ኪምኢልሱንግ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኪም ኢል ሱንግ @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "7880f1739f6f56866f202eb2456042f830555f88af9d6c4091d09ccf933a9b2b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5kg29z9x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5kg29z9x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_22c9pss8",
+     "name": "ኪም ኢል ሱንግ",
+     "role": "author",
+     "romanized": "kim il suneg"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1998-09-11/1999-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_5kg29z9x",
+   "id": "wk_5kg29z9x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mezgebe tewesta kekefle zemenu gar 1",
+    "script": "Ethi",
+    "text": "መዝገበ ትውስታ ከክፍለ ዘመኑ ጋር 1"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

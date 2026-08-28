@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ababawtakla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_cfeckza1",
+ "id": "pe_cfeckza1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebew tekle",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበው ተክሌ"
+  },
+  "romanized": "abebew tekle",
+  "sort_key": "አበበውተክሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የደራሲ ፍዳ - አበባው ተክሌ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "29dc9fcba01df570e19b55a5b1cb85dd660216d088a304ae8dd06d5f51e84b95",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_s0dtazy0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s0dtazy0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cfeckza1",
+     "name": "አበበው ተክሌ",
+     "role": "author",
+     "romanized": "abebew tekle"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_s0dtazy0",
+   "id": "wk_s0dtazy0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yederasi feda",
+    "script": "Ethi",
+    "text": "የደራሲ ፍዳ"
+   },
+   "type": "work"
+  }
+ ]
+}

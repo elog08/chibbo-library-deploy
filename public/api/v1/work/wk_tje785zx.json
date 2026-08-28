@@ -10,6 +10,11 @@
    "order": 1,
    "person": "pe_b4p12fw8",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_spkf08ek",
+   "role": "author"
   }
  ],
  "description": {
@@ -19,16 +24,33 @@
  },
  "editions": [
   "ed_xx1ve4za",
-  "ed_tt1jkabd"
+  "ed_tt1jkabd",
+  "ed_r71kdmqj"
  ],
  "extensions": {},
  "fingerprint": "ዙቤይዳ|alakasabarham",
- "flags": [],
+ "first_published": {
+  "edtf": "2016-09-11/2017-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2009"
+  }
+ },
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/work/wk_tje785zx",
  "id": "wk_tje785zx",
  "identifiers": {
   "addisbooks_sku": [
    "galaxy-party-here-2-3"
+  ],
+  "pdf_pagehash": [
+   "00041c1838224000",
+   "00181e3e2e260000",
+   "001c363636360000",
+   "220e0c0e30380000",
+   "7071726259495940"
   ]
  },
  "language": "am",
@@ -81,7 +103,9 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.50/5 from 12 rating(s)"
+  "ethiobookreview community rating 4.50/5 from 12 rating(s)",
+  "Read from PDF front matter: ዙቤይዳ ከአሌክስ አብርሃም.pdf",
+  "The cover shows 2009. Page 2 title page shows February 2008 E.C. (የካቲት 2008 ዓ.ም.). Page 3 details the publication history, listing the 10th edition as 2009 (10ኛ ዕትም 2009)."
  ],
  "provenance": {
   "retrieved": "2026-08-26",

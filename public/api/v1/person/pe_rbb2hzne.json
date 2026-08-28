@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "yatagrayhazabnatsawchidarajat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rbb2hzne",
+ "id": "pe_rbb2hzne",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yetegray hezeb netsa awchi derejet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የትግራይ ህዝብ ነፃ አውጪ ድርጅት"
+  },
+  "romanized": "yetegray hezeb netsa awchi derejet",
+  "sort_key": "የትግራይህዝብነጻአውጪድርጅት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of TPLF_Manifesto_ 1968.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2427bee6986916eca284131d61f703620f044880222a8263bdd1592be42f684a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_8bv106st.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_8bv106st.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rbb2hzne",
+     "name": "የትግራይ ህዝብ ነፃ አውጪ ድርጅት",
+     "role": "author",
+     "romanized": "yetegray hezeb netsa awchi derejet"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1975-09-12/1976-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_8bv106st",
+   "id": "wk_8bv106st",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "meglecha",
+    "script": "Ethi",
+    "text": "መግለጫ"
+   },
+   "type": "work",
+   "year": 1975
+  }
+ ]
+}

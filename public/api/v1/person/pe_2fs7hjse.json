@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "takakalgana",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_2fs7hjse",
  "id": "pe_2fs7hjse",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ትክክልገና"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of በፍቅር ላይ ሾተላይ - ትክክል ገና.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -36,6 +40,49 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5pnby7gr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5pnby7gr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2fs7hjse",
+     "name": "ትክክል ገና",
+     "role": "author",
+     "romanized": "tekekel gena"
+    },
+    {
+     "id": "pe_y99fwa23",
+     "name": "አሰፋ ጉያ",
+     "role": "author",
+     "romanized": "asefa guya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5pnby7gr",
+   "id": "wk_5pnby7gr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "befeqer lay shotelay",
+    "script": "Ethi",
+    "text": "በፍቅር ላይ ሾተላይ"
+   },
+   "type": "work",
+   "year": 1989
+  },
   {
    "cover": {
     "path": "assets/covers/wk_hq5s532e.jpg",

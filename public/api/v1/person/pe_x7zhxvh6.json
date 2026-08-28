@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "jordana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_x7zhxvh6",
+ "id": "pe_x7zhxvh6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Giordana",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጆርዳና"
+  },
+  "romanized": "Giordana",
+  "sort_key": "ጆርዳና"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጆርዳና ኩሽና.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "1950db456d0f2c5e02d362f2aa05aca53f186edf79b298e88fc0060949bb5e8d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jn80tx1x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jn80tx1x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x7zhxvh6",
+     "name": "ጆርዳና",
+     "role": "author",
+     "romanized": "Giordana"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jn80tx1x",
+   "id": "wk_jn80tx1x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Giordana's Kichen",
+    "script": "Ethi",
+    "text": "ጆርዳና ኩሽና"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

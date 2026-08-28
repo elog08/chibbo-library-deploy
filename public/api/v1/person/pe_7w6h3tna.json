@@ -1,0 +1,116 @@
+{
+ "extensions": {},
+ "fingerprint": "taklatsadaqmakwriya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7w6h3tna",
+ "id": "pe_7w6h3tna",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tekle tsadeq mekwriya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተክለ ጻድቅ መኵሪያ"
+  },
+  "romanized": "tekle tsadeq mekwriya",
+  "sort_key": "ተክለጻድቅመክሪያ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከአጼ_ልበነድንግል_እስከ_አጼ_ቴዎድሮስ_1.pdf",
+  "Read from the title page of ጥንታዊ_ኢትዮጵያና_ግብፅ_ተክለፃዲቅ_መኩሪያ_.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5682077bb15203427988e78aae69c596f3f9bdc8957fec3e1a6dbe01b99a6df4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_n8fxgs5d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_n8fxgs5d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7w6h3tna",
+     "name": "ተክለ ጻድቅ መኵሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekwriya"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1950-09-11/1951-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_n8fxgs5d",
+   "id": "wk_n8fxgs5d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya tarik keatse lebne denegel eske atse tewodros",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ከዐፄ ልብነ ድንግል እስከ ዐፄ ቴዎድሮስ"
+   },
+   "type": "work",
+   "year": 1950
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_y0q8nz3s.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_y0q8nz3s.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7w6h3tna",
+     "name": "ተክለ ጻድቅ መኵሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekwriya"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1957-09-11/1958-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_y0q8nz3s",
+   "id": "wk_y0q8nz3s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tentawi yeityopyana gebets",
+    "script": "Ethi",
+    "text": "ጥንታዊ የኢትዮጵያና ግብጽ"
+   },
+   "type": "work",
+   "year": 1957
+  }
+ ]
+}

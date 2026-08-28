@@ -18,7 +18,9 @@
   "text": "Tower in the Sky, a book by Hiwot Teffera. Addis Books!"
  },
  "editions": [
-  "ed_9w8k94tg"
+  "ed_9w8k94tg",
+  "ed_bshye8xy",
+  "ed_6v1g1ss9"
  ],
  "extensions": {},
  "fingerprint": "towerinthesky|hiwotafara",
@@ -29,15 +31,29 @@
    "value": "January 1, 2012"
   }
  },
- "flags": [],
+ "flags": [
+  "llm-extracted",
+  "scope-review",
+  "calendar-ambiguous"
+ ],
  "href": "https://chibbo.app/work/wk_mdfm4yzx",
  "id": "wk_mdfm4yzx",
  "identifiers": {
   "addisbooks_sku": [
    "5952"
   ],
+  "isbn13": [
+   "9789994452484"
+  ],
   "openlibrary": [
    "OL22649865W"
+  ],
+  "pdf_pagehash": [
+   "aee0f2a002800080",
+   "caecae26a6ae8e98",
+   "d8c8e2eccccc8cd8",
+   "d8e263e7a6a68698",
+   "f8d21adafa6e4ed8"
   ]
  },
  "language": "en",
@@ -71,12 +87,16 @@
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: TOWER IN THE SKY By Hiwot Tefera.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/tower-in-the-sky-by-hiwot-teffera/"
  },
+ "publication_place": "Addis Ababa",
+ "publisher_name": "Addis Ababa University Press",
  "relations": [],
  "rights": {
   "shippable": false,

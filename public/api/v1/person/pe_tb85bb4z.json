@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "afawaraqgabraiyasus",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tb85bb4z",
+ "id": "pe_tb85bb4z",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "afewereq gebre iyesus",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አፈወርቅ ገብረ ኢየሱስ"
+  },
+  "romanized": "afewereq gebre iyesus",
+  "sort_key": "አፈወርቅገብረኢየሱስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጦቢያ-ከአፈወርቅ ገብረ ኢየሱስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6b673630c44e0239a9c063d7631a67a000b445e07b0c8753e03c8ba3e9810cba",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q4ynpsnd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_q4ynpsnd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tb85bb4z",
+     "name": "አፈወርቅ ገብረ ኢየሱስ",
+     "role": "author",
+     "romanized": "afewereq gebre iyesus"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_q4ynpsnd",
+   "id": "wk_q4ynpsnd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tobiya",
+    "script": "Ethi",
+    "text": "ጦቢያ"
+   },
+   "type": "work"
+  }
+ ]
+}

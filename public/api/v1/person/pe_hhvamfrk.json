@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "lapsogadalabo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hhvamfrk",
+ "id": "pe_hhvamfrk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "lapso ge. delebo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ላጵሶ ጌ. ድሌቦ"
+  },
+  "romanized": "lapso ge. delebo",
+  "sort_key": "ላጵሶጌድሌቦ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አብዮታዊ_የምርትና_የባህል_ዕድገት_ዘመቻ_በከምባታና.pdf",
+  "Read from the title page of የኢ. የመከራና የኤርትራ ጥያቄ- 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1cf4aa1d792f8d4131b955a923e741a043f4169c686c3227f01a998b5290193a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5meh6ka6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5meh6ka6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hhvamfrk",
+     "name": "ላጵሶ ጌ. ድሌቦ",
+     "role": "author",
+     "romanized": "lapso ge. delebo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1975?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5meh6ka6",
+   "id": "wk_5meh6ka6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "abyotawi yemeretna yebahel edget zemecha bekembatana hediya awraja ke1971 eske 1975",
+    "script": "Ethi",
+    "text": "አብዮታዊ የምርትና የባህል ዕድገት ዘመቻ በከምባታና ሀዲያ አውራጃ ከ1971 እስከ 1975"
+   },
+   "type": "work",
+   "year": 1975
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fv9t8ge5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fv9t8ge5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hhvamfrk",
+     "name": "ላጵሶ ጌ. ድሌቦ",
+     "role": "author",
+     "romanized": "lapso ge. delebo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fv9t8ge5",
+   "id": "wk_fv9t8ge5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya yemekera seratna yeeretra teyaqe",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የመከራ ሥርዓትና የኤርትራ ጥያቄ"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

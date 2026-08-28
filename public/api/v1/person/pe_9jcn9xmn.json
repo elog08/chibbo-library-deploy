@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "tawodrosmulatu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9jcn9xmn",
+ "id": "pe_9jcn9xmn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Tewodros Mulatu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቴዎድሮስ ሙላቱ"
+  },
+  "romanized": "Tewodros Mulatu",
+  "sort_key": "ቴዎድሮስሙላቱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አኬልዳማ - ቴድሮስ ሙላቱ .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "72d3b5fe79de423a3fc51831742838dc2f7ce49bd52b70385086753da8834017",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5ddf0mtn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5ddf0mtn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9jcn9xmn",
+     "name": "ቴዎድሮስ ሙላቱ",
+     "role": "author",
+     "romanized": "Tewodros Mulatu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1984?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5ddf0mtn",
+   "id": "wk_5ddf0mtn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "akel dama",
+    "script": "Ethi",
+    "text": "አኬል ዳማ"
+   },
+   "type": "work",
+   "year": 1984
+  }
+ ]
+}

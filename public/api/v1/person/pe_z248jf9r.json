@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "tanabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_z248jf9r",
+ "id": "pe_z248jf9r",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tena abere",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጠና አበረ"
+  },
+  "romanized": "tena abere",
+  "sort_key": "ጠናአበረ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሀኪም በሌለበት.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "e12326a3c8d9a64c0b76d1617d85787ca0ba8695ebc3b0508e3bfc04778096cb",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_eh5jq2k7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_eh5jq2k7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_w46ypzwn",
+     "name": "ዴቪድ ወርነር",
+     "role": "author",
+     "romanized": "devid werner"
+    },
+    {
+     "id": "pe_mk3npae1",
+     "name": "ዶክተር ሪቻርድ ሆድስ",
+     "role": "author",
+     "romanized": "dokter richared hodes"
+    },
+    {
+     "id": "pe_z248jf9r",
+     "name": "ጠና አበረ",
+     "role": "author",
+     "romanized": "tena abere"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_eh5jq2k7",
+   "id": "wk_eh5jq2k7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hakim belelebet",
+    "script": "Ethi",
+    "text": "ሃኪም በሌለበት"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

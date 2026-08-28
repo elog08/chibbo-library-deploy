@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "yashitlakokab",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hwvr0w1p",
+ "id": "pe_hwvr0w1p",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yeshitla kokeb",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የሺጥላ ኮከብ"
+  },
+  "romanized": "yeshitla kokeb",
+  "sort_key": "የሺጥላኮከብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ወገግታ - የሺጥላ ኮከብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "09cd91615c5a00cc88c55fd4f1ad8b301119ea66784a96a8cab9281ccae1137b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bna6xpzj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bna6xpzj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hwvr0w1p",
+     "name": "የሺጥላ ኮከብ",
+     "role": "author",
+     "romanized": "yeshitla kokeb"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bna6xpzj",
+   "id": "wk_bna6xpzj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wegegta",
+    "script": "Ethi",
+    "text": "ወገግታ"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

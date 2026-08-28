@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "mamaharqomosabakanfagabaralgaiyasusdasta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_49v3ky7c",
+ "id": "pe_49v3ky7c",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "memeher qomos aba kenfe geberel ge/iyesus desta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መምህር ቆሞስ አባ ክንፈ ገብርኤል ገ/ኢየሱስ ደስታ"
+  },
+  "romanized": "memeher qomos aba kenfe geberel ge/iyesus desta",
+  "sort_key": "መምህርቆሞስአባክንፈገብርኤልገኢየሱስደስታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መጽሀፈ ታሪክ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f351f57f8c2a003f3993174486d8a973ee5153886ea8507eb8ea8865375c7bc6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_q9kezp66.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_q9kezp66.png"
+   },
+   "credits": [
+    {
+     "id": "pe_49v3ky7c",
+     "name": "መምህር ቆሞስ አባ ክንፈ ገብርኤል ገ/ኢየሱስ ደስታ",
+     "role": "author",
+     "romanized": "memeher qomos aba kenfe geberel ge/iyesus desta"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_q9kezp66",
+   "id": "wk_q9kezp66",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metshefe tarik zeityopya kenubya eske asya",
+    "script": "Ethi",
+    "text": "መጽሐፈ ታሪክ ዘኢትዮጵያ ከኑብያ እስከ አስያ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

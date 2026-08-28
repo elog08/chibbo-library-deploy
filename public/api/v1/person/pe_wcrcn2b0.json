@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "hanrishariya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wcrcn2b0",
+ "id": "pe_wcrcn2b0",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "henri sheriye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሄንሪ ሸሪየ"
+  },
+  "romanized": "henri sheriye",
+  "sort_key": "ሄንሪሸሪየ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፓፒዮ ሙሉ መጽሐፍ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "345bcc32f8165d9a53f821a3d817d614cb36f4e20242b8f624f5aee50d1764d1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_a3ae6tkf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a3ae6tkf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wcrcn2b0",
+     "name": "ሄንሪ ሸሪየ",
+     "role": "author",
+     "romanized": "henri sheriye"
+    },
+    {
+     "id": "pe_hb14tsxw",
+     "name": "ጌታቸው ገብሬ",
+     "role": "author",
+     "romanized": "getachew gebre"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a3ae6tkf",
+   "id": "wk_a3ae6tkf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "PAPILLON",
+    "script": "Ethi",
+    "text": "ፓፒዮ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

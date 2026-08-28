@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "anolitman",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_4ex4gsrw",
+ "id": "pe_4ex4gsrw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "ENNO LITTMANN"
+  },
+  "romanized": "ENNO LITTMANN",
+  "sort_key": "ennolittmann"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአጼ ቴዎድሮስ ዜና መዋዕል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6df9f001f2df02b6e392881802480df96351f382a62d4cde2e99056de1e37f09",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_81tj4y0x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_81tj4y0x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4ex4gsrw",
+     "name": "ENNO LITTMANN",
+     "role": "author",
+     "romanized": "ENNO LITTMANN"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1902?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_81tj4y0x",
+   "id": "wk_81tj4y0x",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "THE CHRONICLE OF KING THEODORE OF ABYSSINIA, Part I: Amharic Text",
+    "script": "Latn",
+    "text": "THE CHRONICLE OF KING THEODORE OF ABYSSINIA, Part I: Amharic Text"
+   },
+   "type": "work",
+   "year": 1902
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "dorapitarjaydiadamo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ssgrf6jc",
+ "id": "pe_ssgrf6jc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "do/re piter jey.di.adamo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዶ/ር ፒተር ጀይ.ዲ.አዳሞ"
+  },
+  "romanized": "do/re piter jey.di.adamo",
+  "sort_key": "ዶርፒተርጀይዲአዳሞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጤና መሰረታዊ ቁልፍ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5ea052abef73ecbcd9e86cfd1a1ec55908a272c1c23629bb7b9e01f06c641337",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fbx45d6p.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fbx45d6p.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ssgrf6jc",
+     "name": "ዶ/ር ፒተር ጀይ.ዲ.አዳሞ",
+     "role": "author",
+     "romanized": "do/re piter jey.di.adamo"
+    },
+    {
+     "id": "pe_dev2qskk",
+     "name": "ዮናስ ተዛረ",
+     "role": "author",
+     "romanized": "yonas tezare"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_fbx45d6p",
+   "id": "wk_fbx45d6p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "EAT RIGHT 4 YOUR TYPE",
+    "script": "Ethi",
+    "text": "የጤና ምሥጢራዊ ቁልፍ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

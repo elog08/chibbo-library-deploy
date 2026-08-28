@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "bahruzargawgazaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_mhhqd20x",
+ "id": "pe_mhhqd20x",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bahru zergaw gezaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባሕሩ ዘርጋው ግዛው"
+  },
+  "romanized": "bahru zergaw gezaw",
+  "sort_key": "ባህሩዘርጋውግዛው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በባቢሎን ወንዞች - ኔልሰን ደሚል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cb5d5649749ffa471103daea30c778f9a70d1d1e6e06144dcfc01a58a36c5c33",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vkb061mb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vkb061mb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8s1xv09b",
+     "name": "ኔልሰን ደሚል",
+     "role": "author",
+     "romanized": "nelsen demil"
+    },
+    {
+     "id": "pe_mhhqd20x",
+     "name": "ባሕሩ ዘርጋው ግዛው",
+     "role": "author",
+     "romanized": "bahru zergaw gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_vkb061mb",
+   "id": "wk_vkb061mb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bebabilon wenzoch",
+    "script": "Ethi",
+    "text": "በባቢሎን ወንዞች"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

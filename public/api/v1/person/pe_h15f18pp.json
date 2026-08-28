@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "abalzabanahawalad",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_h15f18pp",
+ "id": "pe_h15f18pp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abel zebene he/weled",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል ዘበነ ሀ/ወልድ"
+  },
+  "romanized": "abel zebene he/weled",
+  "sort_key": "አቤልዘበነሀወልድ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቴዲ_አፍሮ_የታላቅነት_ሚስጥር_አቤል_ዘበነ_ሀ_ወልድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a2119d1fbc59b292fd676200087d514e771e0ba4a038857c3885d3128a03a7aa",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0f520mrv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0f520mrv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h15f18pp",
+     "name": "አቤል ዘበነ ሀ/ወልድ",
+     "role": "author",
+     "romanized": "abel zebene he/weled"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0f520mrv",
+   "id": "wk_0f520mrv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetedi afro yetalaqnet mestir",
+    "script": "Ethi",
+    "text": "የቴዲ አፍሮ የታላቅነት ምስጢር"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

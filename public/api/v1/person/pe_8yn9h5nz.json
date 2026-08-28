@@ -1,0 +1,160 @@
+{
+ "extensions": {},
+ "fingerprint": "taklatsadaqmakuriya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8yn9h5nz",
+ "id": "pe_8yn9h5nz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tekle tsadeq mekuriya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተክለ ጻድቅ መኩሪያ"
+  },
+  "romanized": "tekle tsadeq mekuriya",
+  "sort_key": "ተክለጻድቅመኩሪያ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አጼ ምኒልክና የኢትዮጵያ አንድነት- 1.pdf",
+  "Read from the title page of አጼ_ቴዎድሮስና_የኢትዮጵያ_አንድነት_1.pdf",
+  "Read from the title page of አፄ_ዮሐንስ_እና_የኢትዮጵያ_አንድነት_ተክለጻድቅ_መኩሪያ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f66d7f0e9721c33cd6d477b3d44dbc1b449379af7d913ce508f6daf98683f462",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_76het754.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_76het754.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8yn9h5nz",
+     "name": "ተክለ ጻድቅ መኩሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekuriya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_76het754",
+   "id": "wk_76het754",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "atse tewodros ena yeityopya anednet",
+    "script": "Ethi",
+    "text": "ዐፄ ቴዎድሮስ እና የኢትዮጵያ አንድነት"
+   },
+   "type": "work",
+   "year": 1981
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_hg5853dj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hg5853dj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8yn9h5nz",
+     "name": "ተክለ ጻድቅ መኩሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekuriya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hg5853dj",
+   "id": "wk_hg5853dj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "atse yohenes ena yeityopya anednet",
+    "script": "Ethi",
+    "text": "ዐፄ ዮሐንስ እና የኢትዮጵያ አንድነት"
+   },
+   "type": "work",
+   "year": 1982
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_new277s7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_new277s7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8yn9h5nz",
+     "name": "ተክለ ጻድቅ መኩሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekuriya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_new277s7",
+   "id": "wk_new277s7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "atse menilek ena yeityopya anednet",
+    "script": "Ethi",
+    "text": "ዐፄ ምኒልክ እና የኢትዮጵያ አንድነት"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

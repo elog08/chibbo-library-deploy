@@ -1,0 +1,89 @@
+{
+ "extensions": {},
+ "fingerprint": "gatachawtalachaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3jqcyn9k",
+ "id": "pe_3jqcyn9k",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "getachew talachew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጌታቸው ጣላቸው"
+  },
+  "romanized": "getachew talachew",
+  "sort_key": "ጌታቸውጣላቸው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዎላይተቶ ሌምሱዋ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "18e3368ab62de8ad4d5139f18845a39c0546e37d25f3dbfaf483dd8af928eecb",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_29n35trm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_29n35trm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3jqcyn9k",
+     "name": "ጌታቸው ጣላቸው",
+     "role": "author",
+     "romanized": "getachew talachew"
+    },
+    {
+     "id": "pe_zrwtrtte",
+     "name": "ፀጋዬ አመኑ",
+     "role": "author",
+     "romanized": "tsegaye amenu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1987?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous",
+    "language-unmapped"
+   ],
+   "href": "https://chibbo.app/work/wk_29n35trm",
+   "id": "wk_29n35trm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wolayteto lemsuwa",
+    "script": "Ethi",
+    "text": "ዎላይተቶ ሌምሱዋ"
+   },
+   "type": "work",
+   "year": 1987
+  }
+ ]
+}

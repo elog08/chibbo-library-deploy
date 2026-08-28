@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasfasha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tjbbq2v2",
+ "id": "pe_tjbbq2v2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes fesha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ፍስሃ"
+  },
+  "romanized": "yohenes fesha",
+  "sort_key": "ዮሀንስፍስሀ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ናፋቂ ዜማዎች .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d360c5b82c74d27494f3a9829149c855f67dce4ab2b7c6e5f166383f80cf0c2d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wxe582rv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wxe582rv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tjbbq2v2",
+     "name": "ዮሐንስ ፍስሃ",
+     "role": "author",
+     "romanized": "yohenes fesha"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_wxe582rv",
+   "id": "wk_wxe582rv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "nafaqi zemawoch",
+    "script": "Ethi",
+    "text": "ናፋቂ ዜማዎች"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

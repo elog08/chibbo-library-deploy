@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "cmondonvidailhat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_9xc81wdf",
+ "id": "pe_9xc81wdf",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "C. MONDON-VIDAILHET"
+  },
+  "romanized": "C. MONDON-VIDAILHET",
+  "sort_key": "cmondonvidailhet"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዳግማዊ አጼ ቴዎድሮስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5d0465b00af272617186fd4036d85ed6dff6f9225e9ea4f49e0a1ac442f3df81",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_xv0gngz9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xv0gngz9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9xc81wdf",
+     "name": "C. MONDON-VIDAILHET",
+     "role": "author",
+     "romanized": "C. MONDON-VIDAILHET"
+    },
+    {
+     "id": "pe_9btvdz1j",
+     "name": "Walda Mâryâm",
+     "role": "author",
+     "romanized": "Walda Mâryâm"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1904",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_xv0gngz9",
+   "id": "wk_xv0gngz9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "CHRONIQUE DE THÉODOROS II ROI DES ROIS D'ÉTHIOPIE (1853-1868)",
+    "script": "Latn",
+    "text": "CHRONIQUE DE THÉODOROS II ROI DES ROIS D'ÉTHIOPIE (1853-1868)"
+   },
+   "type": "work",
+   "year": 1904
+  }
+ ]
+}

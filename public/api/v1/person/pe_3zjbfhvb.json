@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "tachanajobramakonan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3zjbfhvb",
+ "id": "pe_3zjbfhvb",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "techane jobre mekonen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተጫነ ጆብሬ መኮንን"
+  },
+  "romanized": "techane jobre mekonen",
+  "sort_key": "ተጫነጆብሬመኮንን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሀበሻ ጀብዱ (1).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "005c5182a6cbc6f68abc9f2e29292905beb0c736d6965493ec754c9ea934b109",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b0vp9phr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b0vp9phr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_68af5y26",
+     "name": "አዶልፍ ፓርለሳክ",
+     "role": "author",
+     "romanized": "adolef parlesak"
+    },
+    {
+     "id": "pe_3zjbfhvb",
+     "name": "ተጫነ ጆብሬ መኮንን",
+     "role": "author",
+     "romanized": "techane jobre mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1996-09-11/1997-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_b0vp9phr",
+   "id": "wk_b0vp9phr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehabesha jebdu",
+    "script": "Ethi",
+    "text": "የሃበሻ ጀብዱ"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

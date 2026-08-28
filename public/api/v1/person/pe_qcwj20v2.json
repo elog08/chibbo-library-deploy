@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "urusulanafla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qcwj20v2",
+ "id": "pe_qcwj20v2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "urusula nafla",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኡሩሱላ ናፍላ"
+  },
+  "romanized": "urusula nafla",
+  "sort_key": "ኡሩሱላናፍላ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ውሳኔ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e28b651f6be035d6e44f6ff147c3597227b7e650d5a5a5cd05f883d87d55e653",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0ecra338.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0ecra338.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qcwj20v2",
+     "name": "ኡሩሱላ ናፍላ",
+     "role": "author",
+     "romanized": "urusula nafla"
+    },
+    {
+     "id": "pe_vhkm8vjk",
+     "name": "ቩሲ ማሊንዲ",
+     "role": "author",
+     "romanized": "vusi malindi"
+    },
+    {
+     "id": "pe_ptgnekx8",
+     "name": "ናትናኤል ወርቁ",
+     "role": "author",
+     "romanized": "natnael werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0ecra338",
+   "id": "wk_0ecra338",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wesane",
+    "script": "Ethi",
+    "text": "ውሳኔ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

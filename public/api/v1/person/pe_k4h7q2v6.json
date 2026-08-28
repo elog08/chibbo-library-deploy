@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanuzayhun",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_k4h7q2v6",
+ "id": "pe_k4h7q2v6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu zeyhun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ ዘይሁን"
+  },
+  "romanized": "berhanu zeyhun",
+  "sort_key": "ብርሀኑዘይሁን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የታንጉት ሚስጥር - ብርሀኑ ዘሪሁን .pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a1334efb1b88bcc6e063f7c17c9622852792effcd9d54909e46da0d0de0efc66",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3x8k59qm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3x8k59qm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_k4h7q2v6",
+     "name": "ብርሃኑ ዘይሁን",
+     "role": "author",
+     "romanized": "berhanu zeyhun"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_3x8k59qm",
+   "id": "wk_3x8k59qm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetangut mestir",
+    "script": "Ethi",
+    "text": "የታንጉት ምስጢር"
+   },
+   "type": "work"
+  }
+ ]
+}

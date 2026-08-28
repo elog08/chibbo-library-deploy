@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "hadisalamayahu",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_mqh1gb2n",
  "id": "pe_mqh1gb2n",
  "identifiers": {
@@ -46,7 +48,11 @@
   "sort_key": "ሀዲስአለማየሁ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ወንጀለኛው ዳኛ - ሀዲስ አለማየሁ.pdf",
+  "Read from the title page of ፍቅር እስከ መቃብር  ሀዲስ አለማየሁ.pdf",
+  "Read from the title page of ፍቅር_እስከ_መቃብር_ዶክተር_ሀዲስ_ዓለማየሁ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
@@ -77,7 +83,9 @@
    },
    "flags": [
     "ec-gc-conflict",
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_ev9kxm9r",
    "id": "wk_ev9kxm9r",
@@ -93,6 +101,10 @@
    "year": 1965
   },
   {
+   "cover": {
+    "path": "assets/covers/wk_vv1gg3dv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vv1gg3dv.png"
+   },
    "credits": [
     {
      "id": "pe_mqh1gb2n",
@@ -106,6 +118,9 @@
     "edtf": "1981-09-11/1982-09-10",
     "flags": []
    },
+   "flags": [
+    "llm-extracted"
+   ],
    "href": "https://chibbo.app/work/wk_vv1gg3dv",
    "id": "wk_vv1gg3dv",
    "language": "am",

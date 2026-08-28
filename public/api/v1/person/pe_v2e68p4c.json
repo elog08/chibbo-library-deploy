@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "masayalazar",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_v2e68p4c",
+ "id": "pe_v2e68p4c",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesay alazar",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መሳይ አልዓዛር"
+  },
+  "romanized": "mesay alazar",
+  "sort_key": "መሳይአልአዛር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of DEHENENATU.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "9cb2d4aeec4fbfdfc31e6a13ac486157cdd458500d5b415156c91b13fed8792c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_kbrtdarc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kbrtdarc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7fqevmxn",
+     "name": "ይስማዕከ ወርቁ",
+     "role": "author",
+     "romanized": "yesmake werqu"
+    },
+    {
+     "id": "pe_v2e68p4c",
+     "name": "መሳይ አልዓዛር",
+     "role": "author",
+     "romanized": "mesay alazar"
+    },
+    {
+     "id": "pe_7qvyansn",
+     "name": "ስንታየሁ ብርሃኑ",
+     "role": "author",
+     "romanized": "sentayehu berhanu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_kbrtdarc",
+   "id": "wk_kbrtdarc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "dehennetu",
+    "script": "Ethi",
+    "text": "ደህንነቱ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

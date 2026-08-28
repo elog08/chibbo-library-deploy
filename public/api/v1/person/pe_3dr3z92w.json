@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "faqadutalahun",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3dr3z92w",
+ "id": "pe_3dr3z92w",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "feqadu telahun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፍቃዱ ጥላሁን"
+  },
+  "romanized": "feqadu telahun",
+  "sort_key": "ፍቃዱጥላሁን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከ ሎዲባር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1a5bd786fb3309896da6c0373cee7a7698b12599734b41e76cdc493070beca4d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_btxsw7z5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_btxsw7z5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3dr3z92w",
+     "name": "ፍቃዱ ጥላሁን",
+     "role": "author",
+     "romanized": "feqadu telahun"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_btxsw7z5",
+   "id": "wk_btxsw7z5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ke lodibar tsehufoch",
+    "script": "Ethi",
+    "text": "ከ ሎዲባር ፅሁፎች"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

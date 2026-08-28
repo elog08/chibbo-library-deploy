@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "kahsayabarhabasrat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_df6q8bem",
+ "id": "pe_df6q8bem",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kahsay aberha besrat",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሕሳይ አብርሃ ብስራት"
+  },
+  "romanized": "kahsay aberha besrat",
+  "sort_key": "ካህሳይአብርሀብስራት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአሲምባ ፍቅር.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "18cb1efeb9888a7c59d78315cacd0edac6b68ee02a10643afb5ae217ba94400e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qzt8gnjj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qzt8gnjj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_df6q8bem",
+     "name": "ካሕሳይ አብርሃ ብስራት",
+     "role": "author",
+     "romanized": "kahsay aberha besrat"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2012-09-11/2013-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qzt8gnjj",
+   "id": "wk_qzt8gnjj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeasimba feqer",
+    "script": "Ethi",
+    "text": "የአሲምባ ፍቅር"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

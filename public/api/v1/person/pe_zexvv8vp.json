@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "marshabanafa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zexvv8vp",
+ "id": "pe_zexvv8vp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mersha benefe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መርሻ በነፈ"
+  },
+  "romanized": "mersha benefe",
+  "sort_key": "መርሻበነፈ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፍቅርና ተመስጦ ኦሾ-@BOOKALEM.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d613a9a186256c460dc5290a92f60a99346edd6c16f8f5dc678d037c4eb456e8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t30e0cvr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t30e0cvr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1gjg4exj",
+     "name": "ኦሾ",
+     "role": "author",
+     "romanized": "osho"
+    },
+    {
+     "id": "pe_zexvv8vp",
+     "name": "መርሻ በነፈ",
+     "role": "author",
+     "romanized": "mersha benefe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_t30e0cvr",
+   "id": "wk_t30e0cvr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "o sho feqer ena temesto (wened ena set)",
+    "script": "Ethi",
+    "text": "ኦ ሾ ፍቅር እና ተመስጦ (ወንድ እና ሴት)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

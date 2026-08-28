@@ -1,0 +1,128 @@
+{
+ "extensions": {},
+ "fingerprint": "sulaimanshifaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kx41ne66",
+ "id": "pe_kx41ne66",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Suleiman Shifaw"
+  },
+  "romanized": "Suleiman Shifaw",
+  "sort_key": "suleimanshifaw"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of Life 101 Photo Comic Book 26 by AAU MARCH Project.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3ab35ffa9b26d576870d39e42952adb282f16e43c0462da70559fcdbc464783b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_bx8rs49d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bx8rs49d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4spfsedm",
+     "name": "Fikru Kassa",
+     "role": "author",
+     "romanized": "Fikru Kassa"
+    },
+    {
+     "id": "pe_ec0kmvjk",
+     "name": "Zewge Abate",
+     "role": "author",
+     "romanized": "Zewge Abate"
+    },
+    {
+     "id": "pe_4ym1khpm",
+     "name": "Biniyam Wubishet",
+     "role": "author",
+     "romanized": "Biniyam Wubishet"
+    },
+    {
+     "id": "pe_zk00yx5c",
+     "name": "Mack Eshete",
+     "role": "author",
+     "romanized": "Mack Eshete"
+    },
+    {
+     "id": "pe_8430agy8",
+     "name": "Tsigereda Abay",
+     "role": "author",
+     "romanized": "Tsigereda Abay"
+    },
+    {
+     "id": "pe_kywacd9k",
+     "name": "Pascal Funder",
+     "role": "author",
+     "romanized": "Pascal Funder"
+    },
+    {
+     "id": "pe_ecnyt13m",
+     "name": "Daniel Seleshi",
+     "role": "author",
+     "romanized": "Daniel Seleshi"
+    },
+    {
+     "id": "pe_8kwhtmqh",
+     "name": "Addis Tesfa",
+     "role": "author",
+     "romanized": "Addis Tesfa"
+    },
+    {
+     "id": "pe_nenda09s",
+     "name": "Meaza Worku",
+     "role": "author",
+     "romanized": "Meaza Worku"
+    },
+    {
+     "id": "pe_kx41ne66",
+     "name": "Suleiman Shifaw",
+     "role": "author",
+     "romanized": "Suleiman Shifaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bx8rs49d",
+   "id": "wk_bx8rs49d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "THE JOURNEY LIFE 101",
+    "script": "Latn",
+    "text": "THE JOURNEY LIFE 101"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

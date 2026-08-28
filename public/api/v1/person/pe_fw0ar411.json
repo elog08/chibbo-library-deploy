@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "danaltarunah",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fw0ar411",
+ "id": "pe_fw0ar411",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danel teruneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳንኤል ጥሩነህ"
+  },
+  "romanized": "danel teruneh",
+  "sort_key": "ዳንኤልጥሩነህ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የራስ ወዳድነት ጸጋ the virtue of selfishness.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ef0f367d212b5b0fafdd6c5b26883c57c9d7954bf8289bbd92ad9f21476ee09d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_24zz52eq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_24zz52eq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ks4f7mqc",
+     "name": "አየን ራንድ",
+     "role": "author",
+     "romanized": "AYN RAND"
+    },
+    {
+     "id": "pe_eqasm42w",
+     "name": "ናትናኤል ብራንደን",
+     "role": "author",
+     "romanized": "natnael beranden"
+    },
+    {
+     "id": "pe_fw0ar411",
+     "name": "ዳንኤል ጥሩነህ",
+     "role": "author",
+     "romanized": "danel teruneh"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_24zz52eq",
+   "id": "wk_24zz52eq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeras - wedadnet tsega",
+    "script": "Ethi",
+    "text": "የራስ - ወዳድነት ፀጋ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "29gazatanyochnadarasyan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5brv1xc4",
+ "id": "pe_5brv1xc4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "29 gazetenyochna derasyan",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "29 ጋዜጠኞችና ደራስያን"
+  },
+  "romanized": "29 gazetenyochna derasyan",
+  "sort_key": "29ጋዜጠኞችናደራስያን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of እፍታ - በ29 ደራስያን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "02bae7be903a2511803d2bd8d8cf3ea34224b67bd0e1eb21dd404bb9fe0b8c52",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_fc7zqwgz.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fc7zqwgz.png"
+   },
+   "credits": [
+    {
+     "id": "pe_5brv1xc4",
+     "name": "29 ጋዜጠኞችና ደራስያን",
+     "role": "author",
+     "romanized": "29 gazetenyochna derasyan"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fc7zqwgz",
+   "id": "wk_fc7zqwgz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "efta",
+    "script": "Ethi",
+    "text": "እፍታ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

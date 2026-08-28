@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "samualputnam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qmcm9syw",
+ "id": "pe_qmcm9syw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "samuel putnam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሳሙኤል ፑትናም"
+  },
+  "romanized": "samuel putnam",
+  "sort_key": "ሳሙኤልፑትናም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰርቫንቲስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "a18295c6ea6ca75fff7d67109f21addce8a4376b8e2f1abc45db59a36643912c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tw58h1wd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tw58h1wd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_k3gh3711",
+     "name": "ሚካኤል ደ ሰርቫንቲስ ሳቬንድራ",
+     "role": "author",
+     "romanized": "mikael de servantis savenedra"
+    },
+    {
+     "id": "pe_qmcm9syw",
+     "name": "ሳሙኤል ፑትናም",
+     "role": "author",
+     "romanized": "samuel putnam"
+    },
+    {
+     "id": "pe_2q9cepx6",
+     "name": "አስፋው ተፈራ ወ/መስቀል",
+     "role": "author",
+     "romanized": "asfaw tefera we/mesqel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1977?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tw58h1wd",
+   "id": "wk_tw58h1wd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "don kishot kefel aned",
+    "script": "Ethi",
+    "text": "ዶን ኪሾት ክፍል አንድ"
+   },
+   "type": "work",
+   "year": 1977
+  }
+ ]
+}

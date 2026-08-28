@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "ganabaltasor",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_18bhb54m",
+ "id": "pe_18bhb54m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "G.N. Biltasor",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገ.ነ.ብልጣሶር"
+  },
+  "romanized": "G.N. Biltasor",
+  "sort_key": "ገነብልጣሶር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሽግግር ደባ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "97e05e98b93eb9fcd00f6cfe4e945f12859ed6b4880b27ae9254da72cd6b29f1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qkjavfjt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qkjavfjt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_18bhb54m",
+     "name": "ገ.ነ.ብልጣሶር",
+     "role": "author",
+     "romanized": "G.N. Biltasor"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1990",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qkjavfjt",
+   "id": "wk_qkjavfjt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeshigigir Deba",
+    "script": "Ethi",
+    "text": "የሽግግር ደባ"
+   },
+   "type": "work",
+   "year": 1990
+  }
+ ]
+}

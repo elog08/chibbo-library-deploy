@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "mamowadnah",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_hnszfsbc",
  "id": "pe_hnszfsbc",
  "identifiers": {
@@ -58,7 +60,15 @@
   "sort_key": "ማሞውድነህ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ምጽአተ እስራኤል - ማሞ ውድነህ.pdf",
+  "Read from the title page of ሰላዩ ሬሳ - ማሞ ውድነህ (1).pdf",
+  "Read from the title page of አሉላ አባ ነጋ ማሞ ውድነህ.pdf",
+  "Read from the title page of የኛ ሰው በደማስቆ - ማሞ ውድነህ.pdf",
+  "Read from the title page of የዐረቦችና_እስራዔል_የ6ቱ_ቀን_ጦርነት_ማሞ_ውድነህ.pdf",
+  "Read from the title page of የደቡብ ሱዳን ብጥብጥ.pdf",
+  "Read from the title page of ዩፎስ በራሪ ዲስኮች @OLDBOOKSPD.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -67,6 +77,209 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6gae2nsq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6gae2nsq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1965-09-11/1966-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_6gae2nsq",
+   "id": "wk_6gae2nsq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yedebub sudan betebet",
+    "script": "Ethi",
+    "text": "የደቡብ ሱዳን ብጥብጥ"
+   },
+   "type": "work",
+   "year": 1965
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_9gj14kpn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9gj14kpn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rxsb5vnj",
+     "name": "ኤዊን ሞንታጐ",
+     "role": "author",
+     "romanized": "ewin montagwe"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1978-09-11/1979-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_9gj14kpn",
+   "id": "wk_9gj14kpn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "selayu resa",
+    "script": "Ethi",
+    "text": "ሰላዩ ሬሳ"
+   },
+   "type": "work",
+   "year": 1978
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_a0hq99cp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a0hq99cp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_az981y21",
+     "name": "ጆን ዊልዶን",
+     "role": "author",
+     "romanized": "jon wildon"
+    },
+    {
+     "id": "pe_v1mbbz2r",
+     "name": "ዞላ ሊቪቲት",
+     "role": "author",
+     "romanized": "zola livitit"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_a0hq99cp",
+   "id": "wk_a0hq99cp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yufos-berari diskoch",
+    "script": "Ethi",
+    "text": "ዩፎስ-በራሪ ዲስኮች"
+   },
+   "type": "work",
+   "year": 1991
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_deh1t66d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_deh1t66d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h9psj3aq",
+     "name": "ሊዮን ዩሪስ",
+     "role": "author",
+     "romanized": "liyon yuris"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_deh1t66d",
+   "id": "wk_deh1t66d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metsate-esrael",
+    "script": "Ethi",
+    "text": "ምጽአተ-እስራኤል"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_f7h0pjr1.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f7h0pjr1.png"
+   },
+   "credits": [
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    },
+    {
+     "id": "pe_fvswg7ee",
+     "name": "ተ/አካሉ",
+     "role": "author",
+     "romanized": "te/akalu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f7h0pjr1",
+   "id": "wk_f7h0pjr1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yenya sew bedemasqo",
+    "script": "Ethi",
+    "text": "የኛ ሰው በደማስቆ"
+   },
+   "type": "work",
+   "year": 2013
+  },
   {
    "cover": {
     "path": "assets/covers/wk_jf4gcjbb.jpg",
@@ -80,8 +293,17 @@
      "romanized": "mamo wedneh"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_jf4gcjbb",
    "id": "wk_jf4gcjbb",
@@ -93,7 +315,55 @@
     "script": "Ethi",
     "text": "አሉላ አባ ነጋ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 1981
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nya5ny29.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nya5ny29.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t7mhryvt",
+     "name": "ራንዶልፍ ቸርችል",
+     "role": "author",
+     "romanized": "randolef cherechel"
+    },
+    {
+     "id": "pe_yyesp2pd",
+     "name": "ዊንስተን ቸርችል",
+     "role": "author",
+     "romanized": "winesten cherechel"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_nya5ny29",
+   "id": "wk_nya5ny29",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yearebochna esrael ye6 qen tornet",
+    "script": "Ethi",
+    "text": "የአረቦችና እስራኤል የ፮ ቀን ጦርነት"
+   },
+   "type": "work",
+   "year": 2014
   },
   {
    "cover": {

@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "tsagayashanabar",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_wgksgz3z",
  "id": "pe_wgksgz3z",
  "identifiers": {},
@@ -27,7 +29,10 @@
   "sort_key": "ጸጋዬሽንብር"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ትንቅንቅ - ሲድኒ ሼልደን.pdf",
+  "Read from the title page of የሰው_ልጅ_የጥበበኛነት_መንገድ_አንቶኒ_ሮቢንስ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -36,6 +41,47 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6apv6767.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6apv6767.png"
+   },
+   "credits": [
+    {
+     "id": "pe_d28tqdrq",
+     "name": "አንቶኒ ሮቢንስ",
+     "role": "author",
+     "romanized": "antoni robines"
+    },
+    {
+     "id": "pe_wgksgz3z",
+     "name": "ፀጋዬ ሽንብር",
+     "role": "author",
+     "romanized": "tsegaye sheneber"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_6apv6767",
+   "id": "wk_6apv6767",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "UNLIMITED POWER",
+    "script": "Ethi",
+    "text": "የሰው ልጅ የጥበበኛነት መንገድ (ሞዴል)"
+   },
+   "type": "work",
+   "year": 2014
+  },
   {
    "cover": {
     "path": "assets/covers/wk_n9spdxcn.jpg",
@@ -61,6 +107,40 @@
     "romanized": "yengus selemon meker",
     "script": "Ethi",
     "text": "የንጉሥ ሰለሞን ምክር"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_veedfs4c.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_veedfs4c.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_wgksgz3z",
+     "name": "ፀጋዬ ሽንብር",
+     "role": "author",
+     "romanized": "tsegaye sheneber"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_veedfs4c",
+   "id": "wk_veedfs4c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teneqeneq",
+    "script": "Ethi",
+    "text": "ትንቅንቅ"
    },
    "type": "work"
   }

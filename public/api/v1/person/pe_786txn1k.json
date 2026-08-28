@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "haruysama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_786txn1k",
+ "id": "pe_786txn1k",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "heruy seme",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኀሩይ ስሜ"
+  },
+  "romanized": "heruy seme",
+  "sort_key": "ሀሩይስሜ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያ ዘመን አቆጣጠር- 1.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "a6627c1c35f1e571893a8a1af067de05fb3b92ebfa315256cd14d01c7abac721",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k385fsma.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k385fsma.png"
+   },
+   "credits": [
+    {
+     "id": "pe_786txn1k",
+     "name": "ኀሩይ ስሜ",
+     "role": "author",
+     "romanized": "heruy seme"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_k385fsma",
+   "id": "wk_k385fsma",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tekeklenyaw yeityopya zemen aqotater alemu yetesasatewen yegorgoryos zemen aqotater meketel zare kegetachen ledet behwala 2000 a.me mehon",
+    "script": "Ethi",
+    "text": "ትክክለኛው የኢትዮጵያ ዘመን አቆጣጠር አለሙ የተሳሳተውን የጎርጎርዮስ ዘመን አቆጣጠር መከተል ዛሬ ከጌታችን ልደት በኋላ 2000 ዓ.ም መሆን"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

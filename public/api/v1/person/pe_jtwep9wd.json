@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "anafaranak",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jtwep9wd",
+ "id": "pe_jtwep9wd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ana feranek",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አና ፍራንክ"
+  },
+  "romanized": "ana feranek",
+  "sort_key": "አናፍራንክ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሀይማኖትን መመርመር ኦሾ-@BOOKALEM.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "1dee64412b17e5a00f7d085c4f163be6d523dd96580201fc8b0abdbe6dc499b6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wzvt8872.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wzvt8872.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jxa6s76a",
+     "name": "አሾ",
+     "role": "author",
+     "romanized": "OSHO"
+    },
+    {
+     "id": "pe_jtwep9wd",
+     "name": "አና ፍራንክ",
+     "role": "author",
+     "romanized": "ana feranek"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wzvt8872",
+   "id": "wk_wzvt8872",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "haymanoten memermer",
+    "script": "Ethi",
+    "text": "ኃይማኖትን መመርመር"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

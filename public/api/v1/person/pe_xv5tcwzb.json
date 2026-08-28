@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "kasawaraqnah",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xv5tcwzb",
+ "id": "pe_xv5tcwzb",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kasa wereqneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሣ ወርቅነህ"
+  },
+  "romanized": "kasa wereqneh",
+  "sort_key": "ካሳወርቅነህ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ባሻ አሸብር በአሜሪካ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e0b779534fb39f303897dca7fe4d0ca2d5b7393b23a76ee0ec79aafbda2064c4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_g1mwfyng.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_g1mwfyng.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xv5tcwzb",
+     "name": "ካሣ ወርቅነህ",
+     "role": "author",
+     "romanized": "kasa wereqneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1967?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g1mwfyng",
+   "id": "wk_g1mwfyng",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "basha asheber beamerika + yepoletika getmoch",
+    "script": "Ethi",
+    "text": "ባሻ አሸብር በአሜሪካ + የፖለቲካ ግጥሞች"
+   },
+   "type": "work",
+   "year": 1967
+  }
+ ]
+}

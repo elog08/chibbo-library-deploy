@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "adabalyumikal",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j6ta72qa",
+ "id": "pe_j6ta72qa",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "e.debelyu. mikel",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤ.ደብልዩ. ሚኬል"
+  },
+  "romanized": "e.debelyu. mikel",
+  "sort_key": "ኤደብልዩሚኬል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሀያሉ ሽብርተኛ - A.W ሚኬል.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "dd778f56eb02e5ad0300ae412b048a7ebf8d204a22f92b6c151972e38f1f7be4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_m67m3k7w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_m67m3k7w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j6ta72qa",
+     "name": "ኤ.ደብልዩ. ሚኬል",
+     "role": "author",
+     "romanized": "e.debelyu. mikel"
+    },
+    {
+     "id": "pe_qbvyjgn8",
+     "name": "ያሬድ ብርሃኑ ሣህሌ",
+     "role": "author",
+     "romanized": "yared berhanu sahle"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m67m3k7w",
+   "id": "wk_m67m3k7w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE LUXUS",
+    "script": "Ethi",
+    "text": "ኃያሉ ሽብርተኛ"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "adoni",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2zwtrbbe",
+ "id": "pe_2zwtrbbe",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "adoni",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አዶኒ"
+  },
+  "romanized": "adoni",
+  "sort_key": "አዶኒ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአና ማስታወሻ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c22591dd3372e7d66f79c01e56aadc8ec47ea6c926bd8bfafd4ffccb263b2596",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_mw3kb17e.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_mw3kb17e.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2zwtrbbe",
+     "name": "አዶኒ",
+     "role": "author",
+     "romanized": "adoni"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mw3kb17e",
+   "id": "wk_mw3kb17e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeana mastawesha",
+    "script": "Ethi",
+    "text": "የአና ማስታወሻ"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

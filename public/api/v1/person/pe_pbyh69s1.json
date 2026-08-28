@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "abala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_pbyh69s1",
+ "id": "pe_pbyh69s1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abale E.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል እ."
+  },
+  "romanized": "Abale E.",
+  "sort_key": "አቤልእ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የብርሃን ናፍቆት - አቤል እ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "47d838f04d9d0dae706f2ec434e6a18066785692697d106ff4d87ea136328132",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_efa00r59.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_efa00r59.png"
+   },
+   "credits": [
+    {
+     "id": "pe_pbyh69s1",
+     "name": "አቤል እ.",
+     "role": "author",
+     "romanized": "Abale E."
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_efa00r59",
+   "id": "wk_efa00r59",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeberhan nafqot",
+    "script": "Ethi",
+    "text": "የብርሃን ናፍቆት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

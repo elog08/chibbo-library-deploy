@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "mulugatayafru",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_snjm1dnp",
+ "id": "pe_snjm1dnp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mulugeta yefru",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሙሉጌታ ይፍሩ"
+  },
+  "romanized": "mulugeta yefru",
+  "sort_key": "ሙሉጌታይፍሩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በቀለኛዉ ሰላይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "24f27fdc0e992b1912ac7ed39fbe05f11b40628fa928dab35364f04d22201e59",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_yz54vd0m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_yz54vd0m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4bz8hp2f",
+     "name": "ስትዋርት ውድስ",
+     "role": "author",
+     "romanized": "setwaret wedes"
+    },
+    {
+     "id": "pe_snjm1dnp",
+     "name": "ሙሉጌታ ይፍሩ",
+     "role": "author",
+     "romanized": "mulugeta yefru"
+    },
+    {
+     "id": "pe_412bkgpz",
+     "name": "ሚሊዮን ግዛው",
+     "role": "author",
+     "romanized": "miliyon gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yz54vd0m",
+   "id": "wk_yz54vd0m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beqelenyaw selay",
+    "script": "Ethi",
+    "text": "በቀለኛው ሰላይ"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "pawlosnyonyo",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_38bg94hx",
  "id": "pe_38bg94hx",
  "identifiers": {
@@ -40,7 +42,13 @@
   "sort_key": "ጳውሎስኞኞ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ስድስተኛው_አስደናቂ_ታሪኮች_ጳውሎስ_ኞኞ.pdf",
+  "Read from the title page of አጤ ምኒሊክ - ጳውሎስ ኞኞ.pdf",
+  "Read from the title page of አጤ ምንሊክ -  ጳውሎስ ኞኞ.pdf",
+  "Read from the title page of አጤ ቴድሮስ - ጳውሎስ ኞኞ.pdf",
+  "Read from the title page of የኢትዮጵያና የኢጣሊያ ጦርነት- 1.PDF"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -49,6 +57,112 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_15p098t3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_15p098t3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_15p098t3",
+   "id": "wk_15p098t3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "dagmawi ate menlik",
+    "script": "Ethi",
+    "text": "ዳግማዊ አጤ ምንሊክ"
+   },
+   "type": "work",
+   "year": 1991
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_bh2fc2sd.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bh2fc2sd.png"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_bh2fc2sd",
+   "id": "wk_bh2fc2sd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "dagmawi ate menilek",
+    "script": "Ethi",
+    "text": "ዳግማዊ አጤ ምኒልክ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_mt6g75v7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_mt6g75v7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mt6g75v7",
+   "id": "wk_mt6g75v7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopyana yeitaliya tornet",
+    "script": "Ethi",
+    "text": "የኢትዮጵያና የኢጣሊያ ጦርነት"
+   },
+   "type": "work",
+   "year": 1980
+  },
   {
    "cover": {
     "path": "assets/covers/wk_r918xkgs.jpg",
@@ -79,6 +193,43 @@
   },
   {
    "cover": {
+    "path": "assets/covers/wk_sfbg11q6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sfbg11q6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_38bg94hx",
+     "name": "ጳውሎስ ኞኞ",
+     "role": "author",
+     "romanized": "pawlos nyonyo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sfbg11q6",
+   "id": "wk_sfbg11q6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sedestenyaw asdenaqi tarikoch",
+    "script": "Ethi",
+    "text": "ስድስተኛው አስደናቂ ታሪኮች"
+   },
+   "type": "work",
+   "year": 1993
+  },
+  {
+   "cover": {
     "path": "assets/covers/wk_vhgdc655.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%8C%A4_%E1%89%B4%E1%8B%8E%E1%8B%B5%E1%88%AE%E1%88%B5.jpg"
    },
@@ -91,7 +242,9 @@
     }
    ],
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "llm-extracted",
+    "filename-title-mismatch"
    ],
    "href": "https://chibbo.app/work/wk_vhgdc655",
    "id": "wk_vhgdc655",

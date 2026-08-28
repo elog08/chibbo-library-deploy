@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "hirutdatabara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jz8ahpw2",
+ "id": "pe_jz8ahpw2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "hirut detebere",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሒሩት ደተበሬ"
+  },
+  "romanized": "hirut detebere",
+  "sort_key": "ሂሩትደተበሬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ስኬታማ_የጥናት_ምስጢር_አቡሽ_አያሌው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "84f3f8c6b6f63a0b055fe2516435d12e14cad731994fec4218cb8a791f3c2964",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9jchy2sr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9jchy2sr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6ygy1z0f",
+     "name": "ዶ/ር አቡሽ አያለው",
+     "role": "author",
+     "romanized": "Dr Abush Ayalew"
+    },
+    {
+     "id": "pe_jz8ahpw2",
+     "name": "ሒሩት ደተበሬ",
+     "role": "author",
+     "romanized": "hirut detebere"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_9jchy2sr",
+   "id": "wk_9jchy2sr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "seketama tenat",
+    "script": "Ethi",
+    "text": "ስኬታማ ጥናት"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

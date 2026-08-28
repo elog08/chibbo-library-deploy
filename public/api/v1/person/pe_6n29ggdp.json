@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "diyaqonashanafimakonan",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_6n29ggdp",
+ "id": "pe_6n29ggdp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "diyaqon ashenafi mekonen",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲያቆን አሸናፊ መኮንን"
+  },
+  "romanized": "diyaqon ashenafi mekonen",
+  "sort_key": "ዲያቆንአሸናፊመኮንን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የወዳጅ_ድምፅ_በ_ዲንአሸናፊ_መኮንን_@amhbook1_.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "28a7939fdc53c3c3ca726a53e930ce7c68db435c6934a75296001f019ba44340",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_545krysr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_545krysr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_6n29ggdp",
+     "name": "ዲያቆን አሸናፊ መኮንን",
+     "role": "author",
+     "romanized": "diyaqon ashenafi mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_545krysr",
+   "id": "wk_545krysr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yewedaj demets",
+    "script": "Ethi",
+    "text": "የወዳጅ ድምፅ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

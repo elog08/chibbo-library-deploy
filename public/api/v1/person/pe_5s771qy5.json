@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "fasikagazaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_5s771qy5",
+ "id": "pe_5s771qy5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "fasika gezaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፋሲካ ግዛው"
+  },
+  "romanized": "fasika gezaw",
+  "sort_key": "ፋሲካግዛው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማሃትማ ጋንዲ ሙሉቀን ታሪኩ.pdf",
+  "Read from the title page of አዙሪት - ሲድኒ ሼልደን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "846b19c92b72b15f71dfca4360ae12104938cc701539eaa82331fe3d74a4841c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3za6etwp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3za6etwp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_5s771qy5",
+     "name": "ፋሲካ ግዛው",
+     "role": "author",
+     "romanized": "fasika gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2001-09-11/2002-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3za6etwp",
+   "id": "wk_3za6etwp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "azurit",
+    "script": "Ethi",
+    "text": "አዙሪት"
+   },
+   "type": "work",
+   "year": 2001
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_nwwt5a4d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nwwt5a4d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ykgm7tkt",
+     "name": "ማሃትማ ጋንዲ",
+     "role": "author",
+     "romanized": "MAHATMA GANDHI"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    },
+    {
+     "id": "pe_w44g2rjs",
+     "name": "አማረ ብርሃኑ",
+     "role": "author",
+     "romanized": "amare berhanu"
+    },
+    {
+     "id": "pe_5s771qy5",
+     "name": "ፋሲካ ግዛው",
+     "role": "author",
+     "romanized": "fasika gezaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_nwwt5a4d",
+   "id": "wk_nwwt5a4d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "MAHATMA GANDHI THE STORY OF MY EXPERIMENTS WITH TRUTH AUTOBIOGRAPHY",
+    "script": "Ethi",
+    "text": "ማሃትማ ጋንዲ የሕይወት ታሪክ"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

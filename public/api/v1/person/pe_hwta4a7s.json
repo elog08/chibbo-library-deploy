@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "alyaswanadmu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_hwta4a7s",
+ "id": "pe_hwta4a7s",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "elyas wenedmu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤልያስ ወንድሙ"
+  },
+  "romanized": "elyas wenedmu",
+  "sort_key": "ኤልያስወንድሙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትግላችን በ ኮል መንግስቱ ሃም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cf7d8146ccb02a894b36756741f92c1753c7983bd1f6c6ab05566c7e77755662",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_r01bb319.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r01bb319.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xzsvk0t1",
+     "name": "መንግሥቱ ኃይለማርያም",
+     "role": "author",
+     "romanized": "menegestu haylemaryam"
+    },
+    {
+     "id": "pe_hwta4a7s",
+     "name": "ኤልያስ ወንድሙ",
+     "role": "author",
+     "romanized": "elyas wenedmu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_r01bb319",
+   "id": "wk_r01bb319",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teglachen yeityopya hezeb abyotawi yetegel tarik",
+    "script": "Ethi",
+    "text": "ትግላችን የኢትዮጵያ ሕዝብ አብዮታዊ የትግል ታሪክ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

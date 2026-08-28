@@ -1,0 +1,89 @@
+{
+ "extensions": {},
+ "fingerprint": "amsaluaklilu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_34skjv3a",
+ "id": "pe_34skjv3a",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "amsalu aklilu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አምሳሉ አክሊሉ"
+  },
+  "romanized": "amsalu aklilu",
+  "sort_key": "አምሳሉአክሊሉ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማረኛ ፈሊጦች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "458df2e9546db17f3d8e75d526f3bdb44cbdb9978c5c3f348a981e79c50723c3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0h85npxj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0h85npxj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_34skjv3a",
+     "name": "አምሳሉ አክሊሉ",
+     "role": "author",
+     "romanized": "amsalu aklilu"
+    },
+    {
+     "id": "pe_qxyycqs0",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0h85npxj",
+   "id": "wk_0h85npxj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya felitoch",
+    "script": "Ethi",
+    "text": "የአማርኛ ፈሊጦች"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

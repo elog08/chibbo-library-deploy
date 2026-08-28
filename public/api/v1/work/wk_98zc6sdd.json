@@ -10,22 +10,43 @@
    "order": 1,
    "person": "pe_qe0behv5",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_kp4yhrjv",
+   "role": "author"
   }
  ],
  "editions": [
   "ed_a0gea493",
-  "ed_q590dd3m"
+  "ed_q590dd3m",
+  "ed_9zy0kthx"
  ],
  "extensions": {},
  "fingerprint": "የሱፍአበባ|habtamualabachaw",
+ "first_published": {
+  "edtf": "2015-09-12/2016-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2008"
+  }
+ },
  "flags": [
-  "format-paper-back"
+  "format-paper-back",
+  "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_98zc6sdd",
  "id": "wk_98zc6sdd",
  "identifiers": {
   "hahubooks_code": [
    "jb_36"
+  ],
+  "pdf_pagehash": [
+   "0303031b03030300",
+   "0973370901050300",
+   "0d4d7d1b6b0f6310",
+   "1f08161e1e020e08",
+   "716d517171717178"
   ]
  },
  "language": "am",
@@ -89,13 +110,16 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.25/5 from 4 rating(s), 2 written review(s)"
+  "ethiobookreview community rating 3.25/5 from 4 rating(s), 2 written review(s)",
+  "Read from PDF front matter: የሱፍ አበባ - ሀብታሙ አለባቸው.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/yesuf-abeba"
  },
+ "publication_place": "አዲስ አበባ",
+ "publisher_name": "ሊተማን ቡክስ",
  "relations": [],
  "rights": {
   "shippable": false,

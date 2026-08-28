@@ -1,0 +1,98 @@
+{
+ "extensions": {},
+ "fingerprint": "adadahaylaslasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_pkcmkrqj",
+ "id": "pe_pkcmkrqj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "adeda hayleslase",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አደዳ ኃይለሥላሴ"
+  },
+  "romanized": "adeda hayleslase",
+  "sort_key": "አደዳሀይለስላሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ፍካሬ ኢትዮጲያ - ዶር አብነት ስሜ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e8a3465123086e1fc2168e9a650bc89d1658278a69d54dac6b36b52bd77309e8",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0zds600k.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0zds600k.png"
+   },
+   "credits": [
+    {
+     "id": "pe_41vbep5a",
+     "name": "ዶክተር አብነት ስሜ",
+     "role": "author",
+     "romanized": "dokter abnet seme"
+    },
+    {
+     "id": "pe_pkcmkrqj",
+     "name": "አደዳ ኃይለሥላሴ",
+     "role": "author",
+     "romanized": "adeda hayleslase"
+    },
+    {
+     "id": "pe_jth66arh",
+     "name": "ካሳሁን ከበደ",
+     "role": "author",
+     "romanized": "kasahun kebede"
+    },
+    {
+     "id": "pe_z7e5dkc1",
+     "name": "ተክለማርያም ኃይሉ",
+     "role": "author",
+     "romanized": "teklemaryam haylu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0zds600k",
+   "id": "wk_0zds600k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fekare ityopya",
+    "script": "Ethi",
+    "text": "ፍካሬ ኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

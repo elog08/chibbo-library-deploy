@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasgabramaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_k4z7k57w",
+ "id": "pe_k4z7k57w",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes gebre maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ ገብረ ማርያም"
+  },
+  "romanized": "yohenes gebre maryam",
+  "sort_key": "ዮሀንስገብረማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢቫን ቤልኪን ታሪኮች ፩ - ፑሽኪን.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0c259ff806bb9eed135eac9b816bc619d0e0b574a3306a95b7cd00e376831987",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5twtfgbt.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5twtfgbt.png"
+   },
+   "credits": [
+    {
+     "id": "pe_psmmy26s",
+     "name": "አሌክሳንደር ፑሽኪን",
+     "role": "author",
+     "romanized": "aleksander pushkin"
+    },
+    {
+     "id": "pe_k4z7k57w",
+     "name": "ዮሐንስ ገብረ ማርያም",
+     "role": "author",
+     "romanized": "yohenes gebre maryam"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1988",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5twtfgbt",
+   "id": "wk_5twtfgbt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeivan belkin tarikoch dubroveskiy",
+    "script": "Ethi",
+    "text": "የኢቫን ቤልኪን ታሪኮች ዱብሮቭስኪይ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

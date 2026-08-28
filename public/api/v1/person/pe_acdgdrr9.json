@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "waldasalasabaraka",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_acdgdrr9",
+ "id": "pe_acdgdrr9",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "welde selase bereka",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወልደ ሥላሴ በረካ"
+  },
+  "romanized": "welde selase bereka",
+  "sort_key": "ወልደስላሴበረካ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሕይወት ትዝታ - ወልደስላሴ በረካ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "ee556e4ef4fd6d868ed7ef75a9933478636587c552d3db60816dcfc3a9faf985",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_30qzwjrv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_30qzwjrv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_acdgdrr9",
+     "name": "ወልደ ሥላሴ በረካ",
+     "role": "author",
+     "romanized": "welde selase bereka"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2003-09-12/2004-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_30qzwjrv",
+   "id": "wk_30qzwjrv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeheywet tezta",
+    "script": "Ethi",
+    "text": "የሕይወት ትዝታ"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

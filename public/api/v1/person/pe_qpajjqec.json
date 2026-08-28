@@ -1,0 +1,78 @@
+{
+ "extensions": {},
+ "fingerprint": "amarafalabishaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_qpajjqec",
+ "id": "pe_qpajjqec",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Amare Afelae Bishaw",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አማረ አፈሌ ቢሻው!"
+  },
+  "romanized": "Amare Afelae Bishaw",
+  "sort_key": "አማረአፈሌቢሻው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከጋምቤላ እስከ ሁመራ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "163d0d3ca1d2ac7a55bf55fbb98c2e39b1907ba76a4b8578fb31f35a3f3cbc69",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_qqbvffmc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qqbvffmc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_qpajjqec",
+     "name": "አማረ አፈሌ ቢሻው!",
+     "role": "author",
+     "romanized": "Amare Afelae Bishaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2008-09-11/2009-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qqbvffmc",
+   "id": "wk_qqbvffmc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kegambela eske humera! lesudan meret ketesete yemetal mekera!",
+    "script": "Ethi",
+    "text": "ከጋምቤላ እስከ ሁመራ! ለሱዳን መሬት ከተሰጠ ይመጣል መከራ!"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

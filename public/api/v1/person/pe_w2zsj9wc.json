@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tababatarafa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_w2zsj9wc",
+ "id": "pe_w2zsj9wc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tebebe terefa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጥበበ ተረፋ"
+  },
+  "romanized": "tebebe terefa",
+  "sort_key": "ጥበበተረፋ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጣምራ ጦር - ገበየሁ አየለ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "68f3cfceead49c231988f4d2075af678c5d642ef9824fc47117053a3a77f1b74",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rgnr7v7m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rgnr7v7m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_cy10ssr8",
+     "name": "ገበየሁ አየለ",
+     "role": "author",
+     "romanized": "gebeyehu ayele"
+    },
+    {
+     "id": "pe_w2zsj9wc",
+     "name": "ጥበበ ተረፋ",
+     "role": "author",
+     "romanized": "tebebe terefa"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rgnr7v7m",
+   "id": "wk_rgnr7v7m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tamra tor",
+    "script": "Ethi",
+    "text": "ጣምራ ጦር"
+   },
+   "type": "work"
+  }
+ ]
+}

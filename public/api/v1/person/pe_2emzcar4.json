@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "batsuabunashinodasostanya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2emzcar4",
+ "id": "pe_2emzcar4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "betsu abune shinoda sostenya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብፁዕ አቡነ ሺኖዳ ሦስተኛ"
+  },
+  "romanized": "betsu abune shinoda sostenya",
+  "sort_key": "ብጹእአቡነሺኖዳሶስተኛ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የመንፈስ ፍሬዎች.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "2c1f67305fa7d982a2f8688a97dee42b82b77bfeae1e7f28d644fb1932d3e93a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_z7cpt7f8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_z7cpt7f8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2emzcar4",
+     "name": "ብፁዕ አቡነ ሺኖዳ ሦስተኛ",
+     "role": "author",
+     "romanized": "betsu abune shinoda sostenya"
+    },
+    {
+     "id": "pe_s841jj5v",
+     "name": "ያዕቆብ ሰንደቁ",
+     "role": "author",
+     "romanized": "yaqob sendequ"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2011-09-12/2012-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_z7cpt7f8",
+   "id": "wk_z7cpt7f8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemenfes ferewoch",
+    "script": "Ethi",
+    "text": "የመንፈስ ፍሬዎች"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

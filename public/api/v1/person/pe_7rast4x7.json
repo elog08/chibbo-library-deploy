@@ -1,0 +1,124 @@
+{
+ "extensions": {},
+ "fingerprint": "masafanhabtamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7rast4x7",
+ "id": "pe_7rast4x7",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mesefen hebtemaryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መስፍን ሀብተማርያም"
+  },
+  "romanized": "mesefen hebtemaryam",
+  "sort_key": "መስፍንሀብተማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቹቹ በጎዳና ክፍል2.pdf",
+  "Read from the title page of የቡና_ቤት_ስዕሎችና_ሌሎችም_ወጎች_መስፍን_ሀብተማርያም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d8214dc90b3599abf8bbe5a5cfc413720eeee6f7125e34523260b126693b8e6a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_33kyezh8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_33kyezh8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_z95pmgrq",
+     "name": "ዳንኤል ነጋሽ",
+     "role": "author",
+     "romanized": "danel negash"
+    },
+    {
+     "id": "pe_ckrcdd3k",
+     "name": "ሰዩም ታደሰ",
+     "role": "author",
+     "romanized": "seyum tadese"
+    },
+    {
+     "id": "pe_7rast4x7",
+     "name": "መስፍን ሀብተማርያም",
+     "role": "author",
+     "romanized": "mesefen hebtemaryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_33kyezh8",
+   "id": "wk_33kyezh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "chuchu begwedana",
+    "script": "Ethi",
+    "text": "ቹቹ በጐዳና"
+   },
+   "type": "work",
+   "year": 1992
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_bgnwn5nn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_bgnwn5nn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7rast4x7",
+     "name": "መስፍን ሀብተማርያም",
+     "role": "author",
+     "romanized": "mesefen hebtemaryam"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_bgnwn5nn",
+   "id": "wk_bgnwn5nn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebuna bet seloch ena lelochem wegoch (1976 – 1999)",
+    "script": "Ethi",
+    "text": "የቡና ቤት ስዕሎች እና ሌሎችም ወጎች (1976 – 1999)"
+   },
+   "type": "work"
+  }
+ ]
+}

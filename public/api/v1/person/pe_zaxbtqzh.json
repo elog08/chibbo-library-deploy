@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_zaxbtqzh",
+ "id": "pe_zaxbtqzh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tse. ge. me.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጸ. ገ. መ."
+  },
+  "romanized": "tse. ge. me.",
+  "sort_key": "ጸገመ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የከርሞ ሰው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "d64ee2bf8ad3cac97747a4847e637e1960e12355af3c8de7ba265ff15eb9e2dc",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sjk4n62k.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sjk4n62k.png"
+   },
+   "credits": [
+    {
+     "id": "pe_zaxbtqzh",
+     "name": "ጸ. ገ. መ.",
+     "role": "author",
+     "romanized": "tse. ge. me."
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sjk4n62k",
+   "id": "wk_sjk4n62k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yekermo Sew",
+    "script": "Ethi",
+    "text": "የከርሞ ሰው"
+   },
+   "type": "work"
+  }
+ ]
+}

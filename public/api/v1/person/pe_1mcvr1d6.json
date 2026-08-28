@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "managastuwamaryam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1mcvr1d6",
+ "id": "pe_1mcvr1d6",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "menegestu we/maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መንግሥቱ ወ/ማርያም"
+  },
+  "romanized": "menegestu we/maryam",
+  "sort_key": "መንግስቱወማርያም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ብልጭታ - ህሊና ማህደር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "133d92f4fb8fb4ab203389b8dfe808233b72065b0bb27b2bfc7fbb884655a689",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_t6befeax.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t6befeax.png"
+   },
+   "credits": [
+    {
+     "id": "pe_p142v08s",
+     "name": "ሊሊያን ኤችለር ዎትስን",
+     "role": "author",
+     "romanized": "liliyan echler wotesen"
+    },
+    {
+     "id": "pe_1mcvr1d6",
+     "name": "መንግሥቱ ወ/ማርያም",
+     "role": "author",
+     "romanized": "menegestu we/maryam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t6befeax",
+   "id": "wk_t6befeax",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "belechta kehlina mahder",
+    "script": "Ethi",
+    "text": "ብልጭታ ከሕሊና ማኅደር"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

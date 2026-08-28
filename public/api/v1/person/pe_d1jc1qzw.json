@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "makuriyamakasha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_d1jc1qzw",
+ "id": "pe_d1jc1qzw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mekuriya mekasha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መኩሪያ መካሻ"
+  },
+  "romanized": "mekuriya mekasha",
+  "sort_key": "መኩሪያመካሻ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኮዛ_ኖስትራ_የሲሲሊ_ማፊያ_አስደናቂ_ታሪክ_መኩርያ_መካሼ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "16264a1c26d030e7af208a7033a5b990ef3929f67145a0e8745be44a2f0ad3e3",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hd44zc6s.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hd44zc6s.png"
+   },
+   "credits": [
+    {
+     "id": "pe_825326ds",
+     "name": "ጆን ዳይኪ",
+     "role": "author",
+     "romanized": "jon dayki"
+    },
+    {
+     "id": "pe_d1jc1qzw",
+     "name": "መኩሪያ መካሻ",
+     "role": "author",
+     "romanized": "mekuriya mekasha"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_hd44zc6s",
+   "id": "wk_hd44zc6s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "koza nosetra",
+    "script": "Ethi",
+    "text": "ኮዛ ኖስትራ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

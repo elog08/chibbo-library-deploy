@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "tsayonbaqala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_w14zs6te",
+ "id": "pe_w14zs6te",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tseyon beqele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጽዮን በቀለ"
+  },
+  "romanized": "tseyon beqele",
+  "sort_key": "ጽዮንበቀለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማርኛ መዝሙሮች.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "442bf20e83dc5c014907ca7c66d6abb0dbc602038a0d226def396cb4a3bfcd17",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5sp12d5d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5sp12d5d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ea3t715h",
+     "name": "ደረጀ በቀለ ሀ/ማ",
+     "role": "author",
+     "romanized": "dereje beqele he/ma"
+    },
+    {
+     "id": "pe_ye6bme1k",
+     "name": "ጂጂ ጥላሁን",
+     "role": "author",
+     "romanized": "jiji telahun"
+    },
+    {
+     "id": "pe_g98q7zex",
+     "name": "የሺመበት ታደሰ",
+     "role": "author",
+     "romanized": "yeshimebet tadese"
+    },
+    {
+     "id": "pe_w14zs6te",
+     "name": "ጽዮን በቀለ",
+     "role": "author",
+     "romanized": "tseyon beqele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2000-09-11/2001-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5sp12d5d",
+   "id": "wk_5sp12d5d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kefel aned yeamarnya mezmuroch",
+    "script": "Ethi",
+    "text": "ክፍል አንድ የአማርኛ መዝሙሮች"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

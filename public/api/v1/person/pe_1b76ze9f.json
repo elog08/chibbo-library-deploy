@@ -1,0 +1,93 @@
+{
+ "extensions": {},
+ "fingerprint": "boristihonov",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1b76ze9f",
+ "id": "pe_1b76ze9f",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Tichonov B.",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቦሪስ ቲሆኖቭ"
+  },
+  "romanized": "Tichonov B.",
+  "sort_key": "ቦሪስቲሆኖቭ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ንግድ በሶሻሊዝም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "889567acae78d557648b6102143f89227890ec6b759815ce75547aeb2765a369",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_wqq7xj9w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wqq7xj9w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_dfc3ggez",
+     "name": "ጎሉቦቭስኪይ",
+     "role": "author",
+     "romanized": "Golubovsky V."
+    },
+    {
+     "id": "pe_1b76ze9f",
+     "name": "ቦሪስ ቲሆኖቭ",
+     "role": "author",
+     "romanized": "Tichonov B."
+    },
+    {
+     "id": "pe_0q3fk28r",
+     "name": "መኩሪያ እሸቱ",
+     "role": "author",
+     "romanized": "mekuriya eshetu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wqq7xj9w",
+   "id": "wk_wqq7xj9w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "TRADE UNDER SOCIALISM",
+    "script": "Ethi",
+    "text": "ንግድ በሶሻሊዝም"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

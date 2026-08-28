@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "charlasdikanas",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8drefawy",
+ "id": "pe_8drefawy",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "charles dikenes",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቻርለስ ዲክንስ"
+  },
+  "romanized": "charles dikenes",
+  "sort_key": "ቻርለስዲክንስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ታላቅ ተስፋ - አወል ረታ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "eb79ea13c45e8823e281669095f929e7bbce6573fab511050c1f2c55a7d72975",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1vzydhs7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1vzydhs7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8drefawy",
+     "name": "ቻርለስ ዲክንስ",
+     "role": "author",
+     "romanized": "charles dikenes"
+    },
+    {
+     "id": "pe_hf02bgsf",
+     "name": "አወል ረታ ሀምዛ",
+     "role": "author",
+     "romanized": "awel reta hemza"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1vzydhs7",
+   "id": "wk_1vzydhs7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "talaq tesfa",
+    "script": "Ethi",
+    "text": "ታላቅ ተስፋ"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

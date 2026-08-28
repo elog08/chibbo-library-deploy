@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "diyaqonwanadwasansorsa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_1b3c59nf",
+ "id": "pe_1b3c59nf",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "diyaqon wenedwesen sorsa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲያቆን ወንድወሰን ሶርሳ"
+  },
+  "romanized": "diyaqon wenedwesen sorsa",
+  "sort_key": "ዲያቆንወንድወሰንሶርሳ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ክርስቲያናዊ_ሕፃናት_አስተዳደግ_ዲ_ወንድሰን_1995_ዓ_ም.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "6ac5deb061afefd8caa3a5a5de912dc93641b83c8ce61bec345d8cecdbc45411",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_6b78aved.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6b78aved.png"
+   },
+   "credits": [
+    {
+     "id": "pe_1b3c59nf",
+     "name": "ዲያቆን ወንድወሰን ሶርሳ",
+     "role": "author",
+     "romanized": "diyaqon wenedwesen sorsa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_6b78aved",
+   "id": "wk_6b78aved",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kerestiyanawi hetsanat astedadeg",
+    "script": "Ethi",
+    "text": "ክርስቲያናዊ ሕፃናት አስተዳደግ"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

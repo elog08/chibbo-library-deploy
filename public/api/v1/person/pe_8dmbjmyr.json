@@ -1,0 +1,89 @@
+{
+ "extensions": {},
+ "fingerprint": "karuzharman",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8dmbjmyr",
+ "id": "pe_8dmbjmyr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "keruz herman",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከሩዝ ሄርማን"
+  },
+  "romanized": "keruz herman",
+  "sort_key": "ከሩዝሄርማን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኩራተናው ድመት (Cat).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0635d485a77eb639fa99a3a9f31ba6fd2ac9bb6f3bbf721dec2f62d03ca4df7b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_s2kx6g2d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s2kx6g2d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8dmbjmyr",
+     "name": "ከሩዝ ሄርማን",
+     "role": "author",
+     "romanized": "keruz herman"
+    },
+    {
+     "id": "pe_rnp5y8k3",
+     "name": "አደፍርስ ሀብቴ",
+     "role": "author",
+     "romanized": "adeferes hebte"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s2kx6g2d",
+   "id": "wk_s2kx6g2d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kuratenyaw demet",
+    "script": "Ethi",
+    "text": "ኩራተኛው ድመት"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

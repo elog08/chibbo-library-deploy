@@ -1,0 +1,150 @@
+{
+ "extensions": {},
+ "fingerprint": "liqamazamranmogasaqubagiyorgis",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jhxj44em",
+ "id": "pe_jhxj44em",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "liqe mezemran moges eqube giyorgis",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሊቀ መዘምራን ሞገስ ዕቁበ ጊዮርጊስ"
+  },
+  "romanized": "liqe mezemran moges eqube giyorgis",
+  "sort_key": "ሊቀመዘምራንሞገስእቁበጊዮርጊስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንጋረ_ፈላስፋ_የፈላስፎች_አነጋገር.PDF",
+  "Read from the title page of ጥንታዊ ምሳሌ.pdf",
+  "Read from the title page of ጥንታዊ_ምሳሌ_ከሊቀ_መዘምራን_ሞገስ_ዕቁበ_ጊዮርጊስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2fbf6ba50d5b4f078749d84f08d0309e108f4cf29fd9e483f92dffad7a852cc7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_76k7n8sn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_76k7n8sn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jhxj44em",
+     "name": "ሊቀ መዘምራን ሞገስ ዕቁበ ጊዮርጊስ",
+     "role": "author",
+     "romanized": "liqe mezemran moges eqube giyorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1966-09-11/1967-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_76k7n8sn",
+   "id": "wk_76k7n8sn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya tentawi mesale (beamarnya)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥንታዊ ምሳሌ (በአማርኛ)"
+   },
+   "type": "work",
+   "year": 1966
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_aed7y5xs.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_aed7y5xs.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jhxj44em",
+     "name": "ሊቀ መዘምራን ሞገስ ዕቁበ ጊዮርጊስ",
+     "role": "author",
+     "romanized": "liqe mezemran moges eqube giyorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1966-09-11/1967-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_aed7y5xs",
+   "id": "wk_aed7y5xs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tentawi mesale",
+    "script": "Ethi",
+    "text": "ጥንታዊ ምሳሌ"
+   },
+   "type": "work",
+   "year": 1966
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_c7y3ykwa.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c7y3ykwa.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jhxj44em",
+     "name": "ሊቀ መዘምራን ሞገስ ዕቁበ ጊዮርጊስ",
+     "role": "author",
+     "romanized": "liqe mezemran moges eqube giyorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1963-09-12/1964-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_c7y3ykwa",
+   "id": "wk_c7y3ykwa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "angare felasfa (yefelasfoch anegager)",
+    "script": "Ethi",
+    "text": "አንጋረ ፈላስፋ (የፈላስፎች አነጋገር)"
+   },
+   "type": "work",
+   "year": 1963
+  }
+ ]
+}

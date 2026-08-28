@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "kolalkanadrodalbaya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jh8t40qt",
+ "id": "pe_jh8t40qt",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ko/le alkenedro del baye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኮ/ል አልኸንድሮ ዴል ባዬ"
+  },
+  "romanized": "ko/le alkenedro del baye",
+  "sort_key": "ኮልአልከንድሮዴልባዬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቀይ_አንበሳ_ኰሎኔል_አልኸንድሮ_ዴል_ባዬ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "0a44de1a7f3afd0960bae3b3e45939c493728521d036bd997862fc4941ceee37",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c5mzdw25.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c5mzdw25.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jh8t40qt",
+     "name": "ኮ/ል አልኸንድሮ ዴል ባዬ",
+     "role": "author",
+     "romanized": "ko/le alkenedro del baye"
+    },
+    {
+     "id": "pe_5f35pxag",
+     "name": "ተስፋዬ መኮንን ባይለየኝ",
+     "role": "author",
+     "romanized": "tesfaye mekonen bayleyeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c5mzdw25",
+   "id": "wk_c5mzdw25",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qey anbesa",
+    "script": "Ethi",
+    "text": "ቀይ አንበሳ"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

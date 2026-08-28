@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "haylamikalababa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3jmmympp",
+ "id": "pe_3jmmympp",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "heylemikael abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሀይለሚካኤል አበበ"
+  },
+  "romanized": "heylemikael abebe",
+  "sort_key": "ሀይለሚካኤልአበበ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አብርሆት_The_Subtle_Art_of_not_Giving_A_Fuck_ትርጉም_ሀይለሚካኤል_አበበ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "c4761ce9df239db483e2ce1e2950ed292599392f5621ba3404059955b565d0e9",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_22rq2be5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_22rq2be5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jvhk5t9s",
+     "name": "ማርክ ማንሰን",
+     "role": "author",
+     "romanized": "MARK MANSON"
+    },
+    {
+     "id": "pe_3jmmympp",
+     "name": "ሀይለሚካኤል አበበ",
+     "role": "author",
+     "romanized": "heylemikael abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_22rq2be5",
+   "id": "wk_22rq2be5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aberhot",
+    "script": "Ethi",
+    "text": "አብርሆት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

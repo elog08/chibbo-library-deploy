@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "charlasbalitaz",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kbrb2tsk",
+ "id": "pe_kbrb2tsk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "charles belitez",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቻርለስ ቤሊትዝ"
+  },
+  "romanized": "charles belitez",
+  "sort_key": "ቻርለስቤሊትዝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቤርሙዳ ትሪያንግል - ቻርለስ ቤልትዝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "2a254c8a1609975f512cc1117372721695edd44f4301a7d150c53080c18a8d5a",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_83bax0f0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_83bax0f0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kbrb2tsk",
+     "name": "ቻርለስ ቤሊትዝ",
+     "role": "author",
+     "romanized": "charles belitez"
+    },
+    {
+     "id": "pe_wjjw4v99",
+     "name": "ኤፍሬም እንዳለ",
+     "role": "author",
+     "romanized": "efrem endale"
+    },
+    {
+     "id": "pe_zpcfkchw",
+     "name": "ሳሙኤል ለገሠ",
+     "role": "author",
+     "romanized": "samuel legese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_83bax0f0",
+   "id": "wk_83bax0f0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bermuda teriyanegel",
+    "script": "Ethi",
+    "text": "ቤርሙዳ ትሪያንግል"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

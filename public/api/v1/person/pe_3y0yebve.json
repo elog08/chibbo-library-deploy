@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "wiliyamshakaspir",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_3y0yebve",
+ "id": "pe_3y0yebve",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "wiliyam shekespir",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዊሊያም ሼክስፒር"
+  },
+  "romanized": "wiliyam shekespir",
+  "sort_key": "ዊሊያምሼክስፒር"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሀምሌት - ዊልያም ሼክስፒር.pdf",
+  "Read from the title page of ማክቤዝ - ዊልያም ሼክስፒር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "634de96934e2989f631848ba4c0a524b41de2222c878ed1a2142bd384da94411",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_2xm0hb32.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_2xm0hb32.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3y0yebve",
+     "name": "ዊሊያም ሼክስፒር",
+     "role": "author",
+     "romanized": "wiliyam shekespir"
+    },
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1971-09-12/1972-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_2xm0hb32",
+   "id": "wk_2xm0hb32",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hemlet",
+    "script": "Ethi",
+    "text": "ኀምሌት"
+   },
+   "type": "work",
+   "year": 1971
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_jke3abjg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jke3abjg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3y0yebve",
+     "name": "ዊሊያም ሼክስፒር",
+     "role": "author",
+     "romanized": "wiliyam shekespir"
+    },
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1971-09-12/1972-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jke3abjg",
+   "id": "wk_jke3abjg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "MACBETH",
+    "script": "Ethi",
+    "text": "ማክቤዝ"
+   },
+   "type": "work",
+   "year": 1971
+  }
+ ]
+}

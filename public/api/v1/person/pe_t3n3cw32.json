@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "rasalasgashanah",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_t3n3cw32",
  "id": "pe_t3n3cw32",
  "identifiers": {},
@@ -27,7 +29,9 @@
   "sort_key": "ራሴላስጋሻነህ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of የስኬት ፍልስፍና kelam_book.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -91,6 +95,46 @@
     "text": "የስኬት ፍልስፍና"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zk2ssb0b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zk2ssb0b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ehfpwkg0",
+     "name": "ናፖሊዮን ሂል",
+     "role": "author",
+     "romanized": "napoliyon hil"
+    },
+    {
+     "id": "pe_t3n3cw32",
+     "name": "ራሴላስ ጋሻነህ",
+     "role": "author",
+     "romanized": "raselas gashaneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2022-09-11/2023-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zk2ssb0b",
+   "id": "wk_zk2ssb0b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesket felesefna",
+    "script": "Ethi",
+    "text": "የስኬት ፍልስፍና"
+   },
+   "type": "work",
+   "year": 2022
   }
  ]
 }

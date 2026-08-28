@@ -2,6 +2,81 @@
  "facet": "decade",
  "items": [
   {
+   "cover": {
+    "path": "assets/covers/wk_81tj4y0x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_81tj4y0x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4ex4gsrw",
+     "name": "ENNO LITTMANN",
+     "role": "author",
+     "romanized": "ENNO LITTMANN"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1902?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_81tj4y0x",
+   "id": "wk_81tj4y0x",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "THE CHRONICLE OF KING THEODORE OF ABYSSINIA, Part I: Amharic Text",
+    "script": "Latn",
+    "text": "THE CHRONICLE OF KING THEODORE OF ABYSSINIA, Part I: Amharic Text"
+   },
+   "type": "work",
+   "year": 1902
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_dsr4yt1t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dsr4yt1t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_a7syy850",
+     "name": "JACQUES FAÏTLOVITCH",
+     "role": "author",
+     "romanized": "JACQUES FAÏTLOVITCH"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1907?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_dsr4yt1t",
+   "id": "wk_dsr4yt1t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "PROVERBES ABYSSINS",
+    "script": "Ethi",
+    "text": "የሐበሻ ተረት"
+   },
+   "type": "work",
+   "year": 1907
+  },
+  {
    "credits": [
     {
      "id": "pe_4jyeg9xc",
@@ -27,8 +102,49 @@
    },
    "type": "work",
    "year": 1908
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xv0gngz9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xv0gngz9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_9xc81wdf",
+     "name": "C. MONDON-VIDAILHET",
+     "role": "author",
+     "romanized": "C. MONDON-VIDAILHET"
+    },
+    {
+     "id": "pe_9btvdz1j",
+     "name": "Walda Mâryâm",
+     "role": "author",
+     "romanized": "Walda Mâryâm"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1904",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_xv0gngz9",
+   "id": "wk_xv0gngz9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "CHRONIQUE DE THÉODOROS II ROI DES ROIS D'ÉTHIOPIE (1853-1868)",
+    "script": "Latn",
+    "text": "CHRONIQUE DE THÉODOROS II ROI DES ROIS D'ÉTHIOPIE (1853-1868)"
+   },
+   "type": "work",
+   "year": 1904
   }
  ],
- "total": 1,
+ "total": 4,
  "value": "1900s"
 }

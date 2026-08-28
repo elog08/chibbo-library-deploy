@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadahayla",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_7bk6mf95",
+ "id": "pe_7bk6mf95",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Kebede Haile",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከበደ ኃይሌ"
+  },
+  "romanized": "Kebede Haile",
+  "sort_key": "ከበደሀይሌ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኢትዮጵያዉያን_ስደትና_ኑሮ_በ_ከበደ_ኃይሌ_ዩ_ኤስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bfb8c24525f2ebd7d91dbf8cdc148095a983cc5a04bc9244006e9544e72010d4",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3mmpqd1v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3mmpqd1v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_7bk6mf95",
+     "name": "ከበደ ኃይሌ",
+     "role": "author",
+     "romanized": "Kebede Haile"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2003-09-12/2004-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_3mmpqd1v",
+   "id": "wk_3mmpqd1v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopyawyan sedetna nuro",
+    "script": "Ethi",
+    "text": "የኢትዮጵያውያን ስደትና ኑሮ"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

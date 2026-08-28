@@ -1,0 +1,84 @@
+{
+ "extensions": {},
+ "fingerprint": "agatakaristi",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_sqfmca3w",
+ "id": "pe_sqfmca3w",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Agatha Christie",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አጋታ ክሪስቲ"
+  },
+  "romanized": "Agatha Christie",
+  "sort_key": "አጋታክሪስቲ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ስውሯ ገዳይ - አጋታ ክሪስቲ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "71eb1cddafd332007b67239c909a6b4689f0a305cde0512b71503dba09be00eb",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rbvwh0n0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rbvwh0n0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sqfmca3w",
+     "name": "አጋታ ክሪስቲ",
+     "role": "author",
+     "romanized": "Agatha Christie"
+    },
+    {
+     "id": "pe_ph0n53yd",
+     "name": "ዓለም በቀለ",
+     "role": "author",
+     "romanized": "alem beqele"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rbvwh0n0",
+   "id": "wk_rbvwh0n0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sewrwa geday",
+    "script": "Ethi",
+    "text": "ስውሯ ገዳይ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

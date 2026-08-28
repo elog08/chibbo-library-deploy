@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanugwabana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ewkg6twk",
+ "id": "pe_ewkg6twk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "berhanu gwebena",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብርሃኑ ጐበና"
+  },
+  "romanized": "berhanu gwebena",
+  "sort_key": "ብርሀኑገበና"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሆህተ ሀይማኖት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "bd7953367bd67fdf205fd7e3acae3047e30a2b8237aa6e60e6a1ff0ba0564afc",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_whjq0bwr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_whjq0bwr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ewkg6twk",
+     "name": "ብርሃኑ ጐበና",
+     "role": "author",
+     "romanized": "berhanu gwebena"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2002-09-11/2003-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_whjq0bwr",
+   "id": "wk_whjq0bwr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "hohte haymanot",
+    "script": "Ethi",
+    "text": "ኆኅተ ሃይማኖት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "liyonyuris",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_h9psj3aq",
+ "id": "pe_h9psj3aq",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "liyon yuris",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሊዮን ዩሪስ"
+  },
+  "romanized": "liyon yuris",
+  "sort_key": "ሊዮንዩሪስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ምጽአተ እስራኤል - ማሞ ውድነህ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3dd741428e9e214a645496d8597f19b4c17255825ab59f9c015342b2ed7d6691",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_deh1t66d.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_deh1t66d.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h9psj3aq",
+     "name": "ሊዮን ዩሪስ",
+     "role": "author",
+     "romanized": "liyon yuris"
+    },
+    {
+     "id": "pe_hnszfsbc",
+     "name": "ማሞ ውድነህ",
+     "role": "author",
+     "romanized": "mamo wedneh"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_deh1t66d",
+   "id": "wk_deh1t66d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "metsate-esrael",
+    "script": "Ethi",
+    "text": "ምጽአተ-እስራኤል"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

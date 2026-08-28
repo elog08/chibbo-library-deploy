@@ -1,4 +1,10 @@
 {
+ "cover": {
+  "bytes": 26844,
+  "path": "assets/covers/wk_w2s8fcfj.png",
+  "sha256": "eba03a6fd94cc175c7f27a3a776b3b04831e885dd02dbad67e873d00a77760c3",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w2s8fcfj.png"
+ },
  "credits": [
   {
    "order": 1,
@@ -7,14 +13,33 @@
   }
  ],
  "editions": [
-  "ed_qkgcp1nw"
+  "ed_qkgcp1nw",
+  "ed_5sd2fjxb"
  ],
  "extensions": {},
  "fingerprint": "አጥቢያ|alamayahugalagay",
- "flags": [],
+ "first_published": {
+  "edtf": "2014-09-11/2015-09-11",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2007"
+  }
+ },
+ "flags": [
+  "llm-extracted",
+  "language-unmapped"
+ ],
  "href": "https://chibbo.app/work/wk_w2s8fcfj",
  "id": "wk_w2s8fcfj",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "090808030b080908",
+   "4a0a264e0e2a2a08",
+   "4a1a6e0202020a08",
+   "4c2a6a2e2a2e0a08",
+   "4c4e6e4e6e4f2b08"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -47,7 +72,8 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.00/5 from 1 rating(s)"
+  "ethiobookreview community rating 3.00/5 from 1 rating(s)",
+  "Read from PDF front matter: አጥቢያ አለማየሁ ገላጋይ.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

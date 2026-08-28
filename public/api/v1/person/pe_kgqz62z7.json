@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "afandimutaqi",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_kgqz62z7",
  "id": "pe_kgqz62z7",
  "identifiers": {},
@@ -27,7 +29,11 @@
   "sort_key": "አፈንዲሙተቂ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ሐረር ጌይ - አፈንዲ ሙተቂ.pdf",
+  "Read from the title page of የአንድ ቀን ጦርነት.pdf",
+  "Read from the title page of የኢትዮ ሶማሊያ ጦርነት.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -36,6 +42,117 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1mjavf33.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1mjavf33.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kgqz62z7",
+     "name": "አፈንዲ ሙተቂ",
+     "role": "author",
+     "romanized": "afendi muteqi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1mjavf33",
+   "id": "wk_1mjavf33",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeaned qen tornet",
+    "script": "Ethi",
+    "text": "የአንድ ቀን ጦርነት"
+   },
+   "type": "work",
+   "year": 2007
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_41j3wg5v.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_41j3wg5v.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kgqz62z7",
+     "name": "አፈንዲ ሙተቂ",
+     "role": "author",
+     "romanized": "afendi muteqi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_41j3wg5v",
+   "id": "wk_41j3wg5v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "herer gey",
+    "script": "Ethi",
+    "text": "ሀረር ጌይ"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_mywdkqww.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_mywdkqww.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kgqz62z7",
+     "name": "አፈንዲ ሙተቂ",
+     "role": "author",
+     "romanized": "afendi muteqi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mywdkqww",
+   "id": "wk_mywdkqww",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityo-somaliya tornet (1969-1970)",
+    "script": "Ethi",
+    "text": "የኢትዮ-ሶማሊያ ጦርነት (1969-1970)"
+   },
+   "type": "work",
+   "year": 2006
+  },
   {
    "cover": {
     "path": "assets/covers/wk_ygqgar7a.jpg",

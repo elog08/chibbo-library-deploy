@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "dibakuluzawda",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_myj3x4vk",
+ "id": "pe_myj3x4vk",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "DIBEKULU ZEWDE",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲበኩሉ ዘውዴ"
+  },
+  "romanized": "DIBEKULU ZEWDE",
+  "sort_key": "ዲበኩሉዘውዴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of 81kidusat metsahefet menchoch ena kenonat.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "49c2dfae9c9832466f84dc65aff0cd25941885c56d0535cbf029c12ca729df56",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rxt9fv8t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rxt9fv8t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_myj3x4vk",
+     "name": "ዲበኩሉ ዘውዴ",
+     "role": "author",
+     "romanized": "DIBEKULU ZEWDE"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1987?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rxt9fv8t",
+   "id": "wk_rxt9fv8t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE 81 HOLY BIBLES AND THE SOURCES - CANONS In the Ethiopian Orthodox Church: Comparative Study Between Ancient Churches and Ethiopian Orthodox Church",
+    "script": "Ethi",
+    "text": "81 ቅዱሳት መጻሕፍትና ምንጮች-ቀኖናት በኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በጥንት አብያተ ክርስቲያናትና በኢትዮጵያ ኦርቶዶክስ ቤተክርስቲያን መካከል ንጽጽራዊ ጥናት"
+   },
+   "type": "work",
+   "year": 1987
+  }
+ ]
+}

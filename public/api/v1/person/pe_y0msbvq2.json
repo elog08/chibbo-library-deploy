@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "zawdarata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_y0msbvq2",
+ "id": "pe_y0msbvq2",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zewde reta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘውዴ ረታ"
+  },
+  "romanized": "zewde reta",
+  "sort_key": "ዘውዴረታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የቀዳማዊ ሀይለስላሴ ዘመነ መንግስት.pdf",
+  "Read from the title page of የኢ. የመከራና የኤርትራ ጥያቄ- 3.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3ab5d3f96e5ec8fa96d5ee237d0e6dbaca3ee72b3470e270e0443f8882437773",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_nzpqm8pk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nzpqm8pk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_y0msbvq2",
+     "name": "ዘውዴ ረታ",
+     "role": "author",
+     "romanized": "zewde reta"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_nzpqm8pk",
+   "id": "wk_nzpqm8pk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeeretra guday",
+    "script": "Ethi",
+    "text": "የኤርትራ ጉዳይ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sp0266bf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sp0266bf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_y0msbvq2",
+     "name": "ዘውዴ ረታ",
+     "role": "author",
+     "romanized": "zewde reta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sp0266bf",
+   "id": "wk_sp0266bf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqedamawi hayleslase menegeset",
+    "script": "Ethi",
+    "text": "የቀዳማዊ ኃይለሥላሴ መንግሥት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

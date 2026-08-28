@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "basahabta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jdq7fdvz",
+ "id": "pe_jdq7fdvz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "base hebte",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባሴ ሐብቴ"
+  },
+  "romanized": "base hebte",
+  "sort_key": "ባሴሀብቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቃል.pdf",
+  "Read from the title page of ጠብታ ማር በ ዴል ካርኒጊ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e7e97dd0c7d01f4e51d25ae8302dd695b7a9e884defc95eb1ed50cef2f01a1be",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_p1r1p5m8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p1r1p5m8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_dakp65zm",
+     "name": "ዳንኤላ ስቴል",
+     "role": "author",
+     "romanized": "Danielle Steel"
+    },
+    {
+     "id": "pe_jdq7fdvz",
+     "name": "ባሴ ሐብቴ",
+     "role": "author",
+     "romanized": "base hebte"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1997-09-11/1998-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_p1r1p5m8",
+   "id": "wk_p1r1p5m8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qal",
+    "script": "Ethi",
+    "text": "ቃል"
+   },
+   "type": "work",
+   "year": 1997
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zzfk7bmx.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zzfk7bmx.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ts1cqw9p",
+     "name": "ዴል ካርኔጊ",
+     "role": "author",
+     "romanized": "del karnegi"
+    },
+    {
+     "id": "pe_jdq7fdvz",
+     "name": "ባሴ ሐብቴ",
+     "role": "author",
+     "romanized": "base hebte"
+    },
+    {
+     "id": "pe_khhb68cx",
+     "name": "ደምሴ ዕጌ",
+     "role": "author",
+     "romanized": "demse ege"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zzfk7bmx",
+   "id": "wk_zzfk7bmx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tebta mar",
+    "script": "Ethi",
+    "text": "ጠብታ ማር"
+   },
+   "type": "work"
+  }
+ ]
+}

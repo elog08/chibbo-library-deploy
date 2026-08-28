@@ -1,0 +1,138 @@
+{
+ "extensions": {},
+ "fingerprint": "aframandala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wjjw4v99",
+ "id": "pe_wjjw4v99",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "efrem endale",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤፍሬም እንዳለ"
+  },
+  "romanized": "efrem endale",
+  "sort_key": "ኤፍሬምእንዳለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቀልዶች አረፈዓይኔ ሃጎስ.pdf",
+  "Read from the title page of ቤርሙዳ ትሪያንግል - ቻርለስ ቤልትዝ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b58b8cb46b03caaf411184ade9ba29bfc69248af606c428046580d0beb25e09e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_83bax0f0.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_83bax0f0.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kbrb2tsk",
+     "name": "ቻርለስ ቤሊትዝ",
+     "role": "author",
+     "romanized": "charles belitez"
+    },
+    {
+     "id": "pe_wjjw4v99",
+     "name": "ኤፍሬም እንዳለ",
+     "role": "author",
+     "romanized": "efrem endale"
+    },
+    {
+     "id": "pe_zpcfkchw",
+     "name": "ሳሙኤል ለገሠ",
+     "role": "author",
+     "romanized": "samuel legese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_83bax0f0",
+   "id": "wk_83bax0f0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bermuda teriyanegel",
+    "script": "Ethi",
+    "text": "ቤርሙዳ ትሪያንግል"
+   },
+   "type": "work",
+   "year": 1981
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_er1120q3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_er1120q3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wm0h6tm5",
+     "name": "አረፈዓይኔ ሐጎስ",
+     "role": "author",
+     "romanized": "arefeayne hegos"
+    },
+    {
+     "id": "pe_wjjw4v99",
+     "name": "ኤፍሬም እንዳለ",
+     "role": "author",
+     "romanized": "efrem endale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1979?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_er1120q3",
+   "id": "wk_er1120q3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qeldoch",
+    "script": "Ethi",
+    "text": "ቀልዶች"
+   },
+   "type": "work",
+   "year": 1979
+  }
+ ]
+}

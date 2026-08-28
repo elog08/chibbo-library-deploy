@@ -1,0 +1,64 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanoudinka",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ybt9yh5j",
+ "id": "pe_ybt9yh5j",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berhanou Dinke"
+  },
+  "romanized": "Berhanou Dinke",
+  "sort_key": "berhanoudinke"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አልቦ ዘመድ.PDF"
+ ],
+ "provenance": {
+  "raw_sha256": "905d4f6b7b97be36f2a2ccb1ec77ab36c2d52a0286bad709ee4620b8d3509412",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_zcvr4nds.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zcvr4nds.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ybt9yh5j",
+     "name": "Berhanou Dinke",
+     "role": "author",
+     "romanized": "Berhanou Dinke"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zcvr4nds",
+   "id": "wk_zcvr4nds",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "albo zemed",
+    "script": "Ethi",
+    "text": "አልቦ ዘመድ"
+   },
+   "type": "work"
+  }
+ ]
+}

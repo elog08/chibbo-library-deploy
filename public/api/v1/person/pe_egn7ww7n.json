@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "atnafsagadyalma",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_egn7ww7n",
+ "id": "pe_egn7ww7n",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "atnafseged yelma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አጥናፍሰገድ ይልማ"
+  },
+  "romanized": "atnafseged yelma",
+  "sort_key": "አጥናፍሰገድይልማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የበደል ካሳ  - በአጥናፍ ሰገድ ይልማ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3842fb2f3a842fe7b4085aeeb0a269cee7d17cb3e3e488f09caece36550016f6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_cmtpysd8.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cmtpysd8.png"
+   },
+   "credits": [
+    {
+     "id": "pe_egn7ww7n",
+     "name": "አጥናፍሰገድ ይልማ",
+     "role": "author",
+     "romanized": "atnafseged yelma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1997?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cmtpysd8",
+   "id": "wk_cmtpysd8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebedel kasa",
+    "script": "Ethi",
+    "text": "የበደል ካሳ"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

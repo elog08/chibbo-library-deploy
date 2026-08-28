@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "faqramarqosdasta",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_0qevd3zv",
  "id": "pe_0qevd3zv",
  "identifiers": {},
@@ -27,7 +29,11 @@
   "sort_key": "ፍቅረማርቆስደስታ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ኢቫንጋዲ - ፍቅረማርቆስ ደስታ.pdf",
+  "Read from the title page of ከቡስካ_በስተጀርባ_ፍቅረማርቆስ_ደስታ.pdf",
+  "Read from the title page of ጃገማ ኬሎ  - ፍቅረማርቆስ ደስታ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "hahubooks"
@@ -63,6 +69,108 @@
     "text": "የንሥር ዐይን"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_p59dmjre.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p59dmjre.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0qevd3zv",
+     "name": "ፍቅረማርቆስ ደስታ",
+     "role": "author",
+     "romanized": "feqremarqos desta"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1994-09-11/1995-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_p59dmjre",
+   "id": "wk_p59dmjre",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kebuska bestejerba",
+    "script": "Ethi",
+    "text": "ከቡስካ በስተጀርባ"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xxbb534n.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xxbb534n.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0qevd3zv",
+     "name": "ፍቅረማርቆስ ደስታ",
+     "role": "author",
+     "romanized": "feqremarqos desta"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xxbb534n",
+   "id": "wk_xxbb534n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ivangadi",
+    "script": "Ethi",
+    "text": "ኢቫንጋዲ"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xzc8qd7a.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xzc8qd7a.png"
+   },
+   "credits": [
+    {
+     "id": "pe_0qevd3zv",
+     "name": "ፍቅረማርቆስ ደስታ",
+     "role": "author",
+     "romanized": "feqremarqos desta"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xzc8qd7a",
+   "id": "wk_xzc8qd7a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "jagema kelo yebegaw mebreq (yeheywet tarik)",
+    "script": "Ethi",
+    "text": "ጃገማ ኬሎ የበጋው መብረቅ (የሕይወት ታሪክ)"
+   },
+   "type": "work",
+   "year": 2009
   }
  ]
 }

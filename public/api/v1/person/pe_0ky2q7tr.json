@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "baylayanytasaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_0ky2q7tr",
+ "id": "pe_0ky2q7tr",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Bayleyegn Tasew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባይለየኝ ጣሰው"
+  },
+  "romanized": "Bayleyegn Tasew",
+  "sort_key": "ባይለየኝጣሰው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሳይንስና ቴክኖሎጂ መዝገበ ቃላት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5b2475cec4f1e398ce47efd2e59a3ba6d246efb39eb21a49ad01919f2c6c12c6",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c7yz8vgg.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c7yz8vgg.png"
+   },
+   "credits": [
+    {
+     "id": "pe_4g5dp0vs",
+     "name": "ግርማ ዘነበ",
+     "role": "author",
+     "romanized": "Girma Zenebe"
+    },
+    {
+     "id": "pe_xndvy531",
+     "name": "አለማየሁ ጉርሙ",
+     "role": "author",
+     "romanized": "Alemayehu Gurmu"
+    },
+    {
+     "id": "pe_q77mcjfg",
+     "name": "ታህሳስ ክበበው",
+     "role": "author",
+     "romanized": "Tahsas Kebebew"
+    },
+    {
+     "id": "pe_0ky2q7tr",
+     "name": "ባይለየኝ ጣሰው",
+     "role": "author",
+     "romanized": "Bayleyegn Tasew"
+    },
+    {
+     "id": "pe_0ra70rh6",
+     "name": "ቃለአብ ወረደ",
+     "role": "author",
+     "romanized": "Kaleab Werede"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1996-09-11/1997-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "multilingual"
+   ],
+   "href": "https://chibbo.app/work/wk_c7yz8vgg",
+   "id": "wk_c7yz8vgg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "SCIENCE AND TECHNOLOGY DICTIONARY (ENGLISH - AMHARIC)",
+    "script": "Ethi",
+    "text": "የሳይንስና ቴክኖሎጂ መዝገበ ቃላት (እንግሊዝኛ – አማርኛ)"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

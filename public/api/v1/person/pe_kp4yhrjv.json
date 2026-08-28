@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "hanibalgabrahaywat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_kp4yhrjv",
+ "id": "pe_kp4yhrjv",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "henibal gebreheywet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሐኒባል ገብረሕይወት"
+  },
+  "romanized": "henibal gebreheywet",
+  "sort_key": "ሀኒባልገብረህይወት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሱፍ አበባ - ሀብታሙ አለባቸው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cb8a33236f7c06113ed060540baeef93a9c5c9dabaef69d22508acbab92f2758",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_98zc6sdd.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/yesuf-abeba.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_qe0behv5",
+     "name": "ሀብታሙ አለባቸው",
+     "role": "author",
+     "romanized": "Habtamu Alebachew"
+    },
+    {
+     "id": "pe_kp4yhrjv",
+     "name": "ሐኒባል ገብረሕይወት",
+     "role": "author",
+     "romanized": "henibal gebreheywet"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "format-paper-back",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_98zc6sdd",
+   "id": "wk_98zc6sdd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yesuf abeba",
+    "script": "Ethi",
+    "text": "የሱፍ አበባ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

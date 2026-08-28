@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "varonikazagadampatos",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dew6w1ad",
+ "id": "pe_dew6w1ad",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "veronika zegedam-patos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቬሮኒካ ዘገዳም-ጳጦስ"
+  },
+  "romanized": "veronika zegedam-patos",
+  "sort_key": "ቬሮኒካዘገዳምጳጦስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የማጥፋት ሽርክና - ቬሮኒካ ዘገዳም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6f7abbd311a3ba17a7aea0d5e47a938e8fd080ad55779a7c65c1c3cc4e82dc74",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_tvaand58.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_tvaand58.png"
+   },
+   "credits": [
+    {
+     "id": "pe_dew6w1ad",
+     "name": "ቬሮኒካ ዘገዳም-ጳጦስ",
+     "role": "author",
+     "romanized": "veronika zegedam-patos"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2017-09-11/2018-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_tvaand58",
+   "id": "wk_tvaand58",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yematfat sherekna",
+    "script": "Ethi",
+    "text": "የማጥፋት ሽርክና"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

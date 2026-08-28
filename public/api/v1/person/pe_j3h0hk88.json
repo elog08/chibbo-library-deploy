@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "balatangataharuywaldasalasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_j3h0hk88",
+ "id": "pe_j3h0hk88",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "belaten geta heruy welde selase",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ብላቴን ጌታ ኅሩይ ወልደ ሥላሴ"
+  },
+  "romanized": "belaten geta heruy welde selase",
+  "sort_key": "ብላቴንጌታህሩይወልደስላሴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ወዳጄ_ልቤ_እና_ሌሎችም_ብላቴን_ጌታ_ህሩይ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3cd8e7fbc97f81297d36b7bd09597b242c87cabcd9f292e6bfa614b935089a4b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_rgmeygxr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rgmeygxr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j3h0hk88",
+     "name": "ብላቴን ጌታ ኅሩይ ወልደ ሥላሴ",
+     "role": "author",
+     "romanized": "belaten geta heruy welde selase"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rgmeygxr",
+   "id": "wk_rgmeygxr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "wedaje lebe ena lelochem",
+    "script": "Ethi",
+    "text": "ወዳጄ ልቤ እና ሌሎችም"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

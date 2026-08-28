@@ -1,0 +1,134 @@
+{
+ "extensions": {},
+ "fingerprint": "kasahunkabada",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_jth66arh",
+ "id": "pe_jth66arh",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kasahun kebede",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ካሳሁን ከበደ"
+  },
+  "romanized": "kasahun kebede",
+  "sort_key": "ካሳሁንከበደ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አጫጭር ወጎች በካሳሁን ከበደ.pdf",
+  "Read from the title page of ፍካሬ ኢትዮጲያ - ዶር አብነት ስሜ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "94cf17de85cadc4733dec86907f21dafd5b6853e83d14b9843e9346c08072f0b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0zds600k.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0zds600k.png"
+   },
+   "credits": [
+    {
+     "id": "pe_41vbep5a",
+     "name": "ዶክተር አብነት ስሜ",
+     "role": "author",
+     "romanized": "dokter abnet seme"
+    },
+    {
+     "id": "pe_pkcmkrqj",
+     "name": "አደዳ ኃይለሥላሴ",
+     "role": "author",
+     "romanized": "adeda hayleslase"
+    },
+    {
+     "id": "pe_jth66arh",
+     "name": "ካሳሁን ከበደ",
+     "role": "author",
+     "romanized": "kasahun kebede"
+    },
+    {
+     "id": "pe_z7e5dkc1",
+     "name": "ተክለማርያም ኃይሉ",
+     "role": "author",
+     "romanized": "teklemaryam haylu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_0zds600k",
+   "id": "wk_0zds600k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fekare ityopya",
+    "script": "Ethi",
+    "text": "ፍካሬ ኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_5zx23kzj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5zx23kzj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_jth66arh",
+     "name": "ካሳሁን ከበደ",
+     "role": "author",
+     "romanized": "kasahun kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2007-09-12/2008-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_5zx23kzj",
+   "id": "wk_5zx23kzj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kejart wede Dart",
+    "script": "Ethi",
+    "text": "ከጃርት ወደ ዳርት"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

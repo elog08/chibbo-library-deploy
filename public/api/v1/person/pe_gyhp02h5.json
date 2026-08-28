@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "diyaqonfantatadasazalalibala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_gyhp02h5",
+ "id": "pe_gyhp02h5",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "diyaqon fenta tadese zelalibela",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዲያቆን ፈንታ ታደሰ ዘላሊበላ"
+  },
+  "romanized": "diyaqon fenta tadese zelalibela",
+  "sort_key": "ዲያቆንፈንታታደሰዘላሊበላ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የ11ዱ_ነገስታት_የዘር_ሀረግና_የቅዱስ_ይምርሃነ_ክርስቶስ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8f8c37505109487ce0d55c0b703bfd6e18124863189a4dc394d4dc4ed18fe649",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_79y8ftnk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_79y8ftnk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_gyhp02h5",
+     "name": "ዲያቆን ፈንታ ታደሰ ዘላሊበላ",
+     "role": "author",
+     "romanized": "diyaqon fenta tadese zelalibela"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2004-09-11/2005-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_79y8ftnk",
+   "id": "wk_79y8ftnk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ye11du negestat yezer heregna yeqdus yemerhane kerestos yeqdus gebre maryam yeqdus lalibelana yeqdus neakutoleab tarik",
+    "script": "Ethi",
+    "text": "የ11ዱ ነገሥታት የዘር ሐረግና የቅዱስ ይምርሃነ ክርስቶስ የቅዱስ ገብረ ማርያም የቅዱስ ላሊበላና የቅዱስ ነአኩቶለአብ ታሪክ"
+   },
+   "type": "work",
+   "year": 2004
+  }
+ ]
+}

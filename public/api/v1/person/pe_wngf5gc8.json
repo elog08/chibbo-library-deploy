@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "tawodrosatlaw",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_wngf5gc8",
  "id": "pe_wngf5gc8",
  "identifiers": {},
@@ -26,7 +28,10 @@
   "sort_key": "ቴዎድሮስአጥላው"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of አልኬሚስቱ..pdf",
+  "Read from the title page of የበቀል ጥም  ሲድኒ ሸልደን.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +40,55 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k5bb0zbn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_k5bb0zbn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_07bv12pc",
+     "name": "ፓውሎ ኮየልሆ",
+     "role": "author",
+     "romanized": "pawlo koyelho"
+    },
+    {
+     "id": "pe_wngf5gc8",
+     "name": "ቴዎድሮስ አጥላው",
+     "role": "author",
+     "romanized": "Victor E Frankil"
+    },
+    {
+     "id": "pe_j4z666da",
+     "name": "Alan R. Clarke",
+     "role": "author",
+     "romanized": "Alan R. Clarke"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k5bb0zbn",
+   "id": "wk_k5bb0zbn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alkemistu",
+    "script": "Ethi",
+    "text": "አልኬሚስቱ"
+   },
+   "type": "work",
+   "year": 2001
+  },
   {
    "cover": {
     "path": "assets/covers/wk_rzwf97tg.webp",
@@ -59,6 +113,49 @@
     "text": "ለምንን ፍለጋ"
    },
    "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_vejswm5q.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vejswm5q.png"
+   },
+   "credits": [
+    {
+     "id": "pe_3xe8vmrw",
+     "name": "ሲድኒ ሼልደን",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    },
+    {
+     "id": "pe_wngf5gc8",
+     "name": "ቴዎድሮስ አጥላው",
+     "role": "author",
+     "romanized": "Victor E Frankil"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vejswm5q",
+   "id": "wk_vejswm5q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yebeqel tem",
+    "script": "Ethi",
+    "text": "የበቀል ጥም"
+   },
+   "type": "work",
+   "year": 2003
   }
  ]
 }

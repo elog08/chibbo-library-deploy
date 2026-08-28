@@ -10,10 +10,26 @@
    "order": 1,
    "person": "pe_neyxkzeg",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_w44g2rjs",
+   "role": "author"
+  },
+  {
+   "order": 3,
+   "person": "pe_25sg7st3",
+   "role": "author"
+  },
+  {
+   "order": 4,
+   "person": "pe_cry3en3j",
+   "role": "author"
   }
  ],
  "editions": [
-  "ed_76y85e0g"
+  "ed_76y85e0g",
+  "ed_7d7n0h1k"
  ],
  "extensions": {},
  "fingerprint": "ማልከምኤክስየህይወትታሪክ|muluqantariku",
@@ -31,11 +47,20 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_jxsaengh",
  "id": "wk_jxsaengh",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "0303515d39333338",
+   "0c2d313131313130",
+   "2b13332f07360110",
+   "332723270f2b2b30",
+   "3c2c000f23000000"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -60,7 +85,8 @@
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.00/5 from 0 rating(s)"
+  "ethiobookreview community rating 3.00/5 from 0 rating(s)",
+  "Read from PDF front matter: ማልከም ኤክስ @ETHIO_PDF_BOOKS.pdf"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

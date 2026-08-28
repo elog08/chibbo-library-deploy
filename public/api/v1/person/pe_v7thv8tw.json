@@ -1,0 +1,117 @@
+{
+ "extensions": {},
+ "fingerprint": "robaratludlam",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_v7thv8tw",
+ "id": "pe_v7thv8tw",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "roberet ludlem",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሮበርት ሉድለም"
+  },
+  "romanized": "roberet ludlem",
+  "sort_key": "ሮበርትሉድለም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ማነው - ሮበርት ሉድሉም.pdf",
+  "Read from the title page of ፍንጭ - ሮበርት ሉድለም.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "df1e5e31b5f54fc8479de2531d194c7d93aed318c3be45f5f1adf0c4bd53c59e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_hsmg42fh.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_hsmg42fh.png"
+   },
+   "credits": [
+    {
+     "id": "pe_v7thv8tw",
+     "name": "ሮበርት ሉድለም",
+     "role": "author",
+     "romanized": "roberet ludlem"
+    },
+    {
+     "id": "pe_1jrdpmj2",
+     "name": "ክንፈ ገብርኤል ከበደ",
+     "role": "author",
+     "romanized": "kenfe geberel kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1984?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hsmg42fh",
+   "id": "wk_hsmg42fh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE BOURNE INDENTITY",
+    "script": "Ethi",
+    "text": "ማነው ?"
+   },
+   "type": "work",
+   "year": 1984
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_wz66ckqr.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wz66ckqr.png"
+   },
+   "credits": [
+    {
+     "id": "pe_v7thv8tw",
+     "name": "ሮበርት ሉድለም",
+     "role": "author",
+     "romanized": "roberet ludlem"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_wz66ckqr",
+   "id": "wk_wz66ckqr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "fenech",
+    "script": "Ethi",
+    "text": "ፍንጭ"
+   },
+   "type": "work"
+  }
+ ]
+}

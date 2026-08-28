@@ -1,0 +1,100 @@
+{
+ "extensions": {},
+ "fingerprint": "tadiliban",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rykrwg16",
+ "id": "pe_rykrwg16",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tadi liben",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ታዲ ሊበን"
+  },
+  "romanized": "tadi liben",
+  "sort_key": "ታዲሊበን"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአንድ_ደቂቃ_ስራአስኪያጅ_ኬነት_ብላንቻርድ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "f94a518ed176a8ff7b77932e6db4f5ec70e7a8e8f2b4bbcaa167c968e604c28e",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pfzbmq75.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pfzbmq75.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8gav2jbj",
+     "name": "ኬነት ብላንቻርድ ፒ. ኤች. ዲ.",
+     "role": "author",
+     "romanized": "kenet belanchared pi. ech. di."
+    },
+    {
+     "id": "pe_f0ac1h8s",
+     "name": "ስፔንሰር ጆንሰን ኤም. ዲ.",
+     "role": "author",
+     "romanized": "sepenser jonsen em. di."
+    },
+    {
+     "id": "pe_rykrwg16",
+     "name": "ታዲ ሊበን",
+     "role": "author",
+     "romanized": "tadi liben"
+    },
+    {
+     "id": "pe_6nxp4mem",
+     "name": "ሉቃስ አማረ",
+     "role": "author",
+     "romanized": "luqas amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pfzbmq75",
+   "id": "wk_pfzbmq75",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeaned deqiqa sera askiyaj",
+    "script": "Ethi",
+    "text": "የአንድ ደቂቃ ሥራ አስኪያጅ"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

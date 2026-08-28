@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "maryopuzo",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_r2sb88gd",
+ "id": "pe_r2sb88gd",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "maryo puzo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማርዮ ፑዞ"
+  },
+  "romanized": "maryo puzo",
+  "sort_key": "ማርዮፑዞ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጡት አባት ከማርዮ ፑዞ (ትርጉም).pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "b28095db92d410377f73ca55ea9b9478c4308b59f94b044ea2124985c1b665b7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9hvw1s8m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9hvw1s8m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r2sb88gd",
+     "name": "ማርዮ ፑዞ",
+     "role": "author",
+     "romanized": "maryo puzo"
+    },
+    {
+     "id": "pe_zsnwn7g2",
+     "name": "ወጋየሁ ተበጀ",
+     "role": "author",
+     "romanized": "wegayehu tebeje"
+    },
+    {
+     "id": "pe_t32r0jjg",
+     "name": "ግርማ ደምሴ",
+     "role": "author",
+     "romanized": "germa demse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9hvw1s8m",
+   "id": "wk_9hvw1s8m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yetut abat",
+    "script": "Ethi",
+    "text": "የጡት አባት"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

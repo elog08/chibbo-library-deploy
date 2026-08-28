@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "misazhanriwud",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_73vxt501",
+ "id": "pe_73vxt501",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "misez henri wud",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሚስዝ ሔንሪ ዉድ"
+  },
+  "romanized": "misez henri wud",
+  "sort_key": "ሚስዝሄንሪዉድ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሳቤላ 1.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "84c2dbaf112197c8ed67dc321e97ddcbc973b1ac976d9b7cf9354ec73bb6026d",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sf2vdkec.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sf2vdkec.png"
+   },
+   "credits": [
+    {
+     "id": "pe_73vxt501",
+     "name": "ሚስዝ ሔንሪ ዉድ",
+     "role": "author",
+     "romanized": "misez henri wud"
+    },
+    {
+     "id": "pe_5p5e8hwa",
+     "name": "ኃይለ ሥላሴ መሓሪ",
+     "role": "author",
+     "romanized": "hayle selase mehari"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sf2vdkec",
+   "id": "wk_sf2vdkec",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sabela",
+    "script": "Ethi",
+    "text": "ሳቤላ"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

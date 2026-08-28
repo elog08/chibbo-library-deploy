@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "ababaqarub",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_p22k13cz",
+ "id": "pe_p22k13cz",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebe qerub",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበ ቅሩብ"
+  },
+  "romanized": "abebe qerub",
+  "sort_key": "አበበቅሩብ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሪፖርት አዘገጃጀትና አቀራረብ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "00854fe9d7a6fe55da93e140f1c3fbbcdafeb061843d1e9c361a13a6601f6e2c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_btyn4wgk.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_btyn4wgk.png"
+   },
+   "credits": [
+    {
+     "id": "pe_p22k13cz",
+     "name": "አበበ ቅሩብ",
+     "role": "author",
+     "romanized": "abebe qerub"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_btyn4wgk",
+   "id": "wk_btyn4wgk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeriporet azegejajet ena aqerareb",
+    "script": "Ethi",
+    "text": "የሪፖርት አዘገጃጀት እና አቀራረብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

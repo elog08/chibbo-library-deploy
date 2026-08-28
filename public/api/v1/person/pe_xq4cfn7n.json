@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "friadrichniatzscha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_xq4cfn7n",
+ "id": "pe_xq4cfn7n",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "FRIEDRICH NIETZSCHE"
+  },
+  "romanized": "FRIEDRICH NIETZSCHE",
+  "sort_key": "friedrichnietzsche"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዘርዐ ስተር ይትናግር.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "01803896ec071932692e149189a703c028f5c4ac7fba89b57f6b23f07427ff42",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_b7qjmjkf.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_b7qjmjkf.png"
+   },
+   "credits": [
+    {
+     "id": "pe_xq4cfn7n",
+     "name": "FRIEDRICH NIETZSCHE",
+     "role": "author",
+     "romanized": "FRIEDRICH NIETZSCHE"
+    },
+    {
+     "id": "pe_d1zvqxkf",
+     "name": "እሱባለው አማረ",
+     "role": "author",
+     "romanized": "esubalew amare"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_b7qjmjkf",
+   "id": "wk_b7qjmjkf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "zera seter yetnager",
+    "script": "Ethi",
+    "text": "ዘርዐ ስተር ይትናግር"
+   },
+   "type": "work"
+  }
+ ]
+}

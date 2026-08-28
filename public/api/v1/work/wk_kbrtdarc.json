@@ -1,0 +1,98 @@
+{
+ "cover": {
+  "bytes": 342799,
+  "path": "assets/covers/wk_kbrtdarc.png",
+  "sha256": "aa1d4e72728bc954766723075641d29aab996bc7b234a2747f239cafa2051ec8",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kbrtdarc.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_7fqevmxn",
+   "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_v2e68p4c",
+   "role": "author"
+  },
+  {
+   "order": 3,
+   "person": "pe_7qvyansn",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_8bvpftdz"
+ ],
+ "extensions": {},
+ "fingerprint": "ደህንነቱ|yasmakawarqu",
+ "first_published": {
+  "edtf": "2019-09-12/2020-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "2012"
+  }
+ },
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/work/wk_kbrtdarc",
+ "id": "wk_kbrtdarc",
+ "identifiers": {
+  "pdf_pagehash": [
+   "00fcfcdcfd79f600",
+   "8180a0b080b0b080",
+   "8380308090909090",
+   "e0ff77fef8f0f1e8",
+   "fcfcf6fefefafaf0"
+  ]
+ },
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: DEHENENATU.pdf",
+  "The book indicates both the Ethiopic calendar year ፳፻፲፪ ዓ.ም. (2012 E.C.) and Gregorian year 2020G.C."
+ ],
+ "provenance": {
+  "raw_sha256": "9cb2d4aeec4fbfdfc31e6a13ac486157cdd458500d5b415156c91b13fed8792c",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "publication_place": "በሰው አገር",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dehennetu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "THE INTELLIGENT",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ደህንነቱ"
+  },
+  "romanized": "dehennetu",
+  "sort_key": "ደህንነቱ"
+ },
+ "type": "work"
+}

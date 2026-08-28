@@ -14,6 +14,11 @@
    "@id": "https://chibbo.app/person/pe_b4p12fw8",
    "@type": "Person",
    "name": "አሌክስ አብርሃም"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_4sev15x2",
+   "@type": "Person",
+   "name": "ኃይለመለኮት መዋዕል"
   }
  ],
  "datePublished": "2020-01-01",
@@ -44,6 +49,10 @@
    "url": "https://www.ethiobookreview.com/book/ke-eletat-gimash-ken-alex-abraham"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "ማንኩሳ ማተሚያ ቤት"
+ },
  "sameAs": [
   "https://addisbooks.com/book/ke-eletat-gimash-qen/",
   "https://www.ethiobookreview.com/book/ke-eletat-gimash-ken-alex-abraham"
@@ -56,6 +65,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_57n8hj86",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_9y7spbq7",
    "@type": "Book"
   }
  ]

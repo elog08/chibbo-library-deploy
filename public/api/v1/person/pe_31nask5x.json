@@ -1,0 +1,90 @@
+{
+ "extensions": {},
+ "fingerprint": "viktarosatrovaski",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_31nask5x",
+ "id": "pe_31nask5x",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "VICTOR OSTROVSKY",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቪክተር ኦስትሮቭስኪ"
+  },
+  "romanized": "VICTOR OSTROVSKY",
+  "sort_key": "ቪክተርኦስትሮቭስኪ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሞሳድ - እምሩ ወርቁ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "43dd2c43c5f510a1957911e34da4f12fe2999c79e2a0a9d7274be72e5123bce1",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f5hzygwb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f5hzygwb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_31nask5x",
+     "name": "ቪክተር ኦስትሮቭስኪ",
+     "role": "author",
+     "romanized": "VICTOR OSTROVSKY"
+    },
+    {
+     "id": "pe_mkj659zm",
+     "name": "CLAIRE HOY",
+     "role": "author",
+     "romanized": "CLAIRE HOY"
+    },
+    {
+     "id": "pe_d5ptvwvc",
+     "name": "እምሩ ወርቁ",
+     "role": "author",
+     "romanized": "emru werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f5hzygwb",
+   "id": "wk_f5hzygwb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mosad",
+    "script": "Ethi",
+    "text": "ሞሳድ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

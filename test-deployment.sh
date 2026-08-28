@@ -89,10 +89,10 @@ probe /api/v1/manifest.json application/json '83a93da65c4204de2a048922e2ed34916a
 probe /opds/root.json application/json 'Chibbo Library'
 
 curl --fail --silent "$base_url/api/v1/manifest.json" \
-  | jq -e '.commit == "83a93da65c4204de2a048922e2ed34916ac838cd" and .counts.works == 964 and .counts.people == 605' \
+  | jq -e '.commit == "83a93da65c4204de2a048922e2ed34916ac838cd" and .counts.works == 1608 and .counts.people == 1267' \
   >/dev/null
 curl --fail --silent "$base_url/opds/root.json" \
-  | jq -e '.metadata.title == "Chibbo Library" and .metadata.numberOfItems == 964' \
+  | jq -e '.metadata.title == "Chibbo Library" and .metadata.numberOfItems == 1608' \
   >/dev/null
 
 for public_route in / /work/wk_3rqr0aa1.html /person/pe_hh1ptvn5.html /browse.html; do

@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "antwanchakov",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bddft6qc",
+ "id": "pe_bddft6qc",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "antwan chekov",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አንቷን ቼኾቭ"
+  },
+  "romanized": "antwan chekov",
+  "sort_key": "አንቷንቼኮቭ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንቷን ቼኾቭ - በላይነህ አሰጉ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "8cd7de875eb123856c0379c74f2accbe3998a46bf4dc43a7e79fa68a6814d63f",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_46f3dxem.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_46f3dxem.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bddft6qc",
+     "name": "አንቷን ቼኾቭ",
+     "role": "author",
+     "romanized": "antwan chekov"
+    },
+    {
+     "id": "pe_a9cee3kj",
+     "name": "በላይነህ አሠጉ",
+     "role": "author",
+     "romanized": "belayneh asegu"
+    },
+    {
+     "id": "pe_j7h072b5",
+     "name": "ሉቃስ አማሪ",
+     "role": "author",
+     "romanized": "luqas amari"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_46f3dxem",
+   "id": "wk_46f3dxem",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeantwan chekov meret achacher lebweled tarikoch",
+    "script": "Ethi",
+    "text": "የአንቷን ቼኾቭ ምርጥ አጫጭር ልብወለድ ታሪኮች"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

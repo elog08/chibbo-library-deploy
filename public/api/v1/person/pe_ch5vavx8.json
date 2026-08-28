@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "ayalawmatkubaru",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ch5vavx8",
+ "id": "pe_ch5vavx8",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ayalew metku beru",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አያሌው ምትኩ ብሩ"
+  },
+  "romanized": "ayalew metku beru",
+  "sort_key": "አያሌውምትኩብሩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አበሻው -1.PDF",
+  "Read from the title page of አበሻው.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "64f1dbb0f5846fbc2b119e8de5e0120231913810bb9802dc1a40402c1bc4e738",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_94xw5k8g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_94xw5k8g.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ejp5resr",
+     "name": "ጆን ክሪስቶፍ ሩፊን",
+     "role": "author",
+     "romanized": "jon keristof rufin"
+    },
+    {
+     "id": "pe_ch5vavx8",
+     "name": "አያሌው ምትኩ ብሩ",
+     "role": "author",
+     "romanized": "ayalew metku beru"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2006-09-11/2007-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_94xw5k8g",
+   "id": "wk_94xw5k8g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "abeshaw",
+    "script": "Ethi",
+    "text": "አበሻው"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

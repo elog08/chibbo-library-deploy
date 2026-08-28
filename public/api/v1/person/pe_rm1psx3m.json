@@ -1,0 +1,82 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitwanadmagany",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_rm1psx3m",
+ "id": "pe_rm1psx3m",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit wenedmageny",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት ወንድማገኝ"
+  },
+  "romanized": "dawit wenedmageny",
+  "sort_key": "ዳዊትወንድማገኝ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አለመኖር - ዳዊት ወንድማገኝ  @ZionBooks.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "214ef73bdc74d1063408795e2e2b3452818b012594ce936c5ce57f2ba7f5d629",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_1wjgwvv4.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_1wjgwvv4.png"
+   },
+   "credits": [
+    {
+     "id": "pe_rm1psx3m",
+     "name": "ዳዊት ወንድማገኝ",
+     "role": "author",
+     "romanized": "dawit wenedmageny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1wjgwvv4",
+   "id": "wk_1wjgwvv4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "alemenor",
+    "script": "Ethi",
+    "text": "አለመኖር"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

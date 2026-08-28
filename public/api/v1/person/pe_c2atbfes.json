@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "danyamalaku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_c2atbfes",
+ "id": "pe_c2atbfes",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "danye melaku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳኜ መላኩ"
+  },
+  "romanized": "danye melaku",
+  "sort_key": "ዳኜመላኩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ለአሸናፊነት_መገዛት_ትርጉም_ማኅሌት_ጥላሁን_እና_ዳኜ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "3fda49b7b5c84ffcaaca3ee22211de1c4ac1c62dda829483eff59dc78982f3b7",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_sqfbczzq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sqfbczzq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mfagrd73",
+     "name": "ሺቭ ኬራ",
+     "role": "author",
+     "romanized": "shiv kera"
+    },
+    {
+     "id": "pe_4z3exr38",
+     "name": "ማኅሌት ጥላሁን",
+     "role": "author",
+     "romanized": "mahlet telahun"
+    },
+    {
+     "id": "pe_c2atbfes",
+     "name": "ዳኜ መላኩ",
+     "role": "author",
+     "romanized": "danye melaku"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sqfbczzq",
+   "id": "wk_sqfbczzq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "leashenafinet megezat",
+    "script": "Ethi",
+    "text": "ለአሸናፊነት መገዛት"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

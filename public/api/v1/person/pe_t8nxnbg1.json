@@ -1,0 +1,88 @@
+{
+ "extensions": {},
+ "fingerprint": "kabarhandanya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_t8nxnbg1",
+ "id": "pe_t8nxnbg1",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "keberhan danye",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከብርሃን ዳኘ"
+  },
+  "romanized": "keberhan danye",
+  "sort_key": "ከብርሀንዳኘ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሸበጥ.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "6b036d647c190a811e8e2acdbd37079031b25efbb83312dc9320892b2a89b485",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_s2wvc0cy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_s2wvc0cy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t8nxnbg1",
+     "name": "ከብርሃን ዳኘ",
+     "role": "author",
+     "romanized": "keberhan danye"
+    },
+    {
+     "id": "pe_e3mzdtqp",
+     "name": "ሉቃስ ለማ",
+     "role": "author",
+     "romanized": "luqas lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s2wvc0cy",
+   "id": "wk_s2wvc0cy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sabat",
+    "script": "Ethi",
+    "text": "ሸበጥ እና ሌሎች አጫጭር ታሪኮች"
+   },
+   "type": "work",
+   "year": 1983
+  }
+ ]
+}

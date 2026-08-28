@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "alamayahuwasashata",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_ekcc4eck",
  "id": "pe_ekcc4eck",
  "identifiers": {},
@@ -26,7 +28,12 @@
   "sort_key": "አለማየሁዋሴእሸቴ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of መርበብት - አለማየሁ ዋሴ.pdf",
+  "Read from the title page of ሚተራሊዮን_በአለማየሁ_ዋሴ_እሸቴ_3_pdf_@_እንማር.pdf",
+  "Read from the title page of ሰበዝ ዶ_ር ዓለማየሁ ዋሴ .pdf",
+  "Read from the title page of ሰበዝ.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -35,6 +42,40 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f3wkhqg7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f3wkhqg7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ekcc4eck",
+     "name": "ዓለማየሁ ዋሴ እሸቴ",
+     "role": "author",
+     "romanized": "Alemayehu Wase"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2021-09-11/2022-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f3wkhqg7",
+   "id": "wk_f3wkhqg7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "miteraliyon",
+    "script": "Ethi",
+    "text": "ሚተራሊዮን"
+   },
+   "type": "work",
+   "year": 2021
+  },
   {
    "cover": {
     "path": "assets/covers/wk_n68qjsay.webp",
@@ -56,7 +97,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n68qjsay",
    "id": "wk_n68qjsay",
@@ -70,6 +112,40 @@
    },
    "type": "work",
    "year": 2010
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zccj03t3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zccj03t3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ekcc4eck",
+     "name": "ዓለማየሁ ዋሴ እሸቴ",
+     "role": "author",
+     "romanized": "Alemayehu Wase"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zccj03t3",
+   "id": "wk_zccj03t3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "sebez",
+    "script": "Ethi",
+    "text": "ሰበዝ"
+   },
+   "type": "work",
+   "year": 2019
   }
  ]
 }

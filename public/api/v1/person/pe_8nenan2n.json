@@ -1,7 +1,9 @@
 {
  "extensions": {},
  "fingerprint": "alamayahudamaqa",
- "flags": [],
+ "flags": [
+  "llm-extracted"
+ ],
  "href": "https://chibbo.app/person/pe_8nenan2n",
  "id": "pe_8nenan2n",
  "identifiers": {},
@@ -26,7 +28,9 @@
   "sort_key": "አለማየሁደመቀ"
  },
  "name_order": "forename",
- "notes": [],
+ "notes": [
+  "Read from the title page of ዮቶር .pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview"
@@ -56,7 +60,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_k5mtp699",
    "id": "wk_k5mtp699",

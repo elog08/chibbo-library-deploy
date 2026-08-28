@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "aframjamalabdu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ejhcgccn",
+ "id": "pe_ejhcgccn",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "efrem jemal abdu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኤፍሬም ጀማል አብዱ"
+  },
+  "romanized": "efrem jemal abdu",
+  "sort_key": "ኤፍሬምጀማልአብዱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የብልህነት መንገድ- @ETHIO_PDF_BOOKS.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "5f09b3587d0775b32650b0985f90d0b40ce24a14960ecb4a2767d89f361d230b",
+  "retrieved": "2026-08-27",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_pk8s9qv6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pk8s9qv6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ejhcgccn",
+     "name": "ኤፍሬም ጀማል አብዱ",
+     "role": "author",
+     "romanized": "efrem jemal abdu"
+    },
+    {
+     "id": "pe_9z5hw8pg",
+     "name": "ቴዎድሮስ ሸዋንግዛው",
+     "role": "author",
+     "romanized": "tewodros shewanegzaw"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2020-09-11/2021-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_pk8s9qv6",
+   "id": "wk_pk8s9qv6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "GRACIÁN BALTASAR'S THE ART OF WORLDLY WISDOM, THE HERO",
+    "script": "Ethi",
+    "text": "የግሬሽያን ባልታሳር የብልህነት መንገድ ጀግናው"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}
