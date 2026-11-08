@@ -1,0 +1,72 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyahmadprimaministarofathiopia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x6tm2t8k",
+ "id": "pe_x6tm2t8k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94892512",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94892512"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abiy Ahmed (Prime Minister of Ethiopia)"
+  },
+  "romanized": "Abiy Ahmed (Prime Minister of Ethiopia)",
+  "sort_key": "abiyahmedprimeministerofethiopia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=94892512"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x6tm2t8k",
+     "name": "Abiy Ahmed (Prime Minister of Ethiopia)",
+     "role": "author",
+     "romanized": "Abiy Ahmed (Prime Minister of Ethiopia)"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_8xemvvx3",
+   "id": "wk_8xemvvx3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Medemer (IDA'AMUU)",
+    "script": "Ethi",
+    "text": "መደመር"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

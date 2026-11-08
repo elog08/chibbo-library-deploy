@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c6bnx1de",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_j6fhkj6f",
+   "@type": "Person",
+   "name": "Lule Melaku"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The history of Ethiopian Orthodox Tewahedo Church",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=02897810"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=02897810"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mgg55z4m",
+   "@type": "Book"
+  }
+ ]
+}

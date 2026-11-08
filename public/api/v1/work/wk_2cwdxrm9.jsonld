@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2cwdxrm9",
+ "@type": "Book",
+ "alternateName": [
+  "Zemenawi Yemegib Azegejajet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_s44y4gyt",
+   "@type": "Person",
+   "name": "Selam Berhanu"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_7pq567z1",
+   "@type": "Person",
+   "name": "Yonas Teffera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዘመናዊ የአውሮፓውያን የምግብ አዘገጃጀት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.42",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=86388074"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=86388074"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9mkz6t5c",
+   "@type": "Book"
+  }
+ ]
+}

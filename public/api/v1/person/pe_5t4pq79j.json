@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gatanahabinat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5t4pq79j",
+ "id": "pe_5t4pq79j",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17719055",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17719055"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Getaneh Abinet"
+  },
+  "romanized": "Getaneh Abinet",
+  "sort_key": "getanehabinet"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17719055"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5t4pq79j",
+     "name": "Getaneh Abinet",
+     "role": "author",
+     "romanized": "Getaneh Abinet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1bxsd5yq",
+   "id": "wk_1bxsd5yq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTemuala YeInternet Atekakem-BeAmarigna",
+    "script": "Ethi",
+    "text": "የተሟላ የኢንተርኔት አጠቃቀም-በአማርኛ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

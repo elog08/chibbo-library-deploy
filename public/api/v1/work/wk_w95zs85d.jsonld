@@ -30,15 +30,34 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/the-life-of-sebhat-gebre-egziabher/"
+  },
+  {
+   "@type": "Offer",
+   "price": "9.28",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=90189860"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Alemayehu Gelagay (March 2012 (Second Edition))"
+ },
  "sameAs": [
-  "https://addisbooks.com/book/the-life-of-sebhat-gebre-egziabher/"
+  "https://addisbooks.com/book/the-life-of-sebhat-gebre-egziabher/",
+  "https://www.mereb.shop/rs/?mpid=90189860"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_afbcg08k",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_ks6t4g42",
    "@type": "Book"
   }
  ]

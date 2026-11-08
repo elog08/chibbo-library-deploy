@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drsamualjhonson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tvwxx6zj",
+ "id": "pe_tvwxx6zj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68054343",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68054343"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Samuel Jhonson"
+  },
+  "romanized": "Dr.Samuel Jhonson",
+  "sort_key": "drsamueljhonson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=68054343"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tvwxx6zj",
+     "name": "Dr.Samuel Jhonson",
+     "role": "author",
+     "romanized": "Dr.Samuel Jhonson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_gnnngrf2",
+   "id": "wk_gnnngrf2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yerasielas Mesfne Ethiyopya Tarik",
+    "script": "Ethi",
+    "text": "የራስሤላስ መስፍነ ኢትዮጵያ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

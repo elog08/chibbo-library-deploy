@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "salamawitmulugata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qdeq2yks",
+ "id": "pe_qdeq2yks",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19758810",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19758810"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77124199",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77124199"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selamawit Mulugeta"
+  },
+  "romanized": "Selamawit Mulugeta",
+  "sort_key": "selamawitmulugeta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19758810"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qdeq2yks",
+     "name": "Selamawit Mulugeta",
+     "role": "author",
+     "romanized": "Selamawit Mulugeta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_84c21s9s",
+   "id": "wk_84c21s9s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTenshuwan Leji Terse Man Wesedew",
+    "script": "Ethi",
+    "text": "የትንሻን ልጅ ጥርስ ማን ወሰደው"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qdeq2yks",
+     "name": "Selamawit Mulugeta",
+     "role": "author",
+     "romanized": "Selamawit Mulugeta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z0npn0gq",
+   "id": "wk_z0npn0gq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bilihwa Ayit",
+    "script": "Ethi",
+    "text": "ብልህዋ አይጥ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

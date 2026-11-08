@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drfantahunayala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_betj711s",
+ "id": "pe_betj711s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02348991",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02348991"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Fantahun Ayele"
+  },
+  "romanized": "Dr.Fantahun Ayele",
+  "sort_key": "drfantahunayele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02348991"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_betj711s",
+     "name": "Dr.Fantahun Ayele",
+     "role": "author",
+     "romanized": "Dr.Fantahun Ayele"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_515s5dms",
+   "id": "wk_515s5dms",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Serawit (KeDil Wede Widiket 1967-1983)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሠራዊት (ከድል ወደ ውድቀት 1967-1983)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

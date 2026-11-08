@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_51nbxewf",
+ "@type": "Book",
+ "alternateName": [
+  "Aliweledim"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y2emdfrv",
+   "@type": "Person",
+   "name": "Abe Gubegna"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አልወለድም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=72631857"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Etafzer Printers (September 2013 (Third Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=72631857"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_m3a3375p",
+   "@type": "Book"
+  }
+ ]
+}

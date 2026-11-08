@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadahabtamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ak4shn2z",
+ "id": "pe_ak4shn2z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72899693",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72899693"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kebede Habte Mariam"
+  },
+  "romanized": "Kebede Habte Mariam",
+  "sort_key": "kebedehabtemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72899693"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ak4shn2z",
+     "name": "Kebede Habte Mariam",
+     "role": "author",
+     "romanized": "Kebede Habte Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1967?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yzg86hn6",
+   "id": "wk_yzg86hn6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awera Tat",
+    "script": "Ethi",
+    "text": "አውራ ጣት"
+   },
+   "type": "work",
+   "year": 1967
+  }
+ ]
+}

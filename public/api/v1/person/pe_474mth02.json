@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "masfinwmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_474mth02",
+ "id": "pe_474mth02",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44475399",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44475399"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45222196",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45222196"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87534688",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87534688"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin W/Mariam"
+  },
+  "romanized": "Mesfin W/Mariam",
+  "sort_key": "mesfinwmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44475399"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_474mth02",
+     "name": "Mesfin W/Mariam",
+     "role": "author",
+     "romanized": "Mesfin W/Mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_18bangrm",
+   "id": "wk_18bangrm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Agetuni",
+    "script": "Ethi",
+    "text": "አገቱኒ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_474mth02",
+     "name": "Mesfin W/Mariam",
+     "role": "author",
+     "romanized": "Mesfin W/Mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1n97q913",
+   "id": "wk_1n97q913",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zarem Ende Tinant?",
+    "script": "Ethi",
+    "text": "ዛሬም እንደ ትናንት?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_474mth02",
+     "name": "Mesfin W/Mariam",
+     "role": "author",
+     "romanized": "Mesfin W/Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_chcghs4s",
+   "id": "wk_chcghs4s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zarem Engurguro",
+    "script": "Ethi",
+    "text": "ዛሬም እንጉርጉሮ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

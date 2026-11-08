@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_v6dfz34n",
+ "@type": "Book",
+ "alternateName": [
+  "Fikare"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jzf7mf6w",
+   "@type": "Person",
+   "name": "አለማየሁ ዋሴ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፍካሬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=95929108"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=95929108"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9zxcmr7k",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "halankalar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9t3sg7pa",
+ "id": "pe_9t3sg7pa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29746970",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29746970"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hellen Keller"
+  },
+  "romanized": "Hellen Keller",
+  "sort_key": "hellenkeller"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29746970"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9t3sg7pa",
+     "name": "Hellen Keller",
+     "role": "author",
+     "romanized": "Hellen Keller"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rw7n8stp",
+   "id": "wk_rw7n8stp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAlem Asidenaki Teretoch Ena Hellen Keller",
+    "script": "Ethi",
+    "text": "የአለም አስደናኪ ተረቶች እና ሔለን ኬለር"
+   },
+   "type": "work"
+  }
+ ]
+}

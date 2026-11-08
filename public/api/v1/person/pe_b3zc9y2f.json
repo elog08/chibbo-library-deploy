@@ -1,0 +1,172 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayalama",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_b3zc9y2f",
+ "id": "pe_b3zc9y2f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62304690",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62304690"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74043239",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74043239"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye lema",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Tesfaye Lemma",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ለማ"
+  },
+  "romanized": "tesfaye lema",
+  "sort_key": "ተስፋዬለማ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኢህቲአንደር - አሌክሳንደር ቤላዬቭ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62304690"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b3zc9y2f",
+     "name": "ተስፋዬ ለማ",
+     "role": "author",
+     "romanized": "tesfaye lema"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_186dr8cf",
+   "id": "wk_186dr8cf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopian Musical Instruments",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሙዚቃ መሳሪያዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_b3zc9y2f",
+     "name": "ተስፋዬ ለማ",
+     "role": "author",
+     "romanized": "tesfaye lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s6rgv25j",
+   "id": "wk_s6rgv25j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Muzika Tarik (Keá²á°á»á¹á± Eske á²á±á»á¹á«)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሙዚቃ ታሪክ (ከ፲፰፻፹፱ እስከ ፲፱፻፹፫)"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_yx3fnavy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_yx3fnavy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_enjvr7x5",
+     "name": "አሌክሳንደር ቤላዬቭ",
+     "role": "author",
+     "romanized": "aleksander belayev"
+    },
+    {
+     "id": "pe_b3zc9y2f",
+     "name": "ተስፋዬ ለማ",
+     "role": "author",
+     "romanized": "tesfaye lema"
+    },
+    {
+     "id": "pe_kajm805c",
+     "name": "ጌናዲይ ዩዲን",
+     "role": "author",
+     "romanized": "genadiy yudin"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "1986",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "form": "print",
+   "href": "https://chibbo.app/work/wk_yx3fnavy",
+   "id": "wk_yx3fnavy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ahtiander",
+    "script": "Ethi",
+    "text": "አህቲአንደር"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

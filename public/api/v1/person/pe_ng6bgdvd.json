@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "mulukafal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ng6bgdvd",
+ "id": "pe_ng6bgdvd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mulu kefel",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሙሉ ክፍል"
+  },
+  "romanized": "mulu kefel",
+  "sort_key": "ሙሉክፍል"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_254cjhjy.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/Dertogada.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_ng6bgdvd",
+     "name": "ሙሉ ክፍል",
+     "role": "author",
+     "romanized": "mulu kefel"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_254cjhjy",
+   "id": "wk_254cjhjy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dertogada",
+    "script": "Ethi",
+    "text": "ዴርቶጋዳ"
+   },
+   "type": "work"
+  }
+ ]
+}

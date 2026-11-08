@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "michalshifaraw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_678c049m",
+ "id": "pe_678c049m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13386084",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13386084"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88876523",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88876523"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Michael Shiferaw"
+  },
+  "romanized": "Michael Shiferaw",
+  "sort_key": "michaelshiferaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13386084"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_678c049m",
+     "name": "Michael Shiferaw",
+     "role": "author",
+     "romanized": "Michael Shiferaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jhd72vrf",
+   "id": "wk_jhd72vrf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMirko Ager Ewnet",
+    "script": "Ethi",
+    "text": "የምርኮ አገር እውነት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_678c049m",
+     "name": "Michael Shiferaw",
+     "role": "author",
+     "romanized": "Michael Shiferaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wajbb0np",
+   "id": "wk_wajbb0np",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "MisTiregmaw Balekine (Ethiopia Tsegaye G/Medhinina Sirawochu)",
+    "script": "Ethi",
+    "text": "ምሥጢረኛው ባለቅኔ (ኢትዮጵያ ጸጋዬ ገ/መድኅንና ሥራዎቹ)"
+   },
+   "type": "work"
+  }
+ ]
+}

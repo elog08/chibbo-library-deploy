@@ -1,9 +1,9 @@
 {
  "cover": {
-  "bytes": 345633,
-  "path": "assets/covers/wk_wcj8tmy7.png",
-  "sha256": "c7d26dc1eca7c7ab4db219414e2517b244a134deb516f4029bbe7406c9ba38df",
-  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wcj8tmy7.png"
+  "bytes": 37561,
+  "path": "assets/covers/wk_wcj8tmy7.jpg",
+  "sha256": "679770ab08e6bd893800c618f338aeefdf881d371a1d33a8ae48c2f6f1b03cf2",
+  "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ትኩሳት_እንደ_ወረደ.jpg"
  },
  "credits": [
   {
@@ -32,6 +32,7 @@
  },
  "flags": [
   "calendar-ambiguous",
+  "unlicensed-full-text-source",
   "llm-extracted"
  ],
  "form": "novel",
@@ -57,11 +58,21 @@
   ]
  },
  "language": "am",
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
   "Introduced modernist stream-of-consciousness to Amharic literature.",
+  "full text offered at https://typicalethiopian.com/wp-content/uploads/2022/02/ትኩሳት-ስብሀት-ገብረእግዚአብሔር.pdf",
   "Read from PDF front matter: ትኩሳት - ስብሀት ገብረእግዚአብሔር.pdf",
   "Read from PDF front matter: ትኩሳት ስብሀት ገእግዚአብሔር.pdf",
   "Read from PDF front matter: ትኩሳት_by_ጋሽ_ስብሃት_ገብረእግዚአብሔር_.pdf"

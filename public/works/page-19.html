@@ -86,6 +86,19 @@ color:var(--faint);margin-right:.5rem}
 .note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
 margin:1.5rem 0;font-size:.9rem}
 .note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
 footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
 font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
 #q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
@@ -111,368 +124,428 @@ dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
 </header>
 <nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../works/page-1.html"><span itemprop="name">Books</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 19</span><meta itemprop="position" content="3"></li></ol></nav>
 <h1>Books</h1><ul class="grid"><li class="card">
-  <a class="thumb" href="../work/wk_8d0t1h00.html"><img src="../assets/covers/wk_8d0t1h00.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_aap452rv.html"><div class="placeholder" lang="am">ማሊክ አምባር (ከቀንበር እስከ መንበር)</div></a>
   <a class="t" lang="am"
-     href="../work/wk_8d0t1h00.html">የማርያም ታላቅ አእምሮ</a>
-  <span class="r">yemaryam talaq aemro</span>
-  <span class="a">ዶ/ር ወዳጄነህ መሐረነ · 2012</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_q73q9701.html"><img src="../assets/covers/wk_q73q9701.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_q73q9701.html">የማታ እንጀራ</a>
-  <span class="r">Yemata Injera Alemtsehay Wedajo</span>
-  <span class="a">ዓለም ፀሐይ ወዳጆ · 2001</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_ernejttt.html"><img src="../assets/covers/wk_ernejttt.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_ernejttt.html">የማዕበል መንገደኞች</a>
-  <span class="r">Ye Maebel Mengedegnoch</span>
-  <span class="a">አለማየሁ ማሞ · 2022</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_bst9jhfr.html"><img src="../assets/covers/wk_bst9jhfr.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_bst9jhfr.html">የማይሰበረው ኤርሚያስ አመልጋ</a>
-  <span class="r">yemayseberew ermiyas amelga</span>
-  <span class="a">አንተነህ ይግዘው · 2019</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_8c95kvsj.html"><img src="../assets/covers/wk_8c95kvsj.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_8c95kvsj.html">የማይናገረው ልዑል</a>
-  <span class="r">The Silent Prince</span>
-  <span class="a">Meseret Kinfe Haile · 2026</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_etf523dz.html"><img src="../assets/covers/wk_etf523dz.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_etf523dz.html">የማይጻፍ ገድል</a>
-  <span class="r">yemaytsaf gedel</span>
-  <span class="a">በድሉ ዋቅጅራ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_jhfy4shd.html"><img src="../assets/covers/wk_jhfy4shd.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_jhfy4shd.html">የማይጻፍ ገድል</a>
-  <span class="r">yemaytsaf gedel</span>
-  <span class="a">ዶክተር በድሉ ዋቅጅራ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_tvaand58.html"><img src="../assets/covers/wk_tvaand58.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_tvaand58.html">የማጥፋት ሽርክና</a>
-  <span class="r">yematfat sherekna</span>
-  <span class="a">ቬሮኒካ ዘገዳም-ጳጦስ · 2017</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_0jr385gg.html"><img src="../assets/covers/wk_0jr385gg.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_0jr385gg.html">የምሳሌያዊ አነጋገር ሥነ-ፍቻዊ ፋይዳና አንድምታ</a>
-  <span class="r">yemsaleyawi anegager sene-fechawi faydana anedemta</span>
-  <span class="a">ወይንሸት በየነ · 2014</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_qaq2mcz2.html"><img src="../assets/covers/wk_qaq2mcz2.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_qaq2mcz2.html">የምስጋና ሕይወት</a>
-  <span class="r">yemesgana heywet</span>
-  <span class="a">ብፁዕ ወቅዱስ አቡነ ሺኖዳ ሦስተኛ, ዲ/ን ዘኤልያስ ወ/ሚካኤል · 2000</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_0c7g9ay5.html"><img src="../assets/covers/wk_0c7g9ay5.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_0c7g9ay5.html">የምኖረው አንቺን ለማፍቀር ነው</a>
-  <span class="r">yemnorew anchin lemafqer new</span>
-  <span class="a">ዘሪሁን ገመቹ · 2015</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_dkkbqnk7.html"><img src="../assets/covers/wk_dkkbqnk7.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_dkkbqnk7.html">የምዕራባውያን ፍልስፍናና ሥልጣኔ ታሪክ (፩)</a>
-  <span class="r">yemerabawyan felesefnana seltane tarik (1)</span>
-  <span class="a">በቀለ ተገኝ መኰንን, በርትራንድ ረስል · 1992</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_15h1vkp8.html"><img src="../assets/covers/wk_15h1vkp8.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_15h1vkp8.html">የምወድህ</a>
-  <span class="r">yemwedeh</span>
-  <span class="a">ሊድያ ተስፋዬ · 2011</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_xf1fqk7n.html"><img src="../assets/covers/wk_xf1fqk7n.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_xf1fqk7n.html">የምድራችን ጀግና</a>
-  <span class="r">yemedrachen jegna</span>
-  <span class="a">ዘነበ ወላ · 2019</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_y1qvb7m9.html"><img src="../assets/covers/wk_y1qvb7m9.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_y1qvb7m9.html">የምድር ጨው ፍለጋ በኢትዮጵያ</a>
-  <span class="r">yemeder chew felega beityopya</span>
-  <span class="a">ዮሐንስ ጣሰው · 2012</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_0mp75nkx.html"><img src="../assets/covers/wk_0mp75nkx.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_0mp75nkx.html">የምግቦችና መጠጦች አሠራር ዘዴ</a>
-  <span class="r">yemegbochna metetoch aserar zede</span>
-  <span class="a">ባዩ ዲሜጥሮስ · 1988</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_zdsx8pk5.html"><img src="../assets/covers/wk_zdsx8pk5.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_zdsx8pk5.html">የሞሳድ ተልዕኮ</a>
-  <span class="r">yemosad teleko</span>
-  <span class="a">Daniel Silva, ሙሉቀን ታሪኩ · 2015</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_nnvhqq74.html"><img src="../assets/covers/wk_nnvhqq74.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_nnvhqq74.html">የሞተ እርዳታ</a>
-  <span class="r">yemote erdata</span>
-  <span class="a">ስማቸው ተበጀ · 2014</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_y00mm1t2.html"><img src="../assets/covers/wk_y00mm1t2.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_y00mm1t2.html">የሞት መድሀኒት</a>
-  <span class="r">yemot medhenit</span>
-  <span class="a">ደሴ አዳም · 2014</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_q7b2a6j1.html"><img src="../assets/covers/wk_q7b2a6j1.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_q7b2a6j1.html">የሞት ጉዞ</a>
-  <span class="r">yemot guzo</span>
-  <span class="a">ግሩም ተ/ሀይማኖት · 2013</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_btyn4wgk.html"><img src="../assets/covers/wk_btyn4wgk.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_btyn4wgk.html">የሪፖርት አዘገጃጀት እና አቀራረብ</a>
-  <span class="r">yeriporet azegejajet ena aqerareb</span>
-  <span class="a">አበበ ቅሩብ · 2015</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_pgs6xwdc.html"><img src="../assets/covers/wk_pgs6xwdc.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_pgs6xwdc.html">የራስህን ኑሮ ኑር</a>
-  <span class="r">Yerasehn Nuro Nur</span>
-  <span class="a">Michael Masrie · 2026</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_r18myhqe.html"><img src="../assets/covers/wk_r18myhqe.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_r18myhqe.html">የራስ ምስል</a>
-  <span class="r">yeras mesel</span>
-  <span class="a">ዶክተር በድሉ ዋቅጅራ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_24zz52eq.html"><img src="../assets/covers/wk_24zz52eq.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_24zz52eq.html">የራስ - ወዳድነት ፀጋ</a>
-  <span class="r">yeras - wedadnet tsega</span>
-  <span class="a">አየን ራንድ, ናትናኤል ብራንደን, ዳንኤል ጥሩነህ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_ryrptrw4.html"><img src="../assets/covers/wk_ryrptrw4.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_ryrptrw4.html">የራዕይ ኃይል መርሆች</a>
-  <span class="r">yeraey hayel merhoch</span>
-  <span class="a">ቢንያም አለማየሁ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_1gprg02n.html"><img src="../assets/covers/wk_1gprg02n.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_1gprg02n.html">የራያ ህዝብ የማንነት ጥይቄና የመንግስታት ምላሽ (ከ1461 እስከ 2011 ዓ.ም</a>
-  <span class="r">yeraya hezeb yemannet teyqena yemenegestat melash (ke1461 eske 2011 a.me</span>
-  <span class="a">ዶ/ር ሲሳይ መንግስቴ አዲሱና አለሙ ካሳ ረታ, Alemu Kassa Reta</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_h2gz25sx.html"><img src="../assets/covers/wk_h2gz25sx.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_h2gz25sx.html">የሬጌው ንጉስ በኢትዮጵያ ኢዮብ መኮንን</a>
-  <span class="r">yeregew negus beityopya iyob mekonen</span>
-  <span class="a">ሳሙኤል ወልደየስ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_e25qh07q.html"><img src="../assets/covers/wk_e25qh07q.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_e25qh07q.html">የሰላዩ ምስጢር</a>
-  <span class="r">yeselayu mestir</span>
-  <span class="a">ኬን ፎሌት, አበበ ሠይፈ · 1995</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_8yrbb6nd.html"><img src="../assets/covers/wk_8yrbb6nd.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_8yrbb6nd.html">የሰላዩ ሴራ</a>
-  <span class="r">yeselayu sera</span>
-  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2007</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_9t3mheq0.html"><img src="../assets/covers/wk_9t3mheq0.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_9t3mheq0.html">የሰርቆ አደሮች ስብሰባ እና ሌሎች</a>
-  <span class="r">yeserqo aderoch sebseba ena leloch</span>
-  <span class="a">ዳንኤል ክብረት · 2016</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_x8grbp8g.html"><img src="../assets/covers/wk_x8grbp8g.webp" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_x8grbp8g.html">የሰርቆ አደእሮች ስብሰባና ሌሎችም</a>
-  <span class="r">yeserqo aderoch sebsebana lelochem</span>
-  <span class="a">ዲያቆን ዳንኤል ክብረት</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_jrwm77vs.html"><img src="../assets/covers/wk_jrwm77vs.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_jrwm77vs.html">የሠርቱ ምዕት የብዕር ምርት</a>
-  <span class="r">yesertu meet yebeer meret</span>
-  <span class="a"> · 2006</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_bvbj6g8y.html"><img src="../assets/covers/wk_bvbj6g8y.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_bvbj6g8y.html">የሰባኪው ምሳሌ</a>
-  <span class="r">yesebakiw mesale</span>
+     href="../work/wk_aap452rv.html">ማሊክ አምባር (ከቀንበር እስከ መንበር)</a>
+  <span class="r">Malik Amber (Kekenber Eske Menber)</span>
+  <span class="a">Omar Hussein Ali</span>
   
 </li><li class="card">
-  <a class="thumb" href="../work/wk_v57y48qr.html"><img src="../assets/covers/wk_v57y48qr.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_jxsaengh.html"><img src="../assets/covers/wk_jxsaengh.webp" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_v57y48qr.html">የሰው ሃገር ሰው ነኝ</a>
-  <span class="r">yesew hager sew neny</span>
-  <span class="a">ሰለሞን ሳህለ · 2013</span>
+     href="../work/wk_jxsaengh.html">ማልከም ኤክስ (የሕይወት ታሪክ)</a>
+  <span class="r">malkem ekes (yeheywet tarik)</span>
+  <span class="a">ሙሉቀን ታሪኩ, አማረ ብርሃኑ, ALEX HALEY, MALCOLM X · 2013</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_bnxp72j9.html"><img src="../assets/covers/wk_bnxp72j9.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_z8a97cd0.html"><div class="placeholder" lang="am">ማሙሽ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_bnxp72j9.html">የሰው ሕይወቱ</a>
-  <span class="r">yesew heywetu</span>
-  <span class="a">ዮሴፍ በቀለ (ዲያቆን ኢንጂነር) · 2013</span>
+     href="../work/wk_z8a97cd0.html">ማሙሽ</a>
+  <span class="r">Mamush</span>
+  <span class="a">Michael Azmerawaw</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_6apv6767.html"><img src="../assets/covers/wk_6apv6767.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_6xk6rk41.html"><div class="placeholder" lang="am">ማሙሽ እና ቦቢ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_6apv6767.html">የሰው ልጅ የጥበበኛነት መንገድ (ሞዴል)</a>
-  <span class="r">UNLIMITED POWER</span>
-  <span class="a">አንቶኒ ሮቢንስ, ፀጋዬ ሽንብር · 2014</span>
+     href="../work/wk_6xk6rk41.html">ማሙሽ እና ቦቢ</a>
+  <span class="r">Mamush Ena Bobi</span>
+  <span class="a">Kasu Kebede</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_98zc6sdd.html"><img src="../assets/covers/wk_98zc6sdd.webp" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_r2dxahtn.html"><div class="placeholder" lang="am">ማማ በሰማይ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_98zc6sdd.html">የሱፍ አበባ</a>
-  <span class="r">yesuf abeba</span>
-  <span class="a">ሀብታሙ አለባቸው, ሐኒባል ገብረሕይወት · 2015</span>
+     href="../work/wk_r2dxahtn.html">ማማ በሰማይ</a>
+  <span class="r">Mama Besemay (Tower in the Sky in Amharic)</span>
+  <span class="a">Hiwote Teffera</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_epd0js4b.html"><img src="../assets/covers/wk_epd0js4b.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_tdfmhqw5.html"><img src="../assets/covers/wk_tdfmhqw5.jpg" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_epd0js4b.html">የሳይንስ ኑዛዜ</a>
-  <span class="r">yesayenes nuzaze</span>
-  <span class="a">ሰለሞን ዮሐንስ</span>
+     href="../work/wk_tdfmhqw5.html">ማማ በሰማይ</a>
+  <span class="r">mama besemay</span>
+  <span class="a">ጌታነህ አንተነህ (Hiwot Tefera)</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_c7yz8vgg.html"><img src="../assets/covers/wk_c7yz8vgg.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_zhcdmfem.html"><img src="../assets/covers/wk_zhcdmfem.webp" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_c7yz8vgg.html">የሳይንስና ቴክኖሎጂ መዝገበ ቃላት (እንግሊዝኛ – አማርኛ)</a>
-  <span class="r">SCIENCE AND TECHNOLOGY DICTIONARY (ENGLISH - AMHARIC)</span>
-  <span class="a">ግርማ ዘነበ, አለማየሁ ጉርሙ, ታህሳስ ክበበው, ባይለየኝ ጣሰው, ቃለአብ ወረደ · 1996</span>
+     href="../work/wk_zhcdmfem.html">ማማ በሰማይ</a>
+  <span class="r">mama besemay</span>
+  <span class="a">ህይወት ተፈራ ተርጓሚ ጌታነህ አንተነህ · 2014</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_q5z4mmw1.html"><img src="../assets/covers/wk_q5z4mmw1.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_2f68hka3.html"><div class="placeholder" lang="am">ማሞ ቂሉ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_q5z4mmw1.html">የሳጃው ዳኛ</a>
-  <span class="r">yesajaw danya</span>
-  <span class="a">ሙአዝ ዝያድ · 2026</span>
+     href="../work/wk_2f68hka3.html">ማሞ ቂሉ</a>
+  <span class="r">Silly Mammo (An Ethiopian Tale)</span>
+  <span class="a">Yohannes Gebregeorgis · 2005</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_bn6f18w0.html"><img src="../assets/covers/wk_bn6f18w0.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_k5gvy2hs.html"><div class="placeholder" lang="am">ማሞ ቂሎ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_bn6f18w0.html">የሳጥናኤል ጎል ኢትዮጵያ</a>
-  <span class="r">yesatnael gol ityopya</span>
-  <span class="a">ፍሥሐ ያዜ</span>
+     href="../work/wk_k5gvy2hs.html">ማሞ ቂሎ</a>
+  <span class="r">Mamo Kilo</span>
+  
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_x8j4xhdh.html"><img src="../assets/covers/wk_x8j4xhdh.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_5xjqhhs7.html"><img src="../assets/covers/wk_5xjqhhs7.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_x8j4xhdh.html">የሳጥናኤል ጎል ኢትዮጵያ!!</a>
-  <span class="r">yesatnael gol ityopya!!</span>
-  <span class="a">ፍሥሐ ያዜ ካሣ · 2014</span>
+     href="../work/wk_5xjqhhs7.html">ማረፊያ ጎጆ</a>
+  <span class="r">marefiya gojo</span>
+  <span class="a">Ready Set Go Books</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_wv1aa7h0.html"><img src="../assets/covers/wk_wv1aa7h0.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_7rdhzw8f.html"><div class="placeholder" lang="am">ማራኪ ተረቶች 1</div></a>
   <a class="t" lang="am"
-     href="../work/wk_wv1aa7h0.html">የሳጥናኤል ጎል ኢትዮጵያ!! ቁጥር ሁለት</a>
-  <span class="r">yesatnael gol ityopya!! quter hulet</span>
-  <span class="a">ፍሥሐ ያዜ · 2017</span>
+     href="../work/wk_7rdhzw8f.html">ማራኪ ተረቶች 1</a>
+  <span class="r">Maraki Teretoch 1</span>
+  <span class="a">Gel Oscary</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_qrcr6y87.html"><img src="../assets/covers/wk_qrcr6y87.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_0jqhy9nw.html"><img src="../assets/covers/wk_0jqhy9nw.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_qrcr6y87.html">የሳጥናኤል ጎል ኢትዮጵያ ቁጥር ሦስት</a>
-  <span class="r">yesatnael gol ityopya quter soset</span>
-  <span class="a">ፍሥሐ ያዜ ካሣ · 2018</span>
+     href="../work/wk_0jqhy9nw.html">ማራዝት</a>
+  <span class="r">marazet</span>
+  <span class="a">ታደለ ብጡል ክብረት · 1994</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_032vvs04.html"><img src="../assets/covers/wk_032vvs04.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_6tzypg4f.html"><div class="placeholder" lang="am">ማርቲን ሉተር ኪንግ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_032vvs04.html">የሳጥናኤል ፊታውራሪዎች</a>
-  <span class="r">yesatnael fitawrariwoch</span>
-  <span class="a">አማኑኤል አማን · 2013</span>
+     href="../work/wk_6tzypg4f.html">ማርቲን ሉተር ኪንግ</a>
+  <span class="r">Martin Luther King</span>
+  <span class="a">Mohammed Selman · 2021</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_frp6ba6a.html"><img src="../assets/covers/wk_frp6ba6a.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_w49rtawq.html"><div class="placeholder" lang="am">ማርቲን ሉተር ኪንግ ትንሹ (ህልም አለኝ)</div></a>
   <a class="t" lang="am"
-     href="../work/wk_frp6ba6a.html">የሥራ አመራር ጥበብና ተያያዥ ጉዳዮች</a>
-  <span class="r">yesra amerar tebebna teyayazh gudayoch</span>
-  <span class="a">ዶ/ር ታደሰ ብሩ ኬርስሞ · 2015</span>
+     href="../work/wk_w49rtawq.html">ማርቲን ሉተር ኪንግ ትንሹ (ህልም አለኝ)</a>
+  <span class="r">Martin Luther King Jr., Hilim Alegn</span>
+  
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_8s5yt1c7.html"><img src="../assets/covers/wk_8s5yt1c7.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_zm5pxwb8.html"><img src="../assets/covers/wk_zm5pxwb8.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_8s5yt1c7.html">የስርቻው መጣጥፍ</a>
-  <span class="r">yeserchaw metatef</span>
-  <span class="a">ፋሲል ይትባረክ, ፊዮዶር ዶስቶቪስኪ</span>
+     href="../work/wk_zm5pxwb8.html">ማርና ሞሪንጋ</a>
+  <span class="r">marna moringa</span>
+  <span class="a">ዶ/ር ኬኬ · 2013</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_xw20fy4p.html"><img src="../assets/covers/wk_xw20fy4p.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_j443hkta.html"><img src="../assets/covers/wk_j443hkta.webp" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_xw20fy4p.html">የስርቻው መጣጥፍ</a>
-  <span class="r">yeserchaw metatef</span>
-  <span class="a">ፊዮዶር ዶስቶየቭስኪ, ፋሲል ይትባረክ · 1991</span>
+     href="../work/wk_j443hkta.html">ማርኬቲንግ</a>
+  <span class="r">marketineg</span>
+  <span class="a">ዶ/ር አቡሽ አያለው, በአገር መኩርያው · 2016</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_zxkgdspk.html"><img src="../assets/covers/wk_zxkgdspk.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_tfn6tdsz.html"><div class="placeholder" lang="am">ማርኬቲንግ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_zxkgdspk.html">የስርቻ ጣዝማ</a>
-  <span class="r">yesercha tazma</span>
-  <span class="a">ወንደሰን ውቤ · 2016</span>
+     href="../work/wk_tfn6tdsz.html">ማርኬቲንግ</a>
+  <span class="r">Marketing</span>
+  <span class="a">BeAger Mekuriyaw, Dr.Abush Ayalew</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_vrxh1kr1.html"><img src="../assets/covers/wk_vrxh1kr1.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_1cy4c93f.html"><img src="../assets/covers/wk_1cy4c93f.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_vrxh1kr1.html">የሥነ ጽሁፍ ሰዎች እና ሥራዎቻቸው</a>
-  <span class="r">yesne tsehuf sewoch ena serawochachew</span>
-  <span class="a">ሀብታሙ ግርማ ደምሴ</span>
+     href="../work/wk_1cy4c93f.html">ማርክሲዝምና የቋንቋ ችግሮች</a>
+  <span class="r">mareksizemna yeqwanqwa chegroch</span>
+  <span class="a">ጆሴፍ እስታሊን, ደበበ ሰይፉ · 1979</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_na8pqp9p.html"><img src="../assets/covers/wk_na8pqp9p.png" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_fg3a2ks8.html"><div class="placeholder" lang="am">ማርያም እና የጌታ መልአክ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_na8pqp9p.html">የሥነ ጽሑፍ ቅኝት</a>
-  <span class="r">yesne tsehuf qenyet</span>
-  <span class="a">አያልነህ ሙላቱ · 1977</span>
+     href="../work/wk_fg3a2ks8.html">ማርያም እና የጌታ መልአክ</a>
+  <span class="r">maryam ena yegeta melak</span>
+  
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_fswg40m7.html"><img src="../assets/covers/wk_fswg40m7.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_ce5xzh5y.html"><div class="placeholder" lang="am">ማር ፊደል</div></a>
   <a class="t" lang="am"
-     href="../work/wk_fswg40m7.html">የስናዳር ስንክሳር</a>
-  <span class="r">yesnadar seneksar</span>
-  <span class="a">ምንዳርአለው ዘውዴ</span>
+     href="../work/wk_ce5xzh5y.html">ማር ፊደል</a>
+  <span class="r">Mar Fidel</span>
+  <span class="a">Tewodros Mesfin (Teddy Man), Martha Dadi · 2012</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_yzjphgrs.html"><img src="../assets/covers/wk_yzjphgrs.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_hxvhej6e.html"><div class="placeholder" lang="am">ማሰብ አስተምሩኝ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_yzjphgrs.html">የስንብት ቀለማት</a>
-  <span class="r">YeSinebit Qelemat</span>
-  <span class="a">አዳም ረታ · 2016</span>
+     href="../work/wk_hxvhej6e.html">ማሰብ አስተምሩኝ</a>
+  <span class="r">Maseb Asitemirugn</span>
+  <span class="a">Minwagaw Temesgen</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_424f15yg.html"><img src="../assets/covers/wk_424f15yg.webp" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_5j6t4gpc.html"><img src="../assets/covers/wk_5j6t4gpc.jpg" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_424f15yg.html">የስኳር ሕመም መነሻው መከላከያው እና መፍትሔው</a>
-  <span class="r">yeskwar hemem meneshaw mekelakeyaw ena mefethew</span>
-  <span class="a">ዶ/ር አብረሃም ክብረት · 2015</span>
+     href="../work/wk_5j6t4gpc.html">ማስታወሻ</a>
+  <span class="r">mastawesha</span>
+  <span class="a">ዘነበ ወላ · 2014</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_51p88490.html"><img src="../assets/covers/wk_51p88490.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_9gm2cjwe.html"><img src="../assets/covers/wk_9gm2cjwe.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_51p88490.html">የስኬት ምስጢር</a>
-  <span class="r">yesket mestir</span>
+     href="../work/wk_9gm2cjwe.html">ማስታወሻ</a>
+  <span class="r">mastawesha</span>
+  <span class="a">ስብሀት ገብረእግዚአብሄር, ዘነበ ወላ · 2008</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zw7mqtpk.html"><div class="placeholder" lang="am">ማስታወሻ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zw7mqtpk.html">ማስታወሻ</a>
+  <span class="r">Mastawosha</span>
+  <span class="a">መንግሥቱ ለማ</span>
+  <span class="a">in የግጥም ጉባኤ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sd4t4bp8.html"><div class="placeholder" lang="am">ማስያስ(የኦርቶዶክሳዊው ነገረ መለኮት መቅድማዊ ነጥቦች)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sd4t4bp8.html">ማስያስ(የኦርቶዶክሳዊው ነገረ መለኮት መቅድማዊ ነጥቦች)</a>
+  <span class="r">Masyas (YeOrthodoksawiw Negere Melekot Mekdmawi Netiboch)</span>
+  <span class="a">Deacon Mikias Asires</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jerb5ps4.html"><img src="../assets/covers/wk_jerb5ps4.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jerb5ps4.html">ማታ ማታ እና ሌሎች ትረካዎች</a>
+  <span class="r">mata mata ena leloch terekawoch</span>
+  <span class="a">ሕይወት እምሻው</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_p125qewn.html"><div class="placeholder" lang="am">ማታ ማታ እና ሌሎች ትረካዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_p125qewn.html">ማታ ማታ እና ሌሎች ትረካዎች</a>
+  <span class="r">Mata Mata Ena Leloch Tirekawoch</span>
+  <span class="a">Hiwot Emeshaw</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_d4zeg27e.html"><img src="../assets/covers/wk_d4zeg27e.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_d4zeg27e.html">ማነኝ</a>
+  <span class="r">maneny</span>
+  <span class="a">ኤርሚያስ ጌትነት · 2015</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hsmg42fh.html"><img src="../assets/covers/wk_hsmg42fh.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hsmg42fh.html">ማነው ?</a>
+  <span class="r">THE BOURNE INDENTITY</span>
+  <span class="a">ሮበርት ሉድለም, ክንፈ ገብርኤል ከበደ · 1984</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cnset9xm.html"><div class="placeholder" lang="am">ማንም የለም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_cnset9xm.html">ማንም የለም</a>
+  <span class="r">Manim Yelem</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r7p0g36z.html"><div class="placeholder" lang="am">ማንነትን መፈለግ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_r7p0g36z.html">ማንነትን መፈለግ</a>
+  <span class="r">Maninetin Mefeleg</span>
+  <span class="a">Phillip C Mcgrow</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_bry7k9md.html"><div class="placeholder" lang="am">ማንን ልኑር?</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_bry7k9md.html">ማንን ልኑር?</a>
+  <span class="r">Manin Linur?</span>
+  <span class="a">Eden Tolossa</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_264tt0e9.html"><img src="../assets/covers/wk_264tt0e9.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_264tt0e9.html">ማን ይናገር የነበረ... የታኅሣሡ ግርግርና መዘዙ</a>
+  <span class="r">man yenager yenebere... yetahsasu geregerna mezezu</span>
+  <span class="a">ብርሃኑ አስረስ · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j837jagj.html"><div class="placeholder" lang="am">ማን ይናገር የነበረ...(የታኅሣሡ ግርግር እና መዘዙ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j837jagj.html">ማን ይናገር የነበረ...(የታኅሣሡ ግርግር እና መዘዙ)</a>
+  <span class="r">Man Yinager Yenebere... (Yetahisasu Girgir Ena Mezezu)</span>
+  <span class="a">Berhanu Aseres</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r8p3rxtf.html"><div class="placeholder" lang="am">ማንጁስ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_r8p3rxtf.html">ማንጁስ</a>
+  <span class="r">Manjus</span>
+  <span class="a">Tamiru temesgen Belay</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_v7gqhnrc.html"><div class="placeholder" lang="am">ማኖሬ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_v7gqhnrc.html">ማኖሬ</a>
+  <span class="r">Manore</span>
+  <span class="a">መንግሥቱ ለማ</span>
+  <span class="a">in የግጥም ጉባኤ</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zq6q4eeb.html"><div class="placeholder" lang="am">ማዕቀብ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zq6q4eeb.html">ማዕቀብ</a>
+  <span class="r">Ma&#x27;ekeb</span>
+  <span class="a">እንዳለጌታ ከበደ · 2013</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_t8agbegy.html"><div class="placeholder" lang="am">ማዕበላዊ ህይወት እና የዓላማ ጽናት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_t8agbegy.html">ማዕበላዊ ህይወት እና የዓላማ ጽናት</a>
+  <span class="r">Ma&#x27;ebelawi Hywet ena YeAlama Tsinat</span>
+  <span class="a">Alemayehu Dekiro Dora</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3k5q1adm.html"><div class="placeholder" lang="am">ማዕበል</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_3k5q1adm.html">ማዕበል</a>
+  <span class="r">Maebel</span>
+  <span class="a">ብርሃኑ ዘሪሁን · 1980</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rj6hf489.html"><img src="../assets/covers/wk_rj6hf489.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rj6hf489.html">ማዕበል የአብዮቱ ማግሥት</a>
+  <span class="r">mabel yeabyotu mageset</span>
+  <span class="a">ብርሃኑ ዘሪሁን</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_htvk0pj6.html"><div class="placeholder" lang="am">ማዕበል (የአብዮት መባቻ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_htvk0pj6.html">ማዕበል (የአብዮት መባቻ)</a>
+  <span class="r">Ma&#x27;bel (Yeabiyot Mebacha)</span>
+  <span class="a">Birhanu Zeryihun · 1981</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rjyj9z2b.html"><div class="placeholder" lang="am">ማዕበል (የአብዮት ማግስት)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_rjyj9z2b.html">ማዕበል (የአብዮት ማግስት)</a>
+  <span class="r">Ma&#x27;bel (YeAbyot Magist)</span>
+  <span class="a">Birhanu Zeryhun · 1975</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ysgtsncq.html"><div class="placeholder" lang="am">ማዕበል (የአብዮት ዋዜማ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ysgtsncq.html">ማዕበል (የአብዮት ዋዜማ)</a>
+  <span class="r">Ma&#x27;bel (YeAbyot Wazema)</span>
+  <span class="a">Berhanu Zeryhun · 1981</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7hwphkt6.html"><div class="placeholder" lang="am">ማዕበል ጠሪ ወፍ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_7hwphkt6.html">ማዕበል ጠሪ ወፍ</a>
+  <span class="r">Maebel Teri Wef</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ajk3qam3.html"><div class="placeholder" lang="am">ማዕበል ፍርቂ ለይቲ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ajk3qam3.html">ማዕበል ፍርቂ ለይቲ</a>
+  <span class="r">Maebel Frki Leyti</span>
+  <span class="a">Hasset Fisseha</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vm1f2x0x.html"><div class="placeholder" lang="am">ማዕደ ልሳናት(የቛንቛዎች ገበታ)የግእዝ-አማርኛ-እንግሊዘኛ መዝገበ ቃላ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_vm1f2x0x.html">ማዕደ ልሳናት(የቛንቛዎች ገበታ)የግእዝ-አማርኛ-እንግሊዘኛ መዝገበ ቃላት</a>
+  <span class="r">Ma&#x27;ede Lisanat (YeKuankuawoch Gebeta)YeGe&#x27;ez-Amargna-Engilizegna Dictionary</span>
+  <span class="a">Eritiban Demoz Molla</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b8b01qm5.html"><img src="../assets/covers/wk_b8b01qm5.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_b8b01qm5.html">ማዕዶተ ሕይወት</a>
+  <span class="r">madote heywet</span>
+  <span class="a">ዲራዓዝ · 2014</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_e3s0x958.html"><img src="../assets/covers/wk_e3s0x958.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_e3s0x958.html">ማክሲምካ የመርከበኞች ታሪክ</a>
+  <span class="r">maksimka yemerkebenyoch tarik</span>
+  <span class="a">ኮንስታንቲን ስታኒዩኮቪች</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jke3abjg.html"><img src="../assets/covers/wk_jke3abjg.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jke3abjg.html">ማክቤዝ</a>
+  <span class="r">MACBETH</span>
+  <span class="a">ዊሊያም ሼክስፒር, ጸጋዬ ገብረ መድኅን · 1971</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8dspmac5.html"><div class="placeholder" lang="am">ማዛሮት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_8dspmac5.html">ማዛሮት</a>
+  <span class="r">Mazarot</span>
+  <span class="a">Megabi Hadis Rodas Tadesse (PH.D)</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hz76qa80.html"><img src="../assets/covers/wk_hz76qa80.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hz76qa80.html">ማዛሮት</a>
+  <span class="r">Mazarot</span>
+  <span class="a">Megabe Haddis Rodas Tadese · 2022</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_knbtn6cm.html"><img src="../assets/covers/wk_knbtn6cm.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_knbtn6cm.html">ማዛሮት</a>
+  <span class="r">mazarot</span>
+  <span class="a">መጋቤ ሐዲስ ዶክተር ሮዳስ ታደሰ · 2021</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6pswhn7h.html"><div class="placeholder" lang="am">ማይጨው (የማይጨው ዘመቻና የጉዞው ታሪክ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_6pswhn7h.html">ማይጨው (የማይጨው ዘመቻና የጉዞው ታሪክ)</a>
+  <span class="r">Maychew (Yemaychew Zemechana Yeguzow Tarik)</span>
+  <span class="a">Gebrewold Engidawork · 2008</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_t9h4dmxq.html"><div class="placeholder" lang="am">ማይጨው (የማይጨው ዘመቻና የጉዞው ታሪክ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_t9h4dmxq.html">ማይጨው (የማይጨው ዘመቻና የጉዞው ታሪክ)</a>
+  <span class="r">Maychew (YeMaychew Zemechana Yeguzow Tarik)</span>
+  <span class="a">G/Wold Engidawork · 1951</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_revsvn40.html"><div class="placeholder" lang="am">ማጅራ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_revsvn40.html">ማጅራ</a>
+  <span class="r">Majra</span>
+  <span class="a">Solomon Mengistie</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pj1av1bz.html"><div class="placeholder" lang="am">ማጆሪስ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_pj1av1bz.html">ማጆሪስ</a>
+  <span class="r">Majoris</span>
+  <span class="a">Tilahun Berhanu · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_eeb87n3f.html"><div class="placeholder" lang="am">ማጎርሳቢብ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_eeb87n3f.html">ማጎርሳቢብ</a>
+  <span class="r">Magorsabib</span>
+  <span class="a">Asegid Mekonin · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_75f1csbn.html"><img src="../assets/covers/wk_75f1csbn.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_75f1csbn.html">ማፍያዎቹ</a>
+  <span class="r">mafyawochu</span>
   <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2016</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_47djergg.html"><img src="../assets/covers/wk_47djergg.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_brsjj66d.html"><div class="placeholder" lang="am">ማፍያዎቹ</div></a>
   <a class="t" lang="am"
-     href="../work/wk_47djergg.html">የስኬት በሮች</a>
-  <span class="r">yesket beroch</span>
-  <span class="a">አበባየሁ ወርቁ</span>
+     href="../work/wk_brsjj66d.html">ማፍያዎቹ</a>
+  <span class="r">Mafiyawochu</span>
+  <span class="a">Sydney Sheldon</span>
+  
 </li><li class="card">
-  <a class="thumb" href="../work/wk_qrdd2sa7.html"><img src="../assets/covers/wk_qrdd2sa7.jpg" alt="" loading="lazy"></a>
+  <a class="thumb" href="../work/wk_ext3f7y9.html"><img src="../assets/covers/wk_ext3f7y9.png" alt="" loading="lazy"></a>
   <a class="t" lang="am"
-     href="../work/wk_qrdd2sa7.html">የስኬት ፍልስፍና</a>
-  <span class="r">yesket felesefna</span>
-  <span class="a">ራሴላስ ጋሻነህ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_zk2ssb0b.html"><img src="../assets/covers/wk_zk2ssb0b.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_zk2ssb0b.html">የስኬት ፍልስፍና</a>
-  <span class="r">yesket felesefna</span>
-  <span class="a">ናፖሊዮን ሂል, ራሴላስ ጋሻነህ · 2022</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_fw0ejyat.html"><img src="../assets/covers/wk_fw0ejyat.jpg" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_fw0ejyat.html">የሸንቁጥ ልጆች</a>
-  <span class="r">yeshenqut lejoch</span>
-  <span class="a">ዓለማየሁ አበበ ሸንቁጥ</span>
-</li><li class="card">
-  <a class="thumb" href="../work/wk_czgxakkh.html"><img src="../assets/covers/wk_czgxakkh.png" alt="" loading="lazy"></a>
-  <a class="t" lang="am"
-     href="../work/wk_czgxakkh.html">የሸገር ወጎች</a>
-  <span class="r">yesheger wegoch</span>
-  <span class="a">ሰለሞን ታደሰ · 2012</span>
-</li></ul><div class="pager"><a href="page-18.html">&larr; previous</a><span class="spacer"></span><span>page 19 of 27 · 1608 books</span><span class="spacer"></span><a href="page-20.html">next &rarr;</a></div>
+     href="../work/wk_ext3f7y9.html">ሜሎሪና</a>
+  <span class="r">melorina</span>
+  <span class="a">ናሁሰናይ ፀሐይ አበበ · 2000</span>
+  
+</li></ul><div class="pager"><a href="page-18.html">&larr; previous</a><span class="spacer"></span><span>page 19 of 96 · 5748 books</span><span class="spacer"></span><a href="page-20.html">next &rarr;</a></div>
 <footer>
-  <span>1608 books · 1267 authors and poets</span>
+  <span>5748 books · 3866 authors and poets</span>
   <span>Amharic titles with romanized search</span>
 </footer>
 </div></body></html>

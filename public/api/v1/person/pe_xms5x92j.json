@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "motibiya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xms5x92j",
+ "id": "pe_xms5x92j",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15596804",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15596804"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31748065",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31748065"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Motti Biya"
+  },
+  "romanized": "Motti Biya",
+  "sort_key": "mottibiya"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15596804"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xms5x92j",
+     "name": "Motti Biya",
+     "role": "author",
+     "romanized": "Motti Biya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mjbz1k1p",
+   "id": "wk_mjbz1k1p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Oromiyan Befereka ?? (Abisiniyocracy weyis Democracy ?)",
+    "script": "Ethi",
+    "text": "ኦሮሚያን በፈረቃ ?? (አቢሲኒዮክራሲ ወይስ ዲሞክራሲ ??)"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xms5x92j",
+     "name": "Motti Biya",
+     "role": "author",
+     "romanized": "Motti Biya"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yd25c2je",
+   "id": "wk_yd25c2je",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOromo Tiyake (Kemecha Tulema Eske Kero)",
+    "script": "Ethi",
+    "text": "የኦሮሞ ጥያቄ (ከሜጫ ቱለማ እስከ ቄሮ)"
+   },
+   "type": "work"
+  }
+ ]
+}

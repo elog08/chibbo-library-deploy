@@ -1,0 +1,110 @@
+{
+ "extensions": {},
+ "fingerprint": "solomonsayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yf8nbyn4",
+ "id": "pe_yf8nbyn4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01178137",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01178137"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46380839",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46380839"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82997523",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82997523"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Seyoum"
+  },
+  "romanized": "Solomon Seyoum",
+  "sort_key": "solomonseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01178137"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yf8nbyn4",
+     "name": "Solomon Seyoum",
+     "role": "author",
+     "romanized": "Solomon Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_czfxpcrq",
+   "id": "wk_czfxpcrq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeE'hadeg Fitsame",
+    "script": "Ethi",
+    "text": "የኢህአዴግ ፍፃሜ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yf8nbyn4",
+     "name": "Solomon Seyoum",
+     "role": "author",
+     "romanized": "Solomon Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dy9266bk",
+   "id": "wk_dy9266bk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOromo Guday Ena YeEthiopia Biyane (KeMashahsaya,Ametsa Eske Abiot)",
+    "script": "Ethi",
+    "text": "የኦሮሞ ጉዳይ እና የኢትዮጵያ ብያኔ (ከማሻሻያ አመፃ እስከ አብዮት)"
+   },
+   "type": "work"
+  }
+ ]
+}

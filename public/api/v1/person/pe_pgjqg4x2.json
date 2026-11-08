@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "katamanagash",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pgjqg4x2",
+ "id": "pe_pgjqg4x2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33948465",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33948465"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ketema Negash"
+  },
+  "romanized": "Ketema Negash",
+  "sort_key": "ketemanegash"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33948465"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pgjqg4x2",
+     "name": "Ketema Negash",
+     "role": "author",
+     "romanized": "Ketema Negash"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bk2cxb1r",
+   "id": "wk_bk2cxb1r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gitim Lelijoch",
+    "script": "Ethi",
+    "text": "ግጥም ለልጆች"
+   },
+   "type": "work"
+  }
+ ]
+}

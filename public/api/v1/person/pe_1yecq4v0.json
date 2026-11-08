@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "amyangida",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1yecq4v0",
+ "id": "pe_1yecq4v0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69316517",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69316517"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Emmy Engida"
+  },
+  "romanized": "Emmy Engida",
+  "sort_key": "emmyengida"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69316517"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qfv70c1a",
+     "name": "Tibebu Belete",
+     "role": "author",
+     "romanized": "Tibebu Belete"
+    },
+    {
+     "id": "pe_1yecq4v0",
+     "name": "Emmy Engida",
+     "role": "author",
+     "romanized": "Emmy Engida"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0nvj0772",
+   "id": "wk_0nvj0772",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeFelasfoch Gubae",
+    "script": "Ethi",
+    "text": "የፈላስፎች ጉባዔ"
+   },
+   "type": "work"
+  }
+ ]
+}

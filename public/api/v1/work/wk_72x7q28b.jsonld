@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_72x7q28b",
+ "@type": "Book",
+ "alternateName": [
+  "Nelson Mandela"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4rat1td0",
+   "@type": "Person",
+   "name": "Mohammed Selman"
+  }
+ ],
+ "datePublished": "2021",
+ "inLanguage": "am",
+ "isbn": "9789994430277",
+ "name": "ኔልሰን ማንዴላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=86006163"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litman Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=86006163"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pqwcj8qg",
+   "@type": "Book"
+  }
+ ]
+}

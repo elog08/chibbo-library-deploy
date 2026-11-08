@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ekk4300j",
+ "@type": "Book",
+ "alternateName": [
+  "Teyim Enku"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_e7zrs71b",
+   "@type": "Person",
+   "name": "DEreje Gebre"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ጠይም ዕንቁ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=32426500"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Dereje Gebre (Second Edition 2015)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=32426500"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6sbeef8x",
+   "@type": "Book"
+  }
+ ]
+}

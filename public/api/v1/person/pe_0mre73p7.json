@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirgatachawtarafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0mre73p7",
+ "id": "pe_0mre73p7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50450190",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50450190"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53385452",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53385452"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Getachew Terefe"
+  },
+  "romanized": "Memihir Getachew Terefe",
+  "sort_key": "memihirgetachewterefe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50450190"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0mre73p7",
+     "name": "Memihir Getachew Terefe",
+     "role": "author",
+     "romanized": "Memihir Getachew Terefe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kfq1nc11",
+   "id": "wk_kfq1nc11",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melihik (Hulet)",
+    "script": "Ethi",
+    "text": "መልሕቅ (ሁለት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0mre73p7",
+     "name": "Memihir Getachew Terefe",
+     "role": "author",
+     "romanized": "Memihir Getachew Terefe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w3z3w4dd",
+   "id": "wk_w3z3w4dd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melihik (Kifil 1)",
+    "script": "Ethi",
+    "text": "መልሕቅ (ክፍል ፩)"
+   },
+   "type": "work"
+  }
+ ]
+}

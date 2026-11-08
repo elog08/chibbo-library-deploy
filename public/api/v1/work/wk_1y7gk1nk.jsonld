@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1y7gk1nk",
+ "@type": "Book",
+ "alternateName": [
+  "Haymanote Abew Be'egz"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_8xa60tzd",
+   "@type": "Person",
+   "name": "Bahire Tibebat aba Samuel Niguse"
+  }
+ ],
+ "inLanguage": "gez",
+ "name": "ሃይማኖተ አበው በግዕዝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=51712722"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "2025"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=51712722"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c2bkssef",
+   "@type": "Book"
+  }
+ ]
+}

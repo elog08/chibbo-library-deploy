@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "alfazfikiru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hdngp2bq",
+ "id": "pe_hdngp2bq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72744247",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72744247"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elfaz Fikiru"
+  },
+  "romanized": "Elfaz Fikiru",
+  "sort_key": "elfazfikiru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72744247"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hdngp2bq",
+     "name": "Elfaz Fikiru",
+     "role": "author",
+     "romanized": "Elfaz Fikiru"
+    },
+    {
+     "id": "pe_tryrz6n4",
+     "name": "Elfaz",
+     "role": "author",
+     "romanized": "Elfaz"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d1dxewdn",
+   "id": "wk_d1dxewdn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHitsanat Yemejemeria 1000 Kenat Amegageb",
+    "script": "Ethi",
+    "text": "የሕፃናት የመጀመሪያ 1000 ቀናት አመጋገብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "nancycarlson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v7jkvdt3",
+ "id": "pe_v7jkvdt3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77135144",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77135144"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nancy Carlson"
+  },
+  "romanized": "Nancy Carlson",
+  "sort_key": "nancycarlson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=77135144"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v7jkvdt3",
+     "name": "Nancy Carlson",
+     "role": "author",
+     "romanized": "Nancy Carlson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8cxkg4xy",
+   "id": "wk_8cxkg4xy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinishu Kidu Ena Tilalik Hasabochu",
+    "script": "Ethi",
+    "text": "ትንሹ ኪዱ እና ትላልቅ ሃሳቦቹ"
+   },
+   "type": "work"
+  }
+ ]
+}

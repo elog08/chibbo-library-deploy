@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "drmarshalahagn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dyxfwae9",
+ "id": "pe_dyxfwae9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15773374",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15773374"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41617405",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41617405"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Mersha Alehegn"
+  },
+  "romanized": "Dr.Mersha Alehegn",
+  "sort_key": "drmershaalehegn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15773374"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dyxfwae9",
+     "name": "Dr.Mersha Alehegn",
+     "role": "author",
+     "romanized": "Dr.Mersha Alehegn"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_3dw7a897",
+   "id": "wk_3dw7a897",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be'Ente Sima Lemariyam (tintawiw YeEthiopia Timihirt Yizetu,Sire'atu, Hywetu)",
+    "script": "Ethi",
+    "text": "በእንተ ስማ ለማርያም (ጥንታዊው የኢትዮጵያ ትምህርት ይዘቱ ሥርዐቱ ሕይወቱ)"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dyxfwae9",
+     "name": "Dr.Mersha Alehegn",
+     "role": "author",
+     "romanized": "Dr.Mersha Alehegn"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qqfvg2n9",
+   "id": "wk_qqfvg2n9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zena Papasat Ethiopian",
+    "script": "Ethi",
+    "text": "ዜና ጳጳሳት ኢትዮጵያን"
+   },
+   "type": "work"
+  }
+ ]
+}

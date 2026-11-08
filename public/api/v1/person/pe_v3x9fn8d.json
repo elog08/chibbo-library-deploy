@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "abagabrakidangirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v3x9fn8d",
+ "id": "pe_v3x9fn8d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23598374",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23598374"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37411394",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37411394"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46632883",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46632883"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93635371",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93635371"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Gebrekidan Girma"
+  },
+  "romanized": "Aba Gebrekidan Girma",
+  "sort_key": "abagebrekidangirma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23598374"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v3x9fn8d",
+     "name": "Aba Gebrekidan Girma",
+     "role": "author",
+     "romanized": "Aba Gebrekidan Girma"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_dq785qht",
+   "id": "wk_dq785qht",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Wegirisa (BeGe'ezna BeAmaregna)",
+    "script": "Ethi",
+    "text": "መጽሐፈ ወግሪሳ (በግዕዝና በአማርኛ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v3x9fn8d",
+     "name": "Aba Gebrekidan Girma",
+     "role": "author",
+     "romanized": "Aba Gebrekidan Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hn5jexrt",
+   "id": "wk_hn5jexrt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Mi'edan (YeSebatu Menekosat Metsihaf)",
+    "script": "Ethi",
+    "text": "መጽሐፈ ምዕዳን (የሰባቱ መነኮሳት መጽሓፍ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v3x9fn8d",
+     "name": "Aba Gebrekidan Girma",
+     "role": "author",
+     "romanized": "Aba Gebrekidan Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xvs3rnnd",
+   "id": "wk_xvs3rnnd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tseyahe Finot (Menmged Teragi)",
+    "script": "Ethi",
+    "text": "ጸያሔ ፍኖት (መንገድ ጠራጊ)"
+   },
+   "type": "work"
+  }
+ ]
+}

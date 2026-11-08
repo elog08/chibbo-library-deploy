@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "dargawola",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0c5dhkcj",
+ "id": "pe_0c5dhkcj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17540023",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17540023"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Darge Wole"
+  },
+  "romanized": "Darge Wole",
+  "sort_key": "dargewole"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17540023"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_64cd4n79",
+     "name": "Getachew Haile",
+     "role": "author",
+     "romanized": "Getachew Haile"
+    },
+    {
+     "id": "pe_0c5dhkcj",
+     "name": "Darge Wole",
+     "role": "author",
+     "romanized": "Darge Wole"
+    },
+    {
+     "id": "pe_7cssect3",
+     "name": "Francis Anfrey",
+     "role": "author",
+     "romanized": "Francis Anfrey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e07rd3zr",
+   "id": "wk_e07rd3zr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XV (August 1982)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

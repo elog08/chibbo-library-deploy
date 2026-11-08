@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "alamayahumogas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5jz1jwm6",
+ "id": "pe_5jz1jwm6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43931189",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43931189"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57343641",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57343641"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alemayehu Moges"
+  },
+  "romanized": "Alemayehu Moges",
+  "sort_key": "alemayehumoges"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43931189"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5jz1jwm6",
+     "name": "Alemayehu Moges",
+     "role": "author",
+     "romanized": "Alemayehu Moges"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4c6r07r0",
+   "id": "wk_4c6r07r0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmaregna Gitimina Kine Masitemaria",
+    "script": "Ethi",
+    "text": "የአማርኛ ግጥምና ቅኔ ማስተማሪያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_5jz1jwm6",
+     "name": "Alemayehu Moges",
+     "role": "author",
+     "romanized": "Alemayehu Moges"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jjcnn9hx",
+   "id": "wk_jjcnn9hx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmarigna Hareg",
+    "script": "Ethi",
+    "text": "የአማርኛ ሐረግ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hanokayalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bsyagvja",
+ "id": "pe_bsyagvja",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14178018",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14178018"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40549883",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40549883"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Henok Ayalew"
+  },
+  "romanized": "Henok Ayalew",
+  "sort_key": "henokayalew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=14178018"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bsyagvja",
+     "name": "Henok Ayalew",
+     "role": "author",
+     "romanized": "Henok Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k9bbeep3",
+   "id": "wk_k9bbeep3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDisasporaw Siwir Deba",
+    "script": "Ethi",
+    "text": "የዲያስፖራው ስውር ደባ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_bsyagvja",
+     "name": "Henok Ayalew",
+     "role": "author",
+     "romanized": "Henok Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vshfg4xd",
+   "id": "wk_vshfg4xd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDiaspora Siwir Deba",
+    "script": "Ethi",
+    "text": "የዲያስፖራ ስውር ደባ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -20,7 +20,15 @@
  "editions": [
   "ed_ek6m7856"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy",
+    "nature"
+   ]
+  }
+ },
  "fingerprint": "ጊዜወይንጨረቃ|sabamakuria",
  "flags": [
   "suspect-isbn"
@@ -68,6 +76,10 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy",
+  "nature"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

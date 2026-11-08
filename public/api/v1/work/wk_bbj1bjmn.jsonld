@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bbj1bjmn",
+ "@type": "Book",
+ "alternateName": [
+  "Adisitu Ethiopia"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_806g5evv",
+   "@type": "Person",
+   "name": "The then Ministry of Information"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አዲሲቱ:ኢትዮጵያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "35.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=74896427"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "The then Ministry of Information (April 23 1953)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=74896427"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_t2me5nhj",
+   "@type": "Book"
+  }
+ ]
+}

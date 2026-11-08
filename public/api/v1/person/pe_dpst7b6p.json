@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "dabraworkabata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dpst7b6p",
+ "id": "pe_dpst7b6p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72168283",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72168283"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73919138",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73919138"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Debrework Abate"
+  },
+  "romanized": "Debrework Abate",
+  "sort_key": "debreworkabate"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72168283"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dpst7b6p",
+     "name": "Debrework Abate",
+     "role": "author",
+     "romanized": "Debrework Abate"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_sdr934xn",
+   "id": "wk_sdr934xn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye-bahelawi Megeboch Azegejajet",
+    "script": "Ethi",
+    "text": "የባህላዊ ምግቦች አዛገጃጀት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dpst7b6p",
+     "name": "Debrework Abate",
+     "role": "author",
+     "romanized": "Debrework Abate"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zq0rp3hb",
+   "id": "wk_zq0rp3hb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWich Migiboch Azegejajet",
+    "script": "Ethi",
+    "text": "የውጭ ምግቦች አዘገጃጀት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "paulgalico",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xyccvqe3",
+ "id": "pe_xyccvqe3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50721639",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50721639"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paul Gallico"
+  },
+  "romanized": "Paul Gallico",
+  "sort_key": "paulgallico"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50721639"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xyccvqe3",
+     "name": "Paul Gallico",
+     "role": "author",
+     "romanized": "Paul Gallico"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_q8er6vm3",
+   "id": "wk_q8er6vm3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Jirate Korataw Ayit",
+    "script": "Ethi",
+    "text": "ጅራተ ቆራጣው አይጥ"
+   },
+   "type": "work"
+  }
+ ]
+}

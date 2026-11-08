@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiralamayahukasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_th2fxdsv",
+ "id": "pe_th2fxdsv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10269023",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10269023"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Alemayehu Kasa"
+  },
+  "romanized": "Memihir Alemayehu Kasa",
+  "sort_key": "memihiralemayehukasa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10269023"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_th2fxdsv",
+     "name": "Memihir Alemayehu Kasa",
+     "role": "author",
+     "romanized": "Memihir Alemayehu Kasa"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_7n7e16c0",
+   "id": "wk_7n7e16c0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Eagle and the Fox",
+    "script": "Ethi",
+    "text": "ንስር አሞርና ቀበሮዋ"
+   },
+   "type": "work"
+  }
+ ]
+}

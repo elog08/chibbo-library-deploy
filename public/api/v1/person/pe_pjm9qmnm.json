@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "azabinaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pjm9qmnm",
+ "id": "pe_pjm9qmnm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24762205",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24762205"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86840230",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86840230"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Azeb Binega"
+  },
+  "romanized": "Azeb Binega",
+  "sort_key": "azebbinega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24762205"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pjm9qmnm",
+     "name": "Azeb Binega",
+     "role": "author",
+     "romanized": "Azeb Binega"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_b7n52s85",
+   "id": "wk_b7n52s85",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "E'ta Te'amrawit I'f",
+    "script": "Ethi",
+    "text": "እታ ተኣምራዊት ዒፍ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_pjm9qmnm",
+     "name": "Azeb Binega",
+     "role": "author",
+     "romanized": "Azeb Binega"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cnwzb27d",
+   "id": "wk_cnwzb27d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "stela ena Elsa",
+    "script": "Ethi",
+    "text": "ስቴላ እና ኤልሳ"
+   },
+   "type": "work"
+  }
+ ]
+}

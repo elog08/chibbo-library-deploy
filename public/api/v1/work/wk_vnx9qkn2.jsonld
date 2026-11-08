@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vnx9qkn2",
+ "@type": "Book",
+ "alternateName": [
+  "Burjan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_07292pg1",
+   "@type": "Person",
+   "name": "Adinan Ali"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994472987",
+ "name": "ቡርጃን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=25701083"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=25701083"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6tg6xnc7",
+   "@type": "Book"
+  }
+ ]
+}

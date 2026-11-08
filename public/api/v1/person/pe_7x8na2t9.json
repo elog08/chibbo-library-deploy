@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "daconhanockhaila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7x8na2t9",
+ "id": "pe_7x8na2t9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86532024",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86532024"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Henock Haile"
+  },
+  "romanized": "Deacon Henock Haile",
+  "sort_key": "deaconhenockhaile"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=86532024"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7x8na2t9",
+     "name": "Deacon Henock Haile",
+     "role": "author",
+     "romanized": "Deacon Henock Haile"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0cwn4pqq",
+   "id": "wk_0cwn4pqq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The Ark of covenant in the new testament",
+    "script": "Latn",
+    "text": "The Ark of covenant in the new testament"
+   },
+   "type": "work"
+  }
+ ]
+}

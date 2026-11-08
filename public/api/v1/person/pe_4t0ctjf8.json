@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "balaynashmangistu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4t0ctjf8",
+ "id": "pe_4t0ctjf8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23431484",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23431484"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Belaynesh Mengistu"
+  },
+  "romanized": "Belaynesh Mengistu",
+  "sort_key": "belayneshmengistu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23431484"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4t0ctjf8",
+     "name": "Belaynesh Mengistu",
+     "role": "author",
+     "romanized": "Belaynesh Mengistu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1973?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5962sd6t",
+   "id": "wk_5962sd6t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBalitina Timihirt Memriya",
+    "script": "Ethi",
+    "text": "የባልትና ትምሀርት መምሪያ"
+   },
+   "type": "work",
+   "year": 1973
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "warotadanaqtariku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ka1z5fpj",
+ "id": "pe_ka1z5fpj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "we/ro tedeneq tariku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ወ/ሮ ትደነቅ ታሪኩ"
+  },
+  "romanized": "we/ro tedeneq tariku",
+  "sort_key": "ወሮትደነቅታሪኩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of library064e.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "cee08aabc1061b7fe1e64642e582da32b6d5e6c188390b51baa71fc5b0f03d5d",
+  "retrieved": "2026-08-28",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_92jfp4r4",
+     "name": "ደረጀ በቀለ",
+     "role": "author",
+     "romanized": "dereje beqele"
+    },
+    {
+     "id": "pe_ka1z5fpj",
+     "name": "ወ/ሮ ትደነቅ ታሪኩ",
+     "role": "author",
+     "romanized": "we/ro tedeneq tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_t8x8wvmm",
+   "id": "wk_t8x8wvmm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "beqwateny lay yebeqelech warka: yenebey gerbole hirpa yeheywetna yeageleglot tarik",
+    "script": "Ethi",
+    "text": "በቋጥኝ ላይ የበቀለች ዋርካ: የነብይ ገርቦሌ ሂርጳ የህይወትና የአገልግሎት ታሪክ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

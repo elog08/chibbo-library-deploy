@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6g9gwkz5",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopiyawiw"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_1hpr0r1k",
+   "@type": "Person",
+   "name": "Mekonen Zewdie"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢትዮጵያዊው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "29.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=01541059"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mekonen Zewdie"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=01541059"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_eftjkv5m",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2keat1x1",
+ "@type": "Book",
+ "alternateName": [
+  "Alinberekekim Ena Leloch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5br5mw2x",
+   "@type": "Person",
+   "name": "Wasihun Belay"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789999008365",
+ "name": "አልንበረከክም እና ሌሎች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50738125"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50738125"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xnajvfaj",
+   "@type": "Book"
+  }
+ ]
+}

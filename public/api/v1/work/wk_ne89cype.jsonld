@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ne89cype",
+ "@type": "Book",
+ "alternateName": [
+  "Yemosad Menged"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_eavxeqnj",
+   "@type": "Person",
+   "name": "Victor Ostrovsky"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994430048",
+ "name": "የሞሣድ መንገድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=82903471"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=82903471"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tpjdyztw",
+   "@type": "Book"
+  }
+ ]
+}

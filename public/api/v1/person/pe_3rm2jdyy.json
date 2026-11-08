@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "wgiorgiswyohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3rm2jdyy",
+ "id": "pe_3rm2jdyy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19863450",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19863450"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65690319",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65690319"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73838722",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73838722"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "W/Giorgis W/Yohannes"
+  },
+  "romanized": "W/Giorgis W/Yohannes",
+  "sort_key": "wgiorgiswyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19863450"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3rm2jdyy",
+     "name": "W/Giorgis W/Yohannes",
+     "role": "author",
+     "romanized": "W/Giorgis W/Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1954?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_40rb8brv",
+   "id": "wk_40rb8brv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Agazi (We Dewich Ager Hije Neber)",
+    "script": "Ethi",
+    "text": "አግዓዚ (ወደ ውጭ አገር ሔጄ ነበር)"
+   },
+   "type": "work",
+   "year": 1954
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3rm2jdyy",
+     "name": "W/Giorgis W/Yohannes",
+     "role": "author",
+     "romanized": "W/Giorgis W/Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n578wkgc",
+   "id": "wk_n578wkgc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sine Migibar",
+    "script": "Ethi",
+    "text": "ሥነ ምግባር"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

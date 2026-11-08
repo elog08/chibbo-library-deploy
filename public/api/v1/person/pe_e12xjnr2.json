@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiryonashagos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e12xjnr2",
+ "id": "pe_e12xjnr2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63936005",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63936005"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "memihir Yonas Hagos"
+  },
+  "romanized": "memihir Yonas Hagos",
+  "sort_key": "memihiryonashagos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63936005"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e12xjnr2",
+     "name": "memihir Yonas Hagos",
+     "role": "author",
+     "romanized": "memihir Yonas Hagos"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_fyrzz6mf",
+   "id": "wk_fyrzz6mf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Felege Gis",
+    "script": "Ethi",
+    "text": "ፈለገ ግስ (ግዕዝ ትግርኛ አማርኛ)"
+   },
+   "type": "work"
+  }
+ ]
+}

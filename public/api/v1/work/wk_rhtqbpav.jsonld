@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rhtqbpav",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_c585f2h7",
+   "@type": "Person",
+   "name": "Berhanu Nega (Dr.)"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'netsanet gohe siqe'd, second edition",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.55",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71640818"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71640818"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pjecnhaa",
+   "@type": "Book"
+  }
+ ]
+}

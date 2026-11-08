@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4vakwzzq",
+ "@type": "Book",
+ "alternateName": [
+  "Ay Mitsiwa! (Ertran KeEithiopia yenetele Tornet)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5wa00cra",
+   "@type": "Person",
+   "name": "Tadese Tele Salvano"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አይ ምፅዋ!(ኤርትራን ከኢትዮጵያ የነጠለ ጦርነት)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.23",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=61312854"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tadesse Telle Salvano ( Second Edition, 2013)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=61312854"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_d10kvych",
+   "@type": "Book"
+  }
+ ]
+}

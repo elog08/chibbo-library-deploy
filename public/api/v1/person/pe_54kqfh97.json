@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tbirhangmichalwtinsa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_54kqfh97",
+ "id": "pe_54kqfh97",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69470225",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69470225"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "T/Birhan G/Michael W/Tinsae"
+  },
+  "romanized": "T/Birhan G/Michael W/Tinsae",
+  "sort_key": "tbirhangmichaelwtinsae"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69470225"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_54kqfh97",
+     "name": "T/Birhan G/Michael W/Tinsae",
+     "role": "author",
+     "romanized": "T/Birhan G/Michael W/Tinsae"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ke6xwmy6",
+   "id": "wk_ke6xwmy6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHager Guday and Dihaw Yinageral (Two Books in one Binding)",
+    "script": "Ethi",
+    "text": "የሀገር ጉዳይ እና ድሀው ይናገራል (ሁለት መጽሕፍ በአንድ ጥራዝ)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

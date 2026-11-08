@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jp7j5srf",
+ "@type": "Book",
+ "alternateName": [
+  "Melek Hara"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_70nvjej9",
+   "@type": "Person",
+   "name": "Misganaw Andualem"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መለክ ሐራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07855732"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07855732"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hrvgyjxx",
+   "@type": "Book"
+  }
+ ]
+}

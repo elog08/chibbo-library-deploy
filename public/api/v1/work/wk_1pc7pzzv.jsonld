@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1pc7pzzv",
+ "@type": "Book",
+ "alternateName": [
+  "Tarike Negest Abreha We Atsbeha"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2ehf1nnx",
+   "@type": "Person",
+   "name": "Memhir Haile Silase Alemayehu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ታሪከ ነገሥት አብርሃ ወ አጽብሐ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.65",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17423603"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Addis W.S.M (Tigrigna)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17423603"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c4febp0t",
+   "@type": "Book"
+  }
+ ]
+}

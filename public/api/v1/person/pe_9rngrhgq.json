@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "daconmitikuabara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9rngrhgq",
+ "id": "pe_9rngrhgq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19664447",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19664447"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76412664",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76412664"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77463851",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77463851"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Mitiku Aberra"
+  },
+  "romanized": "Deacon Mitiku Aberra",
+  "sort_key": "deaconmitikuaberra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19664447"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9rngrhgq",
+     "name": "Deacon Mitiku Aberra",
+     "role": "author",
+     "romanized": "Deacon Mitiku Aberra"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_8eem59mr",
+   "id": "wk_8eem59mr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sibket BeMetsihaf (Asir Sibketoch BeAnde Metsihaf)",
+    "script": "Ethi",
+    "text": "ስብከት በመጽሐፍ (ዐሥር ስብከቶች በአንድ መጽሐፍ)"
+   },
+   "type": "work",
+   "year": 2022
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9rngrhgq",
+     "name": "Deacon Mitiku Aberra",
+     "role": "author",
+     "romanized": "Deacon Mitiku Aberra"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_b1bq6kfd",
+   "id": "wk_b1bq6kfd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mitin Kimem",
+    "script": "Ethi",
+    "text": "ምጥን ቅመም"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9rngrhgq",
+     "name": "Deacon Mitiku Aberra",
+     "role": "author",
+     "romanized": "Deacon Mitiku Aberra"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_q5p9mg1c",
+   "id": "wk_q5p9mg1c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Miskabe Tsota (Zorthodocs Tewahedo)",
+    "script": "Ethi",
+    "text": "ምስካበ ጾታ (ዘኦርቶዶክስ ተዋህዶ)"
+   },
+   "type": "work"
+  }
+ ]
+}

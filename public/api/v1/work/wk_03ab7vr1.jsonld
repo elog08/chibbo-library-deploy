@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_03ab7vr1",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sqc0xr1e",
+   "@type": "Person",
+   "name": "Deacon Yeshitela Moges"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Engagement and marriage problems with solutions",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=01435833"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=01435833"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nqv70j6a",
+   "@type": "Book"
+  }
+ ]
+}

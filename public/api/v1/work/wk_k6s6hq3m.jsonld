@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/chibo-alemayehu-wase"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=93435421"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/chibo-alemayehu-wase"
+  "https://www.ethiobookreview.com/book/chibo-alemayehu-wase",
+  "https://www.mereb.shop/rs/?mpid=93435421"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_5w6m209c",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_j8q12p6f",
    "@type": "Book"
   }
  ]

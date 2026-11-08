@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "minilikbirhanu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f7e5qssy",
+ "id": "pe_f7e5qssy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13521691",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13521691"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44063750",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44063750"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Minilik Birhanu"
+  },
+  "romanized": "Minilik Birhanu",
+  "sort_key": "minilikbirhanu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13521691"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f7e5qssy",
+     "name": "Minilik Birhanu",
+     "role": "author",
+     "romanized": "Minilik Birhanu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_18h7yggs",
+   "id": "wk_18h7yggs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tsadku Abune Habte Mariam",
+    "script": "Ethi",
+    "text": "ጻድቁ አቡነ ሀብተ ማርያም"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_f7e5qssy",
+     "name": "Minilik Birhanu",
+     "role": "author",
+     "romanized": "Minilik Birhanu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_a97vm6zk",
+   "id": "wk_a97vm6zk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aratu Wengelawiyan",
+    "script": "Ethi",
+    "text": "አራቱ ወንጌላውያን"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

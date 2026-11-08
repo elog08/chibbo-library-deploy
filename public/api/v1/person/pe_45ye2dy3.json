@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "darajayimar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_45ye2dy3",
+ "id": "pe_45ye2dy3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83816128",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83816128"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88073499",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88073499"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dereje Yimer"
+  },
+  "romanized": "Dereje Yimer",
+  "sort_key": "derejeyimer"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83816128"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f22ne9jb",
+     "name": "Tesfaye Shibiru",
+     "role": "author",
+     "romanized": "Tesfaye Shibiru"
+    },
+    {
+     "id": "pe_45ye2dy3",
+     "name": "Dereje Yimer",
+     "role": "author",
+     "romanized": "Dereje Yimer"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cmw1vcpk",
+   "id": "wk_cmw1vcpk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Teteri Man New?",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ተጠሪ ማን ነው?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_45ye2dy3",
+     "name": "Dereje Yimer",
+     "role": "author",
+     "romanized": "Dereje Yimer"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_gjsa9zz7",
+   "id": "wk_gjsa9zz7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yehidasew Mehandis",
+    "script": "Ethi",
+    "text": "የሕዳሴው መሐንዲስ"
+   },
+   "type": "work"
+  }
+ ]
+}

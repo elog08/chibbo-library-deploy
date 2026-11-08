@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "profmasifinwmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6nfe1n7e",
+ "id": "pe_6nfe1n7e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41066155",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41066155"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof.Mesifin W/Mariam"
+  },
+  "romanized": "Prof.Mesifin W/Mariam",
+  "sort_key": "profmesifinwmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41066155"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6nfe1n7e",
+     "name": "Prof.Mesifin W/Mariam",
+     "role": "author",
+     "romanized": "Prof.Mesifin W/Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nmzkjcz5",
+   "id": "wk_nmzkjcz5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mekishef EndeEthiopia Tarik",
+    "script": "Ethi",
+    "text": "መክሸፍ እንደኢትዮጵያ ታሪክ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

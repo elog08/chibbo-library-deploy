@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfamichaltikiu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4dxqj0a1",
+ "id": "pe_4dxqj0a1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24413283",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24413283"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesfa Michael Tiki'u"
+  },
+  "romanized": "Tesfa Michael Tiki'u",
+  "sort_key": "tesfamichaeltikiu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24413283"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4dxqj0a1",
+     "name": "Tesfa Michael Tiki'u",
+     "role": "author",
+     "romanized": "Tesfa Michael Tiki'u"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bc25vt30",
+   "id": "wk_bc25vt30",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hegere YeHywete Tiri",
+    "script": "Ethi",
+    "text": "ሀገሬ የህይወቴ ጥሪ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

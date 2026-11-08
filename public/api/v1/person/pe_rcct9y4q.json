@@ -23,6 +23,38 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/zenebe-wela"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24802247",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24802247"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71498585",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71498585"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75437195",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75437195"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85868184",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85868184"
   }
  ],
  "locked_fields": [],
@@ -81,12 +113,15 @@
     }
    ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "2013-09-11/2014-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5j6t4gpc",
@@ -100,7 +135,7 @@
     "text": "ማስታወሻ"
    },
    "type": "work",
-   "year": 2013
+   "year": 2014
   },
   {
    "cover": {
@@ -214,6 +249,27 @@
    },
    "type": "work",
    "year": 2008
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rcct9y4q",
+     "name": "ዘነበ ወላ",
+     "role": "author",
+     "romanized": "Zenebe Wela"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tyxpg71b",
+   "id": "wk_tyxpg71b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sebhat Gebre Egziabehere Mastawesha, fourth edition",
+    "script": "Ethi",
+    "text": "ስድሐት ገ/እግዚአብሔር ማስታወሻ"
+   },
+   "type": "work"
   },
   {
    "cover": {

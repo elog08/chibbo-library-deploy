@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "gabrahiwotabaykadagn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0gfbsw5q",
+ "id": "pe_0gfbsw5q",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75244271",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75244271"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebre Hiwote Baykedagn"
+  },
+  "romanized": "Gebre Hiwote Baykedagn",
+  "sort_key": "gebrehiwotebaykedagn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=75244271"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0gfbsw5q",
+     "name": "Gebre Hiwote Baykedagn",
+     "role": "author",
+     "romanized": "Gebre Hiwote Baykedagn"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fny8aws1",
+   "id": "wk_fny8aws1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "L'EMPEREUR MENELIK & L'ETHIOPIE (Atse Minilik ena Ethiopia)",
+    "script": "Ethi",
+    "text": "አፄ ሚኒሊክና ኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 1993
+  }
+ ]
+}

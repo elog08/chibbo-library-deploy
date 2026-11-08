@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "albartosibaki",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qzm7ahe9",
+ "id": "pe_qzm7ahe9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55636119",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55636119"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alberto Sibaki"
+  },
+  "romanized": "Alberto Sibaki",
+  "sort_key": "albertosibaki"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55636119"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qzm7ahe9",
+     "name": "Alberto Sibaki",
+     "role": "author",
+     "romanized": "Alberto Sibaki"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_r3snc933",
+   "id": "wk_r3snc933",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemosoloni Werera BeEthiopia (Fashizimina YeKign Agezaz Temokro)",
+    "script": "Ethi",
+    "text": "የሙሶሊኒ ወረራ በኢትዮጵያ (ፋሺዝምና የቅኝ አገዛዝ ተሞክሮው)"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

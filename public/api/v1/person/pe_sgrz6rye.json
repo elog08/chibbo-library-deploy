@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "armiasmakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sgrz6rye",
+ "id": "pe_sgrz6rye",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64682700",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64682700"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67519669",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67519669"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermias Mekonen"
+  },
+  "romanized": "Ermias Mekonen",
+  "sort_key": "ermiasmekonen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64682700"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sgrz6rye",
+     "name": "Ermias Mekonen",
+     "role": "author",
+     "romanized": "Ermias Mekonen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bbqpjvt5",
+   "id": "wk_bbqpjvt5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGuzo Adwa Masitawesha",
+    "script": "Ethi",
+    "text": "የጉዞ አድዋ ማስታወሻ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sgrz6rye",
+     "name": "Ermias Mekonen",
+     "role": "author",
+     "romanized": "Ermias Mekonen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vp98hdmy",
+   "id": "wk_vp98hdmy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'tsinat namuna",
+    "script": "Latn",
+    "text": "Ye'tsinat namuna"
+   },
+   "type": "work"
+  }
+ ]
+}

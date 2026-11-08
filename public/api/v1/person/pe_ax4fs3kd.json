@@ -1,0 +1,85 @@
+{
+ "extensions": {},
+ "fingerprint": "daconmulugatahmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ax4fs3kd",
+ "id": "pe_ax4fs3kd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52298575",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52298575"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Mulugeta H/mariam"
+  },
+  "romanized": "Deacon Mulugeta H/mariam",
+  "sort_key": "deaconmulugetahmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52298575"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b786rytx",
+     "name": "Memihir H/Maraim Lakew",
+     "role": "author",
+     "romanized": "Memihir H/Maraim Lakew"
+    },
+    {
+     "id": "pe_ax4fs3kd",
+     "name": "Deacon Mulugeta H/mariam",
+     "role": "author",
+     "romanized": "Deacon Mulugeta H/mariam"
+    },
+    {
+     "id": "pe_qxpcrtar",
+     "name": "Memihjir Berhanu Gobena",
+     "role": "author",
+     "romanized": "Memihjir Berhanu Gobena"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hba6p8dx",
+   "id": "wk_hba6p8dx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "A'emade Mistir 1 ena 2",
+    "script": "Ethi",
+    "text": "አዕምደ ምስጢር ፩ እና ፪ (አዕማ. ፪፻፩ እና ፪፻፪)"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

@@ -5,7 +5,24 @@
  "href": "https://chibbo.app/person/pe_4n6g3j2n",
  "id": "pe_4n6g3j2n",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54523415",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54523415"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79202862",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79202862"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -37,6 +54,44 @@
  "type": "person",
  "works": [
   {
+   "credits": [
+    {
+     "id": "pe_pdanhgb2",
+     "name": "Seyefemichael Admasu",
+     "role": "author",
+     "romanized": "Seyefemichael Admasu"
+    },
+    {
+     "id": "pe_4n6g3j2n",
+     "name": "ከተማ አድማሱ",
+     "role": "author",
+     "romanized": "ketema admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_04akft9c",
+   "id": "wk_04akft9c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Liguam (Chinketina Tiritaren Yemigeta)",
+    "script": "Ethi",
+    "text": "ልጓም (ጭንቀትንና ጥርጣሬን የሚገታ)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_4j03fyp2.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%88%B5%E1%88%9C%E1%89%B5%E1%8A%93_%E1%8A%A0%E1%8A%A5%E1%88%9D%E1%88%AE.jpg"
@@ -63,6 +118,44 @@
     "text": "ስሜትና አእምሮ"
    },
    "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ckdhr2kp",
+     "name": "340",
+     "role": "author",
+     "romanized": "340"
+    },
+    {
+     "id": "pe_4n6g3j2n",
+     "name": "ከተማ አድማሱ",
+     "role": "author",
+     "romanized": "ketema admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_h7awgbm6",
+   "id": "wk_h7awgbm6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sine Amro",
+    "script": "Ethi",
+    "text": "ሥነ አእምሮ"
+   },
+   "type": "work",
+   "year": 2015
   }
  ]
 }

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagayagmadihin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v0564423",
+ "id": "pe_v0564423",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21526349",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21526349"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96367458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96367458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsegaye G/Medihin"
+  },
+  "romanized": "Tsegaye G/Medihin",
+  "sort_key": "tsegayegmedihin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21526349"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v0564423",
+     "name": "Tsegaye G/Medihin",
+     "role": "author",
+     "romanized": "Tsegaye G/Medihin"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1018crwq",
+   "id": "wk_1018crwq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yekermo Sew",
+    "script": "Ethi",
+    "text": "የከርሞ ሰው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v0564423",
+     "name": "Tsegaye G/Medihin",
+     "role": "author",
+     "romanized": "Tsegaye G/Medihin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tke0wkr5",
+   "id": "wk_tke0wkr5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarikawi Tewnetoch",
+    "script": "Ethi",
+    "text": "ታሪካዊ ተውኔቶች"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

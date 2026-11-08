@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3ey93zrz",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_70jdqcqb",
+   "@type": "Person",
+   "name": "Ephrem Endale"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye-Zemen duka",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.30",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=12146476"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=12146476"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gxvd57db",
+   "@type": "Book"
+  }
+ ]
+}

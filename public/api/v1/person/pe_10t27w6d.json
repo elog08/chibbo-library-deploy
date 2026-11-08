@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "bruktawitasfaydr",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_10t27w6d",
+ "id": "pe_10t27w6d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83786006",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83786006"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bruktawit Tesfay (Dr.)"
+  },
+  "romanized": "Bruktawit Tesfay (Dr.)",
+  "sort_key": "bruktawittesfaydr"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83786006"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_10t27w6d",
+     "name": "Bruktawit Tesfay (Dr.)",
+     "role": "author",
+     "romanized": "Bruktawit Tesfay (Dr.)"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_qjdan0m9",
+   "id": "wk_qjdan0m9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bale Seregelaw Neby (The prophet pf the Chariot)",
+    "script": "Ethi",
+    "text": "ባለ ሰረገላው ነብይ"
+   },
+   "type": "work"
+  }
+ ]
+}

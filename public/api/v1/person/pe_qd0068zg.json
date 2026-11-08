@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "yibralamhailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qd0068zg",
+ "id": "pe_qd0068zg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44691138",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44691138"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yibralem Hailu"
+  },
+  "romanized": "Yibralem Hailu",
+  "sort_key": "yibralemhailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44691138"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qd0068zg",
+     "name": "Yibralem Hailu",
+     "role": "author",
+     "romanized": "Yibralem Hailu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tf63rdg8",
+   "id": "wk_tf63rdg8",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ti'um Merzi",
+    "script": "Ethi",
+    "text": "ጥዑም መርዚ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

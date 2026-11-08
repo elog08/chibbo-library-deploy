@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirkasisandinatashanafi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_drscynd5",
+ "id": "pe_drscynd5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37484168",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37484168"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Kesis Andinet Ashenafi"
+  },
+  "romanized": "Memihir Kesis Andinet Ashenafi",
+  "sort_key": "memihirkesisandinetashenafi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37484168"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_79xth6bn",
+     "name": "Memihir Deacon Fasil Asichalew",
+     "role": "author",
+     "romanized": "Memihir Deacon Fasil Asichalew"
+    },
+    {
+     "id": "pe_drscynd5",
+     "name": "Memihir Kesis Andinet Ashenafi",
+     "role": "author",
+     "romanized": "Memihir Kesis Andinet Ashenafi"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7sjsvntw",
+   "id": "wk_7sjsvntw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeNiseha Abat Ena Yeniseha Lij Dirsha",
+    "script": "Ethi",
+    "text": "የንሰሐ አባት እና የንሰሐ ልጅ ድርሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

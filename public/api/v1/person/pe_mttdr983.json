@@ -21,6 +21,30 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/hinsene-mekuria"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08764802",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08764802"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43757435",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43757435"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46541257",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46541257"
   }
  ],
  "locked_fields": [],
@@ -44,5 +68,78 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mttdr983",
+     "name": "Hinsene Mekuria",
+     "role": "author",
+     "romanized": "Hinsene Mekuria"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_casz6r4s",
+   "id": "wk_casz6r4s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Elellee (English-Oromo-Amharic Dictionary) (Galmee Jechoota Afaan Inglilizii-Oromoo-Amaaraa)",
+    "script": "Ethi",
+    "text": "የእንግሊዘኛ-ኦሮምኛ-አማርኛ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mttdr983",
+     "name": "Hinsene Mekuria",
+     "role": "author",
+     "romanized": "Hinsene Mekuria"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_s5s7s7ky",
+   "id": "wk_s5s7s7ky",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qaanqee Gadaa (Learn Oromo-English-Amharic without a Master)",
+    "script": "Ethi",
+    "text": "(ቃንቄ ገዳ) የኦሮምኛ-እንግሊዘኛ-አማርኛ ንግግር መማሪያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mttdr983",
+     "name": "Hinsene Mekuria",
+     "role": "author",
+     "romanized": "Hinsene Mekuria"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ttf99a40",
+   "id": "wk_ttf99a40",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qaanqee Gadaa (Oromo-Amharic-English)",
+    "script": "Ethi",
+    "text": "ቃንቄ ገዳ (ኦሮምኛ እናማር )"
+   },
+   "type": "work"
+  }
+ ]
 }

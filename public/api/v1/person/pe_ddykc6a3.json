@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kasisyigzawmakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ddykc6a3",
+ "id": "pe_ddykc6a3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17433463",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17433463"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kesis Yigzaw Mekonnen"
+  },
+  "romanized": "Kesis Yigzaw Mekonnen",
+  "sort_key": "kesisyigzawmekonnen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17433463"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ddykc6a3",
+     "name": "Kesis Yigzaw Mekonnen",
+     "role": "author",
+     "romanized": "Kesis Yigzaw Mekonnen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b5p6f03b",
+   "id": "wk_b5p6f03b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthodoksawi Gabicha Ena Yelijoch Astedadeg (Kifil 1)",
+    "script": "Ethi",
+    "text": "ኦርቶዶክስ ጋብቻ እና የልጆች አስተዳደግ (ክፍል ፩)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

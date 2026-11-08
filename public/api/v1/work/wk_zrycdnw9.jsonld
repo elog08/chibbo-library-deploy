@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zrycdnw9",
+ "@type": "Book",
+ "alternateName": [
+  "Yetegaredew Jegninet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_8zveb7dp",
+   "@type": "Person",
+   "name": "Mamushet Amare"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የተጋረደው ጀግንነት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=20419145"
+  },
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83085761"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=20419145",
+  "https://www.mereb.shop/rs/?mpid=83085761"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4dn5fg4m",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_njjxby2q",
+   "@type": "Book"
+  }
+ ]
+}

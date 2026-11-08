@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "sibihatgagziabhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0jt7tdr2",
+ "id": "pe_0jt7tdr2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80255977",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80255977"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sibihat G/Egziabher"
+  },
+  "romanized": "Sibihat G/Egziabher",
+  "sort_key": "sibihatgegziabher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80255977"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0jt7tdr2",
+     "name": "Sibihat G/Egziabher",
+     "role": "author",
+     "romanized": "Sibihat G/Egziabher"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_neprkaej",
+   "id": "wk_neprkaej",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Borcheq",
+    "script": "Ethi",
+    "text": "ቦርጨቅ!"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ከተማው ተይዞ|ለማል ምድርበሰ\nሰዉ ከራሱ በቀል ለሌላው እንግዳ\nሁሉ ሲወል ሲደርር በበግኝት\n‘ሞተች!’ ይላል ዓለም\nውስጣዊ ፍጥረቱ።"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "love",
+    "nature",
+    "youth-and-solitude"
+   ]
+  }
+ },
+ "fingerprint": "በጥኝት|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_xn6qv7h1",
+ "id": "wk_xn6qv7h1",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 9–9 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "love",
+  "nature",
+  "youth-and-solitude"
+ ],
+ "provenance": {
+  "raw_sha256": "3c806e86a410a36057c0ff0b379e23b84cabd00e76d7b8fbeddf76602e55b94f",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Betingit",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "In Loneliness",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በጥኝት"
+  },
+  "romanized": "Betingit",
+  "sort_key": "በጥኝት"
+ },
+ "type": "work"
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "zumura",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f27c5mbs",
+ "id": "pe_f27c5mbs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16555138",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16555138"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zumura"
+  },
+  "romanized": "Zumura",
+  "sort_key": "zumura"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16555138"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f27c5mbs",
+     "name": "Zumura",
+     "role": "author",
+     "romanized": "Zumura"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v190pq0f",
+   "id": "wk_v190pq0f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Negede-Sodom",
+    "script": "Ethi",
+    "text": "ነገደ-ሶዶም"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

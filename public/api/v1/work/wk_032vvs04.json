@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_pfd78j65"
+  "ed_pfd78j65",
+  "ed_5z5e0yex"
  ],
  "extensions": {},
  "fingerprint": "የሳጥናኤልፊታውራሪዎች|amanualaman",
@@ -39,6 +40,9 @@
  "identifiers": {
   "afroread_id": [
    "42c015e1-d74e-469d-9962-db9c79cae326"
+  ],
+  "mereb_mpid": [
+   "72017164"
   ]
  },
  "language": "am",
@@ -70,6 +74,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/Bookdetail/42c015e1-d74e-469d-9962-db9c79cae326"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72017164",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72017164"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "11.99",
+   "provider": "mereb",
+   "ref": "72017164",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72017164"
   }
  ],
  "locked_fields": [],

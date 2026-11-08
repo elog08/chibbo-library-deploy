@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "mazgabuabata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6fcpkyxb",
+ "id": "pe_6fcpkyxb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53861059",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53861059"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62016127",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62016127"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mezgebu Abate"
+  },
+  "romanized": "Mezgebu Abate",
+  "sort_key": "mezgebuabate"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53861059"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6fcpkyxb",
+     "name": "Mezgebu Abate",
+     "role": "author",
+     "romanized": "Mezgebu Abate"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1940?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1bsq0aa5",
+   "id": "wk_1bsq0aa5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tibebe Silase (Libweld Tarik)",
+    "script": "Ethi",
+    "text": "ጥበበ ሥላሴ (ልበ ወለድ ታሪክ )"
+   },
+   "type": "work",
+   "year": 1940
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6fcpkyxb",
+     "name": "Mezgebu Abate",
+     "role": "author",
+     "romanized": "Mezgebu Abate"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nvvae8my",
+   "id": "wk_nvvae8my",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ante Neh Teferi Ager Asikebari",
+    "script": "Ethi",
+    "text": "አንተ ነህ ተፈሪ አገር አስከባሪ"
+   },
+   "type": "work"
+  }
+ ]
+}

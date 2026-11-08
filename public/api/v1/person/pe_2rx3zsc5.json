@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "davidmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2rx3zsc5",
+ "id": "pe_2rx3zsc5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25793489",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25793489"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "David Michael"
+  },
+  "romanized": "David Michael",
+  "sort_key": "davidmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25793489"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2rx3zsc5",
+     "name": "David Michael",
+     "role": "author",
+     "romanized": "David Michael"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qndajdrt",
+   "id": "wk_qndajdrt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeFikir Hywet",
+    "script": "Ethi",
+    "text": "የፍቅር ሕይወት"
+   },
+   "type": "work"
+  }
+ ]
+}

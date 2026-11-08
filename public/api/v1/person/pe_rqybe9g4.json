@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "roaldahil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rqybe9g4",
+ "id": "pe_rqybe9g4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18134311",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18134311"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ro'ald Dahil"
+  },
+  "romanized": "Ro'ald Dahil",
+  "sort_key": "roalddahil"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18134311"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rqybe9g4",
+     "name": "Ro'ald Dahil",
+     "role": "author",
+     "romanized": "Ro'ald Dahil"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mdc6ve7f",
+   "id": "wk_mdc6ve7f",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mile'ate",
+    "script": "Ethi",
+    "text": "ምልእተ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

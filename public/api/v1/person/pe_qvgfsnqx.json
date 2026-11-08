@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_qvgfsnqx",
  "id": "pe_qvgfsnqx",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92567582",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92567582"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -70,6 +79,27 @@
    },
    "type": "work",
    "year": 2021
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qvgfsnqx",
+     "name": "ተመስገን ጌታሁን",
+     "role": "author",
+     "romanized": "Temesgen Getahun"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xdqdt5zp",
+   "id": "wk_xdqdt5zp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fuls",
+    "script": "Ethi",
+    "text": "ፉልስ"
+   },
+   "type": "work"
   }
  ]
 }

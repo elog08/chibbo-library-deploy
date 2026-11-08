@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drandinatokuma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pm1w1pet",
+ "id": "pe_pm1w1pet",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44323847",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44323847"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Andinet Tokuma"
+  },
+  "romanized": "Dr.Andinet Tokuma",
+  "sort_key": "drandinettokuma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44323847"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pm1w1pet",
+     "name": "Dr.Andinet Tokuma",
+     "role": "author",
+     "romanized": "Dr.Andinet Tokuma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_9dxe9p6n",
+   "id": "wk_9dxe9p6n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeNiheroch YeTidigina Guzo (YeAmara Hizib Tigil ende Namuna)",
+    "script": "Ethi",
+    "text": "የብሔርተኞች የትድግና ጉዞ (የአማራ ሕዝብ ትግል አንደ ናሙና)"
+   },
+   "type": "work"
+  }
+ ]
+}

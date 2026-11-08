@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bakalutagagna",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j8nn82rs",
+ "id": "pe_j8nn82rs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01509779",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01509779"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bekalu Tegegne"
+  },
+  "romanized": "Bekalu Tegegne",
+  "sort_key": "bekalutegegne"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01509779"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j8nn82rs",
+     "name": "Bekalu Tegegne",
+     "role": "author",
+     "romanized": "Bekalu Tegegne"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9jjy8csg",
+   "id": "wk_9jjy8csg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Menged yetefabachew Mengedoch",
+    "script": "Ethi",
+    "text": "መንገድ የጠፋባቸው መንገደኞች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

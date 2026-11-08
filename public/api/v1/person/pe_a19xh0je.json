@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hailagabrialandashaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a19xh0je",
+ "id": "pe_a19xh0je",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74799077",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74799077"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hailegebriel Endashaw"
+  },
+  "romanized": "Hailegebriel Endashaw",
+  "sort_key": "hailegebrielendashaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=74799077"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a19xh0je",
+     "name": "Hailegebriel Endashaw",
+     "role": "author",
+     "romanized": "Hailegebriel Endashaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5ejdc32d",
+   "id": "wk_5ejdc32d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaladefu Nefsoch Ena Leloch...",
+    "script": "Ethi",
+    "text": "ያላደፉ ነፍሶች እና ሌሎች..."
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

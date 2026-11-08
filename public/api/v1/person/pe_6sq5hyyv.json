@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "adantolosa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6sq5hyyv",
+ "id": "pe_6sq5hyyv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21041874",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21041874"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eden Tolossa"
+  },
+  "romanized": "Eden Tolossa",
+  "sort_key": "edentolossa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21041874"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6sq5hyyv",
+     "name": "Eden Tolossa",
+     "role": "author",
+     "romanized": "Eden Tolossa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bry7k9md",
+   "id": "wk_bry7k9md",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Manin Linur?",
+    "script": "Ethi",
+    "text": "ማንን ልኑር?"
+   },
+   "type": "work"
+  }
+ ]
+}

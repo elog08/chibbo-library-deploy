@@ -1,0 +1,92 @@
+{
+ "extensions": {},
+ "fingerprint": "maridwaragay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6xpjg3sz",
+ "id": "pe_6xpjg3sz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64263033",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64263033"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Merid W.Aregay"
+  },
+  "romanized": "Merid W.Aregay",
+  "sort_key": "meridwaregay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64263033"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7v8yexp4",
+     "name": "Teshome Yimer Abebaw",
+     "role": "author",
+     "romanized": "Teshome Yimer Abebaw"
+    },
+    {
+     "id": "pe_6xpjg3sz",
+     "name": "Merid W.Aregay",
+     "role": "author",
+     "romanized": "Merid W.Aregay"
+    },
+    {
+     "id": "pe_2r6mc98q",
+     "name": "Rodolf Fattovich",
+     "role": "author",
+     "romanized": "Rodolf Fattovich"
+    },
+    {
+     "id": "pe_tqe2dj69",
+     "name": "Kathryn A.Bard",
+     "role": "author",
+     "romanized": "Kathryn A.Bard"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1997?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ptkfj6af",
+   "id": "wk_ptkfj6af",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXI No.1 (June 1997)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "abagorgorios",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7j91gsbr",
+ "id": "pe_7j91gsbr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60804848",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60804848"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90632877",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90632877"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Gorgorios"
+  },
+  "romanized": "Aba Gorgorios",
+  "sort_key": "abagorgorios"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60804848"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7j91gsbr",
+     "name": "Aba Gorgorios",
+     "role": "author",
+     "romanized": "Aba Gorgorios"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2fz79c5z",
+   "id": "wk_2fz79c5z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBetechristian Tarik BeAlem Medirek",
+    "script": "Ethi",
+    "text": "የቤተ ክርስቲያን ታሪክ በዓለም መድረክ"
+   },
+   "type": "work",
+   "year": 1985
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7j91gsbr",
+     "name": "Aba Gorgorios",
+     "role": "author",
+     "romanized": "Aba Gorgorios"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_d1wx43tk",
+   "id": "wk_d1wx43tk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Orthodoks Tewahido Bietekrstian Tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

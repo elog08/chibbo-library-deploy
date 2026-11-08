@@ -21,7 +21,14 @@
   "ed_3ssg97k5",
   "ed_f89dh23r"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "love"
+   ]
+  }
+ },
  "fingerprint": "እናትፍቅርሀገር|alakasabarham",
  "first_published": {
   "edtf": "2009-03-07",
@@ -31,6 +38,7 @@
   }
  },
  "flags": [
+  "unlicensed-full-text-source",
   "llm-extracted"
  ],
  "form": "print",
@@ -75,14 +83,143 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.amazon.com/dp/B0CX237PQT"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
+  "full text offered at https://typicalethiopian.com/wp-content/uploads/2022/04/እናት_ፍቅር_ሃገር_አሌክስ_አብርሃም_enat_fikr.pdf",
   "Read from PDF front matter: እናት_ፍቅር_ሃገር_አሌክስ_አብርሃም.pdf"
  ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_nx5wyc7s",
+     "name": "አልአክብ አብርሃም",
+     "role": "author",
+     "romanized": "Alebeh Abraha"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ey1yv4a0",
+   "id": "wk_ey1yv4a0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "youth-and-solitude",
+    "country-and-history",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gin Yehem Aydellem",
+    "script": "Ethi",
+    "text": "ግን ይሄም አይደለም"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_h7vze8c0",
+   "id": "wk_h7vze8c0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yih Yene Miret",
+    "script": "Ethi",
+    "text": "ይህ የኔ ምሬት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_pe5vyxjq",
+   "id": "wk_pe5vyxjq",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "faith-and-philosophy",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yinedal",
+    "script": "Ethi",
+    "text": "ይነዳል"
+   },
+   "type": "work"
+  }
+ ],
  "poetry": true,
+ "poetry_tags": [
+  "love"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

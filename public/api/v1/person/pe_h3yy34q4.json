@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "anginarwondimunagash",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h3yy34q4",
+ "id": "pe_h3yy34q4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09560295",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09560295"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92282701",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92282701"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Engineer Wondimu Negash"
+  },
+  "romanized": "Engineer Wondimu Negash",
+  "sort_key": "engineerwondimunegash"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09560295"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h3yy34q4",
+     "name": "Engineer Wondimu Negash",
+     "role": "author",
+     "romanized": "Engineer Wondimu Negash"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1fdjjb5b",
+   "id": "wk_1fdjjb5b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye'Amiro Guday 3 (YeAmiro Beshitawochina Meftihewochachew)",
+    "script": "Ethi",
+    "text": "የአእምሮ ጉዳይ 3 (የአእምሮ በሽታዎችና መፍትሔዎቻቸው)"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_h3yy34q4",
+     "name": "Engineer Wondimu Negash",
+     "role": "author",
+     "romanized": "Engineer Wondimu Negash"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4szb6hvp",
+   "id": "wk_4szb6hvp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye'Amiro Guday 2 (Asitesasebin Yemegirfat Hikimina) Cognitive Behavioral Therapy",
+    "script": "Ethi",
+    "text": "የአእምሮ ጉዳይ 2 (አስተሳሰብን የመግራት ሕክምና)"
+   },
+   "type": "work"
+  }
+ ]
+}

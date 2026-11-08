@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wd0dzcgz",
+ "@type": "Book",
+ "alternateName": [
+  "Yetedebekew Masitawesha"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_znqgsp61",
+   "@type": "Person",
+   "name": "Dr.Haralid Naistrom"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9780692268933",
+ "name": "የተደበቀው ማስታወሻ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "21.17",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=20851493"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Dr.Gebeyehu Teferi and Desalegn Alemu (Second Edition October 2015)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=20851493"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1qpqcm6s",
+   "@type": "Book"
+  }
+ ]
+}

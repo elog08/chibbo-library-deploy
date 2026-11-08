@@ -1,0 +1,100 @@
+{
+ "extensions": {},
+ "fingerprint": "abararafayaynadamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3s03ktst",
+ "id": "pe_3s03ktst",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04249225",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04249225"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25083607",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25083607"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abere Arefayayne Adamu"
+  },
+  "romanized": "Abere Arefayayne Adamu",
+  "sort_key": "aberearefayayneadamu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04249225"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3s03ktst",
+     "name": "Abere Arefayayne Adamu",
+     "role": "author",
+     "romanized": "Abere Arefayayne Adamu"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_egjy3bj3",
+   "id": "wk_egjy3bj3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tintawiw Yegojam Tarik (ke5500 B.C-350 A.C)",
+    "script": "Ethi",
+    "text": "ጥንታዊው የጎጃም ታሪክ (Ke5500B.C-350 A.C)"
+   },
+   "type": "work",
+   "year": 2024
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3s03ktst",
+     "name": "Abere Arefayayne Adamu",
+     "role": "author",
+     "romanized": "Abere Arefayayne Adamu"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_yaydq3sn",
+   "id": "wk_yaydq3sn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yegojam Tarik (ke950 bc. -ke1845 ac) Kits.2",
+    "script": "Ethi",
+    "text": "የጎጃም ታሪክ (ከ950ዓ/ዓ-ከ1845ዓ/ም) ቅጽ.2"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_2b3dvzqs"
+  "ed_2b3dvzqs",
+  "ed_aqsrskh6"
  ],
  "extensions": {},
  "fingerprint": "የዘርካርድ|burhanadis",
@@ -25,6 +26,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_182"
+  ],
+  "mereb_mpid": [
+   "83796109"
   ]
  },
  "language": "am",
@@ -57,6 +61,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83796109",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83796109"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.12",
+   "provider": "mereb",
+   "ref": "83796109",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83796109"
   }
  ],
  "locked_fields": [],

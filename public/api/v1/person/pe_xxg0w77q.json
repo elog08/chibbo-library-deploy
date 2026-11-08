@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "damozgoshama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xxg0w77q",
+ "id": "pe_xxg0w77q",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55226263",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55226263"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58775606",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58775606"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Demoz Gosheme"
+  },
+  "romanized": "Demoz Gosheme",
+  "sort_key": "demozgosheme"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55226263"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xxg0w77q",
+     "name": "Demoz Gosheme",
+     "role": "author",
+     "romanized": "Demoz Gosheme"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dd84m1f1",
+   "id": "wk_dd84m1f1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sositegnaw Kidan (Semune Mitsiat)",
+    "script": "Ethi",
+    "text": "ሦስተኛው ኪዳን (ሰሙነ ምፅዓት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xxg0w77q",
+     "name": "Demoz Gosheme",
+     "role": "author",
+     "romanized": "Demoz Gosheme"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dm668zrs",
+   "id": "wk_dm668zrs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asira Sidist",
+    "script": "Ethi",
+    "text": "ዐሥራ ስድስት"
+   },
+   "type": "work"
+  }
+ ]
+}

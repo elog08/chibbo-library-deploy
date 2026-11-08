@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sh8wwtec",
+ "@type": "Book",
+ "alternateName": [
+  "Menen"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xnwtp3ms",
+   "@type": "Person",
+   "name": "Ethiopian Patriotic Association"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መነን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07187007"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07187007"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yc9gw8jt",
+   "@type": "Book"
+  }
+ ]
+}

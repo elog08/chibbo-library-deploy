@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "azimarakasahun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_61t1s63z",
+ "id": "pe_61t1s63z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85175009",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85175009"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Azimera Kassahun"
+  },
+  "romanized": "Azimera Kassahun",
+  "sort_key": "azimerakassahun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85175009"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_61t1s63z",
+     "name": "Azimera Kassahun",
+     "role": "author",
+     "romanized": "Azimera Kassahun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yjb9egxv",
+   "id": "wk_yjb9egxv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeBet Eske Timihrt Bet (YeMigib Zigijit Metsihaf)",
+    "script": "Ethi",
+    "text": "ከቤት እስከ ትምህርት ቤት (የምግብ ዝግጅት መጽሀፍ)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

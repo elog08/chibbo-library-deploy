@@ -62,16 +62,35 @@
     "name": "amazon"
    },
    "url": "https://www.amazon.com/dp/B0DZSFWK9X"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.60",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=95161838"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Yismake Worku"
+ },
  "sameAs": [
   "https://addisbooks.com/book/kebur-dengay-by-yismake-worku/",
-  "https://addisbooks.com/book/the-lost-spell-by-yismake-worku-bethlehem-attfield/"
+  "https://addisbooks.com/book/the-lost-spell-by-yismake-worku-bethlehem-attfield/",
+  "https://www.mereb.shop/rs/?mpid=95161838"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_n9sz3fen",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_srayzy7n",
    "@type": "Book"
   }
  ]

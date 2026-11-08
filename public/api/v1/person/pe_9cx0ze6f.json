@@ -35,6 +35,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://en.wikipedia.org/wiki/Mengistu_Lemma"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37025914",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37025914"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98739789",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98739789"
   }
  ],
  "locked_fields": [],
@@ -68,10 +84,43 @@
     }
    ],
    "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7wn8atv2",
+   "id": "wk_7wn8atv2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mengistu Lema (Demamu- Bi'eregna)",
+    "script": "Ethi",
+    "text": "መንግስቱ ለማ(ደማሙ ብዕረኛ)"
+   },
+   "type": "work",
+   "year": 1996
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9cx0ze6f",
+     "name": "Mengistu Lemma",
+     "role": "author",
+     "romanized": "Mengistu Lemma"
+    }
+   ],
+   "date": {
     "calendar": "gregorian",
     "edtf": "1964",
     "flags": []
    },
+   "form": "play",
    "href": "https://chibbo.app/work/wk_zg0t1yqd",
    "id": "wk_zg0t1yqd",
    "language": "am",

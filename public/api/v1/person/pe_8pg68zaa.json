@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "barakatsimon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8pg68zaa",
+ "id": "pe_8pg68zaa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22127391",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22127391"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bereket Si'mon"
+  },
+  "romanized": "Bereket Si'mon",
+  "sort_key": "bereketsimon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22127391"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8pg68zaa",
+     "name": "Bereket Si'mon",
+     "role": "author",
+     "romanized": "Bereket Si'mon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sgg7s060",
+   "id": "wk_sgg7s060",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHulet Mirichawoch Weg (Nadan Yegeta Agerawi Rucha) 1997 2002",
+    "script": "Ethi",
+    "text": "የሁለት ምርጫዎች ወግ (ናዳን የገታ አገራዊ ሩጫ 1997 2002)"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

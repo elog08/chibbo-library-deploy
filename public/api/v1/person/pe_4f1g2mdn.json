@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bilatamarsahazanwoldakirkos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4f1g2mdn",
+ "id": "pe_4f1g2mdn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50502104",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50502104"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bilata Mers'e Hazen Wolde Kirkos"
+  },
+  "romanized": "Bilata Mers'e Hazen Wolde Kirkos",
+  "sort_key": "bilatamersehazenwoldekirkos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50502104"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4f1g2mdn",
+     "name": "Bilata Mers'e Hazen Wolde Kirkos",
+     "role": "author",
+     "romanized": "Bilata Mers'e Hazen Wolde Kirkos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1950?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3d649gb8",
+   "id": "wk_3d649gb8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmarigna Sewasw (Huletegna Kifil)",
+    "script": "Ethi",
+    "text": "የአማርኛ ሰዋስው (ሁለተኛ ክፍል)"
+   },
+   "type": "work",
+   "year": 1950
+  }
+ ]
+}

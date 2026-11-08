@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vxj9m4rf",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0mkmtphn",
+   "@type": "Person",
+   "name": "Deacon Mersha Alehegne"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The chronicles of Ethiopian popes",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60229711"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan (1997 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60229711"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_m6hyt0sz",
+   "@type": "Book"
+  }
+ ]
+}

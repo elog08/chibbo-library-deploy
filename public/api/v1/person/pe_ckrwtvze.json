@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gashawgobawtashu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ckrwtvze",
+ "id": "pe_ckrwtvze",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79826643",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79826643"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gashaw Gobaw Tashu"
+  },
+  "romanized": "Gashaw Gobaw Tashu",
+  "sort_key": "gashawgobawtashu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79826643"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ckrwtvze",
+     "name": "Gashaw Gobaw Tashu",
+     "role": "author",
+     "romanized": "Gashaw Gobaw Tashu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dk5n3fct",
+   "id": "wk_dk5n3fct",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeColonel Mengistu H/Mariam YeDerg Gemenawoch",
+    "script": "Ethi",
+    "text": "የኮሎኔል መንግስቱ ኃይለማሪያም እና የደርግ ገመናዎች"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

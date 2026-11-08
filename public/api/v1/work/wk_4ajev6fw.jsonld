@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4ajev6fw",
+ "@type": "Book",
+ "alternateName": [
+  "Yecherekatila"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qvsesav7",
+   "@type": "Person",
+   "name": "Asirat Kebede"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994494675",
+ "name": "የጨረቃ ጥላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.63",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04533754"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04533754"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_qqgwd1xc",
+   "@type": "Book"
+  }
+ ]
+}

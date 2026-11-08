@@ -5,7 +5,40 @@
  "href": "https://chibbo.app/person/pe_ztdfbbm1",
  "id": "pe_ztdfbbm1",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06971303",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06971303"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17119000",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17119000"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19975513",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19975513"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64311218",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64311218"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -35,6 +68,91 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ztdfbbm1",
+     "name": "አንዱአለም አራጌ",
+     "role": "author",
+     "romanized": "Andualem Arage"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1wx19hm5",
+   "id": "wk_1wx19hm5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaltehedebt Menged",
+    "script": "Ethi",
+    "text": "ያልተሄደበት መንገድ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ztdfbbm1",
+     "name": "አንዱአለም አራጌ",
+     "role": "author",
+     "romanized": "Andualem Arage"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_58prq65k",
+   "id": "wk_58prq65k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeZemenat Mekakel",
+    "script": "Ethi",
+    "text": "በዘመናት መካከል"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ztdfbbm1",
+     "name": "አንዱአለም አራጌ",
+     "role": "author",
+     "romanized": "Andualem Arage"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bzeh5gvd",
+   "id": "wk_bzeh5gvd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHager Fikir Eida",
+    "script": "Ethi",
+    "text": "የሀገር ፍቅር ዕዳ"
+   },
+   "type": "work",
+   "year": 2015
+  },
   {
    "cover": {
     "path": "assets/covers/wk_zvmrrpvd.webp",

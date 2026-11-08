@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hanimalias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_954dej3g",
+ "id": "pe_954dej3g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20887005",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20887005"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64981932",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64981932"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hanim Elias"
+  },
+  "romanized": "Hanim Elias",
+  "sort_key": "hanimelias"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20887005"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_954dej3g",
+     "name": "Hanim Elias",
+     "role": "author",
+     "romanized": "Hanim Elias"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_97wfrk6k",
+   "id": "wk_97wfrk6k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeTibeb YeMenor Eset",
+    "script": "Ethi",
+    "text": "በጥበብ የመኖር ዕሴት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_954dej3g",
+     "name": "Hanim Elias",
+     "role": "author",
+     "romanized": "Hanim Elias"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ffgwyvkv",
+   "id": "wk_ffgwyvkv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHiwote Memeriya",
+    "script": "Ethi",
+    "text": "የሕይወት መመሪያ"
+   },
+   "type": "work"
+  }
+ ]
+}

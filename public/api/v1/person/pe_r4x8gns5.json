@@ -1,0 +1,187 @@
+{
+ "extensions": {},
+ "fingerprint": "abarajanbara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_r4x8gns5",
+ "id": "pe_r4x8gns5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32789940",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32789940"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81886553",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81886553"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98838795",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98838795"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abera jenbere",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Abera Jenbere",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበራ ጀንበሬ"
+  },
+  "romanized": "abera jenbere",
+  "sort_key": "አበራጀንበሬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አባኮስትር.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32789940"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_aeepjv8t.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_aeepjv8t.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r4x8gns5",
+     "name": "አበራ ጀንበሬ",
+     "role": "author",
+     "romanized": "abera jenbere"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1989-09-11/1990-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_3zdnjytv",
+   "id": "wk_3zdnjytv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aba Koster",
+    "script": "Ethi",
+    "text": "አባ ኮስትር"
+   },
+   "type": "work",
+   "year": 1989
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_j18xqr8w",
+     "name": "Asmerom Kidane",
+     "role": "author",
+     "romanized": "Asmerom Kidane"
+    },
+    {
+     "id": "pe_r4x8gns5",
+     "name": "አበራ ጀንበሬ",
+     "role": "author",
+     "romanized": "abera jenbere"
+    },
+    {
+     "id": "pe_btcty2xc",
+     "name": "Jon Abbink",
+     "role": "author",
+     "romanized": "Jon Abbink"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_max1jxw3",
+   "id": "wk_max1jxw3",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Proceedings of the Eleventh International Conference of Ethiopian Studies (Volume II)",
+    "script": "Ethi",
+    "text": "አሥራ አንደኛው የኢትዮጵያ ጥናት ዓለም አቀፍ ጉባኤ"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_r4x8gns5",
+     "name": "አበራ ጀንበሬ",
+     "role": "author",
+     "romanized": "abera jenbere"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w81xeyqq",
+   "id": "wk_w81xeyqq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dirisane Hiywote",
+    "script": "Ethi",
+    "text": "ድርሳነ ህይወቴ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

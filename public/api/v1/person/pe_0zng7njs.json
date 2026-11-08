@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "rozmasticanagash",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0zng7njs",
+ "id": "pe_0zng7njs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86453040",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86453040"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Roz Mestica Negash"
+  },
+  "romanized": "Roz Mestica Negash",
+  "sort_key": "rozmesticanegash"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=86453040"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0zng7njs",
+     "name": "Roz Mestica Negash",
+     "role": "author",
+     "romanized": "Roz Mestica Negash"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gesvtwxe",
+   "id": "wk_gesvtwxe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hulet Sost Melk (Lij Weldo Masadeg)",
+    "script": "Ethi",
+    "text": "ሁለት ሦስት መልክ (ልጅ ወልዶ ማሳደግ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

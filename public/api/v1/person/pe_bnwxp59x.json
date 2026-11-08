@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "gpmosbak",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bnwxp59x",
+ "id": "pe_bnwxp59x",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35400655",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35400655"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "G.P. Mosbak"
+  },
+  "romanized": "G.P. Mosbak",
+  "sort_key": "gpmosbak"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=35400655"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bnwxp59x",
+     "name": "G.P. Mosbak",
+     "role": "author",
+     "romanized": "G.P. Mosbak"
+    },
+    {
+     "id": "pe_k9tmw8a7",
+     "name": "Dr. Amsalu Aklilu",
+     "role": "author",
+     "romanized": "Dr. Amsalu Aklilu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c8vy17gh",
+   "id": "wk_c8vy17gh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "English-Amharic Dictionary",
+    "script": "Ethi",
+    "text": "እንግሊዝኛ - አማርኛ መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

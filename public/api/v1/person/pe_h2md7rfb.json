@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirasirasyayah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h2md7rfb",
+ "id": "pe_h2md7rfb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28840430",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28840430"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Asires Yayeh"
+  },
+  "romanized": "Memihir Asires Yayeh",
+  "sort_key": "memihirasiresyayeh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28840430"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h2md7rfb",
+     "name": "Memihir Asires Yayeh",
+     "role": "author",
+     "romanized": "Memihir Asires Yayeh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1997?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_090s1953",
+   "id": "wk_090s1953",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bete Israel BeEthiopia (Tarikachew Bahilachew Anuanuarachew)",
+    "script": "Ethi",
+    "text": "ቤተ እስራኤል በኢትዮጵያ (ታሪካቸው ባህላቸውና አኗኗራቸው)"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

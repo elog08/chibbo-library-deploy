@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "magabihadisrodastadasaphd",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p4sdssvc",
+ "id": "pe_p4sdssvc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46683210",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46683210"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87652967",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87652967"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Megabi Hadis Rodas Tadesse (PH.D)"
+  },
+  "romanized": "Megabi Hadis Rodas Tadesse (PH.D)",
+  "sort_key": "megabihadisrodastadessephd"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46683210"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p4sdssvc",
+     "name": "Megabi Hadis Rodas Tadesse (PH.D)",
+     "role": "author",
+     "romanized": "Megabi Hadis Rodas Tadesse (PH.D)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8dspmac5",
+   "id": "wk_8dspmac5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mazarot",
+    "script": "Ethi",
+    "text": "ማዛሮት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_p4sdssvc",
+     "name": "Megabi Hadis Rodas Tadesse (PH.D)",
+     "role": "author",
+     "romanized": "Megabi Hadis Rodas Tadesse (PH.D)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_q6hz90r7",
+   "id": "wk_q6hz90r7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "888",
+    "script": "Zyyy",
+    "text": "888"
+   },
+   "type": "work"
+  }
+ ]
+}

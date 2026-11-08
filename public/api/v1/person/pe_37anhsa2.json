@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hadishrada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_37anhsa2",
+ "id": "pe_37anhsa2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60130768",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60130768"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82666110",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82666110"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hadish Reda"
+  },
+  "romanized": "Hadish Reda",
+  "sort_key": "hadishreda"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60130768"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_37anhsa2",
+     "name": "Hadish Reda",
+     "role": "author",
+     "romanized": "Hadish Reda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fyzm6mew",
+   "id": "wk_fyzm6mew",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yekosela Tarik (Tarikina Tirkt BeEthiopia)",
+    "script": "Ethi",
+    "text": "የቆሰለ ታሪክ (ታሪክና ትርከት በኢትዮጵያ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_37anhsa2",
+     "name": "Hadish Reda",
+     "role": "author",
+     "romanized": "Hadish Reda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vmhtq5eh",
+   "id": "wk_vmhtq5eh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarik \"Tarikin\" Simogit",
+    "script": "Ethi",
+    "text": "ታሪክ \"ታሪክን\" ሲሞግት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b9mg2dbg",
+ "@type": "Book",
+ "alternateName": [
+  "Chuchu Begodan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fghazd8e",
+   "@type": "Person",
+   "name": "Daniel Negash"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ቹቹ በጎዳና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05033479"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05033479"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dqhfkct3",
+   "@type": "Book"
+  }
+ ]
+}

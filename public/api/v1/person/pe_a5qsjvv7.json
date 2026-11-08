@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "cristinakaslar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a5qsjvv7",
+ "id": "pe_a5qsjvv7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81244877",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81244877"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Cristina kessler"
+  },
+  "romanized": "Cristina kessler",
+  "sort_key": "cristinakessler"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81244877"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a5qsjvv7",
+     "name": "Cristina kessler",
+     "role": "author",
+     "romanized": "Cristina kessler"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s3r54p81",
+   "id": "wk_s3r54p81",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE BEEKEEPER OF LALIBELA",
+    "script": "Ethi",
+    "text": "የላሊበላዋ ንብ አርቢ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

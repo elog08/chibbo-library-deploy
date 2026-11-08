@@ -1,0 +1,132 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirgabrakidandasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pe4wmsn2",
+ "id": "pe_pe4wmsn2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10420011",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10420011"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11582674",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11582674"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16873040",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16873040"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Gebrekidan Desta"
+  },
+  "romanized": "Memihir Gebrekidan Desta",
+  "sort_key": "memihirgebrekidandesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10420011"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pe4wmsn2",
+     "name": "Memihir Gebrekidan Desta",
+     "role": "author",
+     "romanized": "Memihir Gebrekidan Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1h0z6tpv",
+   "id": "wk_1h0z6tpv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Atse Yohannesna Atse Minilk BeEthiopia Menetsir Tarik",
+    "script": "Ethi",
+    "text": "አፄ ዮሀንስና አፄ ሚኒልክ በኢትዮጵያ መነጽር ታሪክ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_pe4wmsn2",
+     "name": "Memihir Gebrekidan Desta",
+     "role": "author",
+     "romanized": "Memihir Gebrekidan Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4f0ejp0q",
+   "id": "wk_4f0ejp0q",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Embita Antsar Wererti (Tarik Zemene Mewa'el Hatsey Yohannes 4y Niguse Negest ZeEthiopia)",
+    "script": "Ethi",
+    "text": "እምቢታ አንፃር ወረርቲ (ታሪኽ ዘመነ መዋእል ሃፀይ ዮሃንስ 4ይ ንጉሰ ነገስት ዘኢትዮጵያ)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_pe4wmsn2",
+     "name": "Memihir Gebrekidan Desta",
+     "role": "author",
+     "romanized": "Memihir Gebrekidan Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_m7qfyrvw",
+   "id": "wk_m7qfyrvw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTigiray Hizbina Yetmkhitegnoch Sera Ketinant Eske Zare",
+    "script": "Ethi",
+    "text": "የትግራይ ህዝብና የትምክህተኞች ሴራ ከትናንት እስከ ዛሬ"
+   },
+   "type": "work"
+  }
+ ]
+}

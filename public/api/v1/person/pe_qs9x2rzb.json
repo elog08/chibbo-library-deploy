@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "bakalachtola",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qs9x2rzb",
+ "id": "pe_qs9x2rzb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45265668",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45265668"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47107436",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47107436"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52538799",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52538799"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78419573",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78419573"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bekelech Tola"
+  },
+  "romanized": "Bekelech Tola",
+  "sort_key": "bekelechtola"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45265668"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qs9x2rzb",
+     "name": "Bekelech Tola",
+     "role": "author",
+     "romanized": "Bekelech Tola"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7ckb8k0f",
+   "id": "wk_7ckb8k0f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sile E'tsewat Lehtsanet Ena Letadagiwoch",
+    "script": "Ethi",
+    "text": "ስለ ዕፅዋት ለሕፃናት እና ለታዳጊዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qs9x2rzb",
+     "name": "Bekelech Tola",
+     "role": "author",
+     "romanized": "Bekelech Tola"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k4en56an",
+   "id": "wk_k4en56an",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hikimina bebetachin (Yebet Wist Bahlawi Hikimina Betefetro Medihanit)",
+    "script": "Ethi",
+    "text": "ሕክምና በቤታችን (የቤት ውስጥ ባህላዊ ሕክምና በተፈጥሮ መድሐኒት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qs9x2rzb",
+     "name": "Bekelech Tola",
+     "role": "author",
+     "romanized": "Bekelech Tola"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n7mc7wyp",
+   "id": "wk_n7mc7wyp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeAynet Injera (Lemlem Injera Kebzuha Sebloch)",
+    "script": "Ethi",
+    "text": "በዐይነት እንጀራ (ለምለም እንጀራ ከብዝሀ ሰብሎች)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

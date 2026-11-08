@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirkasiskibratdamisa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6dq34eky",
+ "id": "pe_6dq34eky",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52314757",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52314757"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Kesis Kibret Demise"
+  },
+  "romanized": "Memihir Kesis Kibret Demise",
+  "sort_key": "memihirkesiskibretdemise"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52314757"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6dq34eky",
+     "name": "Memihir Kesis Kibret Demise",
+     "role": "author",
+     "romanized": "Memihir Kesis Kibret Demise"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_b8jxaaey",
+   "id": "wk_b8jxaaey",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Mermihinam",
+    "script": "Ethi",
+    "text": "ገድለ መርምህናም"
+   },
+   "type": "work"
+  }
+ ]
+}

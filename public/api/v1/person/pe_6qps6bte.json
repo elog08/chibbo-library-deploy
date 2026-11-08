@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "aframasimara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6qps6bte",
+ "id": "pe_6qps6bte",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97589964",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97589964"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Efrem Asimare"
+  },
+  "romanized": "Efrem Asimare",
+  "sort_key": "efremasimare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97589964"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6qps6bte",
+     "name": "Efrem Asimare",
+     "role": "author",
+     "romanized": "Efrem Asimare"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1parfc6g",
+   "id": "wk_1parfc6g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yirga BeEthiopia Hig",
+    "script": "Ethi",
+    "text": "ይርጋ በኢትዮጵያ ሕግ"
+   },
+   "type": "work"
+  }
+ ]
+}

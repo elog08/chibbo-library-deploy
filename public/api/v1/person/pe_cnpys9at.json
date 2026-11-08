@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "galilatasfalidat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cnpys9at",
+ "id": "pe_cnpys9at",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38582685",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38582685"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58318139",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58318139"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gelila Tesfalidet"
+  },
+  "romanized": "Gelila Tesfalidet",
+  "sort_key": "gelilatesfalidet"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38582685"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cnpys9at",
+     "name": "Gelila Tesfalidet",
+     "role": "author",
+     "romanized": "Gelila Tesfalidet"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_61f1mbwd",
+   "id": "wk_61f1mbwd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Balegariw Anibesa",
+    "script": "Ethi",
+    "text": "ባለጋሪው አንበሳ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cnpys9at",
+     "name": "Gelila Tesfalidet",
+     "role": "author",
+     "romanized": "Gelila Tesfalidet"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ja18bazg",
+   "id": "wk_ja18bazg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Esjilolo Adiragiwa Kechine",
+    "script": "Ethi",
+    "text": "እሽኮኮ አድራጊዋ ቀጭኔ"
+   },
+   "type": "work"
+  }
+ ]
+}

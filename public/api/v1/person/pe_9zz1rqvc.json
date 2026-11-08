@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drmustafasibai",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9zz1rqvc",
+ "id": "pe_9zz1rqvc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97868322",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97868322"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Mustefa Es-sibaei"
+  },
+  "romanized": "Dr.Mustefa Es-sibaei",
+  "sort_key": "drmustefaessibaei"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97868322"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9zz1rqvc",
+     "name": "Dr.Mustefa Es-sibaei",
+     "role": "author",
+     "romanized": "Dr.Mustefa Es-sibaei"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6rw5jfkg",
+   "id": "wk_6rw5jfkg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeIslamawiw Silitanie Antsebaraqi Getsitawoch",
+    "script": "Ethi",
+    "text": "የኢስላማዊው ሥልጣኔ አንጸባራቂ ገጽታዎች"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hardcovar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8bewbkrs",
+ "id": "pe_8bewbkrs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31989093",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31989093"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47586768",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47586768"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hard Cover"
+  },
+  "romanized": "Hard Cover",
+  "sort_key": "hardcover"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31989093"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8bewbkrs",
+     "name": "Hard Cover",
+     "role": "author",
+     "romanized": "Hard Cover"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_r8pppcmf",
+   "id": "wk_r8pppcmf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihaf Kidus (YeBiluy Yehadis Kidan Metsafit be1879 E.C Ketatemew Endegena Tateme)",
+    "script": "Ethi",
+    "text": "መጽሐፍ ቅዱስ (የብሉይና የሐዲስ ኪዳን መጻፍት በ1879 ዓ ም ከታተመው እንደገና ታተመ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8bewbkrs",
+     "name": "Hard Cover",
+     "role": "author",
+     "romanized": "Hard Cover"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xdyyf2n7",
+   "id": "wk_xdyyf2n7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Kidusan (Elu Emuntu Gedile Abune Eyesus Moa,Gedile Abune Bustawiros,Gedile Abune Abib (aba Bula))",
+    "script": "Ethi",
+    "text": "ገድለ ቅዱሳን (እሉ እሙንቱ ገድለ አቡነ ኢየሱስ ሞዐ ገድለ አቡነ ቡስጣውሮስ ገድለ አቡነ አቢብ (አባ ቡላ))"
+   },
+   "type": "work"
+  }
+ ]
+}

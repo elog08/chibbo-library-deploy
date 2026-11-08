@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rqfbb4a6",
+ "@type": "Book",
+ "alternateName": [
+  "Ethop"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_n5mddp21",
+   "@type": "Person",
+   "name": "Dr Elias Gebru Aemro"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢቶዮጵ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=67276506"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=67276506"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_am52wfky",
+   "@type": "Book"
+  }
+ ]
+}

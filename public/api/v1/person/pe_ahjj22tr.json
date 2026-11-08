@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "profikiratolosajigsa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ahjj22tr",
+ "id": "pe_ahjj22tr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00391648",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00391648"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95758599",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95758599"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof.Fikire Tolosa Jigsa"
+  },
+  "romanized": "Prof.Fikire Tolosa Jigsa",
+  "sort_key": "proffikiretolosajigsa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00391648"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ahjj22tr",
+     "name": "Prof.Fikire Tolosa Jigsa",
+     "role": "author",
+     "romanized": "Prof.Fikire Tolosa Jigsa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_80hmsxjg",
+   "id": "wk_80hmsxjg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOromona YeAmara Ewnetegnaw Yezer Minich",
+    "script": "Ethi",
+    "text": "የኦሮሞ እና የአማራው እውነተኛው የዘር ምንጭ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ahjj22tr",
+     "name": "Prof.Fikire Tolosa Jigsa",
+     "role": "author",
+     "romanized": "Prof.Fikire Tolosa Jigsa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qn0n56ww",
+   "id": "wk_qn0n56ww",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Siwuruna Yalitenegerew YeEthiopiayawiyan Ena YeAyhudawyan Tarik",
+    "script": "Ethi",
+    "text": "ስዉሩና ያልተነገረው የአይሁዳውያን እና የኢትዮጵያውያን ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

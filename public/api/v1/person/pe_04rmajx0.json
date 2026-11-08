@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "danialkibirat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_04rmajx0",
+ "id": "pe_04rmajx0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81492568",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81492568"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Kibiret"
+  },
+  "romanized": "Daniel Kibiret",
+  "sort_key": "danielkibiret"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81492568"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_04rmajx0",
+     "name": "Daniel Kibiret",
+     "role": "author",
+     "romanized": "Daniel Kibiret"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_06bkhb4n",
+   "id": "wk_06bkhb4n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSerko Aderoch Sibsebana Leloch...",
+    "script": "Ethi",
+    "text": "የሰርቆ ኣደሮች ስብሰባ እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

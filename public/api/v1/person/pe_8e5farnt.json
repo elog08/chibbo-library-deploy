@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmusahailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8e5farnt",
+ "id": "pe_8e5farnt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48061003",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48061003"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Muse Hailu"
+  },
+  "romanized": "Memihir Muse Hailu",
+  "sort_key": "memihirmusehailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48061003"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8e5farnt",
+     "name": "Memihir Muse Hailu",
+     "role": "author",
+     "romanized": "Memihir Muse Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wxg37qte",
+   "id": "wk_wxg37qte",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eme Negere Mariam ZeOrthodox Tewahedo",
+    "script": "Ethi",
+    "text": "እመ ነገረ ማርያም ዘኦርቶዶክስ ተዋሕዶ"
+   },
+   "type": "work"
+  }
+ ]
+}

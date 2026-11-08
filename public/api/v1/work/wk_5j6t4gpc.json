@@ -14,19 +14,27 @@
  ],
  "editions": [
   "ed_a7a51r88",
+  "ed_72vbf92v",
   "ed_52myv2rt"
  ],
  "extensions": {},
  "fingerprint": "ማስታወሻ|zanabawala",
  "first_published": {
-  "edtf": "2013-09-11/2014-09-10",
+  "alternates": [
+   "2021-09-11/2022-09-10"
+  ],
+  "edtf": "2014?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
   "original": {
-   "calendar": "ethiopic",
-   "value": "2006"
+   "calendar": "ambiguous",
+   "value": "2014"
   }
  },
  "flags": [
   "format-paper-back",
+  "calendar-ambiguous",
   "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_5j6t4gpc",
@@ -34,6 +42,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_218"
+  ],
+  "mereb_mpid": [
+   "85868184"
   ],
   "pdf_pagehash": [
    "080a0a8b8b8a0a08",
@@ -73,6 +84,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_218"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85868184",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85868184"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "24.53",
+   "provider": "mereb",
+   "ref": "85868184",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85868184"
   }
  ],
  "locked_fields": [],
@@ -87,6 +116,7 @@
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_218"
  },
  "publication_place": "አዲስ አበባ",
+ "publisher_name": "Zenebe Wela",
  "relations": [],
  "rights": {
   "shippable": false,

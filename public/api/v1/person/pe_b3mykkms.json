@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "askindarsayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b3mykkms",
+ "id": "pe_b3mykkms",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03890006",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03890006"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eskinder Seyoum"
+  },
+  "romanized": "Eskinder Seyoum",
+  "sort_key": "eskinderseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03890006"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b3mykkms",
+     "name": "Eskinder Seyoum",
+     "role": "author",
+     "romanized": "Eskinder Seyoum"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ysak9ze0",
+   "id": "wk_ysak9ze0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sostu Asimategna Setoch (The three Spinners)",
+    "script": "Ethi",
+    "text": "ሶስቱ አስማተኛ ሴቶች"
+   },
+   "type": "work"
+  }
+ ]
+}

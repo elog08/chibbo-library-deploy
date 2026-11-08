@@ -26,6 +26,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://addisbooks.com/authors/berihun-adane/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32271007",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32271007"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58047528",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58047528"
   }
  ],
  "locked_fields": [],
@@ -107,6 +123,27 @@
    "year": 2014
   },
   {
+   "credits": [
+    {
+     "id": "pe_tr8g7et8",
+     "name": "በሪሁን አዳነ",
+     "role": "author",
+     "romanized": "Barihun Adane"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_h03620x1",
+   "id": "wk_h03620x1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeMirko Yeteyaze Hizib (YeAwera Party Sire'at Weyis YeAfena Agezaz)Ehadeg ena YeEthiopia Hiliwina (Two Books in One Binding)",
+    "script": "Ethi",
+    "text": "በምርኮ የተያዘ ሕዝብ (የአውራ ፓርቲ ሥርዓት ወይስ የአፈና አገዛዝ) ኢሕአዴግና የኢትይጵያ ህልውና(ሁለት መጽሐፍ ባንድ)"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_nj2ed1rj.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2023/10/የጎርዲያን-ቋጠሮ-ከራሷ-ጋር-የታረቀች-ኢትዮጵያ-Berihun-Adane.jpg"
@@ -136,6 +173,27 @@
    },
    "type": "work",
    "year": 2023
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tr8g7et8",
+     "name": "በሪሁን አዳነ",
+     "role": "author",
+     "romanized": "Barihun Adane"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yencknbn",
+   "id": "wk_yencknbn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKen Wetalin Poletika (Tikimegninetina Yeshigigir Kishfet)",
+    "script": "Ethi",
+    "text": "የቀን ወጣለን ፖለቲካ (ጥቅመኝነትና የሽግግር ክሽፈት)"
+   },
+   "type": "work"
   }
  ]
 }

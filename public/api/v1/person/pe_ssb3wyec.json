@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "antoinadasantagzupari",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ssb3wyec",
+ "id": "pe_ssb3wyec",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54763404",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54763404"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Antoine de. Sent Egzuperi"
+  },
+  "romanized": "Antoine de. Sent Egzuperi",
+  "sort_key": "antoinedesentegzuperi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54763404"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ssb3wyec",
+     "name": "Antoine de. Sent Egzuperi",
+     "role": "author",
+     "romanized": "Antoine de. Sent Egzuperi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_xd0qb0ys",
+   "id": "wk_xd0qb0ys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tadagiw Le'ul (Kederasiw Weyha Qelem Se'loch Gar)",
+    "script": "Ethi",
+    "text": "ታዳጊው ልዑል (ከደራሲው ወሃ ቀለም ሥዕሎች ጋር)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

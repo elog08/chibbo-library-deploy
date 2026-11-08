@@ -6,7 +6,9 @@
    "role": "author"
   }
  ],
- "editions": [],
+ "editions": [
+  "ed_18r62kc8"
+ ],
  "extensions": {},
  "fingerprint": "ከአድማስባሻገር|balugirma",
  "first_published": {
@@ -20,17 +22,43 @@
  "form": "novel",
  "href": "https://chibbo.app/work/wk_ac5vz4hr",
  "id": "wk_ac5vz4hr",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "58513449"
+  ]
+ },
  "language": "am",
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58513449",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58513449"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "17.12",
+   "provider": "mereb",
+   "ref": "58513449",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58513449"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
  },
  "publication_place": "Addis Ababa, Ethiopia",
+ "publisher_name": "Mankusa Publishers (Last Edition 2012 (First Edition 1970))",
  "relations": [],
  "rights": {
   "shippable": false,

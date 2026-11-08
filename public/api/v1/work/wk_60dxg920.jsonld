@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_60dxg920",
+ "@type": "Book",
+ "alternateName": [
+  "Zer'ay Deres"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ay7w4767",
+   "@type": "Person",
+   "name": "Antineh Alemu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዘርዓይ ደረስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=24200544"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Antineh Alemu (June 01 1957)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=24200544"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mbrq2z1z",
+   "@type": "Book"
+  }
+ ]
+}

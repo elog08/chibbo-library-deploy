@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "dirazaraya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g8ng57b5",
+ "id": "pe_g8ng57b5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32525557",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32525557"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dir'az Araya"
+  },
+  "romanized": "Dir'az Araya",
+  "sort_key": "dirazaraya"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32525557"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g8ng57b5",
+     "name": "Dir'az Araya",
+     "role": "author",
+     "romanized": "Dir'az Araya"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yghkpans",
+   "id": "wk_yghkpans",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia Yemedemer Tesfawana Sigatiwa",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ የመደመር ተስፋዋና ሥጋትዋ"
+   },
+   "type": "work"
+  }
+ ]
+}

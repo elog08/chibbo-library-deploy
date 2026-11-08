@@ -39,11 +39,26 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/merek-adam-reta"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.80",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06255178"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Adam Reta (2014/15)"
+ },
  "sameAs": [
   "https://addisbooks.com/book/mereq-by-adam-reta/",
-  "https://www.ethiobookreview.com/book/merek-adam-reta"
+  "https://www.ethiobookreview.com/book/merek-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=06255178"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -53,6 +68,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_18bhpjdr",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_eytw4tjz",
    "@type": "Book"
   },
   {

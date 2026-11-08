@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "dryonaslakaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_87xs8nsp",
+ "id": "pe_87xs8nsp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68248036",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68248036"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Yonas Lakew"
+  },
+  "romanized": "Dr.Yonas Lakew",
+  "sort_key": "dryonaslakew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=68248036"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_87xs8nsp",
+     "name": "Dr.Yonas Lakew",
+     "role": "author",
+     "romanized": "Dr.Yonas Lakew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pk7yh0zy",
+   "id": "wk_pk7yh0zy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmanuel Hospital Tarikoch",
+    "script": "Ethi",
+    "text": "የአማኑኤል ሆስፒታል ታሪኮች"
+   },
+   "type": "work"
+  }
+ ]
+}

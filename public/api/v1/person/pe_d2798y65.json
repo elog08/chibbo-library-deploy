@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "fpcotaral",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d2798y65",
+ "id": "pe_d2798y65",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19304139",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19304139"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "F.P.Cotterell"
+  },
+  "romanized": "F.P.Cotterell",
+  "sort_key": "fpcotterell"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19304139"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4erjbjcb",
+     "name": "F.S Lister & F.Lister",
+     "role": "author",
+     "romanized": "F.S Lister & F.Lister"
+    },
+    {
+     "id": "pe_d2798y65",
+     "name": "F.P.Cotterell",
+     "role": "author",
+     "romanized": "F.P.Cotterell"
+    },
+    {
+     "id": "pe_19sd46hp",
+     "name": "M.Abir",
+     "role": "author",
+     "romanized": "M.Abir"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1966?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b5zjq6pa",
+   "id": "wk_b5zjq6pa",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.IV No.2 (July 1966)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርመራ መጽሔት"
+   },
+   "type": "work",
+   "year": 1966
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "tamabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m42sxtwd",
+ "id": "pe_m42sxtwd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30118716",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30118716"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ta'eme Abreha"
+  },
+  "romanized": "Ta'eme Abreha",
+  "sort_key": "taemeabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30118716"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m42sxtwd",
+     "name": "Ta'eme Abreha",
+     "role": "author",
+     "romanized": "Ta'eme Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d0ybq1ax",
+   "id": "wk_d0ybq1ax",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meles Biandebet Ajebtu",
+    "script": "Ethi",
+    "text": "መለስ ብኣንደበት ዓጀብቱ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

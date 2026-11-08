@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "girmagatahun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xxzntqvz",
+ "id": "pe_xxzntqvz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47925541",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47925541"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81796597",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81796597"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Girma Getahun"
+  },
+  "romanized": "Girma Getahun",
+  "sort_key": "girmagetahun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47925541"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xxzntqvz",
+     "name": "Girma Getahun",
+     "role": "author",
+     "romanized": "Girma Getahun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c7t6ak0g",
+   "id": "wk_c7t6ak0g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yegojam Twlid Bemulu KeAbay Eske Abay (aleka Tekle-eyesus Wakjira EndeSafut)",
+    "script": "Ethi",
+    "text": "የጎጃም ትውልድ በሙሉ ከአባይ እስከ አባይ(አለቃ ተክለ-ኢየሱስ ዋቅጅራ እንደጻፉት)"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v05xf8dq",
+     "name": "Bahru Zewdie",
+     "role": "author",
+     "romanized": "Bahru Zewdie"
+    },
+    {
+     "id": "pe_xxzntqvz",
+     "name": "Girma Getahun",
+     "role": "author",
+     "romanized": "Girma Getahun"
+    },
+    {
+     "id": "pe_kjtapxmk",
+     "name": "Getachew Kassa",
+     "role": "author",
+     "romanized": "Getachew Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1997?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vpd4dwyf",
+   "id": "wk_vpd4dwyf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXI No.2 (December 1997)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

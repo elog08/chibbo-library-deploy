@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "abawoldasilasawoldakirkos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tjqs2fs8",
+ "id": "pe_tjqs2fs8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04771024",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04771024"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17638118",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17638118"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Woldesilase Woldekirkos"
+  },
+  "romanized": "Aba Woldesilase Woldekirkos",
+  "sort_key": "abawoldesilasewoldekirkos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04771024"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tjqs2fs8",
+     "name": "Aba Woldesilase Woldekirkos",
+     "role": "author",
+     "romanized": "Aba Woldesilase Woldekirkos"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_706d5q7r",
+   "id": "wk_706d5q7r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Abune Tekile Hawaryat",
+    "script": "Ethi",
+    "text": "ገድለ አቡነ ተክለ ሐዋርያት"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tjqs2fs8",
+     "name": "Aba Woldesilase Woldekirkos",
+     "role": "author",
+     "romanized": "Aba Woldesilase Woldekirkos"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_yacwm9ch",
+   "id": "wk_yacwm9ch",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Kidan",
+    "script": "Ethi",
+    "text": "መጽሐፈ ኪዳን"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

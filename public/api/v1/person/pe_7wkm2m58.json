@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagayhagosbarha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7wkm2m58",
+ "id": "pe_7wkm2m58",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23121302",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23121302"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsegay Hagos Berhe"
+  },
+  "romanized": "Tsegay Hagos Berhe",
+  "sort_key": "tsegayhagosberhe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23121302"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7wkm2m58",
+     "name": "Tsegay Hagos Berhe",
+     "role": "author",
+     "romanized": "Tsegay Hagos Berhe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ekrg4nn4",
+   "id": "wk_ekrg4nn4",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ki'bu Semay",
+    "script": "Ethi",
+    "text": "ቅቡእ ሰማይ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

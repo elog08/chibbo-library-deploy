@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abayinahkasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_62ybnhme",
+ "id": "pe_62ybnhme",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56954528",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56954528"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abayineh Kasse"
+  },
+  "romanized": "Abayineh Kasse",
+  "sort_key": "abayinehkasse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56954528"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_62ybnhme",
+     "name": "Abayineh Kasse",
+     "role": "author",
+     "romanized": "Abayineh Kasse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kbm8m33d",
+   "id": "wk_kbm8m33d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMetshaf Kidus Tinat BeOrthodox Tewahedo (Andegna Metshaf)",
+    "script": "Ethi",
+    "text": "የመጽሐፍ ቅዱስ ጥናት በኦርቶዶክስ ተዋሕዶ (አንደኛ መጽሐፍ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

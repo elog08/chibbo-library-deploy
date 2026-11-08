@@ -86,6 +86,19 @@ color:var(--faint);margin-right:.5rem}
 .note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
 margin:1.5rem 0;font-size:.9rem}
 .note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
 footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
 font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
 #q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
@@ -109,7 +122,7 @@ dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
     <a href="../search.html">Search</a>
   </nav>
 </header>
-<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../people/page-1.html"><span itemprop="name">Authors</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../person/pe_ezmnrs41.html"><span itemprop="name">Gebre Kristos Desta</span></a><meta itemprop="position" content="3"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">yegebrekerestos desta getmoch</span><meta itemprop="position" content="4"></li></ol></nav>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../poets/page-1.html"><span itemprop="name">Poets</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../person/pe_ezmnrs41.html"><span itemprop="name">Gebre Kristos Desta</span></a><meta itemprop="position" content="3"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">yegebrekerestos desta getmoch</span><meta itemprop="position" content="4"></li></ol></nav>
 <article>
 <p class="eyebrow">Book</p>
 <h1 class="am" lang="am">የገብረክርስቶስ ደስታ ግጥሞች</h1>
@@ -119,16 +132,19 @@ dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
   <div class="cover"><img src="../assets/covers/wk_1xxqnc3g.png" alt="Cover of yegebrekerestos desta getmoch"></div>
   <div>
     <dl class="meta">
-      <dt>Author</dt><dd><a href="../person/pe_ezmnrs41.html" class="am" lang="am">ገብረ ክርስቶስ ደስታ</a> <span style="color:var(--faint)">Gebre Kristos Desta</span> · <a href="../person/pe_0qnk9fq5.html" class="am" lang="am">አማረ ማሞ</a> <span style="color:var(--faint)">Amare Mamo</span> · <a href="../person/pe_tfjm9dtn.html" class="am" lang="am">አምሃ አስፋው</a> <span style="color:var(--faint)">Amha Asfaw</span></dd><dt>First published</dt><dd>2005-09-11/2006-09-10</dd><dt>Language</dt><dd>Amharic</dd><dt>Editions</dt><dd>1 edition</dd><dt>Identifiers</dt><dd><span class="provider">PDF_PAGEHASH</span>181e161a1b000000, 001b3f2f2f322300, 0427370b0c000000, 003b3b3030303800, 00333b3020303000</dd>
+      <dt>Author</dt><dd><a href="../person/pe_ezmnrs41.html" class="am" lang="am">ገብረ ክርስቶስ ደስታ</a> <span style="color:var(--faint)">Gebre Kristos Desta</span> · <a href="../person/pe_0qnk9fq5.html" class="am" lang="am">አማረ ማሞ</a> <span style="color:var(--faint)">Amare Mamo</span> · <a href="../person/pe_tfjm9dtn.html" class="am" lang="am">አምሃ አስፋው</a> <span style="color:var(--faint)">Amha Asfaw</span></dd><dt>Contents</dt><dd>8 works in this collection</dd><dt>First published</dt><dd>2005-09-11/2006-09-10</dd><dt>Language</dt><dd>Amharic</dd><dt>Form</dt><dd>Poetry</dd><dt>Themes</dt><dd><ul class="rail"><li><a href="../poetry/topic-faith-and-philosophy.html">Faith &amp; Reflections</a></li></ul></dd><dt>Editions</dt><dd>1 edition</dd><dt>Identifiers</dt><dd><span class="provider">PDF_PAGEHASH</span>181e161a1b000000, 001b3f2f2f322300, 0427370b0c000000, 003b3b3030303800, 00333b3020303000</dd>
     </dl>
     
     
     
   </div>
 </div>
+
+<h2>Contents</h2><ol class="toc-list"><li><span class="toc-num">01</span><a class="toc-title am" lang="am" href="../work/wk_3h2rbpbe.html">ምንድን ነሽ</a><span class="r">Mindin Nesh</span></li><li><span class="toc-num">02</span><a class="toc-title am" lang="am" href="../work/wk_p6pyax0a.html">የሳንባዎ ወና የልብ ጥፊሬ</a><span class="r">Yesanbawo Wena Yelib Tifire</span></li><li><span class="toc-num">03</span><a class="toc-title am" lang="am" href="../work/wk_r0br5tkr.html">ይሽ ጊዜ</a><span class="r">Yish Gize</span></li><li><span class="toc-num">04</span><a class="toc-title am" lang="am" href="../work/wk_mj3aweje.html">ሰዉ ነው የረፈቀ</a><span class="r">Sew New Yerefek&#x27;e</span></li><li><span class="toc-num">05</span><a class="toc-title am" lang="am" href="../work/wk_5kgvtrnn.html">አንተ ነህ መስከረም</a><span class="r">Ante Neh Meskerem</span></li><li><span class="toc-num">06</span><a class="toc-title am" lang="am" href="../work/wk_vckr9adx.html">ቀረሽ እንደቀህ</a><span class="r">Qeresh Indeqeh</span></li><li><span class="toc-num">07</span><a class="toc-title am" lang="am" href="../work/wk_v8vqxmnz.html">የዘንባባ የምርት ምስል</a><span class="r">Yezenbaba Yemirt Misl</span></li><li><span class="toc-num">08</span><a class="toc-title am" lang="am" href="../work/wk_w4a6c4v3.html">ኢ.ዮ.ሃ!</a><span class="r">I.Yo.Ha!</span></li></ol>
+
 </article>
 <footer>
-  <span>1608 books · 1267 authors and poets</span>
+  <span>5748 books · 3866 authors and poets</span>
   <span>Amharic titles with romanized search</span>
 </footer>
 </div></body></html>

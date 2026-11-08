@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "gmichalgmadhin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8r8wjnf6",
+ "id": "pe_8r8wjnf6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93332278",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93332278"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97016259",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97016259"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "G/Michael G/Medhin"
+  },
+  "romanized": "G/Michael G/Medhin",
+  "sort_key": "gmichaelgmedhin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=93332278"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8r8wjnf6",
+     "name": "G/Michael G/Medhin",
+     "role": "author",
+     "romanized": "G/Michael G/Medhin"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_g35k7cy3",
+   "id": "wk_g35k7cy3",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mahitot",
+    "script": "Ethi",
+    "text": "ማህቶት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8r8wjnf6",
+     "name": "G/Michael G/Medhin",
+     "role": "author",
+     "romanized": "G/Michael G/Medhin"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xy5asj9n",
+   "id": "wk_xy5asj9n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yezemen Kisitet (Meles Zenawina Adistua Ethiopia)",
+    "script": "Ethi",
+    "text": "የዘመን ክስተት (መለስ ዜናዊና አዲስት ኢትዮጵያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

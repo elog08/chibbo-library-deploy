@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "biruhalamnah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c562sadd",
+ "id": "pe_c562sadd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38384046",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38384046"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61909893",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61909893"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Biruh Alemneh"
+  },
+  "romanized": "Biruh Alemneh",
+  "sort_key": "biruhalemneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38384046"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c562sadd",
+     "name": "Biruh Alemneh",
+     "role": "author",
+     "romanized": "Biruh Alemneh"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6tgbe7y3",
+   "id": "wk_6tgbe7y3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Filsifina",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ፍልስፍና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_c562sadd",
+     "name": "Biruh Alemneh",
+     "role": "author",
+     "romanized": "Biruh Alemneh"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zebskrj9",
+   "id": "wk_zebskrj9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Filisifina 3 (YeOrthodocs Be/K Yewedefit Fetenawa Mindin New?",
+    "script": "Ethi",
+    "text": "ፍልስፍና ፫ (የኦርቶዶክስ ቤ/ክ የወደፊት ፈተናዋ ምንድን ነው?"
+   },
+   "type": "work"
+  }
+ ]
+}

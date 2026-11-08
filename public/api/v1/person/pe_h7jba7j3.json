@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "thomasmockaitis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h7jba7j3",
+ "id": "pe_h7jba7j3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23588814",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23588814"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Thomas Mockaitis"
+  },
+  "romanized": "Thomas Mockaitis",
+  "sort_key": "thomasmockaitis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23588814"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h7jba7j3",
+     "name": "Thomas Mockaitis",
+     "role": "author",
+     "romanized": "Thomas Mockaitis"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1t2yvpb0",
+   "id": "wk_1t2yvpb0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Osama Bin Laden - Biography",
+    "script": "Ethi",
+    "text": "ሰውዬው ማንነው?"
+   },
+   "type": "work"
+  }
+ ]
+}

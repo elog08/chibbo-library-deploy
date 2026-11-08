@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "kasisdramisalutafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g03xsfej",
+ "id": "pe_g03xsfej",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43437552",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43437552"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kesis Dr.Amisalu Tefera"
+  },
+  "romanized": "Kesis Dr.Amisalu Tefera",
+  "sort_key": "kesisdramisalutefera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43437552"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g03xsfej",
+     "name": "Kesis Dr.Amisalu Tefera",
+     "role": "author",
+     "romanized": "Kesis Dr.Amisalu Tefera"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_7xmyzqpr",
+   "id": "wk_7xmyzqpr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nek'a Tibeb (Ke600 Belay BeGe'ez Yetestafu YeEthiopia Metsihafit Zirzir Kemabraria Gar)",
+    "script": "Ethi",
+    "text": "ነቅዐ ጥበብ (ከ600 በላይ በግዕዝ የተጻፉ የኢትዮጵያ መጻሕፍት ዝርዝር ከማብራሪያ ጋር)"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

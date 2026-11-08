@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "atinafsagadyilma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_knz2cw2z",
+ "id": "pe_knz2cw2z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43329582",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43329582"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Atinaf Seged Yilma"
+  },
+  "romanized": "Atinaf Seged Yilma",
+  "sort_key": "atinafsegedyilma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43329582"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_knz2cw2z",
+     "name": "Atinaf Seged Yilma",
+     "role": "author",
+     "romanized": "Atinaf Seged Yilma"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xda2pne8",
+   "id": "wk_xda2pne8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abeto Eyasu Anesasina Awedadeq",
+    "script": "Ethi",
+    "text": "አቤቶ ኢያሱ አነሳስና አወዳደቅ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

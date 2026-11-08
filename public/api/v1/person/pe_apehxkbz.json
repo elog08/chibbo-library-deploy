@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirangdamargia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_apehxkbz",
+ "id": "pe_apehxkbz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55045220",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55045220"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Engda Mergia"
+  },
+  "romanized": "Memihir Engda Mergia",
+  "sort_key": "memihirengdamergia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55045220"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_apehxkbz",
+     "name": "Memihir Engda Mergia",
+     "role": "author",
+     "romanized": "Memihir Engda Mergia"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_qy3eamvm",
+   "id": "wk_qy3eamvm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidusat Si'elat",
+    "script": "Ethi",
+    "text": "ቅዱሳት ሥዕላት"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

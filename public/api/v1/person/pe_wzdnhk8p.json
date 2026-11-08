@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "jhonman",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wzdnhk8p",
+ "id": "pe_wzdnhk8p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98774851",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98774851"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jhon Man"
+  },
+  "romanized": "Jhon Man",
+  "sort_key": "jhonman"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98774851"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wzdnhk8p",
+     "name": "Jhon Man",
+     "role": "author",
+     "romanized": "Jhon Man"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_snn610f9",
+   "id": "wk_snn610f9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeJanhoy Werk Mezez (The Lion's Share)",
+    "script": "Ethi",
+    "text": "የጃንሆይ ወርቅ መዘዝ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

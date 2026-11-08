@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "jamaspatarson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_96fcr9mq",
+ "id": "pe_96fcr9mq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01525482",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01525482"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "James Paterson"
+  },
+  "romanized": "James Paterson",
+  "sort_key": "jamespaterson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01525482"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_96fcr9mq",
+     "name": "James Paterson",
+     "role": "author",
+     "romanized": "James Paterson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cdytmtj1",
+   "id": "wk_cdytmtj1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSusan Masitawesha",
+    "script": "Ethi",
+    "text": "የሱዛን ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

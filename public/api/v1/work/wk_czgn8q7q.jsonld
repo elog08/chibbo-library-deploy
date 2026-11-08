@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_czgn8q7q",
+ "@type": "Book",
+ "alternateName": [
+  "Tinsae"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ትንሳኤ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "23.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18632236"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18632236"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2kntbtvk",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "romanprochazika",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dwwjrd1d",
+ "id": "pe_dwwjrd1d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96580163",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96580163"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Roman Prochazika"
+  },
+  "romanized": "Roman Prochazika",
+  "sort_key": "romanprochazika"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96580163"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dwwjrd1d",
+     "name": "Roman Prochazika",
+     "role": "author",
+     "romanized": "Roman Prochazika"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v9bpnmzk",
+   "id": "wk_v9bpnmzk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia Yebabur Bermel",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ የባቡር በርሜል"
+   },
+   "type": "work"
+  }
+ ]
+}

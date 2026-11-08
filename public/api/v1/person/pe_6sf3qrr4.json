@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "dacontadalasisay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6sf3qrr4",
+ "id": "pe_6sf3qrr4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02018833",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02018833"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72623508",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72623508"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Tadele Sisay"
+  },
+  "romanized": "Deacon Tadele Sisay",
+  "sort_key": "deacontadelesisay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02018833"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6sf3qrr4",
+     "name": "Deacon Tadele Sisay",
+     "role": "author",
+     "romanized": "Deacon Tadele Sisay"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_1e9cs2cy",
+   "id": "wk_1e9cs2cy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bereketin Yegefu Ejoch Ena Leloch",
+    "script": "Ethi",
+    "text": "በረከትን የገፉ እጆች እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6sf3qrr4",
+     "name": "Deacon Tadele Sisay",
+     "role": "author",
+     "romanized": "Deacon Tadele Sisay"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vvtk1ft9",
+   "id": "wk_vvtk1ft9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be'Ente Tsom",
+    "script": "Ethi",
+    "text": "በእንተ ጾም"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

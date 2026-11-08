@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "patrostojaprof",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3nzrhped",
+ "id": "pe_3nzrhped",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79888289",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79888289"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Petros Toja (Prof.)"
+  },
+  "romanized": "Petros Toja (Prof.)",
+  "sort_key": "petrostojaprof"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79888289"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3nzrhped",
+     "name": "Petros Toja (Prof.)",
+     "role": "author",
+     "romanized": "Petros Toja (Prof.)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n7m3hnmp",
+   "id": "wk_n7m3hnmp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yechid Esat (Kosasilew Yeterefu Tizitwoch)",
+    "script": "Ethi",
+    "text": "የጭድ እሳት (ቆሳስለው የተረፉ ትዝታዎች)"
+   },
+   "type": "work"
+  }
+ ]
+}

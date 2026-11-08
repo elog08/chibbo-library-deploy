@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_teba2akz",
+ "@type": "Book",
+ "alternateName": [
+  "Don Quixote"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6qefygz3",
+   "@type": "Person",
+   "name": "Miguel De Servanteis Saovedra"
+  }
+ ],
+ "datePublished": "1985?",
+ "inLanguage": "am",
+ "name": "ዶን ኪሾት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "19.58",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=52094079"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Kuraz Publishing Enterprise"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=52094079"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zh96w5rt",
+   "@type": "Book"
+  }
+ ]
+}

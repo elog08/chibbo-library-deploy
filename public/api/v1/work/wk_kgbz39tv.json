@@ -18,7 +18,8 @@
   "text": "Gefuan ግፉዓን by Yismake Worku . Addis Books!"
  },
  "editions": [
-  "ed_ttjn1pw0"
+  "ed_ttjn1pw0",
+  "ed_sama3nz4"
  ],
  "extensions": {},
  "fingerprint": "ግፉአን|yismakaworku",
@@ -40,6 +41,9 @@
   ],
   "isbn13": [
    "9781916218628"
+  ],
+  "mereb_mpid": [
+   "17698771"
   ]
  },
  "language": "am",
@@ -69,6 +73,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.amazon.com/dp/B0DZS4HKF3"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17698771",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17698771"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "10.99",
+   "provider": "mereb",
+   "ref": "17698771",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17698771"
   }
  ],
  "locked_fields": [],
@@ -79,6 +101,7 @@
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/gefuan-by-yismake-worku/"
  },
+ "publisher_name": "Yismake Worku",
  "relations": [],
  "rights": {
   "shippable": false,

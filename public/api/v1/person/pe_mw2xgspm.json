@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "zawdiarata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mw2xgspm",
+ "id": "pe_mw2xgspm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70321673",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70321673"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zewdie Reta"
+  },
+  "romanized": "Zewdie Reta",
+  "sort_key": "zewdiereta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70321673"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mw2xgspm",
+     "name": "Zewdie Reta",
+     "role": "author",
+     "romanized": "Zewdie Reta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_23pe5hj0",
+   "id": "wk_23pe5hj0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKedamawi Hailesilase Mengsit 1gna Metshaf 1930-1955 G.C",
+    "script": "Ethi",
+    "text": "የቀዳማዊ ኃይለሥላሴ መንግሥት ፩ኛ መጽሐፍ ፲፱፻፳፫-፲፱፻፵፰"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

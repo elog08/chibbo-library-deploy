@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hyn5znyg",
+ "@type": "Book",
+ "alternateName": [
+  "Negere Mariam"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_72tq25z8",
+   "@type": "Person",
+   "name": "Kesis Eshetu Tadese"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_1dpbwvyw",
+   "@type": "Person",
+   "name": "Like Tebebit Haregeweyin Hageze"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ነገረ ማርያም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=63971053"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=63971053"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_cy5hf27s",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "victorhugo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8pfh1y1w",
+ "id": "pe_8pfh1y1w",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87284472",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87284472"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98765249",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98765249"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Victor Hugo"
+  },
+  "romanized": "Victor Hugo",
+  "sort_key": "victorhugo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87284472"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8pfh1y1w",
+     "name": "Victor Hugo",
+     "role": "author",
+     "romanized": "Victor Hugo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cnay49ct",
+   "id": "wk_cnay49ct",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mekeregnoch",
+    "script": "Ethi",
+    "text": "መከረኞች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8pfh1y1w",
+     "name": "Victor Hugo",
+     "role": "author",
+     "romanized": "Victor Hugo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_eecd4kdn",
+   "id": "wk_eecd4kdn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Minduban (Le Mesi'rebles)",
+    "script": "Ethi",
+    "text": "ምንዱባን"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

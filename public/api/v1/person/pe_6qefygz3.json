@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "migualdasarvantaisaovadra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6qefygz3",
+ "id": "pe_6qefygz3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12631147",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12631147"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52094079",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52094079"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Miguel De Servanteis Saovedra"
+  },
+  "romanized": "Miguel De Servanteis Saovedra",
+  "sort_key": "migueldeservanteissaovedra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12631147"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6qefygz3",
+     "name": "Miguel De Servanteis Saovedra",
+     "role": "author",
+     "romanized": "Miguel De Servanteis Saovedra"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1986?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rsppyp20",
+   "id": "wk_rsppyp20",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Don Quixote",
+    "script": "Ethi",
+    "text": "ዶን ኪኾቴ"
+   },
+   "type": "work",
+   "year": 1986
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6qefygz3",
+     "name": "Miguel De Servanteis Saovedra",
+     "role": "author",
+     "romanized": "Miguel De Servanteis Saovedra"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_teba2akz",
+   "id": "wk_teba2akz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Don Quixote",
+    "script": "Ethi",
+    "text": "ዶን ኪሾት"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

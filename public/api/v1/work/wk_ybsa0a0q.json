@@ -15,7 +15,14 @@
  "editions": [
   "ed_zgxqyjw3"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "nature"
+   ]
+  }
+ },
  "fingerprint": "የማለዳድባብ|bawqatusayum",
  "first_published": {
   "edtf": "2016-09-11/2017-09-10",
@@ -27,7 +34,7 @@
  "flags": [
   "llm-extracted"
  ],
- "form": "የግጥም መድበል",
+ "form": "poetry",
  "href": "https://chibbo.app/work/wk_ybsa0a0q",
  "id": "wk_ybsa0a0q",
  "identifiers": {
@@ -47,6 +54,50 @@
   "Read from PDF front matter: የማለዳ_ድባብ_ገጣሚደራሲ_በዕውቀቱ_ሥዩም.PDF",
   "Also held as PDF: የማለዳ ድባብ በእውቀቱ ስዩም.PDF",
   "Also held as PDF: የአማረኛ ፊደልና ቁጥር መማርያ.pdf"
+ ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_2chgaz13",
+   "id": "wk_2chgaz13",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ybsa0a0q",
+    "id": "wk_ybsa0a0q",
+    "title": {
+     "lang": "am",
+     "romanized": "yemaleda debab",
+     "script": "Ethi",
+     "text": "የማለዳ ድባብ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "nature",
+    "country-and-history"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemaleda Dibab",
+    "script": "Ethi",
+    "text": "የማለዳ ድባብ"
+   },
+   "type": "work"
+  }
+ ],
+ "poetry": true,
+ "poetry_tags": [
+  "nature"
  ],
  "provenance": {
   "raw_sha256": "d9df096f86e4e2f7791e3370cac3e072211a471a10bec37a5955bfa4dedb3b28",

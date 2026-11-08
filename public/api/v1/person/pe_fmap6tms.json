@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "askadimastsahayu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fmap6tms",
+ "id": "pe_fmap6tms",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36942743",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36942743"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eskadimas Tsehayu"
+  },
+  "romanized": "Eskadimas Tsehayu",
+  "sort_key": "eskadimastsehayu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36942743"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fmap6tms",
+     "name": "Eskadimas Tsehayu",
+     "role": "author",
+     "romanized": "Eskadimas Tsehayu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2q0fahym",
+   "id": "wk_2q0fahym",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeInsurance Kubaniya Hig ena Leloch Teyayaz Gudayoch",
+    "script": "Ethi",
+    "text": "የኢንሹራንስ ኩባንያ ሕግ እና ሌሎች ተያያዥ ጉዳዮች"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

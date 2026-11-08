@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "writarsforathiopianchildran",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g0bx662x",
+ "id": "pe_g0bx662x",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20496547",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20496547"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41534990",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41534990"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Writers for Ethiopian Children"
+  },
+  "romanized": "Writers for Ethiopian Children",
+  "sort_key": "writersforethiopianchildren"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20496547"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g0bx662x",
+     "name": "Writers for Ethiopian Children",
+     "role": "author",
+     "romanized": "Writers for Ethiopian Children"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k42xs96w",
+   "id": "wk_k42xs96w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Azuregn (Stories for Children)",
+    "script": "Ethi",
+    "text": "አዙረኝ (ተረቶች ለሕፃናት)"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sy3xrtd9",
+     "name": "Yihenew Worku",
+     "role": "author",
+     "romanized": "Yihenew Worku"
+    },
+    {
+     "id": "pe_aknkvda6",
+     "name": "Alula Pankhurst",
+     "role": "author",
+     "romanized": "Alula Pankhurst"
+    },
+    {
+     "id": "pe_n2d36786",
+     "name": "Samuel Lijalem",
+     "role": "author",
+     "romanized": "Samuel Lijalem"
+    },
+    {
+     "id": "pe_adaa38zz",
+     "name": "Helen Papworth",
+     "role": "author",
+     "romanized": "Helen Papworth"
+    },
+    {
+     "id": "pe_dr9rrjes",
+     "name": "Tesfaye Gebre Mariam",
+     "role": "author",
+     "romanized": "Tesfaye Gebre Mariam"
+    },
+    {
+     "id": "pe_n2qcn22v",
+     "name": "Michael Daniel Ambatchew",
+     "role": "author",
+     "romanized": "Michael Daniel Ambatchew"
+    },
+    {
+     "id": "pe_g0bx662x",
+     "name": "Writers for Ethiopian Children",
+     "role": "author",
+     "romanized": "Writers for Ethiopian Children"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ydwf4s13",
+   "id": "wk_ydwf4s13",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Atazuregne (Stories for Children)",
+    "script": "Ethi",
+    "text": "አታዙረኝ (ተረቶች ለሕፃናት)"
+   },
+   "type": "work"
+  }
+ ]
+}

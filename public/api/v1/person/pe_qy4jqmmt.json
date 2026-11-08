@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhadisandualamtabikaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qy4jqmmt",
+ "id": "pe_qy4jqmmt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34214797",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34214797"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97570991",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97570991"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hadis Andualem Tebikew"
+  },
+  "romanized": "Memihir Hadis Andualem Tebikew",
+  "sort_key": "memihirhadisandualemtebikew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=34214797"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qy4jqmmt",
+     "name": "Memihir Hadis Andualem Tebikew",
+     "role": "author",
+     "romanized": "Memihir Hadis Andualem Tebikew"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_hzckcthp",
+   "id": "wk_hzckcthp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWidase Maryamina Kidase Mariyam Minchina Anidemita Tirguame",
+    "script": "Ethi",
+    "text": "የውዳሴ ማርያምና ቅዳሴ ማርያም ምንጭና አንደምታ ትርጛሜ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qy4jqmmt",
+     "name": "Memihir Hadis Andualem Tebikew",
+     "role": "author",
+     "romanized": "Memihir Hadis Andualem Tebikew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jj7hwnrf",
+   "id": "wk_jj7hwnrf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Anigare Likawint",
+    "script": "Ethi",
+    "text": "አንጋረ ሊቃውንት"
+   },
+   "type": "work"
+  }
+ ]
+}

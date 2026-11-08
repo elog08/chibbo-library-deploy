@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k4en56an",
+ "@type": "Book",
+ "alternateName": [
+  "Hikimina bebetachin (Yebet Wist Bahlawi Hikimina Betefetro Medihanit)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qs9x2rzb",
+   "@type": "Person",
+   "name": "Bekelech Tola"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994481101",
+ "name": "ሕክምና በቤታችን (የቤት ውስጥ ባህላዊ ሕክምና በተፈጥሮ መድሐኒት)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=45265668"
+  },
+  {
+   "@type": "Offer",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=47107436"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=45265668",
+  "https://www.mereb.shop/rs/?mpid=47107436"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_d4jht3dr",
+   "@type": "Book"
+  }
+ ]
+}

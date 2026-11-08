@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "antanahyigizaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8hvsxjbp",
+ "id": "pe_8hvsxjbp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79380934",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79380934"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90140799",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90140799"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Anteneh Yigizaw"
+  },
+  "romanized": "Anteneh Yigizaw",
+  "sort_key": "antenehyigizaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79380934"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8hvsxjbp",
+     "name": "Anteneh Yigizaw",
+     "role": "author",
+     "romanized": "Anteneh Yigizaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0yxz0rb7",
+   "id": "wk_0yxz0rb7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMayseberew Ermias Amelga",
+    "script": "Ethi",
+    "text": "የማይሰበረው ኤርሚያስ አመልጋ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8hvsxjbp",
+     "name": "Anteneh Yigizaw",
+     "role": "author",
+     "romanized": "Anteneh Yigizaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_c1gb7vh8",
+   "id": "wk_c1gb7vh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Baburu Simeta Na Leloch Achachir Libweledoch",
+    "script": "Ethi",
+    "text": "ባቡሩ ሲመጣና ሌሎችም አጫጭር ልብወለዶች"
+   },
+   "type": "work"
+  }
+ ]
+}

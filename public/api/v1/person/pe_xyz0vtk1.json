@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "likakahinatumalisankasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xyz0vtk1",
+ "id": "pe_xyz0vtk1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72624532",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72624532"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Like Kahinat T'ume Lisan Kassa"
+  },
+  "romanized": "Like Kahinat T'ume Lisan Kassa",
+  "sort_key": "likekahinattumelisankassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72624532"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xyz0vtk1",
+     "name": "Like Kahinat T'ume Lisan Kassa",
+     "role": "author",
+     "romanized": "Like Kahinat T'ume Lisan Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_r3xj32hg",
+   "id": "wk_r3xj32hg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaredina Zemaw",
+    "script": "Ethi",
+    "text": "ያሬድና ዜማው"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

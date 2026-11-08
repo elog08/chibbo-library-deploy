@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_f6bn0sr2",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k17mzxzb",
+   "@type": "Person",
+   "name": "Berehanu Gobena"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The gate of the hell",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "67.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=82527086"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=82527086"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fnw5gvng",
+   "@type": "Book"
+  }
+ ]
+}

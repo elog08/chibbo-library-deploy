@@ -1,0 +1,48 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4snbae1x",
+ "@type": "Book",
+ "alternateName": [
+  "Metshafe Birhan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_g4hv44vc",
+   "@type": "Person",
+   "name": "Father W/ Abreham"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_24h0rcv1",
+   "@type": "Person",
+   "name": "Father G/Egziabher"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መጽሐፈ ብርሃን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=42179255"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Father G/Egziabher (March 7 1994)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=42179255"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_by5jesk4",
+   "@type": "Book"
+  }
+ ]
+}

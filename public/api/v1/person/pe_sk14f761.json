@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "danialtakluradasistantprofasor",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sk14f761",
+ "id": "pe_sk14f761",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90282761",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90282761"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Teklu Reda (Assistant Professor)"
+  },
+  "romanized": "Daniel Teklu Reda (Assistant Professor)",
+  "sort_key": "danieltekluredaassistantprofessor"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90282761"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sk14f761",
+     "name": "Daniel Teklu Reda (Assistant Professor)",
+     "role": "author",
+     "romanized": "Daniel Teklu Reda (Assistant Professor)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3hdexw62",
+   "id": "wk_3hdexw62",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zebenawi Sewasw Kuankua Tigirigna",
+    "script": "Ethi",
+    "text": "ዘበናዊ ሰዋስው ቋንቋ ትግርኛ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1jvdym8a",
+ "@type": "Book",
+ "alternateName": [
+  "Yashemeku Ketemoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0ptvkyy4",
+   "@type": "Person",
+   "name": "Melkamu Tadesse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ያሸመቁ ከተሞች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=90803713"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=90803713"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_rqvd3m02",
+   "@type": "Book"
+  }
+ ]
+}

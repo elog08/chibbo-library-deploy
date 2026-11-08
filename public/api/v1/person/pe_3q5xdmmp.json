@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "tajra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3q5xdmmp",
+ "id": "pe_3q5xdmmp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80241911",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80241911"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91577354",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91577354"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tej Rae"
+  },
+  "romanized": "Tej Rae",
+  "sort_key": "tejrae"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80241911"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3q5xdmmp",
+     "name": "Tej Rae",
+     "role": "author",
+     "romanized": "Tej Rae"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_9ve0sxa0",
+   "id": "wk_9ve0sxa0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Beminab (Spaced)",
+    "script": "Ethi",
+    "text": "በምናብ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3q5xdmmp",
+     "name": "Tej Rae",
+     "role": "author",
+     "romanized": "Tej Rae"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_pzqpcwy0",
+   "id": "wk_pzqpcwy0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "SIRENS",
+    "script": "Ethi",
+    "text": "ሳይረንስ"
+   },
+   "type": "work"
+  }
+ ]
+}

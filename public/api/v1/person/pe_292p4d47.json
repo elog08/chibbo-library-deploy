@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "anidargachawtsiga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_292p4d47",
+ "id": "pe_292p4d47",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93309037",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93309037"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Anidargachew Tsige"
+  },
+  "romanized": "Anidargachew Tsige",
+  "sort_key": "anidargachewtsige"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=93309037"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_292p4d47",
+     "name": "Anidargachew Tsige",
+     "role": "author",
+     "romanized": "Anidargachew Tsige"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_nz251hp1",
+   "id": "wk_nz251hp1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tiwlid AyeDenager Egnam Eninager Volume I(Addis Ababa;Abiyotuna Ehapa (1877-1970)",
+    "script": "Ethi",
+    "text": "ትውልድ አይደናገር እኛም እንናገር ቅጽ ፩ (አዲስ አበባ አንድ ቤተሰብ አብዮቱ እና ኢህአፓ(1877-1970)"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

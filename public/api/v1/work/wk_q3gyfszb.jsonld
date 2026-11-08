@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_q3gyfszb",
+ "@type": "Book",
+ "alternateName": [
+  "Modern Cookery"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5t4n2b9v",
+   "@type": "Person",
+   "name": "Samuel Tefera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዘመናዊ የምግብ ዝግጅት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.23",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=61533585"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Aster Nega General Business PLC"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=61533585"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_a48dgy3f",
+   "@type": "Book"
+  }
+ ]
+}

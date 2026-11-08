@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cjz491gc",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sn53jw29",
+   "@type": "Person",
+   "name": "Megabi Addis G/mariam Eshete"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Sainthood Part I",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50405535"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50405535"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9s4jasd6",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_whqr0wzd",
+ "@type": "Book",
+ "alternateName": [
+  "Addis 1879 (Kutir 2)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5ghkz87k",
+   "@type": "Person",
+   "name": "Dagimay Nekatibeb"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አዲስ ፩፰፻፸፱ (ቁጥር ፪)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.93",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=19058448"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84259167"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=19058448",
+  "https://www.mereb.shop/rs/?mpid=84259167"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zcbjj153",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_evz6vsxr",
+   "@type": "Book"
+  }
+ ]
+}

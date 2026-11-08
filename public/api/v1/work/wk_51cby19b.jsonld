@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_51cby19b",
+ "@type": "Book",
+ "alternateName": [
+  "The Lion's Tail"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7mz6emv8",
+   "@type": "Person",
+   "name": "Jane Kurtz"
+  }
+ ],
+ "datePublished": "2006?",
+ "inLanguage": "am",
+ "name": "የአንበሳ ጭራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=93927779"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "EBCEF"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=93927779"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x26gx73z",
+   "@type": "Book"
+  }
+ ]
+}

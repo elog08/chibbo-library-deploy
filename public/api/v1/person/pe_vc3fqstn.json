@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "zalalamashatu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vc3fqstn",
+ "id": "pe_vc3fqstn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02639400",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02639400"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58202979",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58202979"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zelalem Eshetu"
+  },
+  "romanized": "Zelalem Eshetu",
+  "sort_key": "zelalemeshetu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02639400"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vc3fqstn",
+     "name": "Zelalem Eshetu",
+     "role": "author",
+     "romanized": "Zelalem Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8xv2tfj2",
+   "id": "wk_8xv2tfj2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gobezu Temari Ena Leloch Teretoch",
+    "script": "Ethi",
+    "text": "ጎበዙ ተማሪ እና ሌሎች ተረቶች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vc3fqstn",
+     "name": "Zelalem Eshetu",
+     "role": "author",
+     "romanized": "Zelalem Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pk24r07z",
+   "id": "wk_pk24r07z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Muzikegnawa dimet (Yelijoch Yegitim Medibil)",
+    "script": "Ethi",
+    "text": "ሙዚቀኛዋ ድመት (የልጆች የግጥም መድብል)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3vkmycez",
+ "@type": "Book",
+ "alternateName": [
+  "Sewochu"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5zsnn7pv",
+   "@type": "Person",
+   "name": "Mel'ake Tesema"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሰዎቹ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=63054812"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=63054812"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_011xq1f4",
+   "@type": "Book"
+  }
+ ]
+}

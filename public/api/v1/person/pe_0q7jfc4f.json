@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "fisahayazakasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0q7jfc4f",
+ "id": "pe_0q7jfc4f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32345203",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32345203"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94345480",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94345480"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fisseha Yaze Kasa"
+  },
+  "romanized": "Fisseha Yaze Kasa",
+  "sort_key": "fissehayazekasa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32345203"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0q7jfc4f",
+     "name": "Fisseha Yaze Kasa",
+     "role": "author",
+     "romanized": "Fisseha Yaze Kasa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4p9vp4s2",
+   "id": "wk_4p9vp4s2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesatinael goal Ethiopia!!!",
+    "script": "Ethi",
+    "text": "የሳጥናኤል ጎል ኢትዮጵያ!!!"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0q7jfc4f",
+     "name": "Fisseha Yaze Kasa",
+     "role": "author",
+     "romanized": "Fisseha Yaze Kasa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fdacj2jz",
+   "id": "wk_fdacj2jz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YE Ethiopia Ye Amist Shi Tarik(Ke Noah Eske E'hadeg)",
+    "script": "Ethi",
+    "text": "የኢትዮጲያ የአምስት ሺህ ታሪክ(ከኖህ እስከ ኢህአዴግ)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

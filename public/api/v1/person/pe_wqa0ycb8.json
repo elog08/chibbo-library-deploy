@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "asprofasorwondasontamirat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wqa0ycb8",
+ "id": "pe_wqa0ycb8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89024223",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89024223"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91094325",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91094325"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ass. professor Wondesson Tamirat"
+  },
+  "romanized": "Ass. professor Wondesson Tamirat",
+  "sort_key": "assprofessorwondessontamirat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=89024223"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wqa0ycb8",
+     "name": "Ass. professor Wondesson Tamirat",
+     "role": "author",
+     "romanized": "Ass. professor Wondesson Tamirat"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_bw01678y",
+   "id": "wk_bw01678y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinishu Tekulana Gimelu",
+    "script": "Ethi",
+    "text": "ትንሹ ተኩላና ግመሉ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_wqa0ycb8",
+     "name": "Ass. professor Wondesson Tamirat",
+     "role": "author",
+     "romanized": "Ass. professor Wondesson Tamirat"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_exk3n6wg",
+   "id": "wk_exk3n6wg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinshua Enbut Tsigereda",
+    "script": "Ethi",
+    "text": "ትንሿ እንቡጥ ጽጌሬድ"
+   },
+   "type": "work"
+  }
+ ]
+}

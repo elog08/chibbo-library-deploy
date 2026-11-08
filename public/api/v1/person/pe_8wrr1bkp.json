@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "robartkiyosaky",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8wrr1bkp",
+ "id": "pe_8wrr1bkp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37259526",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37259526"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert T. Kiyosaky"
+  },
+  "romanized": "Robert T. Kiyosaky",
+  "sort_key": "roberttkiyosaky"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37259526"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8wrr1bkp",
+     "name": "Robert T. Kiyosaky",
+     "role": "author",
+     "romanized": "Robert T. Kiyosaky"
+    },
+    {
+     "id": "pe_0bfj95kr",
+     "name": "Donald J Trump",
+     "role": "author",
+     "romanized": "Donald J Trump"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zshxe4zd",
+   "id": "wk_zshxe4zd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "WHY WE WANT YOU TO BE RICH (TWO MEN -ONE MESSAGE)",
+    "script": "Ethi",
+    "text": "የሀብት ምስጢር (ሁለት ሰዎች-አንድ መልዕክት)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

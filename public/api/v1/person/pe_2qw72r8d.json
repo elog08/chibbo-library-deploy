@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "sasanhadish",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2qw72r8d",
+ "id": "pe_2qw72r8d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80416988",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80416988"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sesen Hadish"
+  },
+  "romanized": "Sesen Hadish",
+  "sort_key": "sesenhadish"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80416988"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2qw72r8d",
+     "name": "Sesen Hadish",
+     "role": "author",
+     "romanized": "Sesen Hadish"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a9t7qwqn",
+   "id": "wk_a9t7qwqn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetsetitaw Chuhet",
+    "script": "Ethi",
+    "text": "የፀጥታው ጨኸት"
+   },
+   "type": "work"
+  }
+ ]
+}

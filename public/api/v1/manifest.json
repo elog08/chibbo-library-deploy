@@ -1,18 +1,18 @@
 {
  "api_version": "v1",
  "base_uri": "https://chibbo.app",
- "commit": "83a93da65c4204de2a048922e2ed34916ac838cd",
+ "commit": "d58dd3c7465afa0243916876d783dd510790b7ec",
  "counts": {
-  "editions": 1606,
-  "people": 1267,
-  "poetry": 68,
-  "poets": 59,
+  "editions": 5632,
+  "people": 3866,
+  "poetry": 192,
+  "poets": 71,
   "tombstones": 4,
-  "works": 1608
+  "works": 5748
  },
  "facets": {
   "availability": {
-   "buyable": 940
+   "buyable": 4942
   },
   "decade": {
    "1320s": 1,
@@ -20,18 +20,18 @@
    "1900s": 4,
    "1910s": 2,
    "1920s": 3,
-   "1930s": 6,
-   "1940s": 6,
-   "1950s": 17,
-   "1960s": 30,
-   "1970s": 19,
-   "1980s": 73,
-   "1990s": 72,
-   "2000s": 173,
+   "1930s": 7,
+   "1940s": 12,
+   "1950s": 40,
+   "1960s": 64,
+   "1970s": 42,
+   "1980s": 104,
+   "1990s": 135,
+   "2000s": 331,
    "200s": 1,
-   "2010s": 562,
-   "2020s": 179,
-   "undated": 459
+   "2010s": 1336,
+   "2020s": 319,
+   "undated": 3346
   },
   "format": {
    "audiobook": 52,
@@ -39,10 +39,11 @@
    "paperback": 154
   },
   "language": {
-   "am": 1475,
-   "en": 83,
-   "gez": 2,
-   "om": 42,
+   "am": 5407,
+   "en": 117,
+   "gez": 65,
+   "om": 43,
+   "ti": 110,
    "und": 6
   }
  },

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p1c3cx84",
+ "@type": "Book",
+ "alternateName": [
+  "Nekayod"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dvfmajxr",
+   "@type": "Person",
+   "name": "Tewodros Mezgebu"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994475797",
+ "name": "ነቃዮድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=10248111"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=10248111"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_r9erc96n",
+   "@type": "Book"
+  }
+ ]
+}

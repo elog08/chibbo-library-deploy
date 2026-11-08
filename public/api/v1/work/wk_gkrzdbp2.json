@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_6x1w0gym"
+  "ed_6x1w0gym",
+  "ed_4s6w7vb2"
  ],
  "extensions": {},
  "fingerprint": "መልክአስብሀት|alamayahugalagay",
@@ -35,7 +36,14 @@
  ],
  "href": "https://chibbo.app/work/wk_gkrzdbp2",
  "id": "wk_gkrzdbp2",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9789994498512"
+  ],
+  "mereb_mpid": [
+   "31029525"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -61,6 +69,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/melak-sebhat-alemayehu-gelagay"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31029525",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31029525"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "16.23",
+   "provider": "mereb",
+   "ref": "31029525",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31029525"
   }
  ],
  "locked_fields": [],
@@ -73,6 +99,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/melak-sebhat-alemayehu-gelagay"
  },
+ "publisher_name": "April 2013",
  "relations": [],
  "rights": {
   "shippable": false,

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drwdoylagantry",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8pvygevh",
+ "id": "pe_8pvygevh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36847960",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36847960"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.W.Doyle Gentry"
+  },
+  "romanized": "Dr.W.Doyle Gentry",
+  "sort_key": "drwdoylegentry"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36847960"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8pvygevh",
+     "name": "Dr.W.Doyle Gentry",
+     "role": "author",
+     "romanized": "Dr.W.Doyle Gentry"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2b7vk5mj",
+   "id": "wk_2b7vk5mj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Anger Management (Kuta Yetena Balanta)",
+    "script": "Ethi",
+    "text": "ቁጣ!የጤና ባላንጣ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

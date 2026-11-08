@@ -1,0 +1,144 @@
+{
+ "extensions": {},
+ "fingerprint": "zarihunasfaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vp4zkaz2",
+ "id": "pe_vp4zkaz2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31991519",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31991519"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52484623",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52484623"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73637545",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73637545"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zerihun Asfaw"
+  },
+  "romanized": "Zerihun Asfaw",
+  "sort_key": "zerihunasfaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31991519"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vp4zkaz2",
+     "name": "Zerihun Asfaw",
+     "role": "author",
+     "romanized": "Zerihun Asfaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1yk38v8v",
+   "id": "wk_1yk38v8v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye-Sene-Teshuf Meseretawyan",
+    "script": "Latn",
+    "text": "Ye-Sene-Teshuf Meseretawyan"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vp4zkaz2",
+     "name": "Zerihun Asfaw",
+     "role": "author",
+     "romanized": "Zerihun Asfaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_eb5knqnq",
+   "id": "wk_eb5knqnq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeBealu Girma Eske...Adam Reta (Sine Tsuhufawi Tehazibot)",
+    "script": "Ethi",
+    "text": "ከበአሉ ግርማ እስከ... አዳም ረታ (ስነ ጽሁፋዊ ተሐዝቦት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vp4zkaz2",
+     "name": "Zerihun Asfaw",
+     "role": "author",
+     "romanized": "Zerihun Asfaw"
+    },
+    {
+     "id": "pe_e7sxt14w",
+     "name": "Marco Bassi",
+     "role": "author",
+     "romanized": "Marco Bassi"
+    },
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vn90v90f",
+   "id": "wk_vn90v90f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXII No.2 (Decemeber 1999)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

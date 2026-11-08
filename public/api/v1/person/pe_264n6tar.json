@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "araqyihunbalaynah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_264n6tar",
+ "id": "pe_264n6tar",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03974659",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03974659"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87274599",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87274599"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ereqyihun Belayneh"
+  },
+  "romanized": "Ereqyihun Belayneh",
+  "sort_key": "ereqyihunbelayneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03974659"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_264n6tar",
+     "name": "Ereqyihun Belayneh",
+     "role": "author",
+     "romanized": "Ereqyihun Belayneh"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mmec76f0",
+   "id": "wk_mmec76f0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yegibts Kizet",
+    "script": "Ethi",
+    "text": "የግብፅ ቅዠት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_264n6tar",
+     "name": "Ereqyihun Belayneh",
+     "role": "author",
+     "romanized": "Ereqyihun Belayneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x4y54pqc",
+   "id": "wk_x4y54pqc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik(KeImam Ahmed eske Ate Tewodros)( Yaltenegeru,Yaltesemu,Yaltenebebu)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ (ከኢማም አሕመድ አስከ ዐጤ ቴዎድሮስ)(ያልተነገሩ ያልተሰሙ ያልተነበቡ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

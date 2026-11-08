@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vrdyjd9a",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vmc841qx",
+   "@type": "Person",
+   "name": "Fikeremarkos Desta"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Land of the Yellow Bull, An Ethnographic Novel",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=61129538"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=61129538"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0vaa3260",
+   "@type": "Book"
+  }
+ ]
+}

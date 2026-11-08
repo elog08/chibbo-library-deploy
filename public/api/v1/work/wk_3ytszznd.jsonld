@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3ytszznd",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_twg4k6k2",
+   "@type": "Person",
+   "name": "Gewayne"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tereten melesu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.06",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=22244879"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=22244879"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k0x2v0gn",
+   "@type": "Book"
+  }
+ ]
+}

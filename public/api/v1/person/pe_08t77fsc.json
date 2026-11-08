@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiraframakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_08t77fsc",
+ "id": "pe_08t77fsc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33856276",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33856276"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir efrem Mekonen"
+  },
+  "romanized": "Memihir efrem Mekonen",
+  "sort_key": "memihirefremmekonen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33856276"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_08t77fsc",
+     "name": "Memihir efrem Mekonen",
+     "role": "author",
+     "romanized": "Memihir efrem Mekonen"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_j0gn87b3",
+   "id": "wk_j0gn87b3",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Digua Zederese Kidus Yared Ethiopiyawi",
+    "script": "Ethi",
+    "text": "መጽሐፈ ድጓ ዘደረሰ ቅዱስ ያሬድ ኢትዮጵያዊ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "absaramara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wszf0qn5",
+ "id": "pe_wszf0qn5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47636492",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47636492"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Absera Amare"
+  },
+  "romanized": "Absera Amare",
+  "sort_key": "abseraamare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47636492"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wszf0qn5",
+     "name": "Absera Amare",
+     "role": "author",
+     "romanized": "Absera Amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_asx08g12",
+   "id": "wk_asx08g12",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asitewaywa Le'elt",
+    "script": "Ethi",
+    "text": "አስተዋይዋ ልዕልት"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

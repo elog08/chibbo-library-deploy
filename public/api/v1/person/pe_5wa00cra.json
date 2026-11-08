@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasatalasalvano",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5wa00cra",
+ "id": "pe_5wa00cra",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07915966",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07915966"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61312854",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61312854"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadese Tele Salvano"
+  },
+  "romanized": "Tadese Tele Salvano",
+  "sort_key": "tadesetelesalvano"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07915966"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5wa00cra",
+     "name": "Tadese Tele Salvano",
+     "role": "author",
+     "romanized": "Tadese Tele Salvano"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4vakwzzq",
+   "id": "wk_4vakwzzq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ay Mitsiwa! (Ertran KeEithiopia yenetele Tornet)",
+    "script": "Ethi",
+    "text": "አይ ምፅዋ!(ኤርትራን ከኢትዮጵያ የነጠለ ጦርነት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_5wa00cra",
+     "name": "Tadese Tele Salvano",
+     "role": "author",
+     "romanized": "Tadese Tele Salvano"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_acbn6e3s",
+   "id": "wk_acbn6e3s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDerg Anesasina (yeErtirana Tigray Enikokilish torinet)",
+    "script": "Ethi",
+    "text": "የደረግ አነሳስና (የኤርትራና ትግራይ እንቆቅልሽ ጦርነት)"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

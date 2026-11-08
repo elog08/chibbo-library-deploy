@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mazamargirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qcr6pmev",
+ "id": "pe_qcr6pmev",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53160559",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53160559"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mezemer Girma"
+  },
+  "romanized": "Mezemer Girma",
+  "sort_key": "mezemergirma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53160559"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qcr6pmev",
+     "name": "Mezemer Girma",
+     "role": "author",
+     "romanized": "Mezemer Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a2s42j41",
+   "id": "wk_a2s42j41",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bi'eregnaw Yemoja Lij",
+    "script": "Ethi",
+    "text": "ብዕረኛው የሞጃ ልጅ"
+   },
+   "type": "work"
+  }
+ ]
+}

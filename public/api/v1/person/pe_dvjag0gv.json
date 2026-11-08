@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "wiliamshakaspara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dvjag0gv",
+ "id": "pe_dvjag0gv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65323328",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65323328"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "William Shakespeare"
+  },
+  "romanized": "William Shakespeare",
+  "sort_key": "williamshakespeare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65323328"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dvjag0gv",
+     "name": "William Shakespeare",
+     "role": "author",
+     "romanized": "William Shakespeare"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pyy5yfb9",
+   "id": "wk_pyy5yfb9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Fetsamew Syamer",
+    "script": "Latn",
+    "text": "Fetsamew Syamer"
+   },
+   "type": "work"
+  }
+ ]
+}

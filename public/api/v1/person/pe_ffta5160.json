@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "yilmadarasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ffta5160",
+ "id": "pe_ffta5160",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50597623",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50597623"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66512958",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66512958"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yilma Deresa"
+  },
+  "romanized": "Yilma Deresa",
+  "sort_key": "yilmaderesa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50597623"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ffta5160",
+     "name": "Yilma Deresa",
+     "role": "author",
+     "romanized": "Yilma Deresa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vvj6rwa8",
+   "id": "wk_vvj6rwa8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik (BeAsira Sidistegnaw Kifle Zemen)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ (በአሥራ ስድስተኛው ክፍለ ዘመን)"
+   },
+   "type": "work"
+  }
+ ]
+}

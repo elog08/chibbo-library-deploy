@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "draynalamabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vra1j3ry",
+ "id": "pe_vra1j3ry",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38897814",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38897814"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Aynalem Abreha"
+  },
+  "romanized": "Dr.Aynalem Abreha",
+  "sort_key": "draynalemabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38897814"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vra1j3ry",
+     "name": "Dr.Aynalem Abreha",
+     "role": "author",
+     "romanized": "Dr.Aynalem Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_afqyanf2",
+   "id": "wk_afqyanf2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Cancer (Min,Endet, Keyet Wede Yet)",
+    "script": "Ethi",
+    "text": "ካንሰር (ምን እንዴት ከየት ወደ የት?)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "yitatakunaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_44sb3zfy",
+ "id": "pe_44sb3zfy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03442779",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03442779"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60807865",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60807865"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yitateku Nega"
+  },
+  "romanized": "Yitateku Nega",
+  "sort_key": "yitatekunega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03442779"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_44sb3zfy",
+     "name": "Yitateku Nega",
+     "role": "author",
+     "romanized": "Yitateku Nega"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nh2g849n",
+   "id": "wk_nh2g849n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kukuluna Lelochim",
+    "script": "Ethi",
+    "text": "ኩኩሉና ሌሎችም"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_44sb3zfy",
+     "name": "Yitateku Nega",
+     "role": "author",
+     "romanized": "Yitateku Nega"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nmytknza",
+   "id": "wk_nmytknza",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lame Bora",
+    "script": "Ethi",
+    "text": "ላሜ ቦራ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

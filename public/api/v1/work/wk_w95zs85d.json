@@ -18,7 +18,8 @@
   "text": "ስብሐት ገብረእግዚአብሔር ሕይወትና ክህሎት በዓለማየሁ ገላጋይ The life of Sebhat Gebre-Egziabher and his skills book by Alemayehu Gelagay &amp;nbsp; የዓለማየሁ ገላጋይ ሥራዎች: \"ስብሐት ገብረእግዚአብሔር ሕይወትና ክህሎት\" \"ቅበላ\" \"የብርሃን ፈለጎች\" \"ኢህአዴግን እከሳለሁ\" \"ኩርቢት\" \"ወሪሳ\" \"አጥቢያ\" \"የፍልስፍና አፅናፍ\" \"በፍቅር ስም\" \"መለያየት ሞት ነው\" \"በእውነት ስም (ታለ)\" \"ውልብታ\" \"በእምነት ሥም(ሐሰተኛው)\" \"የተጠላው እንዳልተጠላ\" \"ቤባኒያ (ዕውነት ሐሰት)\" \"ማዕበል ጠሪ ወፍ\" የተሰኙ ልቦለድና ኢልቦለድ መፃሕፍት ለአንባቢያን አበርክቷል ከዚህ በተጨማሪም \"መልክዓ–ስብሐት\" በተሰኘው መጽሐፍ 27 ጸሐፊያን ደራሲያን ገጣሚያንና ሰዓሊያን አሳትፎ በማሰናዳት ለአንባብያን አድርሷል"
  },
  "editions": [
-  "ed_afbcg08k"
+  "ed_afbcg08k",
+  "ed_ks6t4g42"
  ],
  "extensions": {},
  "fingerprint": "ስብሀትገብረእግዚአብሄርህይወትናክህሎት|alamayahugalagay",
@@ -28,6 +29,9 @@
  "identifiers": {
   "addisbooks_sku": [
    "Alemayehu Gelagay books 2"
+  ],
+  "mereb_mpid": [
+   "90189860"
   ]
  },
  "language": "am",
@@ -49,6 +53,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://addisbooks.com/book/the-life-of-sebhat-gebre-egziabher/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90189860",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90189860"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "9.28",
+   "provider": "mereb",
+   "ref": "90189860",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90189860"
   }
  ],
  "locked_fields": [],
@@ -59,6 +81,7 @@
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/the-life-of-sebhat-gebre-egziabher/"
  },
+ "publisher_name": "Alemayehu Gelagay (March 2012 (Second Edition))",
  "relations": [],
  "rights": {
   "shippable": false,

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c14bpds1",
+ "@type": "Book",
+ "alternateName": [
+  "Moged"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_h3r69v7x",
+   "@type": "Person",
+   "name": "Erving Wallace"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሞገድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.22",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=67590727"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=67590727"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_w9ww1ae9",
+   "@type": "Book"
+  }
+ ]
+}

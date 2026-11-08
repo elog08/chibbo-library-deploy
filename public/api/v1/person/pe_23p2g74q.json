@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "fitawarariamadalama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_23p2g74q",
+ "id": "pe_23p2g74q",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88592460",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88592460"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fitawerari Amedae Lema"
+  },
+  "romanized": "Fitawerari Amedae Lema",
+  "sort_key": "fitawerariamedaelema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88592460"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_23p2g74q",
+     "name": "Fitawerari Amedae Lema",
+     "role": "author",
+     "romanized": "Fitawerari Amedae Lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_888qvz5m",
+   "id": "wk_888qvz5m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHiwote Tarike (FitAwerari Amede Lema keMegabit 1913- Miyazia 2001)",
+    "script": "Ethi",
+    "text": "የሕይወት ታሪኬ (ፊታውራሪ አመዴ ለማ ከመጋቢት 1913- ሚያዚያ 2001)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

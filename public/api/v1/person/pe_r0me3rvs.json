@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mindaralawzawdia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_r0me3rvs",
+ "id": "pe_r0me3rvs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04350451",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04350451"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66541397",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66541397"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mindaralew Zewdie"
+  },
+  "romanized": "Mindaralew Zewdie",
+  "sort_key": "mindaralewzewdie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04350451"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_r0me3rvs",
+     "name": "Mindaralew Zewdie",
+     "role": "author",
+     "romanized": "Mindaralew Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0nwz0c9r",
+   "id": "wk_0nwz0c9r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesidar Sinkisar",
+    "script": "Ethi",
+    "text": "የስናዳር ስንክሳር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_r0me3rvs",
+     "name": "Mindaralew Zewdie",
+     "role": "author",
+     "romanized": "Mindaralew Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fsgy6y3n",
+   "id": "wk_fsgy6y3n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Afun Zegto chuhet",
+    "script": "Ethi",
+    "text": "አፉን ዘግቶ ጩኽት"
+   },
+   "type": "work"
+  }
+ ]
+}

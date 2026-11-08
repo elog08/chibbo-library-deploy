@@ -1,0 +1,41 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_d1ja6npc",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_q2f4mvyt",
+   "@type": "Person",
+   "name": "Tequmast"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_wmmk7343",
+   "@type": "Person",
+   "name": "ዳዊት"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tebesa",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.63",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=03052126"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=03052126"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gmndt21z",
+   "@type": "Book"
+  }
+ ]
+}

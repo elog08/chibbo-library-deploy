@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "archbishopsamual",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hh07t9pv",
+ "id": "pe_hh07t9pv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19625734",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19625734"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Arch Bishop Samuel"
+  },
+  "romanized": "Arch Bishop Samuel",
+  "sort_key": "archbishopsamuel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19625734"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hh07t9pv",
+     "name": "Arch Bishop Samuel",
+     "role": "author",
+     "romanized": "Arch Bishop Samuel"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5y9gtp5t",
+   "id": "wk_5y9gtp5t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abatihin Teyik Yinegirihal?",
+    "script": "Ethi",
+    "text": "አባትህን ጠይቅ ይነግረኻል?"
+   },
+   "type": "work"
+  }
+ ]
+}

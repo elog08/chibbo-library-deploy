@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tsigaukubamichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w4406034",
+ "id": "pe_w4406034",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49749569",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49749569"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsige U'Kubamichael"
+  },
+  "romanized": "Tsige U'Kubamichael",
+  "sort_key": "tsigeukubamichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49749569"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w4406034",
+     "name": "Tsige U'Kubamichael",
+     "role": "author",
+     "romanized": "Tsige U'Kubamichael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zbj18rc9",
+   "id": "wk_zbj18rc9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeenat Guada (Yebahilawina YeWich Ager Migiboch Azegejajet) Huletegna Metshaf",
+    "script": "Ethi",
+    "text": "የእናት ጓዳ (የባህላዊና የውጭ አገር ምግቦች አዘገጃጀት)ሁለተኛ መጽሐፍ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

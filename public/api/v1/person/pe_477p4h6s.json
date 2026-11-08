@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "magabahadisibuhadamita",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_477p4h6s",
+ "id": "pe_477p4h6s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15136607",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15136607"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62662935",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62662935"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Megabe Hadis Sibuh Adamite"
+  },
+  "romanized": "Megabe Hadis Sibuh Adamite",
+  "sort_key": "megabehadissibuhadamite"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15136607"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_477p4h6s",
+     "name": "Megabe Hadis Sibuh Adamite",
+     "role": "author",
+     "romanized": "Megabe Hadis Sibuh Adamite"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w7dzqjqm",
+   "id": "wk_w7dzqjqm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeYohannes Wengel Tirgum /Mabrariya/",
+    "script": "Ethi",
+    "text": "የዮሐንስ ወንጌል ትርጉም /ማብራሪያ/"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_477p4h6s",
+     "name": "Megabe Hadis Sibuh Adamite",
+     "role": "author",
+     "romanized": "Megabe Hadis Sibuh Adamite"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ypeh0tw9",
+   "id": "wk_ypeh0tw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHawariyaw Yekidus Paulos Mele'ktat (KeEfeson Eske Ebrawiyan Tirguame/Mabrariya)",
+    "script": "Ethi",
+    "text": "የሐዋርያው የቅዱስ ጳውሎስ መልእክታት (ከኤፌሶን እስከ ዕብራውያን ትርጓሜ/ማብራሪያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

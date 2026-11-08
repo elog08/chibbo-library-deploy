@@ -1,0 +1,210 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasadmasu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tkbf97dx",
+ "id": "pe_tkbf97dx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59206552",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59206552"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yohenes admasu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Yohannes Admasu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዮሐንስ አድማሱ"
+  },
+  "romanized": "yohenes admasu",
+  "sort_key": "ዮሀንስአድማሱ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of 4_6016877336312423402.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59206552"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_c00x7vrp",
+   "id": "wk_c00x7vrp",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ftnfn2xa",
+    "id": "wk_ftnfn2xa",
+    "title": {
+     "lang": "am",
+     "romanized": "eski teteyequ",
+     "script": "Ethi",
+     "text": "እስኪ ተጠየቁ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "grief-and-mortality",
+    "faith-and-philosophy",
+    "social-critique"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mot lemot memotu",
+    "script": "Ethi",
+    "text": "ሞት ለሞት መሞቱ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ftnfn2xa.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ftnfn2xa.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1997-09-11/1998-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ftnfn2xa",
+   "id": "wk_ftnfn2xa",
+   "language": "am",
+   "part_count": 2,
+   "poetry": true,
+   "poetry_tags": [
+    "social-critique"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eski teteyequ",
+    "script": "Ethi",
+    "text": "እስኪ ተጠየቁ"
+   },
+   "type": "work",
+   "year": 1997
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wcf55awf",
+   "id": "wk_wcf55awf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kegn Geta Yoftahe Niguse (Achir YeHywetuna YeTsuhufu Tarik)",
+    "script": "Ethi",
+    "text": "ቅኝ ጌታ ዮፍታሄ ንጉሤ (አጭር የሕይወቱና የጽሑፉ ታሪክ)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_y3k7vqkr",
+   "id": "wk_y3k7vqkr",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ftnfn2xa",
+    "id": "wk_ftnfn2xa",
+    "title": {
+     "lang": "am",
+     "romanized": "eski teteyequ",
+     "script": "Ethi",
+     "text": "እስኪ ተጠየቁ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "grief-and-mortality",
+    "faith-and-philosophy",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eshkelekenta weyem yeenba sheleqo",
+    "script": "Ethi",
+    "text": "እሽከለኬንታ ወይም የእንባ ሸለቆ"
+   },
+   "type": "work"
+  }
+ ]
+}

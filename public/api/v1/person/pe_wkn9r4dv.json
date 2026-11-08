@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "catharinaclair",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wkn9r4dv",
+ "id": "pe_wkn9r4dv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31936732",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31936732"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Catherine Clair"
+  },
+  "romanized": "Catherine Clair",
+  "sort_key": "catherineclair"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31936732"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jgh5rjn3",
+     "name": "Catherine Clair Larson",
+     "role": "author",
+     "romanized": "Catherine Clair Larson"
+    },
+    {
+     "id": "pe_wkn9r4dv",
+     "name": "Catherine Clair",
+     "role": "author",
+     "romanized": "Catherine Clair"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jqv7gh7j",
+   "id": "wk_jqv7gh7j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yikirta",
+    "script": "Ethi",
+    "text": "ይቅርታ"
+   },
+   "type": "work"
+  }
+ ]
+}

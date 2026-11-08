@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bisratatlabachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gstj6brd",
+ "id": "pe_gstj6brd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97831441",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97831441"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bisrat Atlabachew"
+  },
+  "romanized": "Bisrat Atlabachew",
+  "sort_key": "bisratatlabachew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97831441"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gstj6brd",
+     "name": "Bisrat Atlabachew",
+     "role": "author",
+     "romanized": "Bisrat Atlabachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_agme7tev",
+   "id": "wk_agme7tev",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Operation Mekdela",
+    "script": "Ethi",
+    "text": "ኦፕሬሽን መቅደላ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

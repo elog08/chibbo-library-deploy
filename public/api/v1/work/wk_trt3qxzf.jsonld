@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_trt3qxzf",
+ "@type": "Book",
+ "alternateName": [
+  "Mezez"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3xmpd4nm",
+   "@type": "Person",
+   "name": "Irving Wallace"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መዘዝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=48191300"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=48191300"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jrj373ev",
+   "@type": "Book"
+  }
+ ]
+}

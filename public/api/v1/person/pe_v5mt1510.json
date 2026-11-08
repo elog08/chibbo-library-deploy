@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "solomonlamagamachu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v5mt1510",
+ "id": "pe_v5mt1510",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25146284",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25146284"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Lema Gemechu"
+  },
+  "romanized": "Solomon Lema Gemechu",
+  "sort_key": "solomonlemagemechu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25146284"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v5mt1510",
+     "name": "Solomon Lema Gemechu",
+     "role": "author",
+     "romanized": "Solomon Lema Gemechu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yy3ts40p",
+   "id": "wk_yy3ts40p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeJegna Werota KeAmbo eske Beledig (BeM/A Bekele Hywet zurya Yatenetene Ewnetegna Tarik",
+    "script": "Ethi",
+    "text": "የጀግና ወሮታ ከአምቦ እስከ በለዲግ በመ/አ በቀለ በላይ ሕይወት ዙሪያ ያጠነጠነ እውነተኛ ታሪክ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drdajazimachzawdiagsilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4gt618eb",
+ "id": "pe_4gt618eb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65800843",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65800843"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Dejazimach Zewdie G/Silase"
+  },
+  "romanized": "Dr.Dejazimach Zewdie G/Silase",
+  "sort_key": "drdejazimachzewdiegsilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65800843"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4gt618eb",
+     "name": "Dr.Dejazimach Zewdie G/Silase",
+     "role": "author",
+     "romanized": "Dr.Dejazimach Zewdie G/Silase"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zfgvy3p1",
+   "id": "wk_zfgvy3p1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia ena YeErtra Gichit Mens'e ena Meftihe",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ እና የኤርትራ ግጭት መንሥኤ እና መፍትሔ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

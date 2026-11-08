@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drtasfaysolomon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j5s1pdyw",
+ "id": "pe_j5s1pdyw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41558125",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41558125"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Tesfay Solomon"
+  },
+  "romanized": "Dr.Tesfay Solomon",
+  "sort_key": "drtesfaysolomon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41558125"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j5s1pdyw",
+     "name": "Dr.Tesfay Solomon",
+     "role": "author",
+     "romanized": "Dr.Tesfay Solomon"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f94srcxt",
+   "id": "wk_f94srcxt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hiwote Be Univeristy",
+    "script": "Ethi",
+    "text": "ህይወት በዩኒቨርሲቲ"
+   },
+   "type": "work"
+  }
+ ]
+}

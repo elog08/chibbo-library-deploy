@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "abahailagabrialgirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1bxwfpmx",
+ "id": "pe_1bxwfpmx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25543287",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25543287"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Haile Gebriel Girma"
+  },
+  "romanized": "Aba Haile Gebriel Girma",
+  "sort_key": "abahailegebrielgirma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25543287"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1bxwfpmx",
+     "name": "Aba Haile Gebriel Girma",
+     "role": "author",
+     "romanized": "Aba Haile Gebriel Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dxgcps9x",
+   "id": "wk_dxgcps9x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Faith and order in the church",
+    "script": "Latn",
+    "text": "Faith and order in the church"
+   },
+   "type": "work"
+  }
+ ]
+}

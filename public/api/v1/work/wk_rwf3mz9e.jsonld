@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rwf3mz9e",
+ "@type": "Book",
+ "alternateName": [
+  "Beyne Dicipilinawi YeSine Tsihuf Nibab"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2r8d9nsj",
+   "@type": "Person",
+   "name": "Tewodros Gebre"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994452200",
+ "name": "በይነ ዲሲፕሊናዊ የሥነ ጽሑፍ ንባብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=56962349"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Addis Ababa University Press"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=56962349"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_48b2w4j5",
+   "@type": "Book"
+  }
+ ]
+}

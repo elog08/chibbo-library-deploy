@@ -1,0 +1,126 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_eqyqm5nd",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የኛ ቚይን የአገር ነው እንጂ፥ በቅታት ባለና መግለጫ።\nአርቀን ማስተዋል ማለት፥ የሽንኅ ሥልጣኔ ድልድይ\nአገር ማማት ነው ብለዋል፥ አስተ እንግዲህ አገር አንድ!"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "country-and-history",
+    "nature"
+   ]
+  }
+ },
+ "fingerprint": "የኛቂይንየአገርነውእንጂበቅታትባለናመግለጫ|tsagayagabramadahan",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_3j1zg92t",
+ "id": "wk_3j1zg92t",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_jkwbag59 (እሳት ወይ አበባ), pp. 105–105 (abeba-1.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_jkwbag59.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jkwbag59.png"
+  },
+  "credits": [
+   {
+    "id": "pe_eqyqm5nd",
+    "name": "ጸጋዬ ገብረ መድኅን",
+    "role": "author",
+    "romanized": "tsegaye gebre medehen"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "2006-09-11/2007-09-11",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_jkwbag59",
+  "id": "wk_jkwbag59",
+  "language": "am",
+  "part_count": 5,
+  "poetry": true,
+  "poetry_tags": [
+   "nature",
+   "country-and-history",
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "esat wey abeba",
+   "script": "Ethi",
+   "text": "እሳት ወይ አበባ"
+  },
+  "type": "work",
+  "year": 2006
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "country-and-history",
+  "nature"
+ ],
+ "provenance": {
+  "raw_sha256": "4d8b9419c283152198adf4a908578420f613dbc546ecb308ae95f28e66cebc9a",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_jkwbag59"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yegna qin Yeager naw inji, beketat balena meglecha",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Our poetry belongs to the country...",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የኛ ቚይን የአገር ነው እንጂ በቅታት ባለና መግለጫ"
+  },
+  "romanized": "Yegna qin Yeager naw inji, beketat balena meglecha",
+  "sort_key": "የኛቂይንየአገርነውእንጂበቅታትባለናመግለጫ"
+ },
+ "type": "work"
+}

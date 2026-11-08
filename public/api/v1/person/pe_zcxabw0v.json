@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "hamatuma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zcxabw0v",
+ "id": "pe_zcxabw0v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70514008",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70514008"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hama Tuma"
+  },
+  "romanized": "Hama Tuma",
+  "sort_key": "hamatuma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70514008"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zcxabw0v",
+     "name": "Hama Tuma",
+     "role": "author",
+     "romanized": "Hama Tuma"
+    },
+    {
+     "id": "pe_vjkfgm0d",
+     "name": "Eyob Kassa",
+     "role": "author",
+     "romanized": "Eyob Kassa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mnjpfjb8",
+   "id": "wk_mnjpfjb8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Poletica befegageta & African besekelat",
+    "script": "Latn",
+    "text": "Poletica befegageta & African besekelat"
+   },
+   "type": "work"
+  }
+ ]
+}

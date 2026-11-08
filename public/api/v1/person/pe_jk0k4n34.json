@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tasamata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jk0k4n34",
+ "id": "pe_jk0k4n34",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49644564",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49644564"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesema Ta'a"
+  },
+  "romanized": "Tesema Ta'a",
+  "sort_key": "tesemataa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49644564"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jk0k4n34",
+     "name": "Tesema Ta'a",
+     "role": "author",
+     "romanized": "Tesema Ta'a"
+    },
+    {
+     "id": "pe_g38rn4m1",
+     "name": "Alessandro Triulzi",
+     "role": "author",
+     "romanized": "Alessandro Triulzi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5cggmtmd",
+   "id": "wk_5cggmtmd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yewelega Yetarik senedoch:- ke1880wochu esike 1920 wochu(A.E.C)",
+    "script": "Ethi",
+    "text": "የወለጋ የታሪክ ሰነዶች ከ1880ዎቹ እስከ 1920ዎቹ(እ.ኤ.አ)"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "fistumsalih",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ppb3dmgg",
+ "id": "pe_ppb3dmgg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02720438",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02720438"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fistum Salih"
+  },
+  "romanized": "Fistum Salih",
+  "sort_key": "fistumsalih"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02720438"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ppb3dmgg",
+     "name": "Fistum Salih",
+     "role": "author",
+     "romanized": "Fistum Salih"
+    },
+    {
+     "id": "pe_0v3an654",
+     "name": "Hadush Haile (Hanjima)",
+     "role": "author",
+     "romanized": "Hadush Haile (Hanjima)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mhch4w9k",
+   "id": "wk_mhch4w9k",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Akhiranat Zifentsewu Jeganu",
+    "script": "Ethi",
+    "text": "ኣኽራናት ዝፈንፅሑ ጀጋኑ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

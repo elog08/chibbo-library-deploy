@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abatasfasilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vwkfbv6c",
+ "id": "pe_vwkfbv6c",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80290571",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80290571"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Tesfa Silase"
+  },
+  "romanized": "Aba Tesfa Silase",
+  "sort_key": "abatesfasilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80290571"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vwkfbv6c",
+     "name": "Aba Tesfa Silase",
+     "role": "author",
+     "romanized": "Aba Tesfa Silase"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4xa5y4qc",
+   "id": "wk_4xa5y4qc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidus Markos Ethiopiyawi New(Yetewahido Anbesm Medhaniyalem Eyesus Kirstos New)",
+    "script": "Ethi",
+    "text": "ቅዱስ ማርቆስ ኢትዮጵያዊ ነው የተዋህዶ አንበሳም መድኃኒዓለም እየሱስ ክርስቶስ ነው"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

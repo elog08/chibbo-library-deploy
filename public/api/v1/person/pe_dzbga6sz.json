@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirsisaywogayahu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dzbga6sz",
+ "id": "pe_dzbga6sz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64874986",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64874986"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89211236",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89211236"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Sisay Wogayehu"
+  },
+  "romanized": "Memihir Sisay Wogayehu",
+  "sort_key": "memihirsisaywogayehu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64874986"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dzbga6sz",
+     "name": "Memihir Sisay Wogayehu",
+     "role": "author",
+     "romanized": "Memihir Sisay Wogayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4q4f265v",
+   "id": "wk_4q4f265v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zenahu Lemenfes Kidus",
+    "script": "Ethi",
+    "text": "ዜናሁ ለመንፈስ ቅዱስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dzbga6sz",
+     "name": "Memihir Sisay Wogayehu",
+     "role": "author",
+     "romanized": "Memihir Sisay Wogayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n0tv31fx",
+   "id": "wk_n0tv31fx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kenona (Sireate Bete Christian) Zeorthodoks Chiristina",
+    "script": "Ethi",
+    "text": "ቀኖና (ሥርዓተ ቤተ ክርስቲያን)ዘኦርቶዶክስ ክርስትና"
+   },
+   "type": "work"
+  }
+ ]
+}

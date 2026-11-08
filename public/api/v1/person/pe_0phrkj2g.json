@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_0phrkj2g",
  "id": "pe_0phrkj2g",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12870813",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12870813"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -70,6 +79,27 @@
    },
    "type": "work",
    "year": 2020
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0phrkj2g",
+     "name": "ቤተልሄም ታፈሰ",
+     "role": "author",
+     "romanized": "Betelhem Tafesse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_eq1sfbdc",
+   "id": "wk_eq1sfbdc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ene Ena Ye L Tv Mistroch",
+    "script": "Ethi",
+    "text": "እኔ እና የኤል ቲቪ ምሲጥሮች"
+   },
+   "type": "work"
   }
  ]
 }

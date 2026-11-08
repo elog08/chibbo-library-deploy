@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "ishmalbah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j93e4j64",
+ "id": "pe_j93e4j64",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70980802",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70980802"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ishmael Beah"
+  },
+  "romanized": "Ishmael Beah",
+  "sort_key": "ishmaelbeah"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70980802"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j93e4j64",
+     "name": "Ishmael Beah",
+     "role": "author",
+     "romanized": "Ishmael Beah"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_32aj3wz2",
+   "id": "wk_32aj3wz2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tadagiw Toregna (Ewnetegna Yetorinet Tarik)",
+    "script": "Ethi",
+    "text": "ታዳጊው ጦረኛ (እውነተኛ የጦርነት ታሪክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

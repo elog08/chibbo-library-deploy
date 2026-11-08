@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mcy7p14j",
+ "@type": "Book",
+ "alternateName": [
+  "Netsebirak"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_js9bg2c5",
+   "@type": "Person",
+   "name": "Lelisa Girma"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ነፀብራቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=21589228"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=21589228"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bae2wwnc",
+   "@type": "Book"
+  }
+ ]
+}

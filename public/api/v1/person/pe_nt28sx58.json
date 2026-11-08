@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "darajataklawaldamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nt28sx58",
+ "id": "pe_nt28sx58",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24188869",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24188869"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67303335",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67303335"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dereje Tekle Weldemariam"
+  },
+  "romanized": "Dereje Tekle Weldemariam",
+  "sort_key": "derejetekleweldemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24188869"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nt28sx58",
+     "name": "Dereje Tekle Weldemariam",
+     "role": "author",
+     "romanized": "Dereje Tekle Weldemariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_73r224c3",
+   "id": "wk_73r224c3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "460 Kenat BeMenbere Patriarch (Yaltekuachew Yemirmera Wtet)",
+    "script": "Ethi",
+    "text": "460 ቀናት በመንበረ ፓትሪያርክ (ያልተቋጨው የምርመራ ውጤት)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nt28sx58",
+     "name": "Dereje Tekle Weldemariam",
+     "role": "author",
+     "romanized": "Dereje Tekle Weldemariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hdht3796",
+   "id": "wk_hdht3796",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zewid Yaldefaw Nigus (Yelewit Hawariya)",
+    "script": "Ethi",
+    "text": "ዘውድ ያልደፋው ንጉሥ (የለውጥ ሐዋርያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

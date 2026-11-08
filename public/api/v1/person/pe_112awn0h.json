@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamhirmangstugab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_112awn0h",
+ "id": "pe_112awn0h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80551602",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80551602"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memhir Mengstu G/Ab"
+  },
+  "romanized": "Memhir Mengstu G/Ab",
+  "sort_key": "memhirmengstugab"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80551602"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_112awn0h",
+     "name": "Memhir Mengstu G/Ab",
+     "role": "author",
+     "romanized": "Memhir Mengstu G/Ab"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pn7w2aqy",
+   "id": "wk_pn7w2aqy",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Me'eraf Zekidus Yared",
+    "script": "Ethi",
+    "text": "ምዕራፍ ዘቅዱስ ያሬድ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_g6gm8tzy",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dv1r0grx",
+   "@type": "Person",
+   "name": "Asefa Bekele"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yaltabsu enbawouche",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.13",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50663492"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50663492"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tttrrh15",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_qze3pntv",
+ "@type": "Book",
+ "alternateName": [
+  "Kirmus"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ay3a25r1",
+   "@type": "Person",
+   "name": "Abreham Asfiha"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ክርሙስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=24440097"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=24440097"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jqawcx6f",
+   "@type": "Book"
+  }
+ ]
+}

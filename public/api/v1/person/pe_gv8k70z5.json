@@ -7,7 +7,24 @@
  "href": "https://chibbo.app/person/pe_gv8k70z5",
  "id": "pe_gv8k70z5",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07207505",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07207505"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66749236",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66749236"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -53,8 +70,16 @@
      "romanized": "tesfaye alene abate"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n26x01d4",
@@ -66,6 +91,28 @@
     "romanized": "yemenge weshmit ena lelochem web tarikoch",
     "script": "Ethi",
     "text": "የመንጌ ውሽሚት እና ሌሎችም ውብ ታሪኮች"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_gv8k70z5",
+     "name": "ተስፋዬ አለነ አባተ",
+     "role": "author",
+     "romanized": "tesfaye alene abate"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tx4c94z1",
+   "id": "wk_tx4c94z1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMist Mirikat Ena Lelochim Aguagi Tarikoch",
+    "script": "Ethi",
+    "text": "የሚስት ምርቃት እና ሌሎችም አጓጊ ታሪኮች"
    },
    "type": "work"
   }

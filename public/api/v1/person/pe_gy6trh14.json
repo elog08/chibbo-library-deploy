@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "nigusayalataka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gy6trh14",
+ "id": "pe_gy6trh14",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71068122",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71068122"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95850387",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95850387"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nigusse Ayele Teka"
+  },
+  "romanized": "Nigusse Ayele Teka",
+  "sort_key": "nigusseayeleteka"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=71068122"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gy6trh14",
+     "name": "Nigusse Ayele Teka",
+     "role": "author",
+     "romanized": "Nigusse Ayele Teka"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dchv9nfr",
+   "id": "wk_dchv9nfr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ozana Minilik (Talaku kibir)",
+    "script": "Ethi",
+    "text": "ኦዛና ምኒልክ (ታላቁ ክብር)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_gy6trh14",
+     "name": "Nigusse Ayele Teka",
+     "role": "author",
+     "romanized": "Nigusse Ayele Teka"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t5grfyp9",
+   "id": "wk_t5grfyp9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tikur Sew (Ethio America Zedagmawi Minilik)",
+    "script": "Ethi",
+    "text": "ጥቁር ሰው (ኢትዮ አሜሪካ ዘዳግማዊ ምኒልክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

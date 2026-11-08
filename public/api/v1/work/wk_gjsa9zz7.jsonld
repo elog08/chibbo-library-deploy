@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_gjsa9zz7",
+ "@type": "Book",
+ "alternateName": [
+  "Yehidasew Mehandis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_45ye2dy3",
+   "@type": "Person",
+   "name": "Dereje Yimer"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የሕዳሴው መሐንዲስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.23",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=88073499"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=88073499"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5kkf6evh",
+   "@type": "Book"
+  }
+ ]
+}

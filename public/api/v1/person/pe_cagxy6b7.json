@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "abunamusabishopofagypt",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cagxy6b7",
+ "id": "pe_cagxy6b7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21740985",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21740985"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abune Muse (Bishop of Egypt)"
+  },
+  "romanized": "Abune Muse (Bishop of Egypt)",
+  "sort_key": "abunemusebishopofegypt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21740985"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cagxy6b7",
+     "name": "Abune Muse (Bishop of Egypt)",
+     "role": "author",
+     "romanized": "Abune Muse (Bishop of Egypt)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_03hy9ncv",
+   "id": "wk_03hy9ncv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGabicha Chiristiyanawi Tirgum",
+    "script": "Ethi",
+    "text": "የጋብቻ ክርስቲያናዊ ትርጉም"
+   },
+   "type": "work"
+  }
+ ]
+}

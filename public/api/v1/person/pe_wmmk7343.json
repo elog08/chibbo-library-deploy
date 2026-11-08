@@ -1,0 +1,133 @@
+{
+ "extensions": {},
+ "fingerprint": "dawit",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wmmk7343",
+ "id": "pe_wmmk7343",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03052126",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03052126"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Dawit",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት"
+  },
+  "romanized": "dawit",
+  "sort_key": "ዳዊት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጠበሳ  በ ዳዊት እና ጥቁማስት.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03052126"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q2f4mvyt",
+     "name": "Tequmast",
+     "role": "author",
+     "romanized": "Tequmast"
+    },
+    {
+     "id": "pe_wmmk7343",
+     "name": "ዳዊት",
+     "role": "author",
+     "romanized": "dawit"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_d1ja6npc",
+   "id": "wk_d1ja6npc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Tebesa",
+    "script": "Latn",
+    "text": "Tebesa"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_fpb8z6xm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_fpb8z6xm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wmmk7343",
+     "name": "ዳዊት",
+     "role": "author",
+     "romanized": "dawit"
+    },
+    {
+     "id": "pe_n5ws4zhp",
+     "name": "ጥቁማስት",
+     "role": "author",
+     "romanized": "tequmaset"
+    },
+    {
+     "id": "pe_eaz8wfdd",
+     "name": "ብሩክ ዳመና",
+     "role": "author",
+     "romanized": "beruk damena"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2010-09-11/2011-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_fpb8z6xm",
+   "id": "wk_fpb8z6xm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tebesa",
+    "script": "Ethi",
+    "text": "ጠበሳ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

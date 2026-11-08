@@ -15,7 +15,14 @@
  "editions": [
   "ed_c3tk9c53"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "የግጥምጉባኤ|managastulama",
  "first_published": {
   "edtf": "1966-09-11/1967-09-11",
@@ -27,6 +34,7 @@
  "flags": [
   "llm-extracted"
  ],
+ "form": "poetry",
  "href": "https://chibbo.app/work/wk_t4mekwzy",
  "id": "wk_t4mekwzy",
  "identifiers": {
@@ -45,6 +53,158 @@
  "notes": [
   "Read from PDF front matter: የግጥም ጉባኤ  መንግሥቱ ለማ.pdf",
   "The year 1959 E.C. (፲፱፻፶፱ ዓ.ም.) is taken from the author's sign-off at the end of the introduction on page 5."
+ ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_v7gqhnrc",
+   "id": "wk_v7gqhnrc",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_t4mekwzy",
+    "id": "wk_t4mekwzy",
+    "title": {
+     "lang": "am",
+     "romanized": "yegetem gubae",
+     "script": "Ethi",
+     "text": "የግጥም ጉባኤ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "qine"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Manore",
+    "script": "Ethi",
+    "text": "ማኖሬ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_exst9atr",
+   "id": "wk_exst9atr",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_t4mekwzy",
+    "id": "wk_t4mekwzy",
+    "title": {
+     "lang": "am",
+     "romanized": "yegetem gubae",
+     "script": "Ethi",
+     "text": "የግጥም ጉባኤ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love",
+    "nature",
+    "qine"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gudegno Tsamawi",
+    "script": "Ethi",
+    "text": "ጉደኞ ጻማዊ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_435xea1c",
+   "id": "wk_435xea1c",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_t4mekwzy",
+    "id": "wk_t4mekwzy",
+    "title": {
+     "lang": "am",
+     "romanized": "yegetem gubae",
+     "script": "Ethi",
+     "text": "የግጥም ጉባኤ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bah Qa",
+    "script": "Ethi",
+    "text": "ባሕ ቃ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7t8990dd",
+     "name": "መንግሥቱ ለማ",
+     "role": "author",
+     "romanized": "menegestu lema"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_zw7mqtpk",
+   "id": "wk_zw7mqtpk",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_t4mekwzy",
+    "id": "wk_t4mekwzy",
+    "title": {
+     "lang": "am",
+     "romanized": "yegetem gubae",
+     "script": "Ethi",
+     "text": "የግጥም ጉባኤ"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mastawosha",
+    "script": "Ethi",
+    "text": "ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ],
+ "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
  ],
  "provenance": {
   "raw_sha256": "26b2e75c9d9dc288f2bf89f4d1376ca4d606a674d1a1bc2b7515e9e7d6c67735",

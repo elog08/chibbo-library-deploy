@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_frjebn7b",
+ "@type": "Book",
+ "alternateName": [
+  "Amde Ge'ez"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ckwh3ny8",
+   "@type": "Person",
+   "name": "Memihir Abiy Lebeza"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አምደ ግእዝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=09252669"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=09252669"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_brdnb8rs",
+   "@type": "Book"
+  }
+ ]
+}

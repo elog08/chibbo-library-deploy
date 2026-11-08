@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_g8kqf5hk"
+  "ed_g8kqf5hk",
+  "ed_12fx4xq2"
  ],
  "extensions": {},
  "fingerprint": "ሩጫናእንቅልፍ|makonanarada",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_fd9k9whc",
  "id": "wk_fd9k9whc",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "83388529"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -61,6 +66,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/ruchana-enkilf-mekonnnen-areda"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83388529",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83388529"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.15",
+   "provider": "mereb",
+   "ref": "83388529",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83388529"
   }
  ],
  "locked_fields": [],

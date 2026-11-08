@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "rakikdastagmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yrwt4zmx",
+ "id": "pe_yrwt4zmx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30330049",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30330049"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36213751",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36213751"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Rekik Desta G/Michael"
+  },
+  "romanized": "Rekik Desta G/Michael",
+  "sort_key": "rekikdestagmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30330049"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yrwt4zmx",
+     "name": "Rekik Desta G/Michael",
+     "role": "author",
+     "romanized": "Rekik Desta G/Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e1fy2cjk",
+   "id": "wk_e1fy2cjk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEnisisat Digis",
+    "script": "Ethi",
+    "text": "የእንስሳት ድግስ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yrwt4zmx",
+     "name": "Rekik Desta G/Michael",
+     "role": "author",
+     "romanized": "Rekik Desta G/Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zn9xbn48",
+   "id": "wk_zn9xbn48",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kaldina Fiyelochu (Asidesachun YeBuna Fire Endet Endagegnu)",
+    "script": "Ethi",
+    "text": "ካልዲና ፍየሎቹ (አስደሳቹን የቡና ፍሬ እንዴት እንዳገኙ)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

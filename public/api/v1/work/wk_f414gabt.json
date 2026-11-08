@@ -20,7 +20,14 @@
  "editions": [
   "ed_0k428r7x"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "ጣይቱበዚያችሰአት|asayiaslasanubazabah",
  "first_published": {
   "edtf": "2022-09-24",
@@ -75,6 +82,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

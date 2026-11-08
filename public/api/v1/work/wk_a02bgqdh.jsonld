@@ -29,15 +29,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yezewug-politica-meskerem-abera"
+  },
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=25224699"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/yezewug-politica-meskerem-abera"
+  "https://www.ethiobookreview.com/book/yezewug-politica-meskerem-abera",
+  "https://www.mereb.shop/rs/?mpid=25224699"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_f1hkw770",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_a8z172v9",
    "@type": "Book"
   }
  ]

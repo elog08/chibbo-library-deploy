@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "afalikaklilugchiristos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pmxhqspe",
+ "id": "pe_pmxhqspe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01118788",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01118788"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Afelik Aklilu G/Chiristos"
+  },
+  "romanized": "Afelik Aklilu G/Chiristos",
+  "sort_key": "afelikaklilugchiristos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01118788"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pmxhqspe",
+     "name": "Afelik Aklilu G/Chiristos",
+     "role": "author",
+     "romanized": "Afelik Aklilu G/Chiristos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qsxz8bzs",
+   "id": "wk_qsxz8bzs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "LeEthiopia Tarikua New Melkua (Beteley Behaymanot Zuria Yemiyatenetin)",
+    "script": "Ethi",
+    "text": "ለኢትዮጵያ ታሪኩኣ ነው መልኩኣ (በተለይ በተዋሕዶ ሃይማኖት ዙሪያ የሚያጠነጥን)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

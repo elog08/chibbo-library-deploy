@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "masfinwoldamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0qc7brcd",
+ "id": "pe_0qc7brcd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70305086",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70305086"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin Wolde-Mariam"
+  },
+  "romanized": "Mesfin Wolde-Mariam",
+  "sort_key": "mesfinwoldemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70305086"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0qc7brcd",
+     "name": "Mesfin Wolde-Mariam",
+     "role": "author",
+     "romanized": "Mesfin Wolde-Mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_08nvhwab",
+   "id": "wk_08nvhwab",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Siltan Bahilna Agezaze Poleticana Mircha & YeKihidet Qulqulet (Two books under one binding)",
+    "script": "Ethi",
+    "text": "ሥልጣን ባህልና አገዛዝ ፓለቲካና ምርጫ እና የክህደት ቁልቁለት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "simatrutaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p4xe06gy",
+ "id": "pe_p4xe06gy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01055115",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01055115"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09822443",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09822443"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Simetru Taye"
+  },
+  "romanized": "Simetru Taye",
+  "sort_key": "simetrutaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01055115"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p4xe06gy",
+     "name": "Simetru Taye",
+     "role": "author",
+     "romanized": "Simetru Taye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kzt4v1w2",
+   "id": "wk_kzt4v1w2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lesiket",
+    "script": "Ethi",
+    "text": "ለስኬት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_p4xe06gy",
+     "name": "Simetru Taye",
+     "role": "author",
+     "romanized": "Simetru Taye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v06qt0jw",
+   "id": "wk_v06qt0jw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ra'ey Gedabiwoch",
+    "script": "Ethi",
+    "text": "ራእይ ገዳቢዎች"
+   },
+   "type": "work"
+  }
+ ]
+}

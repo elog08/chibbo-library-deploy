@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_aw2b6jq3",
+ "@type": "Book",
+ "alternateName": [
+  "Sitota"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_j58xaj8t",
+   "@type": "Person",
+   "name": "Azeb Mengistu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ስጦታ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11855988"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11855988"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_94zvhyt0",
+   "@type": "Book"
+  }
+ ]
+}

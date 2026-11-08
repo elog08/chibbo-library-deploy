@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zj4c4y3m",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_13agr1f4",
+   "@type": "Person",
+   "name": "Zerayehu Semie"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_m28bkt95",
+   "@type": "Person",
+   "name": "Deacon Asamenew Kassa"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The administration of church",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.53",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28700914"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan (1996 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28700914"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sxgb2678",
+   "@type": "Book"
+  }
+ ]
+}

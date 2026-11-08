@@ -15,6 +15,7 @@
  "editions": [
   "ed_d756wkyd",
   "ed_s6w9w00b",
+  "ed_6a1xzyma",
   "ed_ska2c2d2"
  ],
  "extensions": {},
@@ -45,6 +46,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_39"
+  ],
+  "mereb_mpid": [
+   "54659986"
   ],
   "pdf_pagehash": [
    "160e0c0c0c020c00",
@@ -97,6 +101,24 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.wikidata.org/wiki/Q13146588"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54659986",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54659986"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "65.77",
+   "provider": "mereb",
+   "ref": "54659986",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54659986"
   }
  ],
  "locked_fields": [],

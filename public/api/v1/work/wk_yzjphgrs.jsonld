@@ -35,11 +35,26 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/ye-sinibit-kelemat-adam-reta"
+  },
+  {
+   "@type": "Offer",
+   "price": "25.96",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28307813"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Adam Reta (2020 (Second Edition))"
+ },
  "sameAs": [
   "https://addisbooks.com/book/yesinebit-qelemat-by-adam-reta/",
-  "https://www.ethiobookreview.com/book/ye-sinibit-kelemat-adam-reta"
+  "https://www.ethiobookreview.com/book/ye-sinibit-kelemat-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=28307813"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -49,6 +64,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_bg7qyzd4",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_2jefdkwe",
    "@type": "Book"
   }
  ]

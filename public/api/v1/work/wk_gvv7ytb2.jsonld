@@ -28,15 +28,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/kibela"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=29738871"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/kibela"
+  "https://www.ethiobookreview.com/book/kibela",
+  "https://www.mereb.shop/rs/?mpid=29738871"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_3ep1g589",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_37zvwgtm",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "popashinodathathird",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7ebtf3vz",
+ "id": "pe_7ebtf3vz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09925209",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09925209"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10650210",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10650210"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pope Shinoda the Third"
+  },
+  "romanized": "Pope Shinoda the Third",
+  "sort_key": "popeshinodathethird"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09925209"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7ebtf3vz",
+     "name": "Pope Shinoda the Third",
+     "role": "author",
+     "romanized": "Pope Shinoda the Third"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nbzqqzs2",
+   "id": "wk_nbzqqzs2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Atifired",
+    "script": "Ethi",
+    "text": "አትፍረድ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7ebtf3vz",
+     "name": "Pope Shinoda the Third",
+     "role": "author",
+     "romanized": "Pope Shinoda the Third"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vaymh03z",
+   "id": "wk_vaymh03z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMenfes Netsanet (The Release of the Spirit)",
+    "script": "Ethi",
+    "text": "የመንፈስ ነፃነት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "asratgmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k99p662k",
+ "id": "pe_k99p662k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00670288",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00670288"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89592229",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89592229"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asrat G/mariam"
+  },
+  "romanized": "Asrat G/mariam",
+  "sort_key": "asratgmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00670288"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k99p662k",
+     "name": "Asrat G/mariam",
+     "role": "author",
+     "romanized": "Asrat G/mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_c469vmkn",
+   "id": "wk_c469vmkn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Fenote berhan",
+    "script": "Latn",
+    "text": "Fenote berhan"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_k99p662k",
+     "name": "Asrat G/mariam",
+     "role": "author",
+     "romanized": "Asrat G/mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_emde1yqr",
+   "id": "wk_emde1yqr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Christian Ethics",
+    "script": "Latn",
+    "text": "Christian Ethics"
+   },
+   "type": "work"
+  }
+ ]
+}

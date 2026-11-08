@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "sarkad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_px7d55kc",
+ "id": "pe_px7d55kc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62581009",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62581009"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83124277",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83124277"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Serke D"
+  },
+  "romanized": "Serke D",
+  "sort_key": "serked"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62581009"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_px7d55kc",
+     "name": "Serke D",
+     "role": "author",
+     "romanized": "Serke D"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cp0dfa3m",
+   "id": "wk_cp0dfa3m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yekayen Meswa'et",
+    "script": "Ethi",
+    "text": "የቃየን መስዋዕት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_px7d55kc",
+     "name": "Serke D",
+     "role": "author",
+     "romanized": "Serke D"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w24k5vfz",
+   "id": "wk_w24k5vfz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Konjowochu",
+    "script": "Ethi",
+    "text": "ቆንጆዎቹ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "gabirhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q0hz6pmv",
+ "id": "pe_q0hz6pmv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69358217",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69358217"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebir Her"
+  },
+  "romanized": "Gebir Her",
+  "sort_key": "gebirher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69358217"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q0hz6pmv",
+     "name": "Gebir Her",
+     "role": "author",
+     "romanized": "Gebir Her"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x4tvwz1w",
+   "id": "wk_x4tvwz1w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melkam Agelgay",
+    "script": "Ethi",
+    "text": "መልካም አገልጋይ"
+   },
+   "type": "work"
+  }
+ ]
+}

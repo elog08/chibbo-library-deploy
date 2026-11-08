@@ -39,15 +39,30 @@
     "name": "amazon"
    },
    "url": "https://www.amazon.com/dp/B0F14BPFC1"
+  },
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=82575404"
   }
  ],
  "sameAs": [
-  "https://addisbooks.com/book/zamra-by-yismake-worku/"
+  "https://addisbooks.com/book/zamra-by-yismake-worku/",
+  "https://www.mereb.shop/rs/?mpid=82575404"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_z6r41rjq",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_r1v0re1v",
    "@type": "Book"
   }
  ]

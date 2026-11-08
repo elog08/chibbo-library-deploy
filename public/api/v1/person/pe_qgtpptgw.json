@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "wasonsagadgtsadik",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qgtpptgw",
+ "id": "pe_qgtpptgw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72783600",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72783600"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Wesonseged G/Tsadik"
+  },
+  "romanized": "Wesonseged G/Tsadik",
+  "sort_key": "wesonsegedgtsadik"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72783600"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qgtpptgw",
+     "name": "Wesonseged G/Tsadik",
+     "role": "author",
+     "romanized": "Wesonseged G/Tsadik"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b3qkgpkh",
+   "id": "wk_b3qkgpkh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKaliti Mistroch (YeEthop Gazeta Wana Azegaj Endetsafew)",
+    "script": "Ethi",
+    "text": "የቃሊቲ ምስጢሮች (የኢትኦጵ ጋዜጣ ዋና አዘጋጅ እንደጻፈው)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

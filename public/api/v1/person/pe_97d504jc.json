@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "bogalawalalu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_97d504jc",
+ "id": "pe_97d504jc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09403736",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09403736"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93328081",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93328081"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bogale Walelu"
+  },
+  "romanized": "Bogale Walelu",
+  "sort_key": "bogalewalelu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09403736"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_97d504jc",
+     "name": "Bogale Walelu",
+     "role": "author",
+     "romanized": "Bogale Walelu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4z0m2yjq",
+   "id": "wk_4z0m2yjq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWelamo Hizib Tarikna Barinetim Endet Edetewegede",
+    "script": "Ethi",
+    "text": "የወላሞ ሕዝብ ታሪክና ባርነትም እንዴት አንደተወገደ"
+   },
+   "type": "work"
+  }
+ ]
+}

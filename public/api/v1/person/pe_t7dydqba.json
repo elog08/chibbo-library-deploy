@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "wondasantashomamakuria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t7dydqba",
+ "id": "pe_t7dydqba",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68117700",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68117700"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Wondesen Teshome Mekuria"
+  },
+  "romanized": "Wondesen Teshome Mekuria",
+  "sort_key": "wondesenteshomemekuria"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=68117700"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_t7dydqba",
+     "name": "Wondesen Teshome Mekuria",
+     "role": "author",
+     "romanized": "Wondesen Teshome Mekuria"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m7e7x2nz",
+   "id": "wk_m7e7x2nz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelijoch Bahiriyatina YeAsitedadeg Tibeb",
+    "script": "Ethi",
+    "text": "የልጆች ባህርያትና የአስተዳደግ ጥበብ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1t2yvpb0",
+ "@type": "Book",
+ "alternateName": [
+  "Osama Bin Laden - Biography"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_h7jba7j3",
+   "@type": "Person",
+   "name": "Thomas Mockaitis"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሰውዬው ማንነው?",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.28",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=23588814"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=23588814"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_74er7dew",
+   "@type": "Book"
+  }
+ ]
+}

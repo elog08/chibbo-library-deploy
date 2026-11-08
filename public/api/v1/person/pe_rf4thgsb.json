@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drbahailudamaka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rf4thgsb",
+ "id": "pe_rf4thgsb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83644617",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83644617"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Behailu Demeke"
+  },
+  "romanized": "Dr.Behailu Demeke",
+  "sort_key": "drbehailudemeke"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83644617"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rf4thgsb",
+     "name": "Dr.Behailu Demeke",
+     "role": "author",
+     "romanized": "Dr.Behailu Demeke"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4m7ddtv2",
+   "id": "wk_4m7ddtv2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaliteweledew Leba",
+    "script": "Ethi",
+    "text": "ያልተወለደው ሌባ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yezemenachn-gud-eldana-alemayehu"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=33372632"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/yezemenachn-gud-eldana-alemayehu"
+  "https://www.ethiobookreview.com/book/yezemenachn-gud-eldana-alemayehu",
+  "https://www.mereb.shop/rs/?mpid=33372632"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_0c0hbbh7",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_nmfss361",
    "@type": "Book"
   }
  ]

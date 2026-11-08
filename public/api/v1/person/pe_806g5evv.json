@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "thathanministryofinformation",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_806g5evv",
+ "id": "pe_806g5evv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20038476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20038476"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74896427",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74896427"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "The then Ministry of Information"
+  },
+  "romanized": "The then Ministry of Information",
+  "sort_key": "thethenministryofinformation"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20038476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_806g5evv",
+     "name": "The then Ministry of Information",
+     "role": "author",
+     "romanized": "The then Ministry of Information"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bbj1bjmn",
+   "id": "wk_bbj1bjmn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adisitu Ethiopia",
+    "script": "Ethi",
+    "text": "አዲሲቱ:ኢትዮጵያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_806g5evv",
+     "name": "The then Ministry of Information",
+     "role": "author",
+     "romanized": "The then Ministry of Information"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_bf63w3xs",
+   "id": "wk_bf63w3xs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Radia Messages Broadcast From Guenet Leul Palace by Imperial Majesty Haile Selassie I (On August 28 and On September 18, 1959)",
+    "script": "Ethi",
+    "text": "ቀዳማዊ ኃይለ ሥላሴ በነሐሴ ፪፪ ቀን ፲፱፻፶፩ መስከረም ፯ ቀን ፲፱፻፶፪ ዓ.ም ከገነተ ልዑል ቤተ መንግሥት በራዲዮ ያደረጉት ንግግር"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mzmfghh9",
+ "@type": "Book",
+ "alternateName": [
+  "YeMenita Menged Weg"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qp8s6e1m",
+   "@type": "Person",
+   "name": "Birhane Tsigab"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994478163",
+ "name": "የመንታ መንገድ ወግ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11546134"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11546134"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bs0deswr",
+   "@type": "Book"
+  }
+ ]
+}

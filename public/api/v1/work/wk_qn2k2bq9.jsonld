@@ -27,15 +27,34 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/sememen-by-sisay-nigusu/"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=23968521"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Sisay Nigusu (October 2013 (Seventh Edition))"
+ },
  "sameAs": [
-  "https://addisbooks.com/book/sememen-by-sisay-nigusu/"
+  "https://addisbooks.com/book/sememen-by-sisay-nigusu/",
+  "https://www.mereb.shop/rs/?mpid=23968521"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_z36dzq6p",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_99pf28qx",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "dacongabrakidan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yqshmzty",
+ "id": "pe_yqshmzty",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36954060",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36954060"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70819007",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70819007"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Gebre Kidan"
+  },
+  "romanized": "Deacon Gebre Kidan",
+  "sort_key": "deacongebrekidan"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36954060"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yqshmzty",
+     "name": "Deacon Gebre Kidan",
+     "role": "author",
+     "romanized": "Deacon Gebre Kidan"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_692be14d",
+   "id": "wk_692be14d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthodoxs Melis Nat",
+    "script": "Ethi",
+    "text": "ኦርቶዶክስ መልስ ናት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yqshmzty",
+     "name": "Deacon Gebre Kidan",
+     "role": "author",
+     "romanized": "Deacon Gebre Kidan"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fz998628",
+   "id": "wk_fz998628",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthodoks Melis Alat",
+    "script": "Ethi",
+    "text": "ኦርቶዶክስ መልስ አላት"
+   },
+   "type": "work"
+  }
+ ]
+}

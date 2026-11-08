@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "dayandinka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qcdcgg9g",
+ "id": "pe_qcdcgg9g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42335935",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42335935"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dayan Dinka"
+  },
+  "romanized": "Dayan Dinka",
+  "sort_key": "dayandinka"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=42335935"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qcdcgg9g",
+     "name": "Dayan Dinka",
+     "role": "author",
+     "romanized": "Dayan Dinka"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_daze5fwx",
+   "id": "wk_daze5fwx",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinsae Hewan",
+    "script": "Ethi",
+    "text": "ትንሳኤ ሄዋን"
+   },
+   "type": "work"
+  }
+ ]
+}

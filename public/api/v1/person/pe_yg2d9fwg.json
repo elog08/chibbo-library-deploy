@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drabrhamkbirat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yg2d9fwg",
+ "id": "pe_yg2d9fwg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63116445",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63116445"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Abrham Kbiret"
+  },
+  "romanized": "Dr. Abrham Kbiret",
+  "sort_key": "drabrhamkbiret"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63116445"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yg2d9fwg",
+     "name": "Dr. Abrham Kbiret",
+     "role": "author",
+     "romanized": "Dr. Abrham Kbiret"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f7jhyaek",
+   "id": "wk_f7jhyaek",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSkuar Hmem (Meneshaw Mekelakeyaw Ena Mefthew)",
+    "script": "Ethi",
+    "text": "የስኳር ሕመም (መነሻው መከላከያው እና መፍትሔው)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

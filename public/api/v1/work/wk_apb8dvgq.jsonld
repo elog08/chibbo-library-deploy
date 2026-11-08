@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_apb8dvgq",
+ "@type": "Book",
+ "alternateName": [
+  "Sakitawa Tsigereda"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mrnhkmw0",
+   "@type": "Person",
+   "name": "Getachew Belete"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሳቂታዋ ጽጌሬዳ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60572121"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Aster Nega Publishing"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60572121"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k5mbbsa3",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gatusorasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5fsayh7a",
+ "id": "pe_5fsayh7a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79097822",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79097822"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Getu Soresa"
+  },
+  "romanized": "Getu Soresa",
+  "sort_key": "getusoresa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79097822"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5fsayh7a",
+     "name": "Getu Soresa",
+     "role": "author",
+     "romanized": "Getu Soresa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1pfd2b1k",
+   "id": "wk_1pfd2b1k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmetsa Bidirat",
+    "script": "Ethi",
+    "text": "የአመፃ ብድራት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

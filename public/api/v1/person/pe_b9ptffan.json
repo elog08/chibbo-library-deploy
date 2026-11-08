@@ -21,6 +21,14 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/yineger-getachew"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06507350",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06507350"
   }
  ],
  "locked_fields": [],
@@ -44,5 +52,27 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b9ptffan",
+     "name": "Yineger Getachew",
+     "role": "author",
+     "romanized": "Yineger Getachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x5a2hby8",
+   "id": "wk_x5a2hby8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKetemaw Menagn, Elias Melka",
+    "script": "Ethi",
+    "text": "የከተማው መናኝ; ኤልያስ መልካ"
+   },
+   "type": "work"
+  }
+ ]
 }

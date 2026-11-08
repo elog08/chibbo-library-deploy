@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_x606v5eq"
+  "ed_x606v5eq",
+  "ed_8ytqtr9h"
  ],
  "extensions": {},
  "fingerprint": "ከጥቁርሰማይስር|andalagatakabada",
@@ -25,6 +26,9 @@
  "identifiers": {
   "afroread_id": [
    "0a8ee119-36d1-48e1-9db0-7270023f6a35"
+  ],
+  "mereb_mpid": [
+   "90728319"
   ]
  },
  "language": "am",
@@ -56,11 +60,31 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/Bookdetail/0a8ee119-36d1-48e1-9db0-7270023f6a35"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90728319",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90728319"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "15.99",
+   "provider": "mereb",
+   "ref": "90728319",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90728319"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

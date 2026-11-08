@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "daconabaynahkasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wrsxfhv6",
+ "id": "pe_wrsxfhv6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26971117",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26971117"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Abayneh Kassie"
+  },
+  "romanized": "Deacon Abayneh Kassie",
+  "sort_key": "deaconabaynehkassie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26971117"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wrsxfhv6",
+     "name": "Deacon Abayneh Kassie",
+     "role": "author",
+     "romanized": "Deacon Abayneh Kassie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ze1mt5b8",
+   "id": "wk_ze1mt5b8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gera Medhanit (\"Welde Ab\" Bemil Sim Leteshefenew Metsihafe Nufake Yetesete Melis)",
+    "script": "Ethi",
+    "text": "ጌራ መድኃኒት (\"ወልደ አብ\" በሚል ስም ለተሸፈነው መጽሐፈ ኑፋቄ የተሰጠ መልስ)"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

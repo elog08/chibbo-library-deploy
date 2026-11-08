@@ -1,0 +1,37 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_q6hz90r7",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p4sdssvc",
+   "@type": "Person",
+   "name": "Megabi Hadis Rodas Tadesse (PH.D)"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994437672",
+ "name": "888",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=46683210"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=46683210"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_v00rc9yf",
+   "@type": "Book"
+  }
+ ]
+}

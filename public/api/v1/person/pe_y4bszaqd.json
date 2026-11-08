@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "alsabathyihdago",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y4bszaqd",
+ "id": "pe_y4bszaqd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32293284",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32293284"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elsabeth Yihdego"
+  },
+  "romanized": "Elsabeth Yihdego",
+  "sort_key": "elsabethyihdego"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32293284"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_y4bszaqd",
+     "name": "Elsabeth Yihdego",
+     "role": "author",
+     "romanized": "Elsabeth Yihdego"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qmryknw1",
+   "id": "wk_qmryknw1",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nuzaze",
+    "script": "Ethi",
+    "text": "ኑዛዘ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

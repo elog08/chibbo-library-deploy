@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "daconhiruybaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_acp8xg1a",
+ "id": "pe_acp8xg1a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40101188",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40101188"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40868995",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40868995"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82912549",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82912549"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Hiruy Baye"
+  },
+  "romanized": "Deacon Hiruy Baye",
+  "sort_key": "deaconhiruybaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40101188"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_acp8xg1a",
+     "name": "Deacon Hiruy Baye",
+     "role": "author",
+     "romanized": "Deacon Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0kbvrvc3",
+   "id": "wk_0kbvrvc3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWetaoch Orthodoksawi Hiwot",
+    "script": "Ethi",
+    "text": "የወጣቶች ኦርቶዶክሳዊ ሕይወት"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_acp8xg1a",
+     "name": "Deacon Hiruy Baye",
+     "role": "author",
+     "romanized": "Deacon Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fhcrfsqz",
+   "id": "wk_fhcrfsqz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kale Tewatshio (1gna Metsihaf)(Answers to Questions Asked Frequently)",
+    "script": "Ethi",
+    "text": "ቃለ ተዋሥኦ ፩ኛ መጽሐፍ (ለጥያቄቆቻቹህ መልሶች)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

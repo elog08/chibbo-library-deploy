@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_tsfsam6c"
+  "ed_tsfsam6c",
+  "ed_ykbcnjbk"
  ],
  "extensions": {},
  "fingerprint": "ዮቶርኮብላይካህን|alamayahudamaka",
@@ -27,7 +28,11 @@
  "flags": [],
  "href": "https://chibbo.app/work/wk_y5mvn8af",
  "id": "wk_y5mvn8af",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "56002319"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,11 +58,31 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.amazon.com/dp/B0H73S6143"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56002319",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56002319"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "6.99",
+   "provider": "mereb",
+   "ref": "56002319",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56002319"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

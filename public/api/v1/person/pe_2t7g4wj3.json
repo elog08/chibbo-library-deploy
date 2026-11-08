@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirkalatsidikhignah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2t7g4wj3",
+ "id": "pe_2t7g4wj3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65142280",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65142280"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Kaletsidik Higneh"
+  },
+  "romanized": "Memihir Kaletsidik Higneh",
+  "sort_key": "memihirkaletsidikhigneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65142280"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2t7g4wj3",
+     "name": "Memihir Kaletsidik Higneh",
+     "role": "author",
+     "romanized": "Memihir Kaletsidik Higneh"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_mmcmtygw",
+   "id": "wk_mmcmtygw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sulamatis",
+    "script": "Ethi",
+    "text": "ሱላማጢስ"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

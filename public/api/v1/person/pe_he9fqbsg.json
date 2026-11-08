@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "andargachawasagid",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_he9fqbsg",
+ "id": "pe_he9fqbsg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43947825",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43947825"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Endargachew Asegid"
+  },
+  "romanized": "Endargachew Asegid",
+  "sort_key": "endargachewasegid"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43947825"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_he9fqbsg",
+     "name": "Endargachew Asegid",
+     "role": "author",
+     "romanized": "Endargachew Asegid"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7ka1zyf8",
+   "id": "wk_7ka1zyf8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeAchir Yetekeche Rejim Guzo (Me'Eison BeEthiopia Hizboch Tigil Wist)",
+    "script": "Ethi",
+    "text": "በአጭር የተቋጨ ረጅም ጉዞ (መኢሶን በኢትዮጵያ ሕዝቦች ትግል ውስጥ)፟"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

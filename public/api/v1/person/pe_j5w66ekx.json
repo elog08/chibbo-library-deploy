@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "danialworkukasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j5w66ekx",
+ "id": "pe_j5w66ekx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65375193",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65375193"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Worku Kassa"
+  },
+  "romanized": "Daniel Worku Kassa",
+  "sort_key": "danielworkukassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65375193"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j5w66ekx",
+     "name": "Daniel Worku Kassa",
+     "role": "author",
+     "romanized": "Daniel Worku Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_k7ckrkv7",
+   "id": "wk_k7ckrkv7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mirt Engilizegna-Amarigna Mezgebe Kalat",
+    "script": "Ethi",
+    "text": "ምርጥ እንግሊዘኛ-አማርኛ መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

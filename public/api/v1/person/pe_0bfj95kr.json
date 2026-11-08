@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "donaldjtrump",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0bfj95kr",
+ "id": "pe_0bfj95kr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03127790",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03127790"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37259526",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37259526"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Donald J Trump"
+  },
+  "romanized": "Donald J Trump",
+  "sort_key": "donaldjtrump"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03127790"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fvscp0mh",
+     "name": "Robert T.Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T.Kiyosaki"
+    },
+    {
+     "id": "pe_0bfj95kr",
+     "name": "Donald J Trump",
+     "role": "author",
+     "romanized": "Donald J Trump"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kahr2rv6",
+   "id": "wk_kahr2rv6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebaht Mistir",
+    "script": "Ethi",
+    "text": "የሀብት ምስጢር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8wrr1bkp",
+     "name": "Robert T. Kiyosaky",
+     "role": "author",
+     "romanized": "Robert T. Kiyosaky"
+    },
+    {
+     "id": "pe_0bfj95kr",
+     "name": "Donald J Trump",
+     "role": "author",
+     "romanized": "Donald J Trump"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zshxe4zd",
+   "id": "wk_zshxe4zd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "WHY WE WANT YOU TO BE RICH (TWO MEN -ONE MESSAGE)",
+    "script": "Ethi",
+    "text": "የሀብት ምስጢር (ሁለት ሰዎች-አንድ መልዕክት)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dryusufalqaradawi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dgjrf2w1",
+ "id": "pe_dgjrf2w1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25569064",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25569064"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Yusuf Al-qeredawi"
+  },
+  "romanized": "Dr.Yusuf Al-qeredawi",
+  "sort_key": "dryusufalqeredawi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25569064"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dgjrf2w1",
+     "name": "Dr.Yusuf Al-qeredawi",
+     "role": "author",
+     "romanized": "Dr.Yusuf Al-qeredawi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mrw6xgfs",
+   "id": "wk_mrw6xgfs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesetoch Dereja BeIslam",
+    "script": "Ethi",
+    "text": "የሴቶች ደረጃ በኢስላም"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

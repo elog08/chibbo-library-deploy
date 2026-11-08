@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "charlasdarwin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dwjywvb4",
+ "id": "pe_dwjywvb4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88764801",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88764801"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Charles Darwin"
+  },
+  "romanized": "Charles Darwin",
+  "sort_key": "charlesdarwin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88764801"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dwjywvb4",
+     "name": "Charles Darwin",
+     "role": "author",
+     "romanized": "Charles Darwin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5ycw68q7",
+   "id": "wk_5ycw68q7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Charles Darwin (Sile Bichegna Ziriyawoch Mens'e)",
+    "script": "Ethi",
+    "text": "ቻርልስ ዳርዊን (ስለ ብቸኛ ዝርያዎች መንስኤ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagagyagmadhin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_56651f0v",
+ "id": "pe_56651f0v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05519299",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05519299"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43132853",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43132853"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsegagye G/Medhin"
+  },
+  "romanized": "Tsegagye G/Medhin",
+  "sort_key": "tsegagyegmedhin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05519299"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_56651f0v",
+     "name": "Tsegagye G/Medhin",
+     "role": "author",
+     "romanized": "Tsegagye G/Medhin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1974?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qe5b86a0",
+   "id": "wk_qe5b86a0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hahu Besidist Wer Ena enat Alem Tene (Two Books in One Binding)",
+    "script": "Ethi",
+    "text": "ሀሁ በስድስት ወር እና እናት ዓለም ጤና"
+   },
+   "type": "work",
+   "year": 1974
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_56651f0v",
+     "name": "Tsegagye G/Medhin",
+     "role": "author",
+     "romanized": "Tsegagye G/Medhin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1974?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v9nfnbgd",
+   "id": "wk_v9nfnbgd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Esat Weyim Abeba",
+    "script": "Ethi",
+    "text": "እሳት ወይም ኣበባ"
+   },
+   "type": "work",
+   "year": 1974
+  }
+ ]
+}

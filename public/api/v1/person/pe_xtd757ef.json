@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drthaodroamvastal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xtd757ef",
+ "id": "pe_xtd757ef",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20415136",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20415136"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Theodroe M Vestal"
+  },
+  "romanized": "Dr. Theodroe M Vestal",
+  "sort_key": "drtheodroemvestal"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20415136"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xtd757ef",
+     "name": "Dr. Theodroe M Vestal",
+     "role": "author",
+     "romanized": "Dr. Theodroe M Vestal"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yn72sg5a",
+   "id": "wk_yn72sg5a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMechereshaw Nigus (Yekedamwi HaileSilase Alemakefawi Tegadilo)",
+    "script": "Ethi",
+    "text": "የመጨረሻው ንጉሥ (የቀዳማዊ ኃይለ ሥላሴ ዓለም አቀፋዊ ተጋድሎ)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

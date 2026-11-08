@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ffz4qcp1",
+ "@type": "Book",
+ "alternateName": [
+  "Salazat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fjrffgbv",
+   "@type": "Person",
+   "name": "Abraham Genet"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789999006170",
+ "name": "ሳላዛት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=34971877"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=34971877"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xgvbrn61",
+   "@type": "Book"
+  }
+ ]
+}

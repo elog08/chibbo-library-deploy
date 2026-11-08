@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/esrengochu-endalegeta-kebede"
+  },
+  {
+   "@type": "Offer",
+   "price": "18.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=33967419"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/esrengochu-endalegeta-kebede"
+  "https://www.ethiobookreview.com/book/esrengochu-endalegeta-kebede",
+  "https://www.mereb.shop/rs/?mpid=33967419"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_hgeh8wx2",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_7823n3sk",
    "@type": "Book"
   }
  ]

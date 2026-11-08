@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nq1f1345",
+ "@type": "Book",
+ "alternateName": [
+  "Dracula"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_csx520kw",
+   "@type": "Person",
+   "name": "Masiresha Gebre"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ድራኩላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11103634"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11103634"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wr02ddyk",
+   "@type": "Book"
+  }
+ ]
+}

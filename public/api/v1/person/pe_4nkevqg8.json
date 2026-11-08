@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "abasamualarchbishop",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4nkevqg8",
+ "id": "pe_4nkevqg8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86003722",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86003722"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Samuel Archbishop"
+  },
+  "romanized": "Aba Samuel Archbishop",
+  "sort_key": "abasamuelarchbishop"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=86003722"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4nkevqg8",
+     "name": "Aba Samuel Archbishop",
+     "role": "author",
+     "romanized": "Aba Samuel Archbishop"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a9dr6y27",
+   "id": "wk_a9dr6y27",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gebre Menfeskidus",
+    "script": "Ethi",
+    "text": "ገብረ መንፈስቅዱስ"
+   },
+   "type": "work"
+  }
+ ]
+}

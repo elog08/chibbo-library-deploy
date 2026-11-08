@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "dnhiruybaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gwkjc0z2",
+ "id": "pe_gwkjc0z2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87746756",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87746756"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dn.Hiruy Baye"
+  },
+  "romanized": "Dn.Hiruy Baye",
+  "sort_key": "dnhiruybaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87746756"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gwkjc0z2",
+     "name": "Dn.Hiruy Baye",
+     "role": "author",
+     "romanized": "Dn.Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gmg7bsk5",
+   "id": "wk_gmg7bsk5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sostu Hitsnat Ena YeAnbesoch Guadegna Daniel",
+    "script": "Ethi",
+    "text": "ሦስቱ ሕፃናት እና የአንበሶች ጓደኛ ዳንኤል"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

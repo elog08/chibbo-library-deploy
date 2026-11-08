@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "yitbarakbarha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xzsrkj7n",
+ "id": "pe_xzsrkj7n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11073431",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11073431"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84789563",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84789563"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96557711",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96557711"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yitbarek Berhe"
+  },
+  "romanized": "Yitbarek Berhe",
+  "sort_key": "yitbarekberhe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11073431"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xzsrkj7n",
+     "name": "Yitbarek Berhe",
+     "role": "author",
+     "romanized": "Yitbarek Berhe"
+    }
+   ],
+   "flags": [
+    "language-unrecognised",
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_c62w0tw7",
+   "id": "wk_c62w0tw7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hasabe Zemen Zelealem (Zelealemawi Akotsatsira Zemen)",
+    "script": "Ethi",
+    "text": "ሓሳበ ዘመን ዘለዓለም (ዘላዓለማዊ ኣቆጻጽራ ዘመን)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xzsrkj7n",
+     "name": "Yitbarek Berhe",
+     "role": "author",
+     "romanized": "Yitbarek Berhe"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_mr459zq4",
+   "id": "wk_mr459zq4",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarikh Betechrisitan Ertran Mrah Tera Aberkitoan Yatan Zantan Kab Suru Ksab Chenafiru",
+    "script": "Ethi",
+    "text": "ታሪኸ ቤተ ክርስቲያን ኤርትራን መሪሕ ተራ አበርክቶአን ያታን ዛንታን ካብ ሱሩ ክሳብ ጨናፍሩ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xzsrkj7n",
+     "name": "Yitbarek Berhe",
+     "role": "author",
+     "romanized": "Yitbarek Berhe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wqcs636e",
+   "id": "wk_wqcs636e",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarikhe Orthodox Tewahedo Betechristian Eritrea",
+    "script": "Ethi",
+    "text": "ታሪኸ ኦርቶዶክስ ተዋህዶ ቤተክርስቲያን ኤርትራ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

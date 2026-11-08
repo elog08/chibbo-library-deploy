@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "alizabathlaird",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vbwmmtdd",
+ "id": "pe_vbwmmtdd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44645912",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44645912"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88726092",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88726092"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elizabeth Laird"
+  },
+  "romanized": "Elizabeth Laird",
+  "sort_key": "elizabethlaird"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44645912"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vbwmmtdd",
+     "name": "Elizabeth Laird",
+     "role": "author",
+     "romanized": "Elizabeth Laird"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gx2xjhvq",
+   "id": "wk_gx2xjhvq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE LION AND THE OSTRICH AND OTHER FOLKTALES FROM ETHIOPIA (AFAR, AMAHARA, SOMALI, TIGIRAY)(Volume 2)",
+    "script": "Ethi",
+    "text": "አንበሳ እና ሰጎን ቅጽ.2"
+   },
+   "type": "work",
+   "year": 2009
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vbwmmtdd",
+     "name": "Elizabeth Laird",
+     "role": "author",
+     "romanized": "Elizabeth Laird"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qn4bn3fz",
+   "id": "wk_qn4bn3fz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE ELEPHANT AND THE COCK (FOLKTALES FROM ETHIOPIA)",
+    "script": "Ethi",
+    "text": "ዝሆንና አውራ ዶሮ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

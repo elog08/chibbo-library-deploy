@@ -21,14 +21,33 @@
  "genre": "novel",
  "inLanguage": "am",
  "name": "አደፍርስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17255574"
+  }
+ ],
  "publisher": {
   "@type": "Organization",
   "name": "Commercial Printing Press"
  },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17255574"
+ ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_5wh8p21h",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_fn6k3cqe",
    "@type": "Book"
   }
  ]

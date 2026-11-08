@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "latapatriarchpopashinodai",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z27tx0k5",
+ "id": "pe_z27tx0k5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17679966",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17679966"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Late Patriarch Pope Shinoda III"
+  },
+  "romanized": "Late Patriarch Pope Shinoda III",
+  "sort_key": "latepatriarchpopeshinodaiii"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17679966"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z27tx0k5",
+     "name": "Late Patriarch Pope Shinoda III",
+     "role": "author",
+     "romanized": "Late Patriarch Pope Shinoda III"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hxqa5y9n",
+   "id": "wk_hxqa5y9n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Menfesawi Wgiyawoch (Yediyabilos Wgiyawoch 2gna Metshaf)",
+    "script": "Ethi",
+    "text": "መንፈሳዊ ውጊያዎች (የዲያብሎስ ውጊያዎች ሁለተኛ መጽሐፍ)"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

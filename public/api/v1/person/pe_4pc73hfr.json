@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "fatharshinoda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4pc73hfr",
+ "id": "pe_4pc73hfr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15444131",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15444131"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80800269",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80800269"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Father Shinoda"
+  },
+  "romanized": "Father Shinoda",
+  "sort_key": "fathershinoda"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15444131"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4pc73hfr",
+     "name": "Father Shinoda",
+     "role": "author",
+     "romanized": "Father Shinoda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3h9cfm8n",
+   "id": "wk_3h9cfm8n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yenefis Arinet",
+    "script": "Ethi",
+    "text": "የነፍስ አርነት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4pc73hfr",
+     "name": "Father Shinoda",
+     "role": "author",
+     "romanized": "Father Shinoda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nwwhb4x5",
+   "id": "wk_nwwhb4x5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Guzo Wede Egziabher (Kifil 1 Ena 2)",
+    "script": "Ethi",
+    "text": "ጉዞ ወደ እግዚአብሔር (ክፍል1 እና 2)"
+   },
+   "type": "work"
+  }
+ ]
+}

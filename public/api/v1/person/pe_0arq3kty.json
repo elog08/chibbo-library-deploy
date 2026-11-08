@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dalacarnagia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0arq3kty",
+ "id": "pe_0arq3kty",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75826750",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75826750"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dale Carnegie"
+  },
+  "romanized": "Dale Carnegie",
+  "sort_key": "dalecarnegie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=75826750"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0arq3kty",
+     "name": "Dale Carnegie",
+     "role": "author",
+     "romanized": "Dale Carnegie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2cgkvnet",
+   "id": "wk_2cgkvnet",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesiket Meselal",
+    "script": "Ethi",
+    "text": "የስኬት መሰላል"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -18,6 +18,7 @@
  "datePublished": "2013?",
  "image": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/3000-lelitoch-andualem-arage.webp",
  "inLanguage": "am",
+ "isbn": "9789994431915",
  "name": "3000 ሌሊቶች",
  "offers": [
   {
@@ -29,15 +30,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/3000-lelitoch-andualem-arage"
+  },
+  {
+   "@type": "Offer",
+   "price": "14.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06971303"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/3000-lelitoch-andualem-arage"
+  "https://www.ethiobookreview.com/book/3000-lelitoch-andualem-arage",
+  "https://www.mereb.shop/rs/?mpid=06971303"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_2c62xy3r",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_gs0e7jrp",
    "@type": "Book"
   }
  ]

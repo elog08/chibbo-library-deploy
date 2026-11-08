@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8hty4ff7",
+ "@type": "Book",
+ "alternateName": [
+  "Metsihafe Mekibib"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_50r1jk2c",
+   "@type": "Person",
+   "name": "Etel Melketsedik"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መጽሐፈ መክብብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50925597"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50925597"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_frnk4skr",
+   "@type": "Book"
+  }
+ ]
+}

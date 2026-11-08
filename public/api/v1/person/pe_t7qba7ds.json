@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hisholinasabunashinoda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t7qba7ds",
+ "id": "pe_t7qba7ds",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79531114",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79531114"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "His Holiness Abune Shinoda"
+  },
+  "romanized": "His Holiness Abune Shinoda",
+  "sort_key": "hisholinessabuneshinoda"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79531114"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_t7qba7ds",
+     "name": "His Holiness Abune Shinoda",
+     "role": "author",
+     "romanized": "His Holiness Abune Shinoda"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2kb4shq4",
+   "id": "wk_2kb4shq4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Le'Egziabher Gize Matatina Lelochim",
+    "script": "Ethi",
+    "text": "ለእግዚአብሔር ጊዜ ማጣትና ለሎችም"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

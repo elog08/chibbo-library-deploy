@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "asagidmakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4m20vhpz",
+ "id": "pe_4m20vhpz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21418454",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21418454"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28341328",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28341328"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asegid Mekonnen"
+  },
+  "romanized": "Asegid Mekonnen",
+  "sort_key": "asegidmekonnen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21418454"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4m20vhpz",
+     "name": "Asegid Mekonnen",
+     "role": "author",
+     "romanized": "Asegid Mekonnen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f4v805p5",
+   "id": "wk_f4v805p5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adagnina Geday",
+    "script": "Ethi",
+    "text": "አዳኝና ገዳይ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4m20vhpz",
+     "name": "Asegid Mekonnen",
+     "role": "author",
+     "romanized": "Asegid Mekonnen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nhc4dp68",
+   "id": "wk_nhc4dp68",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yalalekew Tornet",
+    "script": "Ethi",
+    "text": "ያላለቀው ጦርነት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirsisaydamisiagtsadik",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sn55s6ts",
+ "id": "pe_sn55s6ts",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53399556",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53399556"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir sisay Demissie G/Tsadik"
+  },
+  "romanized": "Memihir sisay Demissie G/Tsadik",
+  "sort_key": "memihirsisaydemissiegtsadik"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53399556"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sn55s6ts",
+     "name": "Memihir sisay Demissie G/Tsadik",
+     "role": "author",
+     "romanized": "Memihir sisay Demissie G/Tsadik"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8y5frrqy",
+   "id": "wk_8y5frrqy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBegena Memaria",
+    "script": "Ethi",
+    "text": "የበገና መማሪያ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

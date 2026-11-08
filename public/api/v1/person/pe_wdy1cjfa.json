@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abiybalaynah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wdy1cjfa",
+ "id": "pe_wdy1cjfa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46265320",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46265320"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abiy Belayneh"
+  },
+  "romanized": "Abiy Belayneh",
+  "sort_key": "abiybelayneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46265320"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wdy1cjfa",
+     "name": "Abiy Belayneh",
+     "role": "author",
+     "romanized": "Abiy Belayneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_p324xsgf",
+   "id": "wk_p324xsgf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Imint Edil",
+    "script": "Ethi",
+    "text": "ኢምንት እድል"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

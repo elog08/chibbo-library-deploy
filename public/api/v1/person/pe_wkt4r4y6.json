@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "timbuchar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wkt4r4y6",
+ "id": "pe_wkt4r4y6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99782079",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99782079"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tim Bucher"
+  },
+  "romanized": "Tim Bucher",
+  "sort_key": "timbucher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99782079"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wkt4r4y6",
+     "name": "Tim Bucher",
+     "role": "author",
+     "romanized": "Tim Bucher"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rvhkhrzj",
+   "id": "wk_rvhkhrzj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye-Dem Wenz",
+    "script": "Ethi",
+    "text": "የደም ወንዝ ጉዞ ወደተሰበረ የአፍሪካ ልብ"
+   },
+   "type": "work"
+  }
+ ]
+}

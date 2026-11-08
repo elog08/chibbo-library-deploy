@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "minwagawtamasgan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tnnh1tqy",
+ "id": "pe_tnnh1tqy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46428487",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46428487"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84011845",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84011845"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Minwagaw Temesgen"
+  },
+  "romanized": "Minwagaw Temesgen",
+  "sort_key": "minwagawtemesgen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46428487"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tnnh1tqy",
+     "name": "Minwagaw Temesgen",
+     "role": "author",
+     "romanized": "Minwagaw Temesgen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0kdcedsq",
+   "id": "wk_0kdcedsq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetefaw Kofeda",
+    "script": "Ethi",
+    "text": "የጠፋው ኮፌዳ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tnnh1tqy",
+     "name": "Minwagaw Temesgen",
+     "role": "author",
+     "romanized": "Minwagaw Temesgen"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hxvhej6e",
+   "id": "wk_hxvhej6e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Maseb Asitemirugn",
+    "script": "Ethi",
+    "text": "ማሰብ አስተምሩኝ"
+   },
+   "type": "work"
+  }
+ ]
+}

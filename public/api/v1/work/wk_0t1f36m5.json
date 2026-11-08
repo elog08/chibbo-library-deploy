@@ -1,0 +1,127 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "እነሆ በቀ\nበይነችን ለማየት ደምቃና ተፍክህች\nቿ በላ ፡ ፈገረች ፡\nከዛሬን ደረሰች ፍሬዋን አደሰች ከረመታችን\nየሰላምን ዋጋ—የእውነትን ዋጋ—የዕዕረፍትን ዋጋ\nልአትን አስታምሮ ለሰው ልጅ በተጭ\nባፈ ፡ ያጳየው\nወረቀት ፡ ያልነካው\nቀለም ፡ ያልሰነካው\nሐቀኛ ታሪኩን ፡ ዜናውን ከፍፍ ጐባይ ገርግ ታኛ ።"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "love",
+    "faith-and-philosophy"
+   ]
+  }
+ },
+ "fingerprint": "እነሆበቀ|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_0t1f36m5",
+ "id": "wk_0t1f36m5",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 42–42 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "love",
+  "faith-and-philosophy"
+ ],
+ "provenance": {
+  "raw_sha256": "d3205ae0f1f6b2c26da78a17e3c02ab1be4d7750d493fb9ef96d291de84639a3",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Eneho Beqe",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Behold the Leaf",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እነሆ በቀ"
+  },
+  "romanized": "Eneho Beqe",
+  "sort_key": "እነሆበቀ"
+ },
+ "type": "work"
+}

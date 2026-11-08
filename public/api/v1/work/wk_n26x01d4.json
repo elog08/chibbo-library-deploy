@@ -13,12 +13,27 @@
   }
  ],
  "editions": [
-  "ed_6sgjfwza"
+  "ed_6sgjfwza",
+  "ed_8e8bkaea"
  ],
  "extensions": {},
  "fingerprint": "የመንጌውሽሚትእናሌሎችምውብታሪኮች|tasfayalanabata",
+ "first_published": {
+  "alternates": [
+   "2020-09-11/2021-09-10"
+  ],
+  "edtf": "2013?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2013"
+  }
+ },
  "flags": [
   "format-paper-back",
+  "calendar-ambiguous",
   "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_n26x01d4",
@@ -26,6 +41,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_154"
+  ],
+  "mereb_mpid": [
+   "66749236"
   ],
   "pdf_pagehash": [
    "033b1f373f3f2b08",
@@ -65,6 +83,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_154"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66749236",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66749236"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "4.98",
+   "provider": "mereb",
+   "ref": "66749236",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66749236"
   }
  ],
  "locked_fields": [],
@@ -77,6 +113,7 @@
   "source": "hahubooks",
   "source_url": "https://hahubooks.com/single-product.php?jbook_code=jb_154"
  },
+ "publisher_name": "Tesfaye Alene Abate",
  "relations": [],
  "rights": {
   "shippable": false,

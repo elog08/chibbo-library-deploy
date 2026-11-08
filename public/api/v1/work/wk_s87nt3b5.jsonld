@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_s87nt3b5",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ervcqs6j",
+   "@type": "Person",
+   "name": "Yilma Habteyes"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Mot fredu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.87",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=41291021"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=41291021"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sch0pxf1",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitdasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4pz48531",
+ "id": "pe_4pz48531",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32847358",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32847358"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84059055",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84059055"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87405503",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87405503"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dawit Desta"
+  },
+  "romanized": "Dawit Desta",
+  "sort_key": "dawitdesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32847358"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4pz48531",
+     "name": "Dawit Desta",
+     "role": "author",
+     "romanized": "Dawit Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6ays7q8f",
+   "id": "wk_6ays7q8f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOrthodoks Tewahedo Lijoch Asitedadeg",
+    "script": "Ethi",
+    "text": "የኦርቶዶክስ ተዋሕዶ ልጆች አስተዳደግ"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4pz48531",
+     "name": "Dawit Desta",
+     "role": "author",
+     "romanized": "Dawit Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cj2mh851",
+   "id": "wk_cj2mh851",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthocsawiyan Ena Poletika",
+    "script": "Ethi",
+    "text": "ኦርቶዶክሳውያን እና ፖለቲካ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4pz48531",
+     "name": "Dawit Desta",
+     "role": "author",
+     "romanized": "Dawit Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g0p27myt",
+   "id": "wk_g0p27myt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bihile Abew",
+    "script": "Ethi",
+    "text": "ብሂለ አበው"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

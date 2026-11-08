@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wm29pqfc",
+ "@type": "Book",
+ "alternateName": [
+  "Albert Einstine"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4rat1td0",
+   "@type": "Person",
+   "name": "Mohammed Selman"
+  }
+ ],
+ "datePublished": "2021",
+ "inLanguage": "am",
+ "isbn": "9789994430260",
+ "name": "አልበርት አይንስታይን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=20624303"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litman Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=20624303"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gdegpv5f",
+   "@type": "Book"
+  }
+ ]
+}

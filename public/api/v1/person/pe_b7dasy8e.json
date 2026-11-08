@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drhabitamariamasafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b7dasy8e",
+ "id": "pe_b7dasy8e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46607966",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46607966"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Habitemariam Assefa"
+  },
+  "romanized": "Dr. Habitemariam Assefa",
+  "sort_key": "drhabitemariamassefa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46607966"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b7dasy8e",
+     "name": "Dr. Habitemariam Assefa",
+     "role": "author",
+     "romanized": "Dr. Habitemariam Assefa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zzc09gxa",
+   "id": "wk_zzc09gxa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik Tiyakewochina Bahiloch",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ጥያቄዎችና ባህሎች"
+   },
+   "type": "work",
+   "year": 1994
+  }
+ ]
+}

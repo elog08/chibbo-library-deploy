@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6a936x9d",
+ "@type": "Book",
+ "alternateName": [
+  "Kidus Lalibela"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_f58v5c88",
+   "@type": "Person",
+   "name": "Dr.Kesis Mengistu Gobeze"
+  }
+ ],
+ "datePublished": "2021",
+ "inLanguage": "am",
+ "isbn": "9789994431144",
+ "name": "ቅዱስ ላሊበላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60067189"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Lalibela Monastery"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60067189"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_3s192qw1",
+   "@type": "Book"
+  }
+ ]
+}

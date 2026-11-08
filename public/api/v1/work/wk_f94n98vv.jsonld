@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_f94n98vv",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_50r2dzks",
+   "@type": "Person",
+   "name": "Tigest Getachew"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Anstebaraki Kelemoch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=68530145"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=68530145"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8zyna7d5",
+   "@type": "Book"
+  }
+ ]
+}

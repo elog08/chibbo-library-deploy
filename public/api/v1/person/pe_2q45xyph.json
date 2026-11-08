@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "fatharbatamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2q45xyph",
+ "id": "pe_2q45xyph",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30057528",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30057528"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Father Bete Mariam"
+  },
+  "romanized": "Father Bete Mariam",
+  "sort_key": "fatherbetemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30057528"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_25zsb483",
+     "name": "Like Mezemiran Moges Ekuba Giorgis",
+     "role": "author",
+     "romanized": "Like Mezemiran Moges Ekuba Giorgis"
+    },
+    {
+     "id": "pe_2q45xyph",
+     "name": "Father Bete Mariam",
+     "role": "author",
+     "romanized": "Father Bete Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tabkjw7w",
+   "id": "wk_tabkjw7w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amistu A'emade Mistir Misle Sine Fitret Andemta Tirgum",
+    "script": "Ethi",
+    "text": "አምስቱ አዕማደ ምሥጢር ምስለ ሥነ ፍጥረት አንደምታ ትርጉም"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

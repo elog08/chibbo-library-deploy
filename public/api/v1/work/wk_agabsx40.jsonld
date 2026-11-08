@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_agabsx40",
+ "@type": "Book",
+ "alternateName": [
+  "Capuccino"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_39zp5xsp",
+   "@type": "Person",
+   "name": "Yohannes Habtemariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ካፑቺኖ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.32",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=35579149"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=35579149"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x3q89a2q",
+   "@type": "Book"
+  }
+ ]
+}

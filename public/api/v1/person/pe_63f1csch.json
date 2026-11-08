@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirazranigusa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_63f1csch",
+ "id": "pe_63f1csch",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26572273",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26572273"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75388737",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75388737"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Ezra Nigusse"
+  },
+  "romanized": "Memihir Ezra Nigusse",
+  "sort_key": "memihirezranigusse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26572273"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_63f1csch",
+     "name": "Memihir Ezra Nigusse",
+     "role": "author",
+     "romanized": "Memihir Ezra Nigusse"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_tgxb42hd",
+   "id": "wk_tgxb42hd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aniketse Kidase Zedebir Abay",
+    "script": "Ethi",
+    "text": "አንቀፀ ቅዳሴ ዘደብር ዓባይ"
+   },
+   "type": "work"
+  }
+ ]
+}

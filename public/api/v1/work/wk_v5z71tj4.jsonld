@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_v5z71tj4",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xakgts4b",
+   "@type": "Person",
+   "name": "Amare Tefera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Miskelkel eta",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.04",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=14085744"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=14085744"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xrfy8m5f",
+   "@type": "Book"
+  }
+ ]
+}

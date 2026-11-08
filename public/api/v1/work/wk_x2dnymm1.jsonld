@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_x2dnymm1",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4and236m",
+   "@type": "Person",
+   "name": "Pope Kerlos"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Composition",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78793252"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan (1998 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78793252"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z0e5hywp",
+   "@type": "Book"
+  }
+ ]
+}

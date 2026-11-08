@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pm8tt4m8",
+ "@type": "Book",
+ "alternateName": [
+  "Mintiwab"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_50pbwxw2",
+   "@type": "Person",
+   "name": "Hiwot Teffera"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994478859",
+ "name": "ምንትዋብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=35666845"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=35666845"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_whktq0yh",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "extensions": {},
+ "fingerprint": "balaymakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kcw8btaq",
+ "id": "pe_kcw8btaq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01063400",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01063400"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91325133",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91325133"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Belay Mekonen"
+  },
+  "romanized": "Belay Mekonen",
+  "sort_key": "belaymekonen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01063400"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kcw8btaq",
+     "name": "Belay Mekonen",
+     "role": "author",
+     "romanized": "Belay Mekonen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_q211mg3t",
+   "id": "wk_q211mg3t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sine Kalawi Wegoch",
+    "script": "Ethi",
+    "text": "ሥነ ቃላዊ ወጎች"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_kcw8btaq",
+     "name": "Belay Mekonen",
+     "role": "author",
+     "romanized": "Belay Mekonen"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_q99d910h",
+   "id": "wk_q99d910h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Heyaw Lisan (Geez-Amharic Dictionary)",
+    "script": "Ethi",
+    "text": "ሕያው ልሳን ግእዝ-አማርኛ መዝገበ ቃላት"
+   },
+   "type": "work"
+  }
+ ]
+}

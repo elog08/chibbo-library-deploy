@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drhailuaraya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7w70pacm",
+ "id": "pe_7w70pacm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44728243",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44728243"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Hailu Araya"
+  },
+  "romanized": "Dr.Hailu Araya",
+  "sort_key": "drhailuaraya"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44728243"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7w70pacm",
+     "name": "Dr.Hailu Araya",
+     "role": "author",
+     "romanized": "Dr.Hailu Araya"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w7b9ef8f",
+   "id": "wk_w7b9ef8f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia Ena 5tu Hilmegnoch",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ እና 5ቱ ሕልመኞች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -29,15 +29,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/melhik-zenebe-wela"
+  },
+  {
+   "@type": "Offer",
+   "price": "13.54",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=75437195"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/melhik-zenebe-wela"
+  "https://www.ethiobookreview.com/book/melhik-zenebe-wela",
+  "https://www.mereb.shop/rs/?mpid=75437195"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_hcgkhb8f",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_7wv5sy05",
    "@type": "Book"
   },
   {

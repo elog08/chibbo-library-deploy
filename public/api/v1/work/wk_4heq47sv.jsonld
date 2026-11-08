@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4heq47sv",
+ "@type": "Book",
+ "alternateName": [
+  "Aba Yelos"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_m5xhxd59",
+   "@type": "Person",
+   "name": "Andarge Mesfin"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አባ የሎስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.95",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78025606"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78025606"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_cwa92c33",
+   "@type": "Book"
+  }
+ ]
+}

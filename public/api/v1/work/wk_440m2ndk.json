@@ -1,0 +1,128 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xgde6t8m",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አቶ፡ ደብረ፡ ጽዮን፡ ሥራ፡ ሠርተዋል፡\nክብር፡ ለእግዚአብሔር፡ በመልአክ፡ የተመሰገነ፡\nአስተዋይ፡ ነህ፡ ለአንተም፡ ንግግር፡ ፈጣሪ፡ ሕይወት፡ ይሰጣል፡\nእውነተኛ፡ የሰው፡ ልጅ፡ አክብር፡\nከአሁን፡ በፊት፡ በታሪክ፡ የተጻፈ፡\nፍቅር፡ ለሰው፡ ልጅ፡ የለውም፡\nሰው፡ ሆነ፡ ከሥራ፡ የሚገኝ፡\nምስጋና፡ ለአንተ፡ ይሁን፡\nክብር፡ ለጌታ፡ ይሁን፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "faith-and-philosophy",
+    "country-and-history",
+    "love"
+   ]
+  }
+ },
+ "fingerprint": "የእውቀትመልእክት|makababdasta",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_440m2ndk",
+ "id": "wk_440m2ndk",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_872ytzhe (ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም), pp. 115–115 (የአቶ መሰንበት ባልንጀርነት.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_872ytzhe.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_872ytzhe.png"
+  },
+  "credits": [
+   {
+    "id": "pe_xgde6t8m",
+    "name": "መክብብ ደስታ",
+    "role": "author",
+    "romanized": "mekebeb desta"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1933-09-11/1934-09-10",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted",
+   "filename-title-mismatch"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_872ytzhe",
+  "id": "wk_872ytzhe",
+  "language": "am",
+  "part_count": 22,
+  "poetry": true,
+  "poetry_tags": [
+   "country-and-history",
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+   "script": "Ethi",
+   "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+  },
+  "type": "work",
+  "year": 1933
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy",
+  "country-and-history",
+  "love"
+ ],
+ "provenance": {
+  "raw_sha256": "aa4819534197232c2dbed29fc6463531b13aa109f1257c5595f9e9c646708ebf",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_872ytzhe"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yeweket Melikt",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Message of Knowledge",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የዕውቀት መልእክት"
+  },
+  "romanized": "Yeweket Melikt",
+  "sort_key": "የእውቀትመልእክት"
+ },
+ "type": "work"
+}

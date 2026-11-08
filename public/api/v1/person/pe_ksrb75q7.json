@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "habtamusayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ksrb75q7",
+ "id": "pe_ksrb75q7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06035601",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06035601"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Habtamu Seyoum"
+  },
+  "romanized": "Habtamu Seyoum",
+  "sort_key": "habtamuseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06035601"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ksrb75q7",
+     "name": "Habtamu Seyoum",
+     "role": "author",
+     "romanized": "Habtamu Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yc8wsfh8",
+   "id": "wk_yc8wsfh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "17 Medfie Ena Haya Minamin Kumita",
+    "script": "Ethi",
+    "text": "17 መድፌ እና ሃያ ምናምን ቁምጣ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

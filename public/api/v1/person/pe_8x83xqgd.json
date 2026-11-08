@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "rschnaidar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8x83xqgd",
+ "id": "pe_8x83xqgd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48388395",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48388395"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95008110",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95008110"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "R.Schneider"
+  },
+  "romanized": "R.Schneider",
+  "sort_key": "rschneider"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48388395"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8x83xqgd",
+     "name": "R.Schneider",
+     "role": "author",
+     "romanized": "R.Schneider"
+    },
+    {
+     "id": "pe_8zdrnt5w",
+     "name": "Jacke Phillips",
+     "role": "author",
+     "romanized": "Jacke Phillips"
+    },
+    {
+     "id": "pe_nc6b57pd",
+     "name": "David W.Phillipson",
+     "role": "author",
+     "romanized": "David W.Phillipson"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1bny76cn",
+   "id": "wk_1bny76cn",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXI No.2 (December 1998)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1998
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dvmvsysn",
+     "name": "Akilu Yilma",
+     "role": "author",
+     "romanized": "Akilu Yilma"
+    },
+    {
+     "id": "pe_v8hjt6ya",
+     "name": "Abdussamad H.Ahmed",
+     "role": "author",
+     "romanized": "Abdussamad H.Ahmed"
+    },
+    {
+     "id": "pe_8x83xqgd",
+     "name": "R.Schneider",
+     "role": "author",
+     "romanized": "R.Schneider"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hhbhpstp",
+   "id": "wk_hhbhpstp",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXIX No.2 (December 1996)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

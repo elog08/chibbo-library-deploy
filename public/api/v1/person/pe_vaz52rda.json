@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "adisalamulat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vaz52rda",
+ "id": "pe_vaz52rda",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61254695",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61254695"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89636570",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89636570"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Addisalem Mulat"
+  },
+  "romanized": "Addisalem Mulat",
+  "sort_key": "addisalemmulat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=61254695"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vaz52rda",
+     "name": "Addisalem Mulat",
+     "role": "author",
+     "romanized": "Addisalem Mulat"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_0rt1wsd9",
+   "id": "wk_0rt1wsd9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mirit Teretoch Lelijoch",
+    "script": "Ethi",
+    "text": "ምርጥ ተረቶች ለልጆች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vaz52rda",
+     "name": "Addisalem Mulat",
+     "role": "author",
+     "romanized": "Addisalem Mulat"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a152c9e8",
+   "id": "wk_a152c9e8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kelem Kebiw Ena Lelochim Asidesach Teretoch",
+    "script": "Ethi",
+    "text": "ቀለም ቀቢው እና ሌሎችም አስደሳች ተረቶች"
+   },
+   "type": "work"
+  }
+ ]
+}

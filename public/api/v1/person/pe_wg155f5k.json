@@ -1,0 +1,135 @@
+{
+ "extensions": {},
+ "fingerprint": "arafaynahagos",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_wg155f5k",
+ "id": "pe_wg155f5k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27504835",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27504835"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "arefeayne hegos",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Arefayne Hagos",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አረፈዓይኔ ሐጎስ"
+  },
+  "romanized": "arefeayne hegos",
+  "sort_key": "አረፈአይኔሀጎስ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ቀልዶች አረፈዓይኔ ሃጎስ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27504835"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_er1120q3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_er1120q3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wg155f5k",
+     "name": "አረፈዓይኔ ሐጎስ",
+     "role": "author",
+     "romanized": "arefeayne hegos"
+    },
+    {
+     "id": "pe_wjjw4v99",
+     "name": "ኤፍሬም እንዳለ",
+     "role": "author",
+     "romanized": "efrem endale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1979?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_er1120q3",
+   "id": "wk_er1120q3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qeldoch",
+    "script": "Ethi",
+    "text": "ቀልዶች"
+   },
+   "type": "work",
+   "year": 1979
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_wg155f5k",
+     "name": "አረፈዓይኔ ሐጎስ",
+     "role": "author",
+     "romanized": "arefeayne hegos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hf2r0a9r",
+   "id": "wk_hf2r0a9r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aleka Gebrihana Ena Askign Kelidochachew Ena Keldoch KeGabrov Midir (Two Books under One Binding)",
+    "script": "Ethi",
+    "text": "አልቃ ገብረሃና እና አስቂኝ ቀልዶቻቸው እና ቀልዶች ከጋብሮቮ ምድር(ሁለት መጽሐፍ በአንድ ጥራዝ)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

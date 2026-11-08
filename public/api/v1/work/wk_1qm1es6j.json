@@ -1,0 +1,126 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xgde6t8m",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ክፍል ፩ ፥ ማርቲን ፥ ሉተር ፥ ተነሣ ፥\nከአሥራ ፥ አራተኛው ፥ ክፍለ ፥ ዘመንም ፥ በኋላ ፥...\n..."
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "country-and-history",
+    "faith-and-philosophy"
+   ]
+  }
+ },
+ "fingerprint": "መእራፍ|makababdasta",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_1qm1es6j",
+ "id": "wk_1qm1es6j",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_872ytzhe (ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም), pp. 177–177 (የአቶ መሰንበት ባልንጀርነት.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_872ytzhe.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_872ytzhe.png"
+  },
+  "credits": [
+   {
+    "id": "pe_xgde6t8m",
+    "name": "መክብብ ደስታ",
+    "role": "author",
+    "romanized": "mekebeb desta"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1933-09-11/1934-09-10",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted",
+   "filename-title-mismatch"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_872ytzhe",
+  "id": "wk_872ytzhe",
+  "language": "am",
+  "part_count": 22,
+  "poetry": true,
+  "poetry_tags": [
+   "country-and-history",
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+   "script": "Ethi",
+   "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+  },
+  "type": "work",
+  "year": 1933
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "country-and-history",
+  "faith-and-philosophy"
+ ],
+ "provenance": {
+  "raw_sha256": "f4627bb72d7c27ee013e06e75188c486a8570e3c9028b560f4f68ea60b96fe6b",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_872ytzhe"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Meeraf",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Chapter",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መዕራፍ"
+  },
+  "romanized": "Meeraf",
+  "sort_key": "መእራፍ"
+ },
+ "type": "work"
+}

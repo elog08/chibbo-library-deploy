@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "daronachamolu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d5wq0yyf",
+ "id": "pe_d5wq0yyf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70690615",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70690615"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daron Achemolu"
+  },
+  "romanized": "Daron Achemolu",
+  "sort_key": "daronachemolu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70690615"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d6g1cp7d",
+     "name": "James A Robinson",
+     "role": "author",
+     "romanized": "James A Robinson"
+    },
+    {
+     "id": "pe_d5wq0yyf",
+     "name": "Daron Achemolu",
+     "role": "author",
+     "romanized": "Daron Achemolu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v95dw5qg",
+   "id": "wk_v95dw5qg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mengisitat Lemin Ywedkalu?(YeSilitan,YeBilitsigina ena Yedihinet Minchoch)",
+    "script": "Ethi",
+    "text": "መንግስታት ለም ይወድቃሉ?(የሥልጣን የብልጽግናና የድህነት ምንጮች)"
+   },
+   "type": "work"
+  }
+ ]
+}

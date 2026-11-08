@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "profkinifabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jf3me9hc",
+ "id": "pe_jf3me9hc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52492380",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52492380"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof.Kinife Abreha"
+  },
+  "romanized": "Prof.Kinife Abreha",
+  "sort_key": "profkinifeabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52492380"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jf3me9hc",
+     "name": "Prof.Kinife Abreha",
+     "role": "author",
+     "romanized": "Prof.Kinife Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8kyq7h8x",
+   "id": "wk_8kyq7h8x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbay Guday (Fitihawi YeWeha Kffl Tiyake?)",
+    "script": "Ethi",
+    "text": "የአባይ ጉዳይ (ፍትሓዊ የውሃ ክፍፍል ጥያቄ ?)"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyababa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_sbcx2f1z",
+ "id": "pe_sbcx2f1z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54287113",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54287113"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abiy abebe",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Abiy Abebe",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቢይ አበበ"
+  },
+  "romanized": "abiy abebe",
+  "sort_key": "አቢይአበበ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አውቀን እንታረም - አቢይ አበበ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54287113"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_z7sxpmn9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_z7sxpmn9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sbcx2f1z",
+     "name": "አቢይ አበበ",
+     "role": "author",
+     "romanized": "abiy abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1963-09-12/1964-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xkz01hgh",
+   "id": "wk_xkz01hgh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awken Enetarem",
+    "script": "Ethi",
+    "text": "አውቀን እንታረም"
+   },
+   "type": "work",
+   "year": 1963
+  }
+ ]
+}

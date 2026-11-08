@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fp280mve",
+ "@type": "Book",
+ "alternateName": [
+  "Journal of Ethiopian Studies Vol.XXXV, No.2 (December 2002)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_n7dx2kf5",
+   "@type": "Person",
+   "name": "Elise Demeulenaere"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_qab1pdhv",
+   "@type": "Person",
+   "name": "Niclole Possionier"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_aknkvda6",
+   "@type": "Person",
+   "name": "Alula Pankhurst"
+  }
+ ],
+ "inLanguage": "en",
+ "name": "የኢትዮጵያ ጥናት መጽሔት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=81604172"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Institute of Ethiopian Studies Addis Ababa University (December 202)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=81604172"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vqrmjejk",
+   "@type": "Book"
+  }
+ ]
+}

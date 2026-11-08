@@ -18,7 +18,8 @@
   "text": "ሕማማት Himamat by Deacon Henok Haile Addis Books!"
  },
  "editions": [
-  "ed_gsmjj2fr"
+  "ed_gsmjj2fr",
+  "ed_efq7292f"
  ],
  "extensions": {},
  "fingerprint": "ህማማት|daconhanokhaila",
@@ -38,6 +39,9 @@
   ],
   "isbn13": [
    "9798349606595"
+  ],
+  "mereb_mpid": [
+   "05466140"
   ],
   "openlibrary": [
    "OL45114055W"
@@ -70,11 +74,31 @@
    "rel": "about",
    "status": "ok",
    "url": "https://openlibrary.org/works/OL45114055W"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05466140",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05466140"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "14.54",
+   "provider": "mereb",
+   "ref": "05466140",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05466140"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

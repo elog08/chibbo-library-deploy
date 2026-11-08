@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "drsolomonwmariamhabta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pkaazagr",
+ "id": "pe_pkaazagr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33076822",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33076822"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Solomon W/Mariam Habte"
+  },
+  "romanized": "Dr.Solomon W/Mariam Habte",
+  "sort_key": "drsolomonwmariamhabte"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33076822"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1y00thyv",
+     "name": "Dr.Almaz Habtamu Mamo",
+     "role": "author",
+     "romanized": "Dr.Almaz Habtamu Mamo"
+    },
+    {
+     "id": "pe_pkaazagr",
+     "name": "Dr.Solomon W/Mariam Habte",
+     "role": "author",
+     "romanized": "Dr.Solomon W/Mariam Habte"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_j30nwfcc",
+   "id": "wk_j30nwfcc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wana Wana Yedo Bshitawochina Yemekelakeya Zedewoch",
+    "script": "Ethi",
+    "text": "ዋና ዋና የዶሮ በሽታዎችና የመከላከያ ዘዴዎች"
+   },
+   "type": "work"
+  }
+ ]
+}

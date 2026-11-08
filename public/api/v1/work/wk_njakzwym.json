@@ -1,0 +1,126 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xgde6t8m",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የታሪክ፡ መዘክር፡ የሚገባው፡\nክብር፡ ለሰዎች፡ ሁሉ፡\nለእግዚአብሔር፡ ምስጋና፡ ይሁን፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "country-and-history",
+    "faith-and-philosophy"
+   ]
+  }
+ },
+ "fingerprint": "የታሪክመዘክር|makababdasta",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_njakzwym",
+ "id": "wk_njakzwym",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_872ytzhe (ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም), pp. 116–116 (የአቶ መሰንበት ባልንጀርነት.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_872ytzhe.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_872ytzhe.png"
+  },
+  "credits": [
+   {
+    "id": "pe_xgde6t8m",
+    "name": "መክብብ ደስታ",
+    "role": "author",
+    "romanized": "mekebeb desta"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1933-09-11/1934-09-10",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted",
+   "filename-title-mismatch"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_872ytzhe",
+  "id": "wk_872ytzhe",
+  "language": "am",
+  "part_count": 22,
+  "poetry": true,
+  "poetry_tags": [
+   "country-and-history",
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+   "script": "Ethi",
+   "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+  },
+  "type": "work",
+  "year": 1933
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "country-and-history",
+  "faith-and-philosophy"
+ ],
+ "provenance": {
+  "raw_sha256": "f7feecfcb2ee671b6bf568ab39bf7cca4cb06f8f578f664150f321aef58774d0",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_872ytzhe"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yetarik Mezekir",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Historical Memorial",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የታሪክ መዘክር"
+  },
+  "romanized": "Yetarik Mezekir",
+  "sort_key": "የታሪክመዘክር"
+ },
+ "type": "work"
+}

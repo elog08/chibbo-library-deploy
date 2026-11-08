@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadrosyakobmasati",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1rpfbkzf",
+ "id": "pe_1rpfbkzf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78815953",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78815953"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadros Ya'ekob Masati"
+  },
+  "romanized": "Tadros Ya'ekob Masati",
+  "sort_key": "tadrosyaekobmasati"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78815953"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1rpfbkzf",
+     "name": "Tadros Ya'ekob Masati",
+     "role": "author",
+     "romanized": "Tadros Ya'ekob Masati"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3best038",
+   "id": "wk_3best038",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidist Dingil Mariam BeOrthodoxawiyan Asitemihiro",
+    "script": "Ethi",
+    "text": "ቅድስት ድንግል ማሪያም በኦርቶዶክሳውያን አስተምህሮ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

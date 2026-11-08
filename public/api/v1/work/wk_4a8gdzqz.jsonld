@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4a8gdzqz",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mk6hasgh",
+   "@type": "Person",
+   "name": "Memeher Sisay Wegayehu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Assessment",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=77746861"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=77746861"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0hnc2hv7",
+   "@type": "Book"
+  }
+ ]
+}

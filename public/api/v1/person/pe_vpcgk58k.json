@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_vpcgk58k",
  "id": "pe_vpcgk58k",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03753621",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03753621"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -36,6 +45,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vpcgk58k",
+     "name": "ዘውዴ አርጋው",
+     "role": "author",
+     "romanized": "zewde argaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2cfgk962",
+   "id": "wk_2cfgk962",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAsimba Namuna Merkato",
+    "script": "Ethi",
+    "text": "የአሲምባ ናሙና መርካቶ"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_h38hkcx6.jpg",

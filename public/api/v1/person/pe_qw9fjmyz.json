@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tarikufantaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qw9fjmyz",
+ "id": "pe_qw9fjmyz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09696038",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09696038"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tariku Fentaye"
+  },
+  "romanized": "Tariku Fentaye",
+  "sort_key": "tarikufentaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09696038"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qw9fjmyz",
+     "name": "Tariku Fentaye",
+     "role": "author",
+     "romanized": "Tariku Fentaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_034ggpdk",
+   "id": "wk_034ggpdk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amarigna Hulu LeHulu",
+    "script": "Ethi",
+    "text": "አማርኛ ሁሉ ለሁሉ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

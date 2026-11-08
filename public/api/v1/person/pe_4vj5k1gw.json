@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "zanababraham",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4vj5k1gw",
+ "id": "pe_4vj5k1gw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37581808",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37581808"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76864393",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76864393"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zenebe Abreham"
+  },
+  "romanized": "Zenebe Abreham",
+  "sort_key": "zenebeabreham"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37581808"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4vj5k1gw",
+     "name": "Zenebe Abreham",
+     "role": "author",
+     "romanized": "Zenebe Abreham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7wzzbpge",
+   "id": "wk_7wzzbpge",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mushirawa Ayt",
+    "script": "Ethi",
+    "text": "ሙሽራዋ አይጥ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4vj5k1gw",
+     "name": "Zenebe Abreham",
+     "role": "author",
+     "romanized": "Zenebe Abreham"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gqa6nx33",
+   "id": "wk_gqa6nx33",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMarta Chachutoch Ena Eli Keleme",
+    "script": "Ethi",
+    "text": "የማርታ ጫጩቶች እና ኤሊ ቀለሜ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

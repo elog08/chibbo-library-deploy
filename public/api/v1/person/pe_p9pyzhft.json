@@ -1,0 +1,126 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirabababatamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p9pyzhft",
+ "id": "pe_p9pyzhft",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66263336",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66263336"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84275223",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84275223"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88423581",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88423581"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Abebe Bete Mariam"
+  },
+  "romanized": "Memihir Abebe Bete Mariam",
+  "sort_key": "memihirabebebetemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66263336"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p9pyzhft",
+     "name": "Memihir Abebe Bete Mariam",
+     "role": "author",
+     "romanized": "Memihir Abebe Bete Mariam"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_j00jtbx4",
+   "id": "wk_j00jtbx4",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wengele Yohannes (Yegeez Nibabu Bemilikit)",
+    "script": "Ethi",
+    "text": "ወንጌለ ዮሐንስ (የግእዝ ንባቡ በምልክት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_p9pyzhft",
+     "name": "Memihir Abebe Bete Mariam",
+     "role": "author",
+     "romanized": "Memihir Abebe Bete Mariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kbmeg8mq",
+   "id": "wk_kbmeg8mq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mezigebe Mahilete ZeTsige",
+    "script": "Ethi",
+    "text": "መዝገበ ማሕሌት ዘጽጌ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_p9pyzhft",
+     "name": "Memihir Abebe Bete Mariam",
+     "role": "author",
+     "romanized": "Memihir Abebe Bete Mariam"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_rtaz6ayg",
+   "id": "wk_rtaz6ayg",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mezmure Dawit (Nibabu Bemilikit)",
+    "script": "Ethi",
+    "text": "መዝሙረ ዳዊት (ንባቡ በምልክት)"
+   },
+   "type": "work"
+  }
+ ]
+}

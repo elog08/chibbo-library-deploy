@@ -1,0 +1,121 @@
+{
+ "extensions": {},
+ "fingerprint": "tsahaymalaku",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_mwscjg2h",
+ "id": "pe_mwscjg2h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82252859",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82252859"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tsehey melaku",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Tsehay Melaku",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ፀሐይ መላኩ"
+  },
+  "romanized": "tsehey melaku",
+  "sort_key": "ጸሀይመላኩ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንጉዝ በፀሀይ መላኩ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=82252859"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mwscjg2h",
+     "name": "ፀሐይ መላኩ",
+     "role": "author",
+     "romanized": "tsehey melaku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k9ky1jfr",
+   "id": "wk_k9ky1jfr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Brigadier General Tariku Ayne (1931- 1989)",
+    "script": "Ethi",
+    "text": "ብርጋዲየር ጀነራል ታሪኩ አይኔ (1931-1989)"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sxmp3rgq.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sxmp3rgq.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mwscjg2h",
+     "name": "ፀሐይ መላኩ",
+     "role": "author",
+     "romanized": "tsehey melaku"
+    },
+    {
+     "id": "pe_jkfhjr4j",
+     "name": "በላይ በየነ",
+     "role": "author",
+     "romanized": "belay beyene"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1991-09-12/1992-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_sxmp3rgq",
+   "id": "wk_sxmp3rgq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "anguz",
+    "script": "Ethi",
+    "text": "አንጉዝ"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

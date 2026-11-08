@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "yamanagabramaskal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_342dq70b",
+ "id": "pe_342dq70b",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16605135",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16605135"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21732624",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21732624"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yemane Gebremeskel"
+  },
+  "romanized": "Yemane Gebremeskel",
+  "sort_key": "yemanegebremeskel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16605135"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_342dq70b",
+     "name": "Yemane Gebremeskel",
+     "role": "author",
+     "romanized": "Yemane Gebremeskel"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_h7ykq6vx",
+   "id": "wk_h7ykq6vx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bashay Awalom ena YeEthiopia Selela Tarik",
+    "script": "Ethi",
+    "text": "ባሻይ ኣውዓሎም እና የኢትዮጵያ ስለላ ታሪክ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_342dq70b",
+     "name": "Yemane Gebremeskel",
+     "role": "author",
+     "romanized": "Yemane Gebremeskel"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kh1h1tap",
+   "id": "wk_kh1h1tap",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTigiray Eriso Aderoch Abyotawi Nikinake (1933-1939)",
+    "script": "Ethi",
+    "text": "የትግራይ አርሶ አደሮች አብዮታዊ ንቅናቄ (1933-1939)"
+   },
+   "type": "work"
+  }
+ ]
+}

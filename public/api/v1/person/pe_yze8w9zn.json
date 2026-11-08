@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamhirgarbrakidandasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yze8w9zn",
+ "id": "pe_yze8w9zn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92259884",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92259884"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memhir Gerbrekidan Desta"
+  },
+  "romanized": "Memhir Gerbrekidan Desta",
+  "sort_key": "memhirgerbrekidandesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92259884"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yze8w9zn",
+     "name": "Memhir Gerbrekidan Desta",
+     "role": "author",
+     "romanized": "Memhir Gerbrekidan Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9vh1kcvx",
+   "id": "wk_9vh1kcvx",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "TswTseway",
+    "script": "Ethi",
+    "text": "ፅውፅዋይ"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

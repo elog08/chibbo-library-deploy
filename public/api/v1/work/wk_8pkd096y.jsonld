@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8pkd096y",
+ "@type": "Book",
+ "alternateName": [
+  "Afelama"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5pvndyq8",
+   "@type": "Person",
+   "name": "Assefa Bekele G/Yesus"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አፈላማ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18756055"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18756055"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xejtg0gm",
+   "@type": "Book"
+  }
+ ]
+}

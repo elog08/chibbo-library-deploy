@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "ashatuchola",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ft0rpss4",
+ "id": "pe_ft0rpss4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00204720",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00204720"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eshetu Chole"
+  },
+  "romanized": "Eshetu Chole",
+  "sort_key": "eshetuchole"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00204720"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    },
+    {
+     "id": "pe_y919b8g8",
+     "name": "Hussein Ahmed",
+     "role": "author",
+     "romanized": "Hussein Ahmed"
+    },
+    {
+     "id": "pe_ft0rpss4",
+     "name": "Eshetu Chole",
+     "role": "author",
+     "romanized": "Eshetu Chole"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wawtqnmp",
+   "id": "wk_wawtqnmp",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXII (November 1989)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

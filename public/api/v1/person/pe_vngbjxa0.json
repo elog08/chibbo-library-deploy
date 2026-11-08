@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruysimia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vngbjxa0",
+ "id": "pe_vngbjxa0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32613493",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32613493"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Simie"
+  },
+  "romanized": "Hiruy Simie",
+  "sort_key": "hiruysimie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32613493"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vngbjxa0",
+     "name": "Hiruy Simie",
+     "role": "author",
+     "romanized": "Hiruy Simie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dxsprrh3",
+   "id": "wk_dxsprrh3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tikikilegnaw YeEthiopia Zemen Aqotater",
+    "script": "Ethi",
+    "text": "ትክክለኛው የኢትዮጵያ ዘመን አቆጣጠር"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "archbishopmatiasofagypt",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8wrd7vw1",
+ "id": "pe_8wrd7vw1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97473918",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97473918"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Archbishop Matias of Egypt"
+  },
+  "romanized": "Archbishop Matias of Egypt",
+  "sort_key": "archbishopmatiasofegypt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97473918"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8wrd7vw1",
+     "name": "Archbishop Matias of Egypt",
+     "role": "author",
+     "romanized": "Archbishop Matias of Egypt"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_35txjyx6",
+   "id": "wk_35txjyx6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitsum Amiliko",
+    "script": "Ethi",
+    "text": "ፍጹም አምልኮ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

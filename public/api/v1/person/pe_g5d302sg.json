@@ -1,0 +1,143 @@
+{
+ "extensions": {},
+ "fingerprint": "fikiramarkosdasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g5d302sg",
+ "id": "pe_g5d302sg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32715208",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32715208"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82655120",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82655120"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87460203",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87460203"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fikiremarkos Desta"
+  },
+  "romanized": "Fikiremarkos Desta",
+  "sort_key": "fikiremarkosdesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32715208"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g5d302sg",
+     "name": "Fikiremarkos Desta",
+     "role": "author",
+     "romanized": "Fikiremarkos Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_aefbgpsk",
+   "id": "wk_aefbgpsk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Jagma Kello YEbegaw Mebrek (YeHiwote Tarik)",
+    "script": "Ethi",
+    "text": "ጃገማ ኬሎ የበጋው መብረቅ (የሕይወት ታሪክ)"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_g5d302sg",
+     "name": "Fikiremarkos Desta",
+     "role": "author",
+     "romanized": "Fikiremarkos Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_txsppeje",
+   "id": "wk_txsppeje",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Achame",
+    "script": "Ethi",
+    "text": "አቻሜ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_g5d302sg",
+     "name": "Fikiremarkos Desta",
+     "role": "author",
+     "romanized": "Fikiremarkos Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w6bhm2y9",
+   "id": "wk_w6bhm2y9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Evangadi",
+    "script": "Ethi",
+    "text": "ኢቫንጋዲ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

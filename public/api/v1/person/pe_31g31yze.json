@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abidalamuzain",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_31g31yze",
+ "id": "pe_31g31yze",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13812850",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13812850"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abidela Muzein"
+  },
+  "romanized": "Abidela Muzein",
+  "sort_key": "abidelamuzein"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13812850"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_31g31yze",
+     "name": "Abidela Muzein",
+     "role": "author",
+     "romanized": "Abidela Muzein"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_da282f3y",
+   "id": "wk_da282f3y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Siketamana Tenama Lijochin YeMafria Tibeb",
+    "script": "Ethi",
+    "text": "ስኬታማና ጤናማ ልጆችን የማፍሪያ ጥበብ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

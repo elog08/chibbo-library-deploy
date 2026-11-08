@@ -15,7 +15,14 @@
  "editions": [
   "ed_nw757p2d"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "grief-and-mortality"
+   ]
+  }
+ },
  "fingerprint": "እሞትልሻለሁ|andualamsamaw",
  "first_published": {
   "alternates": [
@@ -76,6 +83,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "grief-and-mortality"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

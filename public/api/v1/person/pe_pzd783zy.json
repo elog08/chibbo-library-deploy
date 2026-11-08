@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "tigistafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pzd783zy",
+ "id": "pe_pzd783zy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90865564",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90865564"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tigist Tafere"
+  },
+  "romanized": "Tigist Tafere",
+  "sort_key": "tigisttafere"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90865564"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pzd783zy",
+     "name": "Tigist Tafere",
+     "role": "author",
+     "romanized": "Tigist Tafere"
+    },
+    {
+     "id": "pe_fmgj9j47",
+     "name": "Deacon Henok Haile",
+     "role": "author",
+     "romanized": "Deacon Henok Haile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_41xc8d3c",
+   "id": "wk_41xc8d3c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dengeturua emebet ena Leloch LibWeledochna Gitimoch",
+    "script": "Ethi",
+    "text": "ደንገጡራ እመቤት እና ሌሎች ልብወለዶችና ግጥሞች"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

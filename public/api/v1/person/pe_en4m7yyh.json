@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "philipmasdon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_en4m7yyh",
+ "id": "pe_en4m7yyh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19805230",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19805230"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Phillip Masdon"
+  },
+  "romanized": "Phillip Masdon",
+  "sort_key": "phillipmasdon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19805230"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_en4m7yyh",
+     "name": "Phillip Masdon",
+     "role": "author",
+     "romanized": "Phillip Masdon"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vnbnjz8s",
+   "id": "wk_vnbnjz8s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mechamia Alibaw Nigus",
+    "script": "Ethi",
+    "text": "መጫሚያ አልባው ንጉሥ"
+   },
+   "type": "work"
+  }
+ ]
+}

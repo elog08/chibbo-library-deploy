@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "akaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t45g7b3z",
+ "id": "pe_t45g7b3z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08233966",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08233966"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Akaye"
+  },
+  "romanized": "Akaye",
+  "sort_key": "akaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08233966"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_t45g7b3z",
+     "name": "Akaye",
+     "role": "author",
+     "romanized": "Akaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g252kmqx",
+   "id": "wk_g252kmqx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeras Mitat",
+    "script": "Ethi",
+    "text": "የራስ ምታት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

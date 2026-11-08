@@ -21,6 +21,38 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/henok-seyoum"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60080751",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60080751"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68228066",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68228066"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84737184",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84737184"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86095056",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86095056"
   }
  ],
  "locked_fields": [],
@@ -44,5 +76,90 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yhcnsw7d",
+     "name": "Henok Seyoum",
+     "role": "author",
+     "romanized": "Henok Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_73228cwj",
+   "id": "wk_73228cwj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gonderina Filega (YeGuzo Masitawesha)",
+    "script": "Ethi",
+    "text": "ጎንደርን ፍለጋ (የጉዞ ማስታወሻ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yhcnsw7d",
+     "name": "Henok Seyoum",
+     "role": "author",
+     "romanized": "Henok Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_h9wv42cg",
+   "id": "wk_h9wv42cg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wede Ethiopia Sewoch",
+    "script": "Ethi",
+    "text": "ወደ ኢትዮጵያ ሰዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yhcnsw7d",
+     "name": "Henok Seyoum",
+     "role": "author",
+     "romanized": "Henok Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rcrj55rg",
+   "id": "wk_rcrj55rg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hageren",
+    "script": "Ethi",
+    "text": "ሀገሬን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yhcnsw7d",
+     "name": "Henok Seyoum",
+     "role": "author",
+     "romanized": "Henok Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vhw9kzn5",
+   "id": "wk_vhw9kzn5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMenged Bereket (Wib YeGuzo Mastaweshawochu)",
+    "script": "Ethi",
+    "text": "የመንገድ በረከት (ውብ የጉዞ ማስታወሻዎቹ)"
+   },
+   "type": "work"
+  }
+ ]
 }

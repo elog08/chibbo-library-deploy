@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hinsanamakuriama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_46k61ex7",
+ "id": "pe_46k61ex7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53976982",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53976982"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99413613",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99413613"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hinsene Mekuria (M.A)"
+  },
+  "romanized": "Hinsene Mekuria (M.A)",
+  "sort_key": "hinsenemekuriama"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53976982"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_46k61ex7",
+     "name": "Hinsene Mekuria (M.A)",
+     "role": "author",
+     "romanized": "Hinsene Mekuria (M.A)"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_aewtbp4w",
+   "id": "wk_aewtbp4w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Haasaa Gadaa Conversation (Learn Oromo-English-Amharic without a Master)",
+    "script": "Ethi",
+    "text": "የኦሮምኛ-እንግሊዘኛ-አማርኛ ንግግር መማሪያ"
+   },
+   "type": "work"
+  }
+ ]
+}

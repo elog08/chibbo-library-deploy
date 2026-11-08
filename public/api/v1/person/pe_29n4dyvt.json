@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmangistugabrab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_29n4dyvt",
+ "id": "pe_29n4dyvt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18422556",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18422556"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mengistu Gebreab"
+  },
+  "romanized": "Memihir Mengistu Gebreab",
+  "sort_key": "memihirmengistugebreab"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18422556"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_29n4dyvt",
+     "name": "Memihir Mengistu Gebreab",
+     "role": "author",
+     "romanized": "Memihir Mengistu Gebreab"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6zmctrb0",
+   "id": "wk_6zmctrb0",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tsome Digua ZeKidus Yared",
+    "script": "Ethi",
+    "text": "ጾመ ድጉኣ ዘቅዱስ ያሬድ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

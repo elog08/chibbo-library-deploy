@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_yeyan0pt"
+  "ed_yeyan0pt",
+  "ed_18y3vs8y"
  ],
  "extensions": {},
  "fingerprint": "ዛጎል|andalagatakabada",
@@ -25,6 +26,9 @@
  "identifiers": {
   "afroread_id": [
    "d3189568-f870-4280-a728-471239537807"
+  ],
+  "mereb_mpid": [
+   "50410842"
   ]
  },
  "language": "am",
@@ -56,6 +60,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/Bookdetail/d3189568-f870-4280-a728-471239537807"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50410842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50410842"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "5.81",
+   "provider": "mereb",
+   "ref": "50410842",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50410842"
   }
  ],
  "locked_fields": [],
@@ -66,6 +88,7 @@
   "source": "afroread",
   "source_url": "https://afroreadapp.com/Store/Bookdetail/d3189568-f870-4280-a728-471239537807"
  },
+ "publisher_name": "Endalegeta Kebede (July 2012 (Third Edition))",
  "relations": [],
  "rights": {
   "shippable": false,

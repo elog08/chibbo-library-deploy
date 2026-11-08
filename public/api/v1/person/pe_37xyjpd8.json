@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "drodastadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_37xyjpd8",
+ "id": "pe_37xyjpd8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28178895",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28178895"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33570734",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33570734"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Rodas Tadese"
+  },
+  "romanized": "Dr.Rodas Tadese",
+  "sort_key": "drrodastadese"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28178895"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z1t680aq",
+     "name": "Dr.Getinet Feleke",
+     "role": "author",
+     "romanized": "Dr.Getinet Feleke"
+    },
+    {
+     "id": "pe_37xyjpd8",
+     "name": "Dr.Rodas Tadese",
+     "role": "author",
+     "romanized": "Dr.Rodas Tadese"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3mwgsd57",
+   "id": "wk_3mwgsd57",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Andromeda",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_z1t680aq",
+     "name": "Dr.Getinet Feleke",
+     "role": "author",
+     "romanized": "Dr.Getinet Feleke"
+    },
+    {
+     "id": "pe_37xyjpd8",
+     "name": "Dr.Rodas Tadese",
+     "role": "author",
+     "romanized": "Dr.Rodas Tadese"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8n656zn0",
+   "id": "wk_8n656zn0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Andromeda (Kutir 2)",
+    "script": "Ethi",
+    "text": "አንድሮሜዳ (ቁጥር 2)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "yod",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_veyjysvb",
+ "id": "pe_veyjysvb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20182923",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20182923"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yod"
+  },
+  "romanized": "Yod",
+  "sort_key": "yod"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20182923"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_veyjysvb",
+     "name": "Yod",
+     "role": "author",
+     "romanized": "Yod"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n44n287b",
+   "id": "wk_n44n287b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bariyana Diyaspora",
+    "script": "Ethi",
+    "text": "ባሪያና ዲያስፖራ"
+   },
+   "type": "work"
+  }
+ ]
+}

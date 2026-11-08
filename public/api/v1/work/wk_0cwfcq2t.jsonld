@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0cwfcq2t",
+ "@type": "Book",
+ "alternateName": [
+  "VOCABOLARIO ITALIANO AMARICO"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_1n8ky1sn",
+   "@type": "Person",
+   "name": "Gianfrancesco Lusini"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_ta4w8k2e",
+   "@type": "Person",
+   "name": "Birhanu Abebe"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994486649",
+ "name": "ጣልያንኛ አማርኛ መዝገበ ቃላት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=00481573"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Arada Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=00481573"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tesd118r",
+   "@type": "Book"
+  }
+ ]
+}

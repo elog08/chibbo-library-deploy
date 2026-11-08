@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_txsppeje",
+ "@type": "Book",
+ "alternateName": [
+  "Achame"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_g5d302sg",
+   "@type": "Person",
+   "name": "Fikiremarkos Desta"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አቻሜ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=32715208"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Fikiremarkos Desta"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=32715208"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_r8ap11nc",
+   "@type": "Book"
+  }
+ ]
+}

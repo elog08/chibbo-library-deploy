@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mulgatadabalkaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6asppg62",
+ "id": "pe_6asppg62",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79610231",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79610231"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mulgeta Debalkew"
+  },
+  "romanized": "Mulgeta Debalkew",
+  "sort_key": "mulgetadebalkew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79610231"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6asppg62",
+     "name": "Mulgeta Debalkew",
+     "role": "author",
+     "romanized": "Mulgeta Debalkew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pqzrta0z",
+   "id": "wk_pqzrta0z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Galahti Segi (YeHiwehat Yetitik Tigil Tarik 1967-83)",
+    "script": "Ethi",
+    "text": "ጋላህቲ ሠጊ (የህወሓት የትጥቅ ትግል ታሪክ 1967-83)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

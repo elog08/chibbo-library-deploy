@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "lulamalaku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j6fhkj6f",
+ "id": "pe_j6fhkj6f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02897810",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02897810"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99078804",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99078804"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Lule Melaku"
+  },
+  "romanized": "Lule Melaku",
+  "sort_key": "lulemelaku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02897810"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j6fhkj6f",
+     "name": "Lule Melaku",
+     "role": "author",
+     "romanized": "Lule Melaku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_c6bnx1de",
+   "id": "wk_c6bnx1de",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The history of Ethiopian Orthodox Tewahedo Church",
+    "script": "Latn",
+    "text": "The history of Ethiopian Orthodox Tewahedo Church"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_j6fhkj6f",
+     "name": "Lule Melaku",
+     "role": "author",
+     "romanized": "Lule Melaku"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wjbv3e3n",
+   "id": "wk_wjbv3e3n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBete Chrstian Tarik",
+    "script": "Ethi",
+    "text": "የቤተ ክርስቲያን ታሪክ"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

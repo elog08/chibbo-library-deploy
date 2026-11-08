@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6d72fmv7",
+ "@type": "Book",
+ "alternateName": [
+  "The Rich man and The Singer"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y0ahtrv8",
+   "@type": "Person",
+   "name": "Mesfin Hailemariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ብልጣ ዝንጀሮ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=40050733"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=40050733"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8b32ecv4",
+   "@type": "Book"
+  }
+ ]
+}

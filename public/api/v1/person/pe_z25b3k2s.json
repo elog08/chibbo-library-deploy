@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "masaratbahiru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z25b3k2s",
+ "id": "pe_z25b3k2s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82456860",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82456860"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Meseret Bahiru"
+  },
+  "romanized": "Meseret Bahiru",
+  "sort_key": "meseretbahiru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=82456860"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z25b3k2s",
+     "name": "Meseret Bahiru",
+     "role": "author",
+     "romanized": "Meseret Bahiru"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t20mccys",
+   "id": "wk_t20mccys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eserugn",
+    "script": "Ethi",
+    "text": "እሰሩኝ"
+   },
+   "type": "work"
+  }
+ ]
+}

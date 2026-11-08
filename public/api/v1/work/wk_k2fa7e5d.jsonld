@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k2fa7e5d",
+ "@type": "Book",
+ "alternateName": [
+  "KeGurezam Mariam Eske Addis Ababa"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_njhv8mba",
+   "@type": "Person",
+   "name": "Shibiru Tedla"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994494613",
+ "name": "ከጉሬዛም ማርያም እስከ አዲስ አበባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83329407"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=83329407"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_j6f0m9w9",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirdasakalab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3rs5n870",
+ "id": "pe_3rs5n870",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66798607",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66798607"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Dese Keleb"
+  },
+  "romanized": "Memihir Dese Keleb",
+  "sort_key": "memihirdesekeleb"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66798607"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3rs5n870",
+     "name": "Memihir Dese Keleb",
+     "role": "author",
+     "romanized": "Memihir Dese Keleb"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vz0f4s2t",
+   "id": "wk_vz0f4s2t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarike Negest (Keminilk 1gna eske Meniliki 2gna)",
+    "script": "Ethi",
+    "text": "ታሪከ ነገሥት (ከሚኒልክ ፩ይ እስከ ምኒልክ ፪ይ)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

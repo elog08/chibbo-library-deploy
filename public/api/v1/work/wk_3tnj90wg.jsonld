@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3tnj90wg",
+ "@type": "Book",
+ "alternateName": [
+  "Tebera"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_chnxmy67",
+   "@type": "Person",
+   "name": "Michael Asichenaki"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ተቤራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=30474309"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=30474309"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_kc9h4hqf",
+   "@type": "Book"
+  }
+ ]
+}

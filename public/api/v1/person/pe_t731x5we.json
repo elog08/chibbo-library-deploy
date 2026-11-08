@@ -1,0 +1,105 @@
+{
+ "extensions": {},
+ "fingerprint": "daconandualamarmias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t731x5we",
+ "id": "pe_t731x5we",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61217354",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61217354"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92901250",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92901250"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Andualem Ermias"
+  },
+  "romanized": "Deacon Andualem Ermias",
+  "sort_key": "deaconandualemermias"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=61217354"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_t731x5we",
+     "name": "Deacon Andualem Ermias",
+     "role": "author",
+     "romanized": "Deacon Andualem Ermias"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_112nk1h3",
+   "id": "wk_112nk1h3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Kidus Markos",
+    "script": "Ethi",
+    "text": "ገድለ ቅዱስ ማርቆስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_t731x5we",
+     "name": "Deacon Andualem Ermias",
+     "role": "author",
+     "romanized": "Deacon Andualem Ermias"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d1yqnrs2",
+   "id": "wk_d1yqnrs2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Birhan",
+    "script": "Ethi",
+    "text": "መጽሐፈ ብርሃን"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

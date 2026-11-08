@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "abiyilma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k5r4e4aa",
+ "id": "pe_k5r4e4aa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02097202",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02097202"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92441536",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92441536"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abiy Yilma"
+  },
+  "romanized": "Abiy Yilma",
+  "sort_key": "abiyyilma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02097202"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k5r4e4aa",
+     "name": "Abiy Yilma",
+     "role": "author",
+     "romanized": "Abiy Yilma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2xw37az8",
+   "id": "wk_2xw37az8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tsere 666",
+    "script": "Ethi",
+    "text": "ፀረ 666"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_k5r4e4aa",
+     "name": "Abiy Yilma",
+     "role": "author",
+     "romanized": "Abiy Yilma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kq067dh0",
+   "id": "wk_kq067dh0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alferam (Firhatin Mercha Menesaynsawi Ew'ket)",
+    "script": "Ethi",
+    "text": "አልፈራም (ፍርሃትን መርቻ መንፈሳይንሳዊ ዕውቀት)"
+   },
+   "type": "work"
+  }
+ ]
+}

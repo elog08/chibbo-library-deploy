@@ -27,15 +27,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/ehiadegn-ekesalehu-alemayehu-gelagay"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.78",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=47406978"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Alemayehu Gelagay"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/ehiadegn-ekesalehu-alemayehu-gelagay"
+  "https://www.ethiobookreview.com/book/ehiadegn-ekesalehu-alemayehu-gelagay",
+  "https://www.mereb.shop/rs/?mpid=47406978"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_cj6pdq2b",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_d5dd2zp8",
    "@type": "Book"
   }
  ]

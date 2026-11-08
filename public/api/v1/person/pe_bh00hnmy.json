@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "archbishopabumasayas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bh00hnmy",
+ "id": "pe_bh00hnmy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65455065",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65455065"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Archbishop Abume Esayas"
+  },
+  "romanized": "Archbishop Abume Esayas",
+  "sort_key": "archbishopabumeesayas"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65455065"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bh00hnmy",
+     "name": "Archbishop Abume Esayas",
+     "role": "author",
+     "romanized": "Archbishop Abume Esayas"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m3ttwsch",
+   "id": "wk_m3ttwsch",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Kidus Abune Gebere Nazirawi",
+    "script": "Ethi",
+    "text": "ገድለ ቅዱስ አቡነ ገብረ ናዝራዊ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

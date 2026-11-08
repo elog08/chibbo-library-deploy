@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "wiliamshakspara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3dxsmnca",
+ "id": "pe_3dxsmnca",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18228025",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18228025"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "William Shekspere"
+  },
+  "romanized": "William Shekspere",
+  "sort_key": "williamshekspere"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18228025"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3dxsmnca",
+     "name": "William Shekspere",
+     "role": "author",
+     "romanized": "William Shekspere"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_sbgae5yr",
+   "id": "wk_sbgae5yr",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "William Shekspear's Othello in Tigirigna",
+    "script": "Ethi",
+    "text": "ኦቴሎ"
+   },
+   "type": "work"
+  }
+ ]
+}

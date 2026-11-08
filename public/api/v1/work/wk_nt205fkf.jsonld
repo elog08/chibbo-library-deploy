@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_nt205fkf",
+ "@type": "Book",
+ "alternateName": [
+  "Difris"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9kf4qjy4",
+   "@type": "Person",
+   "name": "Dr.Moges Ayehu"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_3771av00",
+   "@type": "Person",
+   "name": "Dr.Moges"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ድፍርስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=49062938"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=49062938"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sza8dqjv",
+   "@type": "Book"
+  }
+ ]
+}

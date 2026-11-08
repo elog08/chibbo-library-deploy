@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "daconshimalismargia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wg7sk3x2",
+ "id": "pe_wg7sk3x2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76119708",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76119708"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88926706",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88926706"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Shimelis Mergia"
+  },
+  "romanized": "Deacon Shimelis Mergia",
+  "sort_key": "deaconshimelismergia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76119708"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wg7sk3x2",
+     "name": "Deacon Shimelis Mergia",
+     "role": "author",
+     "romanized": "Deacon Shimelis Mergia"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_ez2c2v6v",
+   "id": "wk_ez2c2v6v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeYohannes Wongle Bekidus Yohannes Afework (Kits Hulet)",
+    "script": "Ethi",
+    "text": "የዮሐንስ ወንጌል በቅዱስ ዮሐንስ አፈወርቅ (ቅጽ ሁለት)"
+   },
+   "type": "work",
+   "year": 2025
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_wg7sk3x2",
+     "name": "Deacon Shimelis Mergia",
+     "role": "author",
+     "romanized": "Deacon Shimelis Mergia"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xbbfm1xa",
+   "id": "wk_xbbfm1xa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Negere Mariyam (Besorya Kidusan Abatoch Ena Lelochim)",
+    "script": "Ethi",
+    "text": "ነገረ ማርያም (በሶርያ ቅዱሳን አባቶች እና ሌሎችም)"
+   },
+   "type": "work"
+  }
+ ]
+}

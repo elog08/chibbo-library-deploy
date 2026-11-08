@@ -28,7 +28,9 @@
  },
  "flags": [
   "format-paper-back",
-  "llm-extracted"
+  "unlicensed-full-text-source",
+  "llm-extracted",
+  "suspect-isbn"
  ],
  "form": "novel",
  "href": "https://chibbo.app/work/wk_8f9yskqx",
@@ -78,11 +80,20 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_153"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
+  "full text offered at https://typicalethiopian.com/wp-content/uploads/2022/03/ተልሚድ-ይስማዕከ-ወርቁ.pdf",
   "Read from PDF front matter: ተልሚድ - ይስማዕከ ወርቁ.pdf",
   "Also held as PDF: ተልሚድ.pdf"
  ],

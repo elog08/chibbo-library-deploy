@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "yosafkatama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9p066kew",
+ "id": "pe_9p066kew",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37020171",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37020171"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84072892",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84072892"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yosef Ketema"
+  },
+  "romanized": "Yosef Ketema",
+  "sort_key": "yosefketema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37020171"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9p066kew",
+     "name": "Yosef Ketema",
+     "role": "author",
+     "romanized": "Yosef Ketema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fnqm3835",
+   "id": "wk_fnqm3835",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ereto",
+    "script": "Ethi",
+    "text": "እሬቶ"
+   },
+   "type": "work"
+  }
+ ]
+}

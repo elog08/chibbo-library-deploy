@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "asiratkabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qvsesav7",
+ "id": "pe_qvsesav7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04533754",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04533754"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17199611",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17199611"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asirat Kebede"
+  },
+  "romanized": "Asirat Kebede",
+  "sort_key": "asiratkebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04533754"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qvsesav7",
+     "name": "Asirat Kebede",
+     "role": "author",
+     "romanized": "Asirat Kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_08xszsxn",
+   "id": "wk_08xszsxn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemshit Engida",
+    "script": "Ethi",
+    "text": "የምሽት እንግዳ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qvsesav7",
+     "name": "Asirat Kebede",
+     "role": "author",
+     "romanized": "Asirat Kebede"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4ajev6fw",
+   "id": "wk_4ajev6fw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yecherekatila",
+    "script": "Ethi",
+    "text": "የጨረቃ ጥላ"
+   },
+   "type": "work"
+  }
+ ]
+}

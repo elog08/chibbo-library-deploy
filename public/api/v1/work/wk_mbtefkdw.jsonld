@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mbtefkdw",
+ "@type": "Book",
+ "alternateName": [
+  "YeMinilik Tila"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_brn6y6xb",
+   "@type": "Person",
+   "name": "Seifu Adanech Bishaw"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9781792307706",
+ "name": "የምኒልክ ጥላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04887285"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04887285"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_7c8fths2",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "danialgmaskalkano",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ttk5wgs3",
+ "id": "pe_ttk5wgs3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27966644",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27966644"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80226253",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80226253"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel G/Meskel Keno"
+  },
+  "romanized": "Daniel G/Meskel Keno",
+  "sort_key": "danielgmeskelkeno"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27966644"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ttk5wgs3",
+     "name": "Daniel G/Meskel Keno",
+     "role": "author",
+     "romanized": "Daniel G/Meskel Keno"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5jzfbdhs",
+   "id": "wk_5jzfbdhs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yalitefetaw Wigizet",
+    "script": "Ethi",
+    "text": "ያልተፈታው ውግዘት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ttk5wgs3",
+     "name": "Daniel G/Meskel Keno",
+     "role": "author",
+     "romanized": "Daniel G/Meskel Keno"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f6htd2ms",
+   "id": "wk_f6htd2ms",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Haymanot Bahilina Tarik (YeAlekaAyalew Tamiru Timihirtina Kalesibiket)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሃይማኖት ባህልና ታሪክ (የአለቃ አያሌው ታምሩ ትምህርትና ቃለስብከት)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "drjhon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bs4eesh0",
+ "id": "pe_bs4eesh0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98972074",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98972074"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Jhon"
+  },
+  "romanized": "Dr. Jhon",
+  "sort_key": "drjhon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98972074"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bs4eesh0",
+     "name": "Dr. Jhon",
+     "role": "author",
+     "romanized": "Dr. Jhon"
+    },
+    {
+     "id": "pe_6v29hccg",
+     "name": "Dr.Jojo",
+     "role": "author",
+     "romanized": "Dr.Jojo"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_hbz9jcmj",
+   "id": "wk_hbz9jcmj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aksumawyan",
+    "script": "Ethi",
+    "text": "አክሱማውያን"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

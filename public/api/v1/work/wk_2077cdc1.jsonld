@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2077cdc1",
+ "@type": "Book",
+ "alternateName": [
+  "Origin"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_w87g1zga",
+   "@type": "Person",
+   "name": "Dan Brown"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኦሪጅን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=36731775"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=36731775"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6ycpegxx",
+   "@type": "Book"
+  }
+ ]
+}

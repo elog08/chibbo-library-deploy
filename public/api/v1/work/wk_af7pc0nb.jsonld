@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_af7pc0nb",
+ "@type": "Book",
+ "alternateName": [
+  "Aklilu Remembers"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_82e58y70",
+   "@type": "Person",
+   "name": "Aklilu Habtewold"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994452323",
+ "name": "የአክሊሉ ማስታወሻ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.55",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=54008110"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=54008110"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xwh7nw2j",
+   "@type": "Book"
+  }
+ ]
+}

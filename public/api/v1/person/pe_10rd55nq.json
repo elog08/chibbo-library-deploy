@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "aframtaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_10rd55nq",
+ "id": "pe_10rd55nq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19786730",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19786730"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Efrem Taye"
+  },
+  "romanized": "Efrem Taye",
+  "sort_key": "efremtaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19786730"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_10rd55nq",
+     "name": "Efrem Taye",
+     "role": "author",
+     "romanized": "Efrem Taye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6r3mvzpa",
+   "id": "wk_6r3mvzpa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bezemenawi Aserar Sewinetin Megenbat",
+    "script": "Ethi",
+    "text": "በዘመናዊ አሰራር ሰውነትን መገንባት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

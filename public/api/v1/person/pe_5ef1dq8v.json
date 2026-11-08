@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "fitsumwaldomariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5ef1dq8v",
+ "id": "pe_5ef1dq8v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51084520",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51084520"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fitsum Weldomariam"
+  },
+  "romanized": "Fitsum Weldomariam",
+  "sort_key": "fitsumweldomariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51084520"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5ef1dq8v",
+     "name": "Fitsum Weldomariam",
+     "role": "author",
+     "romanized": "Fitsum Weldomariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ms7wxzag",
+   "id": "wk_ms7wxzag",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaltezemerelachew",
+    "script": "Ethi",
+    "text": "ያልተዘመረላችው"
+   },
+   "type": "work"
+  }
+ ]
+}

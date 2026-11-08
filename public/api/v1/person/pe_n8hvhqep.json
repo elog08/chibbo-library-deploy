@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "ganayashatu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_n8hvhqep",
+ "id": "pe_n8hvhqep",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96157999",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96157999"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Genaye Eshetu"
+  },
+  "romanized": "Genaye Eshetu",
+  "sort_key": "genayeeshetu"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ከፖርኖግራፊ_ሱስ_መውጣት_ይቻላል!_Ermias_Kiros.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96157999"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_n8hvhqep",
+     "name": "Genaye Eshetu",
+     "role": "author",
+     "romanized": "Genaye Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yg2mtey0",
+   "id": "wk_yg2mtey0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tel'eko (Kedemit YeEthiopiya Ena Ye Ertra Misiyonawiyan Yetarik Wilibita)",
+    "script": "Ethi",
+    "text": "ተልእኮ (ቀደምት የኢትዮጵያ ና የኤርትራ ሚስዮናውያን የታሪክ ውልብታ)"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_ykpmphqc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ykpmphqc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_vypfc3gv",
+     "name": "Ermias Kiros",
+     "role": "author",
+     "romanized": "Ermias Kiros"
+    },
+    {
+     "id": "pe_n8hvhqep",
+     "name": "Genaye Eshetu",
+     "role": "author",
+     "romanized": "Genaye Eshetu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ykpmphqc",
+   "id": "wk_ykpmphqc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kepornografi sus mewtat yechalal!",
+    "script": "Ethi",
+    "text": "ከፖርኖግራፊ ሱስ መውጣት ይቻላል!"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

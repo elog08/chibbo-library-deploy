@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3xkzgcrw",
+ "@type": "Book",
+ "alternateName": [
+  "Perdu Totaw"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_eqbey0f5",
+   "@type": "Person",
+   "name": "Tatiyana Kifile"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፔርዱ ጦጣው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11099657"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11099657"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y81ww7zr",
+   "@type": "Book"
+  }
+ ]
+}

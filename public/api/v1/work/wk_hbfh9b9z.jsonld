@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hbfh9b9z",
+ "@type": "Book",
+ "alternateName": [
+  "Omahire"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_m8kvfpc4",
+   "@type": "Person",
+   "name": "Minilik Zeleke"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኦማሂሬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.19",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=10701321"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=10701321"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_trm2a7m7",
+   "@type": "Book"
+  }
+ ]
+}

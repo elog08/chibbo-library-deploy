@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "popadamatros",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j7s72asq",
+ "id": "pe_j7s72asq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26707840",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26707840"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pope Demetros"
+  },
+  "romanized": "Pope Demetros",
+  "sort_key": "popedemetros"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26707840"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j7s72asq",
+     "name": "Pope Demetros",
+     "role": "author",
+     "romanized": "Pope Demetros"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_q6rj0mvc",
+   "id": "wk_q6rj0mvc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mehaliye Mehaliy ZeSolomon (YeSolomon Mezmur Tirgum)",
+    "script": "Ethi",
+    "text": "መኃልየ መኃልይ ዘሰሎን (የሰሎሞን መዝሙር ትርጉም ማብራርያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

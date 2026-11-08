@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "daconmarshalahagna",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0mkmtphn",
+ "id": "pe_0mkmtphn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60229711",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60229711"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Mersha Alehegne"
+  },
+  "romanized": "Deacon Mersha Alehegne",
+  "sort_key": "deaconmershaalehegne"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60229711"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0mkmtphn",
+     "name": "Deacon Mersha Alehegne",
+     "role": "author",
+     "romanized": "Deacon Mersha Alehegne"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vxj9m4rf",
+   "id": "wk_vxj9m4rf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "The chronicles of Ethiopian popes",
+    "script": "Latn",
+    "text": "The chronicles of Ethiopian popes"
+   },
+   "type": "work"
+  }
+ ]
+}

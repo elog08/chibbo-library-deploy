@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p06aaaxt",
+ "@type": "Book",
+ "alternateName": [
+  "YeAbay Enqokeleshe"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hkma6nrz",
+   "@type": "Person",
+   "name": "Dereje Jagema"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_ra966n62",
+   "@type": "Person",
+   "name": "Eng. Biruk Woldeyohannes"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የዓባይ እንቆቅልሽ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.07",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=95053103"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=95053103"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mwf13svf",
+   "@type": "Book"
+  }
+ ]
+}

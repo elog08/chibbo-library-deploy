@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "yaradfantawoldayohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ekvcsy9n",
+ "id": "pe_ekvcsy9n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91835818",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91835818"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yared Fenta Wolde Yohannes"
+  },
+  "romanized": "Yared Fenta Wolde Yohannes",
+  "sort_key": "yaredfentawoldeyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=91835818"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ekvcsy9n",
+     "name": "Yared Fenta Wolde Yohannes",
+     "role": "author",
+     "romanized": "Yared Fenta Wolde Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_023w569c",
+   "id": "wk_023w569c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Finote Ge'ez (ZeMenawi)",
+    "script": "Ethi",
+    "text": "ፍኖተ ግእዝ(ዘመናዊ)"
+   },
+   "type": "work",
+   "year": 1994
+  }
+ ]
+}

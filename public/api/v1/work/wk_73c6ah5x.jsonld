@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_73c6ah5x",
+ "@type": "Book",
+ "alternateName": [
+  "Tiwisib"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_69k04xse",
+   "@type": "Person",
+   "name": "አበራ ለማ"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994436521",
+ "name": "ትውስብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=46235665"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=46235665"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wk1rcbwk",
+   "@type": "Book"
+  }
+ ]
+}

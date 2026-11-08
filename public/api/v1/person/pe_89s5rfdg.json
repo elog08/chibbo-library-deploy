@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "aldandarb",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_89s5rfdg",
+ "id": "pe_89s5rfdg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53297736",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53297736"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "El-dan Derb"
+  },
+  "romanized": "El-dan Derb",
+  "sort_key": "eldanderb"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53297736"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_89s5rfdg",
+     "name": "El-dan Derb",
+     "role": "author",
+     "romanized": "El-dan Derb"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bsek1sbr",
+   "id": "wk_bsek1sbr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tagayochu Bego-e-nder",
+    "script": "Ethi",
+    "text": "ታጋዮቹ በጎ-እ-ንደር"
+   },
+   "type": "work"
+  }
+ ]
+}

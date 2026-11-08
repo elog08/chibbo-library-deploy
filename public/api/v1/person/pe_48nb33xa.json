@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadilakasaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_48nb33xa",
+ "id": "pe_48nb33xa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11977279",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11977279"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tedila Kasaye"
+  },
+  "romanized": "Tedila Kasaye",
+  "sort_key": "tedilakasaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11977279"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_48nb33xa",
+     "name": "Tedila Kasaye",
+     "role": "author",
+     "romanized": "Tedila Kasaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nayrn61m",
+   "id": "wk_nayrn61m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asitemariye",
+    "script": "Ethi",
+    "text": "አስተማሪዬ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

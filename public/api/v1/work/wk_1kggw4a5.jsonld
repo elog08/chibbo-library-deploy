@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1kggw4a5",
+ "@type": "Book",
+ "alternateName": [
+  "YeRas Esiregna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2147d44a",
+   "@type": "Person",
+   "name": "Misgana Asimare"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የራስ እስረኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=57813676"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=57813676"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zhmz9gqd",
+   "@type": "Book"
+  }
+ ]
+}

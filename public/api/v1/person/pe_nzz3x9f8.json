@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhailamariyamlakaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nzz3x9f8",
+ "id": "pe_nzz3x9f8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06053354",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06053354"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35657674",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35657674"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hailemariyam Lakew"
+  },
+  "romanized": "Memihir Hailemariyam Lakew",
+  "sort_key": "memihirhailemariyamlakew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06053354"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nzz3x9f8",
+     "name": "Memihir Hailemariyam Lakew",
+     "role": "author",
+     "romanized": "Memihir Hailemariyam Lakew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3zgdeaq8",
+   "id": "wk_3zgdeaq8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeEnte Khnet",
+    "script": "Ethi",
+    "text": "በእንተ ክህነት"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nzz3x9f8",
+     "name": "Memihir Hailemariyam Lakew",
+     "role": "author",
+     "romanized": "Memihir Hailemariyam Lakew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qkxpyb40",
+   "id": "wk_qkxpyb40",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hawlte Sim'e",
+    "script": "Ethi",
+    "text": "ሐውልተ ስምዕ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

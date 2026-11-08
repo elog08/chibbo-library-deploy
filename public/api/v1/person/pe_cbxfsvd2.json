@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "fisahayaziakasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cbxfsvd2",
+ "id": "pe_cbxfsvd2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21856854",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21856854"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fisseha Yazzie Kassa"
+  },
+  "romanized": "Fisseha Yazzie Kassa",
+  "sort_key": "fissehayazziekassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21856854"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cbxfsvd2",
+     "name": "Fisseha Yazzie Kassa",
+     "role": "author",
+     "romanized": "Fisseha Yazzie Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_r05anpv9",
+   "id": "wk_r05anpv9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia YeAmst Shi Tarik (Kaltezemerelet Eyasu eskeTezemerelet E'ihadeg )(Metshaf 2)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የ5 ሺ ዓመት ታሪክ (ካልተዘመረለት እያሱ እስከተዘመረለት ኢህአዴግ)(መጽሐፍ 2)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

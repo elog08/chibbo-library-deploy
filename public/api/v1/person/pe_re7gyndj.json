@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "kadir",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_re7gyndj",
+ "id": "pe_re7gyndj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85690905",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85690905"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kedir"
+  },
+  "romanized": "Kedir",
+  "sort_key": "kedir"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85690905"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jfbq2tk9",
+     "name": "Kedir Seid",
+     "role": "author",
+     "romanized": "Kedir Seid"
+    },
+    {
+     "id": "pe_re7gyndj",
+     "name": "Kedir",
+     "role": "author",
+     "romanized": "Kedir"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a7kgb5dy",
+   "id": "wk_a7kgb5dy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDemena Gilach",
+    "script": "Ethi",
+    "text": "የደመና ግላጭ"
+   },
+   "type": "work"
+  }
+ ]
+}

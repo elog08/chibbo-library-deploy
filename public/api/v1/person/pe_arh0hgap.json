@@ -19,6 +19,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.wikidata.org/wiki/Q138002404"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63437128",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63437128"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94008294",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94008294"
   }
  ],
  "locked_fields": [],
@@ -53,6 +69,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_arh0hgap",
+     "name": "ገነት አየለ አንበሴ",
+     "role": "author",
+     "romanized": "genet ayele anbese"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_52mpqv77",
+   "id": "wk_52mpqv77",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lieutenant Colonel Mengistu H/mariam tizitawoch (Number 1)",
+    "script": "Ethi",
+    "text": "የሌተናንት ኮሎኔል መንግሥቱ ኃ/ማርያም ትዝታዎች (ቁጥር 1)"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_h1rmwena.png",
@@ -116,6 +153,27 @@
     "romanized": "beityopya keftenya teraroch qoytaye",
     "script": "Ethi",
     "text": "በኢትዮጵያ ከፍተኛ ተራሮች ቆይታዬ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_arh0hgap",
+     "name": "ገነት አየለ አንበሴ",
+     "role": "author",
+     "romanized": "genet ayele anbese"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x6z6630b",
+   "id": "wk_x6z6630b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Lieutenant Colonel Mengistu H/mariam tizitawoch (Number 2)",
+    "script": "Latn",
+    "text": "Lieutenant Colonel Mengistu H/mariam tizitawoch (Number 2)"
    },
    "type": "work"
   }

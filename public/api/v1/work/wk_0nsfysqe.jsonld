@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0nsfysqe",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a1gmc31m",
+   "@type": "Person",
+   "name": "Dr. Memeher Aba H/mariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Human being through faith",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=66128525"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=66128525"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hwraawng",
+   "@type": "Book"
+  }
+ ]
+}

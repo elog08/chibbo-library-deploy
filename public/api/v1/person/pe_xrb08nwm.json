@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "danialastil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xrb08nwm",
+ "id": "pe_xrb08nwm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29662935",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29662935"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniela Still"
+  },
+  "romanized": "Daniela Still",
+  "sort_key": "danielastill"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29662935"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xrb08nwm",
+     "name": "Daniela Still",
+     "role": "author",
+     "romanized": "Daniela Still"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_fnx4yehf",
+   "id": "wk_fnx4yehf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Brekereketa",
+    "script": "Latn",
+    "text": "Brekereketa"
+   },
+   "type": "work"
+  }
+ ]
+}

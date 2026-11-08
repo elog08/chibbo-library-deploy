@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "aliasmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nz4h4hdk",
+ "id": "pe_nz4h4hdk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66623554",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66623554"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elias Michael"
+  },
+  "romanized": "Elias Michael",
+  "sort_key": "eliasmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66623554"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nz4h4hdk",
+     "name": "Elias Michael",
+     "role": "author",
+     "romanized": "Elias Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1d4xcbqa",
+   "id": "wk_1d4xcbqa",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "A'emro",
+    "script": "Ethi",
+    "text": "አእምሮ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

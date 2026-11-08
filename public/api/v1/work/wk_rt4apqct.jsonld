@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rt4apqct",
+ "@type": "Book",
+ "alternateName": [
+  "YeBekel Tila"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jc4ha07w",
+   "@type": "Person",
+   "name": "Gesit Techane"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የበቀል ጥላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73164606"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73164606"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_a54y4xw2",
+   "@type": "Book"
+  }
+ ]
+}

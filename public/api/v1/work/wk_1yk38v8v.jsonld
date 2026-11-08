@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1yk38v8v",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vp4zkaz2",
+   "@type": "Person",
+   "name": "Zerihun Asfaw"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye-Sene-Teshuf Meseretawyan",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.85",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=52484623"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=52484623"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_97tjgg5f",
+   "@type": "Book"
+  }
+ ]
+}

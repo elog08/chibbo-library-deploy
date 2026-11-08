@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "atugaramaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6cvjh7mb",
+ "id": "pe_6cvjh7mb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06057409",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06057409"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Etu Geremew"
+  },
+  "romanized": "Etu Geremew",
+  "sort_key": "etugeremew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06057409"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6cvjh7mb",
+     "name": "Etu Geremew",
+     "role": "author",
+     "romanized": "Etu Geremew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hbcyp2f9",
+   "id": "wk_hbcyp2f9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yechin Menebanib ena Lelochm",
+    "script": "Ethi",
+    "text": "የጭን መነባንብ እና ሌሎችም"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

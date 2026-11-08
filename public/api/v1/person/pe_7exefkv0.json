@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "fiyodordostoyaviski",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7exefkv0",
+ "id": "pe_7exefkv0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54218398",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54218398"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fiyodor Dostoyeviski"
+  },
+  "romanized": "Fiyodor Dostoyeviski",
+  "sort_key": "fiyodordostoyeviski"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54218398"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7exefkv0",
+     "name": "Fiyodor Dostoyeviski",
+     "role": "author",
+     "romanized": "Fiyodor Dostoyeviski"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_npcs5ne9",
+   "id": "wk_npcs5ne9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSirichaw Metatif",
+    "script": "Ethi",
+    "text": "የሥርቻው መጣጥፍ"
+   },
+   "type": "work"
+  }
+ ]
+}

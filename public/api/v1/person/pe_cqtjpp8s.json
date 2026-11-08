@@ -1,0 +1,123 @@
+{
+ "extensions": {},
+ "fingerprint": "popashinoda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cqtjpp8s",
+ "id": "pe_cqtjpp8s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01041101",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01041101"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05281436",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05281436"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22491797",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22491797"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pope Shinoda"
+  },
+  "romanized": "Pope Shinoda",
+  "sort_key": "popeshinoda"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01041101"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cqtjpp8s",
+     "name": "Pope Shinoda",
+     "role": "author",
+     "romanized": "Pope Shinoda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_59jy1bpw",
+   "id": "wk_59jy1bpw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEmnet Hiywot",
+    "script": "Ethi",
+    "text": "የእምነት ሕይወት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cqtjpp8s",
+     "name": "Pope Shinoda",
+     "role": "author",
+     "romanized": "Pope Shinoda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hd9rj5wg",
+   "id": "wk_hd9rj5wg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nefse Ywededecwin Ayachihutin",
+    "script": "Ethi",
+    "text": "ነፍሴ የወደደችውን አያችሁትን?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cqtjpp8s",
+     "name": "Pope Shinoda",
+     "role": "author",
+     "romanized": "Pope Shinoda"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_ywsp3snz",
+   "id": "wk_ywsp3snz",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nay nisiha Hiwot",
+    "script": "Ethi",
+    "text": "ናይ ንስሓ ሕይወት"
+   },
+   "type": "work"
+  }
+ ]
+}

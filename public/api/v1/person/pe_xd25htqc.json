@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "michaldino",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xd25htqc",
+ "id": "pe_xd25htqc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04892776",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04892776"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Michael Dino"
+  },
+  "romanized": "Michael Dino",
+  "sort_key": "michaeldino"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04892776"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xd25htqc",
+     "name": "Michael Dino",
+     "role": "author",
+     "romanized": "Michael Dino"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j80tx0pz",
+   "id": "wk_j80tx0pz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hizibina Netsanet",
+    "script": "Ethi",
+    "text": "ሕዝብና ነፃነት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

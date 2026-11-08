@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_15jz2tnb",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2e29kdh4",
+   "@type": "Person",
+   "name": "አቤል ዘበነ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'tedi afro ye'talakenet mister",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28426598"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28426598"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nth9cpm8",
+   "@type": "Book"
+  }
+ ]
+}

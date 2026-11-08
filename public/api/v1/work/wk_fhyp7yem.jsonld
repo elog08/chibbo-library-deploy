@@ -31,15 +31,30 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/lela-ewnet-yelegnem-by-meron-getnet/"
+  },
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=37030766"
   }
  ],
  "sameAs": [
-  "https://addisbooks.com/book/lela-ewnet-yelegnem-by-meron-getnet/"
+  "https://addisbooks.com/book/lela-ewnet-yelegnem-by-meron-getnet/",
+  "https://www.mereb.shop/rs/?mpid=37030766"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_2ynzw1t7",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_0x5d2zpk",
    "@type": "Book"
   }
  ]

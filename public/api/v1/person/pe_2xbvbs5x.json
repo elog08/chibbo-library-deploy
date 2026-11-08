@@ -1,0 +1,124 @@
+{
+ "extensions": {},
+ "fingerprint": "asfawdamta",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_2xbvbs5x",
+ "id": "pe_2xbvbs5x",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32155483",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32155483"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "asfaw damte",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Asfaw Damte",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አስፋው ዳምጤ"
+  },
+  "romanized": "asfaw damte",
+  "sort_key": "አስፋውዳምጤ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንድ ለአምስት.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32155483"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3h1x3nzb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3h1x3nzb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_2xbvbs5x",
+     "name": "አስፋው ዳምጤ",
+     "role": "author",
+     "romanized": "asfaw damte"
+    },
+    {
+     "id": "pe_e3mzdtqp",
+     "name": "ሉቃስ ለማ",
+     "role": "author",
+     "romanized": "luqas lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3h1x3nzb",
+   "id": "wk_3h1x3nzb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "aned leameset",
+    "script": "Ethi",
+    "text": "አንድ ለአምስት"
+   },
+   "type": "work",
+   "year": 1980
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2xbvbs5x",
+     "name": "አስፋው ዳምጤ",
+     "role": "author",
+     "romanized": "asfaw damte"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_s575vsdw",
+   "id": "wk_s575vsdw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmaregna Tibebe Kalat Kignit",
+    "script": "Ethi",
+    "text": "የአማርኛ ጥበበ ቃላት ቅኝት"
+   },
+   "type": "work"
+  }
+ ]
+}

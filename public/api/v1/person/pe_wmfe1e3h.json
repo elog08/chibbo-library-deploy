@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "timikahatafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wmfe1e3h",
+ "id": "pe_wmfe1e3h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71818109",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71818109"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Timikehet Teffera"
+  },
+  "romanized": "Timikehet Teffera",
+  "sort_key": "timikehetteffera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=71818109"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wmfe1e3h",
+     "name": "Timikehet Teffera",
+     "role": "author",
+     "romanized": "Timikehet Teffera"
+    },
+    {
+     "id": "pe_drz5x3gr",
+     "name": "Buruk Abdu",
+     "role": "author",
+     "romanized": "Buruk Abdu"
+    },
+    {
+     "id": "pe_1vyeqrhd",
+     "name": "Girma Awegachew",
+     "role": "author",
+     "romanized": "Girma Awegachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1cytjvex",
+   "id": "wk_1cytjvex",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLVI (December 2013)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "aframsayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zg0e500t",
+ "id": "pe_zg0e500t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00592225",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00592225"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25620632",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25620632"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Efrem Seyoum"
+  },
+  "romanized": "Efrem Seyoum",
+  "sort_key": "efremseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00592225"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zg0e500t",
+     "name": "Efrem Seyoum",
+     "role": "author",
+     "romanized": "Efrem Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0mrfxwrt",
+   "id": "wk_0mrfxwrt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeYihuda Dildiyina Leloch Hasaboch",
+    "script": "Ethi",
+    "text": "የይሁዳ ድልድይና ሌሎች ሀሳቦች"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_zg0e500t",
+     "name": "Efrem Seyoum",
+     "role": "author",
+     "romanized": "Efrem Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_z6e07eqd",
+   "id": "wk_z6e07eqd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAwaju Gize (Milikit Filegana Leloch Hasaboch)",
+    "script": "Ethi",
+    "text": "የአዋጁ ጊዜ (ምልክት ፍለጋና ሌሎች ሃሳቦች)"
+   },
+   "type": "work"
+  }
+ ]
+}

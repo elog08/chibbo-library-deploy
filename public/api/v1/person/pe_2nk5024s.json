@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayagmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2nk5024s",
+ "id": "pe_2nk5024s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77345164",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77345164"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesfaye G/Michael"
+  },
+  "romanized": "Tesfaye G/Michael",
+  "sort_key": "tesfayegmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=77345164"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2nk5024s",
+     "name": "Tesfaye G/Michael",
+     "role": "author",
+     "romanized": "Tesfaye G/Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nkpz51be",
+   "id": "wk_nkpz51be",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Illuminati (Yealemachin Dibik Meriowch)",
+    "script": "Ethi",
+    "text": "ኢሉሚናቲ (የዓለማችን ድብቅ መሪዎች)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

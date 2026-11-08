@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "birhanuzaryihun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gt9gk3c6",
+ "id": "pe_gt9gk3c6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45354881",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45354881"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73333253",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73333253"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Birhanu Zeryihun"
+  },
+  "romanized": "Birhanu Zeryihun",
+  "sort_key": "birhanuzeryihun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45354881"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gt9gk3c6",
+     "name": "Birhanu Zeryihun",
+     "role": "author",
+     "romanized": "Birhanu Zeryihun"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_865f5ndq",
+   "id": "wk_865f5ndq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebedel Fitsame",
+    "script": "Ethi",
+    "text": "የበደል ፍጻሜ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_gt9gk3c6",
+     "name": "Birhanu Zeryihun",
+     "role": "author",
+     "romanized": "Birhanu Zeryihun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1981?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_htvk0pj6",
+   "id": "wk_htvk0pj6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ma'bel (Yeabiyot Mebacha)",
+    "script": "Ethi",
+    "text": "ማዕበል (የአብዮት መባቻ)"
+   },
+   "type": "work",
+   "year": 1981
+  }
+ ]
+}

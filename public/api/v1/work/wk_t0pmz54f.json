@@ -20,7 +20,14 @@
  "editions": [
   "ed_fa9mykq4"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "ሰፊናዬ|naodwubatu",
  "flags": [
   "suspect-isbn"
@@ -68,6 +75,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

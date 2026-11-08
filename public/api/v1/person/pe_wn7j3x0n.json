@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "profdanialkitaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wn7j3x0n",
+ "id": "pe_wn7j3x0n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14082576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14082576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof. Daniel Kitaw"
+  },
+  "romanized": "Prof. Daniel Kitaw",
+  "sort_key": "profdanielkitaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=14082576"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wn7j3x0n",
+     "name": "Prof. Daniel Kitaw",
+     "role": "author",
+     "romanized": "Prof. Daniel Kitaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wrseh7gt",
+   "id": "wk_wrseh7gt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eneho Menged LeEthiopia...",
+    "script": "Ethi",
+    "text": "እነሆ መንገድ ለኢትዮጵያ..."
+   },
+   "type": "work"
+  }
+ ]
+}

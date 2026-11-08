@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "flipmadson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7nf7tjm6",
+ "id": "pe_7nf7tjm6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85996845",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85996845"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Flip Madson"
+  },
+  "romanized": "Flip Madson",
+  "sort_key": "flipmadson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85996845"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7nf7tjm6",
+     "name": "Flip Madson",
+     "role": "author",
+     "romanized": "Flip Madson"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kgaxnqdj",
+   "id": "wk_kgaxnqdj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Atse Tewodros Yetinsaew Seme'at",
+    "script": "Ethi",
+    "text": "አፄ ቴዎድሮስ የትንሳኤው ሰማዕት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

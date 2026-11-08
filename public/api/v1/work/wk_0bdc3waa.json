@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_rv62kg0y"
+  "ed_rv62kg0y",
+  "ed_bc34w7bz"
  ],
  "extensions": {},
  "fingerprint": "የህይወቴፈርጦች|alamayahumamo",
@@ -35,7 +36,14 @@
  ],
  "href": "https://chibbo.app/work/wk_0bdc3waa",
  "id": "wk_0bdc3waa",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9781611191028"
+  ],
+  "mereb_mpid": [
+   "87430445"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -63,12 +71,31 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/yehiywete-fertoch-alemayehu-mamo"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87430445",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87430445"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.99",
+   "provider": "mereb",
+   "ref": "87430445",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87430445"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.00/5 from 0 rating(s), 2 written review(s)"
+  "ethiobookreview community rating 3.00/5 from 0 rating(s), 2 written review(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "harlodgmarcus",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kjtdxxeg",
+ "id": "pe_kjtdxxeg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01431316",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01431316"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Harlod G. Marcus"
+  },
+  "romanized": "Harlod G. Marcus",
+  "sort_key": "harlodgmarcus"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01431316"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kjtdxxeg",
+     "name": "Harlod G. Marcus",
+     "role": "author",
+     "romanized": "Harlod G. Marcus"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1a7fewnq",
+   "id": "wk_1a7fewnq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik (KeKidme Aksum Eske Ehadeg Mebacha)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ (ከቅድመ አክሱም እስከ ኢህአዴግ መባቻ)"
+   },
+   "type": "work"
+  }
+ ]
+}

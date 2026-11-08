@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drasafabalicha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07jh3vmv",
+ "id": "pe_07jh3vmv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51773209",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51773209"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Assefa Balicha"
+  },
+  "romanized": "Dr.Assefa Balicha",
+  "sort_key": "drassefabalicha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51773209"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07jh3vmv",
+     "name": "Dr.Assefa Balicha",
+     "role": "author",
+     "romanized": "Dr.Assefa Balicha"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fzvjjqbx",
+   "id": "wk_fzvjjqbx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Bahilawi Medihanitina Hikimina Yem'ete Amet Guzo",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ባሕላዊ መድሐኒትና ሕክምና የምዕተ ዓመት ጉዞ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "briantracy",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_swkftr8k",
+ "id": "pe_swkftr8k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48876078",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48876078"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70184319",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70184319"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Brian Tracy"
+  },
+  "romanized": "Brian Tracy",
+  "sort_key": "briantracy"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48876078"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_swkftr8k",
+     "name": "Brian Tracy",
+     "role": "author",
+     "romanized": "Brian Tracy"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qjjs1mnv",
+   "id": "wk_qjjs1mnv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Business Mind",
+    "script": "Ethi",
+    "text": "ቢዝነስ ማይንድ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_swkftr8k",
+     "name": "Brian Tracy",
+     "role": "author",
+     "romanized": "Brian Tracy"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vam47rr4",
+   "id": "wk_vam47rr4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sebeb Atabiza",
+    "script": "Ethi",
+    "text": "ሰበብ አታብዛ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3m73q0qp",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4nenj2xx",
+   "@type": "Person",
+   "name": "Dr.Abush Ayalew"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ze mind, volume 2",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=65809380"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=65809380"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_d92kpv0r",
+   "@type": "Book"
+  }
+ ]
+}

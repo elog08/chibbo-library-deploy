@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiramdaworkastifanos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_awxyv6fm",
+ "id": "pe_awxyv6fm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16180936",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16180936"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Amdework Estifanos"
+  },
+  "romanized": "Memihir Amdework Estifanos",
+  "sort_key": "memihiramdeworkestifanos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16180936"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_awxyv6fm",
+     "name": "Memihir Amdework Estifanos",
+     "role": "author",
+     "romanized": "Memihir Amdework Estifanos"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_abyc88wn",
+   "id": "wk_abyc88wn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metshafte Dirsanatihu Lekidus Kerlos",
+    "script": "Ethi",
+    "text": "መጽሕፍተ ድርሳናቲሁ ለክቅዱስ ቄርሎስ (ድርሳነ ቄርሎስ ዘውእቱ እስትግቡእ ግጻዌ ድርሳን ዘውእቱ ጵላድዮስ ተረፈ ቄርሎስ)"
+   },
+   "type": "work"
+  }
+ ]
+}

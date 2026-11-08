@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_341zwz95",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bf99nxn1",
+   "@type": "Person",
+   "name": "አቤል እ."
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'berhan nafkot, second edition",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=58374904"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=58374904"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ecdrjp3j",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "drhailugabruwmusa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2wvce7re",
+ "id": "pe_2wvce7re",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78599576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78599576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Hailu Gebru W/Muse"
+  },
+  "romanized": "Dr. Hailu Gebru W/Muse",
+  "sort_key": "drhailugebruwmuse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78599576"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2wvce7re",
+     "name": "Dr. Hailu Gebru W/Muse",
+     "role": "author",
+     "romanized": "Dr. Hailu Gebru W/Muse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wj7f0qnf",
+   "id": "wk_wj7f0qnf",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarike Zemene Mesafinti Tigray",
+    "script": "Ethi",
+    "text": "ታሪክ ዘመነ መሳፍንቲ ትግራይ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

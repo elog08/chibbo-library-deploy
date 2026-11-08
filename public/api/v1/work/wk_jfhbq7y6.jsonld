@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jfhbq7y6",
+ "@type": "Book",
+ "alternateName": [
+  "Inferno"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_w87g1zga",
+   "@type": "Person",
+   "name": "Dan Brown"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢንፌርኖ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.45",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=13759348"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=13759348"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_czwfcte5",
+   "@type": "Book"
+  }
+ ]
+}

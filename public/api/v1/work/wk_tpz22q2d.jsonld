@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_tpz22q2d",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The ten spiritual concepts",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.10",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=00635661"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=00635661"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_cb6t91hs",
+   "@type": "Book"
+  }
+ ]
+}

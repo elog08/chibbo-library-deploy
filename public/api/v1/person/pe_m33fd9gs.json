@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "bartaclay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m33fd9gs",
+ "id": "pe_m33fd9gs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57814233",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57814233"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98581128",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98581128"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berta Clay"
+  },
+  "romanized": "Berta Clay",
+  "sort_key": "bertaclay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57814233"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m33fd9gs",
+     "name": "Berta Clay",
+     "role": "author",
+     "romanized": "Berta Clay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8r500m3w",
+   "id": "wk_8r500m3w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hilina Sitawer",
+    "script": "Ethi",
+    "text": "ህሊና ሲታወር"
+   },
+   "type": "work",
+   "year": 2001
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_m33fd9gs",
+     "name": "Berta Clay",
+     "role": "author",
+     "romanized": "Berta Clay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8t2rck9n",
+   "id": "wk_8t2rck9n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWibet Wetimed",
+    "script": "Ethi",
+    "text": "የውበት ወጥመድ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

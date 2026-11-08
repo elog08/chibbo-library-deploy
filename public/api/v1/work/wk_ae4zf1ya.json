@@ -14,6 +14,7 @@
  ],
  "editions": [
   "ed_f4hpm4vv",
+  "ed_x5dm84xq",
   "ed_58f6s5q3"
  ],
  "extensions": {},
@@ -38,6 +39,9 @@
  "href": "https://chibbo.app/work/wk_ae4zf1ya",
  "id": "wk_ae4zf1ya",
  "identifiers": {
+  "mereb_mpid": [
+   "45358721"
+  ],
   "pdf_pagehash": [
    "0e1e1e161e169690",
    "c0e0e0e2e0e0c0c0",
@@ -71,6 +75,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/yebole-gudoch-helen-assefa"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45358721",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45358721"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "16.99",
+   "provider": "mereb",
+   "ref": "45358721",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45358721"
   }
  ],
  "locked_fields": [],
@@ -84,6 +106,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/yebole-gudoch-helen-assefa"
  },
+ "publisher_name": "Helen Assefa",
  "relations": [],
  "rights": {
   "shippable": false,

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "wondwasanwuba",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vcc7z0db",
+ "id": "pe_vcc7z0db",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95265071",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95265071"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Wondwesen Wube"
+  },
+  "romanized": "Wondwesen Wube",
+  "sort_key": "wondwesenwube"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=95265071"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vcc7z0db",
+     "name": "Wondwesen Wube",
+     "role": "author",
+     "romanized": "Wondwesen Wube"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nnje2w6s",
+   "id": "wk_nnje2w6s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sekokawe jigjiga (Yaltenebebew Bedem Yetestafe Wengel)",
+    "script": "Ethi",
+    "text": "ሰቆቃወ ጅግጅጋ (ያልተነበበው በደም የተጻፈ ወንጌል)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kalamaworkgizaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rh86jzg2",
+ "id": "pe_rh86jzg2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49578458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49578458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kelemework Gizaw"
+  },
+  "romanized": "Kelemework Gizaw",
+  "sort_key": "kelemeworkgizaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49578458"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rh86jzg2",
+     "name": "Kelemework Gizaw",
+     "role": "author",
+     "romanized": "Kelemework Gizaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xwr07eyw",
+   "id": "wk_xwr07eyw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGurage Migib Aserar (Ke46 Aynet Belay Endale Yawkalun?)",
+    "script": "Ethi",
+    "text": "የጉራጌ ምግብ አሠራር (ከ46 ዓይነት በላይ እንዳለ ያውቃሉን?)"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

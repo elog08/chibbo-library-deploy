@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "batsagawmalaku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f96pebs1",
+ "id": "pe_f96pebs1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78959285",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78959285"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Betsegaw Melaku"
+  },
+  "romanized": "Betsegaw Melaku",
+  "sort_key": "betsegawmelaku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78959285"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f96pebs1",
+     "name": "Betsegaw Melaku",
+     "role": "author",
+     "romanized": "Betsegaw Melaku"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x93cgfvs",
+   "id": "wk_x93cgfvs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Huletu Ethiopiyawoch (YeMetshaf Kiduswa Ethiopiana Yeahunua Ethiopia Ande Nachew?)",
+    "script": "Ethi",
+    "text": "ሁለቱ ኢትዮጵያዎች (የመጽሐፍ ቅዱስዋ ኢትዮጵያና የአሁኑኣሜ ኢርቶጵያ አንድ ናቸው?)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

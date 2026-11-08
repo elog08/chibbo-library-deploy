@@ -37,6 +37,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://en.wikipedia.org/wiki/Sebhat_Gebre-Egziabher"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
   }
  ],
  "locked_fields": [],
@@ -157,6 +173,7 @@
     "llm-extracted",
     "calendar-ambiguous"
    ],
+   "form": "print",
    "href": "https://chibbo.app/work/wk_4py5ms11",
    "id": "wk_4py5ms11",
    "language": "am",
@@ -324,49 +341,6 @@
   },
   {
    "cover": {
-    "path": "assets/covers/wk_p91vjv3g.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p91vjv3g.png"
-   },
-   "credits": [
-    {
-     "id": "pe_tz78y5xr",
-     "name": "ስብሀት ገብረእግዚአብሄር",
-     "role": "author",
-     "romanized": "sebhet gebreegziabher"
-    },
-    {
-     "id": "pe_t5dvt89d",
-     "name": "ታምራት ገዛኸኝ",
-     "role": "author",
-     "romanized": "tamrat gezakeny"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2000?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "llm-extracted",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_p91vjv3g",
-   "id": "wk_p91vjv3g",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "sebatenyaw melak",
-    "script": "Ethi",
-    "text": "ሰባተኛው መልአክ"
-   },
-   "type": "work",
-   "year": 2000
-  },
-  {
-   "cover": {
     "path": "assets/covers/wk_pgf2wv3t.png",
     "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pgf2wv3t.png"
    },
@@ -401,8 +375,8 @@
   },
   {
    "cover": {
-    "path": "assets/covers/wk_wcj8tmy7.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wcj8tmy7.png"
+    "path": "assets/covers/wk_wcj8tmy7.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ትኩሳት_እንደ_ወረደ.jpg"
    },
    "credits": [
     {
@@ -421,8 +395,10 @@
    },
    "flags": [
     "calendar-ambiguous",
+    "unlicensed-full-text-source",
     "llm-extracted"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_wcj8tmy7",
    "id": "wk_wcj8tmy7",
    "language": "am",
@@ -437,12 +413,22 @@
    "year": 1997
   },
   {
+   "cover": {
+    "path": "assets/covers/wk_p91vjv3g.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p91vjv3g.png"
+   },
    "credits": [
     {
      "id": "pe_tz78y5xr",
      "name": "ስብሀት ገብረእግዚአብሄር",
      "role": "author",
      "romanized": "sebhet gebreegziabher"
+    },
+    {
+     "id": "pe_t5dvt89d",
+     "name": "ታምራት ገዛኸኝ",
+     "role": "author",
+     "romanized": "tamrat gezakeny"
     }
    ],
    "date": {
@@ -453,8 +439,10 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "llm-extracted"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_xzzzf9xv",
    "id": "wk_xzzzf9xv",
    "language": "am",

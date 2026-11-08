@@ -1,0 +1,182 @@
+{
+ "extensions": {},
+ "fingerprint": "anidargamasfin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3s0msc58",
+ "id": "pe_3s0msc58",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02372742",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02372742"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69920293",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69920293"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74976348",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74976348"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83093237",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83093237"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95805470",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95805470"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Anidarge Mesfin"
+  },
+  "romanized": "Anidarge Mesfin",
+  "sort_key": "anidargemesfin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02372742"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3s0msc58",
+     "name": "Anidarge Mesfin",
+     "role": "author",
+     "romanized": "Anidarge Mesfin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_21tcr7qy",
+   "id": "wk_21tcr7qy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kilet",
+    "script": "Ethi",
+    "text": "ቅሌት"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3s0msc58",
+     "name": "Anidarge Mesfin",
+     "role": "author",
+     "romanized": "Anidarge Mesfin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n9fvt4td",
+   "id": "wk_n9fvt4td",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dem Bedem",
+    "script": "Ethi",
+    "text": "ደም በደም"
+   },
+   "type": "work",
+   "year": 2001
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3s0msc58",
+     "name": "Anidarge Mesfin",
+     "role": "author",
+     "romanized": "Anidarge Mesfin"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_tm78yq7k",
+   "id": "wk_tm78yq7k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dar Eske Dar",
+    "script": "Ethi",
+    "text": "ዳር እስከ ዳር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3s0msc58",
+     "name": "Anidarge Mesfin",
+     "role": "author",
+     "romanized": "Anidarge Mesfin"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wcye2gaq",
+   "id": "wk_wcye2gaq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tikur Dem",
+    "script": "Ethi",
+    "text": "ጥቁር ደም"
+   },
+   "type": "work"
+  }
+ ]
+}

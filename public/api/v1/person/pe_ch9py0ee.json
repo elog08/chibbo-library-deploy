@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_ch9py0ee",
  "id": "pe_ch9py0ee",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49716842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49716842"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -56,7 +65,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "suspect-isbn"
    ],
    "href": "https://chibbo.app/work/wk_vf262wr4",
    "id": "wk_vf262wr4",

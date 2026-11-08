@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "alamayahuhaila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kcxag8wq",
+ "id": "pe_kcxag8wq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51210075",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51210075"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84115377",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84115377"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alemayehu Haile"
+  },
+  "romanized": "Alemayehu Haile",
+  "sort_key": "alemayehuhaile"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51210075"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kcxag8wq",
+     "name": "Alemayehu Haile",
+     "role": "author",
+     "romanized": "Alemayehu Haile"
+    },
+    {
+     "id": "pe_fhvgqs88",
+     "name": "Baye Yimam",
+     "role": "author",
+     "romanized": "Baye Yimam"
+    },
+    {
+     "id": "pe_v8hjt6ya",
+     "name": "Abdussamad H.Ahmed",
+     "role": "author",
+     "romanized": "Abdussamad H.Ahmed"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1987?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_srv0d1s0",
+   "id": "wk_srv0d1s0",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XX (November 1987)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1987
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fhvgqs88",
+     "name": "Baye Yimam",
+     "role": "author",
+     "romanized": "Baye Yimam"
+    },
+    {
+     "id": "pe_kcxag8wq",
+     "name": "Alemayehu Haile",
+     "role": "author",
+     "romanized": "Alemayehu Haile"
+    },
+    {
+     "id": "pe_10s1j43f",
+     "name": "Ahemd Hassen Omer",
+     "role": "author",
+     "romanized": "Ahemd Hassen Omer"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vdf07af1",
+   "id": "wk_vdf07af1",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXVIII (December 1995)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

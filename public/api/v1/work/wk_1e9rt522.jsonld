@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1e9rt522",
+ "@type": "Book",
+ "alternateName": [
+  "E'kid 27"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_cr0jt9jh",
+   "@type": "Person",
+   "name": "ጌታቸው ተድላ አበበ"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994493883",
+ "name": "ዕቅድ 27",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=68690058"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=68690058"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tcnzrfmw",
+   "@type": "Book"
+  }
+ ]
+}

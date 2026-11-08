@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "munurohay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qvgfs1wb",
+ "id": "pe_qvgfs1wb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57361759",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57361759"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Munuro Hay"
+  },
+  "romanized": "Munuro Hay",
+  "sort_key": "munurohay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57361759"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qvgfs1wb",
+     "name": "Munuro Hay",
+     "role": "author",
+     "romanized": "Munuro Hay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jj0fd2m4",
+   "id": "wk_jj0fd2m4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTsilate Muse E'wnetegna Mistir (KeSina Terara Eske Aksum Tsion)(the true history of the tablets of mosses)",
+    "script": "Ethi",
+    "text": "የጽላተ ሙሴ እውነተኛ ምስጢር (ከሲና ተራራ እስከ አክሱም ጽዮን)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "milionshuruba",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wnc6g1g6",
+ "id": "pe_wnc6g1g6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15381277",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15381277"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Million Shurube"
+  },
+  "romanized": "Million Shurube",
+  "sort_key": "millionshurube"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15381277"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wnc6g1g6",
+     "name": "Million Shurube",
+     "role": "author",
+     "romanized": "Million Shurube"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5kaw2xhv",
+   "id": "wk_5kaw2xhv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wesibawi Wisilitina (Ze-Addis Ababa)(Yemedinachin yeBaletidarochina Yebet Lijoch Afengach Wesibawi Wislitina Yemiyaskagn Metsihaf)",
+    "script": "Ethi",
+    "text": "ወሲባዊ ውስልትና (ዘ-አዲስ አበባ)(የመዲናችንን የባለትዳሮችና የቤት ልጆች አፈንጋጭ ወሲባዊ ውስልትና የሚያስቃኝ መፅሃፍ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

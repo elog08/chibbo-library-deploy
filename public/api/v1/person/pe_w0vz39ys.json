@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalmalayamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w0vz39ys",
+ "id": "pe_w0vz39ys",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36428460",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36428460"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel MeleY Amare"
+  },
+  "romanized": "Colonel MeleY Amare",
+  "sort_key": "colonelmeleyamare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36428460"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w0vz39ys",
+     "name": "Colonel MeleY Amare",
+     "role": "author",
+     "romanized": "Colonel MeleY Amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xkdsefys",
+   "id": "wk_xkdsefys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bisot-yeweledew... (YeTigiray Hizib YeTitik Tigilina Yehywet Amerar (1967-1981 E.C)",
+    "script": "Ethi",
+    "text": "ብሶት የወለደው...(የትግራይ ህዝብ የትጥቅ ትግልና የህይወት ኣመራር(1967-1981ዓ.ም)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

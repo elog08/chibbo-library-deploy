@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "dacondamisatafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tjr0jvt4",
+ "id": "pe_tjr0jvt4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16936149",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16936149"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Demisse Teferra"
+  },
+  "romanized": "Deacon Demisse Teferra",
+  "sort_key": "deacondemisseteferra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16936149"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tjr0jvt4",
+     "name": "Deacon Demisse Teferra",
+     "role": "author",
+     "romanized": "Deacon Demisse Teferra"
+    },
+    {
+     "id": "pe_5xk3gyvp",
+     "name": "Memihir Bizuneh Shibeshi",
+     "role": "author",
+     "romanized": "Memihir Bizuneh Shibeshi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fb8w1kd9",
+   "id": "wk_fb8w1kd9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Higigate Wengel",
+    "script": "Ethi",
+    "text": "ሕግጋተ ወንጌል"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1hj7rb8v",
+ "@type": "Book",
+ "alternateName": [
+  "Efoyta"
+ ],
+ "image": "https://typicalethiopian.com/wp-content/uploads/2022/02/እመጓ-pdf-1.jpg",
+ "inLanguage": "am",
+ "name": "እፎይታ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "16.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=94948111"
+  }
+ ],
+ "sameAs": [
+  "https://typicalethiopian.com/ethiopian-books/",
+  "https://www.mereb.shop/rs/?mpid=94948111"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sh2rqga7",
+   "@type": "Book"
+  }
+ ]
+}

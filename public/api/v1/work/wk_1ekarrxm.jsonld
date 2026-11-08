@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1ekarrxm",
+ "@type": "Book",
+ "alternateName": [
+  "Ye'Ertra mezez"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_btmbn319",
+   "@type": "Person",
+   "name": "Amsalu Gebrezegi Gebru (Colonel)"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የኤርትራ መዘዝ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=09532191"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=09532191"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nnnmh1m4",
+   "@type": "Book"
+  }
+ ]
+}

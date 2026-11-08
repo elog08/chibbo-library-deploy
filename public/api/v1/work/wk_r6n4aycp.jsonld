@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_r6n4aycp",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xma3bww1",
+   "@type": "Person",
+   "name": "Alemnehe Regasa"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Mehan Enat",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.78",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78528064"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78528064"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0br6znxv",
+   "@type": "Book"
+  }
+ ]
+}

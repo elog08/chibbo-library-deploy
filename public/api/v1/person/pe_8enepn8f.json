@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bahailugabragziabhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8enepn8f",
+ "id": "pe_8enepn8f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72411038",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72411038"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Behailu Gebre'gziabher"
+  },
+  "romanized": "Behailu Gebre'gziabher",
+  "sort_key": "behailugebregziabher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72411038"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8enepn8f",
+     "name": "Behailu Gebre'gziabher",
+     "role": "author",
+     "romanized": "Behailu Gebre'gziabher"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_njrf7z44",
+   "id": "wk_njrf7z44",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nuro ena Poletika (Achachir Chewatawoch)",
+    "script": "Ethi",
+    "text": "ኑሮ እና ፖለቲካ (አጫጭር ጨዋታዎች)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tikumsat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kaw2qj3y",
+ "id": "pe_kaw2qj3y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54667744",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54667744"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tikumsat"
+  },
+  "romanized": "Tikumsat",
+  "sort_key": "tikumsat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54667744"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kaw2qj3y",
+     "name": "Tikumsat",
+     "role": "author",
+     "romanized": "Tikumsat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ssatq53a",
+   "id": "wk_ssatq53a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tebesa 3 (Yemamalel Tibeb Lewedoch bicha)",
+    "script": "Ethi",
+    "text": "ጠበሳ ፫ (የማማለል ጥበብ ለወንዶች ብቻ...)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

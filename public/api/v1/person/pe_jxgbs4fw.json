@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "buruktawitasfay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jxgbs4fw",
+ "id": "pe_jxgbs4fw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39206187",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39206187"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85180174",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85180174"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Buruktawit Tesfay"
+  },
+  "romanized": "Buruktawit Tesfay",
+  "sort_key": "buruktawittesfay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=39206187"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jxgbs4fw",
+     "name": "Buruktawit Tesfay",
+     "role": "author",
+     "romanized": "Buruktawit Tesfay"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t8r8e5j4",
+   "id": "wk_t8r8e5j4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "David and Jhonathan",
+    "script": "Ethi",
+    "text": "ዳዊት እና ዮናታን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jxgbs4fw",
+     "name": "Buruktawit Tesfay",
+     "role": "author",
+     "romanized": "Buruktawit Tesfay"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wcx2dzdd",
+   "id": "wk_wcx2dzdd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelidaw Kokob",
+    "script": "Ethi",
+    "text": "የልዳው ኮኮብ"
+   },
+   "type": "work"
+  }
+ ]
+}

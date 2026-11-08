@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4qa8djfq",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5c483xbb",
+   "@type": "Person",
+   "name": "Musse Yaekob"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Lerajatish qendile lebel hale luya",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=35416153"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=35416153"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mh5z6jvg",
+   "@type": "Book"
+  }
+ ]
+}

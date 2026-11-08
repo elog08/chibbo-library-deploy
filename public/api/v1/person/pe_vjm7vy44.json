@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drsolomonanquay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vjm7vy44",
+ "id": "pe_vjm7vy44",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49922206",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49922206"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Solomon Enquay"
+  },
+  "romanized": "Dr. Solomon Enquay",
+  "sort_key": "drsolomonenquay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49922206"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vjm7vy44",
+     "name": "Dr. Solomon Enquay",
+     "role": "author",
+     "romanized": "Dr. Solomon Enquay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ayn35ckm",
+   "id": "wk_ayn35ckm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesha'ebia Kihidet",
+    "script": "Ethi",
+    "text": "የሻዕቢያ ክሕደት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

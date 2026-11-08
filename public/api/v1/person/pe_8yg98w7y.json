@@ -1,0 +1,154 @@
+{
+ "extensions": {},
+ "fingerprint": "barakathagos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8yg98w7y",
+ "id": "pe_8yg98w7y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03262991",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03262991"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33273172",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33273172"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99484346",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99484346"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bereket Hagos"
+  },
+  "romanized": "Bereket Hagos",
+  "sort_key": "berekethagos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03262991"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8yg98w7y",
+     "name": "Bereket Hagos",
+     "role": "author",
+     "romanized": "Bereket Hagos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a166jy4v",
+   "id": "wk_a166jy4v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Andegna Kifil",
+    "script": "Ethi",
+    "text": "አንደኛ ክፍል"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8yg98w7y",
+     "name": "Bereket Hagos",
+     "role": "author",
+     "romanized": "Bereket Hagos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a74w9a0k",
+   "id": "wk_a74w9a0k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yohannesna Semehal",
+    "script": "Ethi",
+    "text": "ዮሐንስና ሰምሃል"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8yg98w7y",
+     "name": "Bereket Hagos",
+     "role": "author",
+     "romanized": "Bereket Hagos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_acs9g33w",
+   "id": "wk_acs9g33w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alulana Werk Taywa Doro",
+    "script": "Ethi",
+    "text": "አሉላና ወርቅ ጣይዋ ዶሮ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

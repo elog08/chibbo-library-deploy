@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "solomonkabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_89yc89hq",
+ "id": "pe_89yc89hq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56989567",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56989567"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Kebede"
+  },
+  "romanized": "Solomon Kebede",
+  "sort_key": "solomonkebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56989567"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_89yc89hq",
+     "name": "Solomon Kebede",
+     "role": "author",
+     "romanized": "Solomon Kebede"
+    },
+    {
+     "id": "pe_vjkfgm0d",
+     "name": "Eyob Kassa",
+     "role": "author",
+     "romanized": "Eyob Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gg23wq4c",
+   "id": "wk_gg23wq4c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Talalak Hilmoch (Yemiliniyeroch YeSiket Guzo)",
+    "script": "Ethi",
+    "text": "ታላላቅ ህልሞች(የሚሊኒዬሮች የስኬት ጉዞ)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

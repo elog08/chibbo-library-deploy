@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "atanashgabramariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6nq5j4kp",
+ "id": "pe_6nq5j4kp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59922843",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59922843"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Etenesh Gebremariam"
+  },
+  "romanized": "Etenesh Gebremariam",
+  "sort_key": "eteneshgebremariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59922843"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6nq5j4kp",
+     "name": "Etenesh Gebremariam",
+     "role": "author",
+     "romanized": "Etenesh Gebremariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d6kpcqa9",
+   "id": "wk_d6kpcqa9",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Krsteya",
+    "script": "Ethi",
+    "text": "ክርስተያ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

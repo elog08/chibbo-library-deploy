@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "namrudzarayakob",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mxm808gp",
+ "id": "pe_mxm808gp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57198579",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57198579"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74938190",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74938190"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Namrud Zereyakob"
+  },
+  "romanized": "Namrud Zereyakob",
+  "sort_key": "namrudzereyakob"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57198579"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mxm808gp",
+     "name": "Namrud Zereyakob",
+     "role": "author",
+     "romanized": "Namrud Zereyakob"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_49dg83fh",
+   "id": "wk_49dg83fh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adwa Ena Minilik",
+    "script": "Ethi",
+    "text": "ዓድዋ እና ምኒልክ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mxm808gp",
+     "name": "Namrud Zereyakob",
+     "role": "author",
+     "romanized": "Namrud Zereyakob"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6f6zbwyf",
+   "id": "wk_6f6zbwyf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Afework Gebere Eyesus (Hiwotu, Kedemt Sirawochuna Besirawochu lay Yatekoru Tinatawi Tsihufoch)",
+    "script": "Ethi",
+    "text": "አፈወርቅ ገብረ እየሱስ (ሕይወቱ ቀደምት ሥራዎቹና በሥራዎቹ ላይ ያተኮሩ ጥናታዊ ጽሑፎች)"
+   },
+   "type": "work"
+  }
+ ]
+}

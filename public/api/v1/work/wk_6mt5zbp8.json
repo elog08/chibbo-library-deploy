@@ -7,7 +7,8 @@
   }
  ],
  "editions": [
-  "ed_5wh8p21h"
+  "ed_5wh8p21h",
+  "ed_fn6k3cqe"
  ],
  "extensions": {},
  "fingerprint": "አደፍርስ|dagnachaworku",
@@ -22,9 +23,32 @@
  "form": "novel",
  "href": "https://chibbo.app/work/wk_6mt5zbp8",
  "id": "wk_6mt5zbp8",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "17255574"
+  ]
+ },
  "language": "am",
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17255574",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17255574"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "13.99",
+   "provider": "mereb",
+   "ref": "17255574",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17255574"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [],

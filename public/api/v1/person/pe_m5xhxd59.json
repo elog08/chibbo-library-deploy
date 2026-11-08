@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "andargamasfin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m5xhxd59",
+ "id": "pe_m5xhxd59",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28640000",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28640000"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78025606",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78025606"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Andarge Mesfin"
+  },
+  "romanized": "Andarge Mesfin",
+  "sort_key": "andargemesfin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28640000"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m5xhxd59",
+     "name": "Andarge Mesfin",
+     "role": "author",
+     "romanized": "Andarge Mesfin"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4heq47sv",
+   "id": "wk_4heq47sv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aba Yelos",
+    "script": "Ethi",
+    "text": "አባ የሎስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_m5xhxd59",
+     "name": "Andarge Mesfin",
+     "role": "author",
+     "romanized": "Andarge Mesfin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zf3b7xc2",
+   "id": "wk_zf3b7xc2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bemut Menfes Ager sitames",
+    "script": "Ethi",
+    "text": "በሙት መንፈስ አገር ሲታመስ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

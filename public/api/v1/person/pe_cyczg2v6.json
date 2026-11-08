@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "habtamuayalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cyczg2v6",
+ "id": "pe_cyczg2v6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49401248",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49401248"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90063613",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90063613"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Habtamu Ayalew"
+  },
+  "romanized": "Habtamu Ayalew",
+  "sort_key": "habtamuayalew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49401248"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cyczg2v6",
+     "name": "Habtamu Ayalew",
+     "role": "author",
+     "romanized": "Habtamu Ayalew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1zrjkmrf",
+   "id": "wk_1zrjkmrf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Heger Ena Poletica",
+    "script": "Ethi",
+    "text": "ሀገርና ፖለቲካ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cyczg2v6",
+     "name": "Habtamu Ayalew",
+     "role": "author",
+     "romanized": "Habtamu Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yhstcn59",
+   "id": "wk_yhstcn59",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeHiwehat Semay Sir",
+    "script": "Ethi",
+    "text": "ከህወሃት ሰማይ ሥር"
+   },
+   "type": "work"
+  }
+ ]
+}

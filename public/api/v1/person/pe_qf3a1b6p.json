@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "takaltsadikmakuria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qf3a1b6p",
+ "id": "pe_qf3a1b6p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85835359",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85835359"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tekeltsadik Mekuria"
+  },
+  "romanized": "Tekeltsadik Mekuria",
+  "sort_key": "tekeltsadikmekuria"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85835359"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qf3a1b6p",
+     "name": "Tekeltsadik Mekuria",
+     "role": "author",
+     "romanized": "Tekeltsadik Mekuria"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1958?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d3mgpmm2",
+   "id": "wk_d3mgpmm2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinatwit Ethiopia Ena Gibts",
+    "script": "Ethi",
+    "text": "ጥንታዊት ኢትዮጵያና ግብፅ"
+   },
+   "type": "work",
+   "year": 1958
+  }
+ ]
+}

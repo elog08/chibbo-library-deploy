@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "adisalamhagoskasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0975dxyw",
+ "id": "pe_0975dxyw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24589155",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24589155"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62520266",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62520266"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Addisalem Hegos Kassa"
+  },
+  "romanized": "Addisalem Hegos Kassa",
+  "sort_key": "addisalemhegoskassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24589155"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0975dxyw",
+     "name": "Addisalem Hegos Kassa",
+     "role": "author",
+     "romanized": "Addisalem Hegos Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3pgjwahg",
+   "id": "wk_3pgjwahg",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mahiber Miwetan",
+    "script": "Ethi",
+    "text": "ማሕበር ምውታን"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0975dxyw",
+     "name": "Addisalem Hegos Kassa",
+     "role": "author",
+     "romanized": "Addisalem Hegos Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b1mzxqms",
+   "id": "wk_b1mzxqms",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mewedae'ta Mealti (Bilitsat Hatserti Libi Weledat)",
+    "script": "Ethi",
+    "text": "መወዳእታ መዓልቲ(ብሉፃት ልቢ ወለዳት)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

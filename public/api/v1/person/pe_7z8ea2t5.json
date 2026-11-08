@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "darazprimaministarabiyahmad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7z8ea2t5",
+ "id": "pe_7z8ea2t5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25920747",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25920747"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93608452",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93608452"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deraz (Prime Minister Abiy Ahmed)"
+  },
+  "romanized": "Deraz (Prime Minister Abiy Ahmed)",
+  "sort_key": "derazprimeministerabiyahmed"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25920747"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7z8ea2t5",
+     "name": "Deraz (Prime Minister Abiy Ahmed)",
+     "role": "author",
+     "romanized": "Deraz (Prime Minister Abiy Ahmed)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_asdy2z0m",
+   "id": "wk_asdy2z0m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Erikabina Menber",
+    "script": "Ethi",
+    "text": "እርካብና መንበር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7z8ea2t5",
+     "name": "Deraz (Prime Minister Abiy Ahmed)",
+     "role": "author",
+     "romanized": "Deraz (Prime Minister Abiy Ahmed)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wpbbkahb",
+   "id": "wk_wpbbkahb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Setete",
+    "script": "Ethi",
+    "text": "ሰተቴ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "extensions": {},
+ "fingerprint": "sargawgalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hwx1jvzf",
+ "id": "pe_hwx1jvzf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60289080",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60289080"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81758666",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81758666"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sergew Gelaw"
+  },
+  "romanized": "Sergew Gelaw",
+  "sort_key": "sergewgelaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60289080"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hwx1jvzf",
+     "name": "Sergew Gelaw",
+     "role": "author",
+     "romanized": "Sergew Gelaw"
+    },
+    {
+     "id": "pe_3emwfkz9",
+     "name": "Megabe Biluy Setfe Silase Yohannes",
+     "role": "author",
+     "romanized": "Megabe Biluy Setfe Silase Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c0nyjfzq",
+   "id": "wk_c0nyjfzq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGe'ez Kineyat (Yesinetibeb Kirs Nibabu KeNetrguamiew) Vol.3",
+    "script": "Ethi",
+    "text": "የግእዝ ቅኔያት (የስነ ጥበብ ቅርስ ንባቡ ከነትርጓሜው) ቅጽ.3"
+   },
+   "type": "work",
+   "year": 2003
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_hwx1jvzf",
+     "name": "Sergew Gelaw",
+     "role": "author",
+     "romanized": "Sergew Gelaw"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ny2r3146",
+   "id": "wk_ny2r3146",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kibre Negesit",
+    "script": "Ethi",
+    "text": "ክብረ ነገስት"
+   },
+   "type": "work"
+  }
+ ]
+}

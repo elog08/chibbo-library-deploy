@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "authorsforathiopiankids",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zmmzay5e",
+ "id": "pe_zmmzay5e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23451526",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23451526"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Authors for Ethiopian Kids"
+  },
+  "romanized": "Authors for Ethiopian Kids",
+  "sort_key": "authorsforethiopiankids"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23451526"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zmmzay5e",
+     "name": "Authors for Ethiopian Kids",
+     "role": "author",
+     "romanized": "Authors for Ethiopian Kids"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_fqc8qafk",
+   "id": "wk_fqc8qafk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alinegam",
+    "script": "Ethi",
+    "text": "አልነጋም"
+   },
+   "type": "work"
+  }
+ ]
+}

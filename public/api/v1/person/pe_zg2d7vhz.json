@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "balihutarafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zg2d7vhz",
+ "id": "pe_zg2d7vhz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21060479",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21060479"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Belihu Terefe"
+  },
+  "romanized": "Belihu Terefe",
+  "sort_key": "belihuterefe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21060479"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zg2d7vhz",
+     "name": "Belihu Terefe",
+     "role": "author",
+     "romanized": "Belihu Terefe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qycchxcp",
+   "id": "wk_qycchxcp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbyssinia Fertoch",
+    "script": "Ethi",
+    "text": "የአቢሲንያ ፈርጦች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

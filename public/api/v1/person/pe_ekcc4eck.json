@@ -7,7 +7,24 @@
  "href": "https://chibbo.app/person/pe_ekcc4eck",
  "id": "pe_ekcc4eck",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27358877",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27358877"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45034781",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45034781"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -43,6 +60,27 @@
  "type": "person",
  "works": [
   {
+   "credits": [
+    {
+     "id": "pe_ekcc4eck",
+     "name": "ዓለማየሁ ዋሴ እሸቴ",
+     "role": "author",
+     "romanized": "Alemayehu Wase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2xkebjqa",
+   "id": "wk_2xkebjqa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zigora",
+    "script": "Ethi",
+    "text": "ዝጎራ"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_f3wkhqg7.png",
     "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f3wkhqg7.png"
@@ -63,13 +101,13 @@
    "flags": [
     "llm-extracted"
    ],
-   "href": "https://chibbo.app/work/wk_f3wkhqg7",
-   "id": "wk_f3wkhqg7",
+   "href": "https://chibbo.app/work/wk_7sp69ddr",
+   "id": "wk_7sp69ddr",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "miteraliyon",
+    "romanized": "Miteralion",
     "script": "Ethi",
     "text": "ሚተራሊዮን"
    },

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7msdp2hx",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ttrmzbsp",
+   "@type": "Person",
+   "name": "Hailay Hadgu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tsine'at",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=91941388"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Emay Print (2002 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=91941388"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k4e7ezg0",
+   "@type": "Book"
+  }
+ ]
+}

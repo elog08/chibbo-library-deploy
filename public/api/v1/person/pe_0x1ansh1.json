@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirtasfamichaltakila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0x1ansh1",
+ "id": "pe_0x1ansh1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83201002",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83201002"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Tesfamichael Tekile"
+  },
+  "romanized": "Memihir Tesfamichael Tekile",
+  "sort_key": "memihirtesfamichaeltekile"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83201002"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0x1ansh1",
+     "name": "Memihir Tesfamichael Tekile",
+     "role": "author",
+     "romanized": "Memihir Tesfamichael Tekile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_64af5pjg",
+   "id": "wk_64af5pjg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Hawariyat",
+    "script": "Ethi",
+    "text": "ገድለ ሐዋርያት"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

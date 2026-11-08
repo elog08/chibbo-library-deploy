@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c2hrvyef",
+ "@type": "Book",
+ "alternateName": [
+  "Daman"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vv6mrf1x",
+   "@type": "Person",
+   "name": "Libawi Fisseha"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994478354",
+ "name": "ዳማን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.08",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=63987018"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=63987018"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_14w703fd",
+   "@type": "Book"
+  }
+ ]
+}

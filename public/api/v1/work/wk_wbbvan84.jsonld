@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wbbvan84",
+ "@type": "Book",
+ "alternateName": [
+  "Alemenor"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_az5r0v66",
+   "@type": "Person",
+   "name": "Dr.Dawit Wondimagegn"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አለመኖር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.39",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=12081300"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=12081300"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_s6npymwd",
+   "@type": "Book"
+  }
+ ]
+}

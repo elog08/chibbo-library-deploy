@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6s6tz07x",
+ "@type": "Book",
+ "alternateName": [
+  "Misale"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_x9d9vbm2",
+   "@type": "Person",
+   "name": "እንዳለጌታ ከበደ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ምሳሌ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73530714"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73530714"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hbnmps07",
+   "@type": "Book"
+  }
+ ]
+}

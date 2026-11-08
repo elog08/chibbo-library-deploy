@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k4yk3yca",
+ "@type": "Book",
+ "alternateName": [
+  "YeEritrea Guday"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_94wf9z2s",
+   "@type": "Person",
+   "name": "ዘውዴ ረታ"
+  }
+ ],
+ "image": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_nzpqm8pk.png",
+ "inLanguage": "am",
+ "isbn": "9789994400843",
+ "name": "የኤርትራ ጉዳይ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "48.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=40990263"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Shama Books (2014 (Fifth Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=40990263"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0jjdjmk4",
+   "@type": "Book"
+  }
+ ]
+}

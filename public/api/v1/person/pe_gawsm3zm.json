@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "likabirhanatmarkorawosaraga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gawsm3zm",
+ "id": "pe_gawsm3zm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29678237",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29678237"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76811412",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76811412"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Like Birhanat Merkorewos Arega"
+  },
+  "romanized": "Like Birhanat Merkorewos Arega",
+  "sort_key": "likebirhanatmerkorewosarega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29678237"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gawsm3zm",
+     "name": "Like Birhanat Merkorewos Arega",
+     "role": "author",
+     "romanized": "Like Birhanat Merkorewos Arega"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2f0q9f8p",
+   "id": "wk_2f0q9f8p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeAnd Sim Yeteterutin Kidusanina Ye36 Kidusat Anistin Tarik",
+    "script": "Ethi",
+    "text": "በአንድ ስም የተጠሩትን ቅዱሳንና የ36 ቅዱሳት አንስትን ታሪክ"
+   },
+   "type": "work",
+   "year": 2000
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_gawsm3zm",
+     "name": "Like Birhanat Merkorewos Arega",
+     "role": "author",
+     "romanized": "Like Birhanat Merkorewos Arega"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6ptxehys",
+   "id": "wk_6ptxehys",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopiawiyanin tewelajoch Kidusan Enasitewawikachuh",
+    "script": "Ethi",
+    "text": "የኢትዮጵያውያንን ተወላጆች ቅዱሳን ታሪክ እናስተዋውቃችሁ"
+   },
+   "type": "work"
+  }
+ ]
+}

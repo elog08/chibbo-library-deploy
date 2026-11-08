@@ -39,19 +39,34 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_199"
+  },
+  {
+   "@type": "Offer",
+   "price": "17.68",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=08012724"
   }
  ],
  "publisher": {
   "@type": "Organization",
-  "name": "መልአከ መዊዕ ቀሲስ ፀጋዬ ሽፋራው"
+  "name": "Artisitc Printing Enterprise (2008 (Originally))"
  },
  "sameAs": [
-  "https://hahubooks.com/single-product.php?jbook_code=jb_199"
+  "https://hahubooks.com/single-product.php?jbook_code=jb_199",
+  "https://www.mereb.shop/rs/?mpid=08012724"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_05b4n303",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_xx6j4tjr",
    "@type": "Book"
   },
   {

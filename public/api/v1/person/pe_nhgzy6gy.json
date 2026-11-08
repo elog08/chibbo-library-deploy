@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitwgiorgis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nhgzy6gy",
+ "id": "pe_nhgzy6gy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48774625",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48774625"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64856157",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64856157"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dawit W/Giorgis"
+  },
+  "romanized": "Dawit W/Giorgis",
+  "sort_key": "dawitwgiorgis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48774625"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nhgzy6gy",
+     "name": "Dawit W/Giorgis",
+     "role": "author",
+     "romanized": "Dawit W/Giorgis"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ptatr1x5",
+   "id": "wk_ptatr1x5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDem Emba (Red Tears)",
+    "script": "Ethi",
+    "text": "የደም እምባ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nhgzy6gy",
+     "name": "Dawit W/Giorgis",
+     "role": "author",
+     "romanized": "Dawit W/Giorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v24gdkm9",
+   "id": "wk_v24gdkm9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kihidet Bedem Meret",
+    "script": "Ethi",
+    "text": "ክህደት በደም መሬት"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

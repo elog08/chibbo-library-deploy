@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "athiopianwomaninadisababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0zgv4p0v",
+ "id": "pe_0zgv4p0v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61355415",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61355415"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ethiopian Women in Addis Ababa"
+  },
+  "romanized": "Ethiopian Women in Addis Ababa",
+  "sort_key": "ethiopianwomeninaddisababa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=61355415"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tzzykcgy",
+     "name": "Group of American",
+     "role": "author",
+     "romanized": "Group of American"
+    },
+    {
+     "id": "pe_0zgv4p0v",
+     "name": "Ethiopian Women in Addis Ababa",
+     "role": "author",
+     "romanized": "Ethiopian Women in Addis Ababa"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_g67h5vas",
+   "id": "wk_g67h5vas",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "ETHIOPIAN AMERICAN COOK BOOK",
+    "script": "Ethi",
+    "text": "የኢትዮጵያንና የአሜሪካን የምግብ አሠራር መጽሐፍ"
+   },
+   "type": "work"
+  }
+ ]
+}

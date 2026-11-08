@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5gj9ef6e",
+ "@type": "Book",
+ "alternateName": [
+  "Tsine'at Selesite"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_h5eeenbn",
+   "@type": "Person",
+   "name": "Haylay Hadgu"
+  }
+ ],
+ "inLanguage": "ti",
+ "isbn": "9789994471423",
+ "name": "ፅንዓት ሰለስተ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=57873010"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=57873010"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0xvk7pya",
+   "@type": "Book"
+  }
+ ]
+}

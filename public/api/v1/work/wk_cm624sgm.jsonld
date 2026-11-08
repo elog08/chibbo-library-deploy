@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cm624sgm",
+ "@type": "Book",
+ "alternateName": [
+  "Beryods"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_818gszxc",
+   "@type": "Person",
+   "name": "ማዕበል ፈጠነ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "በርዮድስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78085815"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78085815"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5zxvea5n",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "antanahashatu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rm0f3n54",
+ "id": "pe_rm0f3n54",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53933455",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53933455"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76137407",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76137407"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Antenehe Eshetu"
+  },
+  "romanized": "Antenehe Eshetu",
+  "sort_key": "anteneheeshetu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53933455"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rm0f3n54",
+     "name": "Antenehe Eshetu",
+     "role": "author",
+     "romanized": "Antenehe Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_03j6xexh",
+   "id": "wk_03j6xexh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kemis Yegaredew",
+    "script": "Ethi",
+    "text": "ቀሚስ የጋረደው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rm0f3n54",
+     "name": "Antenehe Eshetu",
+     "role": "author",
+     "romanized": "Antenehe Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5r82x7rx",
+   "id": "wk_5r82x7rx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Kegedgedaw jerba",
+    "script": "Latn",
+    "text": "Kegedgedaw jerba"
+   },
+   "type": "work"
+  }
+ ]
+}

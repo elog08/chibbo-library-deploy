@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "afandakimutaki",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jd791btb",
+ "id": "pe_jd791btb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38739108",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38739108"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Afendeki Muteki"
+  },
+  "romanized": "Afendeki Muteki",
+  "sort_key": "afendekimuteki"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38739108"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jd791btb",
+     "name": "Afendeki Muteki",
+     "role": "author",
+     "romanized": "Afendeki Muteki"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1w0ftmkv",
+   "id": "wk_1w0ftmkv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Umete Fenan Umete Qeshti Diredawa (Artistuna Shikirkiru YeDiredawa Hizib)",
+    "script": "Ethi",
+    "text": "ኡመተ ፈናን ኡመተ ቀሽቲ ዲሬዳዋ (አርቲስቱና ሽቅርቅሩ የድሬዳዋ ሕዝብ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

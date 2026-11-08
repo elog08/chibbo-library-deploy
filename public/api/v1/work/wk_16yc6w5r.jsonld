@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/mehalu-aynegerm-ras-henock"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=99335007"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/mehalu-aynegerm-ras-henock"
+  "https://www.ethiobookreview.com/book/mehalu-aynegerm-ras-henock",
+  "https://www.mereb.shop/rs/?mpid=99335007"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_z0kfk40h",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_y5qay42x",
    "@type": "Book"
   }
  ]

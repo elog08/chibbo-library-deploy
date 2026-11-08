@@ -1,0 +1,37 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_24yetv4t",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_n43qe52d",
+   "@type": "Person",
+   "name": "Tewolde Sisay"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994496365",
+ "name": "'77",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.37",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=30053064"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=30053064"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f444gs6y",
+   "@type": "Book"
+  }
+ ]
+}

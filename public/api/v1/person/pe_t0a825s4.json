@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "hailayasusmasarat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t0a825s4",
+ "id": "pe_t0a825s4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78019901",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78019901"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Haileeyesus Meseret"
+  },
+  "romanized": "Haileeyesus Meseret",
+  "sort_key": "haileeyesusmeseret"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78019901"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_t0a825s4",
+     "name": "Haileeyesus Meseret",
+     "role": "author",
+     "romanized": "Haileeyesus Meseret"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_fs3rayw9",
+   "id": "wk_fs3rayw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Lamentation of Pileups",
+    "script": "Latn",
+    "text": "Lamentation of Pileups"
+   },
+   "type": "work"
+  }
+ ]
+}

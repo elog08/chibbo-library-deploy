@@ -1,0 +1,149 @@
+{
+ "extensions": {},
+ "fingerprint": "gashawmarsha",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_dkmad2sd",
+ "id": "pe_dkmad2sd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18560212",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18560212"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55995803",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55995803"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "gashaw mersha",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Gashaw Mersha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጋሻው መርሻ"
+  },
+  "romanized": "gashaw mersha",
+  "sort_key": "ጋሻውመርሻ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of አንፀባራቂው ኮከብ .pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18560212"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dkmad2sd",
+     "name": "ጋሻው መርሻ",
+     "role": "author",
+     "romanized": "gashaw mersha"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1710gxz2",
+   "id": "wk_1710gxz2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmara Tegadilo (Amaran YeHager Balebet YeMadireg Nikinake)",
+    "script": "Ethi",
+    "text": "የአማራ ተጋድሎ (አማራን የሀገር ባለቤት የማድረግ ንቅናቄ)"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_dy6bkk1y.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dy6bkk1y.png"
+   },
+   "credits": [
+    {
+     "id": "pe_dkmad2sd",
+     "name": "ጋሻው መርሻ",
+     "role": "author",
+     "romanized": "gashaw mersha"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_dy6bkk1y",
+   "id": "wk_dy6bkk1y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "antsebaraqiw kokeb",
+    "script": "Ethi",
+    "text": "አንፀባራቂው ኮከብ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dkmad2sd",
+     "name": "ጋሻው መርሻ",
+     "role": "author",
+     "romanized": "gashaw mersha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pgnejhyb",
+   "id": "wk_pgnejhyb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Anitsebarakiw Kokob (Professor Esrat W/Yes)",
+    "script": "Ethi",
+    "text": "አንፀባራቂው ኮከብ (ፕሮፌሰር አስራት ው/የስ)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

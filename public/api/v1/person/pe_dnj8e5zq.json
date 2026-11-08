@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "salamgiday",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dnj8e5zq",
+ "id": "pe_dnj8e5zq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31616695",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31616695"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selam Gidey"
+  },
+  "romanized": "Selam Gidey",
+  "sort_key": "selamgidey"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31616695"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dnj8e5zq",
+     "name": "Selam Gidey",
+     "role": "author",
+     "romanized": "Selam Gidey"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_g4rqktht",
+   "id": "wk_g4rqktht",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kezahita",
+    "script": "Ethi",
+    "text": "ቀዛሕታ"
+   },
+   "type": "work"
+  }
+ ]
+}

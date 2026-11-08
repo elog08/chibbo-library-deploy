@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_g4rqktht",
+ "@type": "Book",
+ "alternateName": [
+  "Kezahita"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dnj8e5zq",
+   "@type": "Person",
+   "name": "Selam Gidey"
+  }
+ ],
+ "inLanguage": "ti",
+ "name": "ቀዛሕታ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31616695"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=31616695"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fa6aj702",
+   "@type": "Book"
+  }
+ ]
+}

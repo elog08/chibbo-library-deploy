@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "adonis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ppxvt9rt",
+ "id": "pe_ppxvt9rt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47804425",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47804425"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Adonis"
+  },
+  "romanized": "Adonis",
+  "sort_key": "adonis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47804425"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ppxvt9rt",
+     "name": "Adonis",
+     "role": "author",
+     "romanized": "Adonis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e8b71yyh",
+   "id": "wk_e8b71yyh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Professeru Ena Lelochchim",
+    "script": "Ethi",
+    "text": "ፕሮፌሰሩ እና ሌሎችም"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

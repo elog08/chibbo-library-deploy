@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihircharababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_br923x0k",
+ "id": "pe_br923x0k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60077743",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60077743"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Chere Abebe"
+  },
+  "romanized": "Memihir Chere Abebe",
+  "sort_key": "memihirchereabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60077743"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0mngh4ch",
+     "name": "Deacon Teodros Beyene",
+     "role": "author",
+     "romanized": "Deacon Teodros Beyene"
+    },
+    {
+     "id": "pe_br923x0k",
+     "name": "Memihir Chere Abebe",
+     "role": "author",
+     "romanized": "Memihir Chere Abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2004?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9mdx6tw9",
+   "id": "wk_9mdx6tw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMetshaf Kidus Tinat- 1",
+    "script": "Ethi",
+    "text": "የመጽሐፍ ቅዱስ ጥናት-፩"
+   },
+   "type": "work",
+   "year": 2004
+  }
+ ]
+}

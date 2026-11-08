@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "olarikson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9knjgppj",
+ "id": "pe_9knjgppj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97426749",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97426749"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Olle Erikson"
+  },
+  "romanized": "Olle Erikson",
+  "sort_key": "olleerikson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97426749"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9knjgppj",
+     "name": "Olle Erikson",
+     "role": "author",
+     "romanized": "Olle Erikson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bxrcfnds",
+   "id": "wk_bxrcfnds",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yand Arash Nigigir",
+    "script": "Ethi",
+    "text": "ያንድ አራሽ ንግግር"
+   },
+   "type": "work"
+  }
+ ]
+}

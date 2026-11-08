@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k0k7p7za",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fkxt7zp1",
+   "@type": "Person",
+   "name": "Deacon H/Giyorgis Tefera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Matrimony Part I",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.62",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11470963"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11470963"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_52f2vey0",
+   "@type": "Book"
+  }
+ ]
+}

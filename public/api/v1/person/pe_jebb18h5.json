@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "masakaramlachisa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jebb18h5",
+ "id": "pe_jebb18h5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97454643",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97454643"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesekerem Lechisa"
+  },
+  "romanized": "Mesekerem Lechisa",
+  "sort_key": "mesekeremlechisa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97454643"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jebb18h5",
+     "name": "Mesekerem Lechisa",
+     "role": "author",
+     "romanized": "Mesekerem Lechisa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_czr79vp6",
+   "id": "wk_czr79vp6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Utopia",
+    "script": "Ethi",
+    "text": "(ኢ)ዩቶፕያ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

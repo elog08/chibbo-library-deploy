@@ -23,7 +23,8 @@
   "text": "The Lost Spell ክቡር ድንጋይ by Yismake Worku, Translated by Bethlehem Attfield. Addis Books!"
  },
  "editions": [
-  "ed_n9sz3fen"
+  "ed_n9sz3fen",
+  "ed_srayzy7n"
  ],
  "extensions": {},
  "fingerprint": "ክቡርድንጋይ|yismakaworku",
@@ -35,7 +36,8 @@
   }
  },
  "flags": [
-  "suspect-isbn"
+  "suspect-isbn",
+  "calendar-ambiguous"
  ],
  "href": "https://chibbo.app/work/wk_svgnt13j",
  "id": "wk_svgnt13j",
@@ -46,6 +48,9 @@
   ],
   "isbn13": [
    "9781916218628"
+  ],
+  "mereb_mpid": [
+   "95161838"
   ]
  },
  "language": "en",
@@ -101,6 +106,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.amazon.com/dp/B0DZSFWK9X"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95161838",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95161838"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "5.60",
+   "provider": "mereb",
+   "ref": "95161838",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95161838"
   }
  ],
  "locked_fields": [],
@@ -111,6 +134,7 @@
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/the-lost-spell-by-yismake-worku-bethlehem-attfield/"
  },
+ "publisher_name": "Yismake Worku",
  "relations": [],
  "rights": {
   "shippable": false,

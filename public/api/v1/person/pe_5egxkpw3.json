@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "lidyababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5egxkpw3",
+ "id": "pe_5egxkpw3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83299617",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83299617"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Lidya Abebe"
+  },
+  "romanized": "Lidya Abebe",
+  "sort_key": "lidyaabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83299617"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_etjj0xgz",
+     "name": "Surafel Abebe",
+     "role": "author",
+     "romanized": "Surafel Abebe"
+    },
+    {
+     "id": "pe_5egxkpw3",
+     "name": "Lidya Abebe",
+     "role": "author",
+     "romanized": "Lidya Abebe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cfasbqxe",
+   "id": "wk_cfasbqxe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia YeTekrno Mikurab (YeMekeramet Weys Yemadan Tel'eko)",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ የተቃርኖ ምኩራብ (የመቀራመት ወይስ የማዳን ተልዕኮ)"
+   },
+   "type": "work"
+  }
+ ]
+}

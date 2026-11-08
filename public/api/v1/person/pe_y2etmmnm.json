@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasawoldagirogis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y2etmmnm",
+ "id": "pe_y2etmmnm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66546844",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66546844"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadesse Woldegirogis"
+  },
+  "romanized": "Tadesse Woldegirogis",
+  "sort_key": "tadessewoldegirogis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66546844"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_y2etmmnm",
+     "name": "Tadesse Woldegirogis",
+     "role": "author",
+     "romanized": "Tadesse Woldegirogis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4weadgn9",
+   "id": "wk_4weadgn9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopiyawiyan Beamerica (Mahiberawina Sinelbonawi Tntena)",
+    "script": "Ethi",
+    "text": "ኢትዮጵያውያን በአሜሪካ (ማህበራዊና ሥነ ልቦናዊ ትንተና)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

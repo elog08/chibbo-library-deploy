@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "irvingwalaca",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3xmpd4nm",
+ "id": "pe_3xmpd4nm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48191300",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48191300"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73371890",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73371890"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Irving Wallace"
+  },
+  "romanized": "Irving Wallace",
+  "sort_key": "irvingwallace"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48191300"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3xmpd4nm",
+     "name": "Irving Wallace",
+     "role": "author",
+     "romanized": "Irving Wallace"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ppr7pp0p",
+   "id": "wk_ppr7pp0p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamawitua Emebet",
+    "script": "Ethi",
+    "text": "ቀዳማዊት አመቤት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3xmpd4nm",
+     "name": "Irving Wallace",
+     "role": "author",
+     "romanized": "Irving Wallace"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_trt3qxzf",
+   "id": "wk_trt3qxzf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mezez",
+    "script": "Ethi",
+    "text": "መዘዝ"
+   },
+   "type": "work"
+  }
+ ]
+}

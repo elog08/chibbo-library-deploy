@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "daconfasikawkasaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_47zyva5m",
+ "id": "pe_47zyva5m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37225531",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37225531"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88764034",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88764034"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Fasikaw Kasaw"
+  },
+  "romanized": "Deacon Fasikaw Kasaw",
+  "sort_key": "deaconfasikawkasaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37225531"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_47zyva5m",
+     "name": "Deacon Fasikaw Kasaw",
+     "role": "author",
+     "romanized": "Deacon Fasikaw Kasaw"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_b90ekf6g",
+   "id": "wk_b90ekf6g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sire'ate Mahilet Zekidus Yared (Ye61 Kibre Bealatina Ye7tu Amet Yetsige Mahilet)",
+    "script": "Ethi",
+    "text": "ሥርዓተ ማኅሌት ዘቅዱስ ያሬድ (የ፷፩ ከብረ በዓላትና የ፯ቱ ዓመት የጽጌ ማኅሌት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_47zyva5m",
+     "name": "Deacon Fasikaw Kasaw",
+     "role": "author",
+     "romanized": "Deacon Fasikaw Kasaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kqsgg5fx",
+   "id": "wk_kqsgg5fx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sireate Mahilet Zekidus Yared (Ye61 Kibre Bealatina ye7tu Amet YeTsigie Mahilet)",
+    "script": "Ethi",
+    "text": "ሥራዓተ ማኅሌት ዘቅዱስ ያሬድ (የ61 ክብረ በዓላትና የ7ቱ ዓመት የጽጌ ማኅሌት)"
+   },
+   "type": "work"
+  }
+ ]
+}

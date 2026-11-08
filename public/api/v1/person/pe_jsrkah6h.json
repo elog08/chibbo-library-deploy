@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drsanaitashata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jsrkah6h",
+ "id": "pe_jsrkah6h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25135945",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25135945"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Senait Eshete"
+  },
+  "romanized": "Dr.Senait Eshete",
+  "sort_key": "drsenaiteshete"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25135945"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jsrkah6h",
+     "name": "Dr.Senait Eshete",
+     "role": "author",
+     "romanized": "Dr.Senait Eshete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5v280k1v",
+   "id": "wk_5v280k1v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tirisachin",
+    "script": "Ethi",
+    "text": "ጥርሳችን"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

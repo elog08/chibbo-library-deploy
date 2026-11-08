@@ -28,6 +28,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://addisbooks.com/authors/alex-abreham/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
   }
  ],
  "locked_fields": [],
@@ -132,12 +148,18 @@
     "flags": []
    },
    "flags": [
+    "unlicensed-full-text-source",
     "llm-extracted"
    ],
+   "form": "print",
    "href": "https://chibbo.app/work/wk_cv0a9vch",
    "id": "wk_cv0a9vch",
    "language": "am",
+   "part_count": 3,
    "poetry": true,
+   "poetry_tags": [
+    "love"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",
@@ -180,6 +202,43 @@
    "year": 2014
   },
   {
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_h7vze8c0",
+   "id": "wk_h7vze8c0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yih Yene Miret",
+    "script": "Ethi",
+    "text": "ይህ የኔ ምሬት"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_j6hnpg5d.jpg",
     "source_url": "https://addisbooks.com/wp-content/uploads/2026/05/Anfersem-Anetadesem-by-Alex-Abreham.jpg"
@@ -201,6 +260,9 @@
    "id": "wk_j6hnpg5d",
    "language": "am",
    "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",
@@ -273,6 +335,45 @@
    },
    "type": "work",
    "year": 2024
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_b4p12fw8",
+     "name": "አሌክስ አብርሃም",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_pe5vyxjq",
+   "id": "wk_pe5vyxjq",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "faith-and-philosophy",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yinedal",
+    "script": "Ethi",
+    "text": "ይነዳል"
+   },
+   "type": "work"
   },
   {
    "cover": {

@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6e01reyx",
+ "@type": "Book",
+ "alternateName": [
+  "Mel'ektegnaw Ethioiayawi Arbegna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_8vcwbpg8",
+   "@type": "Person",
+   "name": "Mulatu Gebru"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መልእክተኛው ኢትዮጵያዊው አርበኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "35.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=77812576"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mulatu Gebru"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=77812576"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vh1rpeva",
+   "@type": "Book"
+  }
+ ]
+}

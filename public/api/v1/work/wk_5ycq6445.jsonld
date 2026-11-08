@@ -35,11 +35,22 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yetetelaw-endaltetele-alemayehu-gelagay"
+  },
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=14589299"
   }
  ],
  "sameAs": [
   "https://addisbooks.com/book/yetetelaw-endaltetela-alemayehu-gelagay/",
-  "https://www.ethiobookreview.com/book/yetetelaw-endaltetele-alemayehu-gelagay"
+  "https://www.ethiobookreview.com/book/yetetelaw-endaltetele-alemayehu-gelagay",
+  "https://www.mereb.shop/rs/?mpid=14589299"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -49,6 +60,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_9gvvtbcm",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_9jr3gry3",
    "@type": "Book"
   }
  ]

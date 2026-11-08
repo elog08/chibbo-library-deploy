@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "ayanrand",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z2fwdkzm",
+ "id": "pe_z2fwdkzm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64989682",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64989682"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ayan Rand"
+  },
+  "romanized": "Ayan Rand",
+  "sort_key": "ayanrand"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64989682"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z2fwdkzm",
+     "name": "Ayan Rand",
+     "role": "author",
+     "romanized": "Ayan Rand"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kz5hfps0",
+   "id": "wk_kz5hfps0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Filisifinan Lemifeligu",
+    "script": "Ethi",
+    "text": "ፍልስፍናን ለሚፈልጉ"
+   },
+   "type": "work"
+  }
+ ]
+}

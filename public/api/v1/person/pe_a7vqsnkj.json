@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "aframakonan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a7vqsnkj",
+ "id": "pe_a7vqsnkj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39241288",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39241288"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Efrem Mekonnen"
+  },
+  "romanized": "Efrem Mekonnen",
+  "sort_key": "efremmekonnen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=39241288"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a7vqsnkj",
+     "name": "Efrem Mekonnen",
+     "role": "author",
+     "romanized": "Efrem Mekonnen"
+    },
+    {
+     "id": "pe_6tvvmgye",
+     "name": "Like Hiruyan Belay Mekonen",
+     "role": "author",
+     "romanized": "Like Hiruyan Belay Mekonen"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_rp0y9sm2",
+   "id": "wk_rp0y9sm2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mi'eraf Zekidus Yared (Misle Melk'a Yared,Mikinay Zehintsete Bete Christian Wezena Hywet Zekidus Yared)",
+    "script": "Ethi",
+    "text": "መዕራፍ ዘቅዱስ ያሬድ (ምስለ መልካዐ ያሬድ ምቅናይ ዘሕንጸተ ቤተ ክርስቲያን ወዜና ሕይወት ዘቅዱስ ያሬድ)"
+   },
+   "type": "work"
+  }
+ ]
+}

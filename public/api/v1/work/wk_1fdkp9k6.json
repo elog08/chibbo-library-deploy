@@ -1,0 +1,127 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "እሱ ነው-እሱ\nዐይኑ ባይኖረው\nለማን ብርሃን ጥላ አማለው ፤\nአግራ ባይኖረው\nለማን መንገድ ጥላ አማለው፤\nእሱ ነው-እሱ\nከፍቱ\nፀሐይን ያስፈቀ ።\nበመንገዱ\nአማካላ ያስደቀ ።\n\n*   *   *"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "love",
+    "nature"
+   ]
+  }
+ },
+ "fingerprint": "እሱነውእሱ|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_1fdkp9k6",
+ "id": "wk_1fdkp9k6",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 29–29 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "love",
+  "nature"
+ ],
+ "provenance": {
+  "raw_sha256": "db824723dfb0145d3cc283a98a6993af0d847fd4fd0f8643b98fa4b51bceb109",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Esu new -- Esu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "He is -- He",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እሱ ነው — እሱ"
+  },
+  "romanized": "Esu new -- Esu",
+  "sort_key": "እሱነውእሱ"
+ },
+ "type": "work"
+}

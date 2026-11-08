@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5z29t9jq",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_wcjskqe4",
+   "@type": "Person",
+   "name": "Girma Zewdie"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢትዮጲስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "29.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=89159929"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=89159929"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8hjbvvgh",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "gatachawasifaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fyts9cz9",
+ "id": "pe_fyts9cz9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09016650",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09016650"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14850049",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14850049"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Getachew Asifaw"
+  },
+  "romanized": "Getachew Asifaw",
+  "sort_key": "getachewasifaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09016650"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fyts9cz9",
+     "name": "Getachew Asifaw",
+     "role": "author",
+     "romanized": "Getachew Asifaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_127r8c0w",
+   "id": "wk_127r8c0w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Economy Keyet Wedet?",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ኢኮኖሚ ከየት ወዴት?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fyts9cz9",
+     "name": "Getachew Asifaw",
+     "role": "author",
+     "romanized": "Getachew Asifaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_y21ztkm6",
+   "id": "wk_y21ztkm6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Minizari,Tire Genzeb, Genzeb Ena YeWaga Niret BeEthiopia",
+    "script": "Ethi",
+    "text": "ምንዛሪ ጥሬ ገንዘብ ገንዘብ እና የዋጋ ንረት በኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

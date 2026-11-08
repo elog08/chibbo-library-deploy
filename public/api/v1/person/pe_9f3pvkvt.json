@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "badanalkabrat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9f3pvkvt",
+ "id": "pe_9f3pvkvt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bedanel kebret",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በዳንኤል ክብረት"
+  },
+  "romanized": "bedanel kebret",
+  "sort_key": "በዳንኤልክብረት"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_95z4f7mq.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/04/44416795-17-658-large.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_9f3pvkvt",
+     "name": "በዳንኤል ክብረት",
+     "role": "author",
+     "romanized": "bedanel kebret"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_95z4f7mq",
+   "id": "wk_95z4f7mq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeserqo aderoch sebseba ena lelochem",
+    "script": "Ethi",
+    "text": "የሰርቆ አደሮች ስብሰባ እና ሌሎችም"
+   },
+   "type": "work"
+  }
+ ]
+}

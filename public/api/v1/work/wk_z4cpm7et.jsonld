@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_z4cpm7et",
+ "@type": "Book",
+ "alternateName": [
+  "Agimas"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7epg09g9",
+   "@type": "Person",
+   "name": "Leul Dawit"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994433964",
+ "name": "አግማስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=24331470"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=24331470"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4bapb484",
+   "@type": "Book"
+  }
+ ]
+}

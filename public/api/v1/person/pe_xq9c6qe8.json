@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "wgabrialasaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xq9c6qe8",
+ "id": "pe_xq9c6qe8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70499323",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70499323"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "W/Gebriel Asege"
+  },
+  "romanized": "W/Gebriel Asege",
+  "sort_key": "wgebrielasege"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70499323"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xq9c6qe8",
+     "name": "W/Gebriel Asege",
+     "role": "author",
+     "romanized": "W/Gebriel Asege"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1974?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t1yww724",
+   "id": "wk_t1yww724",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mesfinu Mirkogna",
+    "script": "Ethi",
+    "text": "መስፍኑ ምርኮኛ"
+   },
+   "type": "work",
+   "year": 1974
+  }
+ ]
+}

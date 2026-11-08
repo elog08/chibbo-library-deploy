@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_paw1m6j0",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z0aecygp",
+   "@type": "Person",
+   "name": "Deacon Berihun Wondesen"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Whom shall I marry with?",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.40",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28865743"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28865743"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_68f9z2fd",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "gizawzawdu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h7p3vwkp",
+ "id": "pe_h7p3vwkp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19910678",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19910678"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98711415",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98711415"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gizaw Zewdu"
+  },
+  "romanized": "Gizaw Zewdu",
+  "sort_key": "gizawzewdu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19910678"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h7p3vwkp",
+     "name": "Gizaw Zewdu",
+     "role": "author",
+     "romanized": "Gizaw Zewdu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hrs3fmxa",
+   "id": "wk_hrs3fmxa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeEthiopia Temariwoch Tigil Ena Teketayu Yepartiwoch Poletika KeTinsisu Eske Difirisu (1961-1970 E.C)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ተማሪዎች ትግል እና ተከታዩ የፓርቲዎች ፖለቲካ ከጥንሱ እስከ ድፍርሱ (1961-1970 ዓ.ም)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_h7p3vwkp",
+     "name": "Gizaw Zewdu",
+     "role": "author",
+     "romanized": "Gizaw Zewdu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vt547z1k",
+   "id": "wk_vt547z1k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia (Tarik Tirktna Tarikachin)",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ (ታሪክ ትርክትና ታሪካችን)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

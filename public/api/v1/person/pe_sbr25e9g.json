@@ -1,0 +1,116 @@
+{
+ "extensions": {},
+ "fingerprint": "ababalamu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_sbr25e9g",
+ "id": "pe_sbr25e9g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89929312",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89929312"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abebe alemu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Abebe Alemu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበበ ዓለሙ"
+  },
+  "romanized": "abebe alemu",
+  "sort_key": "አበበአለሙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ዉርዬና ቡችዬ ከ አበበ ዓለሙ 1998 ዓ.ም.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=89929312"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_91xmsnt6.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_91xmsnt6.png"
+   },
+   "credits": [
+    {
+     "id": "pe_sbr25e9g",
+     "name": "አበበ ዓለሙ",
+     "role": "author",
+     "romanized": "abebe alemu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2005-09-11/2006-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_91xmsnt6",
+   "id": "wk_91xmsnt6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "werye ena buchye",
+    "script": "Ethi",
+    "text": "ውርዬ እና ቡችዬ"
+   },
+   "type": "work",
+   "year": 2005
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sbr25e9g",
+     "name": "አበበ ዓለሙ",
+     "role": "author",
+     "romanized": "abebe alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qhps9mzd",
+   "id": "wk_qhps9mzd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Se'aliwa Tinchel ena Leloch Achachir Tarikoch",
+    "script": "Ethi",
+    "text": "ሠዓሊዋ ጥንቸል እና ሌሎች አጫጭር ታሪኮች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "fitsumwmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0ffpwzg0",
+ "id": "pe_0ffpwzg0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90616694",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90616694"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fitsum W/Mariam"
+  },
+  "romanized": "Fitsum W/Mariam",
+  "sort_key": "fitsumwmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90616694"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0ffpwzg0",
+     "name": "Fitsum W/Mariam",
+     "role": "author",
+     "romanized": "Fitsum W/Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jds315rc",
+   "id": "wk_jds315rc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yalitezemerelachew (Volume 2)",
+    "script": "Ethi",
+    "text": "ያልተዘመረላቸው (ቅጽ.2)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

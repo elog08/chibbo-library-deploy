@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4732p9dm",
+ "@type": "Book",
+ "alternateName": [
+  "Tebegna Ewnetoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vp398sh1",
+   "@type": "Person",
+   "name": "Merry Feleke"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994477937",
+ "name": "ጠበኛ እውነቶች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=61187132"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=61187132"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_rw6896m0",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmazigabusibihat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fn5rc94x",
+ "id": "pe_fn5rc94x",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20411171",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20411171"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mezigebu sibihat"
+  },
+  "romanized": "Memihir Mezigebu sibihat",
+  "sort_key": "memihirmezigebusibihat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20411171"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fn5rc94x",
+     "name": "Memihir Mezigebu sibihat",
+     "role": "author",
+     "romanized": "Memihir Mezigebu sibihat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f9j4k09z",
+   "id": "wk_f9j4k09z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Merkorios",
+    "script": "Ethi",
+    "text": "ገድለ መርቆሪዎስ"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "somaunknownathiopianauthor",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gjabdkfk",
+ "id": "pe_gjabdkfk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56728225",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56728225"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Some Unknown Ethiopian Author"
+  },
+  "romanized": "Some Unknown Ethiopian Author",
+  "sort_key": "someunknownethiopianauthor"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56728225"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gjabdkfk",
+     "name": "Some Unknown Ethiopian Author",
+     "role": "author",
+     "romanized": "Some Unknown Ethiopian Author"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1967?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2vh6bscd",
+   "id": "wk_2vh6bscd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YaTe Tewodros Tarik",
+    "script": "Ethi",
+    "text": "ያጤ ቴዎድሮስ ታሪክ"
+   },
+   "type": "work",
+   "year": 1967
+  }
+ ]
+}

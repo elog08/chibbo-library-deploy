@@ -1,0 +1,129 @@
+{
+ "extensions": {},
+ "fingerprint": "zarihuntashoma",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_f9gtamwm",
+ "id": "pe_f9gtamwm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97558365",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97558365"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "zerihun teshome",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Zerihun Teshome",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዘሪሁን ተሾመ"
+  },
+  "romanized": "zerihun teshome",
+  "sort_key": "ዘሪሁንተሾመ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኩርኮራ - ዘሪሁን ተሾመ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97558365"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_dy3f1hem.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_dy3f1hem.png"
+   },
+   "credits": [
+    {
+     "id": "pe_f9gtamwm",
+     "name": "ዘሪሁን ተሾመ",
+     "role": "author",
+     "romanized": "zerihun teshome"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dy3f1hem",
+   "id": "wk_dy3f1hem",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "kurkora",
+    "script": "Ethi",
+    "text": "ኩርኮራ"
+   },
+   "type": "work",
+   "year": 1999
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_f9gtamwm",
+     "name": "ዘሪሁን ተሾመ",
+     "role": "author",
+     "romanized": "zerihun teshome"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kkdjbege",
+   "id": "wk_kkdjbege",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kurkora (YeErtra Guday YeLhiku Mina Yemannenet Poltika BeZemenawit Ethiopia)",
+    "script": "Ethi",
+    "text": "ኩርኮራ (የኤርትራ ጉዳይ የልሂቁ ሚና የማንነት ፖለቲካ በዘመናዊት ኢትዮጵያ)"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

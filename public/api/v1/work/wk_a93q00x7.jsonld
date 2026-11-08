@@ -1,0 +1,60 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a93q00x7",
+ "@type": "Book",
+ "alternateName": [
+  "Ate Tewodros"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4rat1td0",
+   "@type": "Person",
+   "name": "Mohammed Selman"
+  }
+ ],
+ "datePublished": "2022",
+ "inLanguage": "am",
+ "isbn": "9789994434138",
+ "name": "አጤ ቴዎድሮስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=20786846"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=36529176"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litman Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=20786846",
+  "https://www.mereb.shop/rs/?mpid=36529176"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jf09wsxt",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_5rktpmr7",
+   "@type": "Book"
+  }
+ ]
+}

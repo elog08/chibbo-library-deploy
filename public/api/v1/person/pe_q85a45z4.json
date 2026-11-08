@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drabdrahmanrafatalbasha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q85a45z4",
+ "id": "pe_q85a45z4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21153611",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21153611"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Abdrehman Re'afet Albasha"
+  },
+  "romanized": "Dr. Abdrehman Re'afet Albasha",
+  "sort_key": "drabdrehmanreafetalbasha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21153611"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q85a45z4",
+     "name": "Dr. Abdrehman Re'afet Albasha",
+     "role": "author",
+     "romanized": "Dr. Abdrehman Re'afet Albasha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7bzk1j7r",
+   "id": "wk_7bzk1j7r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hayatu SoHeba (Yenebiyou (S.A.W) Balderebawoch Achir YeHywet Tarik)",
+    "script": "Ethi",
+    "text": "ሐያቱ ሶሐባ (የነቢዩ(ሰ.ዐ.ወ) ባልደረባዎች አጭር የሕይወት ታሪክ)"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

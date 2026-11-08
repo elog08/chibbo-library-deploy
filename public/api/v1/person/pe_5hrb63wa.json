@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "kidanawoldkifla",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5hrb63wa",
+ "id": "pe_5hrb63wa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92432143",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92432143"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kidane wold Kifle"
+  },
+  "romanized": "Kidane wold Kifle",
+  "sort_key": "kidanewoldkifle"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92432143"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5hrb63wa",
+     "name": "Kidane wold Kifle",
+     "role": "author",
+     "romanized": "Kidane wold Kifle"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1956?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_38rr3bz8",
+   "id": "wk_38rr3bz8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidane Wold Kifele Metsaf Sewasw Wegs WeMezgebe Kalat Hadis",
+    "script": "Ethi",
+    "text": "ኪዳነ ወልድ ክፍሌ መጽሐፈ ሰዋስው ወግስ ወመዝገበ ቃላት ሐዲስ"
+   },
+   "type": "work",
+   "year": 1956
+  }
+ ]
+}

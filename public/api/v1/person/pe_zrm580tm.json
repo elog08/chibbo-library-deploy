@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "fakadusisay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zrm580tm",
+ "id": "pe_zrm580tm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76026061",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76026061"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fekadu Sisay"
+  },
+  "romanized": "Fekadu Sisay",
+  "sort_key": "fekadusisay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76026061"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zrm580tm",
+     "name": "Fekadu Sisay",
+     "role": "author",
+     "romanized": "Fekadu Sisay"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5psf8rm9",
+   "id": "wk_5psf8rm9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mistiate Am-ihara beadisochi Am-hara",
+    "script": "Ethi",
+    "text": "ምጽኣተ ዓም-ሐራ በአዲሶቹ ዓም-ሓራ"
+   },
+   "type": "work"
+  }
+ ]
+}

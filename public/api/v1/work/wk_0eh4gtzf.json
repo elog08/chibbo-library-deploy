@@ -1,0 +1,97 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_8hjc0eeq",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_f4w7tz55"
+ ],
+ "extensions": {},
+ "fingerprint": "ግእዝበቀላሉ|progatachawhaila",
+ "first_published": {
+  "alternates": [
+   "2023-09-12/2024-09-10"
+  ],
+  "edtf": "2016?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2016"
+  }
+ },
+ "flags": [
+  "language-inferred-from-script",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_0eh4gtzf",
+ "id": "wk_0eh4gtzf",
+ "identifiers": {
+  "isbn13": [
+   "9780970666369"
+  ],
+  "mereb_mpid": [
+   "42257076"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42257076",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42257076"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "22.77",
+   "provider": "mereb",
+   "ref": "42257076",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42257076"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=42257076"
+ },
+ "publisher_name": "Getachew Haile",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ge'ez Bekelalu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ግዕዝ በቀላሉ"
+  },
+  "romanized": "Ge'ez Bekelalu",
+  "sort_key": "ግእዝበቀላሉ"
+ },
+ "type": "work"
+}

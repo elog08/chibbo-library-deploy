@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_46qdmbjw",
  "id": "pe_46qdmbjw",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40620880",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40620880"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -35,6 +44,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_46qdmbjw",
+     "name": "ደሞዝ ጎሹሜ",
+     "role": "author",
+     "romanized": "Demoz Goshume"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_erz68j1b",
+   "id": "wk_erz68j1b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sositegnaq Kidan Semune Mitse'at",
+    "script": "Ethi",
+    "text": "ሦስተኛው ኪዳን ሰሙነ ምፅአት"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_qv54agzj.webp",

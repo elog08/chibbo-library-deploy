@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drandriaslama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v3m42w05",
+ "id": "pe_v3m42w05",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90693146",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90693146"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Endrias Lema"
+  },
+  "romanized": "Dr.Endrias Lema",
+  "sort_key": "drendriaslema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90693146"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v3m42w05",
+     "name": "Dr.Endrias Lema",
+     "role": "author",
+     "romanized": "Dr.Endrias Lema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1jvmvxbk",
+   "id": "wk_1jvmvxbk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeCancer Sigatina Tesfa",
+    "script": "Ethi",
+    "text": "የካንሰር ስጋትና ተስፋ"
+   },
+   "type": "work"
+  }
+ ]
+}

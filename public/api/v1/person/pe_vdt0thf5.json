@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "profasormasfinwoldmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vdt0thf5",
+ "id": "pe_vdt0thf5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09210737",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09210737"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Professor Mesfin Woldmariam"
+  },
+  "romanized": "Professor Mesfin Woldmariam",
+  "sort_key": "professormesfinwoldmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09210737"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vdt0thf5",
+     "name": "Professor Mesfin Woldmariam",
+     "role": "author",
+     "romanized": "Professor Mesfin Woldmariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z36fy2f9",
+   "id": "wk_z36fy2f9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adega Yanjabebebet YeAfrica Kend",
+    "script": "Ethi",
+    "text": "አደጋ ያንዣበበት የአፍሪካ ቀንድ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

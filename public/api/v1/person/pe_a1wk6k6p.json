@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mohamadaliburhan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a1wk6k6p",
+ "id": "pe_a1wk6k6p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63244438",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63244438"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69438784",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69438784"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mohammed Ali (Burhan)"
+  },
+  "romanized": "Mohammed Ali (Burhan)",
+  "sort_key": "mohammedaliburhan"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63244438"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a1wk6k6p",
+     "name": "Mohammed Ali (Burhan)",
+     "role": "author",
+     "romanized": "Mohammed Ali (Burhan)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_9hkefcsz",
+   "id": "wk_9hkefcsz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eslimana Be20gnaw Kifile Zemen",
+    "script": "Ethi",
+    "text": "እስልምና በ20ኛው ክፍለ ዘመን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_a1wk6k6p",
+     "name": "Mohammed Ali (Burhan)",
+     "role": "author",
+     "romanized": "Mohammed Ali (Burhan)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zmrr4p29",
+   "id": "wk_zmrr4p29",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Esilimina Be20gnaw K/Zemen",
+    "script": "Ethi",
+    "text": "እስልምና በ 20ኛው ክ/ዘመን"
+   },
+   "type": "work"
+  }
+ ]
+}

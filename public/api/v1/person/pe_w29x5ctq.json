@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yusufkadir",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w29x5ctq",
+ "id": "pe_w29x5ctq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59181403",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59181403"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yusuf Kedir"
+  },
+  "romanized": "Yusuf Kedir",
+  "sort_key": "yusufkedir"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59181403"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w29x5ctq",
+     "name": "Yusuf Kedir",
+     "role": "author",
+     "romanized": "Yusuf Kedir"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7fdyvjcs",
+   "id": "wk_7fdyvjcs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitihin filega (Kekelem Meda Eske kilinto)",
+    "script": "Ethi",
+    "text": "ፍትህን ፍለጋ (ከቀለም ሜዳ እስከ ቂሊንጦ)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

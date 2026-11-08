@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "rhondabyrna",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_q51bav27",
+ "id": "pe_q51bav27",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94510792",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94510792"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Rhonda Byrne"
+  },
+  "romanized": "Rhonda Byrne",
+  "sort_key": "rhondabyrne"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ታላቁ ሐይል.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=94510792"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_3f69z0vy.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_3f69z0vy.png"
+   },
+   "credits": [
+    {
+     "id": "pe_q51bav27",
+     "name": "Rhonda Byrne",
+     "role": "author",
+     "romanized": "Rhonda Byrne"
+    },
+    {
+     "id": "pe_vggxg34r",
+     "name": "ብርሃኑ በላቸው",
+     "role": "author",
+     "romanized": "berhanu belachew"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "form": "Print",
+   "href": "https://chibbo.app/work/wk_vtpyj13v",
+   "id": "wk_vtpyj13v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Secret The Power",
+    "script": "Ethi",
+    "text": "ታላቁ ኃይል"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "sons",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xht3jd4t",
+ "id": "pe_xht3jd4t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58203876",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58203876"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sons"
+  },
+  "romanized": "Sons",
+  "sort_key": "sons"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58203876"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xht3jd4t",
+     "name": "Sons",
+     "role": "author",
+     "romanized": "Sons"
+    },
+    {
+     "id": "pe_w5jq3czp",
+     "name": "Daughters",
+     "role": "author",
+     "romanized": "Daughters"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wn7zm4dn",
+   "id": "wk_wn7zm4dn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lewegenina Leager Kibir (Major General Mer'ed Nigusse Ena Ethiopia)",
+    "script": "Ethi",
+    "text": "ለወገንና ለአገር ክብር (ሜጀር ጀነራል መርዕድ ንጉሤ እና ኢትዮጵያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

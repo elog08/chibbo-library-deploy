@@ -1,0 +1,209 @@
+{
+ "extensions": {},
+ "fingerprint": "abalalamayahu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nfbv4ne2",
+ "id": "pe_nfbv4ne2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16190610",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16190610"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31980718",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31980718"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58167217",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58167217"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87160256",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87160256"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abel alemayehu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Abel Alemayehu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል ዓለማየሁ"
+  },
+  "romanized": "abel alemayehu",
+  "sort_key": "አቤልአለማየሁ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የኛ ሰው ገመና አቤል አለማየሁ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16190610"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nfbv4ne2",
+     "name": "አቤል ዓለማየሁ",
+     "role": "author",
+     "romanized": "abel alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8ba3nz9x",
+   "id": "wk_8ba3nz9x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAddis Ababa Gudoch",
+    "script": "Ethi",
+    "text": "የአዲስ አበባ ጉዶች"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6j1fdpny",
+     "name": "Elias Gebru",
+     "role": "author",
+     "romanized": "Elias Gebru"
+    },
+    {
+     "id": "pe_nfbv4ne2",
+     "name": "አቤል ዓለማየሁ",
+     "role": "author",
+     "romanized": "abel alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hjbs55cc",
+   "id": "wk_hjbs55cc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopian Man Yitadegat?",
+    "script": "Ethi",
+    "text": "ኢትዮጵያን ማን ይታደጋት?"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_x0r9cs3w.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_x0r9cs3w.png"
+   },
+   "credits": [
+    {
+     "id": "pe_nfbv4ne2",
+     "name": "አቤል ዓለማየሁ",
+     "role": "author",
+     "romanized": "abel alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2013-09-11/2014-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jfn3z6sf",
+   "id": "wk_jfn3z6sf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yegna Sew Gemena",
+    "script": "Ethi",
+    "text": "የኛ ሰው ገመና"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nfbv4ne2",
+     "name": "አቤል ዓለማየሁ",
+     "role": "author",
+     "romanized": "abel alemayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rz8g319x",
+   "id": "wk_rz8g319x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeZemenu Sera",
+    "script": "Ethi",
+    "text": "የዘመኑ ሤራ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "garimatafarazabiharagondar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07bdh2p2",
+ "id": "pe_07bdh2p2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45769137",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45769137"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98504596",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98504596"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gerima Tafere (ZEBihere Gonder)"
+  },
+  "romanized": "Gerima Tafere (ZEBihere Gonder)",
+  "sort_key": "gerimataferezebiheregonder"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45769137"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07bdh2p2",
+     "name": "Gerima Tafere (ZEBihere Gonder)",
+     "role": "author",
+     "romanized": "Gerima Tafere (ZEBihere Gonder)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2xr3t303",
+   "id": "wk_2xr3t303",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gonderew Begashaw",
+    "script": "Ethi",
+    "text": "ጎንደሬው በጋሻው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_07bdh2p2",
+     "name": "Gerima Tafere (ZEBihere Gonder)",
+     "role": "author",
+     "romanized": "Gerima Tafere (ZEBihere Gonder)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_svxjmwe5",
+   "id": "wk_svxjmwe5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gonderew Begashaw",
+    "script": "Ethi",
+    "text": "ጎንደሬ በጋሻው"
+   },
+   "type": "work"
+  }
+ ]
+}

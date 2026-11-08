@@ -1,0 +1,66 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanuasaras",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j1eczs7z",
+ "id": "pe_j1eczs7z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98618885",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98618885"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berhanu Aseres"
+  },
+  "romanized": "Berhanu Aseres",
+  "sort_key": "berhanuaseres"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98618885"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j1eczs7z",
+     "name": "Berhanu Aseres",
+     "role": "author",
+     "romanized": "Berhanu Aseres"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_j837jagj",
+   "id": "wk_j837jagj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Man Yinager Yenebere... (Yetahisasu Girgir Ena Mezezu)",
+    "script": "Ethi",
+    "text": "ማን ይናገር የነበረ...(የታኅሣሡ ግርግር እና መዘዙ)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "popamakariyos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jad5dv69",
+ "id": "pe_jad5dv69",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26282874",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26282874"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pope Mekariyos"
+  },
+  "romanized": "Pope Mekariyos",
+  "sort_key": "popemekariyos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26282874"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jad5dv69",
+     "name": "Pope Mekariyos",
+     "role": "author",
+     "romanized": "Pope Mekariyos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_p1vc92ny",
+   "id": "wk_p1vc92ny",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mengede Semay",
+    "script": "Ethi",
+    "text": "መንገደ ሰማይ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "marvinlbandar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_s0awwy89",
+ "id": "pe_s0awwy89",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59086343",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59086343"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Marvin L. Bender"
+  },
+  "romanized": "Marvin L. Bender",
+  "sort_key": "marvinlbender"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59086343"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    },
+    {
+     "id": "pe_s0awwy89",
+     "name": "Marvin L. Bender",
+     "role": "author",
+     "romanized": "Marvin L. Bender"
+    },
+    {
+     "id": "pe_9gdws64w",
+     "name": "C.F Beckingham",
+     "role": "author",
+     "romanized": "C.F Beckingham"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1966?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_se1y1zgy",
+   "id": "wk_se1y1zgy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.IV No.1 (January 1966)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርመራ መጽሔት"
+   },
+   "type": "work",
+   "year": 1966
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "damakamatafaria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4bj5g4a0",
+ "id": "pe_4bj5g4a0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51941292",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51941292"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Demeke Metaferia"
+  },
+  "romanized": "Demeke Metaferia",
+  "sort_key": "demekemetaferia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51941292"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4bj5g4a0",
+     "name": "Demeke Metaferia",
+     "role": "author",
+     "romanized": "Demeke Metaferia"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9q7dpm37",
+   "id": "wk_9q7dpm37",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hilm Weys Kizet (Ayalew Tolosa Bahita Besamy Bet KeTalalak YeEthiopiya Negestat Gar Yigenagnal)",
+    "script": "Ethi",
+    "text": "ሕልም ወይስ ቅዠት (ዓያሌው ቶሎሣ ባሕታ በሰ ማይ ቤት ከታላላቅ የኢትዮጵያ ነገሥታት ጋር ይገናኛል)(ልብወለድ ዳያሎግ)"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

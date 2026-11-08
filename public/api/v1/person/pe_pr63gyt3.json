@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "dababahailagiorgis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pr63gyt3",
+ "id": "pe_pr63gyt3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85932812",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85932812"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92472460",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92472460"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Debebe Hailegiorgis"
+  },
+  "romanized": "Debebe Hailegiorgis",
+  "sort_key": "debebehailegiorgis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85932812"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pr63gyt3",
+     "name": "Debebe Hailegiorgis",
+     "role": "author",
+     "romanized": "Debebe Hailegiorgis"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k90b6486",
+   "id": "wk_k90b6486",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'amaregna felitawi anegageroch",
+    "script": "Latn",
+    "text": "Ye'amaregna felitawi anegageroch"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_pr63gyt3",
+     "name": "Debebe Hailegiorgis",
+     "role": "author",
+     "romanized": "Debebe Hailegiorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yynkjfke",
+   "id": "wk_yynkjfke",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adisu YeMisalieawi Anegageroc Metshaf",
+    "script": "Ethi",
+    "text": "አዲሱ የምሳሌያዊ አነጋገሮች መፅሐፍ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

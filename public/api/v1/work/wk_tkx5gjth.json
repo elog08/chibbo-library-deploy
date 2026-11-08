@@ -19,7 +19,8 @@
  },
  "editions": [
   "ed_221tj36s",
-  "ed_vj2zyqp1"
+  "ed_vj2zyqp1",
+  "ed_fvh0722t"
  ],
  "extensions": {},
  "fingerprint": "አፍ|adamrata",
@@ -38,6 +39,9 @@
  "identifiers": {
   "addisbooks_sku": [
    "6047"
+  ],
+  "mereb_mpid": [
+   "07265133"
   ]
  },
  "language": "am",
@@ -83,12 +87,31 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/af-adam-reta"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07265133",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07265133"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.29",
+   "provider": "mereb",
+   "ref": "07265133",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07265133"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 5.00/5 from 6 rating(s)"
+  "ethiobookreview community rating 5.00/5 from 6 rating(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

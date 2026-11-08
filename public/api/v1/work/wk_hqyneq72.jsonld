@@ -43,6 +43,16 @@
     "name": "amazon"
    },
    "url": "https://www.amazon.com/dp/B0DZSFWK9X"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.84",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60978035"
   }
  ],
  "publisher": {
@@ -50,7 +60,8 @@
   "name": "Mega Publishing"
  },
  "sameAs": [
-  "https://addisbooks.com/book/dertogada-by-yismake-worku/"
+  "https://addisbooks.com/book/dertogada-by-yismake-worku/",
+  "https://www.mereb.shop/rs/?mpid=60978035"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -60,6 +71,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_q2rz1gky",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_r97mez92",
    "@type": "Book"
   }
  ]

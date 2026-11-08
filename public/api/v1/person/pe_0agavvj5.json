@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dajanatasama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0agavvj5",
+ "id": "pe_0agavvj5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77602597",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77602597"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dejene Tesema"
+  },
+  "romanized": "Dejene Tesema",
+  "sort_key": "dejenetesema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=77602597"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0agavvj5",
+     "name": "Dejene Tesema",
+     "role": "author",
+     "romanized": "Dejene Tesema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vvfravw1",
+   "id": "wk_vvfravw1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeshi Haregitu",
+    "script": "Ethi",
+    "text": "የሺ ሀረጊቱ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

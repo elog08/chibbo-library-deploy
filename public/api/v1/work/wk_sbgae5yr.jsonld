@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sbgae5yr",
+ "@type": "Book",
+ "alternateName": [
+  "William Shekspear's Othello in Tigirigna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3dxsmnca",
+   "@type": "Person",
+   "name": "William Shekspere"
+  }
+ ],
+ "inLanguage": "ti",
+ "name": "ኦቴሎ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18228025"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "William Shekspere (2013/14)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18228025"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_km89x7sd",
+   "@type": "Book"
+  }
+ ]
+}

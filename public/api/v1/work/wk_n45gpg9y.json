@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_qk4vcc33"
+  "ed_qk4vcc33",
+  "ed_a9ms208d"
  ],
  "extensions": {},
  "fingerprint": "ትምህርተተዋህዶ|ababagashaya",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_n45gpg9y",
  "id": "wk_n45gpg9y",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "26046080"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,6 +58,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/temherte-tewahdo-abebe-gashaye"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26046080",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26046080"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "35.45",
+   "provider": "mereb",
+   "ref": "26046080",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26046080"
   }
  ],
  "locked_fields": [],
@@ -65,6 +88,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/temherte-tewahdo-abebe-gashaye"
  },
+ "publisher_name": "Mahibere Kidusan",
  "relations": [],
  "rights": {
   "shippable": false,

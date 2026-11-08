@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "kasukabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hqncknma",
+ "id": "pe_hqncknma",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85303910",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85303910"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kasu Kebede"
+  },
+  "romanized": "Kasu Kebede",
+  "sort_key": "kasukebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85303910"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hqncknma",
+     "name": "Kasu Kebede",
+     "role": "author",
+     "romanized": "Kasu Kebede"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6xk6rk41",
+   "id": "wk_6xk6rk41",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mamush Ena Bobi",
+    "script": "Ethi",
+    "text": "ማሙሽ እና ቦቢ"
+   },
+   "type": "work"
+  }
+ ]
+}

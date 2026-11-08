@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalgatachawmakonanhasan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3b3qfetx",
+ "id": "pe_3b3qfetx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48531447",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48531447"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Getachew Mekonen- Hassen"
+  },
+  "romanized": "Colonel Getachew Mekonen- Hassen",
+  "sort_key": "colonelgetachewmekonenhassen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48531447"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3b3qfetx",
+     "name": "Colonel Getachew Mekonen- Hassen",
+     "role": "author",
+     "romanized": "Colonel Getachew Mekonen- Hassen"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1992?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8xy4nbgh",
+   "id": "wk_8xy4nbgh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Welo -\"Yager Dibab\"",
+    "script": "Ethi",
+    "text": "ወሎ-ያገር ድባብ"
+   },
+   "type": "work",
+   "year": 1992
+  }
+ ]
+}

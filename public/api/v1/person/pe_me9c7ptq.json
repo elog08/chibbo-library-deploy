@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "fatharhiryakos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_me9c7ptq",
+ "id": "pe_me9c7ptq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53494764",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53494764"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Father Hiryakos"
+  },
+  "romanized": "Father Hiryakos",
+  "sort_key": "fatherhiryakos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53494764"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_me9c7ptq",
+     "name": "Father Hiryakos",
+     "role": "author",
+     "romanized": "Father Hiryakos"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_48afq2zz",
+   "id": "wk_48afq2zz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Finote Bete Kihinet WeBete Mengist",
+    "script": "Ethi",
+    "text": "ፍኖተ ቤተ ክህነት ወቤተ መንግሥት"
+   },
+   "type": "work"
+  }
+ ]
+}

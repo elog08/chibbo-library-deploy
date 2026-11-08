@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "profasorbirhanunaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_myj6ntnx",
+ "id": "pe_myj6ntnx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23886283",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23886283"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Professor.Birhanu Nega"
+  },
+  "romanized": "Professor.Birhanu Nega",
+  "sort_key": "professorbirhanunega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23886283"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_myj6ntnx",
+     "name": "Professor.Birhanu Nega",
+     "role": "author",
+     "romanized": "Professor.Birhanu Nega"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_19999p4q",
+   "id": "wk_19999p4q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Democracyna Huletentenawi Limat BeEthiopia",
+    "script": "Ethi",
+    "text": "ዴሞክራሲና ሁለንተናዊ ልማት በኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

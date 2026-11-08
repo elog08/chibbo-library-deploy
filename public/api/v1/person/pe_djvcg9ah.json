@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "nagazaru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_djvcg9ah",
+ "id": "pe_djvcg9ah",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83266842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83266842"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nega Zer'u"
+  },
+  "romanized": "Nega Zer'u",
+  "sort_key": "negazeru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83266842"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_djvcg9ah",
+     "name": "Nega Zer'u",
+     "role": "author",
+     "romanized": "Nega Zer'u"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_epsgedad",
+   "id": "wk_epsgedad",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidme Ginbar",
+    "script": "Ethi",
+    "text": "ቅድመ ግንባር"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

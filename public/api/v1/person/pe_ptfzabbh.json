@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "staphanstackal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ptfzabbh",
+ "id": "pe_ptfzabbh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77965960",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77965960"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Stephen Steckel"
+  },
+  "romanized": "Stephen Steckel",
+  "sort_key": "stephensteckel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=77965960"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ptfzabbh",
+     "name": "Stephen Steckel",
+     "role": "author",
+     "romanized": "Stephen Steckel"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_90tj3807",
+   "id": "wk_90tj3807",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Operation Solomon",
+    "script": "Ethi",
+    "text": "ኦፕሬሽን ሰለሞን ያልተነገረው ምስጢር"
+   },
+   "type": "work"
+  }
+ ]
+}

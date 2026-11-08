@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "gasitachanazanabafalaka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ssgnjz2t",
+ "id": "pe_ssgnjz2t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78604596",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78604596"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79178317",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79178317"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gesit Techane (Zenebe Feleke)"
+  },
+  "romanized": "Gesit Techane (Zenebe Feleke)",
+  "sort_key": "gesittechanezenebefeleke"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78604596"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ssgnjz2t",
+     "name": "Gesit Techane (Zenebe Feleke)",
+     "role": "author",
+     "romanized": "Gesit Techane (Zenebe Feleke)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b4zvrpm4",
+   "id": "wk_b4zvrpm4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Neber (Kifil Ande)",
+    "script": "Ethi",
+    "text": "ነበር (ክፍል አንድ)"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ssgnjz2t",
+     "name": "Gesit Techane (Zenebe Feleke)",
+     "role": "author",
+     "romanized": "Gesit Techane (Zenebe Feleke)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v8m21qmr",
+   "id": "wk_v8m21qmr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Neber (Kifil 2)",
+    "script": "Ethi",
+    "text": "ነበር (ክፍል 2)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

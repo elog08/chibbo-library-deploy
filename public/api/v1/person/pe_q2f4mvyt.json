@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "taqumast",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q2f4mvyt",
+ "id": "pe_q2f4mvyt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03052126",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03052126"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tequmast"
+  },
+  "romanized": "Tequmast",
+  "sort_key": "tequmast"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03052126"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q2f4mvyt",
+     "name": "Tequmast",
+     "role": "author",
+     "romanized": "Tequmast"
+    },
+    {
+     "id": "pe_wmmk7343",
+     "name": "ዳዊት",
+     "role": "author",
+     "romanized": "dawit"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_d1ja6npc",
+   "id": "wk_d1ja6npc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Tebesa",
+    "script": "Latn",
+    "text": "Tebesa"
+   },
+   "type": "work"
+  }
+ ]
+}

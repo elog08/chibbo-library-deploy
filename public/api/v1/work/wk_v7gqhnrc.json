@@ -1,0 +1,116 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_7t8990dd",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ኃለፊ፡ አቆሙና፡ ጠየቁኝ፡ በሰምሮ፡\n«አካፍላለው፡ አንተ፡ አፍህን፡ ቀርበ……»\n«ተሸታለሁ፡ ሺኖ፡ ሺኖ፡ ሣክ፡ ሣክ፡\n«ማሣሣ—ማሣሣጊያ፡ ሤም፡ ሤም፡ ሿክ፡ ሿክ»\n\nጠጣ፡ አላለው፡ ብርሃንን፡\nንትርኩ፡ ይብቃ፤\nንፋትንአየል፡ መላውን፡ ጨርቃ፡\nአታየኝም፡ እንደ፡ አባ፡ እንኳን፡ ስትቀብጥ፡\nጥርስ፡ ወርቅ፡ በሰምሮ፡ ባሕርን፡ ስትሞጥጥ፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "qine"
+   ]
+  }
+ },
+ "fingerprint": "ማኖሬ|managastulama",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_v7gqhnrc",
+ "id": "wk_v7gqhnrc",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_t4mekwzy (የግጥም ጉባኤ), pp. 34–34 (የግጥም ጉባኤ  መንግሥቱ ለማ.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_t4mekwzy.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t4mekwzy.png"
+  },
+  "credits": [
+   {
+    "id": "pe_7t8990dd",
+    "name": "መንግሥቱ ለማ",
+    "role": "author",
+    "romanized": "menegestu lema"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1966-09-11/1967-09-11",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_t4mekwzy",
+  "id": "wk_t4mekwzy",
+  "language": "am",
+  "part_count": 4,
+  "poetry": true,
+  "poetry_tags": [
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yegetem gubae",
+   "script": "Ethi",
+   "text": "የግጥም ጉባኤ"
+  },
+  "type": "work",
+  "year": 1966
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "qine"
+ ],
+ "provenance": {
+  "raw_sha256": "62f90066cc3d6908f5bf7f81b9e8873073187660ed30ea50ec9c91c675aa183b",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_t4mekwzy"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Manore",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ማኖሬ"
+  },
+  "romanized": "Manore",
+  "sort_key": "ማኖሬ"
+ },
+ "type": "work"
+}

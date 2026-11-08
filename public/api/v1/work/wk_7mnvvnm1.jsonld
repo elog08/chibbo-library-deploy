@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7mnvvnm1",
+ "@type": "Book",
+ "alternateName": [
+  "Erasish Siga Yechanishiw Siga (In three languages)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xykwsxpc",
+   "@type": "Person",
+   "name": "Alula Meresa Tekilu"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994433018",
+ "name": "እራስሽ ስጋ የጫንሽው ስጋ (በሶስት ቋንቋዎች)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11281513"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Ayay Children's Book"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11281513"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_q33zaegf",
+   "@type": "Book"
+  }
+ ]
+}

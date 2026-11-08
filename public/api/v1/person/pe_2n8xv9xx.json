@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "makdasbakalamakida",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2n8xv9xx",
+ "id": "pe_2n8xv9xx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91605670",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91605670"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mekdes Bekele (Makida)"
+  },
+  "romanized": "Mekdes Bekele (Makida)",
+  "sort_key": "mekdesbekelemakida"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=91605670"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2n8xv9xx",
+     "name": "Mekdes Bekele (Makida)",
+     "role": "author",
+     "romanized": "Mekdes Bekele (Makida)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x613mh1j",
+   "id": "wk_x613mh1j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeZendiro Tidaroch Ena Leloch...",
+    "script": "Ethi",
+    "text": "የዘንድሮ ትዳሮችና ሌሎች..."
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

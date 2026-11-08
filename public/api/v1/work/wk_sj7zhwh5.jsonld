@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sj7zhwh5",
+ "@type": "Book",
+ "alternateName": [
+  "Kilti'u"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p2da1ttz",
+   "@type": "Person",
+   "name": "Inspector G/Michael Kidanu"
+  }
+ ],
+ "inLanguage": "ti",
+ "name": "ክልቲኡ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50880288"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50880288"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_r6mqm99w",
+   "@type": "Book"
+  }
+ ]
+}

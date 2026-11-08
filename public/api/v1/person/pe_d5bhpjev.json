@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "ahmadzakaria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d5bhpjev",
+ "id": "pe_d5bhpjev",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09042946",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09042946"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ahmed Zekaria"
+  },
+  "romanized": "Ahmed Zekaria",
+  "sort_key": "ahmedzekaria"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09042946"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p1yz5mfc",
+     "name": "Sven Rubenson",
+     "role": "author",
+     "romanized": "Sven Rubenson"
+    },
+    {
+     "id": "pe_d5bhpjev",
+     "name": "Ahmed Zekaria",
+     "role": "author",
+     "romanized": "Ahmed Zekaria"
+    },
+    {
+     "id": "pe_btcty2xc",
+     "name": "Jon Abbink",
+     "role": "author",
+     "romanized": "Jon Abbink"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1991?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y3cs2d81",
+   "id": "wk_y3cs2d81",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXIIV (November 1991)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1991
+  }
+ ]
+}

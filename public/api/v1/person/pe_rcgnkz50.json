@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhadistikunah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rcgnkz50",
+ "id": "pe_rcgnkz50",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88404916",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88404916"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hadis Tikuneh"
+  },
+  "romanized": "Memihir Hadis Tikuneh",
+  "sort_key": "memihirhadistikuneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88404916"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rcgnkz50",
+     "name": "Memihir Hadis Tikuneh",
+     "role": "author",
+     "romanized": "Memihir Hadis Tikuneh"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_dk8tbwf4",
+   "id": "wk_dk8tbwf4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meserete Ge'ez",
+    "script": "Ethi",
+    "text": "መሰረተ ግዕዝ"
+   },
+   "type": "work"
+  }
+ ]
+}

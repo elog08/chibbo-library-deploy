@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_g5783vm6",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vm8mr7rz",
+   "@type": "Person",
+   "name": "Kerestin Shayo"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tradition and spiritual life in Ethiopian Orthodox Tewahedo Church",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=52580442"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=52580442"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_p54g1vax",
+   "@type": "Book"
+  }
+ ]
+}

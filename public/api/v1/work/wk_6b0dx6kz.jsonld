@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6b0dx6kz",
+ "@type": "Book",
+ "alternateName": [
+  "Ebdu"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ybn732x7",
+   "@type": "Person",
+   "name": "Awgechew Terefe"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994482443",
+ "name": "እብዱ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "16.37",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=12634589"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=12634589"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ayjj85r3",
+   "@type": "Book"
+  }
+ ]
+}

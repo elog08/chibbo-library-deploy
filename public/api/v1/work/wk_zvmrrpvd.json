@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_2c62xy3r"
+  "ed_2c62xy3r",
+  "ed_gs0e7jrp"
  ],
  "extensions": {},
  "fingerprint": "3000ሌሊቶች|andualamaraga",
@@ -35,7 +36,14 @@
  ],
  "href": "https://chibbo.app/work/wk_zvmrrpvd",
  "id": "wk_zvmrrpvd",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9789994431915"
+  ],
+  "mereb_mpid": [
+   "06971303"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -63,6 +71,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/3000-lelitoch-andualem-arage"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06971303",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06971303"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "14.99",
+   "provider": "mereb",
+   "ref": "06971303",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06971303"
   }
  ],
  "locked_fields": [],

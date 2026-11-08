@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7tqvq3b4",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_g9bawxyp",
+   "@type": "Person",
+   "name": "Memeher Meket Fantu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Impressive life of Christians",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.31",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=79893111"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=79893111"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pd1fbh9b",
+   "@type": "Book"
+  }
+ ]
+}

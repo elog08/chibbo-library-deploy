@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "bahiruzawdia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bwr189es",
+ "id": "pe_bwr189es",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87160260",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87160260"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98319490",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98319490"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bahiru Zewdie"
+  },
+  "romanized": "Bahiru Zewdie",
+  "sort_key": "bahiruzewdie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87160260"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bwr189es",
+     "name": "Bahiru Zewdie",
+     "role": "author",
+     "romanized": "Bahiru Zewdie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t8rwz0yr",
+   "id": "wk_t8rwz0yr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Habte Aba Mela (LeTor Mirkogninet Eske Ager Merinet)",
+    "script": "Ethi",
+    "text": "ሀብቴ አባ መላ (ከጦር ምርኮኝነት እስከ አገር መሪነት)"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_bwr189es",
+     "name": "Bahiru Zewdie",
+     "role": "author",
+     "romanized": "Bahiru Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xba7jb1t",
+   "id": "wk_xba7jb1t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hibir Hiwote",
+    "script": "Ethi",
+    "text": "ኅብር ሕይወቴ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6kcwgx5y",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2cvrskt5",
+   "@type": "Person",
+   "name": "Sebhat Gebre Egziabehere"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Sebategnawu meleak",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=08548774"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=08548774"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4kaf0e75",
+   "@type": "Book"
+  }
+ ]
+}

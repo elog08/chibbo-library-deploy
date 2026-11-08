@@ -1,0 +1,123 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiralamayahuwyohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bjqn62c8",
+ "id": "pe_bjqn62c8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45027416",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45027416"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77489793",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77489793"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Alemayehu W/Yohannes"
+  },
+  "romanized": "Memihir Alemayehu W/Yohannes",
+  "sort_key": "memihiralemayehuwyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45027416"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zzt7xb3f",
+     "name": "Memihir Zemaria Gebremedhin",
+     "role": "author",
+     "romanized": "Memihir Zemaria Gebremedhin"
+    },
+    {
+     "id": "pe_bjqn62c8",
+     "name": "Memihir Alemayehu W/Yohannes",
+     "role": "author",
+     "romanized": "Memihir Alemayehu W/Yohannes"
+    },
+    {
+     "id": "pe_6v158753",
+     "name": "Deacon Yosef Ketema",
+     "role": "author",
+     "romanized": "Deacon Yosef Ketema"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2020",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_wnb612x2",
+   "id": "wk_wnb612x2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBegena Memaria Metsihaf",
+    "script": "Ethi",
+    "text": "የበገና መማሪያ መጽሐፍ"
+   },
+   "type": "work",
+   "year": 2020
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_bjqn62c8",
+     "name": "Memihir Alemayehu W/Yohannes",
+     "role": "author",
+     "romanized": "Memihir Alemayehu W/Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z4g2s7w9",
+   "id": "wk_z4g2s7w9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBegena Aserar Ena Memariya Metsafe",
+    "script": "Ethi",
+    "text": "የበገና አሠራርና መማሪያ መጽሐፍ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

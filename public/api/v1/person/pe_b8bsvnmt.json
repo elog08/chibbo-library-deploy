@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "malkamsawabata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b8bsvnmt",
+ "id": "pe_b8bsvnmt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52584066",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52584066"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Melkamsew Abate"
+  },
+  "romanized": "Melkamsew Abate",
+  "sort_key": "melkamsewabate"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52584066"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b8bsvnmt",
+     "name": "Melkamsew Abate",
+     "role": "author",
+     "romanized": "Melkamsew Abate"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hq8qfhtr",
+   "id": "wk_hq8qfhtr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Huletegnaw Semay",
+    "script": "Ethi",
+    "text": "ሁለተኛው ሰማይ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -15,7 +15,15 @@
  "editions": [
   "ed_w48epc8g"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "country-and-history",
+    "social-critique"
+   ]
+  }
+ },
  "fingerprint": "አውጫጭኝ|abaralama",
  "first_published": {
   "alternates": [
@@ -35,6 +43,7 @@
   "filename-title-mismatch",
   "calendar-ambiguous"
  ],
+ "form": "poetry",
  "href": "https://chibbo.app/work/wk_pp1vw4r4",
  "id": "wk_pp1vw4r4",
  "identifiers": {
@@ -62,6 +71,124 @@
   "Also held as PDF: ውስጠት - ሰይፉ መታፈሪያ ፍሬው.pdf",
   "Also held as PDF: የቀዳማዊ ኃይለስላሴ መንግስት- 3.pdf",
   "Also held as PDF: የእንሰሳት አብዮት - ጀርጅ ኦርዌል.pdf"
+ ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_yj17de1g",
+   "id": "wk_yj17de1g",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awchachign",
+    "script": "Ethi",
+    "text": "አውጫችኝ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_5phx22m0",
+   "id": "wk_5phx22m0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye Ef Nege",
+    "script": "Ethi",
+    "text": "የእፍ ንገር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_cd8mjs4a",
+   "id": "wk_cd8mjs4a",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lerasachuh setadergut atasebumu?",
+    "script": "Ethi",
+    "text": "ለራሳችሁ ስታደርጉት አታስብሙ?"
+   },
+   "type": "work"
+  }
+ ],
+ "poetry": true,
+ "poetry_tags": [
+  "country-and-history",
+  "social-critique"
  ],
  "provenance": {
   "raw_sha256": "39e709c319b39989a5916b688eb23a13f46d5812d456f8e2f96ae31db46ebf26",

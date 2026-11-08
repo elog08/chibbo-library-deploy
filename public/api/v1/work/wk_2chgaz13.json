@@ -1,0 +1,124 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_mmbpr17m",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "...  የው እንደገና ሳህ ቀድሮ፥ ታሪክ ሆነ የቤት ጣሙ\nአለሎ እንደሚጋሩ ጉራንጉ፥ ሲግዝ ነው ዓላሙ\nየማለዳ ስማይ ሲምር፥ ቢማርክም በቀላሙ\nሲያዩት ደብን ሲመስል፥ የቅንብር ስሀል ነው ኸሙ፡፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "nature",
+    "country-and-history"
+   ]
+  }
+ },
+ "fingerprint": "የማለዳድባብ|bawqutusayum",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_2chgaz13",
+ "id": "wk_2chgaz13",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_ybsa0a0q (የማለዳ ድባብ), pp. 52–52 (የማለዳ_ድባብ_ገጣሚደራሲ_በዕውቀቱ_ሥዩም.PDF)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_ybsa0a0q.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ybsa0a0q.png"
+  },
+  "credits": [
+   {
+    "id": "pe_mmbpr17m",
+    "name": "በዕውቁቱ ስዩም",
+    "role": "author",
+    "romanized": "Bewuketu Seyoum"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "2016-09-11/2017-09-10",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_ybsa0a0q",
+  "id": "wk_ybsa0a0q",
+  "language": "am",
+  "part_count": 1,
+  "poetry": true,
+  "poetry_tags": [
+   "nature"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yemaleda debab",
+   "script": "Ethi",
+   "text": "የማለዳ ድባብ"
+  },
+  "type": "work",
+  "year": 2016
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "nature",
+  "country-and-history"
+ ],
+ "provenance": {
+  "raw_sha256": "45d2861e3593ab10cb32b590afe4138ebf3070baf9c42811cf0324e5f76f4229",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_ybsa0a0q"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yemaleda Dibab",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Morning Atmosphere",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የማለዳ ድባብ"
+  },
+  "romanized": "Yemaleda Dibab",
+  "sort_key": "የማለዳድባብ"
+ },
+ "type": "work"
+}

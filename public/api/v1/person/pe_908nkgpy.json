@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "malakmsawabata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_908nkgpy",
+ "id": "pe_908nkgpy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47406068",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47406068"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Melakmsew Abate"
+  },
+  "romanized": "Melakmsew Abate",
+  "sort_key": "melakmsewabate"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47406068"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_908nkgpy",
+     "name": "Melakmsew Abate",
+     "role": "author",
+     "romanized": "Melakmsew Abate"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_68y7vbym",
+   "id": "wk_68y7vbym",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Negere Habesha (keArat Kilo Eske Bietemengst)",
+    "script": "Ethi",
+    "text": "ነገረ ሐበሽ (ከአራት ኪሎ እስከ ቤተመንግስት)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

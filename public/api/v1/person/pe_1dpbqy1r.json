@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dralamayahuwasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1dpbqy1r",
+ "id": "pe_1dpbqy1r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87409419",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87409419"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Alemayehu Wasse"
+  },
+  "romanized": "Dr.Alemayehu Wasse",
+  "sort_key": "dralemayehuwasse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87409419"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1dpbqy1r",
+     "name": "Dr.Alemayehu Wasse",
+     "role": "author",
+     "romanized": "Dr.Alemayehu Wasse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m6fkj4cr",
+   "id": "wk_m6fkj4cr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Emegua",
+    "script": "Ethi",
+    "text": "እመጛ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

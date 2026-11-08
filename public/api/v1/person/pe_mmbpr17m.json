@@ -65,6 +65,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://en.wikipedia.org/wiki/Bewketu_Seyoum"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45924117",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45924117"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49555104",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49555104"
   }
  ],
  "locked_fields": [],
@@ -138,6 +154,9 @@
    "id": "wk_0devmsfw",
    "language": "en",
    "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
    "status": "draft",
    "title": {
     "lang": "en",
@@ -184,6 +203,44 @@
    },
    "type": "work",
    "year": 2020
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_2chgaz13",
+   "id": "wk_2chgaz13",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ybsa0a0q",
+    "id": "wk_ybsa0a0q",
+    "title": {
+     "lang": "am",
+     "romanized": "yemaleda debab",
+     "script": "Ethi",
+     "text": "የማለዳ ድባብ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "nature",
+    "country-and-history"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemaleda Dibab",
+    "script": "Ethi",
+    "text": "የማለዳ ድባብ"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -332,10 +389,14 @@
    "flags": [
     "calendar-ambiguous"
    ],
+   "form": "poetry",
    "href": "https://chibbo.app/work/wk_p0y8r65v",
    "id": "wk_p0y8r65v",
    "language": "am",
    "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",
@@ -391,6 +452,10 @@
     "edtf": "2016",
     "flags": []
    },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "form": "essays",
    "href": "https://chibbo.app/work/wk_rrhttse3",
    "id": "wk_rrhttse3",
    "language": "am",
@@ -403,6 +468,27 @@
    },
    "type": "work",
    "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mmbpr17m",
+     "name": "በዕውቁቱ ስዩም",
+     "role": "author",
+     "romanized": "Bewuketu Seyoum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w79pefk2",
+   "id": "wk_w79pefk2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Enkelefe ena Edeme",
+    "script": "Ethi",
+    "text": "እንቅልፍ እና እድሜ"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -425,9 +511,15 @@
    "flags": [
     "llm-extracted"
    ],
+   "form": "poetry",
    "href": "https://chibbo.app/work/wk_ybsa0a0q",
    "id": "wk_ybsa0a0q",
    "language": "am",
+   "part_count": 1,
+   "poetry": true,
+   "poetry_tags": [
+    "nature"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",

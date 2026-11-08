@@ -15,7 +15,14 @@
  "editions": [
   "ed_td7bm41m"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "የውቦችንግስት|mihratdagif",
  "first_published": {
   "edtf": "2026-06-06",
@@ -65,6 +72,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

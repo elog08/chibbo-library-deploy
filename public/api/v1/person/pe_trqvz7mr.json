@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "asrasbakalachary",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_trqvz7mr",
+ "id": "pe_trqvz7mr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15076809",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15076809"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asress Bekele (Cherry)"
+  },
+  "romanized": "Asress Bekele (Cherry)",
+  "sort_key": "asressbekelecherry"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15076809"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_trqvz7mr",
+     "name": "Asress Bekele (Cherry)",
+     "role": "author",
+     "romanized": "Asress Bekele (Cherry)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kntyxqkg",
+   "id": "wk_kntyxqkg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBeza Buchila (Beza's Puppy)",
+    "script": "Ethi",
+    "text": "የቤዛ ቡችላ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

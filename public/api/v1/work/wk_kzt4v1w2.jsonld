@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_kzt4v1w2",
+ "@type": "Book",
+ "alternateName": [
+  "Lesiket"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p4xe06gy",
+   "@type": "Person",
+   "name": "Simetru Taye"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ለስኬት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=01055115"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=01055115"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_24znahk4",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሥራህ ይተዘነሃል መሆንህን የጻድቅ\nየመመንኰስ ኟፍ ማዕቀት\nየገዛበነት መስታወት\nየደመቀንት መጽሐፍ ።\n\nእለ ካንተ ወደብ ማን ሊመጣ\nአባቱን መስሎ የወጣ\nአንዲትም ያንቱ ልጅ የል\nጥበብን አፍሮ የጸለ\nአወፍሮ ያሰለና\nአንድም አንትን መሰሎ—አባቱን መሰሎ የሚለ ።"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "love",
+    "faith-and-philosophy",
+    "nature"
+   ]
+  }
+ },
+ "fingerprint": "የሳቱልጅመጨረሻ|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_qe5t0v6d",
+ "id": "wk_qe5t0v6d",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 22–22 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "love",
+  "faith-and-philosophy",
+  "nature"
+ ],
+ "provenance": {
+  "raw_sha256": "9ae4493f0b0692c59c746c14db85f220a538775c9224eb0558f4657d315a33d2",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Yesatu Lej (Meceresha)",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Child of Error (Conclusion)",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የሳቱ ልጅ (መጨረሻ)"
+  },
+  "romanized": "Yesatu Lej (Meceresha)",
+  "sort_key": "የሳቱልጅመጨረሻ"
+ },
+ "type": "work"
+}

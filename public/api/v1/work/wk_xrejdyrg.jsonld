@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xrejdyrg",
+ "@type": "Book",
+ "alternateName": [
+  "Kokeha Haymanot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_97saps82",
+   "@type": "Person",
+   "name": "Mel'ake Birhan Adimasu Jenbere"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኮኹሐ ሃይማኖት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.96",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=68179050"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tinsae Printing Enterprise (1998 (First Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=68179050"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8vhxrvr7",
+   "@type": "Book"
+  }
+ ]
+}

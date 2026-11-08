@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4bd37199",
+ "@type": "Book",
+ "alternateName": [
+  "Tibe Tewahido"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z07jt1at",
+   "@type": "Person",
+   "name": "Memihir Mezgebe Kal Gebre Hiwot"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ትቤ ተዋሕዶ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=27672789"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=27672789"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_knhmassk",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_b7d6rbkm",
+ "@type": "Book",
+ "alternateName": [
+  "Fewis Menfesawi"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z9sg23cr",
+   "@type": "Person",
+   "name": "Memihir Efrem Kindu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፈውስ መንፈሳዊ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=03230271"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=03230271"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sxes1enh",
+   "@type": "Book"
+  }
+ ]
+}

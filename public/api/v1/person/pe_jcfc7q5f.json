@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "makatabalachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jcfc7q5f",
+ "id": "pe_jcfc7q5f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05382099",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05382099"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mekete Belachew"
+  },
+  "romanized": "Mekete Belachew",
+  "sort_key": "meketebelachew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05382099"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jcfc7q5f",
+     "name": "Mekete Belachew",
+     "role": "author",
+     "romanized": "Mekete Belachew"
+    },
+    {
+     "id": "pe_k9qt6y8k",
+     "name": "Getahun Amare",
+     "role": "author",
+     "romanized": "Getahun Amare"
+    },
+    {
+     "id": "pe_fhvgqs88",
+     "name": "Baye Yimam",
+     "role": "author",
+     "romanized": "Baye Yimam"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ysx9cn7n",
+   "id": "wk_ysx9cn7n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXII No.1 (June 1999)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work"
+  }
+ ]
+}

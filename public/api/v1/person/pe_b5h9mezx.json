@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "astarbadana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b5h9mezx",
+ "id": "pe_b5h9mezx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90150779",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90150779"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aster Bedane"
+  },
+  "romanized": "Aster Bedane",
+  "sort_key": "asterbedane"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90150779"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b5h9mezx",
+     "name": "Aster Bedane",
+     "role": "author",
+     "romanized": "Aster Bedane"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j2gmp6d7",
+   "id": "wk_j2gmp6d7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Weregnawa Kitel ena Yewerk Zinab",
+    "script": "Ethi",
+    "text": "ወሬኛዋ ቅጠል እና የወርቅ ዝናብ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

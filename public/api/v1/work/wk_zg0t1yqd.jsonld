@@ -22,5 +22,26 @@
  "genre": "play",
  "inLanguage": "am",
  "name": "ያላቻ ጋብቻ",
- "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/"
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "19.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=98739789"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=98739789"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0e1g2ybh",
+   "@type": "Book"
+  }
+ ]
 }

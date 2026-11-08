@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rprmendy",
+ "@type": "Book",
+ "alternateName": [
+  "Atse Minilik"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_cbay6yh5",
+   "@type": "Person",
+   "name": "Paulos Gnogno"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አጤ ምኒልክ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.21",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=89896992"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mankusa Publishers (2014 (Fourth Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=89896992"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_78dchge2",
+   "@type": "Book"
+  }
+ ]
+}

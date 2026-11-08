@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "danialnagash",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fghazd8e",
+ "id": "pe_fghazd8e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01005549",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01005549"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05033479",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05033479"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06586789",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06586789"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Negash"
+  },
+  "romanized": "Daniel Negash",
+  "sort_key": "danielnegash"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01005549"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fghazd8e",
+     "name": "Daniel Negash",
+     "role": "author",
+     "romanized": "Daniel Negash"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_41ydr0w0",
+   "id": "wk_41ydr0w0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeZinjorowochu Tsom",
+    "script": "Ethi",
+    "text": "የዝንጆሮዎቹ ጾም"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fghazd8e",
+     "name": "Daniel Negash",
+     "role": "author",
+     "romanized": "Daniel Negash"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_b9mg2dbg",
+   "id": "wk_b9mg2dbg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Chuchu Begodan",
+    "script": "Ethi",
+    "text": "ቹቹ በጎዳና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fghazd8e",
+     "name": "Daniel Negash",
+     "role": "author",
+     "romanized": "Daniel Negash"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_twmvjykk",
+   "id": "wk_twmvjykk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abuti Ena Bucho",
+    "script": "Ethi",
+    "text": "አቡቲ እና ቡቾ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

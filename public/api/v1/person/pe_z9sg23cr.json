@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiraframkindu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z9sg23cr",
+ "id": "pe_z9sg23cr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03230271",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03230271"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Efrem Kindu"
+  },
+  "romanized": "Memihir Efrem Kindu",
+  "sort_key": "memihirefremkindu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03230271"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z9sg23cr",
+     "name": "Memihir Efrem Kindu",
+     "role": "author",
+     "romanized": "Memihir Efrem Kindu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_b7d6rbkm",
+   "id": "wk_b7d6rbkm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fewis Menfesawi",
+    "script": "Ethi",
+    "text": "ፈውስ መንፈሳዊ"
+   },
+   "type": "work"
+  }
+ ]
+}

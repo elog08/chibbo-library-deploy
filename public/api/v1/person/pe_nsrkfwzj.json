@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drtawaldatikua",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nsrkfwzj",
+ "id": "pe_nsrkfwzj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07333830",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07333830"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "D/r Tewelde Tiku'e"
+  },
+  "romanized": "D/r Tewelde Tiku'e",
+  "sort_key": "drteweldetikue"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07333830"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nsrkfwzj",
+     "name": "D/r Tewelde Tiku'e",
+     "role": "author",
+     "romanized": "D/r Tewelde Tiku'e"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cadmt87y",
+   "id": "wk_cadmt87y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tintawi Tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥንታዊ ታሪክ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "fd",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qqh4kpqn",
+ "id": "pe_qqh4kpqn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51611330",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51611330"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "F.D"
+  },
+  "romanized": "F.D",
+  "sort_key": "fd"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51611330"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qqh4kpqn",
+     "name": "F.D",
+     "role": "author",
+     "romanized": "F.D"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0hsd3jzm",
+   "id": "wk_0hsd3jzm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alem Akef Yemigib Azegejajet",
+    "script": "Ethi",
+    "text": "አለም አቀፍ የምግብ አዘገጃጀት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

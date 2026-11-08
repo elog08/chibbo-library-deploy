@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gidaydimitros",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_97ewc25a",
+ "id": "pe_97ewc25a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79193576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79193576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gidey Dimitros"
+  },
+  "romanized": "Gidey Dimitros",
+  "sort_key": "gideydimitros"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79193576"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_97ewc25a",
+     "name": "Gidey Dimitros",
+     "role": "author",
+     "romanized": "Gidey Dimitros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fz453yxv",
+   "id": "wk_fz453yxv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMigiboch Ena Metetoch Aserar Zede",
+    "script": "Ethi",
+    "text": "የምግቦችና መጠጦች አሠራር ዘዴ"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

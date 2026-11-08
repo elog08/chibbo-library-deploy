@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "marsahazanwaldakirkos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w7c6r1jb",
+ "id": "pe_w7c6r1jb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41767808",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41767808"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mers'e Hazen Welde Kirkos"
+  },
+  "romanized": "Mers'e Hazen Welde Kirkos",
+  "sort_key": "mersehazenweldekirkos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41767808"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w7c6r1jb",
+     "name": "Mers'e Hazen Welde Kirkos",
+     "role": "author",
+     "romanized": "Mers'e Hazen Welde Kirkos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n2570w0f",
+   "id": "wk_n2570w0f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamawi Hailesilase (1922-1927)",
+    "script": "Ethi",
+    "text": "ቀዳማዊ ኃይለ ሥላሴ (1922-1927)"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

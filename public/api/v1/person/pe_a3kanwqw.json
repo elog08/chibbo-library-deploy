@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "bamanatsara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a3kanwqw",
+ "id": "pe_a3kanwqw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00004243",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00004243"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71306091",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71306091"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "BeAman Netsere"
+  },
+  "romanized": "BeAman Netsere",
+  "sort_key": "beamannetsere"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00004243"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a3kanwqw",
+     "name": "BeAman Netsere",
+     "role": "author",
+     "romanized": "BeAman Netsere"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_54v4ee6a",
+   "id": "wk_54v4ee6a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tehisos",
+    "script": "Ethi",
+    "text": "ተህሶስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_d2rswqs3",
+     "name": "Yaregal Abegaz",
+     "role": "author",
+     "romanized": "Yaregal Abegaz"
+    },
+    {
+     "id": "pe_jp88rek0",
+     "name": "Samuel Fikadu",
+     "role": "author",
+     "romanized": "Samuel Fikadu"
+    },
+    {
+     "id": "pe_a3kanwqw",
+     "name": "BeAman Netsere",
+     "role": "author",
+     "romanized": "BeAman Netsere"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_9dznjyre",
+   "id": "wk_9dznjyre",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adimasu Jembere (Hiwotu, Wehateta Metsihaftu)",
+    "script": "Ethi",
+    "text": "አድማሱ ጀምበሬ (ሕይወቱ ወሐተታ መጽሐፍቱ)"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

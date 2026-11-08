@@ -1,0 +1,127 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ትዝታ ከእቱ ነበባል አብቦ\nኑ ድርብት ስሰን ጃይውን አቅርቦ\nየጤፍ የንቺ ልብ መቀት - ከለ ኖሮ ፡\nይኸው የተረፈን -\nቁርና እንትርግር - በመደርሳ አድር\nምቱ ውል የለለው ትዝታ - ክብር ፥"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "youth-and-solitude",
+    "love"
+   ]
+  }
+ },
+ "fingerprint": "ትዝታክብር|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_af1x4vp8",
+ "id": "wk_af1x4vp8",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 46–46 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "youth-and-solitude",
+  "love"
+ ],
+ "provenance": {
+  "raw_sha256": "67f5c4d04eaee98af1279874861c867583a9f6df98e5a30c29dc42c062a7e532",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Tizita — Kibir",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Reminiscence — Honor",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ትዝታ — ክብር"
+  },
+  "romanized": "Tizita — Kibir",
+  "sort_key": "ትዝታክብር"
+ },
+ "type": "work"
+}

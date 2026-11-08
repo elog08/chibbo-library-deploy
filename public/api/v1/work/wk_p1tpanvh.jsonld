@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_p1tpanvh",
+ "@type": "Book",
+ "alternateName": [
+  "Yekiremitu Misitr"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_btwyfpsy",
+   "@type": "Person",
+   "name": "Daniel Negash Wagaye"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የክረምቱ ሚስጥር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.63",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=02535672"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mega Publishing and Distribution PLC (2014 Second Edition )"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=02535672"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k32w6gc1",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_maj7gqpx",
+ "@type": "Book",
+ "alternateName": [
+  "YeWond Mit Ena YeKend Awita Guzo (Two Books Under One Bind)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xqdr1zsg",
+   "@type": "Person",
+   "name": "Yismake Worku"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994484300",
+ "name": "የወንድ ምጥ እና የቀንድ አውጣ ጉዞ (ሁለት መጽሐፍ በአንድ)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=26787058"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Yismake Worku (April 2012 (Sixth Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=26787058"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6yqdmyk9",
+   "@type": "Book"
+  }
+ ]
+}

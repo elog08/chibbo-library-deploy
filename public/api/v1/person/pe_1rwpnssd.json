@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "gadisabara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1rwpnssd",
+ "id": "pe_1rwpnssd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02595990",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02595990"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gadisa Abera"
+  },
+  "romanized": "Gadisa Abera",
+  "sort_key": "gadisaabera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02595990"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1rwpnssd",
+     "name": "Gadisa Abera",
+     "role": "author",
+     "romanized": "Gadisa Abera"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qzcnbpp1",
+   "id": "wk_qzcnbpp1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "\"YeAshebariw Masitawesha\" (YeOneg Tigilina Yetegeletu Ew'netoch)",
+    "script": "Ethi",
+    "text": "የአሸባሪው ማስታወሻ(የኦነግ ትግልና የተገለጡ እውነቶች)"
+   },
+   "type": "work"
+  }
+ ]
+}

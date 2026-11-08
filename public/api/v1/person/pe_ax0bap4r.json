@@ -1,0 +1,192 @@
+{
+ "extensions": {},
+ "fingerprint": "mulugatagudata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_ax0bap4r",
+ "id": "pe_ax0bap4r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85631960",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85631960"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95350948",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95350948"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mulugeta gudeta",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Mulugeta Gudeta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሙሉጌታ ጉደታ"
+  },
+  "romanized": "mulugeta gudeta",
+  "sort_key": "ሙሉጌታጉደታ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሞገደኛው - ሙሉቀን ጉደታ.pdf",
+  "Read from the title page of ተግባራዊ_የፈረንሳይኛ_ንግግር_መማሪያ_ሙሉጌታ_ጉደታ.pdf",
+  "Read from the title page of የፈረንሳይኛ  መማሪያ በ ሙሉጌታ ጉታ .pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85631960"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ag5ferpp.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ag5ferpp.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ax0bap4r",
+     "name": "ሙሉጌታ ጉደታ",
+     "role": "author",
+     "romanized": "mulugeta gudeta"
+    }
+   ],
+   "flags": [
+    "llm-extracted",
+    "multilingual",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_ag5ferpp",
+   "id": "wk_ag5ferpp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tegbarawi yeferensaynya negeger memariya",
+    "script": "Ethi",
+    "text": "ተግባራዊ የፈረንሳይኛ ንግግር መማሪያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ax0bap4r",
+     "name": "ሙሉጌታ ጉደታ",
+     "role": "author",
+     "romanized": "mulugeta gudeta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_j6zcvm7k",
+   "id": "wk_j6zcvm7k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gamud",
+    "script": "Ethi",
+    "text": "ጋሙድ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_sax5gt7b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_sax5gt7b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ax0bap4r",
+     "name": "ሙሉጌታ ጉደታ",
+     "role": "author",
+     "romanized": "mulugeta gudeta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "form": "ልቦለድ",
+   "href": "https://chibbo.app/work/wk_sax5gt7b",
+   "id": "wk_sax5gt7b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mogedenyaw",
+    "script": "Ethi",
+    "text": "ሞገደኛው"
+   },
+   "type": "work",
+   "year": 1994
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ax0bap4r",
+     "name": "ሙሉጌታ ጉደታ",
+     "role": "author",
+     "romanized": "mulugeta gudeta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x3syx644",
+   "id": "wk_x3syx644",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amahric English Dictionary",
+    "script": "Ethi",
+    "text": "አማርኛ እንግሊዝኛ መዝገበ ቃላት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

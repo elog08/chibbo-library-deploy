@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abalsolomon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mjfz592k",
+ "id": "pe_mjfz592k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49137499",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49137499"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abel Solomon"
+  },
+  "romanized": "Abel Solomon",
+  "sort_key": "abelsolomon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49137499"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mjfz592k",
+     "name": "Abel Solomon",
+     "role": "author",
+     "romanized": "Abel Solomon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gqgbbgvk",
+   "id": "wk_gqgbbgvk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lijochachinin Endet Enasadig? Kifil 1",
+    "script": "Ethi",
+    "text": "ልጆቻችንን እንዴት እናስድግ?ክፍል ፩"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

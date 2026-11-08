@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "marcalpagnol",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_azjfrek7",
+ "id": "pe_azjfrek7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73248360",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73248360"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Marcel Pagnol"
+  },
+  "romanized": "Marcel Pagnol",
+  "sort_key": "marcelpagnol"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73248360"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_azjfrek7",
+     "name": "Marcel Pagnol",
+     "role": "author",
+     "romanized": "Marcel Pagnol"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_45f0vzn0",
+   "id": "wk_45f0vzn0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gobew",
+    "script": "Ethi",
+    "text": "ጎቤው"
+   },
+   "type": "work"
+  }
+ ]
+}

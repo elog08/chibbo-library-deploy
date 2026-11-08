@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruybaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1kppehbr",
+ "id": "pe_1kppehbr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13359523",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13359523"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Baye"
+  },
+  "romanized": "Hiruy Baye",
+  "sort_key": "hiruybaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13359523"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1kppehbr",
+     "name": "Hiruy Baye",
+     "role": "author",
+     "romanized": "Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y104kfxt",
+   "id": "wk_y104kfxt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidusat Mekanat",
+    "script": "Ethi",
+    "text": "ቅዱሳት መካናት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

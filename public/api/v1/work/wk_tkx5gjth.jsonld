@@ -38,11 +38,22 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/af-adam-reta"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.29",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07265133"
   }
  ],
  "sameAs": [
   "https://addisbooks.com/book/af-by-adam-reta/",
-  "https://www.ethiobookreview.com/book/af-adam-reta"
+  "https://www.ethiobookreview.com/book/af-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=07265133"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -52,6 +63,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_vj2zyqp1",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_fvh0722t",
    "@type": "Book"
   }
  ]

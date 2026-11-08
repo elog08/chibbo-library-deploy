@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "wiliamcopar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_10sdqa4e",
+ "id": "pe_10sdqa4e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36683555",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36683555"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "William Cooper"
+  },
+  "romanized": "William Cooper",
+  "sort_key": "williamcooper"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36683555"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_10sdqa4e",
+     "name": "William Cooper",
+     "role": "author",
+     "romanized": "William Cooper"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ka069h4c",
+   "id": "wk_ka069h4c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dark Psychology",
+    "script": "Ethi",
+    "text": "ዳርክ ሳይኮሎጂ"
+   },
+   "type": "work"
+  }
+ ]
+}

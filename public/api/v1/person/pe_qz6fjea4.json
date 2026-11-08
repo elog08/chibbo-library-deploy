@@ -1,0 +1,148 @@
+{
+ "extensions": {},
+ "fingerprint": "kabrormikal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qz6fjea4",
+ "id": "pe_qz6fjea4",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Kebrom Michael",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ክብሮር ሚካኤል"
+  },
+  "romanized": "Kebrom Michael",
+  "sort_key": "ክብሮርሚካኤል"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from compilation ታሪክና ምሳሌ (2).pdf (p. 3)",
+  "Read from compilation ታሪክና ምሳሌ (2).pdf (p. 4)"
+ ],
+ "provenance": {
+  "raw_sha256": "1bb5223bb731957934a9679f667e135ef163480e763c8e0361925a9e7e858340",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qz6fjea4",
+     "name": "ክብሮር ሚካኤል",
+     "role": "author",
+     "romanized": "Kebrom Michael"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_1kh1bd1d",
+   "id": "wk_1kh1bd1d",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_m2ryn7zz",
+    "id": "wk_m2ryn7zz",
+    "title": {
+     "lang": "am",
+     "romanized": "Tarikina Missale",
+     "script": "Ethi",
+     "text": "ታሪክና ምሳሌ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "faith-and-philosophy",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yendeq Alama",
+    "script": "Ethi",
+    "text": "የንደቅ ዓላማ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qz6fjea4",
+     "name": "ክብሮር ሚካኤል",
+     "role": "author",
+     "romanized": "Kebrom Michael"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_6ppwt1te",
+   "id": "wk_6ppwt1te",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_m2ryn7zz",
+    "id": "wk_m2ryn7zz",
+    "title": {
+     "lang": "am",
+     "romanized": "Tarikina Missale",
+     "script": "Ethi",
+     "text": "ታሪክና ምሳሌ"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hzb",
+    "script": "Ethi",
+    "text": "ሕዝብ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qz6fjea4",
+     "name": "ክብሮር ሚካኤል",
+     "role": "author",
+     "romanized": "Kebrom Michael"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_7smrz20n",
+   "id": "wk_7smrz20n",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_m2ryn7zz",
+    "id": "wk_m2ryn7zz",
+    "title": {
+     "lang": "am",
+     "romanized": "Tarikina Missale",
+     "script": "Ethi",
+     "text": "ታሪክና ምሳሌ"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hager",
+    "script": "Ethi",
+    "text": "ሀገር"
+   },
+   "type": "work"
+  }
+ ]
+}

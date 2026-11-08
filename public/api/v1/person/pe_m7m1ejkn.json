@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "randolaf",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m7m1ejkn",
+ "id": "pe_m7m1ejkn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34363481",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34363481"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Randolef"
+  },
+  "romanized": "Randolef",
+  "sort_key": "randolef"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=34363481"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7z4k6yec",
+     "name": "Winsten Cherchel",
+     "role": "author",
+     "romanized": "Winsten Cherchel"
+    },
+    {
+     "id": "pe_m7m1ejkn",
+     "name": "Randolef",
+     "role": "author",
+     "romanized": "Randolef"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_z32rnsv2",
+   "id": "wk_z32rnsv2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeArebochNa YeIsrael Ye6tu Ken Tornet",
+    "script": "Ethi",
+    "text": "የአረቦችና እስራኤል የ6ቱ ቀን ጦርነት"
+   },
+   "type": "work"
+  }
+ ]
+}

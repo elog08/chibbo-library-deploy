@@ -1,0 +1,75 @@
+{
+ "extensions": {},
+ "fingerprint": "alamtsahaywadaja",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_r5j2p4bj",
+ "id": "pe_r5j2p4bj",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Alemtsehay Wodajo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አለም ፀሐይ ወዳጄ"
+  },
+  "romanized": "Alemtsehay Wodajo",
+  "sort_key": "አለምጸሀይወዳጄ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from compilation Yemata Enjera- Alem Tsehay Wedajo.pdf (p. 2)"
+ ],
+ "provenance": {
+  "raw_sha256": "2d0968caf223d1631576194c9dcce3859b9cd4322f0f3c9b342ae8a08b076718",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_r5j2p4bj",
+     "name": "አለም ፀሐይ ወዳጄ",
+     "role": "author",
+     "romanized": "Alemtsehay Wodajo"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_hbxjn5sd",
+   "id": "wk_hbxjn5sd",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_q73q9701",
+    "id": "wk_q73q9701",
+    "title": {
+     "lang": "am",
+     "romanized": "Yemata Injera Alemtsehay Wedajo",
+     "script": "Ethi",
+     "text": "የማታ እንጀራ"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemata Enjera",
+    "script": "Ethi",
+    "text": "የማታ እንጀራ"
+   },
+   "type": "work"
+  }
+ ]
+}

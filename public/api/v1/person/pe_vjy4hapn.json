@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "crasidamarcus",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vjy4hapn",
+ "id": "pe_vjy4hapn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58973594",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58973594"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Cressida Marcus"
+  },
+  "romanized": "Cressida Marcus",
+  "sort_key": "cressidamarcus"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58973594"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_csbmbbg7",
+     "name": "Martha Camilla wright",
+     "role": "author",
+     "romanized": "Martha Camilla wright"
+    },
+    {
+     "id": "pe_vjy4hapn",
+     "name": "Cressida Marcus",
+     "role": "author",
+     "romanized": "Cressida Marcus"
+    },
+    {
+     "id": "pe_fhvgqs88",
+     "name": "Baye Yimam",
+     "role": "author",
+     "romanized": "Baye Yimam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ehk74dkf",
+   "id": "wk_ehk74dkf",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXV, No.1 (June 2002)(Special Issue on Gender And Christianity)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

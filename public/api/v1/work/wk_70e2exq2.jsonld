@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_70e2exq2",
+ "@type": "Book",
+ "alternateName": [
+  "Sewina Tefetirow"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qnz9frx1",
+   "@type": "Person",
+   "name": "Robert Greene"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9781781259191",
+ "name": "ሰውና ተፈጥሮው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07100629"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07100629"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8ky12dpt",
+   "@type": "Book"
+  }
+ ]
+}

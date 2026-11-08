@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ravmagabamakibibatinaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4h1jw2zv",
+ "id": "pe_4h1jw2zv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57086601",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57086601"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Rev/Megabe Mekibib Atinaw"
+  },
+  "romanized": "Rev/Megabe Mekibib Atinaw",
+  "sort_key": "revmegabemekibibatinaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57086601"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4h1jw2zv",
+     "name": "Rev/Megabe Mekibib Atinaw",
+     "role": "author",
+     "romanized": "Rev/Megabe Mekibib Atinaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x09jz8ce",
+   "id": "wk_x09jz8ce",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amistegna Guba'e (Edme-Qetil Timihirt-Azel YeAbatoch Chewata) Volume one",
+    "script": "Ethi",
+    "text": "አምስተኛ ጉባኤ (ዕድሜ-ቀጥል ትምህርት-አዘል የአባቶች ጨዋታ) ክፍል አንድ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

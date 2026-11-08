@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirayasudiras",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ram6wa9t",
+ "id": "pe_ram6wa9t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07401332",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07401332"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71812288",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71812288"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Eyasu Dires"
+  },
+  "romanized": "Memihir Eyasu Dires",
+  "sort_key": "memihireyasudires"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07401332"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ram6wa9t",
+     "name": "Memihir Eyasu Dires",
+     "role": "author",
+     "romanized": "Memihir Eyasu Dires"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f4eng763",
+   "id": "wk_f4eng763",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ta'orya (ZeWi'etu Birhane Kidusan)",
+    "script": "Ethi",
+    "text": "ታዖርያ (ዘውአቱ ብርሃነ ቅዱሳን)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ram6wa9t",
+     "name": "Memihir Eyasu Dires",
+     "role": "author",
+     "romanized": "Memihir Eyasu Dires"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_vs9cgyvp",
+   "id": "wk_vs9cgyvp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mezgebe Aemro Geez Amida Wedida LeEthiopia",
+    "script": "Ethi",
+    "text": "መዝገበ አእምሮ ግዕዝ ዐምዳ ወድዳ ለኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

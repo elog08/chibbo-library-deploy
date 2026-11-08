@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_artjchg6",
+ "@type": "Book",
+ "alternateName": [
+  "Enechewawete"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_70jdqcqb",
+   "@type": "Person",
+   "name": "Ephrem Endale"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "እንጨዋወት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.95",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=75634380"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=75634380"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_k57gjwqh",
+   "@type": "Book"
+  }
+ ]
+}

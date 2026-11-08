@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abunamusiaofagypt",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hyp78953",
+ "id": "pe_hyp78953",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42911616",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42911616"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abune Musie of Egypt"
+  },
+  "romanized": "Abune Musie of Egypt",
+  "sort_key": "abunemusieofegypt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=42911616"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hyp78953",
+     "name": "Abune Musie of Egypt",
+     "role": "author",
+     "romanized": "Abune Musie of Egypt"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ps0dw8p6",
+   "id": "wk_ps0dw8p6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeBereket Lay Bereket",
+    "script": "Ethi",
+    "text": "በበረከት ላይ በረከት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

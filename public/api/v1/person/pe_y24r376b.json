@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruywoldasilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y24r376b",
+ "id": "pe_y24r376b",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45505809",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45505809"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55158062",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55158062"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Woldesilasse"
+  },
+  "romanized": "Hiruy Woldesilasse",
+  "sort_key": "hiruywoldesilasse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45505809"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_y24r376b",
+     "name": "Hiruy Woldesilasse",
+     "role": "author",
+     "romanized": "Hiruy Woldesilasse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a9hk2ga7",
+   "id": "wk_a9hk2ga7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelekiso Zema Gitim (Misitiru Kemetsahaft Gar Yetesmama)",
+    "script": "Ethi",
+    "text": "የልቅሶ ዜማ ግጥም (ምስጢሩ ከመጽሓፍት ጋር የተስማማ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_y24r376b",
+     "name": "Hiruy Woldesilasse",
+     "role": "author",
+     "romanized": "Hiruy Woldesilasse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x12v3nw0",
+   "id": "wk_x12v3nw0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Goh Tsibah",
+    "script": "Ethi",
+    "text": "ጎህ ጽባህ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "makonanzawda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1a51k34k",
+ "id": "pe_1a51k34k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82837163",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82837163"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mekonen Zewde"
+  },
+  "romanized": "Mekonen Zewde",
+  "sort_key": "mekonenzewde"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=82837163"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1a51k34k",
+     "name": "Mekonen Zewde",
+     "role": "author",
+     "romanized": "Mekonen Zewde"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f96zp222",
+   "id": "wk_f96zp222",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAlem Sew Ermeja",
+    "script": "Ethi",
+    "text": "የዓለም ሰው እርምጃ"
+   },
+   "type": "work"
+  }
+ ]
+}

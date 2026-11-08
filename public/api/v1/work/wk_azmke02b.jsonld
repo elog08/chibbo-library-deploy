@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_azmke02b",
+ "@type": "Book",
+ "alternateName": [
+  "Under the Tamarind Tree"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_83j909de",
+   "@type": "Person",
+   "name": "Yohannes Gebregeorgis"
+  }
+ ],
+ "datePublished": "2015?",
+ "inLanguage": "am",
+ "name": "ከሮቃው ዛፍ ስር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=92596560"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Yohannes Gebregeorgis"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=92596560"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1dawztcx",
+   "@type": "Book"
+  }
+ ]
+}

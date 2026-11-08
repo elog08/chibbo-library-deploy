@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2bgne20g",
+ "@type": "Book",
+ "alternateName": [
+  "Endatiferd"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qt2hvc5q",
+   "@type": "Person",
+   "name": "Samrawit Fantahun"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "እንዳትፈርድ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=39363454"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=39363454"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8aynxekw",
+   "@type": "Book"
+  }
+ ]
+}

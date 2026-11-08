@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_srr1xzgf",
+ "@type": "Book",
+ "alternateName": [
+  "Kine"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fkd9wgjs",
+   "@type": "Person",
+   "name": "Kassahun Alemu"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994474585",
+ "name": "ቅኔ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=94591248"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=94591248"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fdc0g11g",
+   "@type": "Book"
+  }
+ ]
+}

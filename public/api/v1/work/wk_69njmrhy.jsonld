@@ -1,0 +1,48 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_69njmrhy",
+ "@type": "Book",
+ "alternateName": [
+  "The 7 Habits of Highly Effective People"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ec452afa",
+   "@type": "Person",
+   "name": "March 2014"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_1zd7r2et",
+   "@type": "Person",
+   "name": "Stephen R.Covey"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሰባቱ የስኬት ሚስጥራት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.47",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78323378"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Biniam Alemayehu"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78323378"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0ndg687k",
+   "@type": "Book"
+  }
+ ]
+}

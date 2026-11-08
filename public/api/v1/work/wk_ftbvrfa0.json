@@ -1,0 +1,128 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_xgde6t8m",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "የኢትዮጵያ፡ ንጉሠ፡ ነገሥት፡ ኃይለ፡ ሥላሴ፡\nየታደለውን፡ ሕዝብ፡ አንተ፡ መራኸው፡\nየኢትዮጵያ፡ አዝመራ፡ ዛሬም፡ አለ፡\nበመንግሥትህ፡ በጊዜው፡ ሰላም፡ አገኘን፡\nየኢትዮጵያ፡ ንጉሥ፡ ኃይለ፡ ሥላሴ፡ አብራሪ፡\nብርሃን፡ አገኘን፡ በእርሱ፡ እጅ፡፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "country-and-history",
+    "qine",
+    "faith-and-philosophy"
+   ]
+  }
+ },
+ "fingerprint": "የኢትዮጵያንጉስሀይለስላሴ|makababdasta",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_ftbvrfa0",
+ "id": "wk_ftbvrfa0",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_872ytzhe (ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም), pp. 182–182 (የአቶ መሰንበት ባልንጀርነት.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_872ytzhe.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_872ytzhe.png"
+  },
+  "credits": [
+   {
+    "id": "pe_xgde6t8m",
+    "name": "መክብብ ደስታ",
+    "role": "author",
+    "romanized": "mekebeb desta"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1933-09-11/1934-09-10",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted",
+   "filename-title-mismatch"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_872ytzhe",
+  "id": "wk_872ytzhe",
+  "language": "am",
+  "part_count": 22,
+  "poetry": true,
+  "poetry_tags": [
+   "country-and-history",
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+   "script": "Ethi",
+   "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+  },
+  "type": "work",
+  "year": 1933
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "country-and-history",
+  "qine",
+  "faith-and-philosophy"
+ ],
+ "provenance": {
+  "raw_sha256": "c0b451d08ac5b0dd58f92bb0b11577210f32b328b501941761dddfc2642c5abf",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_872ytzhe"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ye-Itiyopya Negus Hayle Selassie",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Emperor Haile Selassie of Ethiopia",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የኢትዮጵያ ንጉሥ ኃይለ ሥላሴ"
+  },
+  "romanized": "Ye-Itiyopya Negus Hayle Selassie",
+  "sort_key": "የኢትዮጵያንጉስሀይለስላሴ"
+ },
+ "type": "work"
+}

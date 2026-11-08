@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ababasayoumtasfay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q6nptg2d",
+ "id": "pe_q6nptg2d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78199837",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78199837"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abeba Seyoum Tesfay"
+  },
+  "romanized": "Abeba Seyoum Tesfay",
+  "sort_key": "abebaseyoumtesfay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=78199837"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q6nptg2d",
+     "name": "Abeba Seyoum Tesfay",
+     "role": "author",
+     "romanized": "Abeba Seyoum Tesfay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_69jgxhv1",
+   "id": "wk_69jgxhv1",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Biroma",
+    "script": "Ethi",
+    "text": "ቢሮማ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

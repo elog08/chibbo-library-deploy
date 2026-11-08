@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "adolfparlasak",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sb1nmcg6",
+ "id": "pe_sb1nmcg6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53395938",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53395938"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Adolf Parlesak"
+  },
+  "romanized": "Adolf Parlesak",
+  "sort_key": "adolfparlesak"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53395938"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sb1nmcg6",
+     "name": "Adolf Parlesak",
+     "role": "author",
+     "romanized": "Adolf Parlesak"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1997?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_yygdpyy6",
+   "id": "wk_yygdpyy6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "HabeÅ¡skÃ¡ Odyssea (YeHabesha Jebdu)",
+    "script": "Ethi",
+    "text": "የሃበሻ ጀብዱ"
+   },
+   "type": "work",
+   "year": 1997
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "abasalomnakatibab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qepayve1",
+ "id": "pe_qepayve1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33547222",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33547222"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abeselom Nek'a Tibeb"
+  },
+  "romanized": "Abeselom Nek'a Tibeb",
+  "sort_key": "abeselomnekatibeb"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33547222"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qepayve1",
+     "name": "Abeselom Nek'a Tibeb",
+     "role": "author",
+     "romanized": "Abeselom Nek'a Tibeb"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_x8eex26m",
+   "id": "wk_x8eex26m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meseretawi Sewaswe Ge'ez (BeKelal Akerareb)",
+    "script": "Ethi",
+    "text": "መሠረታዊ ሰዋስወ ግእዝ (በቀላል አቀራረብ)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "armiyasayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gyqx15zd",
+ "id": "pe_gyqx15zd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67472609",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67472609"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermiyas Seyoum"
+  },
+  "romanized": "Ermiyas Seyoum",
+  "sort_key": "ermiyasseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=67472609"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gyqx15zd",
+     "name": "Ermiyas Seyoum",
+     "role": "author",
+     "romanized": "Ermiyas Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_da11bjyk",
+   "id": "wk_da11bjyk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Seat E'lafi 2 (E'winetegna Yesetegna Adariwoch Tarik)",
+    "script": "Ethi",
+    "text": "ሰዓት እላፊ 2(እውነተኛ የሴተኛ አዳሪዎች ታሪክ)"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

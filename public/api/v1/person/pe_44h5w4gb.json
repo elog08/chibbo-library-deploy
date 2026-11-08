@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "yamanagmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_44h5w4gb",
+ "id": "pe_44h5w4gb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60998924",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60998924"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yemane G/Michael"
+  },
+  "romanized": "Yemane G/Michael",
+  "sort_key": "yemanegmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60998924"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_44h5w4gb",
+     "name": "Yemane G/Michael",
+     "role": "author",
+     "romanized": "Yemane G/Michael"
+    },
+    {
+     "id": "pe_kd8h9tdp",
+     "name": "T/Birhan Tekile",
+     "role": "author",
+     "romanized": "T/Birhan Tekile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e64g5nbz",
+   "id": "wk_e64g5nbz",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bahirina (Mestenkirawi Srahiti S'rit Hiwehat)(Hekegna Tarik)",
+    "script": "Ethi",
+    "text": "ባሕርና (መስተንክራዊ ስራሕቲ ስርዒት ህወሓት (ሓቀኛ ታሪኽ)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

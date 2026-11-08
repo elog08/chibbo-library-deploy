@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mahontaklualias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fvgxb3mq",
+ "id": "pe_fvgxb3mq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81087386",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81087386"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mehon Teklu (Elias)"
+  },
+  "romanized": "Mehon Teklu (Elias)",
+  "sort_key": "mehontekluelias"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81087386"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fvgxb3mq",
+     "name": "Mehon Teklu (Elias)",
+     "role": "author",
+     "romanized": "Mehon Teklu (Elias)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_955g926f",
+   "id": "wk_955g926f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rakut Yeweta Hiwote (Ewnetegna na Asdenaki Wesibawi Gemenawoch)",
+    "script": "Ethi",
+    "text": "ራቁት የወጣ ሕይወት (እውነተኛና አስደናቂ ወሲባዊ ገመናዎች)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

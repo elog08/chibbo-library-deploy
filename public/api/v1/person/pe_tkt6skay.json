@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "robartludulum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tkt6skay",
+ "id": "pe_tkt6skay",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83870730",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83870730"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert Ludulum"
+  },
+  "romanized": "Robert Ludulum",
+  "sort_key": "robertludulum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83870730"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tkt6skay",
+     "name": "Robert Ludulum",
+     "role": "author",
+     "romanized": "Robert Ludulum"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0zq5wnqe",
+   "id": "wk_0zq5wnqe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dibiku Selay",
+    "script": "Ethi",
+    "text": "ድብቁ ሰላይ"
+   },
+   "type": "work"
+  }
+ ]
+}

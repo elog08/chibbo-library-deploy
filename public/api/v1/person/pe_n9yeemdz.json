@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "kahsaygagziabhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_n9yeemdz",
+ "id": "pe_n9yeemdz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72727522",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72727522"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kahsay G/Egziabher"
+  },
+  "romanized": "Kahsay G/Egziabher",
+  "sort_key": "kahsaygegziabher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72727522"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_n9yeemdz",
+     "name": "Kahsay G/Egziabher",
+     "role": "author",
+     "romanized": "Kahsay G/Egziabher"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_nabbn9rc",
+   "id": "wk_nabbn9rc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hager Bekel E'tsiwat (KeEthiopia Bietechristian Eminet, KeBahil Ena KeAyer Nibret Lewit Anitsar)",
+    "script": "Ethi",
+    "text": "ሀገር በቀል ዕፅዋት (ከኢትዮጵይ ቤተክርስቲያን እምነት ከባህል እና ከአየር ንብረት ለውጥ አንፃር)"
+   },
+   "type": "work"
+  }
+ ]
+}

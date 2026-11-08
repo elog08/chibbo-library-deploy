@@ -27,15 +27,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/ye-ethiopia-yebeteseb-higoch-andarge-kassa-shuma"
+  },
+  {
+   "@type": "Offer",
+   "price": "11.17",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=88845001"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Andarge Kasse Shume"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/ye-ethiopia-yebeteseb-higoch-andarge-kassa-shuma"
+  "https://www.ethiobookreview.com/book/ye-ethiopia-yebeteseb-higoch-andarge-kassa-shuma",
+  "https://www.mereb.shop/rs/?mpid=88845001"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_009bxwxr",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_1y4hjzs0",
    "@type": "Book"
   }
  ]

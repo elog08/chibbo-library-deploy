@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "janacurtis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3mgdyhdh",
+ "id": "pe_3mgdyhdh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59046603",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59046603"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jane Curtis"
+  },
+  "romanized": "Jane Curtis",
+  "sort_key": "janecurtis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59046603"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3mgdyhdh",
+     "name": "Jane Curtis",
+     "role": "author",
+     "romanized": "Jane Curtis"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qnfjwa1y",
+   "id": "wk_qnfjwa1y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Saba (KeAya Jibo Sir)",
+    "script": "Ethi",
+    "text": "ሳባ (ከአያ ጅቦ እግር ስር)"
+   },
+   "type": "work"
+  }
+ ]
+}

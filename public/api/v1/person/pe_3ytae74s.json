@@ -1,0 +1,144 @@
+{
+ "extensions": {},
+ "fingerprint": "iancambal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3ytae74s",
+ "id": "pe_3ytae74s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51275802",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51275802"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51873016",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51873016"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62450679",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62450679"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ian Cambell"
+  },
+  "romanized": "Ian Cambell",
+  "sort_key": "iancambell"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51275802"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3ytae74s",
+     "name": "Ian Cambell",
+     "role": "author",
+     "romanized": "Ian Cambell"
+    },
+    {
+     "id": "pe_64cd4n79",
+     "name": "Getachew Haile",
+     "role": "author",
+     "romanized": "Getachew Haile"
+    },
+    {
+     "id": "pe_3kbyp474",
+     "name": "Donald Crummey",
+     "role": "author",
+     "romanized": "Donald Crummey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2004?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4dhndb42",
+   "id": "wk_4dhndb42",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXVII, No.1 (June 2004)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2004
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3ytae74s",
+     "name": "Ian Cambell",
+     "role": "author",
+     "romanized": "Ian Cambell"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v0e8xp66",
+   "id": "wk_v0e8xp66",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidus Tegadilo (Yeroma Catholic BeEthiopia Orthodocs Bete Christian Lay Yefetsemechiw Yalitenegere Gif)",
+    "script": "Ethi",
+    "text": "ቅዱስ ተጋድሎ (የሮማ ካቶሊክ በኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን ላይ የፈጸመችው ያልተነገረ ግፍ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3ytae74s",
+     "name": "Ian Cambell",
+     "role": "author",
+     "romanized": "Ian Cambell"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wyxyb8z2",
+   "id": "wk_wyxyb8z2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDebre Libanos Chifchefa Ethiopia 1929",
+    "script": "Ethi",
+    "text": "የደብረ ሊባናኖስ ጭፍጨፋ ኢትዮጵያ 1929"
+   },
+   "type": "work"
+  }
+ ]
+}

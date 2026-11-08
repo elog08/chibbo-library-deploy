@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ycctfsy6",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sm94xzw3",
+   "@type": "Person",
+   "name": "Erkeyehun Belaynehe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yaltetebu tutoch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83227606"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=83227606"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_126wbqkd",
+   "@type": "Book"
+  }
+ ]
+}

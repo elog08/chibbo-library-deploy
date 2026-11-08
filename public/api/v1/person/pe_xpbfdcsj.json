@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tafaraworkarimida",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xpbfdcsj",
+ "id": "pe_xpbfdcsj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56374931",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56374931"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Teferra work Arimide"
+  },
+  "romanized": "Teferra work Arimide",
+  "sort_key": "teferraworkarimide"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56374931"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xpbfdcsj",
+     "name": "Teferra work Arimide",
+     "role": "author",
+     "romanized": "Teferra work Arimide"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1956?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yeyvkjn4",
+   "id": "wk_yeyvkjn4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmarigna Sinekalat",
+    "script": "Ethi",
+    "text": "ያማርኛ ሥነ ቃላት"
+   },
+   "type": "work",
+   "year": 1956
+  }
+ ]
+}

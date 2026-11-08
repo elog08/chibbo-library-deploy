@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "robartbayar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_swzm6eam",
+ "id": "pe_swzm6eam",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24428900",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24428900"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert Bayer"
+  },
+  "romanized": "Robert Bayer",
+  "sort_key": "robertbayer"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24428900"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_swzm6eam",
+     "name": "Robert Bayer",
+     "role": "author",
+     "romanized": "Robert Bayer"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_r25pt3aq",
+   "id": "wk_r25pt3aq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ewnetegnaw Ye CIA Misitir",
+    "script": "Ethi",
+    "text": "እውነተኛው የCIAምስጢር"
+   },
+   "type": "work"
+  }
+ ]
+}

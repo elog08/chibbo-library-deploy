@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mwm",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5x62b0wk",
+ "id": "pe_5x62b0wk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30279544",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30279544"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "M.W.M"
+  },
+  "romanized": "M.W.M",
+  "sort_key": "mwm"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30279544"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5x62b0wk",
+     "name": "M.W.M",
+     "role": "author",
+     "romanized": "M.W.M"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ean5m98y",
+   "id": "wk_ean5m98y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zilet (YeGizew Menfes)",
+    "script": "Ethi",
+    "text": "ዝለት (የጊዜው መንፈስ)"
+   },
+   "type": "work"
+  }
+ ]
+}

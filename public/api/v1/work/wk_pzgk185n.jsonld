@@ -30,15 +30,30 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/zare-kedame-aydelem-by-natnael-kerealem/"
+  },
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04399238"
   }
  ],
  "sameAs": [
-  "https://addisbooks.com/book/zare-kedame-aydelem-by-natnael-kerealem/"
+  "https://addisbooks.com/book/zare-kedame-aydelem-by-natnael-kerealem/",
+  "https://www.mereb.shop/rs/?mpid=04399238"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_xtm98y0j",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_43b48ykx",
    "@type": "Book"
   }
  ]

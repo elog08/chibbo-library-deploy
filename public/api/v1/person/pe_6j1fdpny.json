@@ -1,0 +1,108 @@
+{
+ "extensions": {},
+ "fingerprint": "aliasgabru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6j1fdpny",
+ "id": "pe_6j1fdpny",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55451284",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55451284"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87160256",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87160256"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elias Gebru"
+  },
+  "romanized": "Elias Gebru",
+  "sort_key": "eliasgebru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55451284"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6j1fdpny",
+     "name": "Elias Gebru",
+     "role": "author",
+     "romanized": "Elias Gebru"
+    },
+    {
+     "id": "pe_nfbv4ne2",
+     "name": "አቤል ዓለማየሁ",
+     "role": "author",
+     "romanized": "abel alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hjbs55cc",
+   "id": "wk_hjbs55cc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopian Man Yitadegat?",
+    "script": "Ethi",
+    "text": "ኢትዮጵያን ማን ይታደጋት?"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6j1fdpny",
+     "name": "Elias Gebru",
+     "role": "author",
+     "romanized": "Elias Gebru"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qgnkagmk",
+   "id": "wk_qgnkagmk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetena Fewis Ena Psycho Love (Two books under one binding)",
+    "script": "Ethi",
+    "text": "የጤና ፈውስ እና ሳይኮ ላቭ (ሁለት መጻሃፍት በአንድ ላይ)"
+   },
+   "type": "work"
+  }
+ ]
+}

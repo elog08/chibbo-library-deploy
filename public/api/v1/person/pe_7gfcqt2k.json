@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "arasamiruhailasilasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7gfcqt2k",
+ "id": "pe_7gfcqt2k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33643012",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33643012"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eras E'miru HaileSilasie"
+  },
+  "romanized": "Eras E'miru HaileSilasie",
+  "sort_key": "erasemiruhailesilasie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33643012"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7gfcqt2k",
+     "name": "Eras E'miru HaileSilasie",
+     "role": "author",
+     "romanized": "Eras E'miru HaileSilasie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1934?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ztw657rh",
+   "id": "wk_ztw657rh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitawirari Belay : Tarik BeMisale",
+    "script": "Ethi",
+    "text": "ፊታውራሪ በላይ ታሪክ በምሳሌ"
+   },
+   "type": "work",
+   "year": 1934
+  }
+ ]
+}

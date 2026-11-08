@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_e800m2m4",
+ "@type": "Book",
+ "alternateName": [
+  "Niharsiya Niharis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3ph97y83",
+   "@type": "Person",
+   "name": "Alula M Tekilu"
+  }
+ ],
+ "inLanguage": "ti",
+ "isbn": "9789994433025",
+ "name": "ንሃርስያ ንሃርስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=15025463"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Ayay Children's Book"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=15025463"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bsyq2kaq",
+   "@type": "Book"
+  }
+ ]
+}

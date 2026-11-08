@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "nagaworkudabalaprof",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sq6kb2m0",
+ "id": "pe_sq6kb2m0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85199030",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85199030"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nega Worku Debela (Prof.)"
+  },
+  "romanized": "Nega Worku Debela (Prof.)",
+  "sort_key": "negaworkudebelaprof"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85199030"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sq6kb2m0",
+     "name": "Nega Worku Debela (Prof.)",
+     "role": "author",
+     "romanized": "Nega Worku Debela (Prof.)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xmq9wf47",
+   "id": "wk_xmq9wf47",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Little Brother (Based on a true Story)",
+    "script": "Ethi",
+    "text": "ታናሽ ወንድም (በእውነተኛ ታሪክ ላይ የተመሰረተ)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

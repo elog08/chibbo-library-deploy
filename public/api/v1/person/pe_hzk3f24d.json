@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "thachambarofcomarca",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hzk3f24d",
+ "id": "pe_hzk3f24d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21763187",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21763187"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "THE CHAMBER OF COMMERCE"
+  },
+  "romanized": "THE CHAMBER OF COMMERCE",
+  "sort_key": "thechamberofcommerce"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21763187"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hzk3f24d",
+     "name": "THE CHAMBER OF COMMERCE",
+     "role": "author",
+     "romanized": "THE CHAMBER OF COMMERCE"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1962?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jesw5aya",
+   "id": "wk_jesw5aya",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "GUIDE BOOK OF ETHIOPIA",
+    "script": "Ethi",
+    "text": "መሪ መጽሐፍ ለኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 1962
+  }
+ ]
+}

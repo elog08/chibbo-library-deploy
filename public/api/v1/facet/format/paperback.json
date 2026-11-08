@@ -678,12 +678,15 @@
     }
    ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "2013-09-11/2014-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_5j6t4gpc",
@@ -697,7 +700,7 @@
     "text": "ማስታወሻ"
    },
    "type": "work",
-   "year": 2013
+   "year": 2014
   },
   {
    "cover": {
@@ -750,6 +753,7 @@
     "format-paper-back",
     "llm-extracted"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_5r9t6pwh",
    "id": "wk_5r9t6pwh",
    "language": "am",
@@ -890,6 +894,7 @@
    ],
    "flags": [
     "format-paper-back",
+    "unlicensed-full-text-source",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_7njeenhv",
@@ -1008,8 +1013,11 @@
    },
    "flags": [
     "format-paper-back",
-    "llm-extracted"
+    "unlicensed-full-text-source",
+    "llm-extracted",
+    "suspect-isbn"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_8f9yskqx",
    "id": "wk_8f9yskqx",
    "language": "am",
@@ -1127,12 +1135,15 @@
     }
    ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "2015-09-12/2016-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_98zc6sdd",
@@ -1146,7 +1157,7 @@
     "text": "የሱፍ አበባ"
    },
    "type": "work",
-   "year": 2015
+   "year": 2016
   },
   {
    "cover": {
@@ -1612,7 +1623,8 @@
    },
    "flags": [
     "format-paper-back",
-    "llm-extracted"
+    "llm-extracted",
+    "suspect-isbn"
    ],
    "href": "https://chibbo.app/work/wk_dtrxpzvb",
    "id": "wk_dtrxpzvb",
@@ -1821,6 +1833,7 @@
     "llm-extracted",
     "calendar-ambiguous"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_ev9kxm9r",
    "id": "wk_ev9kxm9r",
    "language": "am",
@@ -1994,8 +2007,10 @@
    },
    "flags": [
     "format-ebook",
-    "format-paper-back"
+    "format-paper-back",
+    "unlicensed-full-text-source"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_fdcqsfrg",
    "id": "wk_fdcqsfrg",
    "language": "am",
@@ -2437,6 +2452,7 @@
     "format-paper-back",
     "llm-extracted"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_j4v5gqtt",
    "id": "wk_j4v5gqtt",
    "language": "am",
@@ -2766,8 +2782,16 @@
      "romanized": "tesfaye alene abate"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_n26x01d4",
@@ -2780,7 +2804,8 @@
     "script": "Ethi",
     "text": "የመንጌ ውሽሚት እና ሌሎችም ውብ ታሪኮች"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2013
   },
   {
    "cover": {
@@ -3110,8 +3135,16 @@
      "romanized": "Habtamu Alebachew"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_q6cec09g",
    "id": "wk_q6cec09g",
@@ -3123,7 +3156,8 @@
     "script": "Ethi",
     "text": "አውሮራ"
    },
-   "type": "work"
+   "type": "work",
+   "year": 2014
   },
   {
    "cover": {

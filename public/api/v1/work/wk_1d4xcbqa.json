@@ -1,0 +1,96 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_nz4h4hdk",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_wn7z9qvx"
+ ],
+ "extensions": {},
+ "fingerprint": "አእምሮ|aliasmichal",
+ "first_published": {
+  "alternates": [
+   "2021-09-11/2022-09-10"
+  ],
+  "edtf": "2014?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2014"
+  }
+ },
+ "flags": [
+  "scope-unverified",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_1d4xcbqa",
+ "id": "wk_1d4xcbqa",
+ "identifiers": {
+  "mereb_mpid": [
+   "66623554"
+  ]
+ },
+ "language": "ti",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66623554",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66623554"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "5.99",
+   "provider": "mereb",
+   "ref": "66623554",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66623554"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "language-spelling-normalised: store printed 'Tigirigna'"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66623554"
+ },
+ "publisher_name": "Elias Michael",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "A'emro",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አእምሮ"
+  },
+  "romanized": "A'emro",
+  "sort_key": "አእምሮ"
+ },
+ "type": "work"
+}

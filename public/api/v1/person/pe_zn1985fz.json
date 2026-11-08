@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "bakurawsamait",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zn1985fz",
+ "id": "pe_zn1985fz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66084872",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66084872"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bekure W.Semait"
+  },
+  "romanized": "Bekure W.Semait",
+  "sort_key": "bekurewsemait"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66084872"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tve70qpe",
+     "name": "R.A.Caulk",
+     "role": "author",
+     "romanized": "R.A.Caulk"
+    },
+    {
+     "id": "pe_zn1985fz",
+     "name": "Bekure W.Semait",
+     "role": "author",
+     "romanized": "Bekure W.Semait"
+    },
+    {
+     "id": "pe_smxzkdev",
+     "name": "ባሕሩ ዘውዴ",
+     "role": "author",
+     "romanized": "bahru zewde"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1984?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qqjhfxe4",
+   "id": "wk_qqjhfxe4",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XVII (November 1984)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1984
+  }
+ ]
+}

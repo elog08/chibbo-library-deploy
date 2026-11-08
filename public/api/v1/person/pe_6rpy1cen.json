@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bahiruzargawgizaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6rpy1cen",
+ "id": "pe_6rpy1cen",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32862875",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32862875"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bahiru Zergaw Gizaw"
+  },
+  "romanized": "Bahiru Zergaw Gizaw",
+  "sort_key": "bahiruzergawgizaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32862875"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6rpy1cen",
+     "name": "Bahiru Zergaw Gizaw",
+     "role": "author",
+     "romanized": "Bahiru Zergaw Gizaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kbp4jnv4",
+   "id": "wk_kbp4jnv4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zergaw ( Keftegna YeAmahric Mezgebe Kalat)",
+    "script": "Ethi",
+    "text": "ዘርጋው (ከፍተኛ የአማርኛ መዝገበ ቃላት)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

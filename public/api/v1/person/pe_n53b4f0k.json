@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_n53b4f0k",
  "id": "pe_n53b4f0k",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05178749",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05178749"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -61,6 +70,27 @@
     "romanized": "tesfa atquret",
     "script": "Ethi",
     "text": "ተስፋ አትቁረጥ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_n53b4f0k",
+     "name": "አቤል ፀጋዬ",
+     "role": "author",
+     "romanized": "abel tsegaye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_c0cpp7x6",
+   "id": "wk_c0cpp7x6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aemron Yemetekem Tibeb",
+    "script": "Ethi",
+    "text": "አእምሮዎን የመጠቀም ጥበብ"
    },
    "type": "work"
   }

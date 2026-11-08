@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ry1zm8wz",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_nyy1gxv1",
+   "@type": "Person",
+   "name": "Alem Eshetu (Assistant Professor)"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Meseretawi ye'meremerna ye'zegeba atsatsafe",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.71",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=87772313"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=87772313"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5dfkdhkq",
+   "@type": "Book"
+  }
+ ]
+}

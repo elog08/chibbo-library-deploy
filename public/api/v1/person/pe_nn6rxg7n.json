@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ganataraya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nn6rxg7n",
+ "id": "pe_nn6rxg7n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95445944",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95445944"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Genet Araya"
+  },
+  "romanized": "Genet Araya",
+  "sort_key": "genetaraya"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=95445944"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nn6rxg7n",
+     "name": "Genet Araya",
+     "role": "author",
+     "romanized": "Genet Araya"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zvepgkbt",
+   "id": "wk_zvepgkbt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE FIG TREE",
+    "script": "Ethi",
+    "text": "የሾላው ዛፍ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

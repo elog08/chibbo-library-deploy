@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_c469vmkn",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k99p662k",
+   "@type": "Person",
+   "name": "Asrat G/mariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Fenote berhan",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=00670288"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=00670288"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bhnqd17s",
+   "@type": "Book"
+  }
+ ]
+}

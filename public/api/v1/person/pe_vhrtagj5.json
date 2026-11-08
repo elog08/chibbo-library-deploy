@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "fathartadrosymalatin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vhrtagj5",
+ "id": "pe_vhrtagj5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35973602",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35973602"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Father Tadros Y/ Malatin"
+  },
+  "romanized": "Father Tadros Y/ Malatin",
+  "sort_key": "fathertadrosymalatin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=35973602"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vhrtagj5",
+     "name": "Father Tadros Y/ Malatin",
+     "role": "author",
+     "romanized": "Father Tadros Y/ Malatin"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_1qrdq42s",
+   "id": "wk_1qrdq42s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidus Tiwfit",
+    "script": "Ethi",
+    "text": "ቅዱስ ትውፊት"
+   },
+   "type": "work"
+  }
+ ]
+}

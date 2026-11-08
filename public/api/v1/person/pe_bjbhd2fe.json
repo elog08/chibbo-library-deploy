@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "kasusaboka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bjbhd2fe",
+ "id": "pe_bjbhd2fe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73431458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73431458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kassu Seboka"
+  },
+  "romanized": "Kassu Seboka",
+  "sort_key": "kassuseboka"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73431458"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bjbhd2fe",
+     "name": "Kassu Seboka",
+     "role": "author",
+     "romanized": "Kassu Seboka"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1bhcqwyk",
+   "id": "wk_1bhcqwyk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'Italiagna quanqua memaria",
+    "script": "Latn",
+    "text": "Ye'Italiagna quanqua memaria"
+   },
+   "type": "work"
+  }
+ ]
+}

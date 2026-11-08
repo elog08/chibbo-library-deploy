@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_m0z6gy72",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ffeamdga",
+   "@type": "Person",
+   "name": "ኀሩይ ስሜ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The original Ethiopian calendar",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18782660"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18782660"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vhevfg01",
+   "@type": "Book"
+  }
+ ]
+}

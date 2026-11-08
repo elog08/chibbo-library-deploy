@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "girmasayfu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tx0h8pgx",
+ "id": "pe_tx0h8pgx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07211462",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07211462"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Girma Seyfu"
+  },
+  "romanized": "Girma Seyfu",
+  "sort_key": "girmaseyfu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07211462"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tx0h8pgx",
+     "name": "Girma Seyfu",
+     "role": "author",
+     "romanized": "Girma Seyfu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8kva7pkm",
+   "id": "wk_8kva7pkm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeNetsanet Waga sint New?",
+    "script": "Ethi",
+    "text": "የነፃነት ዋጋ ስንት ነው?"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

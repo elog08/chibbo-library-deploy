@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "writasforathiopiankids",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x3tkzzfr",
+ "id": "pe_x3tkzzfr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47901376",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47901376"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99156751",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99156751"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Writes for Ethiopian Kids"
+  },
+  "romanized": "Writes for Ethiopian Kids",
+  "sort_key": "writesforethiopiankids"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47901376"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x3tkzzfr",
+     "name": "Writes for Ethiopian Kids",
+     "role": "author",
+     "romanized": "Writes for Ethiopian Kids"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_c1azjra8",
+   "id": "wk_c1azjra8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "coocooloo Nega",
+    "script": "Ethi",
+    "text": "ኩኩሉ ነጋ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_x3tkzzfr",
+     "name": "Writes for Ethiopian Kids",
+     "role": "author",
+     "romanized": "Writes for Ethiopian Kids"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_rt4e3sqk",
+   "id": "wk_rt4e3sqk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Coocooloo",
+    "script": "Ethi",
+    "text": "ኩኩሉ"
+   },
+   "type": "work"
+  }
+ ]
+}

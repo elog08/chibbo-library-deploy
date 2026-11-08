@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "armiaslagasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jqpm5d38",
+ "id": "pe_jqpm5d38",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28248456",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28248456"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50201142",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50201142"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermias Legesse"
+  },
+  "romanized": "Ermias Legesse",
+  "sort_key": "ermiaslegesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28248456"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jqpm5d38",
+     "name": "Ermias Legesse",
+     "role": "author",
+     "romanized": "Ermias Legesse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1ysnwxnt",
+   "id": "wk_1ysnwxnt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMeles Likakit",
+    "script": "Ethi",
+    "text": "የመለስ ልቃቂት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jqpm5d38",
+     "name": "Ermias Legesse",
+     "role": "author",
+     "romanized": "Ermias Legesse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bxctsbbs",
+   "id": "wk_bxctsbbs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tilahun Yarefe Ken",
+    "script": "Ethi",
+    "text": "ጥላሁን ያረፈ ቀን"
+   },
+   "type": "work"
+  }
+ ]
+}

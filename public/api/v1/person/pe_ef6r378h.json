@@ -21,6 +21,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/dr-amare-tegbaru-beyene"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60447560",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60447560"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88588259",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88588259"
   }
  ],
  "locked_fields": [],
@@ -50,5 +66,48 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ef6r378h",
+     "name": "Dr Amare Tegbaru Beyene",
+     "role": "author",
+     "romanized": "Dr Amare Tegbaru Beyene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1vra9d70",
+   "id": "wk_1vra9d70",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Haile Fida",
+    "script": "Ethi",
+    "text": "ኃይሌ ፊዳ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ef6r378h",
+     "name": "Dr Amare Tegbaru Beyene",
+     "role": "author",
+     "romanized": "Dr Amare Tegbaru Beyene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t3f4z9ha",
+   "id": "wk_t3f4z9ha",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yandit Midir Lijoch",
+    "script": "Ethi",
+    "text": "ያንዲት ምድር ልጆች"
+   },
+   "type": "work"
+  }
+ ]
 }

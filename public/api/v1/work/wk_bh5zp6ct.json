@@ -16,7 +16,14 @@
   "ed_01zdcgwg",
   "ed_ad4f9n3m"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "love"
+   ]
+  }
+ },
  "fingerprint": "ፍቅርእዚህቦታፈገግብሎነበር|aframsayum",
  "first_published": {
   "alternates": [
@@ -85,7 +92,83 @@
  "notes": [
   "Read from PDF front matter: ፍቅር_እዚህ_ቦታ_ፈገግ_ብሎ_ነበር_ኤፍሬም_ስዩም_.pdf"
  ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_y4yb8sp6",
+     "name": "ኤፍሬም ስዩም",
+     "role": "author",
+     "romanized": "efrem seyum"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ckda910r",
+   "id": "wk_ckda910r",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_bh5zp6ct",
+    "id": "wk_bh5zp6ct",
+    "title": {
+     "lang": "am",
+     "romanized": "feqer ezih bota fegeg belo neber",
+     "script": "Ethi",
+     "text": "ፍቅር እዚህ ቦታ ፈገግ ብሎ ነበር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love",
+    "country-and-history"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebeit Silek Siyhon Agelgilot Silamein Bêtensae 2005 Belachu Dewlu",
+    "script": "Ethi",
+    "text": "የቤት ስልክ ሲሆን አገልግሎት ስላமைን በትንሳኤ 2005 በላችሁ ደውሉ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_y4yb8sp6",
+     "name": "ኤፍሬም ስዩም",
+     "role": "author",
+     "romanized": "efrem seyum"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_m3prmdnj",
+   "id": "wk_m3prmdnj",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_bh5zp6ct",
+    "id": "wk_bh5zp6ct",
+    "title": {
+     "lang": "am",
+     "romanized": "feqer ezih bota fegeg belo neber",
+     "script": "Ethi",
+     "text": "ፍቅር እዚህ ቦታ ፈገግ ብሎ ነበር"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeArtistu Sirawoche",
+    "script": "Ethi",
+    "text": "የአርቲስቱ ሥራዎች"
+   },
+   "type": "work"
+  }
+ ],
  "poetry": true,
+ "poetry_tags": [
+  "love"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

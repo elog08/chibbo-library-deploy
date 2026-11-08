@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "drdawitwondimagagn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_az5r0v66",
+ "id": "pe_az5r0v66",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12081300",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12081300"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59862592",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59862592"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Dawit Wondimagegn"
+  },
+  "romanized": "Dr.Dawit Wondimagegn",
+  "sort_key": "drdawitwondimagegn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12081300"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_az5r0v66",
+     "name": "Dr.Dawit Wondimagegn",
+     "role": "author",
+     "romanized": "Dr.Dawit Wondimagegn"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_14exntwg",
+   "id": "wk_14exntwg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alemawek",
+    "script": "Ethi",
+    "text": "አለማወቅ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_az5r0v66",
+     "name": "Dr.Dawit Wondimagegn",
+     "role": "author",
+     "romanized": "Dr.Dawit Wondimagegn"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wbbvan84",
+   "id": "wk_wbbvan84",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alemenor",
+    "script": "Ethi",
+    "text": "አለመኖር"
+   },
+   "type": "work"
+  }
+ ]
+}

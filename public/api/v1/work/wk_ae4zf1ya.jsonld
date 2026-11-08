@@ -27,15 +27,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yebole-gudoch-helen-assefa"
+  },
+  {
+   "@type": "Offer",
+   "price": "16.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=45358721"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Helen Assefa"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/yebole-gudoch-helen-assefa"
+  "https://www.ethiobookreview.com/book/yebole-gudoch-helen-assefa",
+  "https://www.mereb.shop/rs/?mpid=45358721"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_f4hpm4vv",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_x5dm84xq",
    "@type": "Book"
   },
   {

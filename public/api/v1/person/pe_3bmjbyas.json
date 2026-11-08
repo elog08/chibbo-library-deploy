@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "chafnigusiakababaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3bmjbyas",
+ "id": "pe_3bmjbyas",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85523738",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85523738"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Chef Nigussie Kebebew"
+  },
+  "romanized": "Chef Nigussie Kebebew",
+  "sort_key": "chefnigussiekebebew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85523738"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x92pe2kr",
+     "name": "Chef Yonas Taffara",
+     "role": "author",
+     "romanized": "Chef Yonas Taffara"
+    },
+    {
+     "id": "pe_3bmjbyas",
+     "name": "Chef Nigussie Kebebew",
+     "role": "author",
+     "romanized": "Chef Nigussie Kebebew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_axma001b",
+   "id": "wk_axma001b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Zemenawi ye'cake ena Ye'dabo azegejajet",
+    "script": "Latn",
+    "text": "Zemenawi ye'cake ena Ye'dabo azegejajet"
+   },
+   "type": "work"
+  }
+ ]
+}

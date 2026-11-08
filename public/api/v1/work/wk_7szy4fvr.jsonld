@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7szy4fvr",
+ "@type": "Book",
+ "alternateName": [
+  "Addis Alem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rqe3tjxf",
+   "@type": "Person",
+   "name": "Bilaten Geta Hiruy W/Silase"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አዲስ ዓለም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31966842"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Bilaten Geta Hiruy W/Silase (Second Edition 2001)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=31966842"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8hbcxzyn",
+   "@type": "Book"
+  }
+ ]
+}

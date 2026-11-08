@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ensit (Qetero)</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Books</a>
+    <a href="../people/page-1.html">Authors</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../poets/page-1.html"><span itemprop="name">Poets</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../person/pe_9wzx8wkp.html"><span itemprop="name">debebe seyfu</span></a><meta itemprop="position" content="3"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../work/wk_cfdxn5dx.html"><span itemprop="name">yeberhan feqer</span></a><meta itemprop="position" content="4"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Ensit (Qetero)</span><meta itemprop="position" content="5"></li></ol></nav>
+<article>
+<p class="eyebrow">Poem</p>
+<h1 class="am" lang="am">ዕንስት (ቀጠሮ)</h1>
+<p class="sub">Ensit (Qetero)</p>
+<p class="sub">Woman (Cont.)</p>
+<div class="entity">
+  <div class="cover"><img src="../assets/covers/wk_cfdxn5dx.png" alt="Cover of Ensit (Qetero)"></div>
+  <div>
+    <dl class="meta">
+      <dt>Author</dt><dd><a href="../person/pe_9wzx8wkp.html" class="am" lang="am">ደበበ ሰይፉ</a> <span style="color:var(--faint)">debebe seyfu</span></dd><dt>Appears in</dt><dd><a href="../work/wk_cfdxn5dx.html" class="am" lang="am">የብርሃን ፍቅር</a> <span style="color:var(--faint)">yeberhan feqer</span></dd><dt>Language</dt><dd>Amharic</dd><dt>Form</dt><dd>Poetry</dd><dt>Themes</dt><dd><ul class="rail"><li><a href="../poetry/topic-love.html">Love &amp; Longing</a></li><li><a href="../poetry/topic-nature.html">Nature &amp; Seasons</a></li></ul></dd>
+    </dl>
+    
+    
+    
+  </div>
+</div>
+<section class="poem-body" lang="am"><div class="stanza"><p class="verse-line">ገረለሽም ተደው ይቅር</p><p class="verse-line">ላልተገባን እንጸበል</p><p class="verse-line">ላልተኧኧችን እንጸበል ።</p></div><div class="stanza"><p class="verse-line">ምነው ኵትር በሩቅ ሣቅሽ መለወለ</p><p class="verse-line">ምነው- ሁሉም በሩቅ ዳኧሽ መበሪጌ</p><p class="verse-line">በሩቅ መማዢሽ መማተኧዕፈ</p><p class="verse-line">በሩቅ ቃፍሽ መሰበሪጌ</p></div><div class="stanza"><p class="verse-line">ባለወጣ ዕድል ባለወጣ ዕድለኧ</p><p class="verse-line">ካልወጣ ከክብደ ትትወለ, ክክብበኝ?</p><p class="verse-line">ለምን ፋደዎ ወፍ- ሁኔታ, ከክበበኝ?</p><p class="verse-line">በ፲-፲ዬ ተጠፍረ</p><p class="verse-line">የሰማችኝን ግንባር—ግደል</p><p class="verse-line">ይደለደላል ።</p></div><div class="stanza"><p class="verse-line">ባለመማሽ ጐርፍ</p><p class="verse-line">አፒት-ኧኧኝ ጸፋ</p><p class="verse-line">አፋፍ ላይ ቆመ</p><p class="verse-line">ሳይፋና ስብር ቅርሚ ፤</p><p class="verse-line">ብላፍና ከዕድሜ አላ. ዘመነ</p><p class="verse-line">ሳይቻለሽ የሞር መለአመ ።</p><p class="verse-line">አካብሽ ተጏና</p><p class="verse-line">የሿህ እኧማኛ ነሽ ማጋጫ</p><p class="verse-line">እድ-አድሽ ሿብ ኩሳ</p><p class="verse-line">ፍቅርሽን በም ግምሻ፡</p><p class="verse-line">ድንገት የወረደ አኮ</p></div></section>
+
+<h2>In this collection</h2><div class="pager"><a href="../work/wk_snpjqwjn.html">&larr; previous</a><span class="spacer"></span><a href="../work/wk_3n0kfz42.html">next &rarr;</a></div><ol class="toc-list"><li><span class="toc-num">01</span><a class="toc-title am" lang="am" href="../work/wk_sq1mwbpb.html">አል ሌላ ዓለም</a><span class="r">Ale Lela Alem</span></li><li><span class="toc-num">02</span><a class="toc-title am" lang="am" href="../work/wk_wdhd68bs.html">ድንቄም መምህር</a><span class="r">Dinkem Memhir</span></li><li><span class="toc-num">03</span><a class="toc-title am" lang="am" href="../work/wk_xn6qv7h1.html">በጥኝት</a><span class="r">Betingit</span></li><li><span class="toc-num">04</span><a class="toc-title am" lang="am" href="../work/wk_2n3nbqx5.html">ወልቱ</a><span class="r">Weltu</span></li><li><span class="toc-num">05</span><a class="toc-title am" lang="am" href="../work/wk_yppm70cs.html">የሕወት ጅጅ</a><span class="r">Yehiwet Gige</span></li><li><span class="toc-num">06</span><a class="toc-title am" lang="am" href="../work/wk_es33bkc4.html">ይርጋ ዓለም</a><span class="r">Yirga Alem</span></li><li><span class="toc-num">07</span><a class="toc-title am" lang="am" href="../work/wk_7zry6b5h.html">ያቺ ቀንጔፄ</a><span class="r">Yachi Qengwetse</span></li><li><span class="toc-num">08</span><a class="toc-title am" lang="am" href="../work/wk_ppe7x46v.html">ያቺ ቀንጔፄ (ቀጥሎ)</a><span class="r">Yachi Qengwetse (Cont)</span></li><li><span class="toc-num">09</span><a class="toc-title am" lang="am" href="../work/wk_d7463s58.html">ዳእቴ (አንዲት የሰራም ሴት)</a><span class="r">Daete (Andit Yeseram Set)</span></li><li><span class="toc-num">10</span><a class="toc-title am" lang="am" href="../work/wk_4e6jq80y.html">አዴ ሳንቆ (አንድ የሰራም ወንድ)</a><span class="r">Ade Sanqo (And Yeseram Wend)</span></li><li><span class="toc-num">11</span><a class="toc-title am" lang="am" href="../work/wk_x753p18m.html">ሰንፄ ለልማማቾቹ</a><span class="r">Senshe Lelmamachoche</span></li><li><span class="toc-num">12</span><a class="toc-title am" lang="am" href="../work/wk_mw76vvwg.html">ትልኃለች እቺን</a><span class="r">Tilhalet Echine</span></li><li><span class="toc-num">13</span><a class="toc-title am" lang="am" href="../work/wk_ess1w80n.html">የሳቱ ልጅ</a><span class="r">Yesatu Lej</span></li><li><span class="toc-num">14</span><a class="toc-title am" lang="am" href="../work/wk_m0aprr58.html">የሳቱ ልጅ (ቀጥሎ)</a><span class="r">Yesatu Lej (Qetlo)</span></li><li><span class="toc-num">15</span><a class="toc-title am" lang="am" href="../work/wk_qe5t0v6d.html">የሳቱ ልጅ (መጨረሻ)</a><span class="r">Yesatu Lej (Meceresha)</span></li><li><span class="toc-num">16</span><a class="toc-title am" lang="am" href="../work/wk_09b1ecag.html">የሤትማ ግርዋት</a><span class="r">Yeshetma Girwat</span></li><li><span class="toc-num">17</span><a class="toc-title am" lang="am" href="../work/wk_sna9bqwn.html">አቤ የኔ ዝምታ ጣምርታ</a><span class="r">Abe Yene Zimta Tamrta</span></li><li><span class="toc-num">18</span><a class="toc-title am" lang="am" href="../work/wk_xmkqhgys.html">የሤትማ ግርዋት (ቀጥሎ)</a><span class="r">Yeshetma Girwat (Qetlo)</span></li><li><span class="toc-num">19</span><a class="toc-title am" lang="am" href="../work/wk_7zhtbpq3.html">ልጅቱ — የዘመኖችዋ</a><span class="r">Lijitu — Yezemenochwa</span></li><li><span class="toc-num">20</span><a class="toc-title am" lang="am" href="../work/wk_snpjqwjn.html">ዕንስት</a><span class="r">Ensit</span></li><li><span class="toc-num">21</span><span class="toc-title am current" lang="am" aria-current="page">ዕንስት (ቀጠሮ)</span><span class="r">Ensit (Qetero)</span></li><li><span class="toc-num">22</span><a class="toc-title am" lang="am" href="../work/wk_3n0kfz42.html">፳ር በይነት ፳ር</a><span class="r">Zir Beyinet Zir</span></li><li><span class="toc-num">23</span><a class="toc-title am" lang="am" href="../work/wk_yrcey8wq.html">ዘመዴን ስሰመው</a><span class="r">Zmeden SissemeW</span></li><li><span class="toc-num">24</span><a class="toc-title am" lang="am" href="../work/wk_hxy1ew5g.html">እንትንን በመካከል እየሰማኝ</a><span class="r">Entinin Bemekakel Eyisemany</span></li><li><span class="toc-num">25</span><a class="toc-title am" lang="am" href="../work/wk_5k5t9jev.html">እለ ጤና በል አማለኝ</a><span class="r">Ele tena bel amalen</span></li><li><span class="toc-num">26</span><a class="toc-title am" lang="am" href="../work/wk_1fdkp9k6.html">እሱ ነው — እሱ</a><span class="r">Esu new -- Esu</span></li><li><span class="toc-num">27</span><a class="toc-title am" lang="am" href="../work/wk_x45p63yd.html">ፄላን እንዲህ</a><span class="r">Zelan Endih</span></li><li><span class="toc-num">28</span><a class="toc-title am" lang="am" href="../work/wk_rvx66gaz.html">ብቻ መሣኛችን</a><span class="r">Bicha Mesanyachin</span></li><li><span class="toc-num">29</span><a class="toc-title am" lang="am" href="../work/wk_n04hvnx5.html">ዘርዕ እብርት ማሞች</a><span class="r">Zer&#x27;e Ebrt Mamoch</span></li><li><span class="toc-num">30</span><a class="toc-title am" lang="am" href="../work/wk_0xpxzxa3.html">ልዘንክ አሙኜ</a><span class="r">Lzenk Amuigne</span></li><li><span class="toc-num">31</span><a class="toc-title am" lang="am" href="../work/wk_6ss0t965.html">በየነን ስማዛት ስታስቅስ በደፋ</a><span class="r">Beyenen Smazat Stasqis Bedefa</span></li><li><span class="toc-num">32</span><a class="toc-title am" lang="am" href="../work/wk_xsxx4dwa.html">ቋጥኝ</a><span class="r">Qwatgn</span></li><li><span class="toc-num">33</span><a class="toc-title am" lang="am" href="../work/wk_h0jstj3d.html">በንትን ያሻውን ዘር</a><span class="r">Bentin Yashawun Zer</span></li><li><span class="toc-num">34</span><a class="toc-title am" lang="am" href="../work/wk_kyscwawn.html">ትዝታን ማስታወስ</a><span class="r">Tiztan Mastawes</span></li><li><span class="toc-num">35</span><a class="toc-title am" lang="am" href="../work/wk_0nnefgd9.html">ገና በልጅነት</a><span class="r">Gen Belyjinet</span></li><li><span class="toc-num">36</span><a class="toc-title am" lang="am" href="../work/wk_t80aefe7.html">አሮማዊ ፍቅር</a><span class="r">Aromawi Fikir</span></li><li><span class="toc-num">37</span><a class="toc-title am" lang="am" href="../work/wk_8c1r2m8j.html">የዕ ዕለ</a><span class="r">Ye Eele</span></li><li><span class="toc-num">38</span><a class="toc-title am" lang="am" href="../work/wk_c5qake2m.html">መስከረም</a><span class="r">Meskerem</span></li><li><span class="toc-num">39</span><a class="toc-title am" lang="am" href="../work/wk_hpccbmrx.html">መስከረም (ቀጠሎ)</a><span class="r">Meskerem (Qetelo)</span></li><li><span class="toc-num">40</span><a class="toc-title am" lang="am" href="../work/wk_2s7xc7rx.html">የብዞችን ድምፅ</a><span class="r">Ye-Bezochin Dimts</span></li><li><span class="toc-num">41</span><a class="toc-title am" lang="am" href="../work/wk_t6f1z4b8.html">የ-፪ኛው ጕልበት</a><span class="r">Ye-2tegna Gulbet</span></li><li><span class="toc-num">42</span><a class="toc-title am" lang="am" href="../work/wk_4nag2rzz.html">ስለ ሠርፍ አድር</a><span class="r">Sile Serf Adir</span></li><li><span class="toc-num">43</span><a class="toc-title am" lang="am" href="../work/wk_0t1f36m5.html">እነሆ በቀ</a><span class="r">Eneho Beqe</span></li><li><span class="toc-num">44</span><a class="toc-title am" lang="am" href="../work/wk_5bzscce7.html">የቅንጣትትን ዞር የዘርቱን ንጉማ ማደሪያ ሰዕቢ እሰክር</a><span class="r">Ye-Qintatetin Zor Ye-Zertun Niguma Maderiya Se&#x27;bi Esekir</span></li><li><span class="toc-num">45</span><a class="toc-title am" lang="am" href="../work/wk_fyq7hxxq.html">በሰሙ ሠየማት</a><span class="r">Besemu Seyemat</span></li><li><span class="toc-num">46</span><a class="toc-title am" lang="am" href="../work/wk_mxh2w289.html">በሰሙ ሠየማት (ቀጠሎ)</a><span class="r">Besemu Seyemat (Qetelo)</span></li><li><span class="toc-num">47</span><a class="toc-title am" lang="am" href="../work/wk_af1x4vp8.html">ትዝታ — ክብር</a><span class="r">Tizita — Kibir</span></li><li><span class="toc-num">48</span><a class="toc-title am" lang="am" href="../work/wk_3r6nyth6.html">እስከʹተወጣ ሤራችን</a><span class="r">Iske teweta sherachin</span></li><li><span class="toc-num">49</span><a class="toc-title am" lang="am" href="../work/wk_yk8chwe8.html">እንዳች ፍቅር ወፔ የተግባር ጥረቶች ከ - አግሃግመሽ በለቢ የጸደቆች ቋሚ ሕውአትሽ ለወጌ ፍሬ ሳንች መታሰቢያ</a><span class="r">Indach Fikir Wope YeTigbar Tiritoch
+ke - Aghagmesh
+BeLabi YeTsedqoch Qwami Hiwatish
+LeWoge Fire Sanch Metasebiya</span></li><li><span class="toc-num">50</span><a class="toc-title am" lang="am" href="../work/wk_24nw70s0.html">ፍቅርና ተግባር (አንድ ቅንጣት አባባ)</a><span class="r">Fikirna Tigbar (And Qinitat Ababa)</span></li><li><span class="toc-num">51</span><a class="toc-title am" lang="am" href="../work/wk_vs188mjj.html">አይ ጅኒ አይ ጅኒ</a><span class="r">Ay Jini Ay Jini</span></li><li><span class="toc-num">52</span><a class="toc-title am" lang="am" href="../work/wk_g9vyt7g4.html">እየፋን የመላው</a><span class="r">Iyeffan Yemelaw</span></li><li><span class="toc-num">53</span><a class="toc-title am" lang="am" href="../work/wk_3raajncg.html">ያቺን ማት ቀን</a><span class="r">Yachin Mat Ken</span></li><li><span class="toc-num">54</span><a class="toc-title am" lang="am" href="../work/wk_j9d013gy.html">ጊዜ ሆይ</a><span class="r">Gize Hoy</span></li><li><span class="toc-num">55</span><a class="toc-title am" lang="am" href="../work/wk_5jz7d68z.html">የታ፯ን ዳ፯ን የመህበሡን ክብ፯ት</a><span class="r">Yetazen Danen Meheberun Kibet</span></li><li><span class="toc-num">56</span><a class="toc-title am" lang="am" href="../work/wk_4xrg818g.html">ጛሡች</a><span class="r">Gezoch</span></li><li><span class="toc-num">57</span><a class="toc-title am" lang="am" href="../work/wk_cp5bgx57.html">እንዯማ እንደ ዛፍ</a><span class="r">Endema Ende Zaf</span></li></ol>
+</article>
+<footer>
+  <span>5748 books · 3866 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
+</footer>
+</div></body></html>

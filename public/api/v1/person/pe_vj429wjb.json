@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drdavidruban",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vj429wjb",
+ "id": "pe_vj429wjb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09599460",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09599460"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Devid Ruben"
+  },
+  "romanized": "Dr.Devid Ruben",
+  "sort_key": "drdevidruben"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09599460"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vj429wjb",
+     "name": "Dr.Devid Ruben",
+     "role": "author",
+     "romanized": "Dr.Devid Ruben"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3rkd5623",
+   "id": "wk_3rkd5623",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Misitire Wesib",
+    "script": "Ethi",
+    "text": "ምሲጥረ ወሲብ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

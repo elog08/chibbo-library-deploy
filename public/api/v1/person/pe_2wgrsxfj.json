@@ -1,0 +1,109 @@
+{
+ "extensions": {},
+ "fingerprint": "salamawitghirmay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2wgrsxfj",
+ "id": "pe_2wgrsxfj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48979179",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48979179"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74406495",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74406495"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selamawit Ghirmay"
+  },
+  "romanized": "Selamawit Ghirmay",
+  "sort_key": "selamawitghirmay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48979179"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2wgrsxfj",
+     "name": "Selamawit Ghirmay",
+     "role": "author",
+     "romanized": "Selamawit Ghirmay"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_5pbvf6hn",
+   "id": "wk_5pbvf6hn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tafach Yemnet Tarikoch",
+    "script": "Ethi",
+    "text": "ጣፋጭ የእምነት ታሪኮች"
+   },
+   "type": "work",
+   "year": 2019
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2wgrsxfj",
+     "name": "Selamawit Ghirmay",
+     "role": "author",
+     "romanized": "Selamawit Ghirmay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pbkqdh7k",
+   "id": "wk_pbkqdh7k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zetegnu Be'alat",
+    "script": "Ethi",
+    "text": "ዘጠኙ በዓላት"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

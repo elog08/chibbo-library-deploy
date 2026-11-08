@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "fathargagziabhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_24h0rcv1",
+ "id": "pe_24h0rcv1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42179255",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42179255"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Father G/Egziabher"
+  },
+  "romanized": "Father G/Egziabher",
+  "sort_key": "fathergegziabher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=42179255"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g4hv44vc",
+     "name": "Father W/ Abreham",
+     "role": "author",
+     "romanized": "Father W/ Abreham"
+    },
+    {
+     "id": "pe_24h0rcv1",
+     "name": "Father G/Egziabher",
+     "role": "author",
+     "romanized": "Father G/Egziabher"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_4snbae1x",
+   "id": "wk_4snbae1x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metshafe Birhan",
+    "script": "Ethi",
+    "text": "መጽሐፈ ብርሃን"
+   },
+   "type": "work"
+  }
+ ]
+}

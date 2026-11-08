@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "kimonskordilas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mq01xh1k",
+ "id": "pe_mq01xh1k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28528482",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28528482"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kimon Skordiles"
+  },
+  "romanized": "Kimon Skordiles",
+  "sort_key": "kimonskordiles"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28528482"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mq01xh1k",
+     "name": "Kimon Skordiles",
+     "role": "author",
+     "romanized": "Kimon Skordiles"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_enmrm68t",
+   "id": "wk_enmrm68t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Kagnew, The Story of Ethiopian Fighters in Korea",
+    "script": "Latn",
+    "text": "Kagnew, The Story of Ethiopian Fighters in Korea"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6p603xnq",
+ "@type": "Book",
+ "alternateName": [
+  "Takion"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_excrct53",
+   "@type": "Person",
+   "name": "Daniel Legesse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ታኪዮን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.23",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=35317137"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=35317137"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0eeqpr41",
+   "@type": "Book"
+  }
+ ]
+}

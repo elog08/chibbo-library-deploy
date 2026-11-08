@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "asafandashaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_29tvbegd",
+ "id": "pe_29tvbegd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46354092",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46354092"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56772158",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56772158"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Assefa Endashaw"
+  },
+  "romanized": "Assefa Endashaw",
+  "sort_key": "assefaendashaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46354092"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_29tvbegd",
+     "name": "Assefa Endashaw",
+     "role": "author",
+     "romanized": "Assefa Endashaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ccec9ff8",
+   "id": "wk_ccec9ff8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be 2000 Mebacha Ethiopiyawiyanin YeMifetatenu Gudayoch",
+    "script": "Ethi",
+    "text": "በ፪፻፻ መባቻ ኢትዮጵያውያንን የሚፈታተኑ ጉዳዮች"
+   },
+   "type": "work",
+   "year": 2007
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_29tvbegd",
+     "name": "Assefa Endashaw",
+     "role": "author",
+     "romanized": "Assefa Endashaw"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_g4wwyshs",
+   "id": "wk_g4wwyshs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "LeHager Yetemedebe Hiwot",
+    "script": "Ethi",
+    "text": "ለሃገር የተመደበ ህይወት"
+   },
+   "type": "work"
+  }
+ ]
+}

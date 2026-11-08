@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "yitbarakgiday",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tstaxk14",
+ "id": "pe_tstaxk14",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05879879",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05879879"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33779686",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33779686"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yitbarek Gidey"
+  },
+  "romanized": "Yitbarek Gidey",
+  "sort_key": "yitbarekgidey"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05879879"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tstaxk14",
+     "name": "Yitbarek Gidey",
+     "role": "author",
+     "romanized": "Yitbarek Gidey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_et0m9mpy",
+   "id": "wk_et0m9mpy",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shumbirot! Millenium Ethiopia",
+    "script": "Ethi",
+    "text": "ሹምብሮት! ሚሊኒየም ኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2008
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tstaxk14",
+     "name": "Yitbarek Gidey",
+     "role": "author",
+     "romanized": "Yitbarek Gidey"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rnwcf7gb",
+   "id": "wk_rnwcf7gb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zeregna Manew? Ethiopiayawiyan Fredu !",
+    "script": "Ethi",
+    "text": "ዘረኛ ማነው? ኢትዮጵያውያን ፍረዱ!"
+   },
+   "type": "work"
+  }
+ ]
+}

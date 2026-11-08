@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "taqababiru",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q3z4fk0r",
+ "id": "pe_q3z4fk0r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39214634",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39214634"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Teqebba Birru"
+  },
+  "romanized": "Teqebba Birru",
+  "sort_key": "teqebbabirru"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=39214634"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    },
+    {
+     "id": "pe_q3z4fk0r",
+     "name": "Teqebba Birru",
+     "role": "author",
+     "romanized": "Teqebba Birru"
+    },
+    {
+     "id": "pe_syff9pck",
+     "name": "S.Chojnacki",
+     "role": "author",
+     "romanized": "S.Chojnacki"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_0axz1fca",
+   "id": "wk_0axz1fca",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.IX No.2(June 1971)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርመራ መጽሔት"
+   },
+   "type": "work"
+  }
+ ]
+}

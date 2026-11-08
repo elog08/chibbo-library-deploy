@@ -32,16 +32,31 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/himamat-by-deacon-henok-haile/"
+  },
+  {
+   "@type": "Offer",
+   "price": "14.54",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05466140"
   }
  ],
  "sameAs": [
   "https://addisbooks.com/book/himamat-by-deacon-henok-haile/",
-  "https://openlibrary.org/works/OL45114055W"
+  "https://openlibrary.org/works/OL45114055W",
+  "https://www.mereb.shop/rs/?mpid=05466140"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_gsmjj2fr",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_efq7292f",
    "@type": "Book"
   }
  ]

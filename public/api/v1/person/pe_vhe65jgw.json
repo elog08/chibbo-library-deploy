@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "mamahirgabrabhailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vhe65jgw",
+ "id": "pe_vhe65jgw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97654516",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97654516"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memehir Gebreab Hailu"
+  },
+  "romanized": "Memehir Gebreab Hailu",
+  "sort_key": "memehirgebreabhailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97654516"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yz1mcmac",
+     "name": "Memehir Solomon T/Haymanot",
+     "role": "author",
+     "romanized": "Memehir Solomon T/Haymanot"
+    },
+    {
+     "id": "pe_vhe65jgw",
+     "name": "Memehir Gebreab Hailu",
+     "role": "author",
+     "romanized": "Memehir Gebreab Hailu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_2h0b2ckb",
+   "id": "wk_2h0b2ckb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Kidus Yared",
+    "script": "Ethi",
+    "text": "ገድለ ቅዱስ ያሬድ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_m7r25kch",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xg83s7nz",
+   "@type": "Person",
+   "name": "Kesis Kefyalew Merahi"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The veneration of Saints",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=88751612"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=88751612"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_918h1s55",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cyz5n3z6",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0pbxga5f",
+   "@type": "Person",
+   "name": "Germachew Tekle Hawareyat"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ali habeshi ye'edenu jandereba",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.13",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83644291"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=83644291"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_qgnftmvs",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wj6adhta",
+ "@type": "Book",
+ "alternateName": [
+  "Simbiro"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6v29hccg",
+   "@type": "Person",
+   "name": "Dr.Jojo"
+  }
+ ],
+ "datePublished": "2024",
+ "inLanguage": "am",
+ "name": "ሲምቢሮ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=67981559"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litman Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=67981559"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ptsd2b5b",
+   "@type": "Book"
+  }
+ ]
+}

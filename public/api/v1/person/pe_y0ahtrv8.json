@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "masfinhailamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y0ahtrv8",
+ "id": "pe_y0ahtrv8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40050733",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40050733"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin Hailemariam"
+  },
+  "romanized": "Mesfin Hailemariam",
+  "sort_key": "mesfinhailemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40050733"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_y0ahtrv8",
+     "name": "Mesfin Hailemariam",
+     "role": "author",
+     "romanized": "Mesfin Hailemariam"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_6d72fmv7",
+   "id": "wk_6d72fmv7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Rich man and The Singer",
+    "script": "Ethi",
+    "text": "ብልጣ ዝንጀሮ"
+   },
+   "type": "work"
+  }
+ ]
+}

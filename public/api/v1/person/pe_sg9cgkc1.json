@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhadisrodastadasama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sg9cgkc1",
+ "id": "pe_sg9cgkc1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00040535",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00040535"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97458551",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97458551"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hadis Rodas Tadesse (MA)"
+  },
+  "romanized": "Memihir Hadis Rodas Tadesse (MA)",
+  "sort_key": "memihirhadisrodastadessema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00040535"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sg9cgkc1",
+     "name": "Memihir Hadis Rodas Tadesse (MA)",
+     "role": "author",
+     "romanized": "Memihir Hadis Rodas Tadesse (MA)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0nctje2r",
+   "id": "wk_0nctje2r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aba Ziorgis Zegasicha Yederesew TeAmiho Kidusan (YeKidusan Selamta) Nibabuna Tiruguamew",
+    "script": "Ethi",
+    "text": "አባ ጊዮርጊስ ዘጋስጫ የደረሰው ተአምኆ ቅዱሳን (የቅዱሳን ሰላምታ) ንባቡና ትርጉሜው"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sg9cgkc1",
+     "name": "Memihir Hadis Rodas Tadesse (MA)",
+     "role": "author",
+     "romanized": "Memihir Hadis Rodas Tadesse (MA)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nh76qy0z",
+   "id": "wk_nh76qy0z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mestihafe Seatat Nibabuna Tiruguamew (BeAndemita)",
+    "script": "Ethi",
+    "text": "መጽሐፈ ሰዓታት ንባቡና ትርጉሜው (በአንደምታ)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

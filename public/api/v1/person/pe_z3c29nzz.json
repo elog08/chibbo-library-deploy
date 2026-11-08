@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kadamawisolomon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z3c29nzz",
+ "id": "pe_z3c29nzz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09261151",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09261151"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kedamawi Solomon"
+  },
+  "romanized": "Kedamawi Solomon",
+  "sort_key": "kedamawisolomon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09261151"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z3c29nzz",
+     "name": "Kedamawi Solomon",
+     "role": "author",
+     "romanized": "Kedamawi Solomon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dpvvegg6",
+   "id": "wk_dpvvegg6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ken",
+    "script": "Ethi",
+    "text": "ቀን"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Authors — page 53</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Books</a>
+    <a href="../people/page-1.html">Authors</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../people/page-1.html"><span itemprop="name">Authors</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 53</span><meta itemprop="position" content="3"></li></ol></nav>
+<h1>Authors</h1><ul class="grid"><li class="card">
+  <a class="thumb" href="../person/pe_2qw72r8d.html"><div class="placeholder">Sesen Hadish</div></a>
+  <a class="t latn"
+     href="../person/pe_2qw72r8d.html">Sesen Hadish</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_p4yn3gx1.html"><div class="placeholder" lang="am">ስቲቭ ኤርዊን</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_p4yn3gx1.html">ስቲቭ ኤርዊን</a>
+  <span class="r">setiv erwin</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_4bz8hp2f.html"><div class="placeholder" lang="am">ስትዋርት ውድስ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_4bz8hp2f.html">ስትዋርት ውድስ</a>
+  <span class="r">setwaret wedes</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_tzvxbh6z.html"><div class="placeholder">Seye Abraha</div></a>
+  <a class="t latn"
+     href="../person/pe_tzvxbh6z.html">Seye Abraha</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_pdanhgb2.html"><div class="placeholder">Seyefemichael Admasu</div></a>
+  <a class="t latn"
+     href="../person/pe_pdanhgb2.html">Seyefemichael Admasu</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_5v1m6cwe.html"><div class="placeholder">Seyfu Abawelo</div></a>
+  <a class="t latn"
+     href="../person/pe_5v1m6cwe.html">Seyfu Abawelo</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_z1smtj3q.html"><div class="placeholder" lang="am">ሰይፉ መታፈሪያ ፍሬው</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_z1smtj3q.html">ሰይፉ መታፈሪያ ፍሬው</a>
+  <span class="r">seyfu metaferiya ferew</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_q4ttbbc9.html"><div class="placeholder" lang="am">ሳይመን ሪቭ ትርጉም ጥላሁን ግርማ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_q4ttbbc9.html">ሳይመን ሪቭ ትርጉም ጥላሁን ግርማ</a>
+  <span class="r">Simon Reeve Translator Tilahun Girma</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_ckrcdd3k.html"><div class="placeholder" lang="am">ሰዩም ታደሰ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_ckrcdd3k.html">ሰዩም ታደሰ</a>
+  <span class="r">seyum tadese</span>
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_5m22de49.html"><div class="placeholder" lang="am">ሥዩም ወልዴ ራምሴ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_5m22de49.html">ሥዩም ወልዴ ራምሴ</a>
+  <span class="r">seyum welde ramse</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_aqejhaw9.html"><div class="placeholder">Seyum Wolde Ramse</div></a>
+  <a class="t latn"
+     href="../person/pe_aqejhaw9.html">Seyum Wolde Ramse</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_syff9pck.html"><div class="placeholder">S.Chojnacki</div></a>
+  <a class="t latn"
+     href="../person/pe_syff9pck.html">S.Chojnacki</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_dd9vtk70.html"><div class="placeholder">Scholars of Ethiopian Orthodox Church</div></a>
+  <a class="t latn"
+     href="../person/pe_dd9vtk70.html">Scholars of Ethiopian Orthodox Church</a>
+  
+  <span class="a">12 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_1a0c4krb.html"><div class="placeholder">Scholars of Ethiopian Orthodox Churches</div></a>
+  <a class="t latn"
+     href="../person/pe_1a0c4krb.html">Scholars of Ethiopian Orthodox Churches</a>
+  
+  <span class="a">4 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_hme9he04.html"><div class="placeholder">Scholars of Ethiopian Orthodox Tewahedo Chur</div></a>
+  <a class="t latn"
+     href="../person/pe_hme9he04.html">Scholars of Ethiopian Orthodox Tewahedo Church</a>
+  
+  <span class="a">13 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_6kg0q9ha.html"><div class="placeholder">Shebishi Lema</div></a>
+  <a class="t latn"
+     href="../person/pe_6kg0q9ha.html">Shebishi Lema</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_jfhvzbsg.html"><div class="placeholder" lang="am">ሽብሩ ተድላ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_jfhvzbsg.html">ሽብሩ ተድላ</a>
+  <span class="r">shebru tedla</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_symvj0r2.html"><div class="placeholder" lang="am">ሼፍ ደመቀ ግርማ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_symvj0r2.html">ሼፍ ደመቀ ግርማ</a>
+  <span class="r">Chef Demeke Girma</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_580c2z63.html"><div class="placeholder">Sheik Ali Tentawi</div></a>
+  <a class="t latn"
+     href="../person/pe_580c2z63.html">Sheik Ali Tentawi</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_2y6t1w8b.html"><div class="placeholder">Shaleka Mamo Lamo</div></a>
+  <a class="t latn"
+     href="../person/pe_2y6t1w8b.html">Shaleka Mamo Lamo</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rfdcy0p3.html"><div class="placeholder">Shaleka Nigatu Bogale</div></a>
+  <a class="t latn"
+     href="../person/pe_rfdcy0p3.html">Shaleka Nigatu Bogale</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_1b54dtw7.html"><div class="placeholder">Shaleka Yirdaw Libarigachew</div></a>
+  <a class="t latn"
+     href="../person/pe_1b54dtw7.html">Shaleka Yirdaw Libarigachew</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_yh5y7d78.html"><div class="placeholder" lang="am">ሻላቃ/ጋዜጠኛ ወይንሐረግ በቀለ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_yh5y7d78.html">ሻላቃ/ጋዜጠኛ ወይንሐረግ በቀለ</a>
+  <span class="r">Shaleka Weynhareg Bekele</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_a7mv5f5f.html"><div class="placeholder" lang="am">ሻለቃ ማሞ ለማ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_a7mv5f5f.html">ሻለቃ ማሞ ለማ</a>
+  <span class="r">Shaleka Mamo Lemma</span>
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_ng9ahpfm.html"><div class="placeholder" lang="am">ሻለቃ ሲሳይ ጸጋዬ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_ng9ahpfm.html">ሻለቃ ሲሳይ ጸጋዬ</a>
+  <span class="r">shaleqa sisay tsegaye</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mcdtf2zz.html"><div class="placeholder" lang="am">ሻምበል አብዲሣ አጋ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_mcdtf2zz.html">ሻምበል አብዲሣ አጋ</a>
+  <span class="r">shambel abdisa aga</span>
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_629qen90.html"><img src="../assets/portraits/pe_629qen90.png" alt="Portrait of ሻምበል አክሊሉ ሃይሉ ጥላሁን" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_629qen90.html">ሻምበል አክሊሉ ሃይሉ ጥላሁን</a>
+  <span class="r">shambel aklilu haylu telahun</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_0mercpa4.html"><div class="placeholder">Shambel Belete</div></a>
+  <a class="t latn"
+     href="../person/pe_0mercpa4.html">Shambel Belete</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_txtxc5bw.html"><div class="placeholder">Shambel Tesfa Desta</div></a>
+  <a class="t latn"
+     href="../person/pe_txtxc5bw.html">Shambel Tesfa Desta</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_9hv5m38t.html"><img src="../assets/portraits/pe_9hv5m38t.png" alt="Portrait of ሻምበል ተስፋዬ ርስቴ" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../person/pe_9hv5m38t.html">ሻምበል ተስፋዬ ርስቴ</a>
+  <span class="r">shambel tesfaye reste</span>
+  <span class="a">3 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_gkrjag18.html"><div class="placeholder">Shamble Tesfaye Reste Mekonen</div></a>
+  <a class="t latn"
+     href="../person/pe_gkrjag18.html">Shamble Tesfaye Reste Mekonen</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_gxwqe9gx.html"><div class="placeholder" lang="am">ሸረፈዲን የእናቱ ልጅ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_gxwqe9gx.html">ሸረፈዲን የእናቱ ልጅ</a>
+  <span class="r">sherefedin yenatu lej</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_k1cdq32v.html"><div class="placeholder" lang="am">ሻሮን ሌችተር</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_k1cdq32v.html">ሻሮን ሌችተር</a>
+  <span class="r">sharon lechter</span>
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_sqd7vkyf.html"><div class="placeholder">Shewaferahu Kuratu Bala (Dr.)</div></a>
+  <a class="t latn"
+     href="../person/pe_sqd7vkyf.html">Shewaferahu Kuratu Bala (Dr.)</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rmzg1f47.html"><div class="placeholder">Shewangizaw Tefera (Shambel)</div></a>
+  <a class="t latn"
+     href="../person/pe_rmzg1f47.html">Shewangizaw Tefera (Shambel)</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_yn52psdb.html"><div class="placeholder" lang="am">ሸዋዬ ለገሠ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_yn52psdb.html">ሸዋዬ ለገሠ</a>
+  <span class="r">shewaye legese</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_41gcmbzx.html"><div class="placeholder">Shibeshi Lemma</div></a>
+  <a class="t latn"
+     href="../person/pe_41gcmbzx.html">Shibeshi Lemma</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_njhv8mba.html"><div class="placeholder">Shibiru Tedla</div></a>
+  <a class="t latn"
+     href="../person/pe_njhv8mba.html">Shibiru Tedla</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_a73fh3c6.html"><div class="placeholder">Shiferaw Bekele</div></a>
+  <a class="t latn"
+     href="../person/pe_a73fh3c6.html">Shiferaw Bekele</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_4k9bphjc.html"><div class="placeholder">Shiferaw Mengesha</div></a>
+  <a class="t latn"
+     href="../person/pe_4k9bphjc.html">Shiferaw Mengesha</a>
+  
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_e9e7mg56.html"><div class="placeholder">Shimelis Bonsa</div></a>
+  <a class="t latn"
+     href="../person/pe_e9e7mg56.html">Shimelis Bonsa</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rjv0kd0n.html"><div class="placeholder">Shimelis Tekiletsadik Mekuria</div></a>
+  <a class="t latn"
+     href="../person/pe_rjv0kd0n.html">Shimelis Tekiletsadik Mekuria</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_mfagrd73.html"><div class="placeholder" lang="am">ሺቭ ኬራ</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_mfagrd73.html">ሺቭ ኬራ</a>
+  <span class="r">shiv kera</span>
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_0qhntckv.html"><div class="placeholder">Shiv Khera</div></a>
+  <a class="t latn"
+     href="../person/pe_0qhntckv.html">Shiv Khera</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_szj9faq2.html"><div class="placeholder">Shivu Kera</div></a>
+  <a class="t latn"
+     href="../person/pe_szj9faq2.html">Shivu Kera</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_5w18160e.html"><div class="placeholder">Sibehat G/Egziabher</div></a>
+  <a class="t latn"
+     href="../person/pe_5w18160e.html">Sibehat G/Egziabher</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_e9j67944.html"><div class="placeholder">Sibhat G.Egziabher</div></a>
+  <a class="t latn"
+     href="../person/pe_e9j67944.html">Sibhat G.Egziabher</a>
+  
+  <span class="a">3 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_0jt7tdr2.html"><div class="placeholder">Sibihat G/Egziabher</div></a>
+  <a class="t latn"
+     href="../person/pe_0jt7tdr2.html">Sibihat G/Egziabher</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_afsb2pjf.html"><div class="placeholder">Sidney Sheldon</div></a>
+  <a class="t latn"
+     href="../person/pe_afsb2pjf.html">Sidney Sheldon</a>
+  
+  <span class="a">2 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_nk9ktamb.html"><div class="placeholder" lang="am">ሲድኒ ሼልደን</div></a>
+  <a class="t" lang="am"
+     href="../person/pe_nk9ktamb.html">ሲድኒ ሼልደን</a>
+  <span class="r">sidni shelden</span>
+  <span class="a">9 books</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_wy9bdbs2.html"><div class="placeholder">Siher Kashoki</div></a>
+  <a class="t latn"
+     href="../person/pe_wy9bdbs2.html">Siher Kashoki</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_52v56447.html"><div class="placeholder">Sileshi Demissie</div></a>
+  <a class="t latn"
+     href="../person/pe_52v56447.html">Sileshi Demissie</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_y47ts88f.html"><div class="placeholder">Sileshi Shawel</div></a>
+  <a class="t latn"
+     href="../person/pe_y47ts88f.html">Sileshi Shawel</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_e2ekhqvw.html"><div class="placeholder">Sileshi Yitibarek</div></a>
+  <a class="t latn"
+     href="../person/pe_e2ekhqvw.html">Sileshi Yitibarek</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_sr6mm74x.html"><div class="placeholder">Simachew Mesfin</div></a>
+  <a class="t latn"
+     href="../person/pe_sr6mm74x.html">Simachew Mesfin</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_4xdm5xwk.html"><div class="placeholder">Simachew Yiradu</div></a>
+  <a class="t latn"
+     href="../person/pe_4xdm5xwk.html">Simachew Yiradu</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_b2ksb9ch.html"><img src="../assets/portraits/pe_b2ksb9ch.jpg" alt="Portrait of Simegn Gizaw Bedada" loading="lazy"></a>
+  <a class="t latn"
+     href="../person/pe_b2ksb9ch.html">Simegn Gizaw Bedada</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_8dp5kf7m.html"><div class="placeholder">Simeneh Betre Yohannes</div></a>
+  <a class="t latn"
+     href="../person/pe_8dp5kf7m.html">Simeneh Betre Yohannes</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_rf1cj609.html"><div class="placeholder">Simeneh Bayfers</div></a>
+  <a class="t latn"
+     href="../person/pe_rf1cj609.html">Simeneh Bayfers</a>
+  
+  <span class="a">1 book</span>
+</li><li class="card">
+  <a class="thumb" href="../person/pe_p4xe06gy.html"><div class="placeholder">Simetru Taye</div></a>
+  <a class="t latn"
+     href="../person/pe_p4xe06gy.html">Simetru Taye</a>
+  
+  <span class="a">2 books</span>
+</li></ul><div class="pager"><a href="page-52.html">&larr; previous</a><span class="spacer"></span><span>page 53 of 65 · 3866 authors</span><span class="spacer"></span><a href="page-54.html">next &rarr;</a></div>
+<footer>
+  <span>5748 books · 3866 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
+</footer>
+</div></body></html>

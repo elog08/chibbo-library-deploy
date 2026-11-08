@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "masfinhabtamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zz2xb8ts",
+ "id": "pe_zz2xb8ts",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14906365",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14906365"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17940532",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17940532"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin Habtemariam"
+  },
+  "romanized": "Mesfin Habtemariam",
+  "sort_key": "mesfinhabtemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=14906365"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zz2xb8ts",
+     "name": "Mesfin Habtemariam",
+     "role": "author",
+     "romanized": "Mesfin Habtemariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_an7bmexh",
+   "id": "wk_an7bmexh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBuna Bet Si'loch Ena Lelochim Wegoch",
+    "script": "Ethi",
+    "text": "የቡና ቤት ሥዕሎች እና ሌሎችም ወጎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_zz2xb8ts",
+     "name": "Mesfin Habtemariam",
+     "role": "author",
+     "romanized": "Mesfin Habtemariam"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ymny6mzv",
+   "id": "wk_ymny6mzv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Azeb",
+    "script": "Ethi",
+    "text": "አዜብ"
+   },
+   "type": "work"
+  }
+ ]
+}

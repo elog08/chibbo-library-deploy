@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "paulrambali",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hmqpg8sb",
+ "id": "pe_hmqpg8sb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18095114",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18095114"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paul Rambali"
+  },
+  "romanized": "Paul Rambali",
+  "sort_key": "paulrambali"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18095114"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hmqpg8sb",
+     "name": "Paul Rambali",
+     "role": "author",
+     "romanized": "Paul Rambali"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sq40w5jh",
+   "id": "wk_sq40w5jh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Roman Yewererew Jegna (Yaltedasesew YeHiywet Guzo)",
+    "script": "Ethi",
+    "text": "ሮማን የወረረው ጀግና (ያልተዳሰሰው የህይወት ጉዞ)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

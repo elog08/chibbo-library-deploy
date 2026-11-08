@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "marsahazanwoldakirkos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e6ewrvzr",
+ "id": "pe_e6ewrvzr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00866188",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00866188"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Merse Hazen Wolde Kirkos"
+  },
+  "romanized": "Merse Hazen Wolde Kirkos",
+  "sort_key": "mersehazenwoldekirkos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00866188"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e6ewrvzr",
+     "name": "Merse Hazen Wolde Kirkos",
+     "role": "author",
+     "romanized": "Merse Hazen Wolde Kirkos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_ayz27fq3",
+   "id": "wk_ayz27fq3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHayagnaw Kifle Zemen Mebacha . . .",
+    "script": "Ethi",
+    "text": "የሐያኛው ክፍለ ዘመን መባቻ የዘመን ታሪክ ትዝታዬ ካየሁትና ከሰማሁት 1896-1922"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

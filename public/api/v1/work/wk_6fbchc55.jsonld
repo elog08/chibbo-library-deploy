@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6fbchc55",
+ "@type": "Book",
+ "alternateName": [
+  "YePapasu Fikiregna"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jkvez38z",
+   "@type": "Person",
+   "name": "Peter Rosa"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_t853qj5n",
+   "@type": "Person",
+   "name": "Anny Murphy"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የጳጳሱ ፍቅረኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.05",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=92258511"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=92258511"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vzwfajsh",
+   "@type": "Book"
+  }
+ ]
+}

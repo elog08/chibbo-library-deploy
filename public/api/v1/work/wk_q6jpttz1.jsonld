@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_q6jpttz1",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pch9qqwe",
+   "@type": "Person",
+   "name": "Liqe Teguhan Haile Giyorgis Dagne"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Sacred words of life",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.60",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28234337"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28234337"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1xszrjhy",
+   "@type": "Book"
+  }
+ ]
+}

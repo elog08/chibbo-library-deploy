@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "sarafinascapara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hh8065sw",
+ "id": "pe_hh8065sw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73976432",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73976432"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Serafina Scaparra"
+  },
+  "romanized": "Serafina Scaparra",
+  "sort_key": "serafinascaparra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73976432"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hh8065sw",
+     "name": "Serafina Scaparra",
+     "role": "author",
+     "romanized": "Serafina Scaparra"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qhf3fvp5",
+   "id": "wk_qhf3fvp5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Italian Cooking With Serafina",
+    "script": "Ethi",
+    "text": "የጣሊያን ምግብ አዘገጃጀት ከሴራፊና ጋር"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

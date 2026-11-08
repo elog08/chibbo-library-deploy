@@ -15,7 +15,15 @@
  "editions": [
   "ed_f2n3dw2m"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy",
+    "nature"
+   ]
+  }
+ },
  "fingerprint": "ጊዜወይንጨረቃ|sabamakuriya",
  "first_published": {
   "alternates": [
@@ -76,6 +84,10 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy",
+  "nature"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

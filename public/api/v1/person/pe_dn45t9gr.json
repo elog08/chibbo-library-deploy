@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "robartgran",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dn45t9gr",
+ "id": "pe_dn45t9gr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69008844",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69008844"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert Green"
+  },
+  "romanized": "Robert Green",
+  "sort_key": "robertgreen"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69008844"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dn45t9gr",
+     "name": "Robert Green",
+     "role": "author",
+     "romanized": "Robert Green"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wt9fakv9",
+   "id": "wk_wt9fakv9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesew Neger (the 48 Laws of Power)",
+    "script": "Ethi",
+    "text": "የሰው ነገር (48ቱ የአሸናፊነት ሚስጥራት)"
+   },
+   "type": "work"
+  }
+ ]
+}

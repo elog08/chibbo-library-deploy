@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n7t6rzkz",
+ "@type": "Book",
+ "alternateName": [
+  "Gihusan Abew"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7ad3yvjt",
+   "@type": "Person",
+   "name": "Aba Samman"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ግሑሣን አበው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=48223006"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=48223006"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_bf291wjs",
+   "@type": "Book"
+  }
+ ]
+}

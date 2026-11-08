@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "habtamumamo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5p350kef",
+ "id": "pe_5p350kef",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25874476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25874476"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Habtamu Mamo"
+  },
+  "romanized": "Habtamu Mamo",
+  "sort_key": "habtamumamo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25874476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5p350kef",
+     "name": "Habtamu Mamo",
+     "role": "author",
+     "romanized": "Habtamu Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1xay1600",
+   "id": "wk_1xay1600",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "7 tegna Sebategna",
+    "script": "Ethi",
+    "text": "7ተኛ ሰባተኛ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

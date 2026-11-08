@@ -48,11 +48,22 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_147"
+  },
+  {
+   "@type": "Offer",
+   "price": "18.72",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=69845088"
   }
  ],
  "sameAs": [
   "https://hahubooks.com/single-product.php?jbook_code=jb_147",
-  "https://www.ethiobookreview.com/book/yiwesdal-menged-ymelsal-menged-adam-reta"
+  "https://www.ethiobookreview.com/book/yiwesdal-menged-ymelsal-menged-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=69845088"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -62,6 +73,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_e87kbvqt",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_63w5q400",
    "@type": "Book"
   }
  ]

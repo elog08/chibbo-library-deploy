@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "ababatola",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_snm0gs3h",
+ "id": "pe_snm0gs3h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21743853",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21743853"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40161565",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40161565"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62217654",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62217654"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abebe Tola"
+  },
+  "romanized": "Abebe Tola",
+  "sort_key": "abebetola"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21743853"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_snm0gs3h",
+     "name": "Abebe Tola",
+     "role": "author",
+     "romanized": "Abebe Tola"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_f446s6sb",
+   "id": "wk_f446s6sb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Selakoch",
+    "script": "Ethi",
+    "text": "ስላቆች (ሽሙጦች ሁለት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_snm0gs3h",
+     "name": "Abebe Tola",
+     "role": "author",
+     "romanized": "Abebe Tola"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_p5ddrgg2",
+   "id": "wk_p5ddrgg2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbe Tokichaw Mitsetoch (Shimutoch 3 KeSidet Ager)",
+    "script": "Ethi",
+    "text": "የአቤ ቶኪቻው ምፀቶች (ሽሙጦች 3 ከስደት አገር)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_snm0gs3h",
+     "name": "Abebe Tola",
+     "role": "author",
+     "romanized": "Abebe Tola"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xtxxgsa8",
+   "id": "wk_xtxxgsa8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbe Tokichaw Shemutoch",
+    "script": "Ethi",
+    "text": "የአቤ ቶኪቻው ሽሙጦች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_18bangrm",
+ "@type": "Book",
+ "alternateName": [
+  "Agetuni"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_474mth02",
+   "@type": "Person",
+   "name": "Mesfin W/Mariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አገቱኒ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=44475399"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=44475399"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f540dt78",
+   "@type": "Book"
+  }
+ ]
+}

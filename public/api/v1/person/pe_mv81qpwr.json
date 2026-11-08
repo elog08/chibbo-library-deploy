@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "dagimworkuadara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mv81qpwr",
+ "id": "pe_mv81qpwr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60236675",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60236675"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dagim Worku Adera"
+  },
+  "romanized": "Dagim Worku Adera",
+  "sort_key": "dagimworkuadera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60236675"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mv81qpwr",
+     "name": "Dagim Worku Adera",
+     "role": "author",
+     "romanized": "Dagim Worku Adera"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_twkhh191",
+   "id": "wk_twkhh191",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Linega n New (2007 ena Aykerew Yedemokrasi Mits'at)",
+    "script": "Ethi",
+    "text": "ሊነጋ ነው (2007 እና አይቀሬው የዴሞክራሲ ምጽኣት)"
+   },
+   "type": "work"
+  }
+ ]
+}

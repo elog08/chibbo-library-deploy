@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k08t0z3k",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5mmjss3j",
+   "@type": "Person",
+   "name": "Asefa Shiferaw"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Zemenawi enkokeleshe",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.38",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07859068"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07859068"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5rd2fetz",
+   "@type": "Book"
+  }
+ ]
+}

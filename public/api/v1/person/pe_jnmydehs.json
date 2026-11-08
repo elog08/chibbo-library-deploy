@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "amahasfaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jnmydehs",
+ "id": "pe_jnmydehs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63397000",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63397000"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ameha Asfaw"
+  },
+  "romanized": "Ameha Asfaw",
+  "sort_key": "amehaasfaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63397000"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_adtztra1",
+     "name": "Aklilu Yilma",
+     "role": "author",
+     "romanized": "Aklilu Yilma"
+    },
+    {
+     "id": "pe_gqmh7j5g",
+     "name": "Seltene Seyoum",
+     "role": "author",
+     "romanized": "Seltene Seyoum"
+    },
+    {
+     "id": "pe_jnmydehs",
+     "name": "Ameha Asfaw",
+     "role": "author",
+     "romanized": "Ameha Asfaw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a7r0jxpy",
+   "id": "wk_a7r0jxpy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXVI, No.2 (December 2003)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

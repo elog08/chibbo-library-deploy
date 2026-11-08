@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xa52xept",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Spiritual warfare",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.49",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=33824484"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=33824484"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yz4swp3k",
+   "@type": "Book"
+  }
+ ]
+}

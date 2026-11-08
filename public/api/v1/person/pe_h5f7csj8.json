@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "tsafiatiazazgabrasilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h5f7csj8",
+ "id": "pe_h5f7csj8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30610458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30610458"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86632628",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86632628"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsafie Tie'zaz Gebre Silase"
+  },
+  "romanized": "Tsafie Tie'zaz Gebre Silase",
+  "sort_key": "tsafietiezazgebresilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30610458"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h5f7csj8",
+     "name": "Tsafie Tie'zaz Gebre Silase",
+     "role": "author",
+     "romanized": "Tsafie Tie'zaz Gebre Silase"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1964?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dwhyq6fg",
+   "id": "wk_dwhyq6fg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarike Zemen Ze Dagmawi Minilik Niguse Negest ZeEthiopia",
+    "script": "Ethi",
+    "text": "ታሪከ ዘመን ዘ ዳግማዊ ምኒልክ ንጉሠ ነገሥት ዘኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 1964
+  }
+ ]
+}

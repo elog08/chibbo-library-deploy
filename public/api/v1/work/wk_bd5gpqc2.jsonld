@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bd5gpqc2",
+ "@type": "Book",
+ "alternateName": [
+  "Yidres LeBaletariku"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bk6w1ha6",
+   "@type": "Person",
+   "name": "Tesfaye Mekonnen"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ይድረስ ለባለታሪኩ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "27.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=43636998"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tesfaye Mekonnen (Second Edition 1993)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=43636998"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sbdn2pxy",
+   "@type": "Book"
+  }
+ ]
+}

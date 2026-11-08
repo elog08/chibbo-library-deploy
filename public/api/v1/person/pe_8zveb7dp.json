@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "mamushatamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8zveb7dp",
+ "id": "pe_8zveb7dp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20419145",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20419145"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83085761",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83085761"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mamushet Amare"
+  },
+  "romanized": "Mamushet Amare",
+  "sort_key": "mamushetamare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20419145"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8zveb7dp",
+     "name": "Mamushet Amare",
+     "role": "author",
+     "romanized": "Mamushet Amare"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zrycdnw9",
+   "id": "wk_zrycdnw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetegaredew Jegninet",
+    "script": "Ethi",
+    "text": "የተጋረደው ጀግንነት"
+   },
+   "type": "work"
+  }
+ ]
+}

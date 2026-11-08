@@ -62,12 +62,27 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_137"
+  },
+  {
+   "@type": "Offer",
+   "price": "19.08",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=96369543"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "OLand Printing &Publishing (Second Edition 2013)"
+ },
  "sameAs": [
   "https://addisbooks.com/book/gracha-qachiloch-by-adam-reta/",
   "https://hahubooks.com/single-product.php?jbook_code=jb_137",
-  "https://www.ethiobookreview.com/book/giracha-kachiloch-adam-reta"
+  "https://www.ethiobookreview.com/book/giracha-kachiloch-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=96369543"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -81,6 +96,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_rc28zdjv",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_8w6rkgkt",
    "@type": "Book"
   }
  ]

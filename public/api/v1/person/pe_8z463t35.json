@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "afaworkgabrayasus",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8z463t35",
+ "id": "pe_8z463t35",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26761322",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26761322"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49832535",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49832535"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Afework Gebre Eyesus"
+  },
+  "romanized": "Afework Gebre Eyesus",
+  "sort_key": "afeworkgebreeyesus"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26761322"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8z463t35",
+     "name": "Afework Gebre Eyesus",
+     "role": "author",
+     "romanized": "Afework Gebre Eyesus"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7dbs2awh",
+   "id": "wk_7dbs2awh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dagmawi Atse Minilik",
+    "script": "Ethi",
+    "text": "ዳግማዊ አጤ ሚኒሊክ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8z463t35",
+     "name": "Afework Gebre Eyesus",
+     "role": "author",
+     "romanized": "Afework Gebre Eyesus"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7x0amb3f",
+   "id": "wk_7x0amb3f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tobiya ena Atse Minilik (Two Books in one binding)",
+    "script": "Ethi",
+    "text": "ጦቢያና ዳግማዊ ዓፄ ሚኒልክ (ሁለት መጽሐፍ በአንድ ጥራዝ)"
+   },
+   "type": "work"
+  }
+ ]
+}

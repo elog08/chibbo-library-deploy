@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmihiratabasimara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jww8apb0",
+ "id": "pe_jww8apb0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36897378",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36897378"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mihireteab Asimare"
+  },
+  "romanized": "Memihir Mihireteab Asimare",
+  "sort_key": "memihirmihireteabasimare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=36897378"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jww8apb0",
+     "name": "Memihir Mihireteab Asimare",
+     "role": "author",
+     "romanized": "Memihir Mihireteab Asimare"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_behpjh0p",
+   "id": "wk_behpjh0p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tselote Bartos",
+    "script": "Ethi",
+    "text": "ጸሎተ ባርቶስ"
+   },
+   "type": "work"
+  }
+ ]
+}

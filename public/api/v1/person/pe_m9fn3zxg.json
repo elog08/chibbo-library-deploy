@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "kolonalmanagastuhamaryam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m9fn3zxg",
+ "id": "pe_m9fn3zxg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "kolonel menegestu ha maryam",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኮሎኔል መንግስቱ ኃ ማርያም"
+  },
+  "romanized": "kolonel menegestu ha maryam",
+  "sort_key": "ኮሎኔልመንግስቱሀማርያም"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_czxwqbg1.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ትግላችን፡_የኢትዮጵያ_ሕዝብ_አብዮታዊ_የትግል_ታሪክ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_m9fn3zxg",
+     "name": "ኮሎኔል መንግስቱ ኃ ማርያም",
+     "role": "author",
+     "romanized": "kolonel menegestu ha maryam"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_czxwqbg1",
+   "id": "wk_czxwqbg1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "teglachen",
+    "script": "Ethi",
+    "text": "ትግላችን"
+   },
+   "type": "work"
+  }
+ ]
+}

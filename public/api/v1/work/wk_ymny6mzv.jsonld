@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ymny6mzv",
+ "@type": "Book",
+ "alternateName": [
+  "Azeb"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_zz2xb8ts",
+   "@type": "Person",
+   "name": "Mesfin Habtemariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አዜብ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17940532"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17940532"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_exb8zap5",
+   "@type": "Book"
+  }
+ ]
+}

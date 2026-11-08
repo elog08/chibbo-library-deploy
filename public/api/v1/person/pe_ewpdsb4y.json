@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "asrasbakala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ewpdsb4y",
+ "id": "pe_ewpdsb4y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05313361",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05313361"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asres Bekele"
+  },
+  "romanized": "Asres Bekele",
+  "sort_key": "asresbekele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05313361"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ewpdsb4y",
+     "name": "Asres Bekele",
+     "role": "author",
+     "romanized": "Asres Bekele"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_2ke3wcae",
+   "id": "wk_2ke3wcae",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Prince of Habesha",
+    "script": "Ethi",
+    "text": "ሃበሻው ልዑል"
+   },
+   "type": "work"
+  }
+ ]
+}

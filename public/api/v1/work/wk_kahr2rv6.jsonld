@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_kahr2rv6",
+ "@type": "Book",
+ "alternateName": [
+  "Yebaht Mistir"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fvscp0mh",
+   "@type": "Person",
+   "name": "Robert T.Kiyosaki"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_0bfj95kr",
+   "@type": "Person",
+   "name": "Donald J Trump"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የሀብት ምስጢር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=03127790"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=03127790"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5rb2nz1a",
+   "@type": "Book"
+  }
+ ]
+}

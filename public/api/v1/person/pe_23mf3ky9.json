@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmakonanabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_23mf3ky9",
+ "id": "pe_23mf3ky9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29489918",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29489918"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mekonen Abreha"
+  },
+  "romanized": "Memihir Mekonen Abreha",
+  "sort_key": "memihirmekonenabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29489918"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_23mf3ky9",
+     "name": "Memihir Mekonen Abreha",
+     "role": "author",
+     "romanized": "Memihir Mekonen Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_120wgxy8",
+   "id": "wk_120wgxy8",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sekoka Ze Senbel",
+    "script": "Ethi",
+    "text": "ሰቆቃ ዘ ሰንበል"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5q6xg18z",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopia My Homeland"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_068seyfh",
+   "@type": "Person",
+   "name": "Selamawit Solomon"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994431939",
+ "name": "ኢትዮጵያ ሀገሬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84495068"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=84495068"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nqs5qf8x",
+   "@type": "Book"
+  }
+ ]
+}

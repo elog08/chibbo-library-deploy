@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "zamadkuna",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ze7a44jk",
+ "id": "pe_ze7a44jk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96732826",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96732826"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zemedkun A"
+  },
+  "romanized": "Zemedkun A",
+  "sort_key": "zemedkuna"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96732826"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ze7a44jk",
+     "name": "Zemedkun A",
+     "role": "author",
+     "romanized": "Zemedkun A"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_chv13vf5",
+   "id": "wk_chv13vf5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeChichiniya Mistirawi Lelitoch (Endewerede)",
+    "script": "Ethi",
+    "text": "የቺቺኒያ ምስጢራዊ ለሊቶች (እንደ ወረደ!)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

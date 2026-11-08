@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirbatrababaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bmknbd7v",
+ "id": "pe_bmknbd7v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99200262",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99200262"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Betre Abebaw"
+  },
+  "romanized": "Memihir Betre Abebaw",
+  "sort_key": "memihirbetreabebaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99200262"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bmknbd7v",
+     "name": "Memihir Betre Abebaw",
+     "role": "author",
+     "romanized": "Memihir Betre Abebaw"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_k8kymxhg",
+   "id": "wk_k8kymxhg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meseretawi Yegeez Kuankua Memariya (Nu Nitmehar Lisane Geez)",
+    "script": "Ethi",
+    "text": "መሠረታዊ የግእዝ ቋንቋ መማሪያ (ንዑ ንትመህር ልሳነ ግእዝ)"
+   },
+   "type": "work"
+  }
+ ]
+}

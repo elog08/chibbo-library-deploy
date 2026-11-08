@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "dabtrakinfa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_neg4dmfd",
+ "id": "pe_neg4dmfd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01742448",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01742448"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Debtra Kinfe"
+  },
+  "romanized": "Debtra Kinfe",
+  "sort_key": "debtrakinfe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01742448"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_neg4dmfd",
+     "name": "Debtra Kinfe",
+     "role": "author",
+     "romanized": "Debtra Kinfe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2n87a50c",
+   "id": "wk_2n87a50c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fables of the People of Amhara (YeAmara Hizib Teretoch)",
+    "script": "Ethi",
+    "text": "የአማራ ሕዝብ ተረቶች"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_54v4ee6a",
+ "@type": "Book",
+ "alternateName": [
+  "Tehisos"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a3kanwqw",
+   "@type": "Person",
+   "name": "BeAman Netsere"
+  }
+ ],
+ "description": "ተህሶስ ተህሶስ 1",
+ "inLanguage": "am",
+ "name": "ተህሶስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=00004243"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=00004243"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_3z1byh5t",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "extensions": {},
+ "fingerprint": "solomontadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qjstrxx0",
+ "id": "pe_qjstrxx0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04559272",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04559272"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11909567",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11909567"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50649800",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50649800"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Tadesse"
+  },
+  "romanized": "Solomon Tadesse",
+  "sort_key": "solomontadesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04559272"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qjstrxx0",
+     "name": "Solomon Tadesse",
+     "role": "author",
+     "romanized": "Solomon Tadesse"
+    }
+   ],
+   "flags": [
+    "language-column-not-a-language",
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_bp890krf",
+   "id": "wk_bp890krf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesheger Wegoch 2",
+    "script": "Ethi",
+    "text": "የሸገር ወጎች 2"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qjstrxx0",
+     "name": "Solomon Tadesse",
+     "role": "author",
+     "romanized": "Solomon Tadesse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pchvsz1g",
+   "id": "wk_pchvsz1g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bole Peacock Gar Tebikign (Wegochina Metatifoch)",
+    "script": "Ethi",
+    "text": "ቦሌ ፒኮክ ጋር ጠብቂኝ (ወጎችና መጣጥፎች)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qjstrxx0",
+     "name": "Solomon Tadesse",
+     "role": "author",
+     "romanized": "Solomon Tadesse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qd00x5rg",
+   "id": "wk_qd00x5rg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSheger Wegoch (Wegochina Ewnetegna Tarikoch)",
+    "script": "Ethi",
+    "text": "የሸገር ወጎች (ወጎችና እውነተኛ ታሪኮች)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

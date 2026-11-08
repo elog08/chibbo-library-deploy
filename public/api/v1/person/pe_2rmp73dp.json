@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "dndanialkibrat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2rmp73dp",
+ "id": "pe_2rmp73dp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06471671",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06471671"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57154461",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57154461"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dn Daniel Kibret"
+  },
+  "romanized": "Dn Daniel Kibret",
+  "sort_key": "dndanielkibret"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06471671"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2rmp73dp",
+     "name": "Dn Daniel Kibret",
+     "role": "author",
+     "romanized": "Dn Daniel Kibret"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_j775h02y",
+   "id": "wk_j775h02y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Geography of nations and cities in the Bible",
+    "script": "Latn",
+    "text": "Geography of nations and cities in the Bible"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2rmp73dp",
+     "name": "Dn Daniel Kibret",
+     "role": "author",
+     "romanized": "Dn Daniel Kibret"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t71btyym",
+   "id": "wk_t71btyym",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye-Hulet Hawletoch weg ena leloch",
+    "script": "Latn",
+    "text": "Ye-Hulet Hawletoch weg ena leloch"
+   },
+   "type": "work"
+  }
+ ]
+}

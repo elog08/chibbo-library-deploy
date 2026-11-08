@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "paulrosanzwaig",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vbhw5m3j",
+ "id": "pe_vbhw5m3j",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31903666",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31903666"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paul Rosenzweig"
+  },
+  "romanized": "Paul Rosenzweig",
+  "sort_key": "paulrosenzweig"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31903666"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vbhw5m3j",
+     "name": "Paul Rosenzweig",
+     "role": "author",
+     "romanized": "Paul Rosenzweig"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2dkb12s4",
+   "id": "wk_2dkb12s4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "PROVERB",
+    "script": "Ethi",
+    "text": "ምሳሌያዊ አነጋገር"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

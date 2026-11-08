@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_y3xbeve0",
+ "@type": "Book",
+ "alternateName": [
+  "Hibire Lisan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_b4jg17v3",
+   "@type": "Person",
+   "name": "Deacon Kahisay Abreha"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994496044",
+ "name": "ኅብረ ልሳን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=29174556"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=29174556"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_q8qr8mta",
+   "@type": "Book"
+  }
+ ]
+}

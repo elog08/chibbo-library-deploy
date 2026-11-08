@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pj4bmzmx",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_grpq0y8g",
+   "@type": "Person",
+   "name": "Mulugeta Aklilu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tigestu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18094133"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18094133"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_s7487ayb",
+   "@type": "Book"
+  }
+ ]
+}

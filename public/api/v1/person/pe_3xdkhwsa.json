@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gaorgafhbarklay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3xdkhwsa",
+ "id": "pe_3xdkhwsa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66245250",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66245250"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "George F.H. Berkley"
+  },
+  "romanized": "George F.H. Berkley",
+  "sort_key": "georgefhberkley"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66245250"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3xdkhwsa",
+     "name": "George F.H. Berkley",
+     "role": "author",
+     "romanized": "George F.H. Berkley"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1982?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9c0z5sz0",
+   "id": "wk_9c0z5sz0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAdwa Zemechana YeAtse Minilik Anesas",
+    "script": "Ethi",
+    "text": "የዐድዋ ዘመቻና የአፄ ምኒልክ አነሣሥ"
+   },
+   "type": "work",
+   "year": 1982
+  }
+ ]
+}

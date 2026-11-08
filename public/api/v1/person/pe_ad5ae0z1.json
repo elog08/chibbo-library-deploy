@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_ad5ae0z1",
  "id": "pe_ad5ae0z1",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84151270",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84151270"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -36,6 +45,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ad5ae0z1",
+     "name": "ካሣዬ ጨመዳ",
+     "role": "author",
+     "romanized": "kasaye chemeda"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0egxct68",
+   "id": "wk_0egxct68",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTor Meda Wilowochina Sika",
+    "script": "Ethi",
+    "text": "የጦር ሜዳ ውሎዎችና ሲቃ"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_dp43jpdz.jpg",

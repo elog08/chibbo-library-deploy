@@ -27,15 +27,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/temherte-tewahdo-abebe-gashaye"
+  },
+  {
+   "@type": "Offer",
+   "price": "35.45",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=26046080"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/temherte-tewahdo-abebe-gashaye"
+  "https://www.ethiobookreview.com/book/temherte-tewahdo-abebe-gashaye",
+  "https://www.mereb.shop/rs/?mpid=26046080"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_qk4vcc33",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_a9ms208d",
    "@type": "Book"
   }
  ]

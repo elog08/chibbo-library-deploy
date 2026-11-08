@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hmariamwaldu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8d3q81xp",
+ "id": "pe_8d3q81xp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84500206",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84500206"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "H/mariam Weldu"
+  },
+  "romanized": "H/mariam Weldu",
+  "sort_key": "hmariamweldu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=84500206"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8d3q81xp",
+     "name": "H/mariam Weldu",
+     "role": "author",
+     "romanized": "H/mariam Weldu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2mzf7dyh",
+   "id": "wk_2mzf7dyh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hilfete Anja Weclick Ze'Ihapa (Ihapan Man Aferesew)",
+    "script": "Ethi",
+    "text": "ህልፈተ ኣንጃ ወ ክሊክ ዘ ኢሕአፓ (ኢሕአፓን ማን አፈረሰው?)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmangistasilasamasalu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pesqtb17",
+ "id": "pe_pesqtb17",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01393839",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01393839"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mengiste Silase Meselu"
+  },
+  "romanized": "Memihir Mengiste Silase Meselu",
+  "sort_key": "memihirmengistesilasemeselu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01393839"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pesqtb17",
+     "name": "Memihir Mengiste Silase Meselu",
+     "role": "author",
+     "romanized": "Memihir Mengiste Silase Meselu"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_8fkv7xdv",
+   "id": "wk_8fkv7xdv",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez BeGe'ez Trguame Wongel Zelukas WeYohannes (KeKedemu Abatoch Siwerd Siwared Yemetaw Nibabuna Tirguamew)",
+    "script": "Ethi",
+    "text": "ግዕዝ በግዕዝ ትርጓሜ ወንጌል ዘሉቃስ ወዮሐንስ (ከቀደሙ አባቶች ሲወርድ ሲዋረድ የመጣው ንባቡና ትርጓሜው)"
+   },
+   "type": "work"
+  }
+ ]
+}

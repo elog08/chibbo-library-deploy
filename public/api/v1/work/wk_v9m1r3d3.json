@@ -20,7 +20,14 @@
  "editions": [
   "ed_js5fnh8d"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "country-and-history"
+   ]
+  }
+ },
  "fingerprint": "ሶምሶማ|sirakwondamu",
  "flags": [],
  "href": "https://chibbo.app/work/wk_v9m1r3d3",
@@ -55,6 +62,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "country-and-history"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

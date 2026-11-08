@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasmazgaba",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3pj1n99m",
+ "id": "pe_3pj1n99m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96197915",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96197915"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yohannes Mezgebe"
+  },
+  "romanized": "Yohannes Mezgebe",
+  "sort_key": "yohannesmezgebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96197915"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3pj1n99m",
+     "name": "Yohannes Mezgebe",
+     "role": "author",
+     "romanized": "Yohannes Mezgebe"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_2ebtbc5w",
+   "id": "wk_2ebtbc5w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTigray Tornetna Mensewochu",
+    "script": "Ethi",
+    "text": "የትግራይ ጦርነትና መንስኤዎቹ"
+   },
+   "type": "work"
+  }
+ ]
+}

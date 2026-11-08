@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "drpatricalban",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ae5cy21y",
+ "id": "pe_ae5cy21y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98710787",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98710787"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Patric Alban"
+  },
+  "romanized": "Dr.Patric Alban",
+  "sort_key": "drpatricalban"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98710787"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p615de44",
+     "name": "Dean Alban",
+     "role": "author",
+     "romanized": "Dean Alban"
+    },
+    {
+     "id": "pe_ae5cy21y",
+     "name": "Dr.Patric Alban",
+     "role": "author",
+     "romanized": "Dr.Patric Alban"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4qad83z7",
+   "id": "wk_4qad83z7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ae'mron Mawek",
+    "script": "Ethi",
+    "text": "አእምሮን ማወቅ"
+   },
+   "type": "work"
+  }
+ ]
+}

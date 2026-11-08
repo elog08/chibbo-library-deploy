@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruyabdu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_af0txws0",
+ "id": "pe_af0txws0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03134771",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03134771"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Abdu"
+  },
+  "romanized": "Hiruy Abdu",
+  "sort_key": "hiruyabdu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03134771"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_28s0q4xt",
+     "name": "Jan Dvoracek",
+     "role": "author",
+     "romanized": "Jan Dvoracek"
+    },
+    {
+     "id": "pe_9tqy4cnq",
+     "name": "Jan Zahorik",
+     "role": "author",
+     "romanized": "Jan Zahorik"
+    },
+    {
+     "id": "pe_af0txws0",
+     "name": "Hiruy Abdu",
+     "role": "author",
+     "romanized": "Hiruy Abdu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_58pd0xpc",
+   "id": "wk_58pd0xpc",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLVII (December 2014)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

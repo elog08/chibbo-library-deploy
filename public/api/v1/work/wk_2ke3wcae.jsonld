@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2ke3wcae",
+ "@type": "Book",
+ "alternateName": [
+  "The Prince of Habesha"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ewpdsb4y",
+   "@type": "Person",
+   "name": "Asres Bekele"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሃበሻው ልዑል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05313361"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05313361"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_stwh2cf5",
+   "@type": "Book"
+  }
+ ]
+}

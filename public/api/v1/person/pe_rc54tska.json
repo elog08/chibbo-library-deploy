@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "abarababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rc54tska",
+ "id": "pe_rc54tska",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00058452",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00058452"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abere Abebe"
+  },
+  "romanized": "Abere Abebe",
+  "sort_key": "abereabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00058452"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rc54tska",
+     "name": "Abere Abebe",
+     "role": "author",
+     "romanized": "Abere Abebe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6btsdtt3",
+   "id": "wk_6btsdtt3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Meseretwai ye'werse hege maberareya",
+    "script": "Latn",
+    "text": "Meseretwai ye'werse hege maberareya"
+   },
+   "type": "work"
+  }
+ ]
+}

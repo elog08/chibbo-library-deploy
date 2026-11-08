@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "danialtafaraj",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0e9t4khw",
+ "id": "pe_0e9t4khw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84796660",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84796660"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Teferra J"
+  },
+  "romanized": "Daniel Teferra J",
+  "sort_key": "danielteferraj"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=84796660"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0e9t4khw",
+     "name": "Daniel Teferra J",
+     "role": "author",
+     "romanized": "Daniel Teferra J"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_40ea687e",
+   "id": "wk_40ea687e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeParlamaw Bestejerba (Yetekeberu Ato Temesgen Zewdie Hywetina Yepoletika Kuchit)",
+    "script": "Ethi",
+    "text": "ከፓርላማው በስተጀርባ (የተከበሩ ኣቶ ተመስገን ዘውዴ ሕይወትና የፖለቲካ ቁጭት)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

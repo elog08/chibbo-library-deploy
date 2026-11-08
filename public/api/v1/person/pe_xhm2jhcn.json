@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "normanvincantpala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xhm2jhcn",
+ "id": "pe_xhm2jhcn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30368004",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30368004"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81152530",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81152530"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Norman Vincent Peale"
+  },
+  "romanized": "Norman Vincent Peale",
+  "sort_key": "normanvincentpeale"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30368004"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xhm2jhcn",
+     "name": "Norman Vincent Peale",
+     "role": "author",
+     "romanized": "Norman Vincent Peale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6q61sjfn",
+   "id": "wk_6q61sjfn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSiket Kulfi",
+    "script": "Ethi",
+    "text": "የስኬት ቁልፍ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xhm2jhcn",
+     "name": "Norman Vincent Peale",
+     "role": "author",
+     "romanized": "Norman Vincent Peale"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7g8tzxz8",
+   "id": "wk_7g8tzxz8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Siketama Asitesaseb",
+    "script": "Ethi",
+    "text": "ስኬታማ አስተሳሰብ"
+   },
+   "type": "work"
+  }
+ ]
+}

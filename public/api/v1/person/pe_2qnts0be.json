@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirabrahamaraga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2qnts0be",
+ "id": "pe_2qnts0be",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21608178",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21608178"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97503277",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97503277"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Abraham Arega"
+  },
+  "romanized": "Memihir Abraham Arega",
+  "sort_key": "memihirabrahamarega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21608178"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2qnts0be",
+     "name": "Memihir Abraham Arega",
+     "role": "author",
+     "romanized": "Memihir Abraham Arega"
+    },
+    {
+     "id": "pe_hwkxqxm1",
+     "name": "Memihr Nebeyouleul Adamu",
+     "role": "author",
+     "romanized": "Memihr Nebeyouleul Adamu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_46rpyqqq",
+   "id": "wk_46rpyqqq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihaf Tsehay Tirguame Orit",
+    "script": "Ethi",
+    "text": "መጽሐፈ ፀሐይ ትርጓሜ ኦሪት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2qnts0be",
+     "name": "Memihir Abraham Arega",
+     "role": "author",
+     "romanized": "Memihir Abraham Arega"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qrpt0jjy",
+   "id": "wk_qrpt0jjy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hibire Sir'eat Zebete Christian Orthodoksawit",
+    "script": "Ethi",
+    "text": "ኅብረ ሥርዐት ዘቤት ክርስቲያን ኦርቶዶክሳዊት"
+   },
+   "type": "work"
+  }
+ ]
+}

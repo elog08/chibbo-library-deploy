@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "davidhutcharchitdras",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4y1mvsfe",
+ "id": "pe_4y1mvsfe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11701011",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11701011"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "David Hutcher Chitdress"
+  },
+  "romanized": "David Hutcher Chitdress",
+  "sort_key": "davidhutcherchitdress"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11701011"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4y1mvsfe",
+     "name": "David Hutcher Chitdress",
+     "role": "author",
+     "romanized": "David Hutcher Chitdress"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_s5y4pyq6",
+   "id": "wk_s5y4pyq6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMuse Tabot (KeIrael Eske Ethiopia)",
+    "script": "Ethi",
+    "text": "የሙሴ ታቦት (ከእስራኤል እስከ ኢትዮጵያ)"
+   },
+   "type": "work"
+  }
+ ]
+}

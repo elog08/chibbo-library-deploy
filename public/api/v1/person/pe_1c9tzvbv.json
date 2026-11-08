@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "taklamadihinsayoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1c9tzvbv",
+ "id": "pe_1c9tzvbv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35413272",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35413272"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54173841",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54173841"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Teklemedihin Seyoum"
+  },
+  "romanized": "Teklemedihin Seyoum",
+  "sort_key": "teklemedihinseyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=35413272"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1c9tzvbv",
+     "name": "Teklemedihin Seyoum",
+     "role": "author",
+     "romanized": "Teklemedihin Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4pxqzqe6",
+   "id": "wk_4pxqzqe6",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Serihna Zeynbele",
+    "script": "Ethi",
+    "text": "ሰሪሕና ዘይንበልዕ"
+   },
+   "type": "work",
+   "year": 2009
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_1c9tzvbv",
+     "name": "Teklemedihin Seyoum",
+     "role": "author",
+     "romanized": "Teklemedihin Seyoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xrdyzcnw",
+   "id": "wk_xrdyzcnw",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meleben Ya Aygeberka Melebemn Ke AyKalae'Ka",
+    "script": "Ethi",
+    "text": "መለበን ያ ኣይገበርካ መለበን ከ ኣይኻላእኻ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

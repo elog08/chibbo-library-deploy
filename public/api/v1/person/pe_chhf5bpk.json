@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "gabrayohanasgabaramariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_chhf5bpk",
+ "id": "pe_chhf5bpk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01527235",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01527235"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebreyohannes Geberemariam"
+  },
+  "romanized": "Gebreyohannes Geberemariam",
+  "sort_key": "gebreyohannesgeberemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01527235"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_chhf5bpk",
+     "name": "Gebreyohannes Geberemariam",
+     "role": "author",
+     "romanized": "Gebreyohannes Geberemariam"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_g76rzsgw",
+   "id": "wk_g76rzsgw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedile Hawariyat",
+    "script": "Ethi",
+    "text": "ገድለ ሐዋርያት"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

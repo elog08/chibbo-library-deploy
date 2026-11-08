@@ -1,0 +1,112 @@
+{
+ "cover": {
+  "bytes": 99128,
+  "path": "assets/covers/wk_ad35ewyn.png",
+  "sha256": "771747842ac481b4a92833dc552aa6f2b7166280cdac0677d5660939997de4f5",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ad35ewyn.png"
+ },
+ "credits": [],
+ "description": {
+  "lang": "en",
+  "script": "Latn",
+  "text": "book of enoch ethiopian orthodox church"
+ },
+ "editions": [
+  "ed_mdd4cs7y",
+  "ed_kyemn575"
+ ],
+ "extensions": {},
+ "fingerprint": "መጽሀፈሄኖክ|",
+ "first_published": {
+  "alternates": [
+   "2018-09-11/2019-09-11"
+  ],
+  "edtf": "2011?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2011"
+  }
+ },
+ "flags": [
+  "language-inferred-from-script",
+  "calendar-ambiguous",
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/work/wk_qrmytc5v",
+ "id": "wk_qrmytc5v",
+ "identifiers": {
+  "mereb_mpid": [
+   "86490061"
+  ],
+  "pdf_pagehash": [
+   "00023e0e16040000",
+   "000f2b2f23372300",
+   "013237333f1f1700",
+   "20151149531327c0",
+   "61714d4d71784920"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86490061",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86490061"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "28.22",
+   "provider": "mereb",
+   "ref": "86490061",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86490061"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: መጽሐፈ ሄኖክ @eotc_books_by_pdf join.pdf",
+  "The year is printed in Ge'ez numerals as ፲፱፻፺፫ ዓ.ም. (1993 E.C.).",
+  "Also held as PDF: የትምህርትና_የተማሪ_ቤት_ትርጉም_ሐዲስ_ዓለማየሁ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=86490061"
+ },
+ "publisher_name": "Tesfa Geberesilase Zebhere Bullga",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Metshafe Henok",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መጽሐፈ ሄኖክ"
+  },
+  "romanized": "Metshafe Henok",
+  "sort_key": "መጽሀፈሄኖክ"
+ },
+ "type": "work"
+}

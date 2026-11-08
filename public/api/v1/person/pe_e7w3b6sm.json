@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abatsafasilasamogas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e7w3b6sm",
+ "id": "pe_e7w3b6sm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81268737",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81268737"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Tsefas Silase Moges"
+  },
+  "romanized": "Aba Tsefas Silase Moges",
+  "sort_key": "abatsefassilasemoges"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81268737"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e7w3b6sm",
+     "name": "Aba Tsefas Silase Moges",
+     "role": "author",
+     "romanized": "Aba Tsefas Silase Moges"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yz5cqp0a",
+   "id": "wk_yz5cqp0a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBBC (B.B.C) YeTiyake Tibebochina Yeaba TesfaSelase Yemistir Mels",
+    "script": "Ethi",
+    "text": "የቢ.ቢ.ሲ.(B.B.C.)የጥያቄ ጥበቦችና የአባ ተስፋ ሥላሴ የምሥጢር መልስ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

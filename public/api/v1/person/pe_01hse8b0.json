@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "28",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_01hse8b0",
+ "id": "pe_01hse8b0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91905572",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91905572"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Zyyy",
+   "text": "228"
+  },
+  "romanized": "228",
+  "sort_key": "228"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=91905572"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_01hse8b0",
+     "name": "228",
+     "role": "author",
+     "romanized": "228"
+    },
+    {
+     "id": "pe_vrkkx2m5",
+     "name": "ተስፋዬ ገብረአብ",
+     "role": "author",
+     "romanized": "Tesfaye Gebreab"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_j2qrbcqd",
+   "id": "wk_j2qrbcqd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yalitemelesew Babur",
+    "script": "Ethi",
+    "text": "ያልተመለሰው ባቡር"
+   },
+   "type": "work"
+  }
+ ]
+}

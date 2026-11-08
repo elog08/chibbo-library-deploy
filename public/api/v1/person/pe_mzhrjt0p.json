@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasatalasalbano",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mzhrjt0p",
+ "id": "pe_mzhrjt0p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46540315",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46540315"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95547719",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95547719"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadesse Tele Selbano"
+  },
+  "romanized": "Tadesse Tele Selbano",
+  "sort_key": "tadesseteleselbano"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46540315"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mzhrjt0p",
+     "name": "Tadesse Tele Selbano",
+     "role": "author",
+     "romanized": "Tadesse Tele Selbano"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_269yqqz1",
+   "id": "wk_269yqqz1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kisim Yeseberew Erimija",
+    "script": "Ethi",
+    "text": "ቅስም የሰበረው ርምጃ"
+   },
+   "type": "work",
+   "year": 1993
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mzhrjt0p",
+     "name": "Tadesse Tele Selbano",
+     "role": "author",
+     "romanized": "Tadesse Tele Selbano"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_708bagvm",
+   "id": "wk_708bagvm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAnabist Midir (YeEthiopia Serawit Yetarik Zegeba Ke1927-1983 E.C)",
+    "script": "Ethi",
+    "text": "የአናብስት ምድር (የኢትዮጵያ ሠራዊት የታሪክ ዘገባ ከ1927-1983ዓ.ም)"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

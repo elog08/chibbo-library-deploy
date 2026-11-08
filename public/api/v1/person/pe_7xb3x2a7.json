@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirbatsihalamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7xb3x2a7",
+ "id": "pe_7xb3x2a7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32611861",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32611861"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83367457",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83367457"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84591459",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84591459"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Betsiha Alemu"
+  },
+  "romanized": "Memihir Betsiha Alemu",
+  "sort_key": "memihirbetsihaalemu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32611861"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7xb3x2a7",
+     "name": "Memihir Betsiha Alemu",
+     "role": "author",
+     "romanized": "Memihir Betsiha Alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4yjcmjkn",
+   "id": "wk_4yjcmjkn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ta'odokos",
+    "script": "Ethi",
+    "text": "ታኦዶኮስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7xb3x2a7",
+     "name": "Memihir Betsiha Alemu",
+     "role": "author",
+     "romanized": "Memihir Betsiha Alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_abab8vvf",
+   "id": "wk_abab8vvf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitiha Negest Min Ale?",
+    "script": "Ethi",
+    "text": "ፍትሐ ነገሥት ምን አለ?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7xb3x2a7",
+     "name": "Memihir Betsiha Alemu",
+     "role": "author",
+     "romanized": "Memihir Betsiha Alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wn55z4qw",
+   "id": "wk_wn55z4qw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mi'eladeTibeb",
+    "script": "Ethi",
+    "text": "ምዕላደ ጥበብ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drhailawmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yxfp5t5z",
+ "id": "pe_yxfp5t5z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54276181",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54276181"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Haile W/Michael"
+  },
+  "romanized": "Dr. Haile W/Michael",
+  "sort_key": "drhailewmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54276181"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yxfp5t5z",
+     "name": "Dr. Haile W/Michael",
+     "role": "author",
+     "romanized": "Dr. Haile W/Michael"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_82xeak6x",
+   "id": "wk_82xeak6x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abironet BeEthiopia",
+    "script": "Ethi",
+    "text": "አብሮነት በኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

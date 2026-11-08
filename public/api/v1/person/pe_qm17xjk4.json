@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drzufanlakaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qm17xjk4",
+ "id": "pe_qm17xjk4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99373789",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99373789"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Zufan Lakew"
+  },
+  "romanized": "Dr.Zufan Lakew",
+  "sort_key": "drzufanlakew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99373789"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qm17xjk4",
+     "name": "Dr.Zufan Lakew",
+     "role": "author",
+     "romanized": "Dr.Zufan Lakew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6pz35sqd",
+   "id": "wk_6pz35sqd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nefseturunet (Benefseturunetiwo Wekit liyawkut Yemiegeba)",
+    "script": "Ethi",
+    "text": "ነፍሰጥሩነት (በነፍሰጥሩነትዎ ወቅት ሊያውቁት የሚገባ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

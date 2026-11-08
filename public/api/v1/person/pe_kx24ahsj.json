@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "badonis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kx24ahsj",
+ "id": "pe_kx24ahsj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beadonis",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በአዶኒስ"
+  },
+  "romanized": "beadonis",
+  "sort_key": "በአዶኒስ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vcd76s3x.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/መግባት-እና-መውጣት.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_kx24ahsj",
+     "name": "በአዶኒስ",
+     "role": "author",
+     "romanized": "beadonis"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_vcd76s3x",
+   "id": "wk_vcd76s3x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeana mastawesha",
+    "script": "Ethi",
+    "text": "የአና ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

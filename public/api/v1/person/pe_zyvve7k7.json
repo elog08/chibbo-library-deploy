@@ -1,0 +1,100 @@
+{
+ "extensions": {},
+ "fingerprint": "gabarasilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zyvve7k7",
+ "id": "pe_zyvve7k7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00315882",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00315882"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84508709",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84508709"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebere Silase"
+  },
+  "romanized": "Gebere Silase",
+  "sort_key": "geberesilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00315882"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zyvve7k7",
+     "name": "Gebere Silase",
+     "role": "author",
+     "romanized": "Gebere Silase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a0vd35be",
+   "id": "wk_a0vd35be",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kegedilat Anidebet ku.2",
+    "script": "Ethi",
+    "text": "ከገድላት አንደበት ቁ 2"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_zyvve7k7",
+     "name": "Gebere Silase",
+     "role": "author",
+     "romanized": "Gebere Silase"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_fhwr8yjt",
+   "id": "wk_fhwr8yjt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melka Gubae (Ke380 Belay Yeteleyayu Mekea Melkochina Misganawochin Ateqalo Yeyaze (Kits ande ena Hulet)(Two books)",
+    "script": "Ethi",
+    "text": "መልክዐ ጉባኤ (ከ380 በላይ የተለያዩ መልክዐ መልኮችንና ምስጋናዎችን አጠቃሎ የያዝ (ቅጽ አንድ እና ሁለት)(ሁለት ጥራዝ)"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

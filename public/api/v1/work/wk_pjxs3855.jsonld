@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pjxs3855",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z7a16fbq",
+   "@type": "Person",
+   "name": "Getachew Weleyu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'abay guada",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.49",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=70532845"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=70532845"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tyexanys",
+   "@type": "Book"
+  }
+ ]
+}

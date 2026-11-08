@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "amuanginars",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0m2htmcn",
+ "id": "pe_0m2htmcn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83212103",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83212103"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Amu Engineers"
+  },
+  "romanized": "Amu Engineers",
+  "sort_key": "amuengineers"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83212103"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0m2htmcn",
+     "name": "Amu Engineers",
+     "role": "author",
+     "romanized": "Amu Engineers"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_r600k3hb",
+   "id": "wk_r600k3hb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sebatu Dirsanat Wemelkea",
+    "script": "Ethi",
+    "text": "ሰባቱ ድርሳናት ወመልክአ"
+   },
+   "type": "work"
+  }
+ ]
+}

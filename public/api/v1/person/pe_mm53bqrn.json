@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hailamariamangasha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mm53bqrn",
+ "id": "pe_mm53bqrn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99514524",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99514524"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hailemariam Mengesha"
+  },
+  "romanized": "Hailemariam Mengesha",
+  "sort_key": "hailemariammengesha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99514524"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mm53bqrn",
+     "name": "Hailemariam Mengesha",
+     "role": "author",
+     "romanized": "Hailemariam Mengesha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yad5bppr",
+   "id": "wk_yad5bppr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mot Amiba Derso Mels",
+    "script": "Ethi",
+    "text": "ሞት አምባ ደርሶ መልስ መልስ"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

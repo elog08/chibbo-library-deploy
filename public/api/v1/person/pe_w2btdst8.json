@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "tayasafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w2btdst8",
+ "id": "pe_w2btdst8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99673811",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99673811"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Taye Assefa"
+  },
+  "romanized": "Taye Assefa",
+  "sort_key": "tayeassefa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99673811"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dt02mfz2",
+     "name": "Grover Hudson",
+     "role": "author",
+     "romanized": "Grover Hudson"
+    },
+    {
+     "id": "pe_w2btdst8",
+     "name": "Taye Assefa",
+     "role": "author",
+     "romanized": "Taye Assefa"
+    },
+    {
+     "id": "pe_smxzkdev",
+     "name": "ባሕሩ ዘውዴ",
+     "role": "author",
+     "romanized": "bahru zewde"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2000?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1d7sw6bf",
+   "id": "wk_1d7sw6bf",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXIII, No.2 (November 2000)(Special Issue Dedicated to the XIVth International Conference of Ethiopian Studies)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2000
+  }
+ ]
+}

@@ -15,6 +15,7 @@
    "name": "ሀብታሙ አለባቸው"
   }
  ],
+ "datePublished": "2014?",
  "image": "https://hahubooks.com/resource/img/%E1%8A%A0%E1%8B%8D%E1%88%AE%E1%88%AB.jpg",
  "inLanguage": "am",
  "name": "አውሮራ",
@@ -38,15 +39,34 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_165"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.35",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=52208241"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Habtamu Alebachew"
+ },
  "sameAs": [
-  "https://hahubooks.com/single-product.php?jbook_code=jb_165"
+  "https://hahubooks.com/single-product.php?jbook_code=jb_165",
+  "https://www.mereb.shop/rs/?mpid=52208241"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_31z6rm5g",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_242rf4z1",
    "@type": "Book"
   }
  ]

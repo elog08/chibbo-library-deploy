@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_qam095mp",
  "id": "pe_qam095mp",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72979869",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72979869"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -35,6 +44,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qam095mp",
+     "name": "በረደድ ገዳሙ እሸቴ",
+     "role": "author",
+     "romanized": "Bereded Gedamu Eshete"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_g1bd0a2y",
+   "id": "wk_g1bd0a2y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Simur",
+    "script": "Ethi",
+    "text": "ስሙር"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_q3ghceva.webp",

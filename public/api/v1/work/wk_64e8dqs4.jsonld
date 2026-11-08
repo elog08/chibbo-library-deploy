@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_64e8dqs4",
+ "@type": "Book",
+ "alternateName": [
+  "Megibote Egziabher"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hcykb58a",
+   "@type": "Person",
+   "name": "Saint Yohannes Afework"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መግቦተ እግዚአብሔር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71286154"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71286154"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_19hf5vzm",
+   "@type": "Book"
+  }
+ ]
+}

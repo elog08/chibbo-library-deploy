@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ajc2v322",
+ "@type": "Book",
+ "alternateName": [
+  "Ene ena Ante"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_m632jvt3",
+   "@type": "Person",
+   "name": "Ashagire Tadesse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "እኔና አንተ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=27010365"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=27010365"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vqx6c8c0",
+   "@type": "Book"
+  }
+ ]
+}

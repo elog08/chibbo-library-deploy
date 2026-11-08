@@ -1,0 +1,75 @@
+{
+ "extensions": {},
+ "fingerprint": "profasoribrahimamani",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7bs6fn1a",
+ "id": "pe_7bs6fn1a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80608482",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80608482"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Professor Ibrahim Amani"
+  },
+  "romanized": "Professor Ibrahim Amani",
+  "sort_key": "professoribrahimamani"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80608482"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7bs6fn1a",
+     "name": "Professor Ibrahim Amani",
+     "role": "author",
+     "romanized": "Professor Ibrahim Amani"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-unrecognised",
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d4jqdq1n",
+   "id": "wk_d4jqdq1n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fikirina Gabicha",
+    "script": "Ethi",
+    "text": "ፍቅርና ጋብቻ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

@@ -16,6 +16,7 @@
    "name": "እንዳለጌታ ከበደ"
   }
  ],
+ "datePublished": "2011?",
  "image": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/5f724845-681e-46e3-81ec-7f4084d4e822YeMegnitaBetMisteroch.png",
  "inLanguage": "am",
  "name": "የመኝታ ቤት ምስጢሮች",
@@ -39,15 +40,34 @@
     "name": "afroread_book"
    },
    "url": "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822"
+  },
+  {
+   "@type": "Offer",
+   "price": "16.01",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=68020807"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Fareast Trading P.L.C"
+ },
  "sameAs": [
-  "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822"
+  "https://afroreadapp.com/Store/Bookdetail/5f724845-681e-46e3-81ec-7f4084d4e822",
+  "https://www.mereb.shop/rs/?mpid=68020807"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_jbt5z9hb",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_02jc0aj1",
    "@type": "Book"
   }
  ]

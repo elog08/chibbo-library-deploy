@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drsolomonmamowuba",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bnr8zhjx",
+ "id": "pe_bnr8zhjx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71324799",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71324799"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Solomon Mamo Wube"
+  },
+  "romanized": "Dr.Solomon Mamo Wube",
+  "sort_key": "drsolomonmamowube"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=71324799"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bnr8zhjx",
+     "name": "Dr.Solomon Mamo Wube",
+     "role": "author",
+     "romanized": "Dr.Solomon Mamo Wube"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4msy4kxj",
+   "id": "wk_4msy4kxj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeLijnet Chewatawoch",
+    "script": "Ethi",
+    "text": "የልጅነት ጨዋታዎች"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

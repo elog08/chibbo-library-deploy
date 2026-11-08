@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ababatrahaymanot",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yzvd37np",
+ "id": "pe_yzvd37np",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55058458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55058458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aba Betre Haymanot"
+  },
+  "romanized": "Aba Betre Haymanot",
+  "sort_key": "ababetrehaymanot"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55058458"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j2fjk0a9",
+     "name": "Deacon Yohannes Mekonnen",
+     "role": "author",
+     "romanized": "Deacon Yohannes Mekonnen"
+    },
+    {
+     "id": "pe_yzvd37np",
+     "name": "Aba Betre Haymanot",
+     "role": "author",
+     "romanized": "Aba Betre Haymanot"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2023",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_wevsy32h",
+   "id": "wk_wevsy32h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sebatu Mistirate Bete Christian",
+    "script": "Ethi",
+    "text": "ሰባቱ ምሥጢራተ ቤተ ክርስቲያን"
+   },
+   "type": "work",
+   "year": 2023
+  }
+ ]
+}

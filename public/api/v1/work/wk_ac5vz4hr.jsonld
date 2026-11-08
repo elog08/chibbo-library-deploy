@@ -22,5 +22,30 @@
  "genre": "novel",
  "inLanguage": "am",
  "name": "ከአድማስ ባሻገር",
- "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/"
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "17.12",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=58513449"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mankusa Publishers (Last Edition 2012 (First Edition 1970))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=58513449"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_18r62kc8",
+   "@type": "Book"
+  }
+ ]
 }

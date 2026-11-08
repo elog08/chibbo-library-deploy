@@ -1,0 +1,125 @@
+{
+ "extensions": {},
+ "fingerprint": "kanfolat",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_m3r89anm",
+ "id": "pe_m3r89anm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31433472",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31433472"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ken folet",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Ken Follet",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ኬን ፎሌት"
+  },
+  "romanized": "ken folet",
+  "sort_key": "ኬንፎሌት"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሰላዩ ሚስጥር.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31433472"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_e25qh07q.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_e25qh07q.png"
+   },
+   "credits": [
+    {
+     "id": "pe_m3r89anm",
+     "name": "ኬን ፎሌት",
+     "role": "author",
+     "romanized": "ken folet"
+    },
+    {
+     "id": "pe_f5ntzpb2",
+     "name": "አበበ ሠይፈ",
+     "role": "author",
+     "romanized": "abebe seyfe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e25qh07q",
+   "id": "wk_e25qh07q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeselayu mestir",
+    "script": "Ethi",
+    "text": "የሰላዩ ምስጢር"
+   },
+   "type": "work",
+   "year": 1995
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_m3r89anm",
+     "name": "ኬን ፎሌት",
+     "role": "author",
+     "romanized": "ken folet"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rpk42dhj",
+   "id": "wk_rpk42dhj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Enistua Selay (Jackdaws)",
+    "script": "Ethi",
+    "text": "እንስቱኣ ሰላይ"
+   },
+   "type": "work"
+  }
+ ]
+}

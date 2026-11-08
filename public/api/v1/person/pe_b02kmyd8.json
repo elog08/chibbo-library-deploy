@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruysima",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b02kmyd8",
+ "id": "pe_b02kmyd8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72625524",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72625524"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Sime"
+  },
+  "romanized": "Hiruy Sime",
+  "sort_key": "hiruysime"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72625524"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b02kmyd8",
+     "name": "Hiruy Sime",
+     "role": "author",
+     "romanized": "Hiruy Sime"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s9xhp0hg",
+   "id": "wk_s9xhp0hg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ende YeAboye Anbessa !",
+    "script": "Ethi",
+    "text": "እንደ የአቦዬ አንበሳ!"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "extensions": {},
+ "fingerprint": "danisgarard",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hh07htzz",
+ "id": "pe_hh07htzz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63554882",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63554882"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Denis Gerard"
+  },
+  "romanized": "Denis Gerard",
+  "sort_key": "denisgerard"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63554882"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zw18nrd1",
+     "name": "Estelle Sohler",
+     "role": "author",
+     "romanized": "Estelle Sohler"
+    },
+    {
+     "id": "pe_hh07htzz",
+     "name": "Denis Gerard",
+     "role": "author",
+     "romanized": "Denis Gerard"
+    },
+    {
+     "id": "pe_kdx2smn7",
+     "name": "Giulia Bonacci",
+     "role": "author",
+     "romanized": "Giulia Bonacci"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2025",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_eft1pzc1",
+   "id": "wk_eft1pzc1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "HAILE SELASSIE (The Palace's photo Albums)(Les Albums Photo Du Palais)",
+    "script": "Ethi",
+    "text": "እዮቤልዩ ቤተመንግሥት የፎቶ አልበም"
+   },
+   "type": "work",
+   "year": 2025
+  }
+ ]
+}

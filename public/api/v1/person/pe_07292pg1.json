@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "adinanali",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07292pg1",
+ "id": "pe_07292pg1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25701083",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25701083"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50780409",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50780409"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Adinan Ali"
+  },
+  "romanized": "Adinan Ali",
+  "sort_key": "adinanali"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25701083"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07292pg1",
+     "name": "Adinan Ali",
+     "role": "author",
+     "romanized": "Adinan Ali"
+    },
+    {
+     "id": "pe_qzah44c2",
+     "name": "አለማየሁ ገላጋይ",
+     "role": "author",
+     "romanized": "Alemayehu Gelagay"
+    },
+    {
+     "id": "pe_js9bg2c5",
+     "name": "Lelisa Girma",
+     "role": "author",
+     "romanized": "Lelisa Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7whwwgw4",
+   "id": "wk_7whwwgw4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alfa-Terek (Ye11 Derasiyan Sirawoch)",
+    "script": "Ethi",
+    "text": "አልፋ-ተረክ (የ፲፩ ደራሲያን ስራዎች)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_07292pg1",
+     "name": "Adinan Ali",
+     "role": "author",
+     "romanized": "Adinan Ali"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vnx9qkn2",
+   "id": "wk_vnx9qkn2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Burjan",
+    "script": "Ethi",
+    "text": "ቡርጃን"
+   },
+   "type": "work"
+  }
+ ]
+}

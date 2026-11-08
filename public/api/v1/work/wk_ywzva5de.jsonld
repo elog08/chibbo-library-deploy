@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ywzva5de",
+ "@type": "Book",
+ "alternateName": [
+  "Kendura"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_95xrzrvm",
+   "@type": "Person",
+   "name": "Ayalew Weretaw"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ከንዱራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.25",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=46599168"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=46599168"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5r295ch5",
+   "@type": "Book"
+  }
+ ]
+}

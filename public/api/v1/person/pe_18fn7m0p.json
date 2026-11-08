@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tslataw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_18fn7m0p",
+ "id": "pe_18fn7m0p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53130610",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53130610"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ts.Le.Te.W"
+  },
+  "romanized": "Ts.Le.Te.W",
+  "sort_key": "tsletew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53130610"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_18fn7m0p",
+     "name": "Ts.Le.Te.W",
+     "role": "author",
+     "romanized": "Ts.Le.Te.W"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sejyw0hk",
+   "id": "wk_sejyw0hk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmarigna Nibab Melemameja (YeMelkam Tsebay Ena Sinemigibar Memaria)",
+    "script": "Ethi",
+    "text": "የአማርኛ ንባብ መለማመጃ (የመልካም ጸባይ እና ሥነ ምግባር መማሪያዬ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

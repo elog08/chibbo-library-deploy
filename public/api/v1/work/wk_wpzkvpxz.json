@@ -15,7 +15,14 @@
  "editions": [
   "ed_rhrcf7nj"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "የዘመንጠብታ|zarihuntadasa",
  "first_published": {
   "alternates": [
@@ -76,6 +83,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

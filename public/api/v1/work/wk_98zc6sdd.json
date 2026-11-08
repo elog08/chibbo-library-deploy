@@ -20,19 +20,27 @@
  "editions": [
   "ed_a0gea493",
   "ed_q590dd3m",
+  "ed_smvvhk8t",
   "ed_9zy0kthx"
  ],
  "extensions": {},
  "fingerprint": "የሱፍአበባ|habtamualabachaw",
  "first_published": {
-  "edtf": "2015-09-12/2016-09-10",
+  "alternates": [
+   "2023-09-12/2024-09-10"
+  ],
+  "edtf": "2016?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
   "original": {
-   "calendar": "ethiopic",
-   "value": "2008"
+   "calendar": "ambiguous",
+   "value": "2016"
   }
  },
  "flags": [
   "format-paper-back",
+  "calendar-ambiguous",
   "llm-extracted"
  ],
  "href": "https://chibbo.app/work/wk_98zc6sdd",
@@ -40,6 +48,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_36"
+  ],
+  "mereb_mpid": [
+   "17741626"
   ],
   "pdf_pagehash": [
    "0303031b03030300",
@@ -105,6 +116,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_36"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17741626",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17741626"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "9.43",
+   "provider": "mereb",
+   "ref": "17741626",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17741626"
   }
  ],
  "locked_fields": [],
@@ -119,7 +148,7 @@
   "source_url": "https://www.ethiobookreview.com/book/yesuf-abeba"
  },
  "publication_place": "አዲስ አበባ",
- "publisher_name": "ሊተማን ቡክስ",
+ "publisher_name": "Habtamu Alebachew",
  "relations": [],
  "rights": {
   "shippable": false,

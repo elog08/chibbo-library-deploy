@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Books — page 74</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Books</a>
+    <a href="../people/page-1.html">Authors</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../works/page-1.html"><span itemprop="name">Books</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 74</span><meta itemprop="position" content="3"></li></ol></nav>
+<h1>Books</h1><ul class="grid"><li class="card">
+  <a class="thumb" href="../work/wk_63cv1dfg.html"><div class="placeholder" lang="am">የኢትዮ-ኤርትራ ጦርነትና የፆረና ግንባር ተጋድሎ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_63cv1dfg.html">የኢትዮ-ኤርትራ ጦርነትና የፆረና ግንባር ተጋድሎ</a>
+  <span class="r">YeEthio-Eritrea Torinetina Yetsorena Ginbar Tegadilo</span>
+  <span class="a">Yematawerk Tegegn (Mikitil Asir Aleka)</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fdacj2jz.html"><div class="placeholder" lang="am">የኢትዮጲያ የአምስት ሺህ ታሪክ(ከኖህ እስከ ኢህአዴግ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_fdacj2jz.html">የኢትዮጲያ የአምስት ሺህ ታሪክ(ከኖህ እስከ ኢህአዴግ)</a>
+  <span class="r">YE Ethiopia Ye Amist Shi Tarik(Ke Noah Eske E&#x27;hadeg)</span>
+  <span class="a">Fisseha Yaze Kasa · 2011</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hw0ffv2f.html"><img src="../assets/covers/wk_hw0ffv2f.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_hw0ffv2f.html">የኢትዮጵያ ሃይማኖት ባህልና ታሪክ</a>
+  <span class="r">yeityopya haymanot bahelna tarik</span>
+  <span class="a">ዳንኤል ገብረመስቀል · 2013</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f6htd2ms.html"><div class="placeholder" lang="am">የኢትዮጵያ ሃይማኖት ባህልና ታሪክ (የአለቃ አያሌው ታምሩ ትምህርትና </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_f6htd2ms.html">የኢትዮጵያ ሃይማኖት ባህልና ታሪክ (የአለቃ አያሌው ታምሩ ትምህርትና ቃለስብከት)</a>
+  <span class="r">YeEthiopia Haymanot Bahilina Tarik (YeAlekaAyalew Tamiru Timihirtina Kalesibiket)</span>
+  <span class="a">Daniel G/Meskel Keno</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_61h3bzcj.html"><div class="placeholder" lang="am">የኢትዮጵያ ሕዝብ ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_61h3bzcj.html">የኢትዮጵያ ሕዝብ ታሪክ</a>
+  <span class="r">YeEthiopia Hizib Tarik</span>
+  <span class="a">Aleka Taye</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8xn2m61k.html"><img src="../assets/covers/wk_8xn2m61k.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_8xn2m61k.html">የኢትዮጵያ ሕዝብ ታሪክ</a>
+  <span class="r">yeityopya hezeb tarik</span>
+  <span class="a">አለቃ ታዬ · 1922</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9exba9qr.html"><div class="placeholder" lang="am">የኢትዮጵያ ሕዝብ ታሪክ (ባጭር ቃል የወጣ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_9exba9qr.html">የኢትዮጵያ ሕዝብ ታሪክ (ባጭር ቃል የወጣ)</a>
+  <span class="r">YeEthiopia Hizib Tarik (Bachir Kal YeWeta)</span>
+  <span class="a">Aleka Taye G/Mariam</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_a5g8gma7.html"><div class="placeholder" lang="am">የኢትዮጵያ ሕገ መንግስት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_a5g8gma7.html">የኢትዮጵያ ሕገ መንግስት</a>
+  <span class="r">Revised Constitution of Ethiopia</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_amdjayxm.html"><div class="placeholder" lang="am">የኢትዮጵያ ሕግና የፍትሕ አፈጻጸም ታሪክ (ከ1426 እስከ 1966 ዓ.</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_amdjayxm.html">የኢትዮጵያ ሕግና የፍትሕ አፈጻጸም ታሪክ (ከ1426 እስከ 1966 ዓ.ም)</a>
+  <span class="r">YeEthiopia Higina Fitih Afetsatsem Tarik (Ke1426 Eske 1966)</span>
+  <span class="a">አበራ ጀምበሬ · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7tbca8zw.html"><div class="placeholder" lang="am">የኢትዮጵያ ልዑካን ቡድን በኣውሮጳና መካከለኛው ምሥራቅ (1903ዓ.ም)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_7tbca8zw.html">የኢትዮጵያ ልዑካን ቡድን በኣውሮጳና መካከለኛው ምሥራቅ (1903ዓ.ም)</a>
+  <span class="r">YeEthiopia Le&#x27;ukan Budin BeAwropana Mekakelegnaw Misirak (1903 E.C)</span>
+  <span class="a">ባሕሩ ዘውዴ, Hiruy Woldesilassie · 2017</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nparz43a.html"><div class="placeholder" lang="am">የኢትዮጵያ መሪዎች (ያልተነገሩ እና ያልተሰሙ ታሪኮች ከጥንት እስከ ዛ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_nparz43a.html">የኢትዮጵያ መሪዎች (ያልተነገሩ እና ያልተሰሙ ታሪኮች ከጥንት እስከ ዛሬ)</a>
+  <span class="r">YeEthiopia Meriwoch (Yalitenegeru Ena Yalitesemu Tatikoch Ketinit Eske Zare)</span>
+  <span class="a">Ermias Hussen</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_addmg2xw.html"><div class="placeholder" lang="am">የኢትዮጵያ መስቀሎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_addmg2xw.html">የኢትዮጵያ መስቀሎች</a>
+  <span class="r">THE ETHIOPIAN CROSSES</span>
+  <span class="a"> · 1997</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_h3f49zz5.html"><div class="placeholder" lang="am">የኢትዮጵያ መንግስት በወርኃ የካቲት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_h3f49zz5.html">የኢትዮጵያ መንግስት በወርኃ የካቲት</a>
+  <span class="r">YeEthiopia Mengist Bewerha Yekatit</span>
+  <span class="a">Aleqa Elias Nebiyeleuel, Kesis Kefyalew Merahi</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4928nhjr.html"><div class="placeholder" lang="am">የኢትዮጵያ መንግስት ዕንቁጣጣሽ (መጽሔተ ኃይለ ሥላሴ ዘውእቱ መልክዐ </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_4928nhjr.html">የኢትዮጵያ መንግስት ዕንቁጣጣሽ (መጽሔተ ኃይለ ሥላሴ ዘውእቱ መልክዐ ውዳሴ ወመልክዐ ቀዳማዊ ኃይለ ሥላሴ)</a>
+  <span class="r">YeEthiopia Mengist Enkutatash (Metshete Haile Silase Zewe&#x27;tu Melke&#x27;a Widassie Wemelke&#x27;a Kedamawi Haile Silasie)</span>
+  <span class="a">Ayne Alem Gebre Mariam · 1955</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9ahp1tgd.html"><img src="../assets/covers/wk_9ahp1tgd.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_9ahp1tgd.html">የኢትዮጵያ ሙዚቃ</a>
+  <span class="r">yeityopya muziqa</span>
+  <span class="a">ዳንኤል ከተማ · 2015</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_186dr8cf.html"><div class="placeholder" lang="am">የኢትዮጵያ ሙዚቃ መሳሪያዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_186dr8cf.html">የኢትዮጵያ ሙዚቃ መሳሪያዎች</a>
+  <span class="r">Ethiopian Musical Instruments</span>
+  <span class="a">ተስፋዬ ለማ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_s6rgv25j.html"><div class="placeholder" lang="am">የኢትዮጵያ ሙዚቃ ታሪክ (ከ፲፰፻፹፱ እስከ ፲፱፻፹፫)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_s6rgv25j.html">የኢትዮጵያ ሙዚቃ ታሪክ (ከ፲፰፻፹፱ እስከ ፲፱፻፹፫)</a>
+  <span class="r">YeEthiopia Muzika Tarik (Keá²á°á»á¹á± Eske á²á±á»á¹á«)</span>
+  <span class="a">ተስፋዬ ለማ · 2018</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dnfdqppa.html"><img src="../assets/covers/wk_dnfdqppa.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_dnfdqppa.html">የኢትዮጵያ ሠራዊት</a>
+  <span class="r">yeityopya serawit</span>
+  <span class="a">ፋንታሁን አየለ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sbs49zzm.html"><div class="placeholder" lang="am">የኢትዮጵያ ሠራዊት እና የጦርነቶች ታሪክ (ከአክሱም ዘመነ መንግስት እ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sbs49zzm.html">የኢትዮጵያ ሠራዊት እና የጦርነቶች ታሪክ (ከአክሱም ዘመነ መንግስት እስከ ኢፌዴሪ)</a>
+  <span class="r">YeEthiopia Serawit Ena Yetornetoch Tarik (KeAksum Zemene Mengist Eske EFDRE)</span>
+  <span class="a">Col.Getachew Dagnew · 2015</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_515s5dms.html"><div class="placeholder" lang="am">የኢትዮጵያ ሠራዊት (ከድል ወደ ውድቀት 1967-1983)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_515s5dms.html">የኢትዮጵያ ሠራዊት (ከድል ወደ ውድቀት 1967-1983)</a>
+  <span class="r">YeEthiopia Serawit (KeDil Wede Widiket 1967-1983)</span>
+  <span class="a">Dr.Fantahun Ayele · 2010</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nrye8kqf.html"><img src="../assets/covers/wk_nrye8kqf.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_nrye8kqf.html">የኢትዮጵያ ሥልጣኔ</a>
+  <span class="r">yeityopya seltane</span>
+  <span class="a">በላይ ግደይ · 1983</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pmydag0q.html"><div class="placeholder" lang="am">የኢትዮጵያ ሥልጣኔ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_pmydag0q.html">የኢትዮጵያ ሥልጣኔ</a>
+  <span class="r">YeEthiopia Silitane</span>
+  <span class="a">Belay Gidey</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9rvph2wc.html"><img src="../assets/covers/wk_9rvph2wc.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_9rvph2wc.html">የኢትዮጵያ ቀለማት</a>
+  <span class="r">yeityopya qelemat</span>
+  <span class="a">Ready Set Go Books</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fzvjjqbx.html"><div class="placeholder" lang="am">የኢትዮጵያ ባሕላዊ መድሐኒትና ሕክምና የምዕተ ዓመት ጉዞ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_fzvjjqbx.html">የኢትዮጵያ ባሕላዊ መድሐኒትና ሕክምና የምዕተ ዓመት ጉዞ</a>
+  <span class="r">YeEthiopia Bahilawi Medihanitina Hikimina Yem&#x27;ete Amet Guzo</span>
+  <span class="a">Dr.Assefa Balicha</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_np2v9a7d.html"><div class="placeholder" lang="am">የኢትዮጵያ ባህል ጥናት ቡልጋ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_np2v9a7d.html">የኢትዮጵያ ባህል ጥናት ቡልጋ</a>
+  <span class="r">YeEthiopia Bahil Tinat (Bulga)</span>
+  <span class="a">Bilaten Geta Mahiteme Silase Wolde Meskel</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pq3vzgkx.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተ ክርስቲያን ታሪክ (ከጥንት-6ኛ ክፍለ ዘመን) ቅጽ 1</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_pq3vzgkx.html">የኢትዮጵያ ቤተ ክርስቲያን ታሪክ (ከጥንት-6ኛ ክፍለ ዘመን) ቅጽ 1</a>
+  <span class="r">YeEthiopia Bete Christian Tarik (KeTinit- 6Gna Kifle Zemen) Kits 1</span>
+  <span class="a">Memihir Girma Batu</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sb9y79d4.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተክርስቲያን ትላንትና ዛሬ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sb9y79d4.html">የኢትዮጵያ ቤተክርስቲያን ትላንትና ዛሬ</a>
+  <span class="r">YeEthiopia Betechristian (Tilantna Zare) The Church of Ethiopia (Past and Present)</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r3y279b6.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተ ክርስቲያን ዘመናዊ ታሪክ (ክፍል ሦስት)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_r3y279b6.html">የኢትዮጵያ ቤተ ክርስቲያን ዘመናዊ ታሪክ (ክፍል ሦስት)</a>
+  <span class="r">YeEthiopia Bete Christian Zemenawi Tarik (Kifil Sost)</span>
+  <span class="a">Deacon Maleda Wasihun · 2021</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_brw7nr1c.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተክርስቲያን የመጀመርያው ፓትሪያርክ 1951ዓ.ም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_brw7nr1c.html">የኢትዮጵያ ቤተክርስቲያን የመጀመርያው ፓትሪያርክ 1951ዓ.ም</a>
+  <span class="r">YeEthiopia Betechristian Yemejemeriaw Patriarch</span>
+  <span class="a">Bilata Merse Hazen Weld Kirkos · 2018</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6ewj2avb.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት.፬</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_6ewj2avb.html">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት.፬</a>
+  <span class="r">Journal of Ethiopian Church Studies No.4</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_yr8g8zz8.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት.6</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_yr8g8zz8.html">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት.6</a>
+  <span class="r">Journal of Ethiopian Church Studies No.6</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1j8ssb11.html"><div class="placeholder" lang="am">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት(ቁ.፪)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_1j8ssb11.html">የኢትዮጵያ ቤተክርስቲያን ጥናት መጽሔት(ቁ.፪)</a>
+  <span class="r">Journal Of Ethiopian Church Studies (No.2)</span>
+  <span class="a"> · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1yrtpsw7.html"><div class="placeholder" lang="am">የኢትዮጵያ ብሔረሰቦችን የሚገልጥ ጥናታዊ መዘክር (ብዛት ምንነት ማንነ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_1yrtpsw7.html">የኢትዮጵያ ብሔረሰቦችን የሚገልጥ ጥናታዊ መዘክር (ብዛት ምንነት ማንነትና አሰፋፍር)</a>
+  <span class="r">YeEthiopia Biheresebochin Yemigelit Tinatawi Mezekir (Bizat,Mininetina Maninetina Asefafer)</span>
+  <span class="a">Dr.Fisseha Asfaw</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hrs3fmxa.html"><div class="placeholder" lang="am">የኢትዮጵያ ተማሪዎች ትግል እና ተከታዩ የፓርቲዎች ፖለቲካ ከጥንሱ እስ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_hrs3fmxa.html">የኢትዮጵያ ተማሪዎች ትግል እና ተከታዩ የፓርቲዎች ፖለቲካ ከጥንሱ እስከ ድፍርሱ (1961-1970 ዓ.ም)</a>
+  <span class="r">yeEthiopia Temariwoch Tigil Ena Teketayu Yepartiwoch Poletika KeTinsisu Eske Difirisu (1961-1970 E.C)</span>
+  <span class="a">Gizaw Zewdu</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_r4tvj4v4.html"><img src="../assets/covers/wk_r4tvj4v4.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_r4tvj4v4.html">የኢትዮጵያ ተጠሪ ማነው?</a>
+  <span class="r">yeityopya teteri manew?</span>
+  <span class="a">ደረጀ ይመር, ተስፋዬ ሽብሩ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cmw1vcpk.html"><div class="placeholder" lang="am">የኢትዮጵያ ተጠሪ ማን ነው?</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_cmw1vcpk.html">የኢትዮጵያ ተጠሪ ማን ነው?</a>
+  <span class="r">YeEthiopia Teteri Man New?</span>
+  <span class="a">Tesfaye Shibiru, Dereje Yimer</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3fgg0bjb.html"><div class="placeholder" lang="am">የኢትዮጵያ ታላቁ ሀብት ባሕረ ሀሳብ (የዘመን አቆጣጠር)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_3fgg0bjb.html">የኢትዮጵያ ታላቁ ሀብት ባሕረ ሀሳብ (የዘመን አቆጣጠር)</a>
+  <span class="r">YeEthiopia Talaku Habit Bahire Hasab (YeZemen Akotater)</span>
+  <span class="a">Megabe Tibeb BeE&#x27;mnet Mitiku</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2cy27gxr.html"><img src="../assets/covers/wk_2cy27gxr.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_2cy27gxr.html">የኢትዮጵያ ታሪክ</a>
+  <span class="r">yeityopya tarik</span>
+  <span class="a">ሙሉቀን ታሪኩ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_egx1ah7n.html"><img src="../assets/covers/wk_egx1ah7n.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_egx1ah7n.html">የኢትዮጵያ ታሪክ</a>
+  <span class="r">yeityopya tarik</span>
+  <span class="a">ዩኒቲ መፅሐፍ መደብር ፋሲካ · 2009</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_eq611q5p.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_eq611q5p.html">የኢትዮጵያ ታሪክ</a>
+  <span class="r">YeEthiopia Tarik</span>
+  <span class="a">Dr.Sergew Gelaw, Aleka T/Eyesus Wakijira</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g3x04na1.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_g3x04na1.html">የኢትዮጵያ ታሪክ</a>
+  <span class="r">YeEthiopia Tarik</span>
+  <span class="a">Abba Gasparini Geema</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kz6sbs9z.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ (1847-1983)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_kz6sbs9z.html">የኢትዮጵያ ታሪክ (1847-1983)</a>
+  <span class="r">YeEthiopia Tarik (1847 - 1983)</span>
+  <span class="a">ባሕሩ ዘውዴ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nyg785kw.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ መነሻና ሂደት እስከ ሪፐብሊክ ከ15000 ዓ.ዓ እስከ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_nyg785kw.html">የኢትዮጵያ ታሪክ መነሻና ሂደት እስከ ሪፐብሊክ ከ15000 ዓ.ዓ እስከ 2000 ዓ.ም (ሁለተኛ ጥናት)</a>
+  <span class="r">YeEthiopia Tarik Meneshana Hidet Kezemene Megalitizm Eske Ripublic ke 15000 A.A Eske 2000 A.M (Huletegna Tinat)</span>
+  <span class="a">Prof. Lapiso Ge. Dilebo · 2008</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f4010vp7.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ መነሻና ሂደት እስከ ሪፐብሊክ ከ15000 ዓ.ዓ እስከ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_f4010vp7.html">የኢትዮጵያ ታሪክ መነሻና ሂደት እስከ ሪፐብሊክ ከ15000 ዓ.ዓ እስከ 2000 ዓ.ም (አንደኛ ጥናት)</a>
+  <span class="r">YeEthiopia Tarik Meneshana Hidet Kezemene Megalitizm Eske Ripublic ke 15000 A.A Eske 2000 A.M (Andegna Tinat)</span>
+  <span class="a">Prof. Lapiso Ge. Dilebo · 2008</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rvdd2tkh.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ (ቀዳማዊው ምኒሊክ እና የንግሥተ ሣባ ፈታኝ ዘመን)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_rvdd2tkh.html">የኢትዮጵያ ታሪክ (ቀዳማዊው ምኒሊክ እና የንግሥተ ሣባ ፈታኝ ዘመን)</a>
+  <span class="r">YeEthiopia Tarik (Kedamawiw Mnilik Ena Yenigiste Saba Fetagn Zemen)</span>
+  <span class="a">Jill Francis Hudson</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vvj6rwa8.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ (በአሥራ ስድስተኛው ክፍለ ዘመን)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_vvj6rwa8.html">የኢትዮጵያ ታሪክ (በአሥራ ስድስተኛው ክፍለ ዘመን)</a>
+  <span class="r">YeEthiopia Tarik (BeAsira Sidistegnaw Kifle Zemen)</span>
+  <span class="a">Yilma Deresa</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_h7xj8xbv.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ በፓንክረስት ሪቻርድ ዕይታ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_h7xj8xbv.html">የኢትዮጵያ ታሪክ በፓንክረስት ሪቻርድ ዕይታ</a>
+  <span class="r">YeEthiopia Tarik BePanchrust Richard Eyita</span>
+  <span class="a">Ermias Hussien</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j1w3qe6n.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ ኑብያ (ናፓታ-መርዌ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j1w3qe6n.html">የኢትዮጵያ ታሪክ ኑብያ (ናፓታ-መርዌ)</a>
+  <span class="r">YeEthiopia Tarik NubYa (Napata-Merwei)</span>
+  <span class="a">Tekletsadek Mekuria</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_v90t4f57.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ ኑብያ (ናፓታ - መርዌ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_v90t4f57.html">የኢትዮጵያ ታሪክ ኑብያ (ናፓታ - መርዌ)</a>
+  <span class="r">yeityopya tarik nubya (napata - merwe)</span>
+  <span class="a">ተክለ ጻድቅ መኲሪያ · 1972</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wx18netn.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ (ኑብያ-አክሱም-ዛጉዬ)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_wx18netn.html">የኢትዮጵያ ታሪክ (ኑብያ-አክሱም-ዛጉዬ)</a>
+  <span class="r">YeEthiopia Tarik (NuBya-Aksum-Zaguye)</span>
+  <span class="a">Tekletsadek Mekuria</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dpydb9va.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ (ኑብያ አክሱም ዛግዌ እስከ ይኩኖ አምላክ ዘመነ መን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_dpydb9va.html">የኢትዮጵያ ታሪክ (ኑብያ አክሱም ዛግዌ እስከ ይኩኖ አምላክ ዘመነ መንግስት)</a>
+  <span class="r">YeEthiopia Tarik (Nubya-Aksum-Zagwe Eske Yikuno Amilak Zemene Mengist)</span>
+  <span class="a">Tekile Tsadik Mekuria</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1dqkef15.html"><img src="../assets/covers/wk_1dqkef15.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_1dqkef15.html">የኢትዮጵያ ታሪክና የባዕዳን ተልዕኮ</a>
+  <span class="r">yeityopya tarikna yebadan teleko</span>
+  <span class="a">ሙሃባው ገድፍ · 2011</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_agn5hgkn.html"><img src="../assets/covers/wk_agn5hgkn.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_agn5hgkn.html">የኢትዮጵያ ታሪክ ንግሥተ ሳባ እና ልዑል ምኒሊክ</a>
+  <span class="r">yeityopya tarik negeste saba ena leul menilik</span>
+  <span class="a">ብሩክ መኮንን ተክለየስ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rs5h2c65.html"><img src="../assets/covers/wk_rs5h2c65.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rs5h2c65.html">የኢትዮጵያ ታሪክ ኢ.ጣ.ሊ.ያ በኢ.ት.ዮ.ጵ.ያ ከወልወል እስከ ጐንደር</a>
+  <span class="r">yeityopya tarik i.ta.li.ya bei.te.yo.pe.ya kewelwel eske gwender</span>
+  <span class="a">ተድላ ዘዮሐንስ ዘውዴ · 2011</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nz0m4nf7.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ ኢጣሊያ በኢትዮጵያ (ከወልወል እስከ ጎንደር ግንቦት </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_nz0m4nf7.html">የኢትዮጵያ ታሪክ ኢጣሊያ በኢትዮጵያ (ከወልወል እስከ ጎንደር ግንቦት 1927-ህዳር1934 ዓ.ም)</a>
+  <span class="r">YeEthiopia Tarik Italia BeEthiopia (Kewelwel Eske Gonder Gnbot 1927-Hidar 1934 A.M)</span>
+  <span class="a">Tedla ZeYohannes · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_489pq16e.html"><img src="../assets/covers/wk_489pq16e.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_489pq16e.html">የኢትዮጵያ ታሪክ ከ1847 እስከ 1983</a>
+  <span class="r">yeityopya tarik ke1847 eske 1983</span>
+  <span class="a">ባሕሩ ዘውዴ · 1999</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f3gzekn1.html"><img src="../assets/covers/wk_f3gzekn1.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_f3gzekn1.html">የኢትዮጵያ ታሪክ ከ1847 እስከ 1983</a>
+  <span class="r">yeityopya tarik ke1847 eske 1983</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j9ysvyab.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ ከ19ኛው መቶ ክፍለ ዘመን እስከ 20ኛው መቶ ክፍለ </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j9ysvyab.html">የኢትዮጵያ ታሪክ ከ19ኛው መቶ ክፍለ ዘመን እስከ 20ኛው መቶ ክፍለ ዘመን</a>
+  <span class="r">YeEthiopia Tarik ke19gnaw Meto Kifile Zemen Eske 20gnaw</span>
+  <span class="a">Saheed A. Adejumobi</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_933939kp.html"><img src="../assets/covers/wk_933939kp.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_933939kp.html">የኢትዮጵያ ታሪክ ከሉሲ አራት ሚሊዮን ዓመተ አለም እስከ አዲስ አበባ ሁለት ሺህ</a>
+  <span class="r">yeityopya tarik kelusi arat miliyon amete alem eske adis abeba hulet shih</span>
+  <span class="a">ፕሮፈሰር ላጵሶ ጌታሁን ድሌቦ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g4gayggt.html"><div class="placeholder" lang="am">የኢትዮጵያ ታሪክ ከሉሲ አራት ሚሊዮን ዓመተ አለም እስከ አዲስ አበባ </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_g4gayggt.html">የኢትዮጵያ ታሪክ ከሉሲ አራት ሚሊዮን ዓመተ አለም እስከ አዲስ አበባ ሁለት ሺህ ዓመተ ምሕረት</a>
+  <span class="r">YeEthiopia Tarik KeLucy Arat Million Amete Alem Eske Addis Ababa Hulet Shih Amete Mihiret</span>
+  <span class="a">Professor Lapiso Getahun Delebo</span>
+  
+</li></ul><div class="pager"><a href="page-73.html">&larr; previous</a><span class="spacer"></span><span>page 74 of 96 · 5748 books</span><span class="spacer"></span><a href="page-75.html">next &rarr;</a></div>
+<footer>
+  <span>5748 books · 3866 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
+</footer>
+</div></body></html>

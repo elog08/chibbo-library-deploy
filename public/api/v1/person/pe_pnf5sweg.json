@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "adithamilton",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pnf5sweg",
+ "id": "pe_pnf5sweg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46022539",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46022539"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Edith Hamilton"
+  },
+  "romanized": "Edith Hamilton",
+  "sort_key": "edithhamilton"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46022539"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pnf5sweg",
+     "name": "Edith Hamilton",
+     "role": "author",
+     "romanized": "Edith Hamilton"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nfm2e8v2",
+   "id": "wk_nfm2e8v2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmalktena YeJegenoch Afetarik (Mythology)",
+    "script": "Ethi",
+    "text": "የአማልክትና የጀግኖች አፈ-ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

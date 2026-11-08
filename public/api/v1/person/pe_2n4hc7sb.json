@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "majorfakadayohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2n4hc7sb",
+ "id": "pe_2n4hc7sb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13923487",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13923487"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Major Fekade Yohannes"
+  },
+  "romanized": "Major Fekade Yohannes",
+  "sort_key": "majorfekadeyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13923487"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2n4hc7sb",
+     "name": "Major Fekade Yohannes",
+     "role": "author",
+     "romanized": "Major Fekade Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jqctafh8",
+   "id": "wk_jqctafh8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Senselet",
+    "script": "Ethi",
+    "text": "ሠንሠለት"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

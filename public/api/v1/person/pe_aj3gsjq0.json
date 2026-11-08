@@ -1,0 +1,96 @@
+{
+ "extensions": {},
+ "fingerprint": "jordana",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_aj3gsjq0",
+ "id": "pe_aj3gsjq0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34414646",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34414646"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Giordana",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Jordana",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ጆርዳና"
+  },
+  "romanized": "Giordana",
+  "sort_key": "ጆርዳና"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ጆርዳና ኩሽና.PDF"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=34414646"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_jn80tx1x.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jn80tx1x.png"
+   },
+   "credits": [
+    {
+     "id": "pe_aj3gsjq0",
+     "name": "ጆርዳና",
+     "role": "author",
+     "romanized": "Giordana"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_mxzyzrhn",
+   "id": "wk_mxzyzrhn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Giordana's Kitchen (Gordana Kushina)",
+    "script": "Ethi",
+    "text": "ጆርዳና ኩሽና"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

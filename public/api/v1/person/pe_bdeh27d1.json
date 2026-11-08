@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "albartgarard",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bdeh27d1",
+ "id": "pe_bdeh27d1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70886928",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70886928"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Albert G.Gerard"
+  },
+  "romanized": "Albert G.Gerard",
+  "sort_key": "albertggerard"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70886928"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bdeh27d1",
+     "name": "Albert G.Gerard",
+     "role": "author",
+     "romanized": "Albert G.Gerard"
+    },
+    {
+     "id": "pe_jshqq5vh",
+     "name": "Stanislaw Chojnacki",
+     "role": "author",
+     "romanized": "Stanislaw Chojnacki"
+    },
+    {
+     "id": "pe_7cssect3",
+     "name": "Francis Anfrey",
+     "role": "author",
+     "romanized": "Francis Anfrey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1968?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2qccgc64",
+   "id": "wk_2qccgc64",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.VI No.2 (July 1968)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርምር መጽሔት"
+   },
+   "type": "work",
+   "year": 1968
+  }
+ ]
+}

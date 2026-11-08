@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hihkinghailasilasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ddsyjkpm",
+ "id": "pe_ddsyjkpm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08777824",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08777824"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "H.I.H (King Haile Silassie)"
+  },
+  "romanized": "H.I.H (King Haile Silassie)",
+  "sort_key": "hihkinghailesilassie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08777824"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ddsyjkpm",
+     "name": "H.I.H (King Haile Silassie)",
+     "role": "author",
+     "romanized": "H.I.H (King Haile Silassie)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1973?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vtnmk365",
+   "id": "wk_vtnmk365",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hiwetena YeEthiopia Erimija (Part I) (With a map that shows Family Tree of H.I.H)",
+    "script": "Ethi",
+    "text": "ሕይወቴና የኢትዮጵያ እርማጃ (ክፍል ፩)"
+   },
+   "type": "work",
+   "year": 1973
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "dramsaluakililu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vbehs0e5",
+ "id": "pe_vbehs0e5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85523651",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85523651"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Amsalu Akililu"
+  },
+  "romanized": "Dr. Amsalu Akililu",
+  "sort_key": "dramsaluakililu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85523651"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vbehs0e5",
+     "name": "Dr. Amsalu Akililu",
+     "role": "author",
+     "romanized": "Dr. Amsalu Akililu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t09zf43j",
+   "id": "wk_t09zf43j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez TextBook",
+    "script": "Ethi",
+    "text": "ግዕዝ መማሪያ መጽሐፍ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

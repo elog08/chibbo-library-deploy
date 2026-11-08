@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "balatagabra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_09smgm2h",
+ "id": "pe_09smgm2h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55996634",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55996634"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61550148",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61550148"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87568349",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87568349"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Belete Gebre"
+  },
+  "romanized": "Belete Gebre",
+  "sort_key": "beletegebre"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55996634"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_09smgm2h",
+     "name": "Belete Gebre",
+     "role": "author",
+     "romanized": "Belete Gebre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1954?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_04b0rvvt",
+   "id": "wk_04b0rvvt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zenawi Parlama (YeEthiopia YeHig Memriyana Mewesegna Mikir Bet Tarik)",
+    "script": "Ethi",
+    "text": "ዜናዊ ፓርላማ (የኢትዮጵያ የሕግ መምሪያና መወሰኛ ምክር ቤት ታሪክ)"
+   },
+   "type": "work",
+   "year": 1954
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_09smgm2h",
+     "name": "Belete Gebre",
+     "role": "author",
+     "romanized": "Belete Gebre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e6mxrpk6",
+   "id": "wk_e6mxrpk6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be'Edme Godana Lay YeGuzo Tizita",
+    "script": "Ethi",
+    "text": "በዕድሜ ጎዳና ላይ የጉዞ ትዝታ"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_09smgm2h",
+     "name": "Belete Gebre",
+     "role": "author",
+     "romanized": "Belete Gebre"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zxkj1f49",
+   "id": "wk_zxkj1f49",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be'Edme Godana Lay YeGuzo Tizita (Medibil Hulet)",
+    "script": "Ethi",
+    "text": "በዕድሜ ጎዳና ላይ የጉዞ ትዝታ መድበል ሁለት"
+   },
+   "type": "work"
+  }
+ ]
+}

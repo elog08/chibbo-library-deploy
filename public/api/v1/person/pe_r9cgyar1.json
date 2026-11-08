@@ -1,0 +1,191 @@
+{
+ "extensions": {},
+ "fingerprint": "gabayahuayala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_r9cgyar1",
+ "id": "pe_r9cgyar1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03392313",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03392313"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86185661",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86185661"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "gebeyehu ayele",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Gebeyehu Ayele",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ገበየሁ አየለ"
+  },
+  "romanized": "gebeyehu ayele",
+  "sort_key": "ገበየሁአየለ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ኖኅ (ዘፍጥረት ም1 እስከ 5).pdf",
+  "Read from the title page of ጣምራ ጦር - ገበየሁ አየለ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03392313"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_46z79ke7.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_46z79ke7.png"
+   },
+   "credits": [
+    {
+     "id": "pe_ht0yskbe",
+     "name": "ኪቲ አና ግሪፊትስ",
+     "role": "author",
+     "romanized": "Kitty Anna Griffiths"
+    },
+    {
+     "id": "pe_r9cgyar1",
+     "name": "ገበየሁ አየለ",
+     "role": "author",
+     "romanized": "gebeyehu ayele"
+    },
+    {
+     "id": "pe_1fek8vz0",
+     "name": "ዊሊ",
+     "role": "author",
+     "romanized": "wili"
+    },
+    {
+     "id": "pe_tfbmbb3f",
+     "name": "ሰላመአብ አሰፋ",
+     "role": "author",
+     "romanized": "selameab asefa"
+    },
+    {
+     "id": "pe_b7xypj4x",
+     "name": "ዮዲት ኃይሉ",
+     "role": "author",
+     "romanized": "yodit haylu"
+    },
+    {
+     "id": "pe_0hjy9qb4",
+     "name": "ዘነበ ገብረሐና",
+     "role": "author",
+     "romanized": "zenebe gebrehena"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_46z79ke7",
+   "id": "wk_46z79ke7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "NOAH",
+    "script": "Ethi",
+    "text": "ኖኅ"
+   },
+   "type": "work",
+   "year": 2005
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_r9cgyar1",
+     "name": "ገበየሁ አየለ",
+     "role": "author",
+     "romanized": "gebeyehu ayele"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6b7n6syp",
+   "id": "wk_6b7n6syp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Enibana Sak",
+    "script": "Ethi",
+    "text": "ዕንባና ሳቅ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_rgnr7v7m.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rgnr7v7m.png"
+   },
+   "credits": [
+    {
+     "id": "pe_r9cgyar1",
+     "name": "ገበየሁ አየለ",
+     "role": "author",
+     "romanized": "gebeyehu ayele"
+    },
+    {
+     "id": "pe_w2zsj9wc",
+     "name": "ጥበበ ተረፋ",
+     "role": "author",
+     "romanized": "tebebe terefa"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_qamaa9av",
+   "id": "wk_qamaa9av",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tamira Tor",
+    "script": "Ethi",
+    "text": "ጣምራ ጦር"
+   },
+   "type": "work"
+  }
+ ]
+}

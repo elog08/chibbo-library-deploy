@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhaftukidanu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tt02vcfe",
+ "id": "pe_tt02vcfe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37745109",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37745109"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Haftu Kidanu"
+  },
+  "romanized": "Memihir Haftu Kidanu",
+  "sort_key": "memihirhaftukidanu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37745109"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tt02vcfe",
+     "name": "Memihir Haftu Kidanu",
+     "role": "author",
+     "romanized": "Memihir Haftu Kidanu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9s9dggta",
+   "id": "wk_9s9dggta",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "\"Guma\" Tarik Khalisn Hizibi Raya Ab tarik Hizbi Tarik",
+    "script": "Ethi",
+    "text": "\"ጉማ\" ታሪኽን ቓልስን ህዝቢ ኣብ ታሪኽ ትግራይ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

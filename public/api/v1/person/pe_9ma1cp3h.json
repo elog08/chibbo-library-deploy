@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "malakabirhanadmasujambara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9ma1cp3h",
+ "id": "pe_9ma1cp3h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44979795",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44979795"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79224779",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79224779"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Melae'ke Birhan Admasu Jembere"
+  },
+  "romanized": "Melae'ke Birhan Admasu Jembere",
+  "sort_key": "melaekebirhanadmasujembere"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44979795"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9ma1cp3h",
+     "name": "Melae'ke Birhan Admasu Jembere",
+     "role": "author",
+     "romanized": "Melae'ke Birhan Admasu Jembere"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_03k7wqac",
+   "id": "wk_03k7wqac",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Medilote Amin (YeHaymanot Mizan)",
+    "script": "Ethi",
+    "text": "መድሎተ አሚን (የሃይማኖት ሚዛን)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9ma1cp3h",
+     "name": "Melae'ke Birhan Admasu Jembere",
+     "role": "author",
+     "romanized": "Melae'ke Birhan Admasu Jembere"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_4xc3dsgh",
+   "id": "wk_4xc3dsgh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Kine (Zikire Likawint) Kifil 2",
+    "script": "Ethi",
+    "text": "መጽሐፈ ቅኔ (ዝክረ ሊቃውንት ) ክፍል 2"
+   },
+   "type": "work"
+  }
+ ]
+}

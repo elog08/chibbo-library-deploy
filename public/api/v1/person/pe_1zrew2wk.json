@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "salamnigusia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1zrew2wk",
+ "id": "pe_1zrew2wk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29496543",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29496543"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selam Nigussie"
+  },
+  "romanized": "Selam Nigussie",
+  "sort_key": "selamnigussie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29496543"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_67fnfzg0",
+     "name": "Piers Elrington",
+     "role": "author",
+     "romanized": "Piers Elrington"
+    },
+    {
+     "id": "pe_1zrew2wk",
+     "name": "Selam Nigussie",
+     "role": "author",
+     "romanized": "Selam Nigussie"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_yk2c3maf",
+   "id": "wk_yk2c3maf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Ungrateful Snake (An Ethiopian Folk Story)",
+    "script": "Ethi",
+    "text": "ምስጋና ቢሱ እባብ (የኢትዮጵያ ሕዝብ ተረት)"
+   },
+   "type": "work"
+  }
+ ]
+}

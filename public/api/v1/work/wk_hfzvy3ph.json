@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_9qwdxce6"
+  "ed_9qwdxce6",
+  "ed_rx22nfa7"
  ],
  "extensions": {},
  "fingerprint": "እምቢታ|andalagatakabada",
@@ -25,6 +26,9 @@
  "identifiers": {
   "afroread_id": [
    "f6ad1edc-671f-481f-9411-f5bc2d1936cd"
+  ],
+  "mereb_mpid": [
+   "75406638"
   ]
  },
  "language": "am",
@@ -56,11 +60,31 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/Bookdetail/f6ad1edc-671f-481f-9411-f5bc2d1936cd"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75406638",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75406638"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "7.99",
+   "provider": "mereb",
+   "ref": "75406638",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75406638"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "afroread",

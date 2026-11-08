@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "profasorimamyoufalkaradawi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9yhteg1h",
+ "id": "pe_9yhteg1h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17828707",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17828707"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Professor Imam Youf Al-keredewi"
+  },
+  "romanized": "Professor Imam Youf Al-keredewi",
+  "sort_key": "professorimamyoufalkeredewi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17828707"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9yhteg1h",
+     "name": "Professor Imam Youf Al-keredewi",
+     "role": "author",
+     "romanized": "Professor Imam Youf Al-keredewi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rre9d3pp",
+   "id": "wk_rre9d3pp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Muslim Yalhonu Wegenoch BeMuslim Hibreteseb Wist",
+    "script": "Ethi",
+    "text": "ሙስሊም ያልሆኑ ወገኖች በሙስሊም ኅብረተሰብ ወስጥ"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2dg58c6q",
+ "@type": "Book",
+ "alternateName": [
+  "Yato Belachew Chama"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2c3twvhv",
+   "@type": "Person",
+   "name": "Comedian Asres Bekele"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994400317",
+ "name": "የአቶ በላቸው ጫማ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=72270250"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Shama Books (Second Edition (2022))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=72270250"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6trx2w0z",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ftdnctr1",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_03j9z79q",
+   "@type": "Person",
+   "name": "Memeher Dereje Jimma"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "What makes you worry Part I",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73543482"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73543482"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_kd43ff7e",
+   "@type": "Book"
+  }
+ ]
+}

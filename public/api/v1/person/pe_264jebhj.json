@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "philipmarsdan",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_264jebhj",
+ "id": "pe_264jebhj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26600112",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26600112"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Philip Marsden"
+  },
+  "romanized": "Philip Marsden",
+  "sort_key": "philipmarsden"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26600112"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_264jebhj",
+     "name": "Philip Marsden",
+     "role": "author",
+     "romanized": "Philip Marsden"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kp6nc4kb",
+   "id": "wk_kp6nc4kb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeYewodros E'da Andit Ethiopia",
+    "script": "Ethi",
+    "text": "የቴዎድሮስ ዕዳ አንዲት ኢትዮጵያ"
+   },
+   "type": "work"
+  }
+ ]
+}

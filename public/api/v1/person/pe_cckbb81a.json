@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "samrawitarayamarsha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cckbb81a",
+ "id": "pe_cckbb81a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08904778",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08904778"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86686882",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86686882"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Samrawit Araya m. Mersha"
+  },
+  "romanized": "Samrawit Araya m. Mersha",
+  "sort_key": "samrawitarayammersha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08904778"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cckbb81a",
+     "name": "Samrawit Araya m. Mersha",
+     "role": "author",
+     "romanized": "Samrawit Araya m. Mersha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cbsmb117",
+   "id": "wk_cbsmb117",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEnkurarit Shirshir",
+    "script": "Ethi",
+    "text": "የእንቁራሪት ሽርሽር"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cckbb81a",
+     "name": "Samrawit Araya m. Mersha",
+     "role": "author",
+     "romanized": "Samrawit Araya m. Mersha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x3qa3hpf",
+   "id": "wk_x3qa3hpf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Buguli; Tinishua Fiyel",
+    "script": "Ethi",
+    "text": "ቡጉሊ ትንሿ ፍየል"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

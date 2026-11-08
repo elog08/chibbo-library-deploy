@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ak7cxhk4",
+ "@type": "Book",
+ "alternateName": [
+  "Fikir"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hcykb58a",
+   "@type": "Person",
+   "name": "Saint Yohannes Afework"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፍቅር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=79162827"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=79162827"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_enzyzk88",
+   "@type": "Book"
+  }
+ ]
+}

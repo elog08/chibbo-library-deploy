@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3hz998em",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p69j4vcs",
+   "@type": "Person",
+   "name": "Amanuel Hadis"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Astekuashu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.60",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=00766423"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=00766423"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mx9ss5f8",
+   "@type": "Book"
+  }
+ ]
+}

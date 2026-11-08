@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cvrbd9kr",
+ "@type": "Book",
+ "alternateName": [
+  "Chilfitina Sila"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mrnhkmw0",
+   "@type": "Person",
+   "name": "Getachew Belete"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ጭልፊትና ሲላ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=47688312"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Aster Nega Publishing"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=47688312"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_875q66d8",
+   "@type": "Book"
+  }
+ ]
+}

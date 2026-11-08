@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "mariopuzo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v4q72383",
+ "id": "pe_v4q72383",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22277353",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22277353"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77017274",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77017274"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81445084",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81445084"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mario Puzo"
+  },
+  "romanized": "Mario Puzo",
+  "sort_key": "mariopuzo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22277353"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v4q72383",
+     "name": "Mario Puzo",
+     "role": "author",
+     "romanized": "Mario Puzo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8swc44mh",
+   "id": "wk_8swc44mh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetut Abat",
+    "script": "Ethi",
+    "text": "የጡት አባት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v4q72383",
+     "name": "Mario Puzo",
+     "role": "author",
+     "romanized": "Mario Puzo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rtbkhgvf",
+   "id": "wk_rtbkhgvf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemaynetif Bikela (The Six Graves to Munch)",
+    "script": "Ethi",
+    "text": "የማይነጥፍ ብቀላ (የማይሞላ ከርሰ መቃብር)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v4q72383",
+     "name": "Mario Puzo",
+     "role": "author",
+     "romanized": "Mario Puzo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zq723p8e",
+   "id": "wk_zq723p8e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sisiliyawiw",
+    "script": "Ethi",
+    "text": "ሲሲሊያዊው"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "wayniabraha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2dztmkb2",
+ "id": "pe_2dztmkb2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40337111",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40337111"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Weyni Abreha"
+  },
+  "romanized": "Weyni Abreha",
+  "sort_key": "weyniabreha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40337111"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2dztmkb2",
+     "name": "Weyni Abreha",
+     "role": "author",
+     "romanized": "Weyni Abreha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y9nac5nr",
+   "id": "wk_y9nac5nr",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Weyin",
+    "script": "Ethi",
+    "text": "መጽሐፈ ወይን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

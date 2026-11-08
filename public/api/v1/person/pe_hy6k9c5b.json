@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "akalouwoldamichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hy6k9c5b",
+ "id": "pe_hy6k9c5b",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21164548",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21164548"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Akalou Wolde-Michael"
+  },
+  "romanized": "Akalou Wolde-Michael",
+  "sort_key": "akalouwoldemichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21164548"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8d0e7d50",
+     "name": "Bairu Tafla",
+     "role": "author",
+     "romanized": "Bairu Tafla"
+    },
+    {
+     "id": "pe_vb0vtrxx",
+     "name": "Aleme Eshete",
+     "role": "author",
+     "romanized": "Aleme Eshete"
+    },
+    {
+     "id": "pe_hy6k9c5b",
+     "name": "Akalou Wolde-Michael",
+     "role": "author",
+     "romanized": "Akalou Wolde-Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1973?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9g6ae454",
+   "id": "wk_9g6ae454",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XI No.1 (1973)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርመራ መጽሔት (1973)"
+   },
+   "type": "work",
+   "year": 1973
+  }
+ ]
+}

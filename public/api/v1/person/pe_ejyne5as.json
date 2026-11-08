@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ashatuairanadibaba",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ejyne5as",
+ "id": "pe_ejyne5as",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01004535",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01004535"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eshetu Eirena Dibaba"
+  },
+  "romanized": "Eshetu Eirena Dibaba",
+  "sort_key": "eshetueirenadibaba"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01004535"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ejyne5as",
+     "name": "Eshetu Eirena Dibaba",
+     "role": "author",
+     "romanized": "Eshetu Eirena Dibaba"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g62zjnad",
+   "id": "wk_g62zjnad",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOromo Tarik (KeTinit eske 1890wochu Mecheresha)",
+    "script": "Ethi",
+    "text": "የኦሮሞ ታሪክ (ከጥንት እስከ 1890ዎቹ መጨረሻ)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

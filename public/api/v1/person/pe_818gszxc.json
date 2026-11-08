@@ -7,7 +7,24 @@
  "href": "https://chibbo.app/person/pe_818gszxc",
  "id": "pe_818gszxc",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78085815",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78085815"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97198361",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97198361"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -76,6 +93,27 @@
    },
    "type": "work",
    "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_818gszxc",
+     "name": "ማዕበል ፈጠነ",
+     "role": "author",
+     "romanized": "Maebel Fetene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cm624sgm",
+   "id": "wk_cm624sgm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Beryods",
+    "script": "Ethi",
+    "text": "በርዮድስ"
+   },
+   "type": "work"
   }
  ]
 }

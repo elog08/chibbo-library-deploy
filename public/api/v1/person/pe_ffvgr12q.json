@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "muhamodaliusman",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ffvgr12q",
+ "id": "pe_ffvgr12q",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56513868",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56513868"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Muhamod ali U'sman"
+  },
+  "romanized": "Muhamod ali U'sman",
+  "sort_key": "muhamodaliusman"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56513868"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ffvgr12q",
+     "name": "Muhamod ali U'sman",
+     "role": "author",
+     "romanized": "Muhamod ali U'sman"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gm45v20k",
+   "id": "wk_gm45v20k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetewedaju Yenebiy(Se.A.We) Fegegtawoch",
+    "script": "Ethi",
+    "text": "የተወዳጁ ነብይ (ሰ.ዐ.ወ) ፈገግታዎች"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

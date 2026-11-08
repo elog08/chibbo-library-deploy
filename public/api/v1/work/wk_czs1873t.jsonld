@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_czs1873t",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a901d0w8",
+   "@type": "Person",
+   "name": "አዳም ረታ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Mahlet",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=74849701"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=74849701"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f8fw076y",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "latapopashinodai",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_txm5q52p",
+ "id": "pe_txm5q52p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24124576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24124576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Late Pope Shinoda III"
+  },
+  "romanized": "Late Pope Shinoda III",
+  "sort_key": "latepopeshinodaiii"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24124576"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_txm5q52p",
+     "name": "Late Pope Shinoda III",
+     "role": "author",
+     "romanized": "Late Pope Shinoda III"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7q2wbc90",
+   "id": "wk_7q2wbc90",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeElkeraza Bereketoch (Qu.2)",
+    "script": "Ethi",
+    "text": "የኤልኬራዝ በረከቶች ቁ.2"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

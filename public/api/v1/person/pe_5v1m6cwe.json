@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "sayfuabawalo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5v1m6cwe",
+ "id": "pe_5v1m6cwe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16788173",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16788173"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Seyfu Abawelo"
+  },
+  "romanized": "Seyfu Abawelo",
+  "sort_key": "seyfuabawelo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16788173"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5v1m6cwe",
+     "name": "Seyfu Abawelo",
+     "role": "author",
+     "romanized": "Seyfu Abawelo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1961?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cm6stcy0",
+   "id": "wk_cm6stcy0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetarik Kiris",
+    "script": "Ethi",
+    "text": "የታሪክ ቅርስ"
+   },
+   "type": "work",
+   "year": 1961
+  }
+ ]
+}

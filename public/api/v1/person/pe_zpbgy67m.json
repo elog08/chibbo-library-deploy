@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirkiburadmasu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zpbgy67m",
+ "id": "pe_zpbgy67m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23894135",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23894135"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Kibur Admasu"
+  },
+  "romanized": "Memihir Kibur Admasu",
+  "sort_key": "memihirkiburadmasu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23894135"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zpbgy67m",
+     "name": "Memihir Kibur Admasu",
+     "role": "author",
+     "romanized": "Memihir Kibur Admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xect7473",
+   "id": "wk_xect7473",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sewaswe Nefs Wemekste Mstir ZeHibue",
+    "script": "Ethi",
+    "text": "ሰዋስወ ነፍስ ወመክስተ ምሥጢር ዘኅቡዕ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

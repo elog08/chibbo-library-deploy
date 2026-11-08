@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "profgatachawhaila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_50dzrdxd",
+ "id": "pe_50dzrdxd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25629776",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25629776"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53967300",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53967300"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof.Getachew Haile"
+  },
+  "romanized": "Prof.Getachew Haile",
+  "sort_key": "profgetachewhaile"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25629776"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_50dzrdxd",
+     "name": "Prof.Getachew Haile",
+     "role": "author",
+     "romanized": "Prof.Getachew Haile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fs3vf35q",
+   "id": "wk_fs3vf35q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bahire Hasab (YeZemen Kotera Kirasachin Ketarik Mastawesha Gar)",
+    "script": "Ethi",
+    "text": "ባሕረ ሐሳብ (የዘመን ቁጠራ ቅርሳችን ከታሪክ ማስታወሻ ጋር)"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50dzrdxd",
+     "name": "Prof.Getachew Haile",
+     "role": "author",
+     "romanized": "Prof.Getachew Haile"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n773ynj2",
+   "id": "wk_n773ynj2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeGe'ez Sine Tsihuf Gar (Bizu Afita Koyta)",
+    "script": "Ethi",
+    "text": "ከግዕዝ ሥነ ጽሑፍ ጋር (ብዙ አፍታ ቆይታ)"
+   },
+   "type": "work"
+  }
+ ]
+}

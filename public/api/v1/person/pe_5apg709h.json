@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiryihayiswarku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5apg709h",
+ "id": "pe_5apg709h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52138463",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52138463"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Yiheyis Werku"
+  },
+  "romanized": "Memihir Yiheyis Werku",
+  "sort_key": "memihiryiheyiswerku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52138463"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5apg709h",
+     "name": "Memihir Yiheyis Werku",
+     "role": "author",
+     "romanized": "Memihir Yiheyis Werku"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_7d49j76s",
+   "id": "wk_7d49j76s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nibab Wetirguame Zekineyat A'emade Misitirat",
+    "script": "Ethi",
+    "text": "ንባብ ወትርጉኣሜ ዘቅኔያት አዕማደ ምሥጢራት"
+   },
+   "type": "work"
+  }
+ ]
+}

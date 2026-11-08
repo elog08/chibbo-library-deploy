@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "drmylasmunroa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tc0ey99m",
+ "id": "pe_tc0ey99m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50318099",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50318099"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66622950",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66622950"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Myles Munroe"
+  },
+  "romanized": "Dr.Myles Munroe",
+  "sort_key": "drmylesmunroe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50318099"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tc0ey99m",
+     "name": "Dr.Myles Munroe",
+     "role": "author",
+     "romanized": "Dr.Myles Munroe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dte0dthe",
+   "id": "wk_dte0dthe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rasin Melewet",
+    "script": "Ethi",
+    "text": "ራስን መለወጥ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tc0ey99m",
+     "name": "Dr.Myles Munroe",
+     "role": "author",
+     "romanized": "Dr.Myles Munroe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tdhzwt02",
+   "id": "wk_tdhzwt02",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Power of Vision",
+    "script": "Ethi",
+    "text": "የራዕይ ሚስጥር"
+   },
+   "type": "work"
+  }
+ ]
+}

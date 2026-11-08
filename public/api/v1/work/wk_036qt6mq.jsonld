@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_036qt6mq",
+ "@type": "Book",
+ "alternateName": [
+  "Yamare Hiwot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xvc3fc6z",
+   "@type": "Person",
+   "name": "Abdela Muzeyn"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994491728",
+ "name": "ያማረ ሕይወት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73423465"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73423465"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vyeka3qh",
+   "@type": "Book"
+  }
+ ]
+}

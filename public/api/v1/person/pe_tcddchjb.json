@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasabakala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tcddchjb",
+ "id": "pe_tcddchjb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60119944",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60119944"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadesse bekele"
+  },
+  "romanized": "Tadesse bekele",
+  "sort_key": "tadessebekele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60119944"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tcddchjb",
+     "name": "Tadesse bekele",
+     "role": "author",
+     "romanized": "Tadesse bekele"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hst6e6sa",
+   "id": "wk_hst6e6sa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hisab Merga Metsaf Le 1 gna Ena 2 gna Kifl",
+    "script": "Ethi",
+    "text": "ሂሳብ መርጃ መጽሃፍ ለ1ኛ እና 2ኛ ክፍል"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

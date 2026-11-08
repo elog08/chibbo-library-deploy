@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "shivukara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_szj9faq2",
+ "id": "pe_szj9faq2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97418993",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97418993"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Shivu Kera"
+  },
+  "romanized": "Shivu Kera",
+  "sort_key": "shivukera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97418993"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_szj9faq2",
+     "name": "Shivu Kera",
+     "role": "author",
+     "romanized": "Shivu Kera"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_09qwzccr",
+   "id": "wk_09qwzccr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "LeAshenafinet Megezat",
+    "script": "Ethi",
+    "text": "ለአሸናፊነት መገዛት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

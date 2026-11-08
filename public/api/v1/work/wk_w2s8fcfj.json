@@ -1,9 +1,9 @@
 {
  "cover": {
-  "bytes": 26844,
-  "path": "assets/covers/wk_w2s8fcfj.png",
-  "sha256": "eba03a6fd94cc175c7f27a3a776b3b04831e885dd02dbad67e873d00a77760c3",
-  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_w2s8fcfj.png"
+  "bytes": 26661,
+  "path": "assets/covers/wk_w2s8fcfj.jpg",
+  "sha256": "48cee001d4119bb55a88da10cf94e0ee62819595d7fc89f1f5da34bf641467bd",
+  "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/የታንጉት-ምስጢር-pdf.jpg"
  },
  "credits": [
   {
@@ -14,6 +14,7 @@
  ],
  "editions": [
   "ed_qkgcp1nw",
+  "ed_552ggc45",
   "ed_5sd2fjxb"
  ],
  "extensions": {},
@@ -26,12 +27,16 @@
   }
  },
  "flags": [
+  "unlicensed-full-text-source",
   "llm-extracted",
   "language-unmapped"
  ],
  "href": "https://chibbo.app/work/wk_w2s8fcfj",
  "id": "wk_w2s8fcfj",
  "identifiers": {
+  "mereb_mpid": [
+   "22698402"
+  ],
   "pdf_pagehash": [
    "090808030b080908",
    "4a0a264e0e2a2a08",
@@ -67,12 +72,39 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/atbiya"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22698402",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22698402"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "9.99",
+   "provider": "mereb",
+   "ref": "22698402",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22698402"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
   "ethiobookreview community rating 3.00/5 from 1 rating(s)",
+  "full text offered at https://typicalethiopian.com/wp-content/uploads/2022/03/አጥቢያ-አለማየሁ-ገላጋይ-1.pdf",
   "Read from PDF front matter: አጥቢያ አለማየሁ ገላጋይ.pdf"
  ],
  "provenance": {

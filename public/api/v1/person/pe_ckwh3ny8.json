@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirabiylabaza",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ckwh3ny8",
+ "id": "pe_ckwh3ny8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09252669",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09252669"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54806434",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54806434"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Abiy Lebeza"
+  },
+  "romanized": "Memihir Abiy Lebeza",
+  "sort_key": "memihirabiylebeza"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09252669"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ckwh3ny8",
+     "name": "Memihir Abiy Lebeza",
+     "role": "author",
+     "romanized": "Memihir Abiy Lebeza"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_errmx2y5",
+   "id": "wk_errmx2y5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kine Kunkunie (YeKine Memaria Ena Masitemaria Metsihaf)",
+    "script": "Ethi",
+    "text": "ቅኔ ቁንቁኔ (የቅኔ መማሪያ እና ማስተማሪያ መጽሐፍ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ckwh3ny8",
+     "name": "Memihir Abiy Lebeza",
+     "role": "author",
+     "romanized": "Memihir Abiy Lebeza"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_frjebn7b",
+   "id": "wk_frjebn7b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amde Ge'ez",
+    "script": "Ethi",
+    "text": "አምደ ግእዝ"
+   },
+   "type": "work"
+  }
+ ]
+}

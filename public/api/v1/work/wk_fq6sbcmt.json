@@ -18,7 +18,8 @@
   "text": "Werisa (Yewidket Felegoch) (Paper Cover) ወሪሳ (የውድቀት ፈለጎች) By Alemayehu Gelagay አንድ የአማርኛ መምህር ከአርሲ ነገሌ በሰራ ቅያሪ አዲስ አበባ ወደምትገኝ ወሪሳ በምትባል ሰፈር አክስቱ ለጊዜው ወዳወረሱት ቤት ይገባል:: መምህሩ በዚህች ሰፈር እንዲሁም በጎረቤት ሰፈሯ \"እሪ በከንቱ\" የሚያጋጥመውን የመላመድና የመኖር ፈተና ግጭት መስማማት ተንኮል ፍቅር አጣብቂኝ ውዝግብ እንዲሁም የሚሰማቸውን ወግና ታሪክ(ተረት) ይተርካል:: መፅሐፉ የሚያነሳችው ወጎች ተረትና ምሳሌዎች ታሪኮች(ተረቶች) ተምሳሌያዊነትን ያዘሉ ሲሆን የኢትዮጵያን ያለፈ እና የአሁኑን ታሪክ: የአሁኑ ትውልድ የሚያይበትን የተዛባ ዓይን በአሁኑ ትውልድ ውስጥ ስላሉት የተለያዩ ነባራዊ ሐቆች እንዲሁም ልዩነት ያላቸው ተጎራባቾች ላለፈው ታሪክ የሚያድርጉትን ሽሚያ እና ሽኩቻን ያሳያል::"
  },
  "editions": [
-  "ed_5k5gs8w8"
+  "ed_5k5gs8w8",
+  "ed_973d88ve"
  ],
  "extensions": {},
  "fingerprint": "ወሪሳየውድቀትፈለጎች|alamayahugalagay",
@@ -30,7 +31,8 @@
   }
  },
  "flags": [
-  "suspect-isbn"
+  "suspect-isbn",
+  "calendar-ambiguous"
  ],
  "href": "https://chibbo.app/work/wk_fq6sbcmt",
  "id": "wk_fq6sbcmt",
@@ -40,6 +42,9 @@
   ],
   "isbn13": [
    "9798884334557"
+  ],
+  "mereb_mpid": [
+   "31200630"
   ]
  },
  "language": "am",
@@ -61,16 +66,37 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://addisbooks.com/book/werisa-yewidket-felegoch/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31200630",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31200630"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "5.99",
+   "provider": "mereb",
+   "ref": "31200630",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31200630"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/werisa-yewidket-felegoch/"
  },
+ "publisher_name": "Alemayehu Gelagay",
  "relations": [],
  "rights": {
   "shippable": false,

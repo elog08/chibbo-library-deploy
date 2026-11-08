@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t09zf43j",
+ "@type": "Book",
+ "alternateName": [
+  "Ge'ez TextBook"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vbehs0e5",
+   "@type": "Person",
+   "name": "Dr. Amsalu Akililu"
+  }
+ ],
+ "datePublished": "2010?",
+ "inLanguage": "am",
+ "isbn": "9789994400485",
+ "name": "ግዕዝ መማሪያ መጽሐፍ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.94",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=85523651"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Shama Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=85523651"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jjwhyb3c",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "bamamihiryonashagos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k6fnqsjd",
+ "id": "pe_k6fnqsjd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60669409",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60669409"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "BeMemihir Yonas Hagos"
+  },
+  "romanized": "BeMemihir Yonas Hagos",
+  "sort_key": "bememihiryonashagos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=60669409"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k6fnqsjd",
+     "name": "BeMemihir Yonas Hagos",
+     "role": "author",
+     "romanized": "BeMemihir Yonas Hagos"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_94enx041",
+   "id": "wk_94enx041",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fina Kine",
+    "script": "Ethi",
+    "text": "ፍና ቅኔ"
+   },
+   "type": "work"
+  }
+ ]
+}

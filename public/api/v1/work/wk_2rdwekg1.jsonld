@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2rdwekg1",
+ "@type": "Book",
+ "alternateName": [
+  "Memeles"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mhgec5ne",
+   "@type": "Person",
+   "name": "Burtkuan Mideksa"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መመለስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=91105181"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=91105181"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0gc0caen",
+   "@type": "Book"
+  }
+ ]
+}

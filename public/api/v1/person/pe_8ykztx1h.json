@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmangstugabrab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8ykztx1h",
+ "id": "pe_8ykztx1h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84391553",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84391553"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mengstu Gebre'ab"
+  },
+  "romanized": "Memihir Mengstu Gebre'ab",
+  "sort_key": "memihirmengstugebreab"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=84391553"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8ykztx1h",
+     "name": "Memihir Mengstu Gebre'ab",
+     "role": "author",
+     "romanized": "Memihir Mengstu Gebre'ab"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e5zmrp0p",
+   "id": "wk_e5zmrp0p",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tibebe Kidus Yared (Aryam Zemsele Abun)",
+    "script": "Ethi",
+    "text": "ጥበበ ቅዱስ ያሬድ (አርያም ዘምሰለ አቡን)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

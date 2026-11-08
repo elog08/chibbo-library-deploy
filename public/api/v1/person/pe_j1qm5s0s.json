@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bisratamara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j1qm5s0s",
+ "id": "pe_j1qm5s0s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28336712",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28336712"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bisrat Amare"
+  },
+  "romanized": "Bisrat Amare",
+  "sort_key": "bisratamare"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28336712"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j1qm5s0s",
+     "name": "Bisrat Amare",
+     "role": "author",
+     "romanized": "Bisrat Amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cf8f5ys0",
+   "id": "wk_cf8f5ys0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Finote Gedil [Yehizbawi Weyane Harinet Tigiray Tarikawi Anesasina Guzo Yemejemeria Asir Ametat(1967-1977 E.C)]",
+    "script": "Ethi",
+    "text": "ፍኖተ-ገድል [የህዝባዊ ወያነ ሓርነት ትግራይ ታሪካዊ አነሳስና ጉዞ የ መጀመሪያ ዓስር ዓመታት(1967-1977 ዓ.ም.)]"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

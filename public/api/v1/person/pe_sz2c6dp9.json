@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "fasilgkiros",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sz2c6dp9",
+ "id": "pe_sz2c6dp9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10099890",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10099890"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fassil G.Kiros"
+  },
+  "romanized": "Fassil G.Kiros",
+  "sort_key": "fassilgkiros"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10099890"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sz2c6dp9",
+     "name": "Fassil G.Kiros",
+     "role": "author",
+     "romanized": "Fassil G.Kiros"
+    },
+    {
+     "id": "pe_smxzkdev",
+     "name": "ባሕሩ ዘውዴ",
+     "role": "author",
+     "romanized": "bahru zewde"
+    },
+    {
+     "id": "pe_fcdzspat",
+     "name": "Adhana Haile",
+     "role": "author",
+     "romanized": "Adhana Haile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jcv5jf9n",
+   "id": "wk_jcv5jf9n",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXI (November 1988)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

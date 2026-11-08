@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w7jz6pj8",
+ "@type": "Book",
+ "alternateName": [
+  "YeKesar Emba"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qe0behv5",
+   "@type": "Person",
+   "name": "ሀብታሙ አለባቸው"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የቄሳር እምባ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.95",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71184697"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litaman Books (2014/15)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71184697"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_kb4p89ew",
+   "@type": "Book"
+  }
+ ]
+}

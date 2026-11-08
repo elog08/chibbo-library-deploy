@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "halanmalkamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f2r3ywkx",
+ "id": "pe_f2r3ywkx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91376925",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91376925"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Helen Melkamu"
+  },
+  "romanized": "Helen Melkamu",
+  "sort_key": "helenmelkamu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=91376925"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f2r3ywkx",
+     "name": "Helen Melkamu",
+     "role": "author",
+     "romanized": "Helen Melkamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5jhcjvq5",
+   "id": "wk_5jhcjvq5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeunniveristy Temariwoch Gemena",
+    "script": "Ethi",
+    "text": "የዩኒቨርሲቲ ተማሪዎች ገመና (በተማሪዎች አንደበት የተነገሩ እውነተብኛ ታሪኮች እና በተመራማሪዎች ይፋ የተደረጉ አስገራሚ እውነታዎች)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

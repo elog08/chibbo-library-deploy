@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "kalkidanhailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ns4w2zme",
+ "id": "pe_ns4w2zme",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18921922",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18921922"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51928068",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51928068"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kalkidan Hailu"
+  },
+  "romanized": "Kalkidan Hailu",
+  "sort_key": "kalkidanhailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18921922"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ns4w2zme",
+     "name": "Kalkidan Hailu",
+     "role": "author",
+     "romanized": "Kalkidan Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8a64x803",
+   "id": "wk_8a64x803",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kibir",
+    "script": "Ethi",
+    "text": "ክብር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ns4w2zme",
+     "name": "Kalkidan Hailu",
+     "role": "author",
+     "romanized": "Kalkidan Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_apsjv05f",
+   "id": "wk_apsjv05f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Alatinos",
+    "script": "Ethi",
+    "text": "አላቲኖስ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "tamamababulgu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wbbdgftg",
+ "id": "pe_wbbdgftg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28856739",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28856739"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61103061",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61103061"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Temam Ababulgu"
+  },
+  "romanized": "Temam Ababulgu",
+  "sort_key": "temamababulgu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28856739"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wbbdgftg",
+     "name": "Temam Ababulgu",
+     "role": "author",
+     "romanized": "Temam Ababulgu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qnn5ten3",
+   "id": "wk_qnn5ten3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHiwehat Kign Agezazina Adisu Ethiopiayawi",
+    "script": "Ethi",
+    "text": "የህወሃት ቅኝ አገዛዝና አዲሱ ኢትዮጵያዊ"
+   },
+   "type": "work"
+  }
+ ]
+}

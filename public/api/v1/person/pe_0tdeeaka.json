@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "muhamodtoyibibinmuhamodibinyusufalyusuf",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0tdeeaka",
+ "id": "pe_0tdeeaka",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03124782",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03124782"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Muhamod Toyib Ibin Muhamod Ibin Yusuf Al-Yusuf"
+  },
+  "romanized": "Muhamod Toyib Ibin Muhamod Ibin Yusuf Al-Yusuf",
+  "sort_key": "muhamodtoyibibinmuhamodibinyusufalyusuf"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03124782"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0tdeeaka",
+     "name": "Muhamod Toyib Ibin Muhamod Ibin Yusuf Al-Yusuf",
+     "role": "author",
+     "romanized": "Muhamod Toyib Ibin Muhamod Ibin Yusuf Al-Yusuf"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c1pmgkcg",
+   "id": "wk_c1pmgkcg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopian Ena Islam",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ እና ኢስላም"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

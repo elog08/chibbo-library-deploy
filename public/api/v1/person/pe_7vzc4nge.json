@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "paolomarasini",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7vzc4nge",
+ "id": "pe_7vzc4nge",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42515532",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42515532"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paolo Marrassini"
+  },
+  "romanized": "Paolo Marrassini",
+  "sort_key": "paolomarrassini"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=42515532"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fk45y76j",
+     "name": "Stuart Munro-Hay",
+     "role": "author",
+     "romanized": "Stuart Munro-Hay"
+    },
+    {
+     "id": "pe_7vzc4nge",
+     "name": "Paolo Marrassini",
+     "role": "author",
+     "romanized": "Paolo Marrassini"
+    },
+    {
+     "id": "pe_2r6mc98q",
+     "name": "Rodolf Fattovich",
+     "role": "author",
+     "romanized": "Rodolf Fattovich"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1990?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_45xza1c4",
+   "id": "wk_45xza1c4",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXIII (November 1990)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1990
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "bakalabgalata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_eedqh04z",
+ "id": "pe_eedqh04z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55154709",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55154709"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bekalab Geleta"
+  },
+  "romanized": "Bekalab Geleta",
+  "sort_key": "bekalabgeleta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55154709"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_eedqh04z",
+     "name": "Bekalab Geleta",
+     "role": "author",
+     "romanized": "Bekalab Geleta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1wh3r4k2",
+   "id": "wk_1wh3r4k2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meseretawi YeShyachi Ena Yewekilan Hig",
+    "script": "Ethi",
+    "text": "መሰረታዊ የሽያጭ እና የውክልና ህግ"
+   },
+   "type": "work"
+  }
+ ]
+}

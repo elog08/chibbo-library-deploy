@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_x2y8pvfv",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_659qt619",
+   "@type": "Person",
+   "name": "Kahelil Jibran"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'teseberu kenfoch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.27",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=18854293"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=18854293"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gxwemsby",
+   "@type": "Book"
+  }
+ ]
+}

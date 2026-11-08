@@ -1,0 +1,81 @@
+{
+ "extensions": {},
+ "fingerprint": "alakababarham",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nx5wyc7s",
+ "id": "pe_nx5wyc7s",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Alebeh Abraha",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አልአክብ አብርሃም"
+  },
+  "romanized": "Alebeh Abraha",
+  "sort_key": "አልአክብአብርሀም"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from compilation እናት_ፍቅር_ሃገር_አሌክስ_አብርሃም.pdf (p. 144)"
+ ],
+ "provenance": {
+  "raw_sha256": "788581dc4a8494f9467840e4ddba8f165c21b4f0d1af34dd27537d4826131657",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nx5wyc7s",
+     "name": "አልአክብ አብርሃም",
+     "role": "author",
+     "romanized": "Alebeh Abraha"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ey1yv4a0",
+   "id": "wk_ey1yv4a0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_cv0a9vch",
+    "id": "wk_cv0a9vch",
+    "title": {
+     "lang": "am",
+     "romanized": "Enat Feker Hager",
+     "script": "Ethi",
+     "text": "እናት ፍቅር ሐገር"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "youth-and-solitude",
+    "country-and-history",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gin Yehem Aydellem",
+    "script": "Ethi",
+    "text": "ግን ይሄም አይደለም"
+   },
+   "type": "work"
+  }
+ ]
+}

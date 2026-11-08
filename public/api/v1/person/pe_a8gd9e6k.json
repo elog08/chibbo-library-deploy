@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "sirpatarlaslia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a8gd9e6k",
+ "id": "pe_a8gd9e6k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61564683",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61564683"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sir Peter Leslie"
+  },
+  "romanized": "Sir Peter Leslie",
+  "sort_key": "sirpeterleslie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=61564683"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a8gd9e6k",
+     "name": "Sir Peter Leslie",
+     "role": "author",
+     "romanized": "Sir Peter Leslie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_08cbqq6r",
+   "id": "wk_08cbqq6r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nigus Halesilase Ena YeEthiopia YeNetsanet Tigil",
+    "script": "Ethi",
+    "text": "ንጉሥ ኃይለ ሥላሴ እና የኢትዮጵያ የነፃነት ትግል"
+   },
+   "type": "work"
+  }
+ ]
+}

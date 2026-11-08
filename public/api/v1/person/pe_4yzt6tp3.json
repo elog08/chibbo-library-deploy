@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "lidatuayalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4yzt6tp3",
+ "id": "pe_4yzt6tp3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21196184",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21196184"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90954290",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90954290"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Lidetu Ayalew"
+  },
+  "romanized": "Lidetu Ayalew",
+  "sort_key": "lidetuayalew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21196184"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4yzt6tp3",
+     "name": "Lidetu Ayalew",
+     "role": "author",
+     "romanized": "Lidetu Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1ctt1nr3",
+   "id": "wk_1ctt1nr3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Theatre Boletika (Alubaltana yeAgerachin Yepoletica Gemena)",
+    "script": "Ethi",
+    "text": "ቴአትረ ቦለቲካ (አሉባልታና የአገራችን የፖለቲካ ገመና)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4yzt6tp3",
+     "name": "Lidetu Ayalew",
+     "role": "author",
+     "romanized": "Lidetu Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w92b0yq3",
+   "id": "wk_w92b0yq3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "27 Sidemer 2 (Ethiopia-Addis Ambagenawi Sir'at Bemawaled Hidet)",
+    "script": "Ethi",
+    "text": "27 ሲደመር 2 (ኢትዮጵያ-አዲስ አምባገነናዊ ስርዓት በማዋለድ ሂደት)"
+   },
+   "type": "work"
+  }
+ ]
+}

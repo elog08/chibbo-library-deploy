@@ -18,6 +18,7 @@
  "datePublished": "2014?",
  "image": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/yehiywete-fertoch-alemayehu-mamo.webp",
  "inLanguage": "am",
+ "isbn": "9781611191028",
  "name": "የህይወቴ ፈርጦች",
  "offers": [
   {
@@ -29,15 +30,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yehiywete-fertoch-alemayehu-mamo"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=87430445"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/yehiywete-fertoch-alemayehu-mamo"
+  "https://www.ethiobookreview.com/book/yehiywete-fertoch-alemayehu-mamo",
+  "https://www.mereb.shop/rs/?mpid=87430445"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_rv62kg0y",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_bc34w7bz",
    "@type": "Book"
   }
  ]

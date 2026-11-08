@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "tadrosmalati",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cephjxat",
+ "id": "pe_cephjxat",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76599999",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76599999"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91932771",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91932771"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadros Malati"
+  },
+  "romanized": "Tadros Malati",
+  "sort_key": "tadrosmalati"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76599999"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cephjxat",
+     "name": "Tadros Malati",
+     "role": "author",
+     "romanized": "Tadros Malati"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2dmsrvp6",
+   "id": "wk_2dmsrvp6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yekidus Yakob Melekt",
+    "script": "Ethi",
+    "text": "የቅዱስ ያዕቆብ መልእክት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cephjxat",
+     "name": "Tadros Malati",
+     "role": "author",
+     "romanized": "Tadros Malati"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5fbre326",
+   "id": "wk_5fbre326",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asadgugn",
+    "script": "Ethi",
+    "text": "አሳድጉኝ"
+   },
+   "type": "work"
+  }
+ ]
+}

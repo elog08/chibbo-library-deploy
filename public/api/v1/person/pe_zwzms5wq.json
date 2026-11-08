@@ -57,6 +57,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://openlibrary.org/authors/OL14129995A"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
   }
  ],
  "locked_fields": [],
@@ -158,8 +174,10 @@
    },
    "flags": [
     "format-ebook",
-    "format-paper-back"
+    "format-paper-back",
+    "unlicensed-full-text-source"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_fdcqsfrg",
    "id": "wk_fdcqsfrg",
    "language": "am",

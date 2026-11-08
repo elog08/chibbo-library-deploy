@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_myjqeftp",
+ "@type": "Book",
+ "alternateName": [
+  "Gizotegnaw Gini"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_py6pw8m0",
+   "@type": "Person",
+   "name": "Tadesse Tsega W/Silasse"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994472079",
+ "name": "ግዞተኛው ጂኒ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=47728996"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=47728996"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_495z9006",
+   "@type": "Book"
+  }
+ ]
+}

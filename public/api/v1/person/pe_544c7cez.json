@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "tahirshah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_544c7cez",
+ "id": "pe_544c7cez",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27268375",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27268375"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tahir Shah"
+  },
+  "romanized": "Tahir Shah",
+  "sort_key": "tahirshah"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27268375"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_544c7cez",
+     "name": "Tahir Shah",
+     "role": "author",
+     "romanized": "Tahir Shah"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nzfschyz",
+   "id": "wk_nzfschyz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Werk Mestir (In Search of King Solomon's Mines)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ወርቅ ሚስጥር ከንግስት ሣባ እስከ 21ኛው ክፍለ ዘመን"
+   },
+   "type": "work"
+  }
+ ]
+}

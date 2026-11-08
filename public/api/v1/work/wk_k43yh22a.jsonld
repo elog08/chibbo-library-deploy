@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k43yh22a",
+ "@type": "Book",
+ "alternateName": [
+  "Kalante"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_wv0yazgr",
+   "@type": "Person",
+   "name": "Tekilu Habte"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ካላንተ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=02822396"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=02822396"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8pw9hk76",
+   "@type": "Book"
+  }
+ ]
+}

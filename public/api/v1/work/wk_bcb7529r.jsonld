@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bcb7529r",
+ "@type": "Book",
+ "alternateName": [
+  "A'emron Masadeg"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bhk7tgxk",
+   "@type": "Person",
+   "name": "Dr.Carlos Dweck"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አእምሮን ማሳደግ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=56272403"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=56272403"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x1d018rj",
+   "@type": "Book"
+  }
+ ]
+}

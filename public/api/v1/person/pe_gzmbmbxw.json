@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hashimibrahim",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gzmbmbxw",
+ "id": "pe_gzmbmbxw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10175236",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10175236"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63369385",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63369385"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hashim Ibrahim"
+  },
+  "romanized": "Hashim Ibrahim",
+  "sort_key": "hashimibrahim"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10175236"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gzmbmbxw",
+     "name": "Hashim Ibrahim",
+     "role": "author",
+     "romanized": "Hashim Ibrahim"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_9zsttm3p",
+   "id": "wk_9zsttm3p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeLijoch Chewata",
+    "script": "Ethi",
+    "text": "የልጆች ጨዋታ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_gzmbmbxw",
+     "name": "Hashim Ibrahim",
+     "role": "author",
+     "romanized": "Hashim Ibrahim"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t8efyt5r",
+   "id": "wk_t8efyt5r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmaregna Fidel Memeria",
+    "script": "Ethi",
+    "text": "የአማርኛ ፊደል መማሪያ"
+   },
+   "type": "work"
+  }
+ ]
+}

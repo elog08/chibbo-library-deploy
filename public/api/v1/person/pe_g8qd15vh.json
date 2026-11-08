@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "athiopianrasarchcantar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g8qd15vh",
+ "id": "pe_g8qd15vh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89642518",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89642518"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ethiopian Research Center"
+  },
+  "romanized": "Ethiopian Research Center",
+  "sort_key": "ethiopianresearchcenter"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=89642518"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g8qd15vh",
+     "name": "Ethiopian Research Center",
+     "role": "author",
+     "romanized": "Ethiopian Research Center"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z35gv77x",
+   "id": "wk_z35gv77x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAdiwaw Wilo",
+    "script": "Ethi",
+    "text": "የአድዋው ውሎ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

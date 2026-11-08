@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalkalakirstosabay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4mdxassb",
+ "id": "pe_4mdxassb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04661031",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04661031"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Kalekirstos Abay"
+  },
+  "romanized": "Colonel Kalekirstos Abay",
+  "sort_key": "colonelkalekirstosabay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04661031"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4mdxassb",
+     "name": "Colonel Kalekirstos Abay",
+     "role": "author",
+     "romanized": "Colonel Kalekirstos Abay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xp1rtzq4",
+   "id": "wk_xp1rtzq4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be 1928 A.M Ethiopia BeItalia Mewerer",
+    "script": "Ethi",
+    "text": "በ1928 ዓ.ም ኢትዮጵያ በኢጣልያ መወረር"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

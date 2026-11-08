@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_d987f1qh",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6s8nehc5",
+   "@type": "Person",
+   "name": "Aster Seyfe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Fetena",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.80",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=23646166"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=23646166"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xzt47ezb",
+   "@type": "Book"
+  }
+ ]
+}

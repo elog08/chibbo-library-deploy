@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ahmadinjabal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6b5ajakv",
+ "id": "pe_6b5ajakv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76112160",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76112160"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ahmedin Jebel"
+  },
+  "romanized": "Ahmedin Jebel",
+  "sort_key": "ahmedinjebel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76112160"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6b5ajakv",
+     "name": "Ahmedin Jebel",
+     "role": "author",
+     "romanized": "Ahmedin Jebel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yz4y81qp",
+   "id": "wk_yz4y81qp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "3tu Atsewochi ena Ethiopiawioyan Muslimoch (Tigilina Meswa'etinet",
+    "script": "Ethi",
+    "text": "3ቱ አጼዎች እና ኢትዮጵያውያን ሙስሊሞች (ትግልና መስዋዕትነት)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

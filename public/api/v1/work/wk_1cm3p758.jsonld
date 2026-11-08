@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1cm3p758",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_0b84acfz",
+   "@type": "Person",
+   "name": "Aemero Nigussie"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Tintawi ye'Ethiopia ye'selam tibeka tarik: kqerat - zemenawi police",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=57306091"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=57306091"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ce9ymssw",
+   "@type": "Book"
+  }
+ ]
+}

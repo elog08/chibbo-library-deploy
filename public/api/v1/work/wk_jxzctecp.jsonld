@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/yedemena-sakoch-dereje-belayneh"
+  },
+  {
+   "@type": "Offer",
+   "price": "16.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=29101683"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/yedemena-sakoch-dereje-belayneh"
+  "https://www.ethiobookreview.com/book/yedemena-sakoch-dereje-belayneh",
+  "https://www.mereb.shop/rs/?mpid=29101683"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_c2nddb6p",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_hpsqn7a8",
    "@type": "Book"
   }
  ]

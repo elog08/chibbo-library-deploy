@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "fyodordostovosky",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_n77cna97",
+ "id": "pe_n77cna97",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38504699",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38504699"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fyodor Dostovosky"
+  },
+  "romanized": "Fyodor Dostovosky",
+  "sort_key": "fyodordostovosky"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38504699"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_n77cna97",
+     "name": "Fyodor Dostovosky",
+     "role": "author",
+     "romanized": "Fyodor Dostovosky"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ajwqnpgg",
+   "id": "wk_ajwqnpgg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMiyakelew Sew Hilim Ena Leloch Tarikoch",
+    "script": "Ethi",
+    "text": "የሚያቄለው ሰው ህልም እና ሌሎች ታሪኮች"
+   },
+   "type": "work"
+  }
+ ]
+}

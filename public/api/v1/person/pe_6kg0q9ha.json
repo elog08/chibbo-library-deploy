@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "shabishilama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6kg0q9ha",
+ "id": "pe_6kg0q9ha",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28625793",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28625793"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Shebishi Lema"
+  },
+  "romanized": "Shebishi Lema",
+  "sort_key": "shebishilema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=28625793"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6kg0q9ha",
+     "name": "Shebishi Lema",
+     "role": "author",
+     "romanized": "Shebishi Lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hbj3rrde",
+   "id": "wk_hbj3rrde",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Teteyek",
+    "script": "Ethi",
+    "text": "ተጠየቅ"
+   },
+   "type": "work",
+   "year": 1993
+  }
+ ]
+}

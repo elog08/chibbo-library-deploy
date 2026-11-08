@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "daconhilinabalata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0g86t2ba",
+ "id": "pe_0g86t2ba",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11898522",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11898522"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13039853",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13039853"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50464861",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50464861"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Hilina Belete"
+  },
+  "romanized": "Deacon Hilina Belete",
+  "sort_key": "deaconhilinabelete"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11898522"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0g86t2ba",
+     "name": "Deacon Hilina Belete",
+     "role": "author",
+     "romanized": "Deacon Hilina Belete"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_22smm9ym",
+   "id": "wk_22smm9ym",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awigstinos (BeOrthodox Eyita)",
+    "script": "Ethi",
+    "text": "አውግስጢኖስ (በኦርቶዶክስ እይታ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0g86t2ba",
+     "name": "Deacon Hilina Belete",
+     "role": "author",
+     "romanized": "Deacon Hilina Belete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kfxkrqmr",
+   "id": "wk_kfxkrqmr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMesitet Hiywet",
+    "script": "Ethi",
+    "text": "የመስጠት ሕይወት"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0g86t2ba",
+     "name": "Deacon Hilina Belete",
+     "role": "author",
+     "romanized": "Deacon Hilina Belete"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pt7e5sdb",
+   "id": "wk_pt7e5sdb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthodoksawi Menfesawinet",
+    "script": "Ethi",
+    "text": "ኦርቶዶክሳዊ መንፈሳዊነት"
+   },
+   "type": "work"
+  }
+ ]
+}

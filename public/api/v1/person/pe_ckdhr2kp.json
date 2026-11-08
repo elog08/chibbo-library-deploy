@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "340",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ckdhr2kp",
+ "id": "pe_ckdhr2kp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79202862",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79202862"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Zyyy",
+   "text": "340"
+  },
+  "romanized": "340",
+  "sort_key": "340"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79202862"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ckdhr2kp",
+     "name": "340",
+     "role": "author",
+     "romanized": "340"
+    },
+    {
+     "id": "pe_4n6g3j2n",
+     "name": "ከተማ አድማሱ",
+     "role": "author",
+     "romanized": "ketema admasu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_h7awgbm6",
+   "id": "wk_h7awgbm6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sine Amro",
+    "script": "Ethi",
+    "text": "ሥነ አእምሮ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

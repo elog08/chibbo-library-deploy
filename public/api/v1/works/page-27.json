@@ -1,21 +1,96 @@
 {
  "items": [
   {
-   "cover": {
-    "path": "assets/covers/wk_pa4va0cn.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pa4va0cn.png"
-   },
    "credits": [
     {
-     "id": "pe_k09ssza3",
-     "name": "ተስፋ ስንታየሁ",
+     "id": "pe_v767ra41",
+     "name": "Girmay Froze",
      "role": "author",
-     "romanized": "Tesfa Sintayehu Workneh"
+     "romanized": "Girmay Froze"
     }
    ],
    "date": {
     "calendar": "ambiguous",
-    "edtf": "1989?",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9t8bpe2k",
+   "id": "wk_9t8bpe2k",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shrek",
+    "script": "Ethi",
+    "text": "ሽሬክ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_bgkvmjak",
+     "name": "Tigist Wondwesson",
+     "role": "author",
+     "romanized": "Tigist Wondwesson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_m561gd4v",
+   "id": "wk_m561gd4v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shirshir Wede Planet",
+    "script": "Ethi",
+    "text": "ሽርሸር ወደ ፕላኔት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_p8ngn61m",
+     "name": "Jemil Akiber",
+     "role": "author",
+     "romanized": "Jemil Akiber"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2wd3jxw7",
+   "id": "wk_2wd3jxw7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shirshir",
+    "script": "Ethi",
+    "text": "ሽርሽር"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_4hskeg6b.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4hskeg6b.png"
+   },
+   "credits": [
+    {
+     "id": "pe_n8900k3j",
+     "name": "አዘርግ",
+     "role": "author",
+     "romanized": "azereg"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
     "flags": [
      "calendar-ambiguous"
     ]
@@ -24,67 +99,252 @@
     "llm-extracted",
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_pa4va0cn",
-   "id": "wk_pa4va0cn",
+   "href": "https://chibbo.app/work/wk_4hskeg6b",
+   "id": "wk_4hskeg6b",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "chewata tobiya beyerusalem",
+    "romanized": "sherebeten",
     "script": "Ethi",
-    "text": "ጨዋታ ጦቢያ በየሩሳሌም"
+    "text": "ሽርብትን"
    },
    "type": "work",
-   "year": 1989
+   "year": 2008
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4f873w67",
+     "name": "Azerg",
+     "role": "author",
+     "romanized": "Azerg"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jcmjybb3",
+   "id": "wk_jcmjybb3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shirbitin",
+    "script": "Ethi",
+    "text": "ሽርብትን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_f6a8pbkv",
+     "name": "ተስፋዬ አየለ",
+     "role": "author",
+     "romanized": "tesfaye ayele"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qn9022ag",
+   "id": "wk_qn9022ag",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shinkurina Witaf",
+    "script": "Ethi",
+    "text": "ሽንቁርና ውታፍ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_e9j67944",
+     "name": "Sibhat G.Egziabher",
+     "role": "author",
+     "romanized": "Sibhat G.Egziabher"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8y8teyfv",
+   "id": "wk_8y8teyfv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shiftochna Meriwoch",
+    "script": "Ethi",
+    "text": "ሽፍቶችና መሪዎች"
+   },
+   "type": "work"
   },
   {
    "cover": {
-    "path": "assets/covers/wk_ze80p1mt.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Poetry/chew-berenda-misrak-terefe.webp"
+    "path": "assets/covers/wk_8795gwjv.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/ሾተላዩ-ሰላይ.jpg"
+   },
+   "credits": [],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_8795gwjv",
+   "id": "wk_8795gwjv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shotelayu Selay",
+    "script": "Ethi",
+    "text": "ሾተላዩ ሰላይ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_r7g31cqk",
+     "name": "Ermias Gulilat",
+     "role": "author",
+     "romanized": "Ermias Gulilat"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hsaeav2k",
+   "id": "wk_hsaeav2k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ke.Haile silase Ena Pan Africanism",
+    "script": "Ethi",
+    "text": "ቀ.ኃይለ ሥላሴ እና ፓን-አፍሪካኒዝም"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vaz52rda",
+     "name": "Addisalem Mulat",
+     "role": "author",
+     "romanized": "Addisalem Mulat"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a152c9e8",
+   "id": "wk_a152c9e8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kelem Kebiw Ena Lelochim Asidesach Teretoch",
+    "script": "Ethi",
+    "text": "ቀለም ቀቢው እና ሌሎችም አስደሳች ተረቶች"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_4p9zy255.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4p9zy255.png"
    },
    "credits": [
     {
-     "id": "pe_j7xmftyp",
-     "name": "ምስራቅ ተረፈ",
+     "id": "pe_sqwp19pw",
+     "name": "ዶ/ር ሪቻርድ ካርሰን",
      "role": "author",
-     "romanized": "Misrak Terefe"
+     "romanized": "do/re richared karsen"
+    },
+    {
+     "id": "pe_9t0afmr1",
+     "name": "ዶ/ር ዮናስ ላቀው",
+     "role": "author",
+     "romanized": "Dr Yonas Lakew"
+    },
+    {
+     "id": "pe_6v7p6y3y",
+     "name": "ወንድወሰን አየለ",
+     "role": "author",
+     "romanized": "wenedwesen ayele"
+    },
+    {
+     "id": "pe_sm0pbc2q",
+     "name": "ብዙነሽ ክፍሌ",
+     "role": "author",
+     "romanized": "bezunesh kefle"
+    },
+    {
+     "id": "pe_aygcbmdz",
+     "name": "ትግስት አድማሱ",
+     "role": "author",
+     "romanized": "tegeset admasu"
+    },
+    {
+     "id": "pe_axbwyhav",
+     "name": "ያዕቆብ ዓድናለም",
+     "role": "author",
+     "romanized": "yaqob adnalem"
     }
    ],
    "date": {
     "calendar": "ambiguous",
-    "edtf": "2009?",
+    "edtf": "2012?",
     "flags": [
      "calendar-ambiguous"
     ]
    },
    "flags": [
+    "llm-extracted",
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_ze80p1mt",
-   "id": "wk_ze80p1mt",
+   "form": "Codex",
+   "href": "https://chibbo.app/work/wk_4p9zy255",
+   "id": "wk_4p9zy255",
    "language": "am",
-   "poetry": true,
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "chew berenda",
+    "romanized": "qelalun neger atakabed!",
     "script": "Ethi",
-    "text": "ጨው በረንዳ"
+    "text": "ቀላሉን ነገር አታካብድ!"
    },
    "type": "work",
-   "year": 2009
+   "year": 2012
   },
   {
    "cover": {
-    "path": "assets/covers/wk_d0tcz536.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/7854ab79-44d0-4a0e-b955-a511c7437de4PazionBookCover.jpg"
+    "path": "assets/covers/wk_tbeq3qj0.jpg",
+    "source_url": "https://hahubooks.com/resource/img/%E1%89%80%E1%88%8B%E1%88%89%E1%8A%95_%E1%8A%90%E1%8C%88%E1%88%AD_%E1%8A%A0%E1%89%B3%E1%8A%AB%E1%89%A5%E1%8B%B5.jpg"
    },
    "credits": [
     {
-     "id": "pe_swsdbhra",
-     "name": "መክት ፋንቱ (መምህር)",
+     "id": "pe_yj9bj7ev",
+     "name": "ዮናስ ላቀው",
      "role": "author",
-     "romanized": "meket fantu (memeher)"
+     "romanized": "yonas laqew"
+    }
+   ],
+   "flags": [
+    "format-paper-back"
+   ],
+   "href": "https://chibbo.app/work/wk_tbeq3qj0",
+   "id": "wk_tbeq3qj0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qelalun neger atakabed",
+    "script": "Ethi",
+    "text": "ቀላሉን ነገር አታካብድ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_6gp1x1fs.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/c85aa9d2-6342-445c-b274-35626e3dae94KelbeMulunetBookCover.png"
+   },
+   "credits": [
+    {
+     "id": "pe_j3jxbrsz",
+     "name": "Dr. Tesfay Solomon Tsegay",
+     "role": "author",
+     "romanized": "Dr. Tesfay Solomon Tsegay"
     }
    ],
    "date": {
@@ -98,30 +358,399 @@
     "format-ebook",
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_d0tcz536",
-   "id": "wk_d0tcz536",
+   "href": "https://chibbo.app/work/wk_6gp1x1fs",
+   "id": "wk_6gp1x1fs",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "pazyon",
+    "romanized": "qelbe mulu heywet",
     "script": "Ethi",
-    "text": "ጳዝዮን"
+    "text": "ቀልበ ሙሉ ህይወት"
    },
    "type": "work",
    "year": 2016
   },
   {
    "cover": {
-    "path": "assets/covers/wk_hsrmqgvv.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Fiction/phazion-mekit-fantu.webp"
+    "path": "assets/covers/wk_4je1c9py.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_4je1c9py.png"
    },
    "credits": [
     {
-     "id": "pe_mfb0t3jd",
-     "name": "መክት ፋንቱ",
+     "id": "pe_gxwqe9gx",
+     "name": "ሸረፈዲን የእናቱ ልጅ",
      "role": "author",
-     "romanized": "Mekit Fantu"
+     "romanized": "sherefedin yenatu lej"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_4je1c9py",
+   "id": "wk_4je1c9py",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qelna fenetertariw",
+    "script": "Ethi",
+    "text": "ቀልና ፍንጥርጣሪው"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_er1120q3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_er1120q3.png"
+   },
+   "credits": [
+    {
+     "id": "pe_wg155f5k",
+     "name": "አረፈዓይኔ ሐጎስ",
+     "role": "author",
+     "romanized": "arefeayne hegos"
+    },
+    {
+     "id": "pe_wjjw4v99",
+     "name": "ኤፍሬም እንዳለ",
+     "role": "author",
+     "romanized": "efrem endale"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1979?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_er1120q3",
+   "id": "wk_er1120q3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qeldoch",
+    "script": "Ethi",
+    "text": "ቀልዶች"
+   },
+   "type": "work",
+   "year": 1979
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_53k5jvhm.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_53k5jvhm.png"
+   },
+   "credits": [
+    {
+     "id": "pe_h7q16j9v",
+     "name": "አረፈዓይኔ ሐጐስ",
+     "role": "author",
+     "romanized": "arefeayne hegwes"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_53k5jvhm",
+   "id": "wk_53k5jvhm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qeldoch kegabrovo meder",
+    "script": "Ethi",
+    "text": "ቀልዶች ከጋብሮቮ ምድር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_pn6h8nvn",
+     "name": "Memihir Asfaw Abate",
+     "role": "author",
+     "romanized": "Memihir Asfaw Abate"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wyk6c6tj",
+   "id": "wk_wyk6c6tj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kemere Henok Ena YeAlem Fitsame",
+    "script": "Ethi",
+    "text": "ቀመረ ሄኖክ እና የዓለም ፍፃሜ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rm0f3n54",
+     "name": "Antenehe Eshetu",
+     "role": "author",
+     "romanized": "Antenehe Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_03j6xexh",
+   "id": "wk_03j6xexh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kemis Yegaredew",
+    "script": "Ethi",
+    "text": "ቀሚስ የጋረደው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ezmnrs41",
+     "name": "ገብረ ክርስቶስ ደስታ",
+     "role": "author",
+     "romanized": "Gebre Kristos Desta"
+    },
+    {
+     "id": "pe_0qnk9fq5",
+     "name": "አማረ ማሞ",
+     "role": "author",
+     "romanized": "Amare Mamo"
+    },
+    {
+     "id": "pe_tfjm9dtn",
+     "name": "አምሃ አስፋው",
+     "role": "author",
+     "romanized": "Amha Asfaw"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_vckr9adx",
+   "id": "wk_vckr9adx",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_1xxqnc3g",
+    "id": "wk_1xxqnc3g",
+    "title": {
+     "lang": "am",
+     "romanized": "yegebrekerestos desta getmoch",
+     "script": "Ethi",
+     "text": "የገብረክርስቶስ ደስታ ግጥሞች"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "grief-and-mortality"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qeresh Indeqeh",
+    "script": "Ethi",
+    "text": "ቀረሽ እንደቀህ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_srgjvs3g",
+     "name": "Tadesse ZeWelde",
+     "role": "author",
+     "romanized": "Tadesse ZeWelde"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1968?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n6pstvt1",
+   "id": "wk_n6pstvt1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kerin Geremew YeArbegnoch Tarik",
+    "script": "Ethi",
+    "text": "ቀሪን ገረመው የአርበኞች ታሪክ"
+   },
+   "type": "work",
+   "year": 1968
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ph85g43e",
+     "name": "Kegnazimach Tadese Zewelde",
+     "role": "author",
+     "romanized": "Kegnazimach Tadese Zewelde"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tj22mhz7",
+   "id": "wk_tj22mhz7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kerin Geremew (YeArbegnoch Tarik)",
+    "script": "Ethi",
+    "text": "ቀሪን ገረመው (የአርበኞች ታሪክ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9qbemtkq",
+     "name": "Lt.Colonel Abebe W/Tinsay",
+     "role": "author",
+     "romanized": "Lt.Colonel Abebe W/Tinsay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xq6f4sb5",
+   "id": "wk_xq6f4sb5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ke.Se.Na Tor E.",
+    "script": "Ethi",
+    "text": "ቀ.ሠ ና ጦር ሠ"
+   },
+   "type": "work",
+   "year": 2008
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3xm9adwk",
+     "name": "Sisay Awegachew",
+     "role": "author",
+     "romanized": "Sisay Awegachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_gsy970cy",
+   "id": "wk_gsy970cy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kesite Nihib (Yalitenegerew Yeshewa Anabist Jegninet)",
+    "script": "Ethi",
+    "text": "ቀስተ ንኅብ (ያልተነገረው የሸዋ አናብስት ጀግንነት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fx817jcc",
+     "name": "Dr.Birhanu Boggale",
+     "role": "author",
+     "romanized": "Dr.Birhanu Boggale"
+    },
+    {
+     "id": "pe_p58c136q",
+     "name": "Dr.Nuru Mohammad Tahir",
+     "role": "author",
+     "romanized": "Dr.Nuru Mohammad Tahir"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xws9w72b",
+   "id": "wk_xws9w72b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Keberowina Mognu Fiyel",
+    "script": "Ethi",
+    "text": "ቀበሮውና ሞኙ ፍየል"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_af03kjcx.webp",
+    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Weg/kebena-betewsta-godana-alemayehu-mamo.webp"
+   },
+   "credits": [
+    {
+     "id": "pe_46zg3qgp",
+     "name": "አለማየሁ ማሞ",
+     "role": "author",
+     "romanized": "Alemayehu Mamo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_af03kjcx",
+   "id": "wk_af03kjcx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qebena betewesta godana",
+    "script": "Ethi",
+    "text": "ቀበና በትውስታ ጎዳና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_s1v0srqr",
+     "name": "Alem Eshetu",
+     "role": "author",
+     "romanized": "Alem Eshetu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ay7tckw9",
+   "id": "wk_ay7tckw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeBetua Wiro (For Kindergarten Children)",
+    "script": "Ethi",
+    "text": "ቀበጣ ውሮ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_kjdv0czz.jpg",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/6a802d39-f2a8-4910-9b53-043aa65ae86eQebtsyaBookCover.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_4ra3jb5c",
+     "name": "የቃናው ስምዖን",
+     "role": "author",
+     "romanized": "yeqanaw semon"
     }
    ],
    "date": {
@@ -132,37 +761,129 @@
     ]
    },
    "flags": [
+    "format-ebook",
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_hsrmqgvv",
-   "id": "wk_hsrmqgvv",
+   "href": "https://chibbo.app/work/wk_kjdv0czz",
+   "id": "wk_kjdv0czz",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "pazyon",
+    "romanized": "qebetsya",
     "script": "Ethi",
-    "text": "ጳዝዮን"
+    "text": "ቀብጽያ"
    },
    "type": "work",
    "year": 2015
   },
   {
+   "credits": [
+    {
+     "id": "pe_092k98mj",
+     "name": "Tegaye Shinbir",
+     "role": "author",
+     "romanized": "Tegaye Shinbir"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7ggf0hj9",
+   "id": "wk_7ggf0hj9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kenategnaw Ahya ena Leloch Mirt Achachir Teretoch",
+    "script": "Ethi",
+    "text": "ቀናተኛው አህያ እና ሌሎች ምርጥ አጫጭር ተረቶች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_w3mte77q",
+     "name": "ዓለም ፀሐይ ወዳጆ",
+     "role": "author",
+     "romanized": "Alemtsehay Wedajo"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_563wvffy",
+   "id": "wk_563wvffy",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_q73q9701",
+    "id": "wk_q73q9701",
+    "title": {
+     "lang": "am",
+     "romanized": "Yemata Injera Alemtsehay Wedajo",
+     "script": "Ethi",
+     "text": "የማታ እንጀራ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qenaw",
+    "script": "Ethi",
+    "text": "ቀናው"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
-    "path": "assets/covers/wk_btkyhbed.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/tsehayu-enko-sillassie-dr-amare-tegbaru-beyene.webp"
+    "path": "assets/covers/wk_b8cknktm.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/1b2e339b-50e3-4911-9218-471824225486KenBookCover.png"
    },
    "credits": [
     {
-     "id": "pe_gv8rbs7a",
-     "name": "ዶ/ር አማረ ተግባሩ በየነ",
+     "id": "pe_xnbnsf97",
+     "name": "ሰሎሞን በርሄ ዶ/ር",
      "role": "author",
-     "romanized": "Dr Amare Tegbaru Beyene"
+     "romanized": "selomon berhe do/re"
     }
    ],
    "date": {
     "calendar": "ambiguous",
-    "edtf": "2014?",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "format-audiobook",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b8cknktm",
+   "id": "wk_b8cknktm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qen",
+    "script": "Ethi",
+    "text": "ቀን"
+   },
+   "type": "work",
+   "year": 2003
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_z3c29nzz",
+     "name": "Kedamawi Solomon",
+     "role": "author",
+     "romanized": "Kedamawi Solomon"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
     "flags": [
      "calendar-ambiguous"
     ]
@@ -170,117 +891,444 @@
    "flags": [
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_btkyhbed",
-   "id": "wk_btkyhbed",
+   "href": "https://chibbo.app/work/wk_dpvvegg6",
+   "id": "wk_dpvvegg6",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "tseheyu enqo selase",
+    "romanized": "Ken",
     "script": "Ethi",
-    "text": "ፀሐዩ ዕንቆ ስላሴ"
+    "text": "ቀን"
    },
    "type": "work",
-   "year": 2014
+   "year": 2011
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_y0e2vdrm.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_y0e2vdrm.png"
-   },
    "credits": [
     {
-     "id": "pe_0gec1a08",
-     "name": "መኰንን እንዳልካቸው",
+     "id": "pe_dzbga6sz",
+     "name": "Memihir Sisay Wogayehu",
      "role": "author",
-     "romanized": "mekwenen endalkachew"
+     "romanized": "Memihir Sisay Wogayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n0tv31fx",
+   "id": "wk_n0tv31fx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kenona (Sireate Bete Christian) Zeorthodoks Chiristina",
+    "script": "Ethi",
+    "text": "ቀኖና (ሥርዓተ ቤተ ክርስቲያን)ዘኦርቶዶክስ ክርስትና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2ewt3k04",
+     "name": "Fisseha Meaza",
+     "role": "author",
+     "romanized": "Fisseha Meaza"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_79y5cwpf",
+   "id": "wk_79y5cwpf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kegn Tsidu,Gira Tsidu",
+    "script": "Ethi",
+    "text": "ቀኙ ፅዱ ግራ ጽዱ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dnj8e5zq",
+     "name": "Selam Gidey",
+     "role": "author",
+     "romanized": "Selam Gidey"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_g4rqktht",
+   "id": "wk_g4rqktht",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kezahita",
+    "script": "Ethi",
+    "text": "ቀዛሕታ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_06az39ww",
+     "name": "Eskinder Merhatsidik",
+     "role": "author",
+     "romanized": "Eskinder Merhatsidik"
     }
    ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "1957-09-11/1958-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
-    "llm-extracted",
-    "filename-title-mismatch"
+    "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_y0e2vdrm",
-   "id": "wk_y0e2vdrm",
+   "href": "https://chibbo.app/work/wk_nmsrdxfn",
+   "id": "wk_nmsrdxfn",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "tsehey mesefen leb weled tarik",
+    "romanized": "Key Siroch Ena Lelochim",
     "script": "Ethi",
-    "text": "ፀሐይ መስፍን ልብ ወለድ ታሪክ"
+    "text": "ቀይ ሥሮችና ሌሎችም"
    },
    "type": "work",
-   "year": 1957
+   "year": 2012
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_26v4j9kx.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/74676c44-c25f-455b-b683-e3a84769d027CatchingTheSunAmharicCover420.png"
-   },
    "credits": [
     {
-     "id": "pe_mmzc7fc1",
-     "name": "Ready Set Go Books",
+     "id": "pe_4hw7mdhj",
+     "name": "Firdaweke Mamo (Dr.)",
      "role": "author",
-     "romanized": "Ready Set Go Books"
+     "romanized": "Firdaweke Mamo (Dr.)"
     }
    ],
-   "flags": [
-    "format-ebook"
-   ],
-   "href": "https://chibbo.app/work/wk_26v4j9kx",
-   "id": "wk_26v4j9kx",
+   "href": "https://chibbo.app/work/wk_qfdf51gs",
+   "id": "wk_qfdf51gs",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "tseheyen qelbe bebete endelbe",
+    "romanized": "Key Bahir Sikela",
     "script": "Ethi",
-    "text": "ፀሀይን ቀልቤ በቤቴ እንደልቤ"
+    "text": "ቀይ ባህር ሲቀላ"
    },
    "type": "work"
   },
   {
    "cover": {
-    "path": "assets/covers/wk_j6rc23n8.jpg",
-    "source_url": "https://addisbooks.com/wp-content/uploads/2026/04/Tseloten-Enemar.jpg"
+    "path": "assets/covers/wk_c5mzdw25.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_c5mzdw25.png"
    },
    "credits": [
     {
-     "id": "pe_y5cnhsrx",
-     "name": "Dr Shimelis Wondimu",
+     "id": "pe_jh8t40qt",
+     "name": "ኮ/ል አልኸንድሮ ዴል ባዬ",
      "role": "author",
-     "romanized": "Dr Shimelis Wondimu"
+     "romanized": "ko/le alkenedro del baye"
+    },
+    {
+     "id": "pe_5f35pxag",
+     "name": "ተስፋዬ መኮንን ባይለየኝ",
+     "role": "author",
+     "romanized": "tesfaye mekonen bayleyeny"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c5mzdw25",
+   "id": "wk_c5mzdw25",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qey anbesa",
+    "script": "Ethi",
+    "text": "ቀይ አንበሳ"
+   },
+   "type": "work",
+   "year": 2003
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_011aqctv",
+     "name": "Colonel Alehandro Del Baye",
+     "role": "author",
+     "romanized": "Colonel Alehandro Del Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m6ksf3qw",
+   "id": "wk_m6ksf3qw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Key Anbessa",
+    "script": "Ethi",
+    "text": "ቀይ አንበሳ"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_j8fn1dc6",
+     "name": "Getachew Tegegn",
+     "role": "author",
+     "romanized": "Getachew Tegegn"
     }
    ],
    "date": {
     "calendar": "gregorian",
-    "edtf": "2025-05-15",
+    "edtf": "2022",
     "flags": []
    },
-   "href": "https://chibbo.app/work/wk_j6rc23n8",
-   "id": "wk_j6rc23n8",
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_dmwmvtvw",
+   "id": "wk_dmwmvtvw",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "Tseloten Enemar",
+    "romanized": "RED HEN (Keyua Doro)",
     "script": "Ethi",
-    "text": "ጸሎትን እንማር"
+    "text": "ቀይዋ ዶሮ"
    },
    "type": "work",
-   "year": 2025
+   "year": 2022
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vrkkx2m5",
+     "name": "ተስፋዬ ገብረአብ",
+     "role": "author",
+     "romanized": "Tesfaye Gebreab"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xnf3t78h",
+   "id": "wk_xnf3t78h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Key Zemen",
+    "script": "Ethi",
+    "text": "ቀይ ዘመን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_w7c6r1jb",
+     "name": "Mers'e Hazen Welde Kirkos",
+     "role": "author",
+     "romanized": "Mers'e Hazen Welde Kirkos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n2570w0f",
+   "id": "wk_n2570w0f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamawi Hailesilase (1922-1927)",
+    "script": "Ethi",
+    "text": "ቀዳማዊ ኃይለ ሥላሴ (1922-1927)"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_806g5evv",
+     "name": "The then Ministry of Information",
+     "role": "author",
+     "romanized": "The then Ministry of Information"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_bf63w3xs",
+   "id": "wk_bf63w3xs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Radia Messages Broadcast From Guenet Leul Palace by Imperial Majesty Haile Selassie I (On August 28 and On September 18, 1959)",
+    "script": "Ethi",
+    "text": "ቀዳማዊ ኃይለ ሥላሴ በነሐሴ ፪፪ ቀን ፲፱፻፶፩ መስከረም ፯ ቀን ፲፱፻፶፪ ዓ.ም ከገነተ ልዑል ቤተ መንግሥት በራዲዮ ያደረጉት ንግግር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jykjzt32",
+     "name": "Tamirat Aberra Jembere",
+     "role": "author",
+     "romanized": "Tamirat Aberra Jembere"
+    },
+    {
+     "id": "pe_zfppj9yj",
+     "name": "Tamirat",
+     "role": "author",
+     "romanized": "Tamirat"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2m2rxfza",
+   "id": "wk_2m2rxfza",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamawi Tewoflos Patriarch(1902-1971)",
+    "script": "Ethi",
+    "text": "ቀዳማዊ ቴዎፍሎስ ፓትርያርክ (፲፱፻፪ ፲፱፻፸፩)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3xmpd4nm",
+     "name": "Irving Wallace",
+     "role": "author",
+     "romanized": "Irving Wallace"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ppr7pp0p",
+   "id": "wk_ppr7pp0p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamawitua Emebet",
+    "script": "Ethi",
+    "text": "ቀዳማዊት አመቤት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_df6yet91",
+     "name": "Yemane G/Meskel",
+     "role": "author",
+     "romanized": "Yemane G/Meskel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rd6wbpks",
+   "id": "wk_rd6wbpks",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kedamai Weyane",
+    "script": "Ethi",
+    "text": "ቀዳማይ ወያነ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xgde6t8m",
+     "name": "መክብብ ደስታ",
+     "role": "author",
+     "romanized": "mekebeb desta"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ay56577p",
+   "id": "wk_ay56577p",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_872ytzhe",
+    "id": "wk_872ytzhe",
+    "title": {
+     "lang": "am",
+     "romanized": "yato mesenbet balenjernet tarikna yemesgana getem",
+     "script": "Ethi",
+     "text": "ያቶ መሰንበት ባልንጀርነት ታሪክና የምስጋና ግጥም"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy",
+    "country-and-history",
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qetoro",
+    "script": "Ethi",
+    "text": "ቀጠሮ"
+   },
+   "type": "work"
   },
   {
    "cover": {
-    "path": "assets/covers/wk_8n6ygfp9.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/5bc72e62-45b5-4fd6-b93f-4773fbec469eFotballFunTigrinyaCover.png"
+    "path": "assets/covers/wk_sgtt9t52.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/4c05ebb9-a3a0-4680-b0dc-19e73c573bf3GiraffeAndMeAmharicCover400.png"
    },
    "credits": [
     {
@@ -293,56 +1341,229 @@
    "flags": [
     "format-ebook"
    ],
-   "href": "https://chibbo.app/work/wk_8n6ygfp9",
-   "id": "wk_8n6ygfp9",
+   "href": "https://chibbo.app/work/wk_sgtt9t52",
+   "id": "wk_sgtt9t52",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "tseweta kwiuso egri",
+    "romanized": "qechne ena ene",
     "script": "Ethi",
-    "text": "ጸወታ ኲዑሶ እግሪ"
+    "text": "ቀጭኔ እና እኔ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [],
+   "href": "https://chibbo.app/work/wk_4jqwcfwc",
+   "id": "wk_4jqwcfwc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kumneger Beteret",
+    "script": "Ethi",
+    "text": "ቁምነገር በተረት"
    },
    "type": "work"
   },
   {
    "cover": {
-    "path": "assets/covers/wk_d8qwx27t.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_d8qwx27t.png"
+    "path": "assets/covers/wk_t7ftmzq3.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t7ftmzq3.png"
    },
-   "credits": [],
+   "credits": [
+    {
+     "id": "pe_2h95bgh3",
+     "name": "ያሲን ሑሴን",
+     "role": "author",
+     "romanized": "yasin husen"
+    },
+    {
+     "id": "pe_wthxee85",
+     "name": "አብዱልአዚዝ አደም",
+     "role": "author",
+     "romanized": "abdulaziz adem"
+    },
+    {
+     "id": "pe_m0n93ssk",
+     "name": "ወሒብ መሐመድ",
+     "role": "author",
+     "romanized": "wehib mehemed"
+    },
+    {
+     "id": "pe_8hyq6xqg",
+     "name": "አዲል አብደላ ሐሰን",
+     "role": "author",
+     "romanized": "Adil Abdella"
+    }
+   ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "1999-09-12/2000-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
-    "llm-extracted"
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous",
+    "multilingual",
+    "language-unmapped"
    ],
-   "href": "https://chibbo.app/work/wk_d8qwx27t",
-   "id": "wk_d8qwx27t",
+   "href": "https://chibbo.app/work/wk_t7ftmzq3",
+   "id": "wk_t7ftmzq3",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "Tsegaye",
+    "romanized": "Galmee jechoota",
     "script": "Ethi",
-    "text": "ጸጋዬ"
+    "text": "“ቁራስ” መዝገበ ቃላት"
    },
    "type": "work",
-   "year": 1999
+   "year": 2002
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_y7934pab",
+     "name": "Solomon Mesfin",
+     "role": "author",
+     "romanized": "Solomon Mesfin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g403s0qg",
+   "id": "wk_g403s0qg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kurawochina Ebab",
+    "script": "Ethi",
+    "text": "ቁራዎችና እባብ"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_1m55nz2y",
+     "name": "Memihir Cherinet Abebe (Dr.)",
+     "role": "author",
+     "romanized": "Memihir Cherinet Abebe (Dr.)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jjfjd3en",
+   "id": "wk_jjfjd3en",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kurban ZeBeaman",
+    "script": "Ethi",
+    "text": "ቁርባን ዘበአማን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_c78b4k0c",
+     "name": "Abul ela Al-Mewdudi",
+     "role": "author",
+     "romanized": "Abul ela Al-Mewdudi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ta856a0w",
+   "id": "wk_ta856a0w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qurann Lemeredat",
+    "script": "Ethi",
+    "text": "ቁርአንን ለመረዳት"
+   },
+   "type": "work",
+   "year": 2007
   },
   {
    "cover": {
-    "path": "assets/covers/wk_8n0yfaaa.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Biography/tsegaye-gebremedhin-desaleng-seyoum.webp"
+    "path": "assets/covers/wk_dky4m82a.png",
+    "source_url": "https://s3.amazonaws.com/BloomLibraryBooks/musie_menna%40sil.org%2f6cff3e9a-9ea8-4a57-a228-c06f8b9ae352%2f%e1%89%81%e1%88%b5%e1%88%8d%2fthumbnail-256.png"
+   },
+   "credits": [],
+   "form": "picture book",
+   "href": "https://chibbo.app/work/wk_dky4m82a",
+   "id": "wk_dky4m82a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qusel",
+    "script": "Ethi",
+    "text": "ቁስል"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_64m4b26y.png",
+    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/58ec1971-10b1-499d-bc90-4067ea83d457CountForMeCover.png"
    },
    "credits": [
     {
-     "id": "pe_p8g85q7q",
-     "name": "ደሳለኝ ስዩም",
+     "id": "pe_mmzc7fc1",
+     "name": "Ready Set Go Books",
      "role": "author",
-     "romanized": "Desaleng Seyoum"
+     "romanized": "Ready Set Go Books"
+    }
+   ],
+   "flags": [
+    "format-ebook"
+   ],
+   "href": "https://chibbo.app/work/wk_64m4b26y",
+   "id": "wk_64m4b26y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "quteruleny",
+    "script": "Ethi",
+    "text": "ቁጠሩልኝ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8pvygevh",
+     "name": "Dr.W.Doyle Gentry",
+     "role": "author",
+     "romanized": "Dr.W.Doyle Gentry"
     }
    ],
    "date": {
@@ -355,393 +1576,100 @@
    "flags": [
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_8n0yfaaa",
-   "id": "wk_8n0yfaaa",
+   "href": "https://chibbo.app/work/wk_2b7vk5mj",
+   "id": "wk_2b7vk5mj",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "tsegaye gebre medehen serawochna felesefna",
+    "romanized": "Anger Management (Kuta Yetena Balanta)",
     "script": "Ethi",
-    "text": "ጸጋዬ ገብረ መድህን ሥራዎችና ፍልስፍና"
+    "text": "ቁጣ!የጤና ባላንጣ"
    },
    "type": "work",
    "year": 2013
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_bwze4841.jpg",
-    "source_url": "https://addisbooks.com/wp-content/uploads/2026/03/ferisaa.jpg"
-   },
    "credits": [
     {
-     "id": "pe_qzah44c2",
-     "name": "አለማየሁ ገላጋይ",
+     "id": "pe_4f873w67",
+     "name": "Azerg",
      "role": "author",
-     "romanized": "Alemayehu Gelagay"
+     "romanized": "Azerg"
     }
    ],
-   "date": {
-    "calendar": "gregorian",
-    "edtf": "2026-03-21",
-    "flags": []
-   },
-   "flags": [
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_bwze4841",
-   "id": "wk_bwze4841",
+   "href": "https://chibbo.app/work/wk_tx746j4s",
+   "id": "wk_tx746j4s",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "Ferisa",
+    "romanized": "Kua",
     "script": "Ethi",
-    "text": "ፈሪሳ"
-   },
-   "type": "work",
-   "year": 2026
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_m8sz6sff.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/9a675817-5d2c-4038-8aab-25df56af5203cover.png"
-   },
-   "credits": [
-    {
-     "id": "pe_16m2d2n0",
-     "name": "ሄኖክ ግርማ",
-     "role": "author",
-     "romanized": "henok germa"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2016?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-audiobook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_m8sz6sff",
-   "id": "wk_m8sz6sff",
-   "language": "am",
-   "poetry": true,
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "filefit sennyoch",
-    "script": "Ethi",
-    "text": "ፊለፊት ስንኞች"
-   },
-   "type": "work",
-   "year": 2016
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_0x3qtkqn.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Spritual/fesalgos.webp"
-   },
-   "credits": [
-    {
-     "id": "pe_be80db43",
-     "name": "ዲያቆን ዳንኤል ክብረት",
-     "role": "author",
-     "romanized": "Daniel Kibret"
-    }
-   ],
-   "href": "https://chibbo.app/work/wk_0x3qtkqn",
-   "id": "wk_0x3qtkqn",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fisalgos",
-    "script": "Ethi",
-    "text": "ፊሳልጎስ"
+    "text": "ቓ"
    },
    "type": "work"
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_29fkzfjw.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/427d34e8-3713-488c-97f7-f11f238b3f96FitlefitSingnochBookCover.jpg"
-   },
    "credits": [
     {
-     "id": "pe_16m2d2n0",
-     "name": "ሄኖክ ግርማ",
+     "id": "pe_xh3ffwq6",
+     "name": "Memihir Bekalu Sibihat",
      "role": "author",
-     "romanized": "henok germa"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2004?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_29fkzfjw",
-   "id": "wk_29fkzfjw",
-   "language": "am",
-   "poetry": true,
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fitlefit sennyoch",
-    "script": "Ethi",
-    "text": "ፊትለፊት ስንኞች"
-   },
-   "type": "work",
-   "year": 2004
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_cb8zyv2s.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8A%E1%89%B5_%E1%88%9B%E1%8A%95%E1%89%A0%E1%89%A5.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_grvtqtep",
-     "name": "ካብታሙ አየለ",
-     "role": "author",
-     "romanized": "kabtamu ayele"
+     "romanized": "Memihir Bekalu Sibihat"
     }
    ],
    "flags": [
-    "format-paper-back"
+    "language-inferred-from-script"
    ],
-   "href": "https://chibbo.app/work/wk_cb8zyv2s",
-   "id": "wk_cb8zyv2s",
+   "href": "https://chibbo.app/work/wk_c4w31gjk",
+   "id": "wk_c4w31gjk",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "fit manbeb",
+    "romanized": "Kale Kidase",
     "script": "Ethi",
-    "text": "ፊት ማንበብ"
+    "text": "ቃለ ቅዳሴ"
    },
    "type": "work"
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_45715rm7.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Politics/fals-temesgen-getahun.webp"
-   },
    "credits": [
     {
-     "id": "pe_qvgfsnqx",
-     "name": "ተመስገን ጌታሁን",
+     "id": "pe_xh3ffwq6",
+     "name": "Memihir Bekalu Sibihat",
      "role": "author",
-     "romanized": "Temesgen Getahun"
+     "romanized": "Memihir Bekalu Sibihat"
     }
    ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2021?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
    "flags": [
-    "calendar-ambiguous"
+    "language-inferred-from-script"
    ],
-   "href": "https://chibbo.app/work/wk_45715rm7",
-   "id": "wk_45715rm7",
+   "href": "https://chibbo.app/work/wk_j4809ghz",
+   "id": "wk_j4809ghz",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "fales",
+    "romanized": "Kale Kidase Se'reate Kidase Kenemilikitu",
     "script": "Ethi",
-    "text": "ፋልስ"
-   },
-   "type": "work",
-   "year": 2021
-  },
-  {
-   "credits": [
-    {
-     "id": "pe_d5fpt4pw",
-     "name": "Tekle Hawariat Tekle Mariyam",
-     "role": "author",
-     "romanized": "Tekle Hawariat Tekle Mariyam"
-    }
-   ],
-   "date": {
-    "calendar": "gregorian",
-    "edtf": "1912?",
-    "flags": []
-   },
-   "flags": [
-    "date-uncertain"
-   ],
-   "href": "https://chibbo.app/work/wk_tmv6x2mr",
-   "id": "wk_tmv6x2mr",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "Fabula",
-    "script": "Ethi",
-    "text": "ፋቡላ"
-   },
-   "type": "work",
-   "year": 1912
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_dm355emh.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Business/finance-management-dr-abush-ayalew.webp"
-   },
-   "credits": [
-    {
-     "id": "pe_6ygy1z0f",
-     "name": "ዶ/ር አቡሽ አያለው",
-     "role": "author",
-     "romanized": "Dr Abush Ayalew"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2018?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_dm355emh",
-   "id": "wk_dm355emh",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "faynanes manejmenet",
-    "script": "Ethi",
-    "text": "ፋይናንስ ማነጅመንት"
-   },
-   "type": "work",
-   "year": 2018
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_wc3dn810.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/f9d09347-3fb8-49f4-860b-052e06459b32FilegawBookCover.png"
-   },
-   "credits": [
-    {
-     "id": "pe_3a2220q4",
-     "name": "ዩኒቲ መፅሐፍ መደብር ፋሲካ",
-     "role": "author",
-     "romanized": "yuniti metshef medeber fasika"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2006?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_wc3dn810",
-   "id": "wk_wc3dn810",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "felegaw",
-    "script": "Ethi",
-    "text": "ፍለጋው"
-   },
-   "type": "work",
-   "year": 2006
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_rg75tvrj.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%88%8D%E1%88%B5%E1%88%9D%E1%8A%93_4_%E1%8B%88%E1%8B%B0%E1%8A%A5%E1%8A%9B%E1%8A%90%E1%89%B3%E1%89%BD%E1%8A%95_%E1%88%98%E1%88%98%E1%88%88%E1%88%B5.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_k8e0cn0t",
-     "name": "ቴዎድሮስ ተ/አረጋይ",
-     "role": "author",
-     "romanized": "tewodros te/aregay"
-    }
-   ],
-   "flags": [
-    "format-paper-back"
-   ],
-   "href": "https://chibbo.app/work/wk_rg75tvrj",
-   "id": "wk_rg75tvrj",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "felesemna 4 wedenyanetachen memeles",
-    "script": "Ethi",
-    "text": "ፍልስምና ፬ ወደእኛነታችን መመለስ"
+    "text": "ቃለ ቅዳሴ ሥርዓተ ቅዳሴ ከነምልክቱ"
    },
    "type": "work"
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_bgjzd9m6.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%88%8D%E1%88%B5%E1%8D%8D%E1%8A%93_3.jpg"
-   },
    "credits": [
     {
-     "id": "pe_ymnb194d",
-     "name": "ብሩህ ዓለምነህ",
+     "id": "pe_acp8xg1a",
+     "name": "Deacon Hiruy Baye",
      "role": "author",
-     "romanized": "beruh alemneh"
-    }
-   ],
-   "flags": [
-    "format-paper-back"
-   ],
-   "href": "https://chibbo.app/work/wk_bgjzd9m6",
-   "id": "wk_bgjzd9m6",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "felesefna 3",
-    "script": "Ethi",
-    "text": "ፍልስፍና ፫"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_975kmr35.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Philosophy/philosophy-zerya-yakob-eske-socrates-feluy-alem.webp"
-   },
-   "credits": [
-    {
-     "id": "pe_sq7be768",
-     "name": "ፍሉይ ዓለም",
-     "role": "author",
-     "romanized": "Feluy Alem"
+     "romanized": "Deacon Hiruy Baye"
     }
    ],
    "date": {
     "calendar": "ambiguous",
-    "edtf": "2014?",
+    "edtf": "2013?",
     "flags": [
      "calendar-ambiguous"
     ]
@@ -749,897 +1677,45 @@
    "flags": [
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_975kmr35",
-   "id": "wk_975kmr35",
+   "href": "https://chibbo.app/work/wk_fhcrfsqz",
+   "id": "wk_fhcrfsqz",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "felesefna kezera yaqob eske soqrates",
+    "romanized": "Kale Tewatshio (1gna Metsihaf)(Answers to Questions Asked Frequently)",
     "script": "Ethi",
-    "text": "ፍልስፍና ከዘርዓ ያዕቆብ እስከ ሶቅራጥስ"
-   },
-   "type": "work",
-   "year": 2014
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_azkftq7w.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/b1305afe-5821-4fc3-9c31-846aa09fe6c3ICanCountEnglishAndAmharicCover.png"
-   },
-   "credits": [
-    {
-     "id": "pe_mmzc7fc1",
-     "name": "Ready Set Go Books",
-     "role": "author",
-     "romanized": "Ready Set Go Books"
-    }
-   ],
-   "flags": [
-    "format-ebook"
-   ],
-   "href": "https://chibbo.app/work/wk_azkftq7w",
-   "id": "wk_azkftq7w",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "ferafrewen qoterkut",
-    "script": "Ethi",
-    "text": "ፍራፍሬውን ቆጠርኩት"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_pzv5vsbk.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pzv5vsbk.png"
-   },
-   "credits": [
-    {
-     "id": "pe_j8vs8fdy",
-     "name": "ተገኘ ብልሔቱ",
-     "role": "author",
-     "romanized": "tegenye belhetu"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2006-09-11/2007-09-11",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_pzv5vsbk",
-   "id": "wk_pzv5vsbk",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fere alba belesoch (yeqeb weset gemena)",
-    "script": "Ethi",
-    "text": "ፍሬ አልባ በለሶች (የቅብ ውስጥ ገመና)"
-   },
-   "type": "work",
-   "year": 2006
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_r7x2er91.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_r7x2er91.png"
-   },
-   "credits": [
-    {
-     "id": "pe_zs063mdg",
-     "name": "ቀዳማዊ ኃይለ ሥላሴ",
-     "role": "author",
-     "romanized": "qedamawi hayle selase"
-    },
-    {
-     "id": "pe_bnc3xqv3",
-     "name": "ብላታ መርስዔ ኀዘን ወልደ ቂርቆስ",
-     "role": "author",
-     "romanized": "belata merese hezen welde qirqos"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "1954-09-11/1955-09-11",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_r7x2er91",
-   "id": "wk_r7x2er91",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fere kenafer",
-    "script": "Ethi",
-    "text": "ፍሬ ከናፍር"
-   },
-   "type": "work",
-   "year": 1954
-  },
-  {
-   "credits": [
-    {
-     "id": "pe_zfrpgq9h",
-     "name": "ወረቁ አበበ",
-     "role": "author",
-     "romanized": "Werku Abebe"
-    }
-   ],
-   "href": "https://chibbo.app/work/wk_3h4zbwjc",
-   "id": "wk_3h4zbwjc",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "ferhetehen atefra",
-    "script": "Ethi",
-    "text": "ፍርሀትህን አትፍራ"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_ba2e50jf.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ba2e50jf.png"
-   },
-   "credits": [
-    {
-     "id": "pe_jkx6nnej",
-     "name": "ሱዛን ጄፈርስ",
-     "role": "author",
-     "romanized": "suzan jeferes"
-    },
-    {
-     "id": "pe_bc9jspwj",
-     "name": "ወርቁ አበራ",
-     "role": "author",
-     "romanized": "werqu abera"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2017-09-11/2018-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted",
-    "filename-title-mismatch"
-   ],
-   "href": "https://chibbo.app/work/wk_ba2e50jf",
-   "id": "wk_ba2e50jf",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "Feel the Fear And Do It",
-    "script": "Ethi",
-    "text": "ፍርሀትህን አትፍራው"
-   },
-   "type": "work",
-   "year": 2017
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_dkgkw155.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/0bfa848c-21ce-40e6-8746-509fbf1a6159FirhadBookCover.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_31yf2jsd",
-     "name": "ካሳሁን በቀለ",
-     "role": "author",
-     "romanized": "kasahun beqele"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2015?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_dkgkw155",
-   "id": "wk_dkgkw155",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "ferhad",
-    "script": "Ethi",
-    "text": "ፍርሃድ"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_wfmjkxc9.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wfmjkxc9.png"
-   },
-   "credits": [
-    {
-     "id": "pe_c45z5he5",
-     "name": "ታደለ ባሳዝነው አየለ",
-     "role": "author",
-     "romanized": "tadele basaznew ayele"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2015-09-12/2016-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_wfmjkxc9",
-   "id": "wk_wfmjkxc9",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqer betenqola beaned weqet beityopya",
-    "script": "Ethi",
-    "text": "ፍቅር በጥንቆላ በአንድ ወቅት በኢትዮጵያ"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_cqafnp3a.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2022/075f74a5-555b-48e5-9146-a13b87438b20FekerenaMaregBookCover.png"
-   },
-   "credits": [
-    {
-     "id": "pe_36d861q0",
-     "name": "ሰብለ ይርጋ",
-     "role": "author",
-     "romanized": "seble yerga"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2014?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_cqafnp3a",
-   "id": "wk_cqafnp3a",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqer’na mareg",
-    "script": "Ethi",
-    "text": "ፍቅር’ና ማዕረግ"
-   },
-   "type": "work",
-   "year": 2014
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_jh4xtapr.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Spritual/fekirna-gabicha-hadiya-mohammed.webp"
-   },
-   "credits": [
-    {
-     "id": "pe_yep8qwta",
-     "name": "ሀድያ ሞሃመድ",
-     "role": "author",
-     "romanized": "Hadiya Mohammed"
-    }
-   ],
-   "href": "https://chibbo.app/work/wk_jh4xtapr",
-   "id": "wk_jh4xtapr",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqerna gabcha",
-    "script": "Ethi",
-    "text": "ፍቅርና ጋብቻ"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_ev9kxm9r.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%89%85%E1%88%AD_%E1%8A%A5%E1%88%B5%E1%8A%A8_%E1%88%98%E1%89%83%E1%89%A5%E1%88%AD.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_mqh1gb2n",
-     "name": "ሀዲስ ዓለማየሁ",
-     "role": "author",
-     "romanized": "hedis alemayehu"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "1965-09-11/1966-09-10",
-    "flags": [
-     "ec-gc-conflict"
-    ]
-   },
-   "flags": [
-    "ec-gc-conflict",
-    "format-paper-back",
-    "llm-extracted",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_ev9kxm9r",
-   "id": "wk_ev9kxm9r",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "Fikir Eske Mekabir",
-    "script": "Ethi",
-    "text": "ፍቅር እስከ መቃብር"
-   },
-   "type": "work",
-   "year": 1965
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_ev973qbw.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/3f390084-36c9-4a1e-b3f9-c53785610872FikirEnaBekelBookCover.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_4q7bgvh3",
-     "name": "ዘሪሁን ገመቹ",
-     "role": "author",
-     "romanized": "zerihun gemechu"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2015?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_ev973qbw",
-   "id": "wk_ev973qbw",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqer ena beqel",
-    "script": "Ethi",
-    "text": "ፍቅር እና በቀል"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_bh5zp6ct.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/88f6957e-f766-41b7-896e-92fef2a48a2fFikirEzihbotaFegegBiloNeberCoverH400.png"
-   },
-   "credits": [
-    {
-     "id": "pe_y4yb8sp6",
-     "name": "ኤፍሬም ስዩም",
-     "role": "author",
-     "romanized": "efrem seyum"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2004?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous",
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_bh5zp6ct",
-   "id": "wk_bh5zp6ct",
-   "language": "am",
-   "poetry": true,
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqer ezih bota fegeg belo neber",
-    "script": "Ethi",
-    "text": "ፍቅር እዚህ ቦታ ፈገግ ብሎ ነበር"
-   },
-   "type": "work",
-   "year": 2004
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_naa6tyrg.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/190dcac8-a889-4c20-9384-c0587fbcbe92FikerKeflasfaBookCover.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_4q7bgvh3",
-     "name": "ዘሪሁን ገመቹ",
-     "role": "author",
-     "romanized": "zerihun gemechu"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2015?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_naa6tyrg",
-   "id": "wk_naa6tyrg",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feqer kefelesfa",
-    "script": "Ethi",
-    "text": "ፍቅር ከፈለስፋ"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_qatdsmdd.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%89%B5%E1%88%90%E1%8B%8A_%E1%8B%A8%E1%8C%A0%E1%8C%85_%E1%8A%AD%E1%8D%8D%E1%8D%8D%E1%88%8D.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_r3vv3amv",
-     "name": "ገነነ መኩሪያ",
-     "role": "author",
-     "romanized": "Genene Mekuriya"
-    }
-   ],
-   "flags": [
-    "format-paper-back"
-   ],
-   "href": "https://chibbo.app/work/wk_qatdsmdd",
-   "id": "wk_qatdsmdd",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fethewi yetej kefefel",
-    "script": "Ethi",
-    "text": "ፍትሐዊ የጠጅ ክፍፍል"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_wz66ckqr.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_wz66ckqr.png"
-   },
-   "credits": [
-    {
-     "id": "pe_v7thv8tw",
-     "name": "ሮበርት ሉድለም",
-     "role": "author",
-     "romanized": "roberet ludlem"
-    }
-   ],
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_wz66ckqr",
-   "id": "wk_wz66ckqr",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fenech",
-    "script": "Ethi",
-    "text": "ፍንጭ"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_a911t5hw.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2023/edfc20a8-e4b4-49fe-85bc-45aabb670459FinoteMetshatBookCover.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_ah479246",
-     "name": "ተመስገን ዘገዬ",
-     "role": "author",
-     "romanized": "temesgen zegeye"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2015?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_a911t5hw",
-   "id": "wk_a911t5hw",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fenote metsahefet",
-    "script": "Ethi",
-    "text": "ፍኖተ መጻሕፍት"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_b87900g1.jpg",
-    "source_url": "https://addisbooks.com/wp-content/uploads/2025/12/ፍካሬ-Fikarie-Afrikaans-Edition.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_7vd86fyz",
-     "name": "Dr. Alemayehu Wassie",
-     "role": "author",
-     "romanized": "Dr. Alemayehu Wassie"
-    }
-   ],
-   "href": "https://chibbo.app/work/wk_b87900g1",
-   "id": "wk_b87900g1",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "Fikarie",
-    "script": "Ethi",
-    "text": "ፍካሬ"
-   },
-   "type": "work"
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_0zds600k.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0zds600k.png"
-   },
-   "credits": [
-    {
-     "id": "pe_41vbep5a",
-     "name": "ዶክተር አብነት ስሜ",
-     "role": "author",
-     "romanized": "dokter abnet seme"
-    },
-    {
-     "id": "pe_pkcmkrqj",
-     "name": "አደዳ ኃይለሥላሴ",
-     "role": "author",
-     "romanized": "adeda hayleslase"
-    },
-    {
-     "id": "pe_jth66arh",
-     "name": "ካሳሁን ከበደ",
-     "role": "author",
-     "romanized": "kasahun kebede"
-    },
-    {
-     "id": "pe_z7e5dkc1",
-     "name": "ተክለማርያም ኃይሉ",
-     "role": "author",
-     "romanized": "teklemaryam haylu"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2015-09-12/2016-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted",
-    "filename-title-mismatch"
-   ],
-   "href": "https://chibbo.app/work/wk_0zds600k",
-   "id": "wk_0zds600k",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "fekare ityopya",
-    "script": "Ethi",
-    "text": "ፍካሬ ኢትዮጵያ"
-   },
-   "type": "work",
-   "year": 2015
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_1b3rqxm5.png",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/1c23738b-5f75-4586-8a0d-59fa591e3d03FitunanBookCover.png"
-   },
-   "credits": [
-    {
-     "id": "pe_hsea98qv",
-     "name": "ሲሳይ መኳንንት",
-     "role": "author",
-     "romanized": "sisay mekwanenet"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2016?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_1b3rqxm5",
-   "id": "wk_1b3rqxm5",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "feturanu",
-    "script": "Ethi",
-    "text": "ፍጡራኑ"
-   },
-   "type": "work",
-   "year": 2016
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_qq50rckw.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qq50rckw.png"
-   },
-   "credits": [
-    {
-     "id": "pe_1yrj4vqe",
-     "name": "ድሩሲላ ዱንጅን ሐውስተን",
-     "role": "author",
-     "romanized": "derusila dunejen hewesten"
-    },
-    {
-     "id": "pe_a146jere",
-     "name": "ጌታቸው ተስፋዬ ጎጂ",
-     "role": "author",
-     "romanized": "getachew tesfaye goji"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2009-09-11/2010-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_qq50rckw",
-   "id": "wk_qq50rckw",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "piramid genbiwochu tentawi ityopyawyan",
-    "script": "Ethi",
-    "text": "ፒራሚድ ገንቢዎቹ ጥንታዊ ኢትዮጵያውያን"
-   },
-   "type": "work",
-   "year": 2009
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_jkhtm0yt.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_jkhtm0yt.png"
-   },
-   "credits": [
-    {
-     "id": "pe_jfkcv7mq",
-     "name": "መሐመድ ሰልማን",
-     "role": "author",
-     "romanized": "mehemed selman"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2011-09-12/2012-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted",
-    "filename-title-mismatch"
-   ],
-   "href": "https://chibbo.app/work/wk_jkhtm0yt",
-   "id": "wk_jkhtm0yt",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "piyasa mahmud ga tebqiny!",
-    "script": "Ethi",
-    "text": "ፒያሳ ማሕሙድ ጋ ጠብቂኝ!"
-   },
-   "type": "work",
-   "year": 2011
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_49cc28fg.jpg",
-    "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2024/1a679034-f268-498b-b876-2339b8fea611PasPatBookCover.jpg"
-   },
-   "credits": [
-    {
-     "id": "pe_swsdbhra",
-     "name": "መክት ፋንቱ (መምህር)",
-     "role": "author",
-     "romanized": "meket fantu (memeher)"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2016?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "format-ebook",
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_49cc28fg",
-   "id": "wk_49cc28fg",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "pas pat",
-    "script": "Ethi",
-    "text": "ፓስ ፓት"
-   },
-   "type": "work",
-   "year": 2016
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_2a324kpp.webp",
-    "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/Spritual/paspat-the-pastor-patriarch-mekit-fantu.webp"
-   },
-   "credits": [
-    {
-     "id": "pe_mfb0t3jd",
-     "name": "መክት ፋንቱ",
-     "role": "author",
-     "romanized": "Mekit Fantu"
-    }
-   ],
-   "date": {
-    "calendar": "ambiguous",
-    "edtf": "2010?",
-    "flags": [
-     "calendar-ambiguous"
-    ]
-   },
-   "flags": [
-    "calendar-ambiguous"
-   ],
-   "href": "https://chibbo.app/work/wk_2a324kpp",
-   "id": "wk_2a324kpp",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "pas pot (pasteru pateryarek)",
-    "script": "Ethi",
-    "text": "ፓስ ፖት (ፓስተሩ ፓትርያርክ)"
-   },
-   "type": "work",
-   "year": 2010
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_a3ae6tkf.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_a3ae6tkf.png"
-   },
-   "credits": [
-    {
-     "id": "pe_wcrcn2b0",
-     "name": "ሄንሪ ሸሪየ",
-     "role": "author",
-     "romanized": "henri sheriye"
-    },
-    {
-     "id": "pe_hb14tsxw",
-     "name": "ጌታቸው ገብሬ",
-     "role": "author",
-     "romanized": "getachew gebre"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2013-09-11/2014-09-10",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_a3ae6tkf",
-   "id": "wk_a3ae6tkf",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "PAPILLON",
-    "script": "Ethi",
-    "text": "ፓፒዮ"
+    "text": "ቃለ ተዋሥኦ ፩ኛ መጽሐፍ (ለጥያቄቆቻቹህ መልሶች)"
    },
    "type": "work",
    "year": 2013
   },
   {
-   "cover": {
-    "path": "assets/covers/wk_y9bxsajy.jpg",
-    "source_url": "https://hahubooks.com/resource/img/%E1%8D%95%E1%88%8C%E1%89%B6%E1%8D%A1_%E1%8B%A8%E1%88%B6%E1%89%85%E1%88%AB%E1%8C%A5%E1%88%B5_%E1%8B%A8%E1%88%95%E1%8B%AD%E1%8B%88%E1%89%B1_%E1%88%98%E1%8C%A8%E1%88%A8%E1%88%BB_%E1%89%80%E1%8A%93%E1%89%B5_%E1%8A%A5%E1%8A%93_%E1%8D%8D%E1%88%8D%E1%88%B5%E1%8D%8D%E1%8A%93%E1%8B%8D.jpg"
-   },
    "credits": [
     {
-     "id": "pe_8abpk7rx",
-     "name": "ስንታየሁ ዘርዓብሩክ",
+     "id": "pe_hwz1dj7m",
+     "name": "Balembaras Mengistu Taye",
      "role": "author",
-     "romanized": "sentayehu zerabruk"
+     "romanized": "Balembaras Mengistu Taye"
     }
    ],
-   "flags": [
-    "format-paper-back"
-   ],
-   "href": "https://chibbo.app/work/wk_y9bxsajy",
-   "id": "wk_y9bxsajy",
+   "href": "https://chibbo.app/work/wk_t25ss66r",
+   "id": "wk_t25ss66r",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "peleto yesoqrates yeheywetu mecheresha qenat ena felesefnaw",
+    "romanized": "Kale Niguse Negetina Kidus Edel",
     "script": "Ethi",
-    "text": "ፕሌቶ የሶቅራጥስ የሕይወቱ መጨረሻ ቀናት እና ፍልስፍናው"
+    "text": "ቃለ ንጉሠ ነገስትና ቅዱስ ዕድል"
    },
    "type": "work"
   }
  ],
- "next": null,
+ "next": "/api/v1/works/page-28.json",
  "page": 27,
  "page_size": 60,
- "pages": 27,
+ "pages": 96,
  "prev": "/api/v1/works/page-26.json",
- "total": 1608
+ "total": 5748
 }

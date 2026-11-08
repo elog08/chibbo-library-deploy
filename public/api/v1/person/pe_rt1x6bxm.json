@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "asrasyanasaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_rt1x6bxm",
+ "id": "pe_rt1x6bxm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73903943",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73903943"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asres Yenesew"
+  },
+  "romanized": "Asres Yenesew",
+  "sort_key": "asresyenesew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73903943"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rt1x6bxm",
+     "name": "Asres Yenesew",
+     "role": "author",
+     "romanized": "Asres Yenesew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1959?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_v1kf7wjt",
+   "id": "wk_v1kf7wjt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tibae Aksum Menu Ante",
+    "script": "Ethi",
+    "text": "ትቤ አክሱም መኑ አንተ"
+   },
+   "type": "work",
+   "year": 1959
+  }
+ ]
+}

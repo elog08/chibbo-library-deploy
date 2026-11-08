@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "jimrankin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07y2syt5",
+ "id": "pe_07y2syt5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07247278",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07247278"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "JIM RANKIN"
+  },
+  "romanized": "JIM RANKIN",
+  "sort_key": "jimrankin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07247278"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07y2syt5",
+     "name": "JIM RANKIN",
+     "role": "author",
+     "romanized": "JIM RANKIN"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fw0qfkcp",
+   "id": "wk_fw0qfkcp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Jesus IN ETHIOPIA(THE MEETING BETWEEN THE FATHER AND THE SON)",
+    "script": "Ethi",
+    "text": "እየሱስ ክርስቶስ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

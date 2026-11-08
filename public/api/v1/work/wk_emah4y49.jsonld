@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_emah4y49",
+ "@type": "Book",
+ "alternateName": [
+  "Kidus Paulos"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mjbkpktq",
+   "@type": "Person",
+   "name": "Deacon Abel Kassahun"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ቅዱስ ጳውሎስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=16080650"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=16080650"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f1cbx9c7",
+   "@type": "Book"
+  }
+ ]
+}

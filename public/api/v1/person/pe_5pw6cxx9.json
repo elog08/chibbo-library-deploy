@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirtsagayasafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5pw6cxx9",
+ "id": "pe_5pw6cxx9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09865168",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09865168"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Tsegaye Asefa"
+  },
+  "romanized": "Memihir Tsegaye Asefa",
+  "sort_key": "memihirtsegayeasefa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09865168"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wr4ngywd",
+     "name": "Fikirte Mulaw",
+     "role": "author",
+     "romanized": "Fikirte Mulaw"
+    },
+    {
+     "id": "pe_5pw6cxx9",
+     "name": "Memihir Tsegaye Asefa",
+     "role": "author",
+     "romanized": "Memihir Tsegaye Asefa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0ag0hh94",
+   "id": "wk_0ag0hh94",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sinziro Mamo Kilona Leloch Mirt YeEthiopiaywaiyan Teretoch",
+    "script": "Ethi",
+    "text": "ስንዝሮ ማሞ ቂሎና ሌሎች ምርጥ የኢትዮጵያውያን ተረቶች"
+   },
+   "type": "work"
+  }
+ ]
+}

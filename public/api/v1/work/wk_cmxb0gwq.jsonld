@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cmxb0gwq",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_py4c2x7b",
+   "@type": "Person",
+   "name": "Like Tebebet Asrade Bayabel"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Saint Yared",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=97244435"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=97244435"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x7zjbkb3",
+   "@type": "Book"
+  }
+ ]
+}

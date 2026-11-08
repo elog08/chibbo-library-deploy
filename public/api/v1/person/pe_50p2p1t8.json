@@ -30,6 +30,70 @@
    "rel": "about",
    "status": "ok",
    "url": "https://openlibrary.org/authors/OL1294464A"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06040929",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06040929"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11727670",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11727670"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58513449",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58513449"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71145147",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71145147"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73408812",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73408812"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88927643",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88927643"
   }
  ],
  "locked_fields": [],
@@ -89,6 +153,7 @@
    ],
    "flags": [
     "format-paper-back",
+    "unlicensed-full-text-source",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_7njeenhv",
@@ -121,6 +186,7 @@
     "edtf": "1983",
     "flags": []
    },
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_7r1cacb3",
    "id": "wk_7r1cacb3",
    "language": "am",
@@ -148,6 +214,7 @@
     "edtf": "1969",
     "flags": []
    },
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_ac5vz4hr",
    "id": "wk_ac5vz4hr",
    "language": "am",
@@ -160,6 +227,27 @@
    },
    "type": "work",
    "year": 1969
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_avpdg0f1",
+   "id": "wk_avpdg0f1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Derasiw",
+    "script": "Ethi",
+    "text": "ደራሲው"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -194,6 +282,38 @@
    },
    "type": "work",
    "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cg8d9wt6",
+   "id": "wk_cg8d9wt6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hadis",
+    "script": "Ethi",
+    "text": "ሀዲስ"
+   },
+   "type": "work",
+   "year": 2013
   },
   {
    "cover": {
@@ -232,42 +352,8 @@
   },
   {
    "cover": {
-    "path": "assets/covers/wk_qzdk46j9.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_qzdk46j9.png"
-   },
-   "credits": [
-    {
-     "id": "pe_50p2p1t8",
-     "name": "በአሉ ግርማ",
-     "role": "author",
-     "romanized": "bealu germa"
-    }
-   ],
-   "date": {
-    "calendar": "ethiopic",
-    "edtf": "2018-09-11/2019-09-11",
-    "flags": []
-   },
-   "flags": [
-    "llm-extracted"
-   ],
-   "href": "https://chibbo.app/work/wk_qzdk46j9",
-   "id": "wk_qzdk46j9",
-   "language": "am",
-   "status": "draft",
-   "title": {
-    "lang": "am",
-    "romanized": "derasiw",
-    "script": "Ethi",
-    "text": "ደራሲው"
-   },
-   "type": "work",
-   "year": 2018
-  },
-  {
-   "cover": {
-    "path": "assets/covers/wk_vrzagk1c.png",
-    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vrzagk1c.png"
+    "path": "assets/covers/wk_hz8ty6jk.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ሀዲስ.jpg"
    },
    "credits": [
     {
@@ -285,21 +371,99 @@
     ]
    },
    "flags": [
+    "unlicensed-full-text-source",
     "llm-extracted",
     "calendar-ambiguous"
    ],
-   "href": "https://chibbo.app/work/wk_vrzagk1c",
-   "id": "wk_vrzagk1c",
+   "href": "https://chibbo.app/work/wk_hz8ty6jk",
+   "id": "wk_hz8ty6jk",
    "language": "am",
    "status": "draft",
    "title": {
     "lang": "am",
-    "romanized": "hedis",
+    "romanized": "Hadis",
     "script": "Ethi",
     "text": "ሀዲስ"
    },
    "type": "work",
    "year": 2010
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_reh5m9fx",
+   "id": "wk_reh5m9fx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yehilina Dewel",
+    "script": "Ethi",
+    "text": "የህሊና ደወል"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tt0esfjd",
+   "id": "wk_tt0esfjd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKey Kokob Tiri",
+    "script": "Ethi",
+    "text": "የቀይ ኮኮብ ጥሪ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_wvt1akhk.png",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/ደራሲው-በአሉ-ግርማ.png"
+   },
+   "credits": [
+    {
+     "id": "pe_50p2p1t8",
+     "name": "በአሉ ግርማ",
+     "role": "author",
+     "romanized": "bealu germa"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2018-09-11/2019-09-11",
+    "flags": []
+   },
+   "flags": [
+    "unlicensed-full-text-source",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_wvt1akhk",
+   "id": "wk_wvt1akhk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "derasiw",
+    "script": "Ethi",
+    "text": "ደራሲው"
+   },
+   "type": "work",
+   "year": 2018
   }
  ]
 }

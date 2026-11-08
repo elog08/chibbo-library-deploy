@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_r8xpttv0"
+  "ed_r8xpttv0",
+  "ed_5gt0vwbd"
  ],
  "extensions": {},
  "fingerprint": "ደርሶመልስ|andalagatakabada",
@@ -25,6 +26,9 @@
  "identifiers": {
   "afroread_id": [
    "62c3188a-d550-4849-97fa-d62b56b88649"
+  ],
+  "mereb_mpid": [
+   "66274107"
   ]
  },
  "language": "am",
@@ -56,6 +60,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/Bookdetail/62c3188a-d550-4849-97fa-d62b56b88649"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66274107",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66274107"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "14.93",
+   "provider": "mereb",
+   "ref": "66274107",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66274107"
   }
  ],
  "locked_fields": [],

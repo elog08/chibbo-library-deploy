@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_y8fxc20d",
+ "@type": "Book",
+ "alternateName": [
+  "Aba giorgis Zegasicha"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_94b477rr",
+   "@type": "Person",
+   "name": "Natnael Seyfe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አባ ጊዮርጊስ ዘጋስጫ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=99876043"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan (2018/19)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=99876043"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9a4dct2p",
+   "@type": "Book"
+  }
+ ]
+}

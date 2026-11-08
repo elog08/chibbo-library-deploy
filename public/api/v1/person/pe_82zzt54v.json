@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "arvingwalas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_82zzt54v",
+ "id": "pe_82zzt54v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01415476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01415476"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Erving Wallas"
+  },
+  "romanized": "Erving Wallas",
+  "sort_key": "ervingwallas"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01415476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_82zzt54v",
+     "name": "Erving Wallas",
+     "role": "author",
+     "romanized": "Erving Wallas"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0kzf6g82",
+   "id": "wk_0kzf6g82",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "E'ngocha Tarikoch (E'met Doro Eina Yepomu Zaf Ena Leloch)",
+    "script": "Ethi",
+    "text": "እንጎቻ ታሪኮች (እመት ዶሮ እና የፖሙ ዛፍ እና ሌሎችም)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bry7k9md",
+ "@type": "Book",
+ "alternateName": [
+  "Manin Linur?"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6sq5hyyv",
+   "@type": "Person",
+   "name": "Eden Tolossa"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ማንን ልኑር?",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=21041874"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=21041874"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9cq35y0s",
+   "@type": "Book"
+  }
+ ]
+}

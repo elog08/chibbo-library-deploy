@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_gecys3rv",
+ "@type": "Book",
+ "alternateName": [
+  "Agul Bilet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fyc9g8dj",
+   "@type": "Person",
+   "name": "Tikikil Gena"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አጉል ብልጠት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=32744467"
+  },
+  {
+   "@type": "Offer",
+   "price": "4.56",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=96835394"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=32744467",
+  "https://www.mereb.shop/rs/?mpid=96835394"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9pe8etda",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_zn8bdwyk",
+   "@type": "Book"
+  }
+ ]
+}

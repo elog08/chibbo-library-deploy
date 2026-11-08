@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirzabanalama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wdbmcjeh",
+ "id": "pe_wdbmcjeh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09784311",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09784311"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80514017",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80514017"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Zebene Lema"
+  },
+  "romanized": "Memihir Zebene Lema",
+  "sort_key": "memihirzebenelema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09784311"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wdbmcjeh",
+     "name": "Memihir Zebene Lema",
+     "role": "author",
+     "romanized": "Memihir Zebene Lema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_911bpbv7",
+   "id": "wk_911bpbv7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAddisu Alem Christina Ena YeSihibet Hig (KeAddisu Zemen Enksikase Ena Esabe Gar)",
+    "script": "Ethi",
+    "text": "የዐዲሱ ዓለም ክርስትና እና የስሕበት ሕግ (ከዐዲሱ ዘመን እንቅስቃሴ እና እሳቤ ጋር)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_wdbmcjeh",
+     "name": "Memihir Zebene Lema",
+     "role": "author",
+     "romanized": "Memihir Zebene Lema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xr2pbg8f",
+   "id": "wk_xr2pbg8f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Amin Wesere'at (Yehaymanotina yeSere'at Metsihaf)",
+    "script": "Ethi",
+    "text": "መጽሐፈ አሚን ወሥርዓት (የሃይማኖትና የሥርዓት መጽሐፍ)"
+   },
+   "type": "work"
+  }
+ ]
+}

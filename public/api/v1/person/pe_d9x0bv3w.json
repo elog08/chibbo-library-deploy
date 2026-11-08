@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "samualhailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d9x0bv3w",
+ "id": "pe_d9x0bv3w",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67702289",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67702289"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Samuel Hailu"
+  },
+  "romanized": "Samuel Hailu",
+  "sort_key": "samuelhailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=67702289"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d9x0bv3w",
+     "name": "Samuel Hailu",
+     "role": "author",
+     "romanized": "Samuel Hailu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gwy91tnh",
+   "id": "wk_gwy91tnh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Timihirte Haymanot",
+    "script": "Ethi",
+    "text": "ትምህርተ ሃይማኖት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

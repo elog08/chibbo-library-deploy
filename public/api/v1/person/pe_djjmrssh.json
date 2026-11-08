@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ababagirmay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_djjmrssh",
+ "id": "pe_djjmrssh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06867777",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06867777"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abeba Girmay"
+  },
+  "romanized": "Abeba Girmay",
+  "sort_key": "abebagirmay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06867777"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_djjmrssh",
+     "name": "Abeba Girmay",
+     "role": "author",
+     "romanized": "Abeba Girmay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ve4k3sx3",
+   "id": "wk_ve4k3sx3",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mewisbo",
+    "script": "Ethi",
+    "text": "መውስቦ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

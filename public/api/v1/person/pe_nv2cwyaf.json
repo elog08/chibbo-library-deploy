@@ -1,0 +1,149 @@
+{
+ "extensions": {},
+ "fingerprint": "amsaluaklilu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_nv2cwyaf",
+ "id": "pe_nv2cwyaf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23314287",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23314287"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "amsalu aklilu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Amsalu Aklilu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አምሳሉ አክሊሉ"
+  },
+  "romanized": "amsalu aklilu",
+  "sort_key": "አምሳሉአክሊሉ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የአማረኛ ፈሊጦች.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23314287"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0h85npxj.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0h85npxj.png"
+   },
+   "credits": [
+    {
+     "id": "pe_nv2cwyaf",
+     "name": "አምሳሉ አክሊሉ",
+     "role": "author",
+     "romanized": "amsalu aklilu"
+    },
+    {
+     "id": "pe_hcahfjaq",
+     "name": "ዳኛቸው ወርቁ",
+     "role": "author",
+     "romanized": "danyachew werqu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0h85npxj",
+   "id": "wk_0h85npxj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeamarnya felitoch",
+    "script": "Ethi",
+    "text": "የአማርኛ ፈሊጦች"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jswgawb6",
+     "name": "Ernst-August Gutt",
+     "role": "author",
+     "romanized": "Ernst-August Gutt"
+    },
+    {
+     "id": "pe_7cssect3",
+     "name": "Francis Anfrey",
+     "role": "author",
+     "romanized": "Francis Anfrey"
+    },
+    {
+     "id": "pe_nv2cwyaf",
+     "name": "አምሳሉ አክሊሉ",
+     "role": "author",
+     "romanized": "amsalu aklilu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ky2as4nn",
+   "id": "wk_ky2as4nn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XIV (1976-79) January 1980",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርምራ መጽሔት"
+   },
+   "type": "work",
+   "year": 1980
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "sport",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nzgzx0ka",
+ "id": "pe_nzgzx0ka",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43747433",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43747433"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sport"
+  },
+  "romanized": "Sport",
+  "sort_key": "sport"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43747433"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_83akh307",
+     "name": "Ministry of culture",
+     "role": "author",
+     "romanized": "Ministry of culture"
+    },
+    {
+     "id": "pe_nzgzx0ka",
+     "name": "Sport",
+     "role": "author",
+     "romanized": "Sport"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1964?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_grmv614v",
+   "id": "wk_grmv614v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Besinetshuf Wididr shilimat Yasigegnu Wididiroch",
+    "script": "Ethi",
+    "text": "በስነጽሁፍ ውድድር ሽልማት ያስገኙ ድርሰቶች"
+   },
+   "type": "work",
+   "year": 1964
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanunagadr",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c585f2h7",
+ "id": "pe_c585f2h7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71640818",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71640818"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berhanu Nega (Dr.)"
+  },
+  "romanized": "Berhanu Nega (Dr.)",
+  "sort_key": "berhanunegadr"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=71640818"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c585f2h7",
+     "name": "Berhanu Nega (Dr.)",
+     "role": "author",
+     "romanized": "Berhanu Nega (Dr.)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rhtqbpav",
+   "id": "wk_rhtqbpav",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'netsanet gohe siqe'd, second edition",
+    "script": "Latn",
+    "text": "Ye'netsanet gohe siqe'd, second edition"
+   },
+   "type": "work"
+  }
+ ]
+}

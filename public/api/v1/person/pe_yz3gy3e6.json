@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "salamawitmulgata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yz3gy3e6",
+ "id": "pe_yz3gy3e6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97026031",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97026031"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selamawit Mulgeta"
+  },
+  "romanized": "Selamawit Mulgeta",
+  "sort_key": "selamawitmulgeta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97026031"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yz3gy3e6",
+     "name": "Selamawit Mulgeta",
+     "role": "author",
+     "romanized": "Selamawit Mulgeta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dt0cqbss",
+   "id": "wk_dt0cqbss",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Brave Chekos",
+    "script": "Ethi",
+    "text": "ጎበዙ ችኮስ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

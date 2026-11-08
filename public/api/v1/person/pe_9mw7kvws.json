@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "gadamuganat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9mw7kvws",
+ "id": "pe_9mw7kvws",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31703775",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31703775"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gedamu Genet"
+  },
+  "romanized": "Gedamu Genet",
+  "sort_key": "gedamugenet"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31703775"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3cxpbmgs",
+     "name": "Biniyam G/Michael",
+     "role": "author",
+     "romanized": "Biniyam G/Michael"
+    },
+    {
+     "id": "pe_9mw7kvws",
+     "name": "Gedamu Genet",
+     "role": "author",
+     "romanized": "Gedamu Genet"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_m7vb16ea",
+   "id": "wk_m7vb16ea",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "LeAdam Tena (Tenama Amegageb)",
+    "script": "Ethi",
+    "text": "ለአዳም ጤና (ጤናማ አመጋገብ)"
+   },
+   "type": "work"
+  }
+ ]
+}

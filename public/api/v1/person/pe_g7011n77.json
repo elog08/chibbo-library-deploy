@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "alakafaworkzawda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g7011n77",
+ "id": "pe_g7011n77",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69761623",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69761623"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aleka Afework Zewde"
+  },
+  "romanized": "Aleka Afework Zewde",
+  "sort_key": "alekaafeworkzewde"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69761623"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g7011n77",
+     "name": "Aleka Afework Zewde",
+     "role": "author",
+     "romanized": "Aleka Afework Zewde"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qwvg7w28",
+   "id": "wk_qwvg7w28",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hagere-MeTsaft (Sewasew Ge'ez WeAmargna) Kifl 1",
+    "script": "Ethi",
+    "text": "ሀገረ-መጻሕፍት(ሰዋስው ግእዝ ወዐማርኛ)ክፍል አንድ"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

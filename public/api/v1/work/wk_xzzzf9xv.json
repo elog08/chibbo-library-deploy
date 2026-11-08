@@ -1,13 +1,25 @@
 {
+ "cover": {
+  "bytes": 590526,
+  "path": "assets/covers/wk_p91vjv3g.png",
+  "sha256": "05179cf1d5d23080fecfed6d182a8612d01af7b89e2f410ec94a844a606bbbb3",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_p91vjv3g.png"
+ },
  "credits": [
   {
    "order": 1,
    "person": "pe_tz78y5xr",
    "role": "author"
+  },
+  {
+   "order": 2,
+   "person": "pe_t5dvt89d",
+   "role": "author"
   }
  ],
  "editions": [
-  "ed_6wje4zgr"
+  "ed_6wje4zgr",
+  "ed_06kcgbfr"
  ],
  "extensions": {},
  "fingerprint": "ሰባተኛውመላክ|sabhatgabragziabhar",
@@ -25,21 +37,34 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "llm-extracted"
  ],
  "form": "novel",
  "href": "https://chibbo.app/work/wk_xzzzf9xv",
  "id": "wk_xzzzf9xv",
- "identifiers": {},
+ "identifiers": {
+  "pdf_pagehash": [
+   "2803333333333708",
+   "86b1b3b1b8387308",
+   "a981c5c501098188",
+   "e4b0b3b3b2323208",
+   "fcbdafabaee78740"
+  ]
+ },
  "language": "am",
  "links": [],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "Read from PDF front matter: ሰባተኛው መልአክ kelam_book.pdf",
+  "Also held as PDF: ሰባተኛው_መልአክ_ስብሐት_ገብረ_እግዚአብሔር.pdf"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"
  },
+ "publication_place": "አዲስ አበባ",
  "publisher_name": "Mega Publishing Enterprise",
  "relations": [],
  "rights": {

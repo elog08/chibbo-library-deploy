@@ -1,0 +1,192 @@
+{
+ "extensions": {},
+ "fingerprint": "dawitadasa",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_mvkbz1a4",
+ "id": "pe_mvkbz1a4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56189215",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56189215"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69914142",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69914142"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "dawit tadese",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Dawit Tadesse",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ዳዊት ታደሠ"
+  },
+  "romanized": "dawit tadese",
+  "sort_key": "ዳዊትታደሰ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የህዳሴ አብዮት.PDF"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56189215"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mvkbz1a4",
+     "name": "ዳዊት ታደሠ",
+     "role": "author",
+     "romanized": "dawit tadese"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_43jdcz7y",
+   "id": "wk_43jdcz7y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ertrawiw Selay BeEthiopia",
+    "script": "Ethi",
+    "text": "ኤርትራዊው ሰላይ በኢትዮጵያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_n4cr7bdr",
+     "name": "Temesgen Desalegn",
+     "role": "author",
+     "romanized": "Temesgen Desalegn"
+    },
+    {
+     "id": "pe_5avrk59z",
+     "name": "Eskinder Nega",
+     "role": "author",
+     "romanized": "Eskinder Nega"
+    },
+    {
+     "id": "pe_mvkbz1a4",
+     "name": "ዳዊት ታደሠ",
+     "role": "author",
+     "romanized": "dawit tadese"
+    },
+    {
+     "id": "pe_2tjnzcbk",
+     "name": "Hailemeskel Shewamyeleh",
+     "role": "author",
+     "romanized": "Hailemeskel Shewamyeleh"
+    },
+    {
+     "id": "pe_qzmyz9fp",
+     "name": "Muluneh Ayalew",
+     "role": "author",
+     "romanized": "Muluneh Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8x3whfjj",
+   "id": "wk_8x3whfjj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHidase Abyot",
+    "script": "Ethi",
+    "text": "የሕዳሴ አብዮት"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_xf9bgst9.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_xf9bgst9.png"
+   },
+   "credits": [
+    {
+     "id": "pe_kxp383a2",
+     "name": "ሙሱነህ አያሌው",
+     "role": "author",
+     "romanized": "musuneh ayalew"
+    },
+    {
+     "id": "pe_tsqrhxds",
+     "name": "ኃይለመስቀል በሸዋምየለህ",
+     "role": "author",
+     "romanized": "haylemesqel beshewamyeleh"
+    },
+    {
+     "id": "pe_mvkbz1a4",
+     "name": "ዳዊት ታደሠ",
+     "role": "author",
+     "romanized": "dawit tadese"
+    },
+    {
+     "id": "pe_hqzbda1a",
+     "name": "እስከንድር ነጋ",
+     "role": "author",
+     "romanized": "eskeneder nega"
+    },
+    {
+     "id": "pe_xxavxyyc",
+     "name": "ተመስገን ደሳለኝ",
+     "role": "author",
+     "romanized": "temesgen desaleny"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2014-09-11/2015-09-11",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_xf9bgst9",
+   "id": "wk_xf9bgst9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yehdase abyot",
+    "script": "Ethi",
+    "text": "የሕዳሴ አብዮት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

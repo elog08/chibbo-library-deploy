@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fs3rayw9",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_t0a825s4",
+   "@type": "Person",
+   "name": "Haileeyesus Meseret"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Lamentation of Pileups",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.62",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=78019901"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=78019901"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gqkqa1qh",
+   "@type": "Book"
+  }
+ ]
+}

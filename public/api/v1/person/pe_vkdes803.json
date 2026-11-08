@@ -1,0 +1,142 @@
+{
+ "extensions": {},
+ "fingerprint": "ministryofinformation",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vkdes803",
+ "id": "pe_vkdes803",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50479000",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50479000"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55578444",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55578444"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63016473",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63016473"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ministry of Information"
+  },
+  "romanized": "Ministry of Information",
+  "sort_key": "ministryofinformation"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50479000"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vkdes803",
+     "name": "Ministry of Information",
+     "role": "author",
+     "romanized": "Ministry of Information"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1975?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d8gzn7ak",
+   "id": "wk_d8gzn7ak",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeItalia YeKign Gizat Hilm",
+    "script": "Ethi",
+    "text": "የኢጣልያ የቅኝ ግዛት ሕልም"
+   },
+   "type": "work",
+   "year": 1975
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vkdes803",
+     "name": "Ministry of Information",
+     "role": "author",
+     "romanized": "Ministry of Information"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ny3jtm6m",
+   "id": "wk_ny3jtm6m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAdwa Dil",
+    "script": "Ethi",
+    "text": "የአድዋ ድል"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vkdes803",
+     "name": "Ministry of Information",
+     "role": "author",
+     "romanized": "Ministry of Information"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1975?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sgr5z5nk",
+   "id": "wk_sgr5z5nk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmistu Ametat Hizabawi Tigil",
+    "script": "Ethi",
+    "text": "የአምስቱ ዓመታት ሕዝባዊ ትግል"
+   },
+   "type": "work",
+   "year": 1975
+  }
+ ]
+}

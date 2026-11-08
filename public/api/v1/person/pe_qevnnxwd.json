@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "dasiaqalab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qevnnxwd",
+ "id": "pe_qevnnxwd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39484858",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39484858"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Desie Qeleb"
+  },
+  "romanized": "Desie Qeleb",
+  "sort_key": "desieqeleb"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=39484858"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qevnnxwd",
+     "name": "Desie Qeleb",
+     "role": "author",
+     "romanized": "Desie Qeleb"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_f4th1rv0",
+   "id": "wk_f4th1rv0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Revival of Geez",
+    "script": "Ethi",
+    "text": "ትንሳኤ ግእዝ"
+   },
+   "type": "work"
+  }
+ ]
+}

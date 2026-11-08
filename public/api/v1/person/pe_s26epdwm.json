@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "jokakiw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_s26epdwm",
+ "id": "pe_s26epdwm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52571557",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52571557"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jokakiw"
+  },
+  "romanized": "Jokakiw",
+  "sort_key": "jokakiw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52571557"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_s26epdwm",
+     "name": "Jokakiw",
+     "role": "author",
+     "romanized": "Jokakiw"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6919hb5y",
+   "id": "wk_6919hb5y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye'Tach Sefer' Keldoch",
+    "script": "Ethi",
+    "text": "የ'ታች ሠፈር' ቀልዶች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

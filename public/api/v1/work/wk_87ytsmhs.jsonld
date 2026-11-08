@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_87ytsmhs",
+ "@type": "Book",
+ "alternateName": [
+  "Yetsidik Ber"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3phyjdq0",
+   "@type": "Person",
+   "name": "Aleka Ayalew Tamiru"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የጽድቅ በር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=56065510"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Author's Family (Second Edition 2009)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=56065510"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mysbhwkf",
+   "@type": "Book"
+  }
+ ]
+}

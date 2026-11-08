@@ -5,7 +5,24 @@
  "href": "https://chibbo.app/person/pe_cr0jt9jh",
  "id": "pe_cr0jt9jh",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59007871",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59007871"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68690058",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68690058"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -36,6 +53,27 @@
  "type": "person",
  "works": [
   {
+   "credits": [
+    {
+     "id": "pe_cr0jt9jh",
+     "name": "ጌታቸው ተድላ አበበ",
+     "role": "author",
+     "romanized": "Getachew Tedla Abeba"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1e9rt522",
+   "id": "wk_1e9rt522",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "E'kid 27",
+    "script": "Ethi",
+    "text": "ዕቅድ 27"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_rhbv11md.webp",
     "source_url": "https://www.ethiobookreview.com/assets/product_imgs/Amharic/History/jegnaw-kagnew-shaleka-bekoriya-getachew-tedla-abeba.webp"
@@ -56,7 +94,8 @@
     ]
    },
    "flags": [
-    "calendar-ambiguous"
+    "calendar-ambiguous",
+    "language-inferred-from-script"
    ],
    "href": "https://chibbo.app/work/wk_rhbv11md",
    "id": "wk_rhbv11md",

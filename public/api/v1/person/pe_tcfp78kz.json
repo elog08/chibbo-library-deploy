@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "tasamashata",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_tcfp78kz",
+ "id": "pe_tcfp78kz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57376033",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57376033"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesema eshete",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Tessema Eshete",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተሰማ እሸቴ"
+  },
+  "romanized": "tesema eshete",
+  "sort_key": "ተሰማእሸቴ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ሰምና ወርቁ ተሰማ እሸቴ @OLDBOOKSPDF.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57376033"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_9ff275km.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_9ff275km.png"
+   },
+   "credits": [
+    {
+     "id": "pe_tcfp78kz",
+     "name": "ተሰማ እሸቴ",
+     "role": "author",
+     "romanized": "tesema eshete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5rnewhx7",
+   "id": "wk_5rnewhx7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Semna Worku",
+    "script": "Ethi",
+    "text": "ሰምና ወርቁ"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

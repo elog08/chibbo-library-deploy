@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_yg3bvvjd",
+ "@type": "Book",
+ "alternateName": [
+  "Rebenat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z5cae0a4",
+   "@type": "Person",
+   "name": "Tadele Ayalew"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994475360",
+ "name": "ረበናት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=81131840"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=81131840"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5p93gdhs",
+   "@type": "Book"
+  }
+ ]
+}

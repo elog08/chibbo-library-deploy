@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2gm19f0y",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_msx50dqf",
+   "@type": "Person",
+   "name": "Melake Berhan Berhanu Beserat"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Life and Christianity in USA",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17810448"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17810448"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hxwryadn",
+   "@type": "Book"
+  }
+ ]
+}

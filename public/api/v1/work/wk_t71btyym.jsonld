@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t71btyym",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2rmp73dp",
+   "@type": "Person",
+   "name": "Dn Daniel Kibret"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye-Hulet Hawletoch weg ena leloch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06471671"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=06471671"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6032470n",
+   "@type": "Book"
+  }
+ ]
+}

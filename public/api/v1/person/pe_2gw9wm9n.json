@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalyosafpatros",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2gw9wm9n",
+ "id": "pe_2gw9wm9n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02840606",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02840606"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57117320",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57117320"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66826010",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66826010"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Yosef Petros"
+  },
+  "romanized": "Colonel Yosef Petros",
+  "sort_key": "colonelyosefpetros"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02840606"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2gw9wm9n",
+     "name": "Colonel Yosef Petros",
+     "role": "author",
+     "romanized": "Colonel Yosef Petros"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mtac0bxz",
+   "id": "wk_mtac0bxz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthio Somalia Tornet,Yerashiya Wileta?",
+    "script": "Ethi",
+    "text": "የኢትዮ ሶማሊያ ጦርነት የራሺያ ውለታ?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2gw9wm9n",
+     "name": "Colonel Yosef Petros",
+     "role": "author",
+     "romanized": "Colonel Yosef Petros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_scz0rfmx",
+   "id": "wk_scz0rfmx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tizitana Masitawesha BeEthiopia",
+    "script": "Ethi",
+    "text": "ትዝታና ማስታወሻ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2gw9wm9n",
+     "name": "Colonel Yosef Petros",
+     "role": "author",
+     "romanized": "Colonel Yosef Petros"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_waw0nkah",
+   "id": "wk_waw0nkah",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wegna Tizita (Kederg Abal Ertrawi General Gar)",
+    "script": "Ethi",
+    "text": "ወግና ትዝታ (ከደርግ አባል ኤርትራዊ ጀኔራል ጋር)"
+   },
+   "type": "work"
+  }
+ ]
+}

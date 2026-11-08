@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "amamaidalatgadamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6wcq7zzv",
+ "id": "pe_6wcq7zzv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54893803",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54893803"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74810408",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74810408"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Emama Eidalat Gedamu"
+  },
+  "romanized": "Emama Eidalat Gedamu",
+  "sort_key": "emamaeidalatgedamu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54893803"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6wcq7zzv",
+     "name": "Emama Eidalat Gedamu",
+     "role": "author",
+     "romanized": "Emama Eidalat Gedamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4fa3fgr5",
+   "id": "wk_4fa3fgr5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bidir Melashochu Wefoch",
+    "script": "Ethi",
+    "text": "ብድር መላሾቹ ወፎች"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_6wcq7zzv",
+     "name": "Emama Eidalat Gedamu",
+     "role": "author",
+     "romanized": "Emama Eidalat Gedamu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_b1txx4cv",
+   "id": "wk_b1txx4cv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Workamawa Dikula",
+    "script": "Ethi",
+    "text": "ወርቃማዋ ድኩላ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "zakariamohamad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ernw2pxc",
+ "id": "pe_ernw2pxc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53506165",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53506165"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zekaria Mohammed"
+  },
+  "romanized": "Zekaria Mohammed",
+  "sort_key": "zekariamohammed"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53506165"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ernw2pxc",
+     "name": "Zekaria Mohammed",
+     "role": "author",
+     "romanized": "Zekaria Mohammed"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wd38ncp8",
+   "id": "wk_wd38ncp8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tilahun Gesese (YeHiywetu Tarikina Misitir)",
+    "script": "Ethi",
+    "text": "ጥላሁን ገሠሠ (የሕይወቱ ታሪክና ሚስጢር)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

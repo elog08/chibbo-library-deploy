@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "aynalamgabramariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7y7wzp7r",
+ "id": "pe_7y7wzp7r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67152334",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67152334"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ayne Alem Gebre Mariam"
+  },
+  "romanized": "Ayne Alem Gebre Mariam",
+  "sort_key": "aynealemgebremariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=67152334"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7y7wzp7r",
+     "name": "Ayne Alem Gebre Mariam",
+     "role": "author",
+     "romanized": "Ayne Alem Gebre Mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1955?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4928nhjr",
+   "id": "wk_4928nhjr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Mengist Enkutatash (Metshete Haile Silase Zewe'tu Melke'a Widassie Wemelke'a Kedamawi Haile Silasie)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ መንግስት ዕንቁጣጣሽ (መጽሔተ ኃይለ ሥላሴ ዘውእቱ መልክዐ ውዳሴ ወመልክዐ ቀዳማዊ ኃይለ ሥላሴ)"
+   },
+   "type": "work",
+   "year": 1955
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "ayobkasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vjkfgm0d",
+ "id": "pe_vjkfgm0d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56989567",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56989567"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70514008",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70514008"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eyob Kassa"
+  },
+  "romanized": "Eyob Kassa",
+  "sort_key": "eyobkassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56989567"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_89yc89hq",
+     "name": "Solomon Kebede",
+     "role": "author",
+     "romanized": "Solomon Kebede"
+    },
+    {
+     "id": "pe_vjkfgm0d",
+     "name": "Eyob Kassa",
+     "role": "author",
+     "romanized": "Eyob Kassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gg23wq4c",
+   "id": "wk_gg23wq4c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Talalak Hilmoch (Yemiliniyeroch YeSiket Guzo)",
+    "script": "Ethi",
+    "text": "ታላላቅ ህልሞች(የሚሊኒዬሮች የስኬት ጉዞ)"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_zcxabw0v",
+     "name": "Hama Tuma",
+     "role": "author",
+     "romanized": "Hama Tuma"
+    },
+    {
+     "id": "pe_vjkfgm0d",
+     "name": "Eyob Kassa",
+     "role": "author",
+     "romanized": "Eyob Kassa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mnjpfjb8",
+   "id": "wk_mnjpfjb8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Poletica befegageta & African besekelat",
+    "script": "Latn",
+    "text": "Poletica befegageta & African besekelat"
+   },
+   "type": "work"
+  }
+ ]
+}

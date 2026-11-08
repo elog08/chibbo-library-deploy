@@ -13,14 +13,19 @@
   }
  ],
  "editions": [
-  "ed_3ep1g589"
+  "ed_3ep1g589",
+  "ed_37zvwgtm"
  ],
  "extensions": {},
  "fingerprint": "ቅበላ|alamayahugalagay",
  "flags": [],
  "href": "https://chibbo.app/work/wk_gvv7ytb2",
  "id": "wk_gvv7ytb2",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "29738871"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -48,12 +53,31 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/kibela"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29738871",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29738871"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "15.99",
+   "provider": "mereb",
+   "ref": "29738871",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29738871"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.33/5 from 33 rating(s), 10 written review(s)"
+  "ethiobookreview community rating 4.33/5 from 33 rating(s), 10 written review(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

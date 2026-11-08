@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bp890krf",
+ "@type": "Book",
+ "alternateName": [
+  "Yesheger Wegoch 2"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_qjstrxx0",
+   "@type": "Person",
+   "name": "Solomon Tadesse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የሸገር ወጎች 2",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04559272"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Solomon Tadesse"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04559272"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mtw1378e",
+   "@type": "Book"
+  }
+ ]
+}

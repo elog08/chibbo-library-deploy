@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7wzzbpge",
+ "@type": "Book",
+ "alternateName": [
+  "Mushirawa Ayt"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4vj5k1gw",
+   "@type": "Person",
+   "name": "Zenebe Abreham"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሙሽራዋ አይጥ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.47",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=37581808"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mega Publisher (2014/15)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=37581808"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_9ch2hqrc",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "wilfradthasigar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_mthevywh",
+ "id": "pe_mthevywh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54053612",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54053612"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Wilfred Thesiger"
+  },
+  "romanized": "Wilfred Thesiger",
+  "sort_key": "wilfredthesiger"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54053612"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_mthevywh",
+     "name": "Wilfred Thesiger",
+     "role": "author",
+     "romanized": "Wilfred Thesiger"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_snnx2fz5",
+   "id": "wk_snnx2fz5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hegere Hebeshana YeSegelew Abiyot",
+    "script": "Ethi",
+    "text": "ሀገረ ሀበሻና የሰገሌው አብዮት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

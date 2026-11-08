@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2aqjcpzz",
+ "@type": "Book",
+ "alternateName": [
+  "Ayne Aweta Tota"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_s1v0srqr",
+   "@type": "Person",
+   "name": "Alem Eshetu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዓይን አውጣ ጦጣ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04213130"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04213130"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nt701a1h",
+   "@type": "Book"
+  }
+ ]
+}

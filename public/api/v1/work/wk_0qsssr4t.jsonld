@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0qsssr4t",
+ "@type": "Book",
+ "alternateName": [
+  "Tsinat"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_05a133j1",
+   "@type": "Person",
+   "name": "Colonel Bitsuan Kidane"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፅናት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05225071"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05225071"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tr1xm7xx",
+   "@type": "Book"
+  }
+ ]
+}

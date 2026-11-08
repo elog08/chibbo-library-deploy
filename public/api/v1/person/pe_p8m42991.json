@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "mastawalabara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p8m42991",
+ "id": "pe_p8m42991",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01732843",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01732843"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mastewal Abera"
+  },
+  "romanized": "Mastewal Abera",
+  "sort_key": "mastewalabera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01732843"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p8m42991",
+     "name": "Mastewal Abera",
+     "role": "author",
+     "romanized": "Mastewal Abera"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_85ttbk8m",
+   "id": "wk_85ttbk8m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adey Ney (Come on Adey)",
+    "script": "Ethi",
+    "text": "አደይ ነይ"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

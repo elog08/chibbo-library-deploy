@@ -50,6 +50,16 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_125"
+  },
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=97198361"
   }
  ],
  "publisher": {
@@ -58,7 +68,8 @@
  },
  "sameAs": [
   "https://hahubooks.com/single-product.php?jbook_code=jb_125",
-  "https://www.ethiobookreview.com/book/hashmal-maebel-fetene"
+  "https://www.ethiobookreview.com/book/hashmal-maebel-fetene",
+  "https://www.mereb.shop/rs/?mpid=97198361"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -68,6 +79,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_bkca24sf",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_4jtv2j6z",
    "@type": "Book"
   },
   {

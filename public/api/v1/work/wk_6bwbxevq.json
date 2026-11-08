@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_qtfj7f7m"
+  "ed_qtfj7f7m",
+  "ed_0707q3fz"
  ],
  "extensions": {},
  "fingerprint": "ራህማቶ|asafaguya",
@@ -25,6 +26,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_123"
+  ],
+  "mereb_mpid": [
+   "08218635"
   ]
  },
  "language": "am",
@@ -57,6 +61,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_123"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08218635",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08218635"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "5.99",
+   "provider": "mereb",
+   "ref": "08218635",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08218635"
   }
  ],
  "locked_fields": [],

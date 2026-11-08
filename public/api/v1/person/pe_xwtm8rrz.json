@@ -1,0 +1,123 @@
+{
+ "extensions": {},
+ "fingerprint": "robinsharma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xwtm8rrz",
+ "id": "pe_xwtm8rrz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34153961",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34153961"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80197472",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80197472"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82523677",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82523677"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robin Sharma"
+  },
+  "romanized": "Robin Sharma",
+  "sort_key": "robinsharma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=34153961"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xwtm8rrz",
+     "name": "Robin Sharma",
+     "role": "author",
+     "romanized": "Robin Sharma"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_c6gf8qp3",
+   "id": "wk_c6gf8qp3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rasin Mawek",
+    "script": "Ethi",
+    "text": "ራስን ማወቅ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xwtm8rrz",
+     "name": "Robin Sharma",
+     "role": "author",
+     "romanized": "Robin Sharma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_txkeqqrj",
+   "id": "wk_txkeqqrj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yedil Seat Yelewit Mistir",
+    "script": "Ethi",
+    "text": "የድል ሰዓት የለውጥ ምሥጢር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xwtm8rrz",
+     "name": "Robin Sharma",
+     "role": "author",
+     "romanized": "Robin Sharma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vd9jmq7d",
+   "id": "wk_vd9jmq7d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMerinet Tibeb",
+    "script": "Ethi",
+    "text": "የመሪነት ጥበብ"
+   },
+   "type": "work"
+  }
+ ]
+}

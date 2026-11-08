@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "likalikawintsimankonamalak",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q84pf0ks",
+ "id": "pe_q84pf0ks",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04063960",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04063960"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57311038",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57311038"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Like Likawint Simankone Mel'eak"
+  },
+  "romanized": "Like Likawint Simankone Mel'eak",
+  "sort_key": "likelikawintsimankonemeleak"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04063960"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q84pf0ks",
+     "name": "Like Likawint Simankone Mel'eak",
+     "role": "author",
+     "romanized": "Like Likawint Simankone Mel'eak"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6bbsqmt9",
+   "id": "wk_6bbsqmt9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeMot Yetegelete Fikir",
+    "script": "Ethi",
+    "text": "በሞት የተገለጠ ፍቅር"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_q84pf0ks",
+     "name": "Like Likawint Simankone Mel'eak",
+     "role": "author",
+     "romanized": "Like Likawint Simankone Mel'eak"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dshq3g5c",
+   "id": "wk_dshq3g5c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hiwote Mariyam Dingil",
+    "script": "Ethi",
+    "text": "ሕይወተ ማርያም ድንግል"
+   },
+   "type": "work"
+  }
+ ]
+}

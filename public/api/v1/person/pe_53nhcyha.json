@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "daconzaliaswmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_53nhcyha",
+ "id": "pe_53nhcyha",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "65504509",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=65504509"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon ZeElias W/Michael"
+  },
+  "romanized": "Deacon ZeElias W/Michael",
+  "sort_key": "deaconzeeliaswmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=65504509"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_53nhcyha",
+     "name": "Deacon ZeElias W/Michael",
+     "role": "author",
+     "romanized": "Deacon ZeElias W/Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rgrp1aj6",
+   "id": "wk_rgrp1aj6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melkam Gabicha (Christiyanawi Gabichan Yetebarekena Desta Yetemolabet Yemiyadergu 27tu Mistirat)",
+    "script": "Ethi",
+    "text": "መልካም ጋብቻ (ክርስቲያናዊ ጋብቻን የተባረከና ደስታ የተሞላበት የሚያደርጉ 27ቱ ምሥጢራት)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

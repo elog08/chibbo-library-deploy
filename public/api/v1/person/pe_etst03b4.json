@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "laislaydunkaling",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_etst03b4",
+ "id": "pe_etst03b4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81655665",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81655665"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Leisley Dunkeling"
+  },
+  "romanized": "Leisley Dunkeling",
+  "sort_key": "leisleydunkeling"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81655665"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_etst03b4",
+     "name": "Leisley Dunkeling",
+     "role": "author",
+     "romanized": "Leisley Dunkeling"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_s9w4kb8c",
+   "id": "wk_s9w4kb8c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Memihir Beyene ena Temariwochachew (Lelochim Chawatawi Tirekawoch)",
+    "script": "Ethi",
+    "text": "መምህር በየነ እና ተማሪዎቻቸው (ሌሎችም ጫወታዊ ትረካዎች)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "wiliamjbinta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qapbqv0m",
+ "id": "pe_qapbqv0m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00246978",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00246978"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "William J Binte"
+  },
+  "romanized": "William J Binte",
+  "sort_key": "williamjbinte"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00246978"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qapbqv0m",
+     "name": "William J Binte",
+     "role": "author",
+     "romanized": "William J Binte"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_11550b8r",
+   "id": "wk_11550b8r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelucy Kewakibitibtina Lelochim (Yelijoch Melkam Sine Migibar Metshaf)",
+    "script": "Ethi",
+    "text": "የሉሲ ከዋክብትና ሌሎችም (የልጆች መልካም ሥነ ምግባር መጽሐፍ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

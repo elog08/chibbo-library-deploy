@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "aricrias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c7jm6fdg",
+ "id": "pe_c7jm6fdg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94135404",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94135404"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Eric Ries"
+  },
+  "romanized": "Eric Ries",
+  "sort_key": "ericries"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=94135404"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c7jm6fdg",
+     "name": "Eric Ries",
+     "role": "author",
+     "romanized": "Eric Ries"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_b8jxn5cj",
+   "id": "wk_b8jxn5cj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sira Fetari Hun",
+    "script": "Ethi",
+    "text": "ሥራ ፈጣሪ ሁን"
+   },
+   "type": "work"
+  }
+ ]
+}

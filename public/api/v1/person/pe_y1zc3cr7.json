@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "madat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_y1zc3cr7",
+ "id": "pe_y1zc3cr7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72180580",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72180580"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ma.De.A.T"
+  },
+  "romanized": "Ma.De.A.T",
+  "sort_key": "madeat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72180580"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_y1zc3cr7",
+     "name": "Ma.De.A.T",
+     "role": "author",
+     "romanized": "Ma.De.A.T"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bqgyxzw0",
+   "id": "wk_bqgyxzw0",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Harasat Anabir Tigiray Qu.1",
+    "script": "Ethi",
+    "text": "ሓራሳት አናብር ትግራይ ቁ.1"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

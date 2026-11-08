@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "ladatuayalaw",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_x2d513kx",
+ "id": "pe_x2d513kx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11187189",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11187189"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ledetu ayalew",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Ledetu Ayalew",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ልደቱ አያሌው"
+  },
+  "romanized": "ledetu ayalew",
+  "sort_key": "ልደቱአያሌው"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of መድሎት - ልደቱ አያሌው.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11187189"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x2d513kx",
+     "name": "ልደቱ አያሌው",
+     "role": "author",
+     "romanized": "ledetu ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3zp4vphb",
+   "id": "wk_3zp4vphb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Medlot",
+    "script": "Latn",
+    "text": "Medlot"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_6n8xjzjv.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_6n8xjzjv.png"
+   },
+   "credits": [
+    {
+     "id": "pe_x2d513kx",
+     "name": "ልደቱ አያሌው",
+     "role": "author",
+     "romanized": "ledetu ayalew"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2009-09-11/2010-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_6n8xjzjv",
+   "id": "wk_6n8xjzjv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "medlot",
+    "script": "Ethi",
+    "text": "መድሎት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

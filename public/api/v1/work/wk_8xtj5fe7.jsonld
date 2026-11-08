@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8xtj5fe7",
+ "@type": "Book",
+ "alternateName": [
+  "Mekiste Sewasiw (Yesewasew Melimeja)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_je4h5q0p",
+   "@type": "Person",
+   "name": "አስፋው ተፈራ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መክስተ ሰዋስው (የሰዋስው መልመጃ)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=01174070"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Asfaw Tefera (1967 (Second Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=01174070"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vznc80py",
+   "@type": "Book"
+  }
+ ]
+}

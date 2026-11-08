@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirzalalamhadis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nzaxavxd",
+ "id": "pe_nzaxavxd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70451415",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70451415"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Zelalem Hadis"
+  },
+  "romanized": "Memihir Zelalem Hadis",
+  "sort_key": "memihirzelalemhadis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70451415"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nzaxavxd",
+     "name": "Memihir Zelalem Hadis",
+     "role": "author",
+     "romanized": "Memihir Zelalem Hadis"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ebg75ynq",
+   "id": "wk_ebg75ynq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Abushakir",
+    "script": "Ethi",
+    "text": "መጽሐፈ አቡሻክር"
+   },
+   "type": "work",
+   "year": 2024
+  }
+ ]
+}

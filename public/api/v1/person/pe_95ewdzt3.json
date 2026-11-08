@@ -1,0 +1,108 @@
+{
+ "extensions": {},
+ "fingerprint": "hiruywoldasilasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_95ewdzt3",
+ "id": "pe_95ewdzt3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67837939",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67837939"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98301036",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98301036"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hiruy Woldesilassie"
+  },
+  "romanized": "Hiruy Woldesilassie",
+  "sort_key": "hiruywoldesilassie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=67837939"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_smxzkdev",
+     "name": "ባሕሩ ዘውዴ",
+     "role": "author",
+     "romanized": "bahru zewde"
+    },
+    {
+     "id": "pe_95ewdzt3",
+     "name": "Hiruy Woldesilassie",
+     "role": "author",
+     "romanized": "Hiruy Woldesilassie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7tbca8zw",
+   "id": "wk_7tbca8zw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Le'ukan Budin BeAwropana Mekakelegnaw Misirak (1903 E.C)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ልዑካን ቡድን በኣውሮጳና መካከለኛው ምሥራቅ (1903ዓ.ም)"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_95ewdzt3",
+     "name": "Hiruy Woldesilassie",
+     "role": "author",
+     "romanized": "Hiruy Woldesilassie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_sdesfwaa",
+   "id": "wk_sdesfwaa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lelij Mikir LeAbat Metasebiya",
+    "script": "Ethi",
+    "text": "ለልጅ ምክር ለአባት መታሰቢያ"
+   },
+   "type": "work"
+  }
+ ]
+}

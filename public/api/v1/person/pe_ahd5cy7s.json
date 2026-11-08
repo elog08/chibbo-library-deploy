@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gorfugabramadhn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ahd5cy7s",
+ "id": "pe_ahd5cy7s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73171477",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73171477"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gorfu Gebre Medhn"
+  },
+  "romanized": "Gorfu Gebre Medhn",
+  "sort_key": "gorfugebremedhn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73171477"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ahd5cy7s",
+     "name": "Gorfu Gebre Medhn",
+     "role": "author",
+     "romanized": "Gorfu Gebre Medhn"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1968?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_2hqbcgwy",
+   "id": "wk_2hqbcgwy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeAmrgna Yeminegeru Tkisoch Ena Felitoch",
+    "script": "Ethi",
+    "text": "በአማርኛ የሚነገሩ ጥቅሶች ምሳሌዎችና ፈሊጦች"
+   },
+   "type": "work",
+   "year": 1968
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wm50njkm",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_nnw7jd60",
+   "@type": "Person",
+   "name": "Solomon Moges"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ewneten seqluat",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.84",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=85488417"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=85488417"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8q3k2m83",
+   "@type": "Book"
+  }
+ ]
+}

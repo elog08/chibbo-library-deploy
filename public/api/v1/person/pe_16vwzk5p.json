@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadadasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_16vwzk5p",
+ "id": "pe_16vwzk5p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59377646",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59377646"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71796237",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71796237"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kebede Desta"
+  },
+  "romanized": "Kebede Desta",
+  "sort_key": "kebededesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59377646"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_16vwzk5p",
+     "name": "Kebede Desta",
+     "role": "author",
+     "romanized": "Kebede Desta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1958?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0sc2vz5c",
+   "id": "wk_0sc2vz5c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nech Tilet BeTikur Lay (YeMe'erabiyawan Wede Africa Ametat)",
+    "script": "Ethi",
+    "text": "ነጭ ጥለት በጥቁር ላይ(የምዕራባውያን ወደ አፍሪካ አመጣጥ)"
+   },
+   "type": "work",
+   "year": 1958
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_16vwzk5p",
+     "name": "Kebede Desta",
+     "role": "author",
+     "romanized": "Kebede Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bt70btar",
+   "id": "wk_bt70btar",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metewawekia",
+    "script": "Ethi",
+    "text": "መተዋወቂያ"
+   },
+   "type": "work"
+  }
+ ]
+}

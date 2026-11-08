@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vam47rr4",
+ "@type": "Book",
+ "alternateName": [
+  "Sebeb Atabiza"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_swkftr8k",
+   "@type": "Person",
+   "name": "Brian Tracy"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሰበብ አታብዛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=48876078"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=48876078"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vq7fmcgz",
+   "@type": "Book"
+  }
+ ]
+}

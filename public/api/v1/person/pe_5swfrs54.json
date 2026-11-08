@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "donaldwalsh",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5swfrs54",
+ "id": "pe_5swfrs54",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15500369",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15500369"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Donald Walsh"
+  },
+  "romanized": "Donald Walsh",
+  "sort_key": "donaldwalsh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15500369"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5swfrs54",
+     "name": "Donald Walsh",
+     "role": "author",
+     "romanized": "Donald Walsh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_tmxw1k0c",
+   "id": "wk_tmxw1k0c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metshafe Filisifian Sigawi Wemenifesawi",
+    "script": "Ethi",
+    "text": "መጽሃፈ ፍልስፍና ስጋዊ ወመንፈሳዊ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "daconmalkamubayana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w7sja0xc",
+ "id": "pe_w7sja0xc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23850417",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23850417"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64122693",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64122693"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Melkamu Beyene"
+  },
+  "romanized": "Deacon Melkamu Beyene",
+  "sort_key": "deaconmelkamubeyene"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23850417"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w7sja0xc",
+     "name": "Deacon Melkamu Beyene",
+     "role": "author",
+     "romanized": "Deacon Melkamu Beyene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_21a76gpk",
+   "id": "wk_21a76gpk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lemin Rikeh Komik Mz.9:21",
+    "script": "Ethi",
+    "text": "ለምን ርቅህ ቆምህ መዝ 9 21"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_w7sja0xc",
+     "name": "Deacon Melkamu Beyene",
+     "role": "author",
+     "romanized": "Deacon Melkamu Beyene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rz4vcsgr",
+   "id": "wk_rz4vcsgr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Debere Amin",
+    "script": "Ethi",
+    "text": "ደብረ አሚን"
+   },
+   "type": "work"
+  }
+ ]
+}

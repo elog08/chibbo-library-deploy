@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ssxn6me8",
+ "@type": "Book",
+ "alternateName": [
+  "Zimita"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k53s8t2t",
+   "@type": "Person",
+   "name": "Hailegiorgis Mamo"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዝምታ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71472139"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71472139"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ps6vbvxz",
+   "@type": "Book"
+  }
+ ]
+}

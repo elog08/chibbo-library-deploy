@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yamataworktagnamajor",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zwa455r3",
+ "id": "pe_zwa455r3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62585665",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62585665"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yematawork Tegne (Major)"
+  },
+  "romanized": "Yematawork Tegne (Major)",
+  "sort_key": "yemataworktegnemajor"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62585665"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zwa455r3",
+     "name": "Yematawork Tegne (Major)",
+     "role": "author",
+     "romanized": "Yematawork Tegne (Major)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a75p56xb",
+   "id": "wk_a75p56xb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hayagna BeTsorena... E'wnetegna Tarik YeAser Aleqaw YeTor Mieda Tztawoch",
+    "script": "Ethi",
+    "text": "ሃያኛ በፆሮና...እውነተኛ ታሪክ የአስር አለቃው የጦር ሜዳ ትዝታዎች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

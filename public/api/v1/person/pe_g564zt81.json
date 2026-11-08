@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "barihunkabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g564zt81",
+ "id": "pe_g564zt81",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57469529",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57469529"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berihun Kebede"
+  },
+  "romanized": "Berihun Kebede",
+  "sort_key": "berihunkebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57469529"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g564zt81",
+     "name": "Berihun Kebede",
+     "role": "author",
+     "romanized": "Berihun Kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hye8a7wy",
+   "id": "wk_hye8a7wy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAtse Hailesilase Tarik",
+    "script": "Ethi",
+    "text": "የአፄ ኃይለሥላሴ ታሪክ"
+   },
+   "type": "work",
+   "year": 2001
+  }
+ ]
+}

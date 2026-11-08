@@ -30,6 +30,22 @@
    "rel": "about",
    "status": "ok",
    "url": "https://openlibrary.org/authors/OL11818785A"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47790055",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47790055"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67494092",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67494092"
   }
  ],
  "locked_fields": [],
@@ -65,6 +81,36 @@
  "type": "person",
  "works": [
   {
+   "credits": [
+    {
+     "id": "pe_fqtpmy3z",
+     "name": "ዐቢይ አሕመድ",
+     "role": "author",
+     "romanized": "abiy ahmed"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_8hnfbnss",
+   "id": "wk_8hnfbnss",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemedemer Menged",
+    "script": "Ethi",
+    "text": "የመደመር መንገድ"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_dtrxpzvb.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%88%98%E1%8B%B0%E1%88%98%E1%88%AD.jpg"
@@ -84,7 +130,8 @@
    },
    "flags": [
     "format-paper-back",
-    "llm-extracted"
+    "llm-extracted",
+    "suspect-isbn"
    ],
    "href": "https://chibbo.app/work/wk_dtrxpzvb",
    "id": "wk_dtrxpzvb",
@@ -98,6 +145,27 @@
    },
    "type": "work",
    "year": 2019
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fqtpmy3z",
+     "name": "ዐቢይ አሕመድ",
+     "role": "author",
+     "romanized": "abiy ahmed"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n3py7e54",
+   "id": "wk_n3py7e54",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemedemer Mengist",
+    "script": "Ethi",
+    "text": "የመደመር መንግሥት"
+   },
+   "type": "work"
   }
  ]
 }

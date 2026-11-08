@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4yjcmjkn",
+ "@type": "Book",
+ "alternateName": [
+  "Ta'odokos"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_7xb3x2a7",
+   "@type": "Person",
+   "name": "Memihir Betsiha Alemu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ታኦዶኮስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.36",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84591459"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=84591459"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_72d7zyz4",
+   "@type": "Book"
+  }
+ ]
+}

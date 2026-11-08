@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "daconaliasdafalign",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w6fmjktx",
+ "id": "pe_w6fmjktx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37834530",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37834530"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50309949",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50309949"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Elias Defallign"
+  },
+  "romanized": "Deacon Elias Defallign",
+  "sort_key": "deaconeliasdefallign"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37834530"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w6fmjktx",
+     "name": "Deacon Elias Defallign",
+     "role": "author",
+     "romanized": "Deacon Elias Defallign"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ps6fnnkz",
+   "id": "wk_ps6fnnkz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dawit Ke'Eregninet Eske Nigisina",
+    "script": "Ethi",
+    "text": "ዳዊት ከእረኝነት እስከ ንግሥና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_w6fmjktx",
+     "name": "Deacon Elias Defallign",
+     "role": "author",
+     "romanized": "Deacon Elias Defallign"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_xk40fs1c",
+   "id": "wk_xk40fs1c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Silondis (YeIsrael Sostegna Nigus Yedawit Lij YeSolomon Metsihaft Tibebina Tarik)",
+    "script": "Ethi",
+    "text": "ሲሎንዲስ (የእስራኤል ሦስተኛ ንጉሥ የዳዊት ልጅ የሰሎሞን መጻሕፍት ጥበብና ታሪክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_h3q8m6mf",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sexbmtjv",
+   "@type": "Person",
+   "name": "Mesfin Hailu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Adera",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=24329010"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mankusa Ethiopia (2002 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=24329010"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4me043gy",
+   "@type": "Book"
+  }
+ ]
+}

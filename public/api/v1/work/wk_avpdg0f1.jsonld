@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_avpdg0f1",
+ "@type": "Book",
+ "alternateName": [
+  "Derasiw"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_50p2p1t8",
+   "@type": "Person",
+   "name": "በአሉ ግርማ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ደራሲው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.67",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71145147"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mankusa Publishers (2013 (Fifth Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71145147"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hp8at7hy",
+   "@type": "Book"
+  }
+ ]
+}

@@ -48,6 +48,30 @@
    "rel": "about",
    "status": "ok",
    "url": "https://afroreadapp.com/Store/AuthorStore/21abcc1e-df9a-4a76-d08c-08d935e50895"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00123905",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00123905"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46235665",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46235665"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93424449",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93424449"
   }
  ],
  "locked_fields": [],
@@ -79,7 +103,8 @@
  "name_order": "forename",
  "notes": [
   "Read from the title page of አውጫችኝ - አበራ ለማ.pdf",
-  "Read from the title page of መቆያ_አጫጭር_ልብ_ወለዶች_እና_ግጥሞች_አበራ_ለማ.pdf"
+  "Read from the title page of መቆያ_አጫጭር_ልብ_ወለዶች_እና_ግጥሞች_አበራ_ለማ.pdf",
+  "Read from compilation አውጫችኝ - አበራ ለማ.pdf (p. 1)"
  ],
  "portrait": {
   "bytes": 90793,
@@ -96,6 +121,64 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_5phx22m0",
+   "id": "wk_5phx22m0",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye Ef Nege",
+    "script": "Ethi",
+    "text": "የእፍ ንገር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_73c6ah5x",
+   "id": "wk_73c6ah5x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tiwisib",
+    "script": "Ethi",
+    "text": "ትውስብ"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_86qxe5w1.jpg",
@@ -171,6 +254,43 @@
    "year": 1981
   },
   {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_cd8mjs4a",
+   "id": "wk_cd8mjs4a",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lerasachuh setadergut atasebumu?",
+    "script": "Ethi",
+    "text": "ለራሳችሁ ስታደርጉት አታስብሙ?"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_enrb4qnk.png",
     "source_url": "https://afroreadstoragepd.blob.core.windows.net/bookcoverimagefiles/2021/5d0a6678-37b8-410d-9b3d-7f713cf43318AberaLemaMequoyaMogedegnawNewtaeH400.png"
@@ -208,6 +328,59 @@
    "year": 1980
   },
   {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fwxn5f7s",
+   "id": "wk_fwxn5f7s",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kinitat",
+    "script": "Ethi",
+    "text": "ቅንጣት"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jxs8hrey",
+   "id": "wk_jxs8hrey",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "...Endihim Tenurual",
+    "script": "Ethi",
+    "text": "...እንዲህም ተኑሯል"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_pp1vw4r4.png",
     "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pp1vw4r4.png"
@@ -232,9 +405,16 @@
     "filename-title-mismatch",
     "calendar-ambiguous"
    ],
+   "form": "poetry",
    "href": "https://chibbo.app/work/wk_pp1vw4r4",
    "id": "wk_pp1vw4r4",
    "language": "am",
+   "part_count": 3,
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "social-critique"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",
@@ -244,6 +424,43 @@
    },
    "type": "work",
    "year": 2002
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_69k04xse",
+     "name": "አበራ ለማ",
+     "role": "author",
+     "romanized": "abera lema"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_yj17de1g",
+   "id": "wk_yj17de1g",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_pp1vw4r4",
+    "id": "wk_pp1vw4r4",
+    "title": {
+     "lang": "am",
+     "romanized": "Awchachign (Dikt samling)",
+     "script": "Ethi",
+     "text": "አውጫጭኝ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "faith-and-philosophy"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Awchachign",
+    "script": "Ethi",
+    "text": "አውጫችኝ"
+   },
+   "type": "work"
   }
  ]
 }

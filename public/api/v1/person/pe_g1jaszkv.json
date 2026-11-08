@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_g1jaszkv",
  "id": "pe_g1jaszkv",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83618486",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83618486"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -72,6 +81,27 @@
    },
    "type": "work",
    "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_g1jaszkv",
+     "name": "መላኩ አለም",
+     "role": "author",
+     "romanized": "melaku alem"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wjan4x1v",
+   "id": "wk_wjan4x1v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yohannes Dingay Gedele",
+    "script": "Ethi",
+    "text": "ዮሐንስ ድንጋይ ገደለ"
+   },
+   "type": "work"
   }
  ]
 }

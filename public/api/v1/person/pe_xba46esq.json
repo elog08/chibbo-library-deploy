@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "aliasayalnah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xba46esq",
+ "id": "pe_xba46esq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37150873",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37150873"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elias Ayalneh"
+  },
+  "romanized": "Elias Ayalneh",
+  "sort_key": "eliasayalneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=37150873"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xba46esq",
+     "name": "Elias Ayalneh",
+     "role": "author",
+     "romanized": "Elias Ayalneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1999?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_af9z56nv",
+   "id": "wk_af9z56nv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbe Gubegna Be'erawi Tegadilo",
+    "script": "Ethi",
+    "text": "የአቤ ጉበኛ ብዕራዊ ተጋድሎ"
+   },
+   "type": "work",
+   "year": 1999
+  }
+ ]
+}

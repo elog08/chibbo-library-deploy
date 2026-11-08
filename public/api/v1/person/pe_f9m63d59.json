@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "yaradgabramichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f9m63d59",
+ "id": "pe_f9m63d59",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29145918",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29145918"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34663457",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34663457"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yared Gebre Michael"
+  },
+  "romanized": "Yared Gebre Michael",
+  "sort_key": "yaredgebremichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29145918"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f9m63d59",
+     "name": "Yared Gebre Michael",
+     "role": "author",
+     "romanized": "Yared Gebre Michael"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1955?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cttt5pcq",
+   "id": "wk_cttt5pcq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAfrika Tsehay (BeEthiopia Semay)",
+    "script": "Ethi",
+    "text": "የአፍሪካ ፀሐይ (በኢትዮጵያ ሰማይ )"
+   },
+   "type": "work",
+   "year": 1955
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_f9m63d59",
+     "name": "Yared Gebre Michael",
+     "role": "author",
+     "romanized": "Yared Gebre Michael"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_z56bba33",
+   "id": "wk_z56bba33",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTarik Sew",
+    "script": "Ethi",
+    "text": "የታሪክ ሰው"
+   },
+   "type": "work"
+  }
+ ]
+}

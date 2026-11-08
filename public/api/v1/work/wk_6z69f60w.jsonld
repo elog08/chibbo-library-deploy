@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6z69f60w",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Word of blessing - Part III",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.53",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=88942772"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=88942772"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nvce85xt",
+   "@type": "Book"
+  }
+ ]
+}

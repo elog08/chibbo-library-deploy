@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "tadalayalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z5cae0a4",
+ "id": "pe_z5cae0a4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31336421",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31336421"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81131840",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81131840"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadele Ayalew"
+  },
+  "romanized": "Tadele Ayalew",
+  "sort_key": "tadeleayalew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31336421"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z5cae0a4",
+     "name": "Tadele Ayalew",
+     "role": "author",
+     "romanized": "Tadele Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v02drd39",
+   "id": "wk_v02drd39",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Geregera",
+    "script": "Ethi",
+    "text": "ገረገራ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_z5cae0a4",
+     "name": "Tadele Ayalew",
+     "role": "author",
+     "romanized": "Tadele Ayalew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yg3bvvjd",
+   "id": "wk_yg3bvvjd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rebenat",
+    "script": "Ethi",
+    "text": "ረበናት"
+   },
+   "type": "work"
+  }
+ ]
+}

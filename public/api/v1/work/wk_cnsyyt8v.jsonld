@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cnsyyt8v",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mq6pdwy9",
+   "@type": "Person",
+   "name": "Abdii Fiixee"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Dhoksaa Jireenyaa",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=25910323"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Abdii Fiixee (MAXXANSA LAMMATAA 2014)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=25910323"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_gpg7rvh6",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "athiopianauthorsasociation",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p8rkk1s6",
+ "id": "pe_p8rkk1s6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02185096",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02185096"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ethiopian authors association"
+  },
+  "romanized": "Ethiopian authors association",
+  "sort_key": "ethiopianauthorsassociation"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02185096"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p8rkk1s6",
+     "name": "Ethiopian authors association",
+     "role": "author",
+     "romanized": "Ethiopian authors association"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1988?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zmt3m214",
+   "id": "wk_zmt3m214",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eniho",
+    "script": "Ethi",
+    "text": "እንሆ"
+   },
+   "type": "work",
+   "year": 1988
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "misatarbarhanuzarihun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hfd4paa5",
+ "id": "pe_hfd4paa5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "miseter berhenu zerihun",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሚስጥር ብርሀኑ ዘሪሁን"
+  },
+  "romanized": "miseter berhenu zerihun",
+  "sort_key": "ሚስጥርብርሀኑዘሪሁን"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5s3ny8ra.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/የታንጉት-ምስጢር-pdf.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_hfd4paa5",
+     "name": "ሚስጥር ብርሀኑ ዘሪሁን",
+     "role": "author",
+     "romanized": "miseter berhenu zerihun"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_5s3ny8ra",
+   "id": "wk_5s3ny8ra",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetangut Mistir",
+    "script": "Ethi",
+    "text": "የታንጉት ምስጢር"
+   },
+   "type": "work"
+  }
+ ]
+}

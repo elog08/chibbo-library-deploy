@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vx6h5ndf",
+ "@type": "Book",
+ "alternateName": [
+  "KeWeyane Bashager"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_cpfcck09",
+   "@type": "Person",
+   "name": "Dr.Biruh Tesfa Abebe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ከወያኔ ባሻገር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=26952847"
+  },
+  {
+   "@type": "Offer",
+   "price": "12.49",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=63622517"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=26952847",
+  "https://www.mereb.shop/rs/?mpid=63622517"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y7859a4d",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_w6tqb98a",
+   "@type": "Book"
+  }
+ ]
+}

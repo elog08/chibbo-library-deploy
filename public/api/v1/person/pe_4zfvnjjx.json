@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhailamariamlakaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4zfvnjjx",
+ "id": "pe_4zfvnjjx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67080513",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67080513"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hailemariam Lakew"
+  },
+  "romanized": "Memihir Hailemariam Lakew",
+  "sort_key": "memihirhailemariamlakew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=67080513"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4zfvnjjx",
+     "name": "Memihir Hailemariam Lakew",
+     "role": "author",
+     "romanized": "Memihir Hailemariam Lakew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1zw1k94p",
+   "id": "wk_1zw1k94p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hawilte Simi'e",
+    "script": "Ethi",
+    "text": "ሐውልተ ስምዕ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

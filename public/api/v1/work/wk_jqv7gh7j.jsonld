@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jqv7gh7j",
+ "@type": "Book",
+ "alternateName": [
+  "Yikirta"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jgh5rjn3",
+   "@type": "Person",
+   "name": "Catherine Clair Larson"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_wkn9r4dv",
+   "@type": "Person",
+   "name": "Catherine Clair"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ይቅርታ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31936732"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=31936732"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_akwpp8ms",
+   "@type": "Book"
+  }
+ ]
+}

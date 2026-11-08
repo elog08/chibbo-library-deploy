@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "zamanutanagna",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bms0fsmh",
+ "id": "pe_bms0fsmh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97558915",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97558915"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Zemenu Tenagne"
+  },
+  "romanized": "Zemenu Tenagne",
+  "sort_key": "zemenutenagne"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97558915"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bms0fsmh",
+     "name": "Zemenu Tenagne",
+     "role": "author",
+     "romanized": "Zemenu Tenagne"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hcbyvsk6",
+   "id": "wk_hcbyvsk6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ayne Siwirua Chachut",
+    "script": "Ethi",
+    "text": "አይነ ስውርዋ ጫጩት"
+   },
+   "type": "work"
+  }
+ ]
+}

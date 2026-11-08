@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "taklatsadikmakuria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h3z12gdd",
+ "id": "pe_h3z12gdd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55184736",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55184736"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55763969",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55763969"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tekle Tsadik Mekuria"
+  },
+  "romanized": "Tekle Tsadik Mekuria",
+  "sort_key": "tekletsadikmekuria"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55184736"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h3z12gdd",
+     "name": "Tekle Tsadik Mekuria",
+     "role": "author",
+     "romanized": "Tekle Tsadik Mekuria"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1959?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7hbgwk1x",
+   "id": "wk_7hbgwk1x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik (KeAtse Yikuno Amilak eske Atse Libnedingle)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ (ከአፄ ይኩኖ አምላክ እስከ አፄ ልብነድንግል"
+   },
+   "type": "work",
+   "year": 1959
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_h3z12gdd",
+     "name": "Tekle Tsadik Mekuria",
+     "role": "author",
+     "romanized": "Tekle Tsadik Mekuria"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nb8ydrr1",
+   "id": "wk_nb8ydrr1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Atse Tewodros Ena YeEthiopia Andinet",
+    "script": "Ethi",
+    "text": "ዐፄ ቴዎድሮስ እና የኢትዮጵያ አንድነት"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

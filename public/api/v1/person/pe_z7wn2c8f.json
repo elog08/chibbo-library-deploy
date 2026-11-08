@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abrahamasafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_z7wn2c8f",
+ "id": "pe_z7wn2c8f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13739959",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13739959"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abreham Assefa"
+  },
+  "romanized": "Abreham Assefa",
+  "sort_key": "abrehamassefa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13739959"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_z7wn2c8f",
+     "name": "Abreham Assefa",
+     "role": "author",
+     "romanized": "Abreham Assefa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8td44an6",
+   "id": "wk_8td44an6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAnchinesh Tesfa",
+    "script": "Ethi",
+    "text": "የአንቺነሽ ተስፋ"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

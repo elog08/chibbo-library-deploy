@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalalahandrodalbaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_011aqctv",
+ "id": "pe_011aqctv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87274714",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87274714"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Alehandro Del Baye"
+  },
+  "romanized": "Colonel Alehandro Del Baye",
+  "sort_key": "colonelalehandrodelbaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87274714"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_011aqctv",
+     "name": "Colonel Alehandro Del Baye",
+     "role": "author",
+     "romanized": "Colonel Alehandro Del Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m6ksf3qw",
+   "id": "wk_m6ksf3qw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Key Anbessa",
+    "script": "Ethi",
+    "text": "ቀይ አንበሳ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

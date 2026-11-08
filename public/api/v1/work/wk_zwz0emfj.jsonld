@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zwz0emfj",
+ "@type": "Book",
+ "alternateName": [
+  "Hematan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4yajkh01",
+   "@type": "Person",
+   "name": "Hilina"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሔማታን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=71242623"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=71242623"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_c2ekp1ck",
+   "@type": "Book"
+  }
+ ]
+}

@@ -20,6 +20,7 @@
  "editions": [
   "ed_d3tvhz23",
   "ed_18bhpjdr",
+  "ed_eytw4tjz",
   "ed_9wqhvzfj"
  ],
  "extensions": {},
@@ -40,6 +41,9 @@
  "identifiers": {
   "addisbooks_sku": [
    "5965"
+  ],
+  "mereb_mpid": [
+   "06255178"
   ],
   "pdf_pagehash": [
    "00412727410d1120",
@@ -92,6 +96,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/merek-adam-reta"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06255178",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06255178"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "15.80",
+   "provider": "mereb",
+   "ref": "06255178",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06255178"
   }
  ],
  "locked_fields": [],
@@ -105,6 +127,7 @@
   "source": "addisbooks",
   "source_url": "https://addisbooks.com/book/mereq-by-adam-reta/"
  },
+ "publisher_name": "Adam Reta (2014/15)",
  "relations": [],
  "rights": {
   "shippable": false,

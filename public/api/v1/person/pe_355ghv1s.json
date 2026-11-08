@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmistirutaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_355ghv1s",
+ "id": "pe_355ghv1s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21987362",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21987362"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35537869",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35537869"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mistiru Taye"
+  },
+  "romanized": "Memihir Mistiru Taye",
+  "sort_key": "memihirmistirutaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21987362"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_355ghv1s",
+     "name": "Memihir Mistiru Taye",
+     "role": "author",
+     "romanized": "Memihir Mistiru Taye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_70mfp3by",
+   "id": "wk_70mfp3by",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Megbete Orit",
+    "script": "Ethi",
+    "text": "መግበተ ኦሪት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_355ghv1s",
+     "name": "Memihir Mistiru Taye",
+     "role": "author",
+     "romanized": "Memihir Mistiru Taye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jdntrjp6",
+   "id": "wk_jdntrjp6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Timihrte Egziabher Zeorthodox",
+    "script": "Ethi",
+    "text": "ትምህርተ እግዚአብሔር ዘኦርቶዶክስ"
+   },
+   "type": "work"
+  }
+ ]
+}

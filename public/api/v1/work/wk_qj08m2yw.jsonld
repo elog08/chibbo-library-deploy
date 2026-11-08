@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_qj08m2yw",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4k9bphjc",
+   "@type": "Person",
+   "name": "Shiferaw Mengesha"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "YeShaka Bekele Weya Tarik",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=11180598"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=11180598"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wrtdnvn0",
+   "@type": "Book"
+  }
+ ]
+}

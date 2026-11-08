@@ -85,14 +85,14 @@ probe /work/wk_3rqr0aa1.html text/html '01 ብር'
 probe /person/pe_hh1ptvn5.html text/html 'Author'
 probe /browse.html text/html 'By Amharic letter'
 probe /assets/covers/wk_3rqr0aa1.webp image/webp ''
-probe /api/v1/manifest.json application/json '83a93da65c4204de2a048922e2ed34916ac838cd'
+probe /api/v1/manifest.json application/json 'd58dd3c7465afa0243916876d783dd510790b7ec'
 probe /opds/root.json application/json 'Chibbo Library'
 
 curl --fail --silent "$base_url/api/v1/manifest.json" \
-  | jq -e '.commit == "83a93da65c4204de2a048922e2ed34916ac838cd" and .counts.works == 1608 and .counts.people == 1267' \
+  | jq -e '.commit == "d58dd3c7465afa0243916876d783dd510790b7ec" and .counts.works == 5748 and .counts.people == 3866' \
   >/dev/null
 curl --fail --silent "$base_url/opds/root.json" \
-  | jq -e '.metadata.title == "Chibbo Library" and .metadata.numberOfItems == 1608' \
+  | jq -e '.metadata.title == "Chibbo Library" and .metadata.numberOfItems == 5748' \
   >/dev/null
 
 for public_route in / /work/wk_3rqr0aa1.html /person/pe_hh1ptvn5.html /browse.html; do

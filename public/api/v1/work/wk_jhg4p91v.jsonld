@@ -1,0 +1,47 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jhg4p91v",
+ "@type": "Book",
+ "alternateName": [
+  "The Liturgy Book (Ge'ez. Tigirigna English)"
+ ],
+ "inLanguage": "am",
+ "name": "መጽሐፈ ቅዳሴ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "117.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=03761704"
+  },
+  {
+   "@type": "Offer",
+   "price": "25.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=15760879"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=03761704",
+  "https://www.mereb.shop/rs/?mpid=15760879"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wcky404c",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_yxx9rrr2",
+   "@type": "Book"
+  }
+ ]
+}

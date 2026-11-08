@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_95npxa3q",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_wtmhhr87",
+   "@type": "Person",
+   "name": "Marta Belete"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye-Heywot Zemare",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.54",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84476007"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=84476007"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dtz2rp18",
+   "@type": "Book"
+  }
+ ]
+}

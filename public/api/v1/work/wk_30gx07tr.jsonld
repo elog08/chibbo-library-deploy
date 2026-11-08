@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_30gx07tr",
+ "@type": "Book",
+ "alternateName": [
+  "Zimamiye"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_f6a8pbkv",
+   "@type": "Person",
+   "name": "ተስፋዬ አየለ"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዝማምዬ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=91169789"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=91169789"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4ghqssgt",
+   "@type": "Book"
+  }
+ ]
+}

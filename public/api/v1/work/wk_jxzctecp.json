@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_c2nddb6p"
+  "ed_c2nddb6p",
+  "ed_hpsqn7a8"
  ],
  "extensions": {},
  "fingerprint": "የደመናሳቆች|darajabalaynah",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_jxzctecp",
  "id": "wk_jxzctecp",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "29101683"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,12 +58,31 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/yedemena-sakoch-dereje-belayneh"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29101683",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29101683"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "16.99",
+   "provider": "mereb",
+   "ref": "29101683",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29101683"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.00/5 from 0 rating(s)"
+  "ethiobookreview community rating 3.00/5 from 0 rating(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

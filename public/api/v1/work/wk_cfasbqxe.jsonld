@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cfasbqxe",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopia YeTekrno Mikurab (YeMekeramet Weys Yemadan Tel'eko)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_etjj0xgz",
+   "@type": "Person",
+   "name": "Surafel Abebe"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_5egxkpw3",
+   "@type": "Person",
+   "name": "Lidya Abebe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢትዮጵያ የተቃርኖ ምኩራብ (የመቀራመት ወይስ የማዳን ተልዕኮ)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "16.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83299617"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=83299617"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_p4e55dea",
+   "@type": "Book"
+  }
+ ]
+}

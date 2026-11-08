@@ -5,7 +5,24 @@
  "href": "https://chibbo.app/person/pe_sjy0w0zz",
  "id": "pe_sjy0w0zz",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09502014",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09502014"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50517060",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50517060"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -61,6 +78,27 @@
     "romanized": "godanaw eskiqwach",
     "script": "Ethi",
     "text": "ጎዳናው እስኪቋጭ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sjy0w0zz",
+     "name": "አሳዬ ደርቤ",
+     "role": "author",
+     "romanized": "asaye derbe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x54nega2",
+   "id": "wk_x54nega2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHasab Ken Zeloch (Terek Ena Wegoch)",
+    "script": "Ethi",
+    "text": "የሐሳብ ቀን ዘሎች (ተረክ እና ወጎች)"
    },
    "type": "work"
   }

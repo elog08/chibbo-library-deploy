@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_99enk63y",
+ "@type": "Book",
+ "alternateName": [
+  "Ande Kinfe"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_q60s8dmv",
+   "@type": "Person",
+   "name": "Demeke Kebede"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994499601",
+ "name": "አንድ ክንፍ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.54",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=14855988"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=14855988"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jyh4tgqp",
+   "@type": "Book"
+  }
+ ]
+}

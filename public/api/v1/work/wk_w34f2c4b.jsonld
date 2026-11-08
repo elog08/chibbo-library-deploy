@@ -1,0 +1,74 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w34f2c4b",
+ "@type": "Book",
+ "alternateName": [
+  "Gahdi 1"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_v8mkzdgx",
+   "@type": "Person",
+   "name": "Asgede W/Silase W/Michael"
+  }
+ ],
+ "datePublished": "2000?",
+ "inLanguage": "ti",
+ "name": "ጋህዲ ፩",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.26",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=15832500"
+  },
+  {
+   "@type": "Offer",
+   "price": "16.23",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=34590857"
+  },
+  {
+   "@type": "Offer",
+   "price": "19.68",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=80048821"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Asgede W/Silase W/Michael"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=15832500",
+  "https://www.mereb.shop/rs/?mpid=34590857",
+  "https://www.mereb.shop/rs/?mpid=80048821"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5d7498mx",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_qvydhz3b",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_0peeae2a",
+   "@type": "Book"
+  }
+ ]
+}

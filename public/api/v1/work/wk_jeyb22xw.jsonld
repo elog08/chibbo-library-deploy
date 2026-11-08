@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jeyb22xw",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9v09qksw",
+   "@type": "Person",
+   "name": "Melaku Berhanu Anchemo"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yelewute dewule",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.62",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=59255413"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=59255413"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vybsej1m",
+   "@type": "Book"
+  }
+ ]
+}

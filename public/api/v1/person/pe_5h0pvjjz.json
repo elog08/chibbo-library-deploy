@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "napolanhil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5h0pvjjz",
+ "id": "pe_5h0pvjjz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45142687",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45142687"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Napolean Hill"
+  },
+  "romanized": "Napolean Hill",
+  "sort_key": "napoleanhill"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45142687"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5h0pvjjz",
+     "name": "Napolean Hill",
+     "role": "author",
+     "romanized": "Napolean Hill"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8yzyph7k",
+   "id": "wk_8yzyph7k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asibeh Habtam Hun!",
+    "script": "Ethi",
+    "text": "አስበህ ሀብታም ሁን!"
+   },
+   "type": "work"
+  }
+ ]
+}

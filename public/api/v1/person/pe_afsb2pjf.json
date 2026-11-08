@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "sidnayshaldon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_afsb2pjf",
+ "id": "pe_afsb2pjf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54117804",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54117804"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76064154",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76064154"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sidney Sheldon"
+  },
+  "romanized": "Sidney Sheldon",
+  "sort_key": "sidneysheldon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54117804"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_afsb2pjf",
+     "name": "Sidney Sheldon",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8f4zak1t",
+   "id": "wk_8f4zak1t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Askual",
+    "script": "Latn",
+    "text": "Askual"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_afsb2pjf",
+     "name": "Sidney Sheldon",
+     "role": "author",
+     "romanized": "Sidney Sheldon"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t041hnxk",
+   "id": "wk_t041hnxk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Askual - Second Book",
+    "script": "Latn",
+    "text": "Askual - Second Book"
+   },
+   "type": "work"
+  }
+ ]
+}

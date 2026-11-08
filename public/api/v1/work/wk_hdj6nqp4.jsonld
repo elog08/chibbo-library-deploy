@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hdj6nqp4",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_msx50dqf",
+   "@type": "Person",
+   "name": "Melake Berhan Berhanu Beserat"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Dictionary of names",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.36",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=36088790"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=36088790"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y1drsk4a",
+   "@type": "Book"
+  }
+ ]
+}

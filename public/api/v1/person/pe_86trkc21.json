@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "copticpatriarchabunashinodai",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_86trkc21",
+ "id": "pe_86trkc21",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94404476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94404476"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Coptic Patriarch Abuna Shinoda III"
+  },
+  "romanized": "Coptic Patriarch Abuna Shinoda III",
+  "sort_key": "copticpatriarchabunashinodaiii"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=94404476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_86trkc21",
+     "name": "Coptic Patriarch Abuna Shinoda III",
+     "role": "author",
+     "romanized": "Coptic Patriarch Abuna Shinoda III"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dhy5yref",
+   "id": "wk_dhy5yref",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemenfes Frewoch",
+    "script": "Ethi",
+    "text": "የመንፈስ ፍሬዎች"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_009bxwxr"
+  "ed_009bxwxr",
+  "ed_1y4hjzs0"
  ],
  "extensions": {},
  "fingerprint": "የኢትዮጵያየቤተሰብህጎች|andargakasashuma",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_ys4jhms1",
  "id": "wk_ys4jhms1",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "88845001"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -61,18 +66,38 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/ye-ethiopia-yebeteseb-higoch-andarge-kassa-shuma"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88845001",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88845001"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "11.17",
+   "provider": "mereb",
+   "ref": "88845001",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88845001"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.50/5 from 2 rating(s), 2 written review(s)"
+  "ethiobookreview community rating 4.50/5 from 2 rating(s), 2 written review(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/ye-ethiopia-yebeteseb-higoch-andarge-kassa-shuma"
  },
+ "publisher_name": "Andarge Kasse Shume",
  "relations": [],
  "rights": {
   "shippable": false,

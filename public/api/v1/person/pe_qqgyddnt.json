@@ -21,6 +21,14 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/daniel-kibret"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04787465",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04787465"
   }
  ],
  "locked_fields": [],
@@ -50,5 +58,38 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qqgyddnt",
+     "name": "Daniel Kibret",
+     "role": "author",
+     "romanized": "Daniel Kibret"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_km61mqpx",
+   "id": "wk_km61mqpx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yene Jegna ena Leloch",
+    "script": "Ethi",
+    "text": "የኔ ጀግና እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
 }

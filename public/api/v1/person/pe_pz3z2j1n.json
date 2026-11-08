@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "alamayahuwyohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pz3z2j1n",
+ "id": "pe_pz3z2j1n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32362200",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32362200"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alemayehu W/Yohhanes"
+  },
+  "romanized": "Alemayehu W/Yohhanes",
+  "sort_key": "alemayehuwyohhanes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32362200"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pz3z2j1n",
+     "name": "Alemayehu W/Yohhanes",
+     "role": "author",
+     "romanized": "Alemayehu W/Yohhanes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5kyswk67",
+   "id": "wk_5kyswk67",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Yebahil Yemusika Mesariyawoch Memariya Metshaf",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የባህል የሙዚቃ መሣሪያዎች መማሪያ መጽሐፍ"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

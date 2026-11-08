@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "yihunayala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j66mrnap",
+ "id": "pe_j66mrnap",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20933366",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20933366"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48780607",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48780607"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yihune Ayele"
+  },
+  "romanized": "Yihune Ayele",
+  "sort_key": "yihuneayele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20933366"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j66mrnap",
+     "name": "Yihune Ayele",
+     "role": "author",
+     "romanized": "Yihune Ayele"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kdhsjhk2",
+   "id": "wk_kdhsjhk2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mulu Tenan Filega",
+    "script": "Ethi",
+    "text": "ሙሉ ጤናን ፍለጋ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_j66mrnap",
+     "name": "Yihune Ayele",
+     "role": "author",
+     "romanized": "Yihune Ayele"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qh1eywft",
+   "id": "wk_qh1eywft",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye'Ewket Ma'ed",
+    "script": "Ethi",
+    "text": "የዕውቀት ማዕድ"
+   },
+   "type": "work"
+  }
+ ]
+}

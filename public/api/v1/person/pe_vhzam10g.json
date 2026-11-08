@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "daconmangistugobaza",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vhzam10g",
+ "id": "pe_vhzam10g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77938839",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77938839"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon Mengistu Gobeze"
+  },
+  "romanized": "Deacon Mengistu Gobeze",
+  "sort_key": "deaconmengistugobeze"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=77938839"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d80674gt",
+     "name": "Deacon Asaminew Kassa",
+     "role": "author",
+     "romanized": "Deacon Asaminew Kassa"
+    },
+    {
+     "id": "pe_vhzam10g",
+     "name": "Deacon Mengistu Gobeze",
+     "role": "author",
+     "romanized": "Deacon Mengistu Gobeze"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_cnjm0gva",
+   "id": "wk_cnjm0gva",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBete Christian Tarik Kutir 2",
+    "script": "Ethi",
+    "text": "የቤተ ክርስቲያን ታሪክ ቁጥር 2"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

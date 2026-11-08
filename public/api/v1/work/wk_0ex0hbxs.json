@@ -14,7 +14,8 @@
  ],
  "editions": [
   "ed_36kjp3gf",
-  "ed_e87kbvqt"
+  "ed_e87kbvqt",
+  "ed_63w5q400"
  ],
  "extensions": {},
  "fingerprint": "ይወስዳልመንገድያመጣልመንገድ|adamrata",
@@ -40,6 +41,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_147"
+  ],
+  "mereb_mpid": [
+   "69845088"
   ]
  },
  "language": "am",
@@ -96,6 +100,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_147"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69845088",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69845088"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "18.72",
+   "provider": "mereb",
+   "ref": "69845088",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69845088"
   }
  ],
  "locked_fields": [],

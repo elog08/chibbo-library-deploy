@@ -24,18 +24,35 @@
  "image": "https://covers.openlibrary.org/b/id/14856727-L.jpg",
  "inLanguage": "am",
  "name": "ኦሮማይ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "50.61",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06040929"
+  }
+ ],
  "publisher": {
   "@type": "Organization",
   "name": "Kuraz Publishing Agency"
  },
  "sameAs": [
   "https://openlibrary.org/works/OL5472359W",
+  "https://www.mereb.shop/rs/?mpid=06040929",
   "https://www.wikidata.org/wiki/Q7103761"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_4rp7yv0x",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_a9hwr2v4",
    "@type": "Book"
   }
  ]

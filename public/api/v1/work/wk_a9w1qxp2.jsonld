@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a9w1qxp2",
+ "@type": "Book",
+ "alternateName": [
+  "Metsihafe Kidase (Bale Aratu Kidase)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_hme9he04",
+   "@type": "Person",
+   "name": "Scholars of Ethiopian Orthodox Tewahedo Church"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መጽሐፈ ቅዳሴ (ባለ አራቱ ቅዳሴ)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31004159"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tinsae Printing Press (Second Edition 2000)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=31004159"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6v3nwfqp",
+   "@type": "Book"
+  }
+ ]
+}

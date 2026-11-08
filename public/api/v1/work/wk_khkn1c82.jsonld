@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_khkn1c82",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_81rs4sf2",
+   "@type": "Person",
+   "name": "Melake Kidan Tadesse Sisay"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "General Christian Ethics",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07219784"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07219784"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_da7zhp33",
+   "@type": "Book"
+  }
+ ]
+}

@@ -5,7 +5,16 @@
  "href": "https://chibbo.app/person/pe_49b99j2q",
  "id": "pe_49b99j2q",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41263736",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41263736"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -36,6 +45,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_49b99j2q",
+     "name": "ሳሙኤል ወልደየስ",
+     "role": "author",
+     "romanized": "samuel weldeyes"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_47wgh9kp",
+   "id": "wk_47wgh9kp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yeregew Nigus BeEthiopia (Eyob Mekonnen)",
+    "script": "Ethi",
+    "text": "የሬጌው ንጉስ በኢትዮጵያ (እዮብ መኮንን)"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_h2gz25sx.jpg",

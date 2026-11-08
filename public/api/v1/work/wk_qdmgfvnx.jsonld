@@ -1,0 +1,71 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_qdmgfvnx",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_d9j9zkn4",
+   "@type": "Person",
+   "name": "Mahibere Kidusan"
+  }
+ ],
+ "datePublished": "2006?",
+ "inLanguage": "am",
+ "name": "Hamere Tewahedo (Special edition of Hamer Magazine)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.19",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04121322"
+  },
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=34470574"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.36",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=97085131"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mahibere Kidusan"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04121322",
+  "https://www.mereb.shop/rs/?mpid=34470574",
+  "https://www.mereb.shop/rs/?mpid=97085131"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_63rdhkap",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_t1tr30ef",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_e4hq01x2",
+   "@type": "Book"
+  }
+ ]
+}

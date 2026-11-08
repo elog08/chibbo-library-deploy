@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "rahalyashitila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fm2sfnrt",
+ "id": "pe_fm2sfnrt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49214765",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49214765"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Rahel Yeshitila"
+  },
+  "romanized": "Rahel Yeshitila",
+  "sort_key": "rahelyeshitila"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49214765"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fm2sfnrt",
+     "name": "Rahel Yeshitila",
+     "role": "author",
+     "romanized": "Rahel Yeshitila"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1996?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t8s8q05f",
+   "id": "wk_t8s8q05f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Saba (Englsih-Tigirigna-Amahric)",
+    "script": "Ethi",
+    "text": "ሳባ (እንግሊዘኛ-ትግርኛ-አማርኛ)"
+   },
+   "type": "work",
+   "year": 1996
+  }
+ ]
+}

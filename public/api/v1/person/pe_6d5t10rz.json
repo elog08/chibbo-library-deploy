@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "tamabarha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6d5t10rz",
+ "id": "pe_6d5t10rz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04891081",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04891081"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Taeme Aberha"
+  },
+  "romanized": "Taeme Aberha",
+  "sort_key": "taemeaberha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04891081"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6d5t10rz",
+     "name": "Taeme Aberha",
+     "role": "author",
+     "romanized": "Taeme Aberha"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qyqpp055",
+   "id": "wk_qyqpp055",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meles BeAjabiwochu Anidebet",
+    "script": "Ethi",
+    "text": "መለስ በአጃቢዎቹ አንደበት"
+   },
+   "type": "work"
+  }
+ ]
+}

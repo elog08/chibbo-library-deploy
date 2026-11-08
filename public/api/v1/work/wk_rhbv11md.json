@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_kb94qf65"
+  "ed_kb94qf65",
+  "ed_wz50sdne"
  ],
  "extensions": {},
  "fingerprint": "ጀግናውቃኘውሻለቃበኮሪያከ1951እስከ1956|gatachawtadlababa",
@@ -31,11 +32,19 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "language-inferred-from-script"
  ],
  "href": "https://chibbo.app/work/wk_rhbv11md",
  "id": "wk_rhbv11md",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9789994475810"
+  ],
+  "mereb_mpid": [
+   "59007871"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,6 +62,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/jegnaw-kagnew-shaleka-bekoriya-getachew-tedla-abeba"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59007871",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59007871"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "15.99",
+   "provider": "mereb",
+   "ref": "59007871",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59007871"
   }
  ],
  "locked_fields": [],

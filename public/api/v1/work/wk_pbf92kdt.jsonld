@@ -38,15 +38,30 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.12",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83796109"
   }
  ],
  "sameAs": [
-  "https://hahubooks.com/single-product.php?jbook_code=jb_182"
+  "https://hahubooks.com/single-product.php?jbook_code=jb_182",
+  "https://www.mereb.shop/rs/?mpid=83796109"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_2b3dvzqs",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_aqsrskh6",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kirublasamual",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d0jrdqp3",
+ "id": "pe_d0jrdqp3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49650244",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49650244"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kiruble Samuel"
+  },
+  "romanized": "Kiruble Samuel",
+  "sort_key": "kirublesamuel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49650244"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d0jrdqp3",
+     "name": "Kiruble Samuel",
+     "role": "author",
+     "romanized": "Kiruble Samuel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bh53j98k",
+   "id": "wk_bh53j98k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAyne Tsetita",
+    "script": "Ethi",
+    "text": "የዓይን ፀጥታ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

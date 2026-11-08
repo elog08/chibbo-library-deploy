@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ababashtaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x78nmkj8",
+ "id": "pe_x78nmkj8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22044085",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22044085"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ababa Shtaye"
+  },
+  "romanized": "Ababa Shtaye",
+  "sort_key": "ababashtaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22044085"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x78nmkj8",
+     "name": "Ababa Shtaye",
+     "role": "author",
+     "romanized": "Ababa Shtaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_z3yfh077",
+   "id": "wk_z3yfh077",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Emama Degua Ena Leloch Teretoch",
+    "script": "Ethi",
+    "text": "እማማ ደጓና ሌሎች ተረቶች"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "marsahazanwkirkos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cq69k4vz",
+ "id": "pe_cq69k4vz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15426843",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15426843"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32193464",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32193464"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mers'e Hazen W/ Kirkos"
+  },
+  "romanized": "Mers'e Hazen W/ Kirkos",
+  "sort_key": "mersehazenwkirkos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15426843"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cq69k4vz",
+     "name": "Mers'e Hazen W/ Kirkos",
+     "role": "author",
+     "romanized": "Mers'e Hazen W/ Kirkos"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6gdfxewb",
+   "id": "wk_6gdfxewb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopiana YeEnglisz Somaliland YeWesen Mekalel Tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያና የእንግሊዝ ሶማሊላንድ የወሰን መካለል ታሪክ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_cq69k4vz",
+     "name": "Mers'e Hazen W/ Kirkos",
+     "role": "author",
+     "romanized": "Mers'e Hazen W/ Kirkos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_s76ydmax",
+   "id": "wk_s76ydmax",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yezemen Tarik Tizitaye (Bedagmawi Minilik Zemene Mengist)",
+    "script": "Ethi",
+    "text": "የዘመን ታሪክ ትዝታዬ በዳግማዊ ምኒልክ ዘመነ መንግስት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

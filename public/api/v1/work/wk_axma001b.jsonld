@@ -1,0 +1,41 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_axma001b",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_x92pe2kr",
+   "@type": "Person",
+   "name": "Chef Yonas Taffara"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_3bmjbyas",
+   "@type": "Person",
+   "name": "Chef Nigussie Kebebew"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Zemenawi ye'cake ena Ye'dabo azegejajet",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.82",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=85523738"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=85523738"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zmcfpnj3",
+   "@type": "Book"
+  }
+ ]
+}

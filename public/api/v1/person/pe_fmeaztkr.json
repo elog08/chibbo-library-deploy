@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanumathaws",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fmeaztkr",
+ "id": "pe_fmeaztkr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31215332",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31215332"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berhanu Matthews"
+  },
+  "romanized": "Berhanu Matthews",
+  "sort_key": "berhanumatthews"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31215332"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fw40m7kn",
+     "name": "Zelalem leyew",
+     "role": "author",
+     "romanized": "Zelalem leyew"
+    },
+    {
+     "id": "pe_fmeaztkr",
+     "name": "Berhanu Matthews",
+     "role": "author",
+     "romanized": "Berhanu Matthews"
+    },
+    {
+     "id": "pe_427zebah",
+     "name": "Theodore Natsoulas",
+     "role": "author",
+     "romanized": "Theodore Natsoulas"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mqv2zrrx",
+   "id": "wk_mqv2zrrx",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXVI, No.1 (June 2003)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

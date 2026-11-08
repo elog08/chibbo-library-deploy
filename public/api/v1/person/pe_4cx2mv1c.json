@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "jordanpatarson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4cx2mv1c",
+ "id": "pe_4cx2mv1c",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85615693",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85615693"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jordan P.Peterson"
+  },
+  "romanized": "Jordan P.Peterson",
+  "sort_key": "jordanppeterson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=85615693"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4cx2mv1c",
+     "name": "Jordan P.Peterson",
+     "role": "author",
+     "romanized": "Jordan P.Peterson"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k0pbazqe",
+   "id": "wk_k0pbazqe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHiwot Kemeroch",
+    "script": "Ethi",
+    "text": "የሕይወት ቀመሮች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gabruasrat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x0np0tdv",
+ "id": "pe_x0np0tdv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14369049",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14369049"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebru Asrat"
+  },
+  "romanized": "Gebru Asrat",
+  "sort_key": "gebruasrat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=14369049"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x0np0tdv",
+     "name": "Gebru Asrat",
+     "role": "author",
+     "romanized": "Gebru Asrat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_80rv9ctb",
+   "id": "wk_80rv9ctb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lualawinet Ena Democracy BeEthiopia",
+    "script": "Ethi",
+    "text": "ሉዓላዊነትና ዴሞክራሲ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

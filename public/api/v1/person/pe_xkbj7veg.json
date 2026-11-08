@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "malakutasama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xkbj7veg",
+ "id": "pe_xkbj7veg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19610562",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19610562"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Melaku Tesema"
+  },
+  "romanized": "Melaku Tesema",
+  "sort_key": "melakutesema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19610562"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c1rq31vc",
+     "name": "Melaku Tesema Aweke",
+     "role": "author",
+     "romanized": "Melaku Tesema Aweke"
+    },
+    {
+     "id": "pe_xkbj7veg",
+     "name": "Melaku Tesema",
+     "role": "author",
+     "romanized": "Melaku Tesema"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cnv2hgmc",
+   "id": "wk_cnv2hgmc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Salawers Alalifim (KeEthiopiawinetina KeIhapanet Gar Yetegemede Gile Tarik)",
+    "script": "Ethi",
+    "text": "ሳላወርስ አላልፍም (ከኢትዮጵያዊነትና ከኢሕአፓነት ጋር የተጋመድ ግለ-ታሪክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

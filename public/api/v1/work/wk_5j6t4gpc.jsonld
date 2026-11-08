@@ -15,7 +15,7 @@
    "name": "ዘነበ ወላ"
   }
  ],
- "datePublished": "2013-09-11/2014-09-10",
+ "datePublished": "2014?",
  "image": "https://hahubooks.com/resource/img/%E1%88%9B%E1%88%B5%E1%89%B3%E1%8B%88%E1%88%BB.jpg",
  "inLanguage": "am",
  "name": "ማስታወሻ",
@@ -39,15 +39,34 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_218"
+  },
+  {
+   "@type": "Offer",
+   "price": "24.53",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=85868184"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Zenebe Wela"
+ },
  "sameAs": [
-  "https://hahubooks.com/single-product.php?jbook_code=jb_218"
+  "https://hahubooks.com/single-product.php?jbook_code=jb_218",
+  "https://www.mereb.shop/rs/?mpid=85868184"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_a7a51r88",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_72vbf92v",
    "@type": "Book"
   },
   {

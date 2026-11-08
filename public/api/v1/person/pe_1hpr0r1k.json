@@ -1,0 +1,160 @@
+{
+ "extensions": {},
+ "fingerprint": "makonanzawdia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1hpr0r1k",
+ "id": "pe_1hpr0r1k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01541059",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01541059"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67747497",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67747497"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89026784",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89026784"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94013694",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94013694"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mekonen Zewdie"
+  },
+  "romanized": "Mekonen Zewdie",
+  "sort_key": "mekonenzewdie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01541059"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1hpr0r1k",
+     "name": "Mekonen Zewdie",
+     "role": "author",
+     "romanized": "Mekonen Zewdie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1961?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6625n3xm",
+   "id": "wk_6625n3xm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sewina Edmew",
+    "script": "Ethi",
+    "text": "ሰውና ዕድሜው"
+   },
+   "type": "work",
+   "year": 1961
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_1hpr0r1k",
+     "name": "Mekonen Zewdie",
+     "role": "author",
+     "romanized": "Mekonen Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6g9gwkz5",
+   "id": "wk_6g9gwkz5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopiyawiw",
+    "script": "Ethi",
+    "text": "ኢትዮጵያዊው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_1hpr0r1k",
+     "name": "Mekonen Zewdie",
+     "role": "author",
+     "romanized": "Mekonen Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_a3m6xb2c",
+   "id": "wk_a3m6xb2c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMaichew Kusilegna",
+    "script": "Ethi",
+    "text": "የማይጨው ቁስለኛ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_1hpr0r1k",
+     "name": "Mekonen Zewdie",
+     "role": "author",
+     "romanized": "Mekonen Zewdie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_andcee9q",
+   "id": "wk_andcee9q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yayne Birhan",
+    "script": "Ethi",
+    "text": "ያይኔ ብርሃን"
+   },
+   "type": "work"
+  }
+ ]
+}

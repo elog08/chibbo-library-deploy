@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "fistumdamisia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cq9hgeyr",
+ "id": "pe_cq9hgeyr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70001640",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70001640"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fistum Demissie"
+  },
+  "romanized": "Fistum Demissie",
+  "sort_key": "fistumdemissie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=70001640"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cq9hgeyr",
+     "name": "Fistum Demissie",
+     "role": "author",
+     "romanized": "Fistum Demissie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0mps6jej",
+   "id": "wk_0mps6jej",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "01 Birr (Genzebina Technology Bezemenachin)",
+    "script": "Ethi",
+    "text": "01 ብር (ገንዘብና ቴክኖሎጂ በዘመናችን)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

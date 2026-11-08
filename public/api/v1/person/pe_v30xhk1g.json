@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abonahashagra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v30xhk1g",
+ "id": "pe_v30xhk1g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80126593",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80126593"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aboneh Ashagre"
+  },
+  "romanized": "Aboneh Ashagre",
+  "sort_key": "abonehashagre"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80126593"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v30xhk1g",
+     "name": "Aboneh Ashagre",
+     "role": "author",
+     "romanized": "Aboneh Ashagre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4411b6tn",
+   "id": "wk_4411b6tn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopiana Ethiopiyawyan Betintawi Greekoch Esabe",
+    "script": "Ethi",
+    "text": "ኢትዮጵያና ኢትዮጵያውያን በጥንታዊ ግሪኮች እሳቤ"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "davidhamilton",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gka1z3p2",
+ "id": "pe_gka1z3p2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40103252",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40103252"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "David Hamilton"
+  },
+  "romanized": "David Hamilton",
+  "sort_key": "davidhamilton"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40103252"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    },
+    {
+     "id": "pe_gka1z3p2",
+     "name": "David Hamilton",
+     "role": "author",
+     "romanized": "David Hamilton"
+    },
+    {
+     "id": "pe_gd1fjn8x",
+     "name": "R.Cowley",
+     "role": "author",
+     "romanized": "R.Cowley"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1967?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_q04em6zw",
+   "id": "wk_q04em6zw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.V, No.2 (July 1967)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርመራ መጽሔት"
+   },
+   "type": "work",
+   "year": 1967
+  }
+ ]
+}

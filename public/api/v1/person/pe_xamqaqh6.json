@@ -1,0 +1,120 @@
+{
+ "extensions": {},
+ "fingerprint": "napolaonhil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xamqaqh6",
+ "id": "pe_xamqaqh6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24105024",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24105024"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51467694",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51467694"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69459706",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69459706"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Napoleon Hill"
+  },
+  "romanized": "Napoleon Hill",
+  "sort_key": "napoleonhill"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24105024"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xamqaqh6",
+     "name": "Napoleon Hill",
+     "role": "author",
+     "romanized": "Napoleon Hill"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4g0ds2dh",
+   "id": "wk_4g0ds2dh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSiket Filisifina",
+    "script": "Ethi",
+    "text": "የስኬት ፍልስፍና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xamqaqh6",
+     "name": "Napoleon Hill",
+     "role": "author",
+     "romanized": "Napoleon Hill"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zg3x9q9b",
+   "id": "wk_zg3x9q9b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Talaku YeBilitsigina Kulif (The Mastery-Key to Riches)",
+    "script": "Ethi",
+    "text": "ታላቁ የብልፅግና ቁልፍ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xamqaqh6",
+     "name": "Napoleon Hill",
+     "role": "author",
+     "romanized": "Napoleon Hill"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zhfcvq9g",
+   "id": "wk_zhfcvq9g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSiket Kemer",
+    "script": "Ethi",
+    "text": "የስኬት ቀመር"
+   },
+   "type": "work"
+  }
+ ]
+}

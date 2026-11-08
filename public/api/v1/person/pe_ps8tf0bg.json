@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "wtbarakatlaulsagad",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ps8tf0bg",
+ "id": "pe_ps8tf0bg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13575653",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13575653"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68938443",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68938443"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "W/t Bereket Leulseged"
+  },
+  "romanized": "W/t Bereket Leulseged",
+  "sort_key": "wtbereketleulseged"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13575653"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ps8tf0bg",
+     "name": "W/t Bereket Leulseged",
+     "role": "author",
+     "romanized": "W/t Bereket Leulseged"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kg5dk1a9",
+   "id": "wk_kg5dk1a9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEtiye Alimaz YeScienece Tarikoch (YeMifewisin Medhanit Keyet Yimetal?)",
+    "script": "Ethi",
+    "text": "የእትዬ አልማዝ የሳይንስ ታሪኮች (የሚፈውሰውን መድኃኒት ከዬት ይመጣል?)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ps8tf0bg",
+     "name": "W/t Bereket Leulseged",
+     "role": "author",
+     "romanized": "W/t Bereket Leulseged"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mszdzt16",
+   "id": "wk_mszdzt16",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiyi Alimaz YeScience Tarikoch (YeAlbert Enestien Tarik)",
+    "script": "Ethi",
+    "text": "የእትዬ አልማዝ የሳይንስ ታሪኮች (የአልበርት አንስታይን ታሪክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

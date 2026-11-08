@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t8r8e5j4",
+ "@type": "Book",
+ "alternateName": [
+  "David and Jhonathan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jxgbs4fw",
+   "@type": "Person",
+   "name": "Buruktawit Tesfay"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ዳዊት እና ዮናታን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=39206187"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=39206187"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2t8yar0p",
+   "@type": "Book"
+  }
+ ]
+}

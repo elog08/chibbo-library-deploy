@@ -1,0 +1,90 @@
+{
+ "cover": {
+  "bytes": 23205,
+  "path": "assets/covers/wk_1hj7rb8v.jpg",
+  "sha256": "941839e191cdc714491d84ee066f34680515dd74a59c3b95dd6a3ba4c967f20c",
+  "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/እመጓ-pdf-1.jpg"
+ },
+ "credits": [],
+ "editions": [
+  "ed_sh2rqga7"
+ ],
+ "extensions": {},
+ "fingerprint": "እፎይታ|",
+ "flags": [
+  "unlicensed-full-text-source"
+ ],
+ "href": "https://chibbo.app/work/wk_1hj7rb8v",
+ "id": "wk_1hj7rb8v",
+ "identifiers": {
+  "mereb_mpid": [
+   "94948111"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94948111",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94948111"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "16.75",
+   "provider": "mereb",
+   "ref": "94948111",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94948111"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "full text offered at https://typicalethiopian.com/wp-content/uploads/2022/02/እፎይታ.pdf",
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Efoyta",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እፎይታ"
+  },
+  "romanized": "Efoyta",
+  "sort_key": "እፎይታ"
+ },
+ "type": "work"
+}

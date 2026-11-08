@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_dfnjfebr"
+  "ed_dfnjfebr",
+  "ed_06j489y3"
  ],
  "extensions": {},
  "fingerprint": "ጎዳናውእስኪቃጭ|asayadarba",
@@ -25,6 +26,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_187"
+  ],
+  "mereb_mpid": [
+   "50517060"
   ]
  },
  "language": "am",
@@ -57,6 +61,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_187"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50517060",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50517060"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.99",
+   "provider": "mereb",
+   "ref": "50517060",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50517060"
   }
  ],
  "locked_fields": [],

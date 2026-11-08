@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "drsargawgalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_280db937",
+ "id": "pe_280db937",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "15388984",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=15388984"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Sergew Gelaw"
+  },
+  "romanized": "Dr.Sergew Gelaw",
+  "sort_key": "drsergewgelaw"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=15388984"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_280db937",
+     "name": "Dr.Sergew Gelaw",
+     "role": "author",
+     "romanized": "Dr.Sergew Gelaw"
+    },
+    {
+     "id": "pe_r7e6e5hz",
+     "name": "Aleka T/Eyesus Wakijira",
+     "role": "author",
+     "romanized": "Aleka T/Eyesus Wakijira"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_eq611q5p",
+   "id": "wk_eq611q5p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

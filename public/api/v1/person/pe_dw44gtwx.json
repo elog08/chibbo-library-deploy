@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "thirtandifarantauthors",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dw44gtwx",
+ "id": "pe_dw44gtwx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51850886",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51850886"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Thirteen Different Authors"
+  },
+  "romanized": "Thirteen Different Authors",
+  "sort_key": "thirteendifferentauthors"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51850886"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dw44gtwx",
+     "name": "Thirteen Different Authors",
+     "role": "author",
+     "romanized": "Thirteen Different Authors"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bb3gc6hr",
+   "id": "wk_bb3gc6hr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nafkot",
+    "script": "Ethi",
+    "text": "ናፍቆት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

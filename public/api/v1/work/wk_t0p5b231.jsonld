@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t0p5b231",
+ "@type": "Book",
+ "alternateName": [
+  "Wirsi"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_mgcfykbe",
+   "@type": "Person",
+   "name": "Eyasu G/medihin"
+  }
+ ],
+ "inLanguage": "ti",
+ "name": "ውርሲ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17771896"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Eyasu G/medihin (2015 (Third Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17771896"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_e5s9g4zp",
+   "@type": "Book"
+  }
+ ]
+}

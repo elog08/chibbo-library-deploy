@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_v02drd39",
+ "@type": "Book",
+ "alternateName": [
+  "Geregera"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_z5cae0a4",
+   "@type": "Person",
+   "name": "Tadele Ayalew"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994435333",
+ "name": "ገረገራ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31336421"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=31336421"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vspmrcp8",
+   "@type": "Book"
+  }
+ ]
+}

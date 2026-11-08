@@ -29,15 +29,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/bealu-girma-life-and-works-endalegeta-kebede"
+  },
+  {
+   "@type": "Offer",
+   "price": "12.28",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=94259404"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Endalegeta Kebede"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/bealu-girma-life-and-works-endalegeta-kebede"
+  "https://www.ethiobookreview.com/book/bealu-girma-life-and-works-endalegeta-kebede",
+  "https://www.mereb.shop/rs/?mpid=94259404"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_ej13gqbw",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_f9k3c4xq",
    "@type": "Book"
   }
  ]

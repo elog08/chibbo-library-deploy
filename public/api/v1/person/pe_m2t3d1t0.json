@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drathoma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m2t3d1t0",
+ "id": "pe_m2t3d1t0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "69861956",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=69861956"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Athome"
+  },
+  "romanized": "Dr. Athome",
+  "sort_key": "drathome"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=69861956"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m2t3d1t0",
+     "name": "Dr. Athome",
+     "role": "author",
+     "romanized": "Dr. Athome"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5qmg5ynm",
+   "id": "wk_5qmg5ynm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "tefetroawi Yehonu Yewibet Metebekiyawoch Azegejajetna Atekakem",
+    "script": "Ethi",
+    "text": "ተፈጥሮአዊ የሆኑ የውበት መጠበቂያዎች አዘገጃጀትና አጠቃቀም"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

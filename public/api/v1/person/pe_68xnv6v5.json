@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "armiaskabadawoldayasus",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_68xnv6v5",
+ "id": "pe_68xnv6v5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31347955",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31347955"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40331128",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40331128"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermias Kebede Wolde-Yesus"
+  },
+  "romanized": "Ermias Kebede Wolde-Yesus",
+  "sort_key": "ermiaskebedewoldeyesus"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31347955"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_68xnv6v5",
+     "name": "Ermias Kebede Wolde-Yesus",
+     "role": "author",
+     "romanized": "Ermias Kebede Wolde-Yesus"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0vf7fq7h",
+   "id": "wk_0vf7fq7h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia ena Ethiopiawinet No. 2",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ እና ኢትዮጵያዊነት ሁለተኛ መጽሓፍ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_68xnv6v5",
+     "name": "Ermias Kebede Wolde-Yesus",
+     "role": "author",
+     "romanized": "Ermias Kebede Wolde-Yesus"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4v6kn8ya",
+   "id": "wk_4v6kn8ya",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia ena Ethiopiawinet No. 3",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ እና ኢትዮጵያዊነት ሦስተኛ መጽሓፍ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "matshaf",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x8nzr57d",
+ "id": "pe_x8nzr57d",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "metshaf",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መጽሃፍ"
+  },
+  "romanized": "metshaf",
+  "sort_key": "መጽሀፍ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_k3rze6zk.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ሌቱም_አይነጋልኝ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_x8nzr57d",
+     "name": "መጽሃፍ",
+     "role": "author",
+     "romanized": "metshaf"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_k3rze6zk",
+   "id": "wk_k3rze6zk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Medemer",
+    "script": "Ethi",
+    "text": "መደመር"
+   },
+   "type": "work"
+  }
+ ]
+}

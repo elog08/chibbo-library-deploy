@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "drnagasogidada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2p1kz8jt",
+ "id": "pe_2p1kz8jt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33427765",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33427765"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38959457",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38959457"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Negaso Gidada"
+  },
+  "romanized": "Dr.Negaso Gidada",
+  "sort_key": "drnegasogidada"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33427765"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2p1kz8jt",
+     "name": "Dr.Negaso Gidada",
+     "role": "author",
+     "romanized": "Dr.Negaso Gidada"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4jyhq2c9",
+   "id": "wk_4jyhq2c9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tarik, Agernia Higemengest (Yemechereshaw Yenegaso Masitawesha)",
+    "script": "Ethi",
+    "text": "ታሪክ አገርና ሕገ መንግስት (የመጨረሻው የነጋሶ ማስታወሻ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2p1kz8jt",
+     "name": "Dr.Negaso Gidada",
+     "role": "author",
+     "romanized": "Dr.Negaso Gidada"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tg4zy5t2",
+   "id": "wk_tg4zy5t2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeOromo Hizib Tarik",
+    "script": "Ethi",
+    "text": "የኦሮሞ ሕዝብ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vthb4mv4",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yf0k70cq",
+   "@type": "Person",
+   "name": "Gashahun Tafese"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yechekolet sama",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=75210341"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=75210341"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f5z9510b",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0jkq35ra",
+ "@type": "Book",
+ "alternateName": [
+  "Abdisa Aga"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_6v29hccg",
+   "@type": "Person",
+   "name": "Dr.Jojo"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789999052023",
+ "name": "አብዲሳ አጋ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=68389844"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=68389844"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sya4tp6t",
+   "@type": "Book"
+  }
+ ]
+}

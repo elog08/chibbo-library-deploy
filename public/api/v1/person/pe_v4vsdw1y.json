@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mazalama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v4vsdw1y",
+ "id": "pe_v4vsdw1y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88294649",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88294649"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Meaza Lemma"
+  },
+  "romanized": "Meaza Lemma",
+  "sort_key": "meazalemma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88294649"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v4vsdw1y",
+     "name": "Meaza Lemma",
+     "role": "author",
+     "romanized": "Meaza Lemma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yf1m0n9e",
+   "id": "wk_yf1m0n9e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Habetena Tienenet",
+    "script": "Ethi",
+    "text": "ሀብትና ጤንነት"
+   },
+   "type": "work"
+  }
+ ]
+}

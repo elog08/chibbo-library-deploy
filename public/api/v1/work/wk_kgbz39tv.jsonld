@@ -39,15 +39,34 @@
     "name": "amazon"
    },
    "url": "https://www.amazon.com/dp/B0DZS4HKF3"
+  },
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17698771"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Yismake Worku"
+ },
  "sameAs": [
-  "https://addisbooks.com/book/gefuan-by-yismake-worku/"
+  "https://addisbooks.com/book/gefuan-by-yismake-worku/",
+  "https://www.mereb.shop/rs/?mpid=17698771"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_ttjn1pw0",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_sama3nz4",
    "@type": "Book"
   }
  ]

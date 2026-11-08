@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "profmararagudina",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c5t109pt",
+ "id": "pe_c5t109pt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83654804",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83654804"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof. Merara Gudina"
+  },
+  "romanized": "Prof. Merara Gudina",
+  "sort_key": "profmeraragudina"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83654804"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c5t109pt",
+     "name": "Prof. Merara Gudina",
+     "role": "author",
+     "romanized": "Prof. Merara Gudina"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_22gqw343",
+   "id": "wk_22gqw343",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Yetarik Fetenawoch Ena Yemigachu Hilmoch",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የታሪክ ፈተናዎች እና የሚጋጩ ሕልሞች"
+   },
+   "type": "work"
+  }
+ ]
+}

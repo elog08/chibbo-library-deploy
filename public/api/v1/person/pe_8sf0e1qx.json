@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "frazar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8sf0e1qx",
+ "id": "pe_8sf0e1qx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12292874",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12292874"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39176457",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39176457"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fre Zer"
+  },
+  "romanized": "Fre Zer",
+  "sort_key": "frezer"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12292874"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8sf0e1qx",
+     "name": "Fre Zer",
+     "role": "author",
+     "romanized": "Fre Zer"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_41yc3y3x",
+   "id": "wk_41yc3y3x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Jan Tekel",
+    "script": "Ethi",
+    "text": "ጃን ተከል"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8sf0e1qx",
+     "name": "Fre Zer",
+     "role": "author",
+     "romanized": "Fre Zer"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_p7shk4wy",
+   "id": "wk_p7shk4wy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ras",
+    "script": "Ethi",
+    "text": "ራስ"
+   },
+   "type": "work"
+  }
+ ]
+}

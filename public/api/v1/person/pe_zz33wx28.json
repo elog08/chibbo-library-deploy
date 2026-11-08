@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "tsagayasimarom",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zz33wx28",
+ "id": "pe_zz33wx28",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44028744",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44028744"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsegay Asimerom"
+  },
+  "romanized": "Tsegay Asimerom",
+  "sort_key": "tsegayasimerom"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44028744"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zz33wx28",
+     "name": "Tsegay Asimerom",
+     "role": "author",
+     "romanized": "Tsegay Asimerom"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dsxwpnnx",
+   "id": "wk_dsxwpnnx",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lewti",
+    "script": "Ethi",
+    "text": "ለውጢ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

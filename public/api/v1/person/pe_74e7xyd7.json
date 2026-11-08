@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "bazarag",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_74e7xyd7",
+ "id": "pe_74e7xyd7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "beazereg",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "በአዘርግ"
+  },
+  "romanized": "beazereg",
+  "sort_key": "በአዘርግ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_vrb4pnf7.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/ኢያሪኮ_777.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_74e7xyd7",
+     "name": "በአዘርግ",
+     "role": "author",
+     "romanized": "beazereg"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_vrb4pnf7",
+   "id": "wk_vrb4pnf7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eyariko",
+    "script": "Ethi",
+    "text": "ኢያሪኮ 777"
+   },
+   "type": "work"
+  }
+ ]
+}

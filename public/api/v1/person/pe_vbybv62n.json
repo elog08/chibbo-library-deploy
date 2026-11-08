@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "pharm",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vbybv62n",
+ "id": "pe_vbybv62n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56808130",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56808130"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pharm)"
+  },
+  "romanized": "Pharm)",
+  "sort_key": "pharm"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56808130"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_112n2w5k",
+     "name": "Mebrahtu Eyasu (B",
+     "role": "author",
+     "romanized": "Mebrahtu Eyasu (B"
+    },
+    {
+     "id": "pe_vbybv62n",
+     "name": "Pharm)",
+     "role": "author",
+     "romanized": "Pharm)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_drr71na9",
+   "id": "wk_drr71na9",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ane Wen Bqa'emey",
+    "script": "Ethi",
+    "text": "አነ ወን ብቓዕመይ"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

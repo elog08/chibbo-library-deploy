@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "jolmilar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k4sp8dqp",
+ "id": "pe_k4sp8dqp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93117581",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93117581"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jol Miller"
+  },
+  "romanized": "Jol Miller",
+  "sort_key": "jolmiller"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=93117581"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k4sp8dqp",
+     "name": "Jol Miller",
+     "role": "author",
+     "romanized": "Jol Miller"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_afqmf1e4",
+   "id": "wk_afqmf1e4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Haile the Chicken",
+    "script": "Ethi",
+    "text": "ሃይለ ኩኩናይ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

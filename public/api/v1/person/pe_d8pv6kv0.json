@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "aziznasin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d8pv6kv0",
+ "id": "pe_d8pv6kv0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22102458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22102458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aziz Nesin"
+  },
+  "romanized": "Aziz Nesin",
+  "sort_key": "aziznesin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22102458"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d8pv6kv0",
+     "name": "Aziz Nesin",
+     "role": "author",
+     "romanized": "Aziz Nesin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jbj8dyvt",
+   "id": "wk_jbj8dyvt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Rasen Atefau ena Leloch",
+    "script": "Ethi",
+    "text": "ራሴን አጠፋሁ እና ሌሎች"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

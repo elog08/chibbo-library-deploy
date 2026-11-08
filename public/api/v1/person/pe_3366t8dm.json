@@ -1,0 +1,114 @@
+{
+ "extensions": {},
+ "fingerprint": "asirasbakalachary",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3366t8dm",
+ "id": "pe_3366t8dm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41298878",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41298878"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98433220",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98433220"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asires Bekele (Cherry)"
+  },
+  "romanized": "Asires Bekele (Cherry)",
+  "sort_key": "asiresbekelecherry"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41298878"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3366t8dm",
+     "name": "Asires Bekele (Cherry)",
+     "role": "author",
+     "romanized": "Asires Bekele (Cherry)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9nreyyps",
+   "id": "wk_9nreyyps",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ababa Tigabe Ena Yetafese Dansegna Dorowoch",
+    "script": "Ethi",
+    "text": "አባባ ጥጋቤ እና የታፈሰ ዳንሰኛው ዶሮዎች"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3366t8dm",
+     "name": "Asires Bekele (Cherry)",
+     "role": "author",
+     "romanized": "Asires Bekele (Cherry)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j9yn3wka",
+   "id": "wk_j9yn3wka",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Soliana The Swimmer",
+    "script": "Ethi",
+    "text": "ዋናተኛዋ ሶሊያና"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

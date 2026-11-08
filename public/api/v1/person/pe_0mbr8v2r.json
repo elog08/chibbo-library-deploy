@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "atinafsagadyilima",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0mbr8v2r",
+ "id": "pe_0mbr8v2r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03165012",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03165012"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09161953",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09161953"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "70940159",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=70940159"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Atinaf Seged Yilima"
+  },
+  "romanized": "Atinaf Seged Yilima",
+  "sort_key": "atinafsegedyilima"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03165012"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0mbr8v2r",
+     "name": "Atinaf Seged Yilima",
+     "role": "author",
+     "romanized": "Atinaf Seged Yilima"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9fy2pmsd",
+   "id": "wk_9fy2pmsd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ate Minililk(Behager Wist Yetetsatsafuachew Debidabewoch",
+    "script": "Ethi",
+    "text": "አጤ ምኒልክ በሃገር ውስጥ የተጻጻፏቸው ደብዳቤዎች"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0mbr8v2r",
+     "name": "Atinaf Seged Yilima",
+     "role": "author",
+     "romanized": "Atinaf Seged Yilima"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rhwey4db",
+   "id": "wk_rhwey4db",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ager Yefeta Shifita",
+    "script": "Ethi",
+    "text": "አገር የፈታ ሽፍታ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0mbr8v2r",
+     "name": "Atinaf Seged Yilima",
+     "role": "author",
+     "romanized": "Atinaf Seged Yilima"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vpf2r6wr",
+   "id": "wk_vpf2r6wr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetarik Kirsina wirs (Abebe Aregay Ras)",
+    "script": "Ethi",
+    "text": "የታሪክ ቅርስና ውርስ (አበበ አረጋይ ራስ)"
+   },
+   "type": "work"
+  }
+ ]
+}

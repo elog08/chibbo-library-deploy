@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "birhanuababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ta4w8k2e",
+ "id": "pe_ta4w8k2e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00481573",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00481573"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Birhanu Abebe"
+  },
+  "romanized": "Birhanu Abebe",
+  "sort_key": "birhanuabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00481573"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1n8ky1sn",
+     "name": "Gianfrancesco Lusini",
+     "role": "author",
+     "romanized": "Gianfrancesco Lusini"
+    },
+    {
+     "id": "pe_ta4w8k2e",
+     "name": "Birhanu Abebe",
+     "role": "author",
+     "romanized": "Birhanu Abebe"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_0cwfcq2t",
+   "id": "wk_0cwfcq2t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "VOCABOLARIO ITALIANO AMARICO",
+    "script": "Ethi",
+    "text": "ጣልያንኛ አማርኛ መዝገበ ቃላት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirmazgabusibihat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5krc6z9r",
+ "id": "pe_5krc6z9r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88499944",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88499944"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Mezgebu Sibihat"
+  },
+  "romanized": "Memihir Mezgebu Sibihat",
+  "sort_key": "memihirmezgebusibihat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88499944"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5krc6z9r",
+     "name": "Memihir Mezgebu Sibihat",
+     "role": "author",
+     "romanized": "Memihir Mezgebu Sibihat"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j51tmkts",
+   "id": "wk_j51tmkts",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Widase Meskel",
+    "script": "Ethi",
+    "text": "ውዳሴ መስቀል"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

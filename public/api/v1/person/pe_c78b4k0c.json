@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abulalalmawdudi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c78b4k0c",
+ "id": "pe_c78b4k0c",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19197842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19197842"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abul ela Al-Mewdudi"
+  },
+  "romanized": "Abul ela Al-Mewdudi",
+  "sort_key": "abulelaalmewdudi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19197842"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c78b4k0c",
+     "name": "Abul ela Al-Mewdudi",
+     "role": "author",
+     "romanized": "Abul ela Al-Mewdudi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2007?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ta856a0w",
+   "id": "wk_ta856a0w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Qurann Lemeredat",
+    "script": "Ethi",
+    "text": "ቁርአንን ለመረዳት"
+   },
+   "type": "work",
+   "year": 2007
+  }
+ ]
+}

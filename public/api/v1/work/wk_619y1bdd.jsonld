@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_619y1bdd",
+ "@type": "Book",
+ "alternateName": [
+  "Misosowa"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3q5hz59q",
+   "@type": "Person",
+   "name": "Helen Eshetu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ምሰሶዋ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=09277170"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=09277170"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_a02f651y",
+   "@type": "Book"
+  }
+ ]
+}

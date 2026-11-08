@@ -7,7 +7,40 @@
  "href": "https://chibbo.app/person/pe_qe0behv5",
  "id": "pe_qe0behv5",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17741626",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17741626"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21221410",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21221410"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52208241",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52208241"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71184697",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71184697"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -87,12 +120,15 @@
     }
    ],
    "date": {
-    "calendar": "ethiopic",
-    "edtf": "2015-09-12/2016-09-10",
-    "flags": []
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
    },
    "flags": [
     "format-paper-back",
+    "calendar-ambiguous",
     "llm-extracted"
    ],
    "href": "https://chibbo.app/work/wk_98zc6sdd",
@@ -106,7 +142,28 @@
     "text": "የሱፍ አበባ"
    },
    "type": "work",
-   "year": 2015
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qe0behv5",
+     "name": "ሀብታሙ አለባቸው",
+     "role": "author",
+     "romanized": "Habtamu Alebachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_beahf3sx",
+   "id": "wk_beahf3sx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Talaku Tekarno",
+    "script": "Ethi",
+    "text": "ታላቁ ተቃርኖ"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -121,8 +178,16 @@
      "romanized": "Habtamu Alebachew"
     }
    ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
    "flags": [
-    "format-paper-back"
+    "format-paper-back",
+    "calendar-ambiguous"
    ],
    "href": "https://chibbo.app/work/wk_q6cec09g",
    "id": "wk_q6cec09g",
@@ -133,6 +198,28 @@
     "romanized": "awrora",
     "script": "Ethi",
     "text": "አውሮራ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qe0behv5",
+     "name": "ሀብታሙ አለባቸው",
+     "role": "author",
+     "romanized": "Habtamu Alebachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w7jz6pj8",
+   "id": "wk_w7jz6pj8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKesar Emba",
+    "script": "Ethi",
+    "text": "የቄሳር እምባ"
    },
    "type": "work"
   }

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "yordanosalmazsaifu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ph4879x7",
+ "id": "pe_ph4879x7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27095792",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27095792"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51960694",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51960694"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yordanos Almaz Seifu"
+  },
+  "romanized": "Yordanos Almaz Seifu",
+  "sort_key": "yordanosalmazseifu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27095792"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ph4879x7",
+     "name": "Yordanos Almaz Seifu",
+     "role": "author",
+     "romanized": "Yordanos Almaz Seifu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_7qy1djzg",
+   "id": "wk_7qy1djzg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mengedegna",
+    "script": "Ethi",
+    "text": "መንገደኛ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ph4879x7",
+     "name": "Yordanos Almaz Seifu",
+     "role": "author",
+     "romanized": "Yordanos Almaz Seifu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_85eraghr",
+   "id": "wk_85eraghr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Elafi Mengedegna (2)",
+    "script": "Ethi",
+    "text": "እላፊ መንገደኛ (2)"
+   },
+   "type": "work"
+  }
+ ]
+}

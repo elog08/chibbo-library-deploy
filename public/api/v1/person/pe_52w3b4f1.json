@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "takluaskualu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_52w3b4f1",
+ "id": "pe_52w3b4f1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89568477",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89568477"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Teklu Askualu"
+  },
+  "romanized": "Teklu Askualu",
+  "sort_key": "tekluaskualu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=89568477"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_52w3b4f1",
+     "name": "Teklu Askualu",
+     "role": "author",
+     "romanized": "Teklu Askualu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_b9fp1645",
+   "id": "wk_b9fp1645",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmesta Menged",
+    "script": "Ethi",
+    "text": "የአመፃ መንገድ"
+   },
+   "type": "work"
+  }
+ ]
+}

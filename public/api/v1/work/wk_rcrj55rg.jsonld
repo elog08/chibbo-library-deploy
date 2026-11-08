@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_rcrj55rg",
+ "@type": "Book",
+ "alternateName": [
+  "Hageren"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yhcnsw7d",
+   "@type": "Person",
+   "name": "Henok Seyoum"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሀገሬን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60080751"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60080751"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_324n2vqb",
+   "@type": "Book"
+  }
+ ]
+}

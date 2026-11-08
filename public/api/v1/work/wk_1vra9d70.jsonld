@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1vra9d70",
+ "@type": "Book",
+ "alternateName": [
+  "Haile Fida"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ef6r378h",
+   "@type": "Person",
+   "name": "Dr Amare Tegbaru Beyene"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኃይሌ ፊዳ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60447560"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60447560"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wcazdnad",
+   "@type": "Book"
+  }
+ ]
+}

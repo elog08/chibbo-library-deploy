@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "tamiratwarku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1j9e6gdc",
+ "id": "pe_1j9e6gdc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13237393",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13237393"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tamirat Werku"
+  },
+  "romanized": "Tamirat Werku",
+  "sort_key": "tamiratwerku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13237393"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1j9e6gdc",
+     "name": "Tamirat Werku",
+     "role": "author",
+     "romanized": "Tamirat Werku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hnjzdmvp",
+   "id": "wk_hnjzdmvp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kerbe (Menfesawi Mel'ektat Beteret, Wegoch Ena Misalewoch)",
+    "script": "Ethi",
+    "text": "ከርቤ (መንፈሳዊ መልእክታት በተረት ወጎች እና ምሳሌዎች)"
+   },
+   "type": "work"
+  }
+ ]
+}

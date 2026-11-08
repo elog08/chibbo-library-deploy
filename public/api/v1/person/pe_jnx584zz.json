@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirgirmabatu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jnx584zz",
+ "id": "pe_jnx584zz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29707898",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29707898"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35303089",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35303089"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Girma Batu"
+  },
+  "romanized": "Memihir Girma Batu",
+  "sort_key": "memihirgirmabatu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29707898"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jnx584zz",
+     "name": "Memihir Girma Batu",
+     "role": "author",
+     "romanized": "Memihir Girma Batu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8jsteb86",
+   "id": "wk_8jsteb86",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yenegere Melekot Megbya",
+    "script": "Ethi",
+    "text": "የነገረ መለኮት መግቢያ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jnx584zz",
+     "name": "Memihir Girma Batu",
+     "role": "author",
+     "romanized": "Memihir Girma Batu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pq3vzgkx",
+   "id": "wk_pq3vzgkx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Bete Christian Tarik (KeTinit- 6Gna Kifle Zemen) Kits 1",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ቤተ ክርስቲያን ታሪክ (ከጥንት-6ኛ ክፍለ ዘመን) ቅጽ 1"
+   },
+   "type": "work"
+  }
+ ]
+}

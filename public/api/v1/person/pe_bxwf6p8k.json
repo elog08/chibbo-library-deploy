@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "harqaharoyadaibrahimohamod",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bxwf6p8k",
+ "id": "pe_bxwf6p8k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02145588",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02145588"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Harqa Haroye Ada (Ibrahim Mohammod)"
+  },
+  "romanized": "Harqa Haroye Ada (Ibrahim Mohammod)",
+  "sort_key": "harqaharoyeadaibrahimmohammod"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02145588"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bxwf6p8k",
+     "name": "Harqa Haroye Ada (Ibrahim Mohammod)",
+     "role": "author",
+     "romanized": "Harqa Haroye Ada (Ibrahim Mohammod)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qcrjb4va",
+   "id": "wk_qcrjb4va",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kenairobi Eske Eyobelu Bietemengest",
+    "script": "Ethi",
+    "text": "ከናይሮቢ እስከ ኢዮቤልዩ ቤተመንግስት"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

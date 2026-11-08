@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayagabrasilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x5572yp4",
+ "id": "pe_x5572yp4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58964938",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58964938"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76843303",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76843303"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesfaye Gebresilase"
+  },
+  "romanized": "Tesfaye Gebresilase",
+  "sort_key": "tesfayegebresilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58964938"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x5572yp4",
+     "name": "Tesfaye Gebresilase",
+     "role": "author",
+     "romanized": "Tesfaye Gebresilase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_22v9eqbs",
+   "id": "wk_22v9eqbs",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tafinas",
+    "script": "Ethi",
+    "text": "ጣፊናስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_x5572yp4",
+     "name": "Tesfaye Gebresilase",
+     "role": "author",
+     "romanized": "Tesfaye Gebresilase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6kakg4qe",
+   "id": "wk_6kakg4qe",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fikare Eyesus",
+    "script": "Ethi",
+    "text": "ፍካሬ እየሱስ"
+   },
+   "type": "work"
+  }
+ ]
+}

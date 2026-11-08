@@ -1,0 +1,106 @@
+{
+ "extensions": {},
+ "fingerprint": "danialsilva",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_499mr994",
+ "id": "pe_499mr994",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99223171",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99223171"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Silva"
+  },
+  "romanized": "Daniel Silva",
+  "sort_key": "danielsilva"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የሞሳድ_ተልዕኮ_ሙሉቀን_ታሪኩ_The_Messenger_Daniel_Silva.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99223171"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_499mr994",
+     "name": "Daniel Silva",
+     "role": "author",
+     "romanized": "Daniel Silva"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5tw8jdxx",
+   "id": "wk_5tw8jdxx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMosad Tel'eko (The Messenger)",
+    "script": "Ethi",
+    "text": "የሞሳድ ተልኦኮ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_zdsx8pk5.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_zdsx8pk5.png"
+   },
+   "credits": [
+    {
+     "id": "pe_499mr994",
+     "name": "Daniel Silva",
+     "role": "author",
+     "romanized": "Daniel Silva"
+    },
+    {
+     "id": "pe_neyxkzeg",
+     "name": "ሙሉቀን ታሪኩ",
+     "role": "author",
+     "romanized": "Muluken Tariku"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2015-09-12/2016-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_zdsx8pk5",
+   "id": "wk_zdsx8pk5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemosad teleko",
+    "script": "Ethi",
+    "text": "የሞሳድ ተልዕኮ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

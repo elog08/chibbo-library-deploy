@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1z2jmyeh",
+ "@type": "Book",
+ "alternateName": [
+  "Merso Hiwot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fgdx8txa",
+   "@type": "Person",
+   "name": "Memihir Esayas Habte"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መርሶ ሕይወት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=80168591"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=80168591"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z5xsg7fq",
+   "@type": "Book"
+  }
+ ]
+}

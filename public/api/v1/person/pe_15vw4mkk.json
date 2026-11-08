@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bganaralwasihunigatu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_15vw4mkk",
+ "id": "pe_15vw4mkk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03190001",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03190001"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "B/General Wasihun Nigatu"
+  },
+  "romanized": "B/General Wasihun Nigatu",
+  "sort_key": "bgeneralwasihunnigatu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03190001"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_15vw4mkk",
+     "name": "B/General Wasihun Nigatu",
+     "role": "author",
+     "romanized": "B/General Wasihun Nigatu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x0089jx5",
+   "id": "wk_x0089jx5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Eta Fenta Ena Meswatinet (Destiny and Sacrifice)",
+    "script": "Ethi",
+    "text": "ዕጣ ፈንታ እና መስዋዕትነት (የኢትዮጵያ የጦር ሜዳ ጀግኖች እነማን ነበሩ?"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

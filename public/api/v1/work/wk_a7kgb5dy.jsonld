@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a7kgb5dy",
+ "@type": "Book",
+ "alternateName": [
+  "YeDemena Gilach"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jfbq2tk9",
+   "@type": "Person",
+   "name": "Kedir Seid"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_re7gyndj",
+   "@type": "Person",
+   "name": "Kedir"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የደመና ግላጭ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=85690905"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=85690905"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8zww1mbb",
+   "@type": "Book"
+  }
+ ]
+}

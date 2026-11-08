@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "ahmadhasanomar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9caf37f6",
+ "id": "pe_9caf37f6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16092192",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16092192"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ahmed Hassen Omer"
+  },
+  "romanized": "Ahmed Hassen Omer",
+  "sort_key": "ahmedhassenomer"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16092192"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3rmdsb5e",
+     "name": "Germa Amare",
+     "role": "author",
+     "romanized": "Germa Amare"
+    },
+    {
+     "id": "pe_fb1r3aq2",
+     "name": "Richard Pankhurst",
+     "role": "author",
+     "romanized": "Richard Pankhurst"
+    },
+    {
+     "id": "pe_9caf37f6",
+     "name": "Ahmed Hassen Omer",
+     "role": "author",
+     "romanized": "Ahmed Hassen Omer"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_3cayzy73",
+   "id": "wk_3cayzy73",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXIX, Nos 1-2 (June-December 2006)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work"
+  }
+ ]
+}

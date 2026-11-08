@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "armiyaskabada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_22jv438k",
+ "id": "pe_22jv438k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38262568",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38262568"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermiyas Kebede"
+  },
+  "romanized": "Ermiyas Kebede",
+  "sort_key": "ermiyaskebede"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38262568"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_22jv438k",
+     "name": "Ermiyas Kebede",
+     "role": "author",
+     "romanized": "Ermiyas Kebede"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n4xjyh1b",
+   "id": "wk_n4xjyh1b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sewinetn Megenibat",
+    "script": "Ethi",
+    "text": "ሰውነትን መገንባት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

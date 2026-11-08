@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "danial",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0hq7q8tm",
+ "id": "pe_0hq7q8tm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50716989",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50716989"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel"
+  },
+  "romanized": "Daniel",
+  "sort_key": "daniel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50716989"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0hq7q8tm",
+     "name": "Daniel",
+     "role": "author",
+     "romanized": "Daniel"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_37vkzgza",
+   "id": "wk_37vkzgza",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetirikit Edana Bereket",
+    "script": "Ethi",
+    "text": "የትርክት ዕዳና በረከት"
+   },
+   "type": "work"
+  }
+ ]
+}

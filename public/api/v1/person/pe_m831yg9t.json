@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "barhatasfamaskal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m831yg9t",
+ "id": "pe_m831yg9t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02114939",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02114939"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berha Tesfa Meskel"
+  },
+  "romanized": "Berha Tesfa Meskel",
+  "sort_key": "berhatesfameskel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02114939"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m831yg9t",
+     "name": "Berha Tesfa Meskel",
+     "role": "author",
+     "romanized": "Berha Tesfa Meskel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ptfaa5cr",
+   "id": "wk_ptfaa5cr",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Orthodoksawiw Menged",
+    "script": "Ethi",
+    "text": "ኦርቶዶክሳዊው መንገድ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

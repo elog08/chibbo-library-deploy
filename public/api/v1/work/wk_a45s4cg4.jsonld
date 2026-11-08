@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a45s4cg4",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_d9j9zkn4",
+   "@type": "Person",
+   "name": "Mahibere Kidusan"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The west Ethiopian star Abba Eneyew Webe",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=81231528"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=81231528"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1d5690cg",
+   "@type": "Book"
+  }
+ ]
+}

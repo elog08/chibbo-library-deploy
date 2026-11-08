@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "napolionhil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3ze72v96",
+ "id": "pe_3ze72v96",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98805426",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98805426"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Napoliion Hill"
+  },
+  "romanized": "Napoliion Hill",
+  "sort_key": "napoliionhill"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98805426"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3ze72v96",
+     "name": "Napoliion Hill",
+     "role": "author",
+     "romanized": "Napoliion Hill"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fd4e6xk2",
+   "id": "wk_fd4e6xk2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "17tu YesiKetama Hiywet Misitirat (The 17 Principles of Success)",
+    "script": "Ethi",
+    "text": "17ቱ የስኬታማ ህይወት ሚስጥራት"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

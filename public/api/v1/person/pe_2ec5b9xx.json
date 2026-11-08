@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "marshalahagn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2ec5b9xx",
+ "id": "pe_2ec5b9xx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96101523",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96101523"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mersha Alehegn"
+  },
+  "romanized": "Mersha Alehegn",
+  "sort_key": "mershaalehegn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96101523"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2ec5b9xx",
+     "name": "Mersha Alehegn",
+     "role": "author",
+     "romanized": "Mersha Alehegn"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_vpqs4r3w",
+   "id": "wk_vpqs4r3w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abay BeGe'ez Dirsanat",
+    "script": "Ethi",
+    "text": "ዐባይ በግእዝ ድርሳናት"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

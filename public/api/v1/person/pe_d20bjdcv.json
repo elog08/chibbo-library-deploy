@@ -32,6 +32,13 @@
  "notes": [
   "Read from the title page of አልቦ ዘመድ - ብርሃኑ ድንቄ.pdf"
  ],
+ "portrait": {
+  "bytes": 347077,
+  "cached": true,
+  "path": "assets/portraits/pe_d20bjdcv.png",
+  "sha256": "448ff18e7dada042b924f5fa98d06d36567dc0b05dd0e74b9688efde2859f936",
+  "source_url": "https://chibbo.app/local-figure/wk_n1wwavcy/fig-p001-01"
+ },
  "provenance": {
   "raw_sha256": "b32ea81a7f8505a7fd0236079e5c9908878aae334d5c7e079574057331910dec",
   "retrieved": "2026-08-27",
@@ -41,6 +48,39 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d20bjdcv",
+     "name": "ብርሃኑ ድንቄ",
+     "role": "author",
+     "romanized": "berhanu denqe"
+    }
+   ],
+   "form": "essays",
+   "href": "https://chibbo.app/work/wk_akha2h1h",
+   "id": "wk_akha2h1h",
+   "language": "en",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_n1wwavcy",
+    "id": "wk_n1wwavcy",
+    "title": {
+     "lang": "am",
+     "romanized": "Albo Zemed",
+     "script": "Ethi",
+     "text": "አልቦ ዘመድ"
+    },
+    "type": "work"
+   },
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "A Model for World Government",
+    "script": "Ethi",
+    "text": "አ ሞዴል ፎር ዎርልድ ግቨርመንት"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_n1wwavcy.png",
@@ -65,6 +105,7 @@
    "href": "https://chibbo.app/work/wk_n1wwavcy",
    "id": "wk_n1wwavcy",
    "language": "am",
+   "part_count": 1,
    "status": "draft",
    "title": {
     "lang": "am",

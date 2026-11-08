@@ -1,0 +1,219 @@
+{
+ "extensions": {},
+ "fingerprint": "abarajambara",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8mqe3gaa",
+ "id": "pe_8mqe3gaa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28926639",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28926639"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40366680",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40366680"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59998816",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59998816"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88216302",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88216302"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "abera jembere",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አበራ ጀምበሬ"
+  },
+  "romanized": "abera jembere",
+  "sort_key": "አበራጀምበሬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of libraryda11.pdf",
+  "Read from the title page of የቀዳማዊ_ኃይለሥላሴ_የበጎ_አድራጎት_ድርጅት_መመስረት.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "e957257d52eac2292c20dd44d77e9a71f9324b0e74cd8b7a01225675439f2274",
+  "retrieved": "2026-08-28",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8mqe3gaa",
+     "name": "አበራ ጀምበሬ",
+     "role": "author",
+     "romanized": "abera jembere"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_66p26vcx",
+   "id": "wk_66p26vcx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aba Koster",
+    "script": "Ethi",
+    "text": "አባ ኮስትር"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8mqe3gaa",
+     "name": "አበራ ጀምበሬ",
+     "role": "author",
+     "romanized": "abera jembere"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_amdjayxm",
+   "id": "wk_amdjayxm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Higina Fitih Afetsatsem Tarik (Ke1426 Eske 1966)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሕግና የፍትሕ አፈጻጸም ታሪክ (ከ1426 እስከ 1966 ዓ.ም)"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8mqe3gaa",
+     "name": "አበራ ጀምበሬ",
+     "role": "author",
+     "romanized": "abera jembere"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1993?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_eapyyk33",
+   "id": "wk_eapyyk33",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye E'sirBetu Abesa Betalaku Betemengsit(1966-1974)",
+    "script": "Ethi",
+    "text": "የእስር ቤቱ አበሳ በታላቁ ቤተ መንግስት (1966-1974)"
+   },
+   "type": "work",
+   "year": 1993
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_kwcs27kc.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_kwcs27kc.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8mqe3gaa",
+     "name": "አበራ ጀምበሬ",
+     "role": "author",
+     "romanized": "abera jembere"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1959-09-12/1960-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_jafj7khf",
+   "id": "wk_jafj7khf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeqedamawi hayle selase yebego adragot derejet me me se re te",
+    "script": "Ethi",
+    "text": "የቀዳማዊ ኃይለ ሥላሴ የበጎ አድራጎት ድርጅት መ መ ሥ ረ ት"
+   },
+   "type": "work",
+   "year": 1959
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8mqe3gaa",
+     "name": "አበራ ጀምበሬ",
+     "role": "author",
+     "romanized": "abera jembere"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jys4rwcv",
+   "id": "wk_jys4rwcv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bichegnaw Sew (Tsehafe Ti'ezaz Tefera Work Kidanewold)",
+    "script": "Ethi",
+    "text": "ብቸኛው ሰው(ፀሐፌ ትዕዛዝ ተፈራ ወርቅ ኪዳነወልድ)"
+   },
+   "type": "work"
+  }
+ ]
+}

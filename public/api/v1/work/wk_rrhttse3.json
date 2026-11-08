@@ -7,7 +7,8 @@
   }
  ],
  "editions": [
-  "ed_hb6cp48d"
+  "ed_hb6cp48d",
+  "ed_fdtpjmg5"
  ],
  "extensions": {},
  "fingerprint": "ከአሜንባሻገር|bawkatusayoum",
@@ -18,16 +19,43 @@
    "value": "2016"
   }
  },
- "flags": [],
+ "flags": [
+  "calendar-ambiguous"
+ ],
  "form": "essays",
  "href": "https://chibbo.app/work/wk_rrhttse3",
  "id": "wk_rrhttse3",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "49555104"
+  ]
+ },
  "language": "am",
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49555104",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49555104"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "8.61",
+   "provider": "mereb",
+   "ref": "49555104",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49555104"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
- "notes": [],
+ "notes": [
+  "language-spelling-normalised: store printed 'Amahric'"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "curated-canon"

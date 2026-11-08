@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_j2ft55pp",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopian and Foreign Cook Book"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ytj7x6e4",
+   "@type": "Person",
+   "name": "Girma Bekele"
+  }
+ ],
+ "description": "Note:This copy is missing cover page.",
+ "inLanguage": "am",
+ "name": "የኢትዮጵያ የውጭ አገር የምግብ ዝግጅት መማሪያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.50",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73595524"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Girma Bekele"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73595524"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_h1dkq0td",
+   "@type": "Book"
+  }
+ ]
+}

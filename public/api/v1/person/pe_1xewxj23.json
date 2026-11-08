@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "hanokgirma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1xewxj23",
+ "id": "pe_1xewxj23",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62401574",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62401574"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Henok Girma"
+  },
+  "romanized": "Henok Girma",
+  "sort_key": "henokgirma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62401574"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1xewxj23",
+     "name": "Henok Girma",
+     "role": "author",
+     "romanized": "Henok Girma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mm5ybkmp",
+   "id": "wk_mm5ybkmp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeFikir Hahu Ena Leloch",
+    "script": "Ethi",
+    "text": "የፍቅር ሀሁ እና ሌሎች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "paparcovar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0cr82xeq",
+ "id": "pe_0cr82xeq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01081738",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01081738"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paper Cover"
+  },
+  "romanized": "Paper Cover",
+  "sort_key": "papercover"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01081738"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bfa6jtjk",
+     "name": "Megabe Misitr Kesis Mefkereseb Set",
+     "role": "author",
+     "romanized": "Megabe Misitr Kesis Mefkereseb Set"
+    },
+    {
+     "id": "pe_0cr82xeq",
+     "name": "Paper Cover",
+     "role": "author",
+     "romanized": "Paper Cover"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_d6nrajaw",
+   "id": "wk_d6nrajaw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tsebel Tetemike Lemedan Askedime Min Ladirg?",
+    "script": "Ethi",
+    "text": "ጸበል ተጠምቄ ለመዳን አስቀድሜ ምን ላድርግ?"
+   },
+   "type": "work"
+  }
+ ]
+}

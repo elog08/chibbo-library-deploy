@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "nalsondamil",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qarp90vh",
+ "id": "pe_qarp90vh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98781082",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98781082"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nelson Demil"
+  },
+  "romanized": "Nelson Demil",
+  "sort_key": "nelsondemil"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=98781082"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qarp90vh",
+     "name": "Nelson Demil",
+     "role": "author",
+     "romanized": "Nelson Demil"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rjdqc2ss",
+   "id": "wk_rjdqc2ss",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Avanti (Wede Tikuru Gedam)",
+    "script": "Ethi",
+    "text": "አቫንቲ (ወደ ጥቁሩ ገዳም)"
+   },
+   "type": "work"
+  }
+ ]
+}

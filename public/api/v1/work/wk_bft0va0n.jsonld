@@ -27,15 +27,34 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/alengana-mesir-adam-reta"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.07",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=64473192"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Rohobot Printers"
+ },
  "sameAs": [
-  "https://www.ethiobookreview.com/book/alengana-mesir-adam-reta"
+  "https://www.ethiobookreview.com/book/alengana-mesir-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=64473192"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_manedzhy",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_tks9nq81",
    "@type": "Book"
   }
  ]

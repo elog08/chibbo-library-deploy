@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "gcharkosgtsadikanigus",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bhck1d1f",
+ "id": "pe_bhck1d1f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20608249",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20608249"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22581628",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22581628"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "G/Cherkos G/Tsadikan Nigus"
+  },
+  "romanized": "G/Cherkos G/Tsadikan Nigus",
+  "sort_key": "gcherkosgtsadikannigus"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20608249"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bhck1d1f",
+     "name": "G/Cherkos G/Tsadikan Nigus",
+     "role": "author",
+     "romanized": "G/Cherkos G/Tsadikan Nigus"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_jh89647e",
+   "id": "wk_jh89647e",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Selam (Medibil Gitimitat Tigirigna Nihitsanat)",
+    "script": "Ethi",
+    "text": "ሰላም (መድብል ግጥምታት ትግርኛ ንህፃናት)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_bhck1d1f",
+     "name": "G/Cherkos G/Tsadikan Nigus",
+     "role": "author",
+     "romanized": "G/Cherkos G/Tsadikan Nigus"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_qzxdq4r8",
+   "id": "wk_qzxdq4r8",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Way Werqeyn Kal'ot Sehabtin Zanitatatin",
+    "script": "Ethi",
+    "text": "ዋይ ወርቐይን ካልኦት ሰሓብቲን ዛንታታትን"
+   },
+   "type": "work"
+  }
+ ]
+}

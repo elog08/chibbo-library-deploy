@@ -1,0 +1,121 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_69k04xse",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አውጫችኝ"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
+ "fingerprint": "አውጫችኝ|abaralama",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_yj17de1g",
+ "id": "wk_yj17de1g",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_pp1vw4r4 (አውጫጭኝ), pp. 1–1 (አውጫችኝ - አበራ ለማ.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_pp1vw4r4.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_pp1vw4r4.png"
+  },
+  "credits": [
+   {
+    "id": "pe_69k04xse",
+    "name": "አበራ ለማ",
+    "role": "author",
+    "romanized": "abera lema"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "2002?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "filename-title-mismatch",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_pp1vw4r4",
+  "id": "wk_pp1vw4r4",
+  "language": "am",
+  "part_count": 3,
+  "poetry": true,
+  "poetry_tags": [
+   "country-and-history",
+   "social-critique"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "Awchachign (Dikt samling)",
+   "script": "Ethi",
+   "text": "አውጫጭኝ"
+  },
+  "type": "work",
+  "year": 2002
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
+ "provenance": {
+  "raw_sha256": "cfbc875fab4f5bac15533dd2058e175e6772a47a5d09f2cddb7ee8be276aaa6d",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_pp1vw4r4"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Awchachign",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አውጫችኝ"
+  },
+  "romanized": "Awchachign",
+  "sort_key": "አውጫችኝ"
+ },
+ "type": "work"
+}

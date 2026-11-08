@@ -19,6 +19,46 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.wikidata.org/wiki/Q982661"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33734834",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33734834"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51669823",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51669823"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54659986",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54659986"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56368665",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56368665"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61574286",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61574286"
   }
  ],
  "locked_fields": [],
@@ -62,6 +102,27 @@
  "type": "person",
  "works": [
   {
+   "credits": [
+    {
+     "id": "pe_mqh1gb2n",
+     "name": "ሀዲስ ዓለማየሁ",
+     "role": "author",
+     "romanized": "hedis alemayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0e1w1tm7",
+   "id": "wk_0e1w1tm7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hadis Alemayehu Tizita",
+    "script": "Ethi",
+    "text": "ሀዲስ አለማየሁ ትዝታ"
+   },
+   "type": "work"
+  },
+  {
    "cover": {
     "path": "assets/covers/wk_ev9kxm9r.jpg",
     "source_url": "https://hahubooks.com/resource/img/%E1%8D%8D%E1%89%85%E1%88%AD_%E1%8A%A5%E1%88%B5%E1%8A%A8_%E1%88%98%E1%89%83%E1%89%A5%E1%88%AD.jpg"
@@ -87,6 +148,7 @@
     "llm-extracted",
     "calendar-ambiguous"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_ev9kxm9r",
    "id": "wk_ev9kxm9r",
    "language": "am",
@@ -99,6 +161,27 @@
    },
    "type": "work",
    "year": 1965
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mqh1gb2n",
+     "name": "ሀዲስ ዓለማየሁ",
+     "role": "author",
+     "romanized": "hedis alemayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_njvc52sv",
+   "id": "wk_njvc52sv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia Min Aynet Asitedader Yasifeligatal?",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ ምን ዐይነት አስተዳደር ያስፈልጋታል?"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -121,6 +204,7 @@
    "flags": [
     "llm-extracted"
    ],
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_vv1gg3dv",
    "id": "wk_vv1gg3dv",
    "language": "am",
@@ -133,6 +217,27 @@
    },
    "type": "work",
    "year": 1981
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mqh1gb2n",
+     "name": "ሀዲስ ዓለማየሁ",
+     "role": "author",
+     "romanized": "hedis alemayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_y0dbk9ae",
+   "id": "wk_y0dbk9ae",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Teret Teret YeMeseret",
+    "script": "Ethi",
+    "text": "ተረት ተረት የመሰረት"
+   },
+   "type": "work"
   }
  ]
 }

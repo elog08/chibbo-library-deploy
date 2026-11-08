@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "robartgrana",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qnz9frx1",
+ "id": "pe_qnz9frx1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07100629",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07100629"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42110330",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42110330"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert Greene"
+  },
+  "romanized": "Robert Greene",
+  "sort_key": "robertgreene"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07100629"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qnz9frx1",
+     "name": "Robert Greene",
+     "role": "author",
+     "romanized": "Robert Greene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_70e2exq2",
+   "id": "wk_70e2exq2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sewina Tefetirow",
+    "script": "Ethi",
+    "text": "ሰውና ተፈጥሮው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_qnz9frx1",
+     "name": "Robert Greene",
+     "role": "author",
+     "romanized": "Robert Greene"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_w07ye2r5",
+   "id": "wk_w07ye2r5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "48tu Yehayalinet Higoch",
+    "script": "Ethi",
+    "text": "48ቱ የኃያልነት ሕጎች"
+   },
+   "type": "work"
+  }
+ ]
+}

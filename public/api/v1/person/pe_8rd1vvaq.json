@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "masafintafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8rd1vvaq",
+ "id": "pe_8rd1vvaq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17966918",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17966918"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61635509",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61635509"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesafint Teferra"
+  },
+  "romanized": "Mesafint Teferra",
+  "sort_key": "mesafintteferra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17966918"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8rd1vvaq",
+     "name": "Mesafint Teferra",
+     "role": "author",
+     "romanized": "Mesafint Teferra"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cfym7mzn",
+   "id": "wk_cfym7mzn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mot Negadew",
+    "script": "Ethi",
+    "text": "ሞት ነጋዴው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8rd1vvaq",
+     "name": "Mesafint Teferra",
+     "role": "author",
+     "romanized": "Mesafint Teferra"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dbghah9g",
+   "id": "wk_dbghah9g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fegegitashin Filega",
+    "script": "Ethi",
+    "text": "ፈገግታሽን ፍለጋ"
+   },
+   "type": "work"
+  }
+ ]
+}

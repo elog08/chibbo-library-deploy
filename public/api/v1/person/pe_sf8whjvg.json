@@ -1,0 +1,71 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirnaykuntsaga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sf8whjvg",
+ "id": "pe_sf8whjvg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84378464",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84378464"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Neykun Tsega"
+  },
+  "romanized": "Memihir Neykun Tsega",
+  "sort_key": "memihirneykuntsega"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=84378464"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sf8whjvg",
+     "name": "Memihir Neykun Tsega",
+     "role": "author",
+     "romanized": "Memihir Neykun Tsega"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_j0rtbdmy",
+   "id": "wk_j0rtbdmy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Digua BeMetsihaf Kidus",
+    "script": "Ethi",
+    "text": "ድጓ በመጽሐፍ ቅዱስ"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

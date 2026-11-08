@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_sez0gv5r",
+ "@type": "Book",
+ "alternateName": [
+  "Amet Be'alu"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fx817jcc",
+   "@type": "Person",
+   "name": "Dr.Birhanu Boggale"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_p58c136q",
+   "@type": "Person",
+   "name": "Dr.Nuru Mohammad Tahir"
+  }
+ ],
+ "datePublished": "2016?",
+ "inLanguage": "am",
+ "name": "አመት በዓሉ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=20583525"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mega-Spotlight Publishers"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=20583525"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_favprnka",
+   "@type": "Book"
+  }
+ ]
+}

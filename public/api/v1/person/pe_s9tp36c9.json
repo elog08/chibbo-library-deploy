@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "agut",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_s9tp36c9",
+ "id": "pe_s9tp36c9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30107398",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30107398"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63787501",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63787501"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "E.A.Gutt"
+  },
+  "romanized": "E.A.Gutt",
+  "sort_key": "eagutt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30107398"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_s9tp36c9",
+     "name": "E.A.Gutt",
+     "role": "author",
+     "romanized": "E.A.Gutt"
+    },
+    {
+     "id": "pe_64cd4n79",
+     "name": "Getachew Haile",
+     "role": "author",
+     "romanized": "Getachew Haile"
+    },
+    {
+     "id": "pe_3kbyp474",
+     "name": "Donald Crummey",
+     "role": "author",
+     "romanized": "Donald Crummey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1983?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_97tyrzev",
+   "id": "wk_97tyrzev",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XVI (July 1983)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1983
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_n3kqkre6",
+     "name": "Carolyn M.Ford",
+     "role": "author",
+     "romanized": "Carolyn M.Ford"
+    },
+    {
+     "id": "pe_s9tp36c9",
+     "name": "E.A.Gutt",
+     "role": "author",
+     "romanized": "E.A.Gutt"
+    },
+    {
+     "id": "pe_m4qcrrye",
+     "name": "Antonio Romitti",
+     "role": "author",
+     "romanized": "Antonio Romitti"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1986?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a7652mdr",
+   "id": "wk_a7652mdr",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XIX (November 1986)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

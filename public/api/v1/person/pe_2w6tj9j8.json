@@ -1,0 +1,106 @@
+{
+ "extensions": {},
+ "fingerprint": "bitwadadmakonanandalikachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2w6tj9j8",
+ "id": "pe_2w6tj9j8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55053243",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55053243"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64166692",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64166692"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bitweded Mekonen Endalikachew"
+  },
+  "romanized": "Bitweded Mekonen Endalikachew",
+  "sort_key": "bitwededmekonenendalikachew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55053243"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2w6tj9j8",
+     "name": "Bitweded Mekonen Endalikachew",
+     "role": "author",
+     "romanized": "Bitweded Mekonen Endalikachew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1958?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nwqgka4t",
+   "id": "wk_nwqgka4t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melkam Beteseboch",
+    "script": "Ethi",
+    "text": "መልካም ቤተሰቦች"
+   },
+   "type": "work",
+   "year": 1958
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2w6tj9j8",
+     "name": "Bitweded Mekonen Endalikachew",
+     "role": "author",
+     "romanized": "Bitweded Mekonen Endalikachew"
+    }
+   ],
+   "flags": [
+    "language-unrecognised",
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_pk3pccsj",
+   "id": "wk_pk3pccsj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHilim Rucha",
+    "script": "Ethi",
+    "text": "የህልም ሩጫ"
+   },
+   "type": "work"
+  }
+ ]
+}

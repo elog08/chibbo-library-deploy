@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_2wd3jxw7",
+ "@type": "Book",
+ "alternateName": [
+  "Shirshir"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p8ngn61m",
+   "@type": "Person",
+   "name": "Jemil Akiber"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሽርሽር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.70",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=54262701"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Jemil Akiber (2014/15)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=54262701"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_yc8nakwh",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "gwoldangidawork",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5mydcgt8",
+ "id": "pe_5mydcgt8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99688329",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99688329"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "G/Wold Engidawork"
+  },
+  "romanized": "G/Wold Engidawork",
+  "sort_key": "gwoldengidawork"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99688329"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5mydcgt8",
+     "name": "G/Wold Engidawork",
+     "role": "author",
+     "romanized": "G/Wold Engidawork"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1951?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_t9h4dmxq",
+   "id": "wk_t9h4dmxq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Maychew (YeMaychew Zemechana Yeguzow Tarik)",
+    "script": "Ethi",
+    "text": "ማይጨው (የማይጨው ዘመቻና የጉዞው ታሪክ)"
+   },
+   "type": "work",
+   "year": 1951
+  }
+ ]
+}

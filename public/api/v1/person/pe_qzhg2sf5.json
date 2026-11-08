@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "takilotashoma",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qzhg2sf5",
+ "id": "pe_qzhg2sf5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02241751",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02241751"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Takilo Teshome"
+  },
+  "romanized": "Takilo Teshome",
+  "sort_key": "takiloteshome"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02241751"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qzhg2sf5",
+     "name": "Takilo Teshome",
+     "role": "author",
+     "romanized": "Takilo Teshome"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ah690bhc",
+   "id": "wk_ah690bhc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDem Zemen (YeChenegefe Raiey-Yaltequache Tarik!) Kifil 2",
+    "script": "Ethi",
+    "text": "የደም ዘመን (የጨነገፈ ራዕይ-ያልተቋጨ ታሪክ!) ክፍል ሁለት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

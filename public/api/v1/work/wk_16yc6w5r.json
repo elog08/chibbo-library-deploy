@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_z0kfk40h"
+  "ed_z0kfk40h",
+  "ed_y5qay42x"
  ],
  "extensions": {},
  "fingerprint": "መሀሉአይነገርም|rashanok",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_16yc6w5r",
  "id": "wk_16yc6w5r",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "99335007"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -61,12 +66,31 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/mehalu-aynegerm-ras-henock"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99335007",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99335007"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "7.25",
+   "provider": "mereb",
+   "ref": "99335007",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99335007"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 3.00/5 from 3 rating(s), 3 written review(s)"
+  "ethiobookreview community rating 3.00/5 from 3 rating(s), 3 written review(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",

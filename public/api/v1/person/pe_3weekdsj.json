@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "dagninatababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3weekdsj",
+ "id": "pe_3weekdsj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27865398",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27865398"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54541419",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54541419"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dagninet Abebe"
+  },
+  "romanized": "Dagninet Abebe",
+  "sort_key": "dagninetabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27865398"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3weekdsj",
+     "name": "Dagninet Abebe",
+     "role": "author",
+     "romanized": "Dagninet Abebe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_d641rgfj",
+   "id": "wk_d641rgfj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeWelkayit Engidoch",
+    "script": "Ethi",
+    "text": "የወልቃይት እንግዶች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3weekdsj",
+     "name": "Dagninet Abebe",
+     "role": "author",
+     "romanized": "Dagninet Abebe"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_p9ytqk5a",
+   "id": "wk_p9ytqk5a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemote Feres Galabiwoch",
+    "script": "Ethi",
+    "text": "የሞተ ፈረስ ጋላቢዎች"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "nasibusibihatalula",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2d04fwqe",
+ "id": "pe_2d04fwqe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "34708283",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=34708283"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Nesibu Sibihat (Alula)"
+  },
+  "romanized": "Nesibu Sibihat (Alula)",
+  "sort_key": "nesibusibihatalula"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=34708283"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2d04fwqe",
+     "name": "Nesibu Sibihat (Alula)",
+     "role": "author",
+     "romanized": "Nesibu Sibihat (Alula)"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_23bmfxaa",
+   "id": "wk_23bmfxaa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fistum New Emnete Key Shibir Yekeftegna 15 Ewnetegna Tarik",
+    "script": "Ethi",
+    "text": "ፍፁም ነው እምነቴ ቀይ ሽብር የከፍተኛ 15 እውነተኛ ታሪክ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

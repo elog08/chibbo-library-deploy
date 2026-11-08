@@ -35,15 +35,30 @@
     "name": "amazon"
    },
    "url": "https://www.amazon.com/dp/B0H73S6143"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=56002319"
   }
  ],
  "sameAs": [
-  "https://addisbooks.com/book/yotor-koblayu-kahin-by-alemayehu-demeke/"
+  "https://addisbooks.com/book/yotor-koblayu-kahin-by-alemayehu-demeke/",
+  "https://www.mereb.shop/rs/?mpid=56002319"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_tsfsam6c",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_ykbcnjbk",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "popamusarchbishopofagypt",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_676pjbjy",
+ "id": "pe_676pjbjy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26530911",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26530911"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Pope Muse Archbishop of Egypt"
+  },
+  "romanized": "Pope Muse Archbishop of Egypt",
+  "sort_key": "popemusearchbishopofegypt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26530911"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_676pjbjy",
+     "name": "Pope Muse Archbishop of Egypt",
+     "role": "author",
+     "romanized": "Pope Muse Archbishop of Egypt"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_70a04zdb",
+   "id": "wk_70a04zdb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetemual Seb'ena",
+    "script": "Ethi",
+    "text": "የተሟላ ስብእና"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

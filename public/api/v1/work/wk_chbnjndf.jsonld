@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_chbnjndf",
+ "@type": "Book",
+ "alternateName": [
+  "Ametsegnaw Kilis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_yp8wzd3m",
+   "@type": "Person",
+   "name": "Daniel Hoek"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አምፀኛው ክልስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.47",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=72809546"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Daniel Hoek (Amharic)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=72809546"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hezmhc5n",
+   "@type": "Book"
+  }
+ ]
+}

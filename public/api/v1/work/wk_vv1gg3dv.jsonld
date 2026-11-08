@@ -23,14 +23,33 @@
  "image": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_vv1gg3dv.png",
  "inLanguage": "am",
  "name": "ወንጀለኛው ዳኛ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.60",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=61574286"
+  }
+ ],
  "publisher": {
   "@type": "Organization",
   "name": "Kuraz Publishing Agency"
  },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=61574286"
+ ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_g1cv25a1",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_wq5k1vcb",
    "@type": "Book"
   }
  ]

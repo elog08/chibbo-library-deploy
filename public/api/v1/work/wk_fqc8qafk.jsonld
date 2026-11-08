@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fqc8qafk",
+ "@type": "Book",
+ "alternateName": [
+  "Alinegam"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_zmmzay5e",
+   "@type": "Person",
+   "name": "Authors for Ethiopian Kids"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አልነጋም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=23451526"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=23451526"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_5thgsg5j",
+   "@type": "Book"
+  }
+ ]
+}

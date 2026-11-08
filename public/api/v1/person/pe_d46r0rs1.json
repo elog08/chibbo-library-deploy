@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "bamilionbalatasafa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d46r0rs1",
+ "id": "pe_d46r0rs1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10318426",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10318426"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "BeMillion Belete Assefa"
+  },
+  "romanized": "BeMillion Belete Assefa",
+  "sort_key": "bemillionbeleteassefa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10318426"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d46r0rs1",
+     "name": "BeMillion Belete Assefa",
+     "role": "author",
+     "romanized": "BeMillion Belete Assefa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_00x6tgrh",
+   "id": "wk_00x6tgrh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zikire Yeneta",
+    "script": "Ethi",
+    "text": "ዝክረ የኔታ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

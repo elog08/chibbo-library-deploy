@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_k90b6486",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_pr63gyt3",
+   "@type": "Person",
+   "name": "Debebe Hailegiorgis"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'amaregna felitawi anegageroch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.49",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=92472460"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=92472460"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sykhxqs5",
+   "@type": "Book"
+  }
+ ]
+}

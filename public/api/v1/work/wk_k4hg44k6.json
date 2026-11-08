@@ -14,7 +14,8 @@
  ],
  "editions": [
   "ed_dj535jkv",
-  "ed_sg16p07e"
+  "ed_sg16p07e",
+  "ed_sx6cgk6k"
  ],
  "extensions": {},
  "fingerprint": "ህማማትናበገና|adamrata",
@@ -40,6 +41,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_139"
+  ],
+  "mereb_mpid": [
+   "66546366"
   ]
  },
  "language": "am",
@@ -96,6 +100,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_139"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66546366",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66546366"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "6.90",
+   "provider": "mereb",
+   "ref": "66546366",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66546366"
   }
  ],
  "locked_fields": [],
@@ -108,6 +130,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/himamatna-begena-adam-reta"
  },
+ "publisher_name": "Adam Retta",
  "relations": [],
  "rights": {
   "shippable": false,

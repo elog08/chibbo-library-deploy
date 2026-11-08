@@ -1,0 +1,181 @@
+{
+ "extensions": {},
+ "fingerprint": "robartkiyosaki",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_fvscp0mh",
+ "id": "pe_fvscp0mh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03127790",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03127790"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77364074",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77364074"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "78799288",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=78799288"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Robert T.Kiyosaki"
+  },
+  "romanized": "Robert T.Kiyosaki",
+  "sort_key": "roberttkiyosaki"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የገንዘብ ነፃነት - ሮበርት ኪዮስኪ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03127790"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_5m9m0t46.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5m9m0t46.png"
+   },
+   "credits": [
+    {
+     "id": "pe_fvscp0mh",
+     "name": "Robert T.Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T.Kiyosaki"
+    },
+    {
+     "id": "pe_k1cdq32v",
+     "name": "ሻሮን ሌችተር",
+     "role": "author",
+     "romanized": "sharon lechter"
+    },
+    {
+     "id": "pe_dtm2azh6",
+     "name": "አክሊሉ በሬቻ",
+     "role": "author",
+     "romanized": "aklilu berecha"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_5m9m0t46",
+   "id": "wk_5m9m0t46",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yegenzeb netsanet",
+    "script": "Ethi",
+    "text": "የገንዘብ ነፃነት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fvscp0mh",
+     "name": "Robert T.Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T.Kiyosaki"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_66tq1fw9",
+   "id": "wk_66tq1fw9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHabt Kulif",
+    "script": "Ethi",
+    "text": "የሀብት ቁልፍ"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fvscp0mh",
+     "name": "Robert T.Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T.Kiyosaki"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hhfbfkv7",
+   "id": "wk_hhfbfkv7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBaletseganet Menged",
+    "script": "Ethi",
+    "text": "የባለጸጋነት መንገድ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fvscp0mh",
+     "name": "Robert T.Kiyosaki",
+     "role": "author",
+     "romanized": "Robert T.Kiyosaki"
+    },
+    {
+     "id": "pe_0bfj95kr",
+     "name": "Donald J Trump",
+     "role": "author",
+     "romanized": "Donald J Trump"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_kahr2rv6",
+   "id": "wk_kahr2rv6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebaht Mistir",
+    "script": "Ethi",
+    "text": "የሀብት ምስጢር"
+   },
+   "type": "work"
+  }
+ ]
+}

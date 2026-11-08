@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "fikramariamtafasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_584y4bac",
+ "id": "pe_584y4bac",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41005876",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41005876"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fikremariam Tafesse"
+  },
+  "romanized": "Fikremariam Tafesse",
+  "sort_key": "fikremariamtafesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41005876"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_584y4bac",
+     "name": "Fikremariam Tafesse",
+     "role": "author",
+     "romanized": "Fikremariam Tafesse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8rby1pgt",
+   "id": "wk_8rby1pgt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Computer Skills for Users",
+    "script": "Ethi",
+    "text": "የኮምፒዩተር ክህሎት ለተጠቃሚዎች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "magabalafhanokwmichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_w1940ncv",
+ "id": "pe_w1940ncv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53606574",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53606574"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62824301",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62824301"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Megabe A'elaf Henok W/Michael"
+  },
+  "romanized": "Megabe A'elaf Henok W/Michael",
+  "sort_key": "megabeaelafhenokwmichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=53606574"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_w1940ncv",
+     "name": "Megabe A'elaf Henok W/Michael",
+     "role": "author",
+     "romanized": "Megabe A'elaf Henok W/Michael"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_85pv93ra",
+   "id": "wk_85pv93ra",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zikire Kal (Zew'etu Metshafe Zik Wemezmur)",
+    "script": "Ethi",
+    "text": "ዝክረ-ቃል (ዘውእቱ መጽሐፈ ዚቅ ወመዝሙር)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_w1940ncv",
+     "name": "Megabe A'elaf Henok W/Michael",
+     "role": "author",
+     "romanized": "Megabe A'elaf Henok W/Michael"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_a8k78p7f",
+   "id": "wk_a8k78p7f",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Melk'ea Gubae",
+    "script": "Ethi",
+    "text": "መልክዐ ጉባኤ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_18qqx5wh",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_s6s2dhqy",
+   "@type": "Person",
+   "name": "Berhanu Dinke"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Albo Zemede (Fiction) and kesarna abeyot (History); two books under one binding",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "16.38",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05668181"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05668181"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_1y9vtj47",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasalamayahu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fahmest5",
+ "id": "pe_fahmest5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06187644",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06187644"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62919240",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62919240"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadesse Alemayehu"
+  },
+  "romanized": "Tadesse Alemayehu",
+  "sort_key": "tadessealemayehu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06187644"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fahmest5",
+     "name": "Tadesse Alemayehu",
+     "role": "author",
+     "romanized": "Tadesse Alemayehu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_b0gt3tmx",
+   "id": "wk_b0gt3tmx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Midrawiw Mele'ak Kidus Yared",
+    "script": "Ethi",
+    "text": "ምድራዊው መልአክ ቅዱስ ያሬድ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fahmest5",
+     "name": "Tadesse Alemayehu",
+     "role": "author",
+     "romanized": "Tadesse Alemayehu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f9khr3p4",
+   "id": "wk_f9khr3p4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebetechrstian Birhan Kidus Yared",
+    "script": "Ethi",
+    "text": "የቤተ ክርስቲያን ብርሃን ቅዱስ ያሬድ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

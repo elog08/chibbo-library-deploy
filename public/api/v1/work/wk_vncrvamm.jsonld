@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_vncrvamm",
+ "@type": "Book",
+ "alternateName": [
+  "Ogastanga"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_r7757vea",
+   "@type": "Person",
+   "name": "Henok Abebe"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኦጋስታንጋ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=52294564"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=52294564"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_t1mcwxp8",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamaharharuyarmias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_n47cq0x8",
+ "id": "pe_n47cq0x8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27902325",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27902325"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50962055",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50962055"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memeher Heruy Ermias"
+  },
+  "romanized": "Memeher Heruy Ermias",
+  "sort_key": "memeherheruyermias"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27902325"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_n47cq0x8",
+     "name": "Memeher Heruy Ermias",
+     "role": "author",
+     "romanized": "Memeher Heruy Ermias"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_20r0cz23",
+   "id": "wk_20r0cz23",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "History Journal Part I",
+    "script": "Ethi",
+    "text": "መዝገበ ታሪክ ክፍል 1"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_n47cq0x8",
+     "name": "Memeher Heruy Ermias",
+     "role": "author",
+     "romanized": "Memeher Heruy Ermias"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mxp1xgw2",
+   "id": "wk_mxp1xgw2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "History Journal Part II",
+    "script": "Ethi",
+    "text": "መዝገበ ታሪክ ክፍል 2"
+   },
+   "type": "work"
+  }
+ ]
+}

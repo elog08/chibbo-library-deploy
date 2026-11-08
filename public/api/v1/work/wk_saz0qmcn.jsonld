@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_saz0qmcn",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_8c784trc",
+   "@type": "Person",
+   "name": "Hezqeyas Tesgaye"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yaltefetaw Helm",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.28",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=43238865"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=43238865"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ac2d2yb5",
+   "@type": "Book"
+  }
+ ]
+}

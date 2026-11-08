@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "alizabathscotland",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_q7bw580n",
+ "id": "pe_q7bw580n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63131427",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63131427"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elizabeth Scotland"
+  },
+  "romanized": "Elizabeth Scotland",
+  "sort_key": "elizabethscotland"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=63131427"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_q7bw580n",
+     "name": "Elizabeth Scotland",
+     "role": "author",
+     "romanized": "Elizabeth Scotland"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_sbw6458v",
+   "id": "wk_sbw6458v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ashangulite Rebisha Aywedim",
+    "script": "Ethi",
+    "text": "አሻንጉሊቴ ረብሻ አይወድም"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

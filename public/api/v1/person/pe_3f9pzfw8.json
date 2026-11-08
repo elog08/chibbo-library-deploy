@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalfakadagyas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3f9pzfw8",
+ "id": "pe_3f9pzfw8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99341842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99341842"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99612248",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99612248"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Fekade G/Yes"
+  },
+  "romanized": "Colonel Fekade G/Yes",
+  "sort_key": "colonelfekadegyes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=99341842"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3f9pzfw8",
+     "name": "Colonel Fekade G/Yes",
+     "role": "author",
+     "romanized": "Colonel Fekade G/Yes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5z2bxnfh",
+   "id": "wk_5z2bxnfh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dirigtawi Yetena Mirmera (Organizational Health Check-up)",
+    "script": "Ethi",
+    "text": "ድርጅታዊ የጤና ምርመራ"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3f9pzfw8",
+     "name": "Colonel Fekade G/Yes",
+     "role": "author",
+     "romanized": "Colonel Fekade G/Yes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ttc4x2rb",
+   "id": "wk_ttc4x2rb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Strategy",
+    "script": "Ethi",
+    "text": "ስትራቴጂ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

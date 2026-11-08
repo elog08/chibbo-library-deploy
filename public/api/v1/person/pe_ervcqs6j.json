@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "yilmahabtayas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ervcqs6j",
+ "id": "pe_ervcqs6j",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21669946",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21669946"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41291021",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41291021"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yilma Habteyes"
+  },
+  "romanized": "Yilma Habteyes",
+  "sort_key": "yilmahabteyes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21669946"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ervcqs6j",
+     "name": "Yilma Habteyes",
+     "role": "author",
+     "romanized": "Yilma Habteyes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8rtjmd0a",
+   "id": "wk_8rtjmd0a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mot Feredu",
+    "script": "Ethi",
+    "text": "ሞት ፈረዱ"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ervcqs6j",
+     "name": "Yilma Habteyes",
+     "role": "author",
+     "romanized": "Yilma Habteyes"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_s87nt3b5",
+   "id": "wk_s87nt3b5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Mot fredu",
+    "script": "Latn",
+    "text": "Mot fredu"
+   },
+   "type": "work"
+  }
+ ]
+}

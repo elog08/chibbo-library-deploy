@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasghiywat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_eezjw00p",
+ "id": "pe_eezjw00p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27763952",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27763952"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yohannes G/Hiywet"
+  },
+  "romanized": "Yohannes G/Hiywet",
+  "sort_key": "yohannesghiywet"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27763952"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_eezjw00p",
+     "name": "Yohannes G/Hiywet",
+     "role": "author",
+     "romanized": "Yohannes G/Hiywet"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gkwkamcd",
+   "id": "wk_gkwkamcd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sile Hager",
+    "script": "Ethi",
+    "text": "ስለ ሀገር"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

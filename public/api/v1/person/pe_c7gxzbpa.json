@@ -1,0 +1,148 @@
+{
+ "extensions": {},
+ "fingerprint": "masaydamisia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_c7gxzbpa",
+ "id": "pe_c7gxzbpa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62342930",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62342930"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68169035",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68169035"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88115237",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88115237"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Messay Demissie"
+  },
+  "romanized": "Messay Demissie",
+  "sort_key": "messaydemissie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62342930"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_c7gxzbpa",
+     "name": "Messay Demissie",
+     "role": "author",
+     "romanized": "Messay Demissie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a3px7mvt",
+   "id": "wk_a3px7mvt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hisab Mergia Metshaf 3rd grade",
+    "script": "Ethi",
+    "text": "ሂሳብ መርጃ መጽሃፍ ለ3ኛ ክፍል"
+   },
+   "type": "work",
+   "year": 2011
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vtbecf91",
+     "name": "Tafere Bitena",
+     "role": "author",
+     "romanized": "Tafere Bitena"
+    },
+    {
+     "id": "pe_c7gxzbpa",
+     "name": "Messay Demissie",
+     "role": "author",
+     "romanized": "Messay Demissie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_as9cmyhg",
+   "id": "wk_as9cmyhg",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meseretawi Yehisab Agaz Metsaf Le 3Gna Ena 4Gna kifil",
+    "script": "Ethi",
+    "text": "መሰረታዊ የሂሳብ አጋዥ መጽሃፍ ለ3ኛ እና ለ4ኛ ክፍል"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_c7gxzbpa",
+     "name": "Messay Demissie",
+     "role": "author",
+     "romanized": "Messay Demissie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_bmvagvsm",
+   "id": "wk_bmvagvsm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yehisab Merja Metsaf Le 5 g na ena 6 gna kifil",
+    "script": "Ethi",
+    "text": "የሂሳብ መርጃ መጽሃፍ ለ5ኛ እና ለ6ኛ ክፍል"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

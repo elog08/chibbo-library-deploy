@@ -23,14 +23,33 @@
  "genre": "essays",
  "inLanguage": "am",
  "name": "ከአሜን ባሻገር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.61",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=49555104"
+  }
+ ],
  "publisher": {
   "@type": "Organization",
   "name": "Signature Books"
  },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=49555104"
+ ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_hb6cp48d",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_fdtpjmg5",
    "@type": "Book"
   }
  ]

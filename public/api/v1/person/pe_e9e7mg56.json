@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "shimalisbonsa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e9e7mg56",
+ "id": "pe_e9e7mg56",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08710246",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08710246"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Shimelis Bonsa"
+  },
+  "romanized": "Shimelis Bonsa",
+  "sort_key": "shimelisbonsa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08710246"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gqmh7j5g",
+     "name": "Seltene Seyoum",
+     "role": "author",
+     "romanized": "Seltene Seyoum"
+    },
+    {
+     "id": "pe_qh0q9j80",
+     "name": "Charles Schaefer",
+     "role": "author",
+     "romanized": "Charles Schaefer"
+    },
+    {
+     "id": "pe_e9e7mg56",
+     "name": "Shimelis Bonsa",
+     "role": "author",
+     "romanized": "Shimelis Bonsa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_yj0ysaqt",
+   "id": "wk_yj0ysaqt",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLV (December 2012)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

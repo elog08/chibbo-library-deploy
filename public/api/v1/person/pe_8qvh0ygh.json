@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "tamasgangabra",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_8qvh0ygh",
+ "id": "pe_8qvh0ygh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01229988",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01229988"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "temesgen gebre",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Temesgen Gebre",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተመስገን ገብሬ"
+  },
+  "romanized": "temesgen gebre",
+  "sort_key": "ተመስገንገብሬ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የጉለሌው ሰካራም በ ተመስገን ገብሬ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01229988"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_ba4j2c0c.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ba4j2c0c.png"
+   },
+   "credits": [
+    {
+     "id": "pe_8qvh0ygh",
+     "name": "ተመስገን ገብሬ",
+     "role": "author",
+     "romanized": "temesgen gebre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1949?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous",
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_bb0rwbn9",
+   "id": "wk_bb0rwbn9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGulelew Sekaram",
+    "script": "Ethi",
+    "text": "የጉለሌው ሰካራም"
+   },
+   "type": "work",
+   "year": 1949
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "aframtafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2g4wjgts",
+ "id": "pe_2g4wjgts",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00745173",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00745173"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32409889",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32409889"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Efrem Tefera"
+  },
+  "romanized": "Efrem Tefera",
+  "sort_key": "efremtefera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00745173"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2g4wjgts",
+     "name": "Efrem Tefera",
+     "role": "author",
+     "romanized": "Efrem Tefera"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_29cy9rpp",
+   "id": "wk_29cy9rpp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Babilon Wedikalech (Zeregna Ambagenen Mengistat YeZerutin Eyachedu New)",
+    "script": "Ethi",
+    "text": "ባቢሎን ወድቃለች (ዘረኛ አምባገነን መንግስታት የዘሩትን እያጨዱ ነው)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_2g4wjgts",
+     "name": "Efrem Tefera",
+     "role": "author",
+     "romanized": "Efrem Tefera"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_gym54yc6",
+   "id": "wk_gym54yc6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Teklay Ministrun Man Gedelachew?",
+    "script": "Ethi",
+    "text": "ጠቅላይ ሚኒስትሩን ማን ገደላቸው?"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -60,9 +60,15 @@
     "llm-extracted",
     "filename-title-mismatch"
    ],
+   "form": "poetry",
    "href": "https://chibbo.app/work/wk_872ytzhe",
    "id": "wk_872ytzhe",
    "language": "am",
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "faith-and-philosophy"
+   ],
    "status": "draft",
    "title": {
     "lang": "am",
@@ -212,8 +218,40 @@
    },
    "type": "work",
    "year": 1935
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7gfcqt2k",
+     "name": "Eras E'miru HaileSilasie",
+     "role": "author",
+     "romanized": "Eras E'miru HaileSilasie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1934?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ztw657rh",
+   "id": "wk_ztw657rh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitawirari Belay : Tarik BeMisale",
+    "script": "Ethi",
+    "text": "ፊታውራሪ በላይ ታሪክ በምሳሌ"
+   },
+   "type": "work",
+   "year": 1934
   }
  ],
- "total": 6,
+ "total": 7,
  "value": "1930s"
 }

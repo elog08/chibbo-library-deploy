@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fd20f0yj",
+ "@type": "Book",
+ "alternateName": [
+  "Hadis Hiwot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3vgyc8n9",
+   "@type": "Person",
+   "name": "W/Rufael Fetahi"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሐዲስ ሕይወት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "25.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=77674022"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "EOTC (May 9 1972)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=77674022"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_0kjfbmeb",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "janakurtz",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7mz6emv8",
+ "id": "pe_7mz6emv8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93927779",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93927779"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jane Kurtz"
+  },
+  "romanized": "Jane Kurtz",
+  "sort_key": "janekurtz"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=93927779"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7mz6emv8",
+     "name": "Jane Kurtz",
+     "role": "author",
+     "romanized": "Jane Kurtz"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_51cby19b",
+   "id": "wk_51cby19b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Lion's Tail",
+    "script": "Ethi",
+    "text": "የአንበሳ ጭራ"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

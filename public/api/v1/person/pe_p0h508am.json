@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "asafachabo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_p0h508am",
+ "id": "pe_p0h508am",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "00736944",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=00736944"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "ASSEFA CHABO"
+  },
+  "romanized": "ASSEFA CHABO",
+  "sort_key": "assefachabo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=00736944"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_p0h508am",
+     "name": "ASSEFA CHABO",
+     "role": "author",
+     "romanized": "ASSEFA CHABO"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x9mgy041",
+   "id": "wk_x9mgy041",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YETIZITA FELEG",
+    "script": "Ethi",
+    "text": "የትዝታ ፈለግ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

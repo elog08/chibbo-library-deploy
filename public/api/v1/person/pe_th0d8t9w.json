@@ -1,0 +1,70 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirsamualsolomon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_th0d8t9w",
+ "id": "pe_th0d8t9w",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07896278",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07896278"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40191456",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40191456"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Samuel Solomon"
+  },
+  "romanized": "Memihir Samuel Solomon",
+  "sort_key": "memihirsamuelsolomon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07896278"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_th0d8t9w",
+     "name": "Memihir Samuel Solomon",
+     "role": "author",
+     "romanized": "Memihir Samuel Solomon"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ewvkg0gv",
+   "id": "wk_ewvkg0gv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Oriyares",
+    "script": "Ethi",
+    "text": "ኦርያሬስ"
+   },
+   "type": "work"
+  }
+ ]
+}

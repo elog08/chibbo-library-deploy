@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihiryitbarakgasasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_32wtxnf2",
+ "id": "pe_32wtxnf2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "38487831",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=38487831"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Yitbarek Gesese"
+  },
+  "romanized": "Memihir Yitbarek Gesese",
+  "sort_key": "memihiryitbarekgesese"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=38487831"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_32wtxnf2",
+     "name": "Memihir Yitbarek Gesese",
+     "role": "author",
+     "romanized": "Memihir Yitbarek Gesese"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_28hr2tew",
+   "id": "wk_28hr2tew",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bahire Kemer (Huletegna)",
+    "script": "Ethi",
+    "text": "ባሕረ ቀመር(ሁለተኛ)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

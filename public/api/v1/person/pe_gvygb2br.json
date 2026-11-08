@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfamichaltakala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gvygb2br",
+ "id": "pe_gvygb2br",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51748065",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51748065"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesfa Michael Takele"
+  },
+  "romanized": "Tesfa Michael Takele",
+  "sort_key": "tesfamichaeltakele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51748065"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gvygb2br",
+     "name": "Tesfa Michael Takele",
+     "role": "author",
+     "romanized": "Tesfa Michael Takele"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jvds4hmc",
+   "id": "wk_jvds4hmc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Enzira Sibhat",
+    "script": "Ethi",
+    "text": "እንዚራ ስብሐት"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

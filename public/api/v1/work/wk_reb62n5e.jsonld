@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_reb62n5e",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_40drqyw4",
+   "@type": "Person",
+   "name": "Eyob Abate (Shamble)"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Jeneralochu",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=76910694"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=76910694"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_em6dpghb",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "birukabdu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m65s1jec",
+ "id": "pe_m65s1jec",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04314474",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04314474"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Biruk Abdu"
+  },
+  "romanized": "Biruk Abdu",
+  "sort_key": "birukabdu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04314474"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m65s1jec",
+     "name": "Biruk Abdu",
+     "role": "author",
+     "romanized": "Biruk Abdu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_wmedx8j5",
+   "id": "wk_wmedx8j5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez BeAndit Wer",
+    "script": "Ethi",
+    "text": "ግዕዝ በአንዲት ወር"
+   },
+   "type": "work"
+  }
+ ]
+}

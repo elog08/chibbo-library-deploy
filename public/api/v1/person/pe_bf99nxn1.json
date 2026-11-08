@@ -1,0 +1,117 @@
+{
+ "extensions": {},
+ "fingerprint": "abala",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_bf99nxn1",
+ "id": "pe_bf99nxn1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58374904",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58374904"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Abale E.",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Abel E",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አቤል እ."
+  },
+  "romanized": "Abale E.",
+  "sort_key": "አቤልእ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of የብርሃን ናፍቆት - አቤል እ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58374904"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bf99nxn1",
+     "name": "አቤል እ.",
+     "role": "author",
+     "romanized": "Abale E."
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_341zwz95",
+   "id": "wk_341zwz95",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'berhan nafkot, second edition",
+    "script": "Latn",
+    "text": "Ye'berhan nafkot, second edition"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_efa00r59.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_efa00r59.png"
+   },
+   "credits": [
+    {
+     "id": "pe_bf99nxn1",
+     "name": "አቤል እ.",
+     "role": "author",
+     "romanized": "Abale E."
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2002?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "llm-extracted",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_efa00r59",
+   "id": "wk_efa00r59",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeberhan nafqot",
+    "script": "Ethi",
+    "text": "የብርሃን ናፍቆት"
+   },
+   "type": "work",
+   "year": 2002
+  }
+ ]
+}

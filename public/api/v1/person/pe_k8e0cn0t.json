@@ -5,7 +5,32 @@
  "href": "https://chibbo.app/person/pe_k8e0cn0t",
  "id": "pe_k8e0cn0t",
  "identifiers": {},
- "links": [],
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06113532",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06113532"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45487000",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45487000"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51578050",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51578050"
+  }
+ ],
  "locked_fields": [],
  "merged_into": null,
  "name": {
@@ -36,6 +61,91 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k8e0cn0t",
+     "name": "ቴዎድሮስ ተ/አረጋይ",
+     "role": "author",
+     "romanized": "tewodros te/aregay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0jsdzyb2",
+   "id": "wk_0jsdzyb2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Filisimina 3 (Poletika, sine Kewakibit, Geda, Eminet Yeleshinet...)",
+    "script": "Ethi",
+    "text": "ፍልስምና ፫ (ፖለቲካ ሥነ ከዋክብት ገዳ እምነት የለሽነት...)"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_k8e0cn0t",
+     "name": "ቴዎድሮስ ተ/አረጋይ",
+     "role": "author",
+     "romanized": "tewodros te/aregay"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_h93gdy32",
+   "id": "wk_h93gdy32",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Filsimina (Yehasab Mengedoch)",
+    "script": "Ethi",
+    "text": "ፍልስምና (የሐሳብ መንገዶች)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_k8e0cn0t",
+     "name": "ቴዎድሮስ ተ/አረጋይ",
+     "role": "author",
+     "romanized": "tewodros te/aregay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_j29a9n68",
+   "id": "wk_j29a9n68",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Filsmina 2 (Amilak,Sewina Haymanot)",
+    "script": "Ethi",
+    "text": "ፍልስምና 2 (አምላክ ሰውና ኃይማኖት)"
+   },
+   "type": "work",
+   "year": 2012
+  },
   {
    "cover": {
     "path": "assets/covers/wk_rg75tvrj.jpg",

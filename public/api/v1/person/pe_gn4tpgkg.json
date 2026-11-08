@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "ababadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_gn4tpgkg",
+ "id": "pe_gn4tpgkg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58455867",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58455867"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abebe Desse"
+  },
+  "romanized": "Abebe Desse",
+  "sort_key": "abebedesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58455867"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_gn4tpgkg",
+     "name": "Abebe Desse",
+     "role": "author",
+     "romanized": "Abebe Desse"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_fxam1kvs",
+   "id": "wk_fxam1kvs",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hohete Tibeb Zelisane Ge'ez (Kifl 1)",
+    "script": "Ethi",
+    "text": "ኆኅተ ጥበብ ዘልሳነ ግዕዝ (ክፍል ፩)"
+   },
+   "type": "work"
+  }
+ ]
+}

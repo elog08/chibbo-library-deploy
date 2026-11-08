@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "dbakuluzawdia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6pdsf8vr",
+ "id": "pe_6pdsf8vr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17788968",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17788968"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dbekulu Zewdie"
+  },
+  "romanized": "Dbekulu Zewdie",
+  "sort_key": "dbekuluzewdie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17788968"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6pdsf8vr",
+     "name": "Dbekulu Zewdie",
+     "role": "author",
+     "romanized": "Dbekulu Zewdie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1994?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wrgegvq3",
+   "id": "wk_wrgegvq3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fitiha Negest (Bhere Hig Wekenona)",
+    "script": "Ethi",
+    "text": "ፍትሐ ነገሥት ብሔረ ሕግ ወቀኖና"
+   },
+   "type": "work",
+   "year": 1994
+  }
+ ]
+}

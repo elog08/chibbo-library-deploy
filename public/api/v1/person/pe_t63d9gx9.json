@@ -1,0 +1,95 @@
+{
+ "extensions": {},
+ "fingerprint": "bogalatafaribazu",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_t63d9gx9",
+ "id": "pe_t63d9gx9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44087434",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44087434"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "bogale teferi bezu",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Bogale Teferi Bezu",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ቦጋለ ተፈሪ በዙ"
+  },
+  "romanized": "bogale teferi bezu",
+  "sort_key": "ቦጋለተፈሪበዙ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ትንቢተ_ሽህ_ሁሴን_ጀብሪል_ቦጋለ_ተፈሪ.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44087434"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_0gbxwvmb.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_0gbxwvmb.png"
+   },
+   "credits": [
+    {
+     "id": "pe_t63d9gx9",
+     "name": "ቦጋለ ተፈሪ በዙ",
+     "role": "author",
+     "romanized": "bogale teferi bezu"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2019-09-12/2020-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted",
+    "filename-title-mismatch"
+   ],
+   "href": "https://chibbo.app/work/wk_862f2j64",
+   "id": "wk_862f2j64",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinbite Sheh Husen Jibril",
+    "script": "Ethi",
+    "text": "ትንቢተ ሸህ ሑሴን ጅብሪል"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

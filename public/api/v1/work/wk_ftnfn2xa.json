@@ -1,0 +1,173 @@
+{
+ "cover": {
+  "bytes": 13788,
+  "path": "assets/covers/wk_ftnfn2xa.png",
+  "sha256": "5ac08b8e5b688636ac021c4dc6e371add9734d05cd12823624dbc8f1fae23f30",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ftnfn2xa.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_tkbf97dx",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_eqstmj0n"
+ ],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "social-critique"
+   ]
+  }
+ },
+ "fingerprint": "እስኪተጠየቁ|yohanasadmasu",
+ "first_published": {
+  "edtf": "1997-09-11/1998-09-10",
+  "original": {
+   "calendar": "ethiopic",
+   "value": "1990"
+  }
+ },
+ "flags": [
+  "llm-extracted"
+ ],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_ftnfn2xa",
+ "id": "wk_ftnfn2xa",
+ "identifiers": {
+  "pdf_pagehash": [
+   "183c383800000000",
+   "30382c0000000000",
+   "60343e3830303030"
+  ]
+ },
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: 4_6016877336312423402.pdf",
+  "Extracted directly from embedded Unicode PDF text layer"
+ ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_y3k7vqkr",
+   "id": "wk_y3k7vqkr",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ftnfn2xa",
+    "id": "wk_ftnfn2xa",
+    "title": {
+     "lang": "am",
+     "romanized": "eski teteyequ",
+     "script": "Ethi",
+     "text": "እስኪ ተጠየቁ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "grief-and-mortality",
+    "faith-and-philosophy",
+    "love"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "eshkelekenta weyem yeenba sheleqo",
+    "script": "Ethi",
+    "text": "እሽከለኬንታ ወይም የእንባ ሸለቆ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_tkbf97dx",
+     "name": "ዮሐንስ አድማሱ",
+     "role": "author",
+     "romanized": "yohenes admasu"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_c00x7vrp",
+   "id": "wk_c00x7vrp",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_ftnfn2xa",
+    "id": "wk_ftnfn2xa",
+    "title": {
+     "lang": "am",
+     "romanized": "eski teteyequ",
+     "script": "Ethi",
+     "text": "እስኪ ተጠየቁ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "grief-and-mortality",
+    "faith-and-philosophy",
+    "social-critique"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "mot lemot memotu",
+    "script": "Ethi",
+    "text": "ሞት ለሞት መሞቱ"
+   },
+   "type": "work"
+  }
+ ],
+ "poetry": true,
+ "poetry_tags": [
+  "social-critique"
+ ],
+ "provenance": {
+  "raw_sha256": "679101fb40b13f59d4ae2f1c23c868d52cd9f03e4c4695f4821d6936d417453e",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "publication_place": "አዲስ አበባ",
+ "publisher_name": "ሜጋ አሳታሚ ድርጅት",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "eski teteyequ",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "እስኪ ተጠየቁ"
+  },
+  "romanized": "eski teteyequ",
+  "sort_key": "እስኪተጠየቁ"
+ },
+ "type": "work"
+}

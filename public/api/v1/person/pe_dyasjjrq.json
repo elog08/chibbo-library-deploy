@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "magabihadisamanualmangistab",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dyasjjrq",
+ "id": "pe_dyasjjrq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26033061",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26033061"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49843634",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49843634"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Megabi Hadis Amanuel Mengisteab"
+  },
+  "romanized": "Megabi Hadis Amanuel Mengisteab",
+  "sort_key": "megabihadisamanuelmengisteab"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26033061"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dyasjjrq",
+     "name": "Megabi Hadis Amanuel Mengisteab",
+     "role": "author",
+     "romanized": "Megabi Hadis Amanuel Mengisteab"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_pazt05r6",
+   "id": "wk_pazt05r6",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Tselot Bekuankua Tigirigna",
+    "script": "Ethi",
+    "text": "መጽሐፈ ጸሎት በቋንቋ ትግርኛ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_dyasjjrq",
+     "name": "Megabi Hadis Amanuel Mengisteab",
+     "role": "author",
+     "romanized": "Megabi Hadis Amanuel Mengisteab"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vxr9k7pk",
+   "id": "wk_vxr9k7pk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSkendes Zimita",
+    "script": "Ethi",
+    "text": "የስክንድስ ዝምታ"
+   },
+   "type": "work"
+  }
+ ]
+}

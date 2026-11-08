@@ -1,0 +1,179 @@
+{
+ "extensions": {},
+ "fingerprint": "zanamarkosandalaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_df2m5sqm",
+ "id": "pe_df2m5sqm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03376415",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03376415"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31817721",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31817721"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32966567",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32966567"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33850859",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33850859"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "ZenaMarkos Endalew"
+  },
+  "romanized": "ZenaMarkos Endalew",
+  "sort_key": "zenamarkosendalew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03376415"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_df2m5sqm",
+     "name": "ZenaMarkos Endalew",
+     "role": "author",
+     "romanized": "ZenaMarkos Endalew"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_8mmetbx1",
+   "id": "wk_8mmetbx1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez Enibele Memihir (Kal'e Metsihaf)",
+    "script": "Ethi",
+    "text": "ግዕዝ እንበለ መምህር (ካልዕ መጽሐፍ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_df2m5sqm",
+     "name": "ZenaMarkos Endalew",
+     "role": "author",
+     "romanized": "ZenaMarkos Endalew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dydbkwhh",
+   "id": "wk_dydbkwhh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGe'ez Quanqua Megbia (Qutir 2)",
+    "script": "Ethi",
+    "text": "የግዕዝ ቋንቋ መግቢያ (ቁጥር ፪)"
+   },
+   "type": "work",
+   "year": 2009
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_df2m5sqm",
+     "name": "ZenaMarkos Endalew",
+     "role": "author",
+     "romanized": "ZenaMarkos Endalew"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_y6sbgbf0",
+   "id": "wk_y6sbgbf0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ge'ez YaleAstemari (Ge'ez Enbel Memihit)",
+    "script": "Ethi",
+    "text": "ግዕዝ ያለ አስተማሪ (ግዕዝ እንበለ መምህር)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_df2m5sqm",
+     "name": "ZenaMarkos Endalew",
+     "role": "author",
+     "romanized": "ZenaMarkos Endalew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1989?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zybpfed4",
+   "id": "wk_zybpfed4",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinatawi Ge'ez BeZemenawi Akerareb",
+    "script": "Ethi",
+    "text": "ጥንታዊ ግዕዝ በዘመናዊ አቀራረብ"
+   },
+   "type": "work",
+   "year": 1989
+  }
+ ]
+}

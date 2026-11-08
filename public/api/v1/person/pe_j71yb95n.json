@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "fakadazaza",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_j71yb95n",
+ "id": "pe_j71yb95n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96706835",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96706835"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97675957",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97675957"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fekade Azeze"
+  },
+  "romanized": "Fekade Azeze",
+  "sort_key": "fekadeazeze"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=96706835"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_j71yb95n",
+     "name": "Fekade Azeze",
+     "role": "author",
+     "romanized": "Fekade Azeze"
+    },
+    {
+     "id": "pe_ck75tfcz",
+     "name": "Yonas Admassu",
+     "role": "author",
+     "romanized": "Yonas Admassu"
+    },
+    {
+     "id": "pe_3kbyp474",
+     "name": "Donald Crummey",
+     "role": "author",
+     "romanized": "Donald Crummey"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2001?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0mm70ysz",
+   "id": "wk_0mm70ysz",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXIV, No.1 (June 2001)(Special Issue )",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2001
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_a73fh3c6",
+     "name": "Shiferaw Bekele",
+     "role": "author",
+     "romanized": "Shiferaw Bekele"
+    },
+    {
+     "id": "pe_j71yb95n",
+     "name": "Fekade Azeze",
+     "role": "author",
+     "romanized": "Fekade Azeze"
+    },
+    {
+     "id": "pe_bat9cghw",
+     "name": "Dereje W. Medihin",
+     "role": "author",
+     "romanized": "Dereje W. Medihin"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1985?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_q4spr732",
+   "id": "wk_q4spr732",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XVIII (NOVEMBER 1985)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1985
+  }
+ ]
+}

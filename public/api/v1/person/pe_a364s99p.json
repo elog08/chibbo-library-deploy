@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadlazayohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a364s99p",
+ "id": "pe_a364s99p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03791446",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03791446"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tedla ZeYohannes"
+  },
+  "romanized": "Tedla ZeYohannes",
+  "sort_key": "tedlazeyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03791446"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a364s99p",
+     "name": "Tedla ZeYohannes",
+     "role": "author",
+     "romanized": "Tedla ZeYohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_nz0m4nf7",
+   "id": "wk_nz0m4nf7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik Italia BeEthiopia (Kewelwel Eske Gonder Gnbot 1927-Hidar 1934 A.M)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ኢጣሊያ በኢትዮጵያ (ከወልወል እስከ ጎንደር ግንቦት 1927-ህዳር1934 ዓ.ም)"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

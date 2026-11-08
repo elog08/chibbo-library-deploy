@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "girimamogas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fsfbc4dn",
+ "id": "pe_fsfbc4dn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45378585",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45378585"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Girima Moges"
+  },
+  "romanized": "Girima Moges",
+  "sort_key": "girimamoges"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45378585"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fsfbc4dn",
+     "name": "Girima Moges",
+     "role": "author",
+     "romanized": "Girima Moges"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0nvrcxen",
+   "id": "wk_0nvrcxen",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Selamawi Tigil 101",
+    "script": "Ethi",
+    "text": "ሰላማዊ ትግል 101"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

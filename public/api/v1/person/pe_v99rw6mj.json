@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "birihanusamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v99rw6mj",
+ "id": "pe_v99rw6mj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08003142",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08003142"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Birihanu Semu"
+  },
+  "romanized": "Birihanu Semu",
+  "sort_key": "birihanusemu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08003142"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v99rw6mj",
+     "name": "Birihanu Semu",
+     "role": "author",
+     "romanized": "Birihanu Semu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_62zcd2jh",
+   "id": "wk_62zcd2jh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeE'ntoto Hamus Gebeya Esike Merikato",
+    "script": "Ethi",
+    "text": "ከእንጦጦ ሃሙስ ገበያ እስከ መርካቶ"
+   },
+   "type": "work"
+  }
+ ]
+}

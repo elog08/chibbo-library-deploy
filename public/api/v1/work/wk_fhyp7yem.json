@@ -18,9 +18,17 @@
   "text": "ሌላ እውነት የለኝም በተለያየ ጊዜ ቦታ እና ሁኔታ ውስጥ ሆኜ የፃፍኳቸው ግጥሞች ስብስብ ነው ግላዊ ስሜቶች እውነቶችና በህይወት መስመር ላይ ያስተዋልኋቸው ማህበራዊ ሁነቶች ከጫሩብኝ ሀሳቦች ተነስቼ የከተብኳቸው ናቸው ጥቂቶቹም በማህበራዊ ሚዲያ ወቅታዊ ጉዳይን ተንተርሰው የቀረቡ ቢሆኑም ጊዜን የሚሻገሩ ሆነው ስላገኘኋቸው በፅሁፍ እንዲነበቡ ስል አካትቻቸዋለሁ ትወዷቸዋላችሁ ሌላ ዕውነት የለኝም Lela Ewnet Yelegnem a book By Meron Ghetnet. Addis Books"
  },
  "editions": [
-  "ed_2ynzw1t7"
+  "ed_2ynzw1t7",
+  "ed_0x5d2zpk"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "ሌላእውነትየለኝም|marongatnat",
  "first_published": {
   "edtf": "2026-02-22",
@@ -35,6 +43,9 @@
  "identifiers": {
   "addisbooks_sku": [
    "4987"
+  ],
+  "mereb_mpid": [
+   "37030766"
   ]
  },
  "language": "am",
@@ -56,12 +67,33 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://addisbooks.com/book/lela-ewnet-yelegnem-by-meron-getnet/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37030766",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37030766"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "9.99",
+   "provider": "mereb",
+   "ref": "37030766",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37030766"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

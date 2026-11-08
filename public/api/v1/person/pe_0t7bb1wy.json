@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "profalbartosabaki",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0t7bb1wy",
+ "id": "pe_0t7bb1wy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "07046562",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=07046562"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Prof. Alberto Sebaki"
+  },
+  "romanized": "Prof. Alberto Sebaki",
+  "sort_key": "profalbertosebaki"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=07046562"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0t7bb1wy",
+     "name": "Prof. Alberto Sebaki",
+     "role": "author",
+     "romanized": "Prof. Alberto Sebaki"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hf1fte1t",
+   "id": "wk_hf1fte1t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia BeItalia Fashstoch Yewerera Ametat (1928-1933)",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ በኢጣሊያ ፋሽስቶች የወረራ ዓመታት (1928-1933)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "drmogas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3771av00",
+ "id": "pe_3771av00",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49062938",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49062938"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Moges"
+  },
+  "romanized": "Dr.Moges",
+  "sort_key": "drmoges"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49062938"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9kf4qjy4",
+     "name": "Dr.Moges Ayehu",
+     "role": "author",
+     "romanized": "Dr.Moges Ayehu"
+    },
+    {
+     "id": "pe_3771av00",
+     "name": "Dr.Moges",
+     "role": "author",
+     "romanized": "Dr.Moges"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nt205fkf",
+   "id": "wk_nt205fkf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Difris",
+    "script": "Ethi",
+    "text": "ድፍርስ"
+   },
+   "type": "work"
+  }
+ ]
+}

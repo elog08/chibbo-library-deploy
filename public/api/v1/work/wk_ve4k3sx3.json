@@ -1,0 +1,96 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_djjmrssh",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_db5hsdnw"
+ ],
+ "extensions": {},
+ "fingerprint": "መውስቦ|ababagirmay",
+ "first_published": {
+  "alternates": [
+   "2019-09-12/2020-09-10"
+  ],
+  "edtf": "2012?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2012"
+  }
+ },
+ "flags": [
+  "scope-unverified",
+  "calendar-ambiguous"
+ ],
+ "href": "https://chibbo.app/work/wk_ve4k3sx3",
+ "id": "wk_ve4k3sx3",
+ "identifiers": {
+  "mereb_mpid": [
+   "06867777"
+  ]
+ },
+ "language": "ti",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06867777",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06867777"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "4.98",
+   "provider": "mereb",
+   "ref": "06867777",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06867777"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "language-spelling-normalised: store printed 'Tigirigna'"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06867777"
+ },
+ "publisher_name": "Abeba Girmay",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Mewisbo",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "መውስቦ"
+  },
+  "romanized": "Mewisbo",
+  "sort_key": "መውስቦ"
+ },
+ "type": "work"
+}

@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "shambalabdisaga",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_mcdtf2zz",
+ "id": "pe_mcdtf2zz",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74549453",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74549453"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "shambel abdisa aga",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Shambel Abdisa aga",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሻምበል አብዲሣ አጋ"
+  },
+  "romanized": "shambel abdisa aga",
+  "sort_key": "ሻምበልአብዲሳአጋ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of በኢጣሊያ በረሀዎች.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=74549453"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_f9b37stn.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_f9b37stn.png"
+   },
+   "credits": [
+    {
+     "id": "pe_mcdtf2zz",
+     "name": "ሻምበል አብዲሣ አጋ",
+     "role": "author",
+     "romanized": "shambel abdisa aga"
+    }
+   ],
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_f9b37stn",
+   "id": "wk_f9b37stn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "bei.taliya berehawoch",
+    "script": "Ethi",
+    "text": "በኢ.ጣሊያ በረሃዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_mcdtf2zz",
+     "name": "ሻምበል አብዲሣ አጋ",
+     "role": "author",
+     "romanized": "shambel abdisa aga"
+    }
+   ],
+   "flags": [
+    "language-unrecognised",
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_p17vfg0h",
+   "id": "wk_p17vfg0h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeE'taliya Berhawoch (Shambel abdisa Aga Be'arbegnet Jebdu Yesera Ethiopiyawi Tarik)",
+    "script": "Ethi",
+    "text": "በኢጣሊያ በረሃዎች (ሻምበል አብዲሳ አጋ በአርበኝነት ጀብዱ የሰራ ኢትዮጵያዊ ታሪክ)"
+   },
+   "type": "work"
+  }
+ ]
+}

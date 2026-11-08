@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "atalamashata",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vg92r7hm",
+ "id": "pe_vg92r7hm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "88342781",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=88342781"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Etalem Eshete"
+  },
+  "romanized": "Etalem Eshete",
+  "sort_key": "etalemeshete"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=88342781"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vg92r7hm",
+     "name": "Etalem Eshete",
+     "role": "author",
+     "romanized": "Etalem Eshete"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_pzs9xws1",
+   "id": "wk_pzs9xws1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hilmegnawa Enat",
+    "script": "Ethi",
+    "text": "ህልመኛዋ እናት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

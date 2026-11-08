@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bfftad7h",
+ "@type": "Book",
+ "alternateName": [
+  "Gotim Simon"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p989e9wz",
+   "@type": "Person",
+   "name": "Yayesew Shimelis"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994495306",
+ "name": "ጎቲም ሲሞን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=69189978"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=69189978"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8hp8wpbv",
+   "@type": "Book"
+  }
+ ]
+}

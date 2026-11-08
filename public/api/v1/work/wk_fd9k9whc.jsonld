@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/ruchana-enkilf-mekonnnen-areda"
+  },
+  {
+   "@type": "Offer",
+   "price": "8.15",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=83388529"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/ruchana-enkilf-mekonnnen-areda"
+  "https://www.ethiobookreview.com/book/ruchana-enkilf-mekonnnen-areda",
+  "https://www.mereb.shop/rs/?mpid=83388529"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_g8kqf5hk",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_12fx4xq2",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "shaikalitantawi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_580c2z63",
+ "id": "pe_580c2z63",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72480746",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72480746"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sheik Ali Tentawi"
+  },
+  "romanized": "Sheik Ali Tentawi",
+  "sort_key": "sheikalitentawi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72480746"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_580c2z63",
+     "name": "Sheik Ali Tentawi",
+     "role": "author",
+     "romanized": "Sheik Ali Tentawi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_59b0tmmz",
+   "id": "wk_59b0tmmz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yih New Islam",
+    "script": "Ethi",
+    "text": "ይህ ነው ኢስላም"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

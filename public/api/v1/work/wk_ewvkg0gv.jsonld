@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ewvkg0gv",
+ "@type": "Book",
+ "alternateName": [
+  "Oriyares"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_th0d8t9w",
+   "@type": "Person",
+   "name": "Memihir Samuel Solomon"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኦርያሬስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07896278"
+  },
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=40191456"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07896278",
+  "https://www.mereb.shop/rs/?mpid=40191456"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wmtc5v8d",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_jsj5fwfs",
+   "@type": "Book"
+  }
+ ]
+}

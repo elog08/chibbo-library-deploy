@@ -48,11 +48,26 @@
     "name": "hahubooks"
    },
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_139"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.90",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=66546366"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Adam Retta"
+ },
  "sameAs": [
   "https://hahubooks.com/single-product.php?jbook_code=jb_139",
-  "https://www.ethiobookreview.com/book/himamatna-begena-adam-reta"
+  "https://www.ethiobookreview.com/book/himamatna-begena-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=66546366"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -62,6 +77,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_sg16p07e",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_sx6cgk6k",
    "@type": "Book"
   }
  ]

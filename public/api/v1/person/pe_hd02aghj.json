@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "thalatapopashinodai",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_hd02aghj",
+ "id": "pe_hd02aghj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18280434",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18280434"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93288822",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93288822"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "The Late Pope Shinoda III"
+  },
+  "romanized": "The Late Pope Shinoda III",
+  "sort_key": "thelatepopeshinodaiii"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18280434"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hd02aghj",
+     "name": "The Late Pope Shinoda III",
+     "role": "author",
+     "romanized": "The Late Pope Shinoda III"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_31wd7q7d",
+   "id": "wk_31wd7q7d",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hitsanatn Endet Enikirebachew",
+    "script": "Ethi",
+    "text": "ሕፃናትን እንዴት እንቅረባቸው?"
+   },
+   "type": "work",
+   "year": 2013
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_hd02aghj",
+     "name": "The Late Pope Shinoda III",
+     "role": "author",
+     "romanized": "The Late Pope Shinoda III"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_en4xwkej",
+   "id": "wk_en4xwkej",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ewnetin Filega (Andegna, Huletegna,Tostegna Metsihaf)",
+    "script": "Ethi",
+    "text": "እውነትን ፍለጋ (አንደኛ ሁለተኛ ሶስተኛ መጽሐፍ)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

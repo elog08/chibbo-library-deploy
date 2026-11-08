@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_qamaa9av",
+ "@type": "Book",
+ "alternateName": [
+  "Tamira Tor"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_r9cgyar1",
+   "@type": "Person",
+   "name": "ገበየሁ አየለ"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_w2zsj9wc",
+   "@type": "Person",
+   "name": "ጥበበ ተረፋ"
+  }
+ ],
+ "image": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_rgnr7v7m.png",
+ "inLanguage": "am",
+ "name": "ጣምራ ጦር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.96",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=03392313"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Second Edition 2013"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=03392313"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_nrthhrdh",
+   "@type": "Book"
+  }
+ ]
+}

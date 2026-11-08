@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "takhlawaynihadigu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k2q7pz1f",
+ "id": "pe_k2q7pz1f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "83018108",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=83018108"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tekhleweyni Hadigu"
+  },
+  "romanized": "Tekhleweyni Hadigu",
+  "sort_key": "tekhleweynihadigu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=83018108"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_k2q7pz1f",
+     "name": "Tekhleweyni Hadigu",
+     "role": "author",
+     "romanized": "Tekhleweyni Hadigu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a5qv1rea",
+   "id": "wk_a5qv1rea",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kalisin Fikirn",
+    "script": "Ethi",
+    "text": "ቃልሲን ፍቅሪን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

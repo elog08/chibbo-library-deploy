@@ -42,6 +42,38 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/dr-eyob-mamo"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33187143",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33187143"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "36693213",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=36693213"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91119428",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91119428"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94224266",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94224266"
   }
  ],
  "locked_fields": [],
@@ -71,5 +103,101 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_rskj9d91",
+     "name": "Dr. Eyob Mamo",
+     "role": "author",
+     "romanized": "Dr. Eyob Mamo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_0t7793zp",
+   "id": "wk_0t7793zp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "25 YeSiket Kulifoch",
+    "script": "Ethi",
+    "text": "25 የስኬት ቁልፎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rskj9d91",
+     "name": "Dr. Eyob Mamo",
+     "role": "author",
+     "romanized": "Dr. Eyob Mamo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_1z9zawfn",
+   "id": "wk_1z9zawfn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHywet Tsetsetoch",
+    "script": "Ethi",
+    "text": "የህይወት ጸጸቶች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rskj9d91",
+     "name": "Dr. Eyob Mamo",
+     "role": "author",
+     "romanized": "Dr. Eyob Mamo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_82k7dpb1",
+   "id": "wk_82k7dpb1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hulentenawi Bilitsigina",
+    "script": "Ethi",
+    "text": "ሁለንተናዊ ብልጽግና"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_rskj9d91",
+     "name": "Dr. Eyob Mamo",
+     "role": "author",
+     "romanized": "Dr. Eyob Mamo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qe12dq6a",
+   "id": "wk_qe12dq6a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeManinetih Melekia",
+    "script": "Ethi",
+    "text": "የማንነትህ መለኪያ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
 }

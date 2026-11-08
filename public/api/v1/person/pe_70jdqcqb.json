@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "aphramandala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_70jdqcqb",
+ "id": "pe_70jdqcqb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12146476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12146476"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75634380",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75634380"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ephrem Endale"
+  },
+  "romanized": "Ephrem Endale",
+  "sort_key": "ephremendale"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12146476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_70jdqcqb",
+     "name": "Ephrem Endale",
+     "role": "author",
+     "romanized": "Ephrem Endale"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3ey93zrz",
+   "id": "wk_3ey93zrz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye-Zemen duka",
+    "script": "Latn",
+    "text": "Ye-Zemen duka"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_70jdqcqb",
+     "name": "Ephrem Endale",
+     "role": "author",
+     "romanized": "Ephrem Endale"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_artjchg6",
+   "id": "wk_artjchg6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Enechewawete",
+    "script": "Ethi",
+    "text": "እንጨዋወት"
+   },
+   "type": "work"
+  }
+ ]
+}

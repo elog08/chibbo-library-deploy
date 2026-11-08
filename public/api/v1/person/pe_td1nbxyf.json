@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abunatnasitousaskindir",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_td1nbxyf",
+ "id": "pe_td1nbxyf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09691963",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09691963"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abune Atnasitous Eskindir"
+  },
+  "romanized": "Abune Atnasitous Eskindir",
+  "sort_key": "abuneatnasitouseskindir"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09691963"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_td1nbxyf",
+     "name": "Abune Atnasitous Eskindir",
+     "role": "author",
+     "romanized": "Abune Atnasitous Eskindir"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g5pf5djv",
+   "id": "wk_g5pf5djv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tegbarawi Chiristina",
+    "script": "Ethi",
+    "text": "ተግባራዊ ክርስትና"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

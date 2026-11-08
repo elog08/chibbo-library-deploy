@@ -1,0 +1,48 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_yk2c3maf",
+ "@type": "Book",
+ "alternateName": [
+  "The Ungrateful Snake (An Ethiopian Folk Story)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_67fnfzg0",
+   "@type": "Person",
+   "name": "Piers Elrington"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_1zrew2wk",
+   "@type": "Person",
+   "name": "Selam Nigussie"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ምስጋና ቢሱ እባብ (የኢትዮጵያ ሕዝብ ተረት)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.10",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=29496543"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Piers Elrington"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=29496543"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_krfjm4zb",
+   "@type": "Book"
+  }
+ ]
+}

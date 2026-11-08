@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1ysnwxnt",
+ "@type": "Book",
+ "alternateName": [
+  "YeMeles Likakit"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jqpm5d38",
+   "@type": "Person",
+   "name": "Ermias Legesse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የመለስ ልቃቂት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50201142"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Netsanet Publishing Agency"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50201142"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_72ma7whp",
+   "@type": "Book"
+  }
+ ]
+}

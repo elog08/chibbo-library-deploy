@@ -39,15 +39,34 @@
     "name": "afroread_book"
    },
    "url": "https://afroreadapp.com/Store/Bookdetail/d3189568-f870-4280-a728-471239537807"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.81",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50410842"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Endalegeta Kebede (July 2012 (Third Edition))"
+ },
  "sameAs": [
-  "https://afroreadapp.com/Store/Bookdetail/d3189568-f870-4280-a728-471239537807"
+  "https://afroreadapp.com/Store/Bookdetail/d3189568-f870-4280-a728-471239537807",
+  "https://www.mereb.shop/rs/?mpid=50410842"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_yeyan0pt",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_18y3vs8y",
    "@type": "Book"
   }
  ]

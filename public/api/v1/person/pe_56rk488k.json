@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "roaldahl",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_56rk488k",
+ "id": "pe_56rk488k",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27356453",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27356453"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Roald Dahl"
+  },
+  "romanized": "Roald Dahl",
+  "sort_key": "roalddahl"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27356453"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_56rk488k",
+     "name": "Roald Dahl",
+     "role": "author",
+     "romanized": "Roald Dahl"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_cyvh8rtv",
+   "id": "wk_cyvh8rtv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Charlie and the Chocolate Factory",
+    "script": "Ethi",
+    "text": "ቻርሊና የቾኮሌት ፋብሪካው"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

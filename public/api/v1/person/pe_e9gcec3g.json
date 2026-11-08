@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "arkyihunbalaynah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e9gcec3g",
+ "id": "pe_e9gcec3g",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "79549161",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=79549161"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Erkyihun Belayneh"
+  },
+  "romanized": "Erkyihun Belayneh",
+  "sort_key": "erkyihunbelayneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=79549161"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e9gcec3g",
+     "name": "Erkyihun Belayneh",
+     "role": "author",
+     "romanized": "Erkyihun Belayneh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dbk9fs32",
+   "id": "wk_dbk9fs32",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amistu Yemekera Zemenat Vol 1",
+    "script": "Ethi",
+    "text": "አምስቱ የመከራ ዘመናት ቅጽ.1"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

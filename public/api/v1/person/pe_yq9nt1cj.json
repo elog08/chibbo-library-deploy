@@ -21,6 +21,38 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/alex-abreham"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48008103",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48008103"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63237101",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63237101"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "63412321",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=63412321"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86569870",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86569870"
   }
  ],
  "locked_fields": [],
@@ -44,5 +76,112 @@
  "schema_version": "1.0.0",
  "status": "draft",
  "type": "person",
- "works": []
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yq9nt1cj",
+     "name": "Alex Abreham",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_776jhnn7",
+   "id": "wk_776jhnn7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zubeyda",
+    "script": "Ethi",
+    "text": "ዙበይዳ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yq9nt1cj",
+     "name": "Alex Abreham",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_h2g724g9",
+   "id": "wk_h2g724g9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aniferisim Anitadesim",
+    "script": "Ethi",
+    "text": "አንፈርስም አንታደስም"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yq9nt1cj",
+     "name": "Alex Abreham",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_s2pptmrz",
+   "id": "wk_s2pptmrz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Keletat Gimash Ken",
+    "script": "Ethi",
+    "text": "ከዕለታት ግማሽ ቀን"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yq9nt1cj",
+     "name": "Alex Abreham",
+     "role": "author",
+     "romanized": "Alex Abreham"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vz4t9pwp",
+   "id": "wk_vz4t9pwp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Doctor Ashebir Ena Lelochim",
+    "script": "Ethi",
+    "text": "ዶክተር አሸብር እና ሌሎችም"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
 }

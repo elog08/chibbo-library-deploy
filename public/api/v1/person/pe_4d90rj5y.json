@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirhiruybaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4d90rj5y",
+ "id": "pe_4d90rj5y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64793194",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64793194"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84437058",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84437058"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Hiruy Baye"
+  },
+  "romanized": "Memihir Hiruy Baye",
+  "sort_key": "memihirhiruybaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64793194"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4d90rj5y",
+     "name": "Memihir Hiruy Baye",
+     "role": "author",
+     "romanized": "Memihir Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3409ckac",
+   "id": "wk_3409ckac",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tsadiku Yosef",
+    "script": "Ethi",
+    "text": "ጻድቁ ዮሴፍ"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_4d90rj5y",
+     "name": "Memihir Hiruy Baye",
+     "role": "author",
+     "romanized": "Memihir Hiruy Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m5gj67wd",
+   "id": "wk_m5gj67wd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mezmuregnaw Dawit",
+    "script": "Ethi",
+    "text": "መዝሙረኛው ዳዊት"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

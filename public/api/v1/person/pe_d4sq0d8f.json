@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "alakataya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_d4sq0d8f",
+ "id": "pe_d4sq0d8f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55007562",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55007562"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84090412",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84090412"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aleka Taye"
+  },
+  "romanized": "Aleka Taye",
+  "sort_key": "alekataye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=55007562"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_d4sq0d8f",
+     "name": "Aleka Taye",
+     "role": "author",
+     "romanized": "Aleka Taye"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_0de2yptd",
+   "id": "wk_0de2yptd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Sewasew",
+    "script": "Ethi",
+    "text": "መጽሐፈ ሰዋስው"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_d4sq0d8f",
+     "name": "Aleka Taye",
+     "role": "author",
+     "romanized": "Aleka Taye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_61h3bzcj",
+   "id": "wk_61h3bzcj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Hizib Tarik",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ሕዝብ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

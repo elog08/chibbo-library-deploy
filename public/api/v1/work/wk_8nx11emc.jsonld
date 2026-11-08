@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8nx11emc",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_c9bhf6zp",
+   "@type": "Person",
+   "name": "Gesete Techane"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Yeregefu Keteloch",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.98",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=72556847"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=72556847"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_e7fax7mn",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "chafkasusaboka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_43netnte",
+ "id": "pe_43netnte",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11115299",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11115299"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "42983394",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=42983394"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Chef Kassu Seboka"
+  },
+  "romanized": "Chef Kassu Seboka",
+  "sort_key": "chefkassuseboka"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11115299"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_43netnte",
+     "name": "Chef Kassu Seboka",
+     "role": "author",
+     "romanized": "Chef Kassu Seboka"
+    },
+    {
+     "id": "pe_x92pe2kr",
+     "name": "Chef Yonas Taffara",
+     "role": "author",
+     "romanized": "Chef Yonas Taffara"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pzja55n7",
+   "id": "wk_pzja55n7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia YeBahil Migibina Metet Azegejajet",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የባህል ምግብና መጠጥ አዘገጃጀት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_x92pe2kr",
+     "name": "Chef Yonas Taffara",
+     "role": "author",
+     "romanized": "Chef Yonas Taffara"
+    },
+    {
+     "id": "pe_43netnte",
+     "name": "Chef Kassu Seboka",
+     "role": "author",
+     "romanized": "Chef Kassu Seboka"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_yk6ksfdv",
+   "id": "wk_yk6ksfdv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Barkot Yebahile megibena metete azegejajete",
+    "script": "Latn",
+    "text": "Barkot Yebahile megibena metete azegejajete"
+   },
+   "type": "work"
+  }
+ ]
+}

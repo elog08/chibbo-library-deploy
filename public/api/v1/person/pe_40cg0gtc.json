@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "hailasilasadasta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_40cg0gtc",
+ "id": "pe_40cg0gtc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75845314",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75845314"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93325509",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93325509"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hailesilase Desta"
+  },
+  "romanized": "Hailesilase Desta",
+  "sort_key": "hailesilasedesta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=75845314"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_40cg0gtc",
+     "name": "Hailesilase Desta",
+     "role": "author",
+     "romanized": "Hailesilase Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hsrxwpme",
+   "id": "wk_hsrxwpme",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeKassa Tizitawoch",
+    "script": "Ethi",
+    "text": "የካሣ ት ዝታዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_40cg0gtc",
+     "name": "Hailesilase Desta",
+     "role": "author",
+     "romanized": "Hailesilase Desta"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n288v5e7",
+   "id": "wk_n288v5e7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Begenet Wist Yale Si'ol",
+    "script": "Ethi",
+    "text": "በገነት ውስጥ ያለ ሲኦል"
+   },
+   "type": "work"
+  }
+ ]
+}

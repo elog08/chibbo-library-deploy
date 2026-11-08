@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "danialworku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9pv5jsr3",
+ "id": "pe_9pv5jsr3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01520808",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01520808"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37044388",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37044388"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51280959",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51280959"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Worku"
+  },
+  "romanized": "Daniel Worku",
+  "sort_key": "danielworku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01520808"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9pv5jsr3",
+     "name": "Daniel Worku",
+     "role": "author",
+     "romanized": "Daniel Worku"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dhxkshb9",
+   "id": "wk_dhxkshb9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kukushaâ€™s Moon (Yekkukusha Chereka)",
+    "script": "Ethi",
+    "text": "የኩኩሻ ጨረቃ"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9pv5jsr3",
+     "name": "Daniel Worku",
+     "role": "author",
+     "romanized": "Daniel Worku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_qefk5atp",
+   "id": "wk_qefk5atp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asidenaki Ethiopiatawiyan Felasifawoch",
+    "script": "Ethi",
+    "text": "አስደናቂ ኢትዮጵያውያን ፈላስፋዎች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9pv5jsr3",
+     "name": "Daniel Worku",
+     "role": "author",
+     "romanized": "Daniel Worku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_wd1sqvn9",
+   "id": "wk_wd1sqvn9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tewodros",
+    "script": "Ethi",
+    "text": "ቴዎድሮስ"
+   },
+   "type": "work"
+  }
+ ]
+}

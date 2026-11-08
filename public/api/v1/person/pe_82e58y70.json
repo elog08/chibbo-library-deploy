@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "akliluhabtawold",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_82e58y70",
+ "id": "pe_82e58y70",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54008110",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54008110"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aklilu Habtewold"
+  },
+  "romanized": "Aklilu Habtewold",
+  "sort_key": "akliluhabtewold"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54008110"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_82e58y70",
+     "name": "Aklilu Habtewold",
+     "role": "author",
+     "romanized": "Aklilu Habtewold"
+    }
+   ],
+   "flags": [
+    "suspect-isbn"
+   ],
+   "href": "https://chibbo.app/work/wk_af7pc0nb",
+   "id": "wk_af7pc0nb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aklilu Remembers",
+    "script": "Ethi",
+    "text": "የአክሊሉ ማስታወሻ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "kasaraqda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t24f1he2",
+ "id": "pe_t24f1he2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "ke sereq da",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ከ ሠርቅ ዳ"
+  },
+  "romanized": "ke sereq da",
+  "sort_key": "ከሰርቅዳ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_c57exc8j.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ትግላችን፡_የኢትዮጵያ_ሕዝብ_አብዮታዊ_የትግል_ታሪክ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_t24f1he2",
+     "name": "ከ ሠርቅ ዳ",
+     "role": "author",
+     "romanized": "ke sereq da"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_c57exc8j",
+   "id": "wk_c57exc8j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "qonjowochu",
+    "script": "Ethi",
+    "text": "ቆንጆዎቹ"
+   },
+   "type": "work"
+  }
+ ]
+}

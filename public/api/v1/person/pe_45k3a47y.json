@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "darajagabria",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_45k3a47y",
+ "id": "pe_45k3a47y",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40038451",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40038451"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dereje Gebrie"
+  },
+  "romanized": "Dereje Gebrie",
+  "sort_key": "derejegebrie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40038451"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_45k3a47y",
+     "name": "Dereje Gebrie",
+     "role": "author",
+     "romanized": "Dereje Gebrie"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fgsknpsp",
+   "id": "wk_fgsknpsp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tegbarawi YeTsehifet Memaria",
+    "script": "Ethi",
+    "text": "ተግባራዊ የጽህፈት መማሪያ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

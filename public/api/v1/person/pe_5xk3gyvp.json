@@ -1,0 +1,143 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirbizunahshibashi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_5xk3gyvp",
+ "id": "pe_5xk3gyvp",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16936149",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16936149"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "85448012",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=85448012"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95535182",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95535182"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Bizuneh Shibeshi"
+  },
+  "romanized": "Memihir Bizuneh Shibeshi",
+  "sort_key": "memihirbizunehshibeshi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16936149"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tjr0jvt4",
+     "name": "Deacon Demisse Teferra",
+     "role": "author",
+     "romanized": "Deacon Demisse Teferra"
+    },
+    {
+     "id": "pe_5xk3gyvp",
+     "name": "Memihir Bizuneh Shibeshi",
+     "role": "author",
+     "romanized": "Memihir Bizuneh Shibeshi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fb8w1kd9",
+   "id": "wk_fb8w1kd9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Higigate Wengel",
+    "script": "Ethi",
+    "text": "ሕግጋተ ወንጌል"
+   },
+   "type": "work",
+   "year": 2018
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_5xk3gyvp",
+     "name": "Memihir Bizuneh Shibeshi",
+     "role": "author",
+     "romanized": "Memihir Bizuneh Shibeshi"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_j8rezwts",
+   "id": "wk_j8rezwts",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kalate Wengel (YeKidus Matewos Wongel Me'raf 25 Hatetana Mabrariya)",
+    "script": "Ethi",
+    "text": "ቃላተ ወንጌል (የቅዱስ ማቴዎስ ወንጌል ምዕራፍ 25 ሐተታና ማብራሪያ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_5xk3gyvp",
+     "name": "Memihir Bizuneh Shibeshi",
+     "role": "author",
+     "romanized": "Memihir Bizuneh Shibeshi"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2019",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_qwv8n6k8",
+   "id": "wk_qwv8n6k8",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Timihirte Nebiyat (Kifil 1)",
+    "script": "Ethi",
+    "text": "ትምህርተ ነቢያት (ክፍል ፩)"
+   },
+   "type": "work",
+   "year": 2019
+  }
+ ]
+}

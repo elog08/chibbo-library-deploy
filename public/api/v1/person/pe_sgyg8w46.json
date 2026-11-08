@@ -1,0 +1,76 @@
+{
+ "extensions": {},
+ "fingerprint": "taklatsadaqmakwiriya",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_sgyg8w46",
+ "id": "pe_sgyg8w46",
+ "identifiers": {},
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tekle tsadeq mekwiriya",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተክለ ጻድቅ መኲሪያ"
+  },
+  "romanized": "tekle tsadeq mekwiriya",
+  "sort_key": "ተክለጻድቅመኪሪያ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of library6ed5-2.pdf"
+ ],
+ "provenance": {
+  "raw_sha256": "51218cd5f550b9750048d455eb9ec5d5a12ed6a692466d2eed4445e901d76335",
+  "retrieved": "2026-08-28",
+  "source": "local-pdf"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sgyg8w46",
+     "name": "ተክለ ጻድቅ መኲሪያ",
+     "role": "author",
+     "romanized": "tekle tsadeq mekwiriya"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "1972-09-11/1973-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "form": "፩ኛ መጽሐፍ",
+   "href": "https://chibbo.app/work/wk_v90t4f57",
+   "id": "wk_v90t4f57",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yeityopya tarik nubya (napata - merwe)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ኑብያ (ናፓታ - መርዌ)"
+   },
+   "type": "work",
+   "year": 1972
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "jackaphilips",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8zdrnt5w",
+ "id": "pe_8zdrnt5w",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95008110",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95008110"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jacke Phillips"
+  },
+  "romanized": "Jacke Phillips",
+  "sort_key": "jackephillips"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=95008110"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8x83xqgd",
+     "name": "R.Schneider",
+     "role": "author",
+     "romanized": "R.Schneider"
+    },
+    {
+     "id": "pe_8zdrnt5w",
+     "name": "Jacke Phillips",
+     "role": "author",
+     "romanized": "Jacke Phillips"
+    },
+    {
+     "id": "pe_nc6b57pd",
+     "name": "David W.Phillipson",
+     "role": "author",
+     "romanized": "David W.Phillipson"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1bny76cn",
+   "id": "wk_1bny76cn",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XXXI No.2 (December 1998)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

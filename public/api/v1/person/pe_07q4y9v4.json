@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "mahlatadis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07q4y9v4",
+ "id": "pe_07q4y9v4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "61380405",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=61380405"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mahlet Addis"
+  },
+  "romanized": "Mahlet Addis",
+  "sort_key": "mahletaddis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=61380405"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07q4y9v4",
+     "name": "Mahlet Addis",
+     "role": "author",
+     "romanized": "Mahlet Addis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d9t4n7kj",
+   "id": "wk_d9t4n7kj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wisbet",
+    "script": "Ethi",
+    "text": "ውስበት"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

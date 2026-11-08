@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ny3jtm6m",
+ "@type": "Book",
+ "alternateName": [
+  "YeAdwa Dil"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vkdes803",
+   "@type": "Person",
+   "name": "Ministry of Information"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የአድዋ ድል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=50479000"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Ministry of Information (February 30 1977)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=50479000"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_7at4w9zs",
+   "@type": "Book"
+  }
+ ]
+}

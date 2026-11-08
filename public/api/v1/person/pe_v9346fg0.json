@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "armiyasyoum",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v9346fg0",
+ "id": "pe_v9346fg0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59448848",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59448848"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ermiyas Syoum"
+  },
+  "romanized": "Ermiyas Syoum",
+  "sort_key": "ermiyassyoum"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59448848"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v9346fg0",
+     "name": "Ermiyas Syoum",
+     "role": "author",
+     "romanized": "Ermiyas Syoum"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_04vnzf60",
+   "id": "wk_04vnzf60",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Se'at E'lafi (E'wnetegna Yesetegna Addariwoch Tarik)",
+    "script": "Ethi",
+    "text": "ሰዓት እላፊ (እውነተኛ የሴተኛ አዳሪዎች ታሪክ)"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "paulomarasini",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_2dptdpn6",
+ "id": "pe_2dptdpn6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "20016445",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=20016445"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Paulo Marrassini"
+  },
+  "romanized": "Paulo Marrassini",
+  "sort_key": "paulomarrassini"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=20016445"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_2dptdpn6",
+     "name": "Paulo Marrassini",
+     "role": "author",
+     "romanized": "Paulo Marrassini"
+    },
+    {
+     "id": "pe_816g6pvc",
+     "name": "Claire Bosc-Tiesse",
+     "role": "author",
+     "romanized": "Claire Bosc-Tiesse"
+    },
+    {
+     "id": "pe_fhvgqs88",
+     "name": "Baye Yimam",
+     "role": "author",
+     "romanized": "Baye Yimam"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_561ra3bz",
+   "id": "wk_561ra3bz",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLII, Nos.1-2 (June-December 2009)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work"
+  }
+ ]
+}

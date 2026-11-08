@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cppgymvb",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Saint Simon - The shoe maintainer",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "1.53",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=96033604"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=96033604"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_y6bccqdn",
+   "@type": "Book"
+  }
+ ]
+}

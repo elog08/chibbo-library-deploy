@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_734f3rdy",
+ "@type": "Book",
+ "alternateName": [
+  "YeCIA Gemena"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5artdaef",
+   "@type": "Person",
+   "name": "Tim Weiner"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የሲ አይ ኤ ገመና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=79328419"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=79328419"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_p6s6vvfr",
+   "@type": "Book"
+  }
+ ]
+}

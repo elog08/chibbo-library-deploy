@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_emde1yqr",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_k99p662k",
+   "@type": "Person",
+   "name": "Asrat G/mariam"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Christian Ethics",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.62",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=89592229"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=89592229"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hcq6sj8q",
+   "@type": "Book"
+  }
+ ]
+}

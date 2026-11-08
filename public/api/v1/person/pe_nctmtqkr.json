@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "colonalkalakiristosabay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nctmtqkr",
+ "id": "pe_nctmtqkr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57768682",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57768682"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Colonel Kalekiristos Abay"
+  },
+  "romanized": "Colonel Kalekiristos Abay",
+  "sort_key": "colonelkalekiristosabay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57768682"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nctmtqkr",
+     "name": "Colonel Kalekiristos Abay",
+     "role": "author",
+     "romanized": "Colonel Kalekiristos Abay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2005?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g3s6rvx5",
+   "id": "wk_g3s6rvx5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye1953tu YeMengist Gilbeta Mukerana ke1908-1966 A/m YeEthiopia Tarikawina Poletikawi Hidet",
+    "script": "Ethi",
+    "text": "የ1953ቱ የመንግስት ግልበጣ ሙከራና ከ1908-1966ዓ/ም የኢትዮጵና ታሪካዊና ፖለቲካዊ ሂደት"
+   },
+   "type": "work",
+   "year": 2005
+  }
+ ]
+}

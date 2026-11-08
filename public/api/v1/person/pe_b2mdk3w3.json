@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "katsalakasaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_b2mdk3w3",
+ "id": "pe_b2mdk3w3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26533071",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26533071"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ketsela Kassaye"
+  },
+  "romanized": "Ketsela Kassaye",
+  "sort_key": "ketselakassaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26533071"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_b2mdk3w3",
+     "name": "Ketsela Kassaye",
+     "role": "author",
+     "romanized": "Ketsela Kassaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hvgh2t0w",
+   "id": "wk_hvgh2t0w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aytu",
+    "script": "Ethi",
+    "text": "አይጡ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

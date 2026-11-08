@@ -1,0 +1,108 @@
+{
+ "extensions": {},
+ "fingerprint": "hailayasusmarsha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f6cpx6me",
+ "id": "pe_f6cpx6me",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25774282",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25774282"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64352532",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64352532"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Haileyesus Mersha"
+  },
+  "romanized": "Haileyesus Mersha",
+  "sort_key": "haileyesusmersha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25774282"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f6cpx6me",
+     "name": "Haileyesus Mersha",
+     "role": "author",
+     "romanized": "Haileyesus Mersha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ev7k0qr2",
+   "id": "wk_ev7k0qr2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tekile Haymanot",
+    "script": "Ethi",
+    "text": "ተክለ ሃይማኖት"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_f6cpx6me",
+     "name": "Haileyesus Mersha",
+     "role": "author",
+     "romanized": "Haileyesus Mersha"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2020",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_hgh7ev9f",
+   "id": "wk_hgh7ev9f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Li'ltua Kidist Hilaria",
+    "script": "Ethi",
+    "text": "ልዕልቱኣ ቅድስት ሒላርያ"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

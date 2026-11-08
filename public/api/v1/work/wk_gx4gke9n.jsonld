@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_gx4gke9n",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopia (YeAbyotu Masitawesha Ena Yameletat Edil)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xfykf9d6",
+   "@type": "Person",
+   "name": "Miki Karatenson"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_s3n3fv84",
+   "@type": "Person",
+   "name": "Blair Tomson"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ኢትዮጵያ (የአብዮቱ ማስታወሻ እና ያመለጣት ዕድል)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=44885670"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=44885670"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_f1df2nkw",
+   "@type": "Book"
+  }
+ ]
+}

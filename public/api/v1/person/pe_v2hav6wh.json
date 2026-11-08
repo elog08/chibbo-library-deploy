@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfagabrasilasazabiharabulga",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v2hav6wh",
+ "id": "pe_v2hav6wh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62278723",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62278723"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tesfa Gebre Silase ZeBihere Bulga"
+  },
+  "romanized": "Tesfa Gebre Silase ZeBihere Bulga",
+  "sort_key": "tesfagebresilasezebiherebulga"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62278723"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v2hav6wh",
+     "name": "Tesfa Gebre Silase ZeBihere Bulga",
+     "role": "author",
+     "romanized": "Tesfa Gebre Silase ZeBihere Bulga"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1995?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_q8y9vxv5",
+   "id": "wk_q8y9vxv5",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metshafe Digua ZeDerese Kidus Yared Ethiopiyawi",
+    "script": "Ethi",
+    "text": "መጽሐፈ ድጓ ዘደረሰ ቅዱስ ያረድ ኢትዮጵያዊ"
+   },
+   "type": "work",
+   "year": 1995
+  }
+ ]
+}

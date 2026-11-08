@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "darajagabra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e7zrs71b",
+ "id": "pe_e7zrs71b",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "32426500",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=32426500"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "39242204",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=39242204"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "DEreje Gebre"
+  },
+  "romanized": "DEreje Gebre",
+  "sort_key": "derejegebre"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=32426500"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e7zrs71b",
+     "name": "DEreje Gebre",
+     "role": "author",
+     "romanized": "DEreje Gebre"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_csgzf75y",
+   "id": "wk_csgzf75y",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Merahe nibab (YeManibeb Kihil Mabletsegiya",
+    "script": "Ethi",
+    "text": "መራሔ ንባብ (የማንበብ ክሂል ማበልጸጊያ)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_e7zrs71b",
+     "name": "DEreje Gebre",
+     "role": "author",
+     "romanized": "DEreje Gebre"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ekk4300j",
+   "id": "wk_ekk4300j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Teyim Enku",
+    "script": "Ethi",
+    "text": "ጠይም ዕንቁ"
+   },
+   "type": "work"
+  }
+ ]
+}

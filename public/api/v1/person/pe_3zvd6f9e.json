@@ -1,0 +1,148 @@
+{
+ "extensions": {},
+ "fingerprint": "hasatfisaha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3zvd6f9e",
+ "id": "pe_3zvd6f9e",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24689691",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24689691"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27982090",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27982090"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "37900250",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=37900250"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hasset Fisseha"
+  },
+  "romanized": "Hasset Fisseha",
+  "sort_key": "hassetfisseha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24689691"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3zvd6f9e",
+     "name": "Hasset Fisseha",
+     "role": "author",
+     "romanized": "Hasset Fisseha"
+    }
+   ],
+   "flags": [
+    "language-unrecognised",
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_ajk3qam3",
+   "id": "wk_ajk3qam3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Maebel Frki Leyti",
+    "script": "Ethi",
+    "text": "ማዕበል ፍርቂ ለይቲ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3zvd6f9e",
+     "name": "Hasset Fisseha",
+     "role": "author",
+     "romanized": "Hasset Fisseha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g4vvf5p5",
+   "id": "wk_g4vvf5p5",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kiya TeGadilo (Tarik Qalsi Hiwehatin Hizbi tigirayin 1967-1993)",
+    "script": "Ethi",
+    "text": "ቅያ ተጋድሎ (ታሪኽ ቃልሲ ህወሓትን ህዝቢ ትግራይን 1967-1993)"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3zvd6f9e",
+     "name": "Hasset Fisseha",
+     "role": "author",
+     "romanized": "Hasset Fisseha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hxy5xytj",
+   "id": "wk_hxy5xytj",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Temisalet",
+    "script": "Ethi",
+    "text": "ተምሳሌት"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

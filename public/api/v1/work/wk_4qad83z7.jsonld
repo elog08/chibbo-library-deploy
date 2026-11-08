@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_4qad83z7",
+ "@type": "Book",
+ "alternateName": [
+  "Ae'mron Mawek"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_p615de44",
+   "@type": "Person",
+   "name": "Dean Alban"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_ae5cy21y",
+   "@type": "Person",
+   "name": "Dr.Patric Alban"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አእምሮን ማወቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=98710787"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=98710787"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_8rvpnbpd",
+   "@type": "Book"
+  }
+ ]
+}

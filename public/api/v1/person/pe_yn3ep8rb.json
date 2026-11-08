@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "habromabirihatom",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yn3ep8rb",
+ "id": "pe_yn3ep8rb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "09369083",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=09369083"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hebrom Mebirihatom"
+  },
+  "romanized": "Hebrom Mebirihatom",
+  "sort_key": "hebrommebirihatom"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=09369083"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yn3ep8rb",
+     "name": "Hebrom Mebirihatom",
+     "role": "author",
+     "romanized": "Hebrom Mebirihatom"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_38fvg80c",
+   "id": "wk_38fvg80c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Story of Pencil and Exercise Book",
+    "script": "Ethi",
+    "text": "የእርሳስ እና የደብተር ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "makuriamakasha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_1mbp2waf",
+ "id": "pe_1mbp2waf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64669928",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64669928"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mekuria Mekasha"
+  },
+  "romanized": "Mekuria Mekasha",
+  "sort_key": "mekuriamekasha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64669928"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_1mbp2waf",
+     "name": "Mekuria Mekasha",
+     "role": "author",
+     "romanized": "Mekuria Mekasha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_wh7zaj3q",
+   "id": "wk_wh7zaj3q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kebete Menigist Dose (YeBilata W/Mariam Mezekir)",
+    "script": "Ethi",
+    "text": "ከቤተ መንግስት ዶሴ (የብላታ ወልደማርያም መዘክር)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

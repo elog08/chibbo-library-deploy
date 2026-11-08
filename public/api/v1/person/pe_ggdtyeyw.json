@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "haikira",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ggdtyeyw",
+ "id": "pe_ggdtyeyw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92260051",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92260051"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "hei Kira"
+  },
+  "romanized": "hei Kira",
+  "sort_key": "heikira"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92260051"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0qhntckv",
+     "name": "Shiv Khera",
+     "role": "author",
+     "romanized": "Shiv Khera"
+    },
+    {
+     "id": "pe_ggdtyeyw",
+     "name": "hei Kira",
+     "role": "author",
+     "romanized": "hei Kira"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_zqp9dk3t",
+   "id": "wk_zqp9dk3t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSiket Meseret",
+    "script": "Ethi",
+    "text": "የስኬት መሠረት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "tadclain",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6ft6r39t",
+ "id": "pe_6ft6r39t",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "04091235",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=04091235"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ted Clain"
+  },
+  "romanized": "Ted Clain",
+  "sort_key": "tedclain"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=04091235"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6ft6r39t",
+     "name": "Ted Clain",
+     "role": "author",
+     "romanized": "Ted Clain"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1vvwhr74",
+   "id": "wk_1vvwhr74",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abatinet",
+    "script": "Ethi",
+    "text": "አባትነት"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

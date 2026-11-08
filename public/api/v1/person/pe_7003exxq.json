@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "sintayahutasaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_7003exxq",
+ "id": "pe_7003exxq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22436155",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22436155"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41667176",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41667176"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sintayehu Tasew"
+  },
+  "romanized": "Sintayehu Tasew",
+  "sort_key": "sintayehutasew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22436155"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_7003exxq",
+     "name": "Sintayehu Tasew",
+     "role": "author",
+     "romanized": "Sintayehu Tasew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2cabzyk2",
+   "id": "wk_2cabzyk2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE SLEEPING STAR (Enkilfamua Kokeb)",
+    "script": "Ethi",
+    "text": "እንቅልፋሟ ኮከብ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_7003exxq",
+     "name": "Sintayehu Tasew",
+     "role": "author",
+     "romanized": "Sintayehu Tasew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bgf0qqcc",
+   "id": "wk_bgf0qqcc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Amuadit Ena Gomadit",
+    "script": "Ethi",
+    "text": "አሟዲት እና ጎማዲት"
+   },
+   "type": "work"
+  }
+ ]
+}

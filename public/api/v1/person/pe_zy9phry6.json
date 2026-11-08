@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "drspancarjhonson",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zy9phry6",
+ "id": "pe_zy9phry6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51197197",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51197197"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Spencer Jhonson"
+  },
+  "romanized": "Dr.Spencer Jhonson",
+  "sort_key": "drspencerjhonson"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51197197"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zy9phry6",
+     "name": "Dr.Spencer Jhonson",
+     "role": "author",
+     "romanized": "Dr.Spencer Jhonson"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_n145qyn6",
+   "id": "wk_n145qyn6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ayben Man Wesedew? Who moved my cheese?",
+    "script": "Ethi",
+    "text": "አይቤን ማን ወሰደው?"
+   },
+   "type": "work"
+  }
+ ]
+}

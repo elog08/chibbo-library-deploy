@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1z9zawfn",
+ "@type": "Book",
+ "alternateName": [
+  "YeHywet Tsetsetoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rskj9d91",
+   "@type": "Person",
+   "name": "Dr. Eyob Mamo"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9780997853728",
+ "name": "የህይወት ጸጸቶች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=33187143"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=33187143"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_67a8h86j",
+   "@type": "Book"
+  }
+ ]
+}

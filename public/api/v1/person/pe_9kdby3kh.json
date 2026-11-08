@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drwarotawbazabah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9kdby3kh",
+ "id": "pe_9kdby3kh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45206582",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45206582"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Werotaw Bezabeh"
+  },
+  "romanized": "Dr. Werotaw Bezabeh",
+  "sort_key": "drwerotawbezabeh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45206582"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9kdby3kh",
+     "name": "Dr. Werotaw Bezabeh",
+     "role": "author",
+     "romanized": "Dr. Werotaw Bezabeh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kwhq394b",
+   "id": "wk_kwhq394b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yebusiness Mashashaya Qulif Muyawoch",
+    "script": "Ethi",
+    "text": "የቢዝነስ ማሻሻያ ቁልፍ ሙያዎች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

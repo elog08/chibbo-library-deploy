@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_qvp00v15",
+ "@type": "Book",
+ "alternateName": [
+  "Wekash Nekash"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_md6yvsjq",
+   "@type": "Person",
+   "name": "Bizuhan Abebe"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_0hks44wd",
+   "@type": "Person",
+   "name": "BeBizuhan"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ወቃሽ ነቃሽ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=63271396"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=63271396"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_b76ynk0d",
+   "@type": "Book"
+  }
+ ]
+}

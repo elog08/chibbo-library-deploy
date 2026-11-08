@@ -1,0 +1,48 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_d5zhv3f4",
+ "@type": "Book",
+ "alternateName": [
+  "YeMeles Wirsoch"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_veeraa7j",
+   "@type": "Person",
+   "name": "H/Meskel ShewamYeleh"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_qzmyz9fp",
+   "@type": "Person",
+   "name": "Muluneh Ayalew"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የመለስ ውርሶች",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.78",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05743384"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Muluneh Ayalew and H/Meskel ShewamYeleh (Amahric)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05743384"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mkzbgh4z",
+   "@type": "Book"
+  }
+ ]
+}

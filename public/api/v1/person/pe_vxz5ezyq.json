@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "mohamadali",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vxz5ezyq",
+ "id": "pe_vxz5ezyq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "02338522",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=02338522"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mohamed Ali"
+  },
+  "romanized": "Mohamed Ali",
+  "sort_key": "mohamedali"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=02338522"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vxz5ezyq",
+     "name": "Mohamed Ali",
+     "role": "author",
+     "romanized": "Mohamed Ali"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5w3rapav",
+   "id": "wk_5w3rapav",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTibeb Feleg",
+    "script": "Ethi",
+    "text": "የጥበብ ፈለግ (ፍልስፍና)"
+   },
+   "type": "work"
+  }
+ ]
+}

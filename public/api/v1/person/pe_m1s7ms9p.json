@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "judycolins",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_m1s7ms9p",
+ "id": "pe_m1s7ms9p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81303596",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81303596"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Judy Collins"
+  },
+  "romanized": "Judy Collins",
+  "sort_key": "judycollins"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81303596"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_m1s7ms9p",
+     "name": "Judy Collins",
+     "role": "author",
+     "romanized": "Judy Collins"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ve14wre7",
+   "id": "wk_ve14wre7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Misitrawiw Tel'eko (Yekedamawi Hailesilase Yelij Lijochin Yemasimelet Zede)",
+    "script": "Ethi",
+    "text": "ምስጢራዊው ተልዕኮ (የቀዳማዊ ኃይለስላሴ የልጅ ልጆችን የማስመለጥ ዘመቻ)"
+   },
+   "type": "work"
+  }
+ ]
+}

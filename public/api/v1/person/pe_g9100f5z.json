@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "tadiostantu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g9100f5z",
+ "id": "pe_g9100f5z",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "86900830",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=86900830"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadios Tantu"
+  },
+  "romanized": "Tadios Tantu",
+  "sort_key": "tadiostantu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=86900830"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_g9100f5z",
+     "name": "Tadios Tantu",
+     "role": "author",
+     "romanized": "Tadios Tantu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_sqhgkk2x",
+   "id": "wk_sqhgkk2x",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dem Melash (YeEthiopia Arbegnoch Tarik Baltesemu Ewnetoch Yetemola)",
+    "script": "Ethi",
+    "text": "ደም መላሽ (የኢትዮጵያ አርበኞች ታሪክ ባልተሰሙ እውነቶች የተሞላ)"
+   },
+   "type": "work"
+  }
+ ]
+}

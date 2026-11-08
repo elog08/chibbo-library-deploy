@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "kasahunwoldagiorgis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_psgsp931",
+ "id": "pe_psgsp931",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13072721",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13072721"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kassahun Woldegiorgis"
+  },
+  "romanized": "Kassahun Woldegiorgis",
+  "sort_key": "kassahunwoldegiorgis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13072721"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_psgsp931",
+     "name": "Kassahun Woldegiorgis",
+     "role": "author",
+     "romanized": "Kassahun Woldegiorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2009?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fp08xegr",
+   "id": "wk_fp08xegr",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Misteyat (Weledotat Kifeltiwo Zgba'e Tarikawi Gud)",
+    "script": "Ethi",
+    "text": "ምስትያት (ወለዶታት ክፈልጥዎ ዝግባእ ታሪኻዊ ጉድ)"
+   },
+   "type": "work",
+   "year": 2009
+  }
+ ]
+}

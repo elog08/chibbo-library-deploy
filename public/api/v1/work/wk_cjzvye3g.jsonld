@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_cjzvye3g",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fkxt7zp1",
+   "@type": "Person",
+   "name": "Deacon H/Giyorgis Tefera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Matrimony Part II",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.62",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=60312492"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=60312492"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_08j202nr",
+   "@type": "Book"
+  }
+ ]
+}

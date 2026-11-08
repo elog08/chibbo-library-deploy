@@ -32,15 +32,34 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/werisa-yewidket-felegoch/"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=31200630"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Alemayehu Gelagay"
+ },
  "sameAs": [
-  "https://addisbooks.com/book/werisa-yewidket-felegoch/"
+  "https://addisbooks.com/book/werisa-yewidket-felegoch/",
+  "https://www.mereb.shop/rs/?mpid=31200630"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_5k5gs8w8",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_973d88ve",
    "@type": "Book"
   }
  ]

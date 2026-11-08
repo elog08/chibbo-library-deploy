@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3h9cfm8n",
+ "@type": "Book",
+ "alternateName": [
+  "Yenefis Arinet"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4pc73hfr",
+   "@type": "Person",
+   "name": "Father Shinoda"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የነፍስ አርነት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=15444131"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=15444131"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_qefc4dna",
+   "@type": "Book"
+  }
+ ]
+}

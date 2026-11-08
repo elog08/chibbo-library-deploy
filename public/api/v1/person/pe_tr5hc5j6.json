@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bgababahsilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tr5hc5j6",
+ "id": "pe_tr5hc5j6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18387814",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18387814"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "B/G Abebe H/Silase"
+  },
+  "romanized": "B/G Abebe H/Silase",
+  "sort_key": "bgabebehsilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18387814"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tr5hc5j6",
+     "name": "B/G Abebe H/Silase",
+     "role": "author",
+     "romanized": "B/G Abebe H/Silase"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_e4m71fzj",
+   "id": "wk_e4m71fzj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye17 Amet Filmia",
+    "script": "Ethi",
+    "text": "የ17ዓመት ፍልሚያ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

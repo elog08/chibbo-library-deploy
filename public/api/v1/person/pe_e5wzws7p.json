@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "avalinwaugh",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e5wzws7p",
+ "id": "pe_e5wzws7p",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94716231",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94716231"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Evelin Waugh"
+  },
+  "romanized": "Evelin Waugh",
+  "sort_key": "evelinwaugh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=94716231"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e5wzws7p",
+     "name": "Evelin Waugh",
+     "role": "author",
+     "romanized": "Evelin Waugh"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_rj0wfbs6",
+   "id": "wk_rj0wfbs6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Be'Esat Yetekebebech Hager (YeEthiopia Tarik KeAtse Mnilik Eske Atse Haile Silase)",
+    "script": "Ethi",
+    "text": "በእሳት የተከበበች አገር (የኢትዮጵያ ታሪክ ከዐፄ ምኒሊክ እስከ ዐፄ ኃይለ ሥላሤ)"
+   },
+   "type": "work"
+  }
+ ]
+}

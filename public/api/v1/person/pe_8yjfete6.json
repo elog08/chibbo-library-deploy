@@ -1,0 +1,94 @@
+{
+ "extensions": {},
+ "fingerprint": "michaldanialambachaw",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8yjfete6",
+ "id": "pe_8yjfete6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "16028523",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=16028523"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67466478",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67466478"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Micheal Daniel Ambachew"
+  },
+  "romanized": "Micheal Daniel Ambachew",
+  "sort_key": "michealdanielambachew"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=16028523"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8yjfete6",
+     "name": "Micheal Daniel Ambachew",
+     "role": "author",
+     "romanized": "Micheal Daniel Ambachew"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_djstjrhn",
+   "id": "wk_djstjrhn",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gezif Ananas",
+    "script": "Ethi",
+    "text": "ገዚፍ አናናስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_8yjfete6",
+     "name": "Micheal Daniel Ambachew",
+     "role": "author",
+     "romanized": "Micheal Daniel Ambachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vmfbdkbc",
+   "id": "wk_vmfbdkbc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMuna Zinjero",
+    "script": "Ethi",
+    "text": "የሙና ዝንጀሮ"
+   },
+   "type": "work"
+  }
+ ]
+}

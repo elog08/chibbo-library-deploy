@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "wyohanasworknah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_je7xkcjc",
+ "id": "pe_je7xkcjc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57327124",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57327124"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "W/Yohannes Workneh"
+  },
+  "romanized": "W/Yohannes Workneh",
+  "sort_key": "wyohannesworkneh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=57327124"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_5p7c2qve",
+     "name": "ገመቹ መልካ",
+     "role": "author",
+     "romanized": "Gemechu Melkasa"
+    },
+    {
+     "id": "pe_je7xkcjc",
+     "name": "W/Yohannes Workneh",
+     "role": "author",
+     "romanized": "W/Yohannes Workneh"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_p386sa7c",
+   "id": "wk_p386sa7c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Oromia Yetedebekew Tarik",
+    "script": "Ethi",
+    "text": "ኦሮሚያ የተደበቀው የግፍ ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

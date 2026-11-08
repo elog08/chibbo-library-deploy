@@ -15,7 +15,8 @@
  "editions": [
   "ed_tt1yez1v",
   "ed_y8x65jym",
-  "ed_rc28zdjv"
+  "ed_rc28zdjv",
+  "ed_8w6rkgkt"
  ],
  "extensions": {},
  "fingerprint": "ግራጫቃጭሎች|adamrata",
@@ -37,6 +38,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_137"
+  ],
+  "mereb_mpid": [
+   "96369543"
   ],
   "pdf_pagehash": [
    "0b0f3333333b2320",
@@ -126,6 +130,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_137"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "96369543",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96369543"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "19.08",
+   "provider": "mereb",
+   "ref": "96369543",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=96369543"
   }
  ],
  "locked_fields": [],
@@ -145,6 +167,7 @@
   "source": "curated-canon"
  },
  "publication_place": "Addis Ababa, Ethiopia",
+ "publisher_name": "OLand Printing &Publishing (Second Edition 2013)",
  "relations": [],
  "rights": {
   "shippable": false,

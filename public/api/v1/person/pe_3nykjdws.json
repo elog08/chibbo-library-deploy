@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "tadasazawolda",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3nykjdws",
+ "id": "pe_3nykjdws",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24875809",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24875809"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94491092",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94491092"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tadesse ZeWolde"
+  },
+  "romanized": "Tadesse ZeWolde",
+  "sort_key": "tadessezewolde"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=24875809"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3nykjdws",
+     "name": "Tadesse ZeWolde",
+     "role": "author",
+     "romanized": "Tadesse ZeWolde"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1961?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3hezdtyv",
+   "id": "wk_3hezdtyv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbalshign Zemen",
+    "script": "Ethi",
+    "text": "የአባላሽኝ ዘመን"
+   },
+   "type": "work",
+   "year": 1961
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_3nykjdws",
+     "name": "Tadesse ZeWolde",
+     "role": "author",
+     "romanized": "Tadesse ZeWolde"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pbm6ahsa",
+   "id": "wk_pbm6ahsa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAbetohun Yaekob Tiwilidina Achir Tarik",
+    "script": "Ethi",
+    "text": "የአቤቶሁን ያዕቆብ ትውልድና አጭር ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

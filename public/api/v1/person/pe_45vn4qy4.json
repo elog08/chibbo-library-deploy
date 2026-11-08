@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirdagmawimusa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_45vn4qy4",
+ "id": "pe_45vn4qy4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "06253834",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=06253834"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "57197996",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=57197996"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Dagmawi Musse"
+  },
+  "romanized": "Memihir Dagmawi Musse",
+  "sort_key": "memihirdagmawimusse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=06253834"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_45vn4qy4",
+     "name": "Memihir Dagmawi Musse",
+     "role": "author",
+     "romanized": "Memihir Dagmawi Musse"
+    },
+    {
+     "id": "pe_57tdy69a",
+     "name": "Deacon Yeshibelay Belachew",
+     "role": "author",
+     "romanized": "Deacon Yeshibelay Belachew"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_dhf8qkjh",
+   "id": "wk_dhf8qkjh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hadafe Nefis",
+    "script": "Ethi",
+    "text": "ሓዳፌ ነፍስ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_45vn4qy4",
+     "name": "Memihir Dagmawi Musse",
+     "role": "author",
+     "romanized": "Memihir Dagmawi Musse"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_tchrkx1g",
+   "id": "wk_tchrkx1g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Minhar (Ethiopiana Misitire Ge'ez)",
+    "script": "Ethi",
+    "text": "መጽሐፈ ምንኃር (ኢትዮጵያና ምሥጢረ ግዕዝ)"
+   },
+   "type": "work"
+  }
+ ]
+}

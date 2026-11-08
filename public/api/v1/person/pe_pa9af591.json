@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "aliasabara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_pa9af591",
+ "id": "pe_pa9af591",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "72408568",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=72408568"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Elias Aberra"
+  },
+  "romanized": "Elias Aberra",
+  "sort_key": "eliasaberra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=72408568"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pa9af591",
+     "name": "Elias Aberra",
+     "role": "author",
+     "romanized": "Elias Aberra"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_fpck09z7",
+   "id": "wk_fpck09z7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Elayja (Basic Chinese Course)",
+    "script": "Ethi",
+    "text": "ኤላይጃ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ltcolonaldabaladinsa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ch6mzy5m",
+ "id": "pe_ch6mzy5m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05977748",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05977748"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Lt/Colonel Debela Dinsa"
+  },
+  "romanized": "Lt/Colonel Debela Dinsa",
+  "sort_key": "ltcoloneldebeladinsa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05977748"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ch6mzy5m",
+     "name": "Lt/Colonel Debela Dinsa",
+     "role": "author",
+     "romanized": "Lt/Colonel Debela Dinsa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_hf4jkqd3",
+   "id": "wk_hf4jkqd3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Moto Menor (Duani Jirachu)",
+    "script": "Ethi",
+    "text": "ሞቶ መኖር (ዱአኒ ጂራቹ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

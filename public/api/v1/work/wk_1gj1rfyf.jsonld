@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1gj1rfyf",
+ "@type": "Book",
+ "alternateName": [
+  "Teret Teret"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_787ehkqe",
+   "@type": "Person",
+   "name": "Melkam Haylom"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ተረት ተረት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=17089332"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=17089332"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_w0ch6ks0",
+   "@type": "Book"
+  }
+ ]
+}

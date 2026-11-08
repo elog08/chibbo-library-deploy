@@ -40,15 +40,30 @@
     "name": "afroread_book"
    },
    "url": "https://afroreadapp.com/Store/Bookdetail/f6ad1edc-671f-481f-9411-f5bc2d1936cd"
+  },
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=75406638"
   }
  ],
  "sameAs": [
-  "https://afroreadapp.com/Store/Bookdetail/f6ad1edc-671f-481f-9411-f5bc2d1936cd"
+  "https://afroreadapp.com/Store/Bookdetail/f6ad1edc-671f-481f-9411-f5bc2d1936cd",
+  "https://www.mereb.shop/rs/?mpid=75406638"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_9qwdxce6",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_rx22nfa7",
    "@type": "Book"
   }
  ]

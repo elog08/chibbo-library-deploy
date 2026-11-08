@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "tamiratworku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x028fx91",
+ "id": "pe_x028fx91",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59776295",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59776295"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98407382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98407382"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tamirat Worku"
+  },
+  "romanized": "Tamirat Worku",
+  "sort_key": "tamiratworku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59776295"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x028fx91",
+     "name": "Tamirat Worku",
+     "role": "author",
+     "romanized": "Tamirat Worku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5m6yxq5t",
+   "id": "wk_5m6yxq5t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGhion Lijoch",
+    "script": "Ethi",
+    "text": "የግዮን ልጆች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_x028fx91",
+     "name": "Tamirat Worku",
+     "role": "author",
+     "romanized": "Tamirat Worku"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_jte56szb",
+   "id": "wk_jte56szb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMematsegna Ketema",
+    "script": "Ethi",
+    "text": "የመማፅኛ ከተማ"
+   },
+   "type": "work"
+  }
+ ]
+}

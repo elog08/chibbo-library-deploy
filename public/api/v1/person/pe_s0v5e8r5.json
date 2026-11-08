@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "kabadanisa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_s0v5e8r5",
+ "id": "pe_s0v5e8r5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10529132",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10529132"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kebede Anisa"
+  },
+  "romanized": "Kebede Anisa",
+  "sort_key": "kebedeanisa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10529132"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_s0v5e8r5",
+     "name": "Kebede Anisa",
+     "role": "author",
+     "romanized": "Kebede Anisa"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_x3raz303",
+   "id": "wk_x3raz303",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia Tikidem Hizib Edniyawik",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ ትቅደም ሕዝብ እዲያውቅ"
+   },
+   "type": "work"
+  }
+ ]
+}

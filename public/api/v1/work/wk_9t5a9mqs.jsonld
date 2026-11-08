@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_9t5a9mqs",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_5ft97tvm",
+   "@type": "Person",
+   "name": "Deacon Abaynehe Kasse"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Holey marry full of graces",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=08430293"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tsereha Tsion Tewahido Yeandenet Mahiber (2001 E.C.)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=08430293"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_eqz00j09",
+   "@type": "Book"
+  }
+ ]
+}

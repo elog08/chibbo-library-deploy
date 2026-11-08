@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "girmabakala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ytj7x6e4",
+ "id": "pe_ytj7x6e4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73595524",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73595524"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Girma Bekele"
+  },
+  "romanized": "Girma Bekele",
+  "sort_key": "girmabekele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73595524"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ytj7x6e4",
+     "name": "Girma Bekele",
+     "role": "author",
+     "romanized": "Girma Bekele"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_j2ft55pp",
+   "id": "wk_j2ft55pp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopian and Foreign Cook Book",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ የውጭ አገር የምግብ ዝግጅት መማሪያ"
+   },
+   "type": "work"
+  }
+ ]
+}

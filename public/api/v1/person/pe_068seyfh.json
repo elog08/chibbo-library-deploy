@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "salamawitsolomon",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_068seyfh",
+ "id": "pe_068seyfh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "84495068",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=84495068"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Selamawit Solomon"
+  },
+  "romanized": "Selamawit Solomon",
+  "sort_key": "selamawitsolomon"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=84495068"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_068seyfh",
+     "name": "Selamawit Solomon",
+     "role": "author",
+     "romanized": "Selamawit Solomon"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_5q6xg18z",
+   "id": "wk_5q6xg18z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ethiopia My Homeland",
+    "script": "Ethi",
+    "text": "ኢትዮጵያ ሀገሬ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "hailayasusmangist",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_e7q95ecx",
+ "id": "pe_e7q95ecx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59583141",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59583141"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Haileyesus Mengist"
+  },
+  "romanized": "Haileyesus Mengist",
+  "sort_key": "haileyesusmengist"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=59583141"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_e7q95ecx",
+     "name": "Haileyesus Mengist",
+     "role": "author",
+     "romanized": "Haileyesus Mengist"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3vtbdsr9",
+   "id": "wk_3vtbdsr9",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelisane Ge'ez Memaria",
+    "script": "Ethi",
+    "text": "የልሳነ ግእዝ መማሪያ"
+   },
+   "type": "work",
+   "year": 2018
+  }
+ ]
+}

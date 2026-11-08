@@ -1,0 +1,116 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_7t8990dd",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "ሰማይ፡ ጠቀስ፡ ሆነ፡ ሚናሪ፡ ከ-ፌቲ፡\nባለአን፡ ደመናን፡ የዝቅዝቍ፡ ማየት፡\nሰማይ፡ ጠቀስ፡ ሆነ፡ ሚናሪ፡ ከ-ፌቲ፡"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "nature"
+   ]
+  }
+ },
+ "fingerprint": "ባህቃ|managastulama",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_435xea1c",
+ "id": "wk_435xea1c",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_t4mekwzy (የግጥም ጉባኤ), pp. 35–35 (የግጥም ጉባኤ  መንግሥቱ ለማ.pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_t4mekwzy.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_t4mekwzy.png"
+  },
+  "credits": [
+   {
+    "id": "pe_7t8990dd",
+    "name": "መንግሥቱ ለማ",
+    "role": "author",
+    "romanized": "menegestu lema"
+   }
+  ],
+  "date": {
+   "calendar": "ethiopic",
+   "edtf": "1966-09-11/1967-09-11",
+   "flags": []
+  },
+  "flags": [
+   "llm-extracted"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_t4mekwzy",
+  "id": "wk_t4mekwzy",
+  "language": "am",
+  "part_count": 4,
+  "poetry": true,
+  "poetry_tags": [
+   "faith-and-philosophy"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yegetem gubae",
+   "script": "Ethi",
+   "text": "የግጥም ጉባኤ"
+  },
+  "type": "work",
+  "year": 1966
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "nature"
+ ],
+ "provenance": {
+  "raw_sha256": "a2a1c79669152a24adb2d77176b9eab19004c3fe6cc3ec1937ca6b3cfec5e876",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_t4mekwzy"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Bah Qa",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ባሕ ቃ"
+  },
+  "romanized": "Bah Qa",
+  "sort_key": "ባህቃ"
+ },
+ "type": "work"
+}

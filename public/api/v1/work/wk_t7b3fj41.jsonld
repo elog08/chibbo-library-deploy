@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_t7b3fj41",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fhh1dv8r",
+   "@type": "Person",
+   "name": "Asmamaw Hailu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Kedenbia - Gonder eske Washington DC",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "7.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=25968253"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=25968253"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_za5ybeza",
+   "@type": "Book"
+  }
+ ]
+}

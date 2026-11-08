@@ -1,0 +1,53 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_3cayzy73",
+ "@type": "Book",
+ "alternateName": [
+  "Journal of Ethiopian Studies Vol.XXXIX, Nos 1-2 (June-December 2006)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3rmdsb5e",
+   "@type": "Person",
+   "name": "Germa Amare"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_fb1r3aq2",
+   "@type": "Person",
+   "name": "Richard Pankhurst"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_9caf37f6",
+   "@type": "Person",
+   "name": "Ahmed Hassen Omer"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የኢትዮጵያ ጥናት መጽሔት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=16092192"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Institute of Ethiopian Studies Addis Ababa University (June-December 2006)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=16092192"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_n7ehd4gp",
+   "@type": "Book"
+  }
+ ]
+}

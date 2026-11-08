@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "barhanulama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_x7fc3qhj",
+ "id": "pe_x7fc3qhj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27992072",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27992072"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Berhanu Lemma"
+  },
+  "romanized": "Berhanu Lemma",
+  "sort_key": "berhanulemma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27992072"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_x7fc3qhj",
+     "name": "Berhanu Lemma",
+     "role": "author",
+     "romanized": "Berhanu Lemma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_nvjekqjv",
+   "id": "wk_nvjekqjv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTawaqi YeEthiopia Sietoc YePoletikana YeFikir Tarik",
+    "script": "Ethi",
+    "text": "የታዋቂ የኢትዮጵያ ሴቶቸ የፖለቲካና የፍቅር ታሪክ"
+   },
+   "type": "work"
+  }
+ ]
+}

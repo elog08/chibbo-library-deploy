@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "bishopapiphanios",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v1byx8pe",
+ "id": "pe_v1byx8pe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33233476",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33233476"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bishop Epiphanios"
+  },
+  "romanized": "Bishop Epiphanios",
+  "sort_key": "bishopepiphanios"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33233476"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v1byx8pe",
+     "name": "Bishop Epiphanios",
+     "role": "author",
+     "romanized": "Bishop Epiphanios"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_n2kq1c89",
+   "id": "wk_n2kq1c89",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Haymanote Abew",
+    "script": "Ethi",
+    "text": "ሃይማኖተ አበው"
+   },
+   "type": "work"
+  }
+ ]
+}

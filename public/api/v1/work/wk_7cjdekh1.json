@@ -13,14 +13,34 @@
   }
  ],
  "editions": [
-  "ed_4bxzrn1h"
+  "ed_4bxzrn1h",
+  "ed_fw93m01t"
  ],
  "extensions": {},
  "fingerprint": "የቢሾፍቱቆሪጦች|tasfayagabrab",
- "flags": [],
+ "first_published": {
+  "alternates": [
+   "2023-09-12/2024-09-10"
+  ],
+  "edtf": "2016?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "2016"
+  }
+ },
+ "flags": [
+  "calendar-ambiguous"
+ ],
  "href": "https://chibbo.app/work/wk_7cjdekh1",
  "id": "wk_7cjdekh1",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "43935902"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -46,18 +66,38 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/ye-bishoftu-koritoch"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43935902",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43935902"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "27.40",
+   "provider": "mereb",
+   "ref": "43935902",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43935902"
   }
  ],
  "locked_fields": [],
  "merged_into": null,
  "notes": [
-  "ethiobookreview community rating 4.06/5 from 17 rating(s), 8 written review(s)"
+  "ethiobookreview community rating 4.06/5 from 17 rating(s), 8 written review(s)",
+  "language-spelling-normalised: store printed 'Amahric'"
  ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/ye-bishoftu-koritoch"
  },
+ "publisher_name": "Tesfaye Gebreab",
  "relations": [],
  "rights": {
   "shippable": false,

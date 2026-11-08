@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "likatababitmasaratmihiratu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_svdabehx",
+ "id": "pe_svdabehx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23029546",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23029546"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53530195",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53530195"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Like Tebebit Meseret Mihiretu"
+  },
+  "romanized": "Like Tebebit Meseret Mihiretu",
+  "sort_key": "liketebebitmeseretmihiretu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23029546"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_svdabehx",
+     "name": "Like Tebebit Meseret Mihiretu",
+     "role": "author",
+     "romanized": "Like Tebebit Meseret Mihiretu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_jekj0as0",
+   "id": "wk_jekj0as0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Hawi Kits.2",
+    "script": "Ethi",
+    "text": "መጽሐፈ ሃዊ ቅጽ.2"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_svdabehx",
+     "name": "Like Tebebit Meseret Mihiretu",
+     "role": "author",
+     "romanized": "Like Tebebit Meseret Mihiretu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_s1s8935h",
+   "id": "wk_s1s8935h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Hawi",
+    "script": "Ethi",
+    "text": "መጽሐፈ ሐዊ"
+   },
+   "type": "work"
+  }
+ ]
+}

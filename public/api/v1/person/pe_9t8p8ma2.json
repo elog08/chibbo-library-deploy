@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "wudutafatakasu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9t8p8ma2",
+ "id": "pe_9t8p8ma2",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25108824",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25108824"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Wudu Tafete Kasu"
+  },
+  "romanized": "Wudu Tafete Kasu",
+  "sort_key": "wudutafetekasu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=25108824"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_pjz2bqa8",
+     "name": "Philip Lebel",
+     "role": "author",
+     "romanized": "Philip Lebel"
+    },
+    {
+     "id": "pe_9t8p8ma2",
+     "name": "Wudu Tafete Kasu",
+     "role": "author",
+     "romanized": "Wudu Tafete Kasu"
+    },
+    {
+     "id": "pe_fw40m7kn",
+     "name": "Zelalem leyew",
+     "role": "author",
+     "romanized": "Zelalem leyew"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_svjvexqd",
+   "id": "wk_svjvexqd",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLIV (December 2011)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

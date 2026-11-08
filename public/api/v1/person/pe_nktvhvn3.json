@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "afandimutaki",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nktvhvn3",
+ "id": "pe_nktvhvn3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43546335",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43546335"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Afendi Muteki"
+  },
+  "romanized": "Afendi Muteki",
+  "sort_key": "afendimuteki"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43546335"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nktvhvn3",
+     "name": "Afendi Muteki",
+     "role": "author",
+     "romanized": "Afendi Muteki"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7gggbgrc",
+   "id": "wk_7gggbgrc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Adal",
+    "script": "Ethi",
+    "text": "አዳል"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

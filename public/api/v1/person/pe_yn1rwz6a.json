@@ -1,0 +1,149 @@
+{
+ "extensions": {},
+ "fingerprint": "ababashitaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yn1rwz6a",
+ "id": "pe_yn1rwz6a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12630572",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12630572"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49833216",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49833216"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94311066",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94311066"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abeba Shitaye"
+  },
+  "romanized": "Abeba Shitaye",
+  "sort_key": "abebashitaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12630572"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wdpse5ym",
+     "name": "Eyerusalem Nega",
+     "role": "author",
+     "romanized": "Eyerusalem Nega"
+    },
+    {
+     "id": "pe_708akkdn",
+     "name": "Yemerikatow Henok",
+     "role": "author",
+     "romanized": "Yemerikatow Henok"
+    },
+    {
+     "id": "pe_yzd7gvmv",
+     "name": "Tigist Mamo",
+     "role": "author",
+     "romanized": "Tigist Mamo"
+    },
+    {
+     "id": "pe_yn1rwz6a",
+     "name": "Abeba Shitaye",
+     "role": "author",
+     "romanized": "Abeba Shitaye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_8b8y846g",
+   "id": "wk_8b8y846g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yehiwot Getsoch",
+    "script": "Ethi",
+    "text": "የሂወት ገጾች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yn1rwz6a",
+     "name": "Abeba Shitaye",
+     "role": "author",
+     "romanized": "Abeba Shitaye"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vhcwfaf0",
+   "id": "wk_vhcwfaf0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ene Ena Wendime",
+    "script": "Ethi",
+    "text": "እኔና ወንድሜ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yn1rwz6a",
+     "name": "Abeba Shitaye",
+     "role": "author",
+     "romanized": "Abeba Shitaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xrazzapw",
+   "id": "wk_xrazzapw",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye\"emama Degua\" na Leloch TEretoch",
+    "script": "Ethi",
+    "text": "የ\"እማማ ደጓ\"ና ሌሎች ተረቶች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

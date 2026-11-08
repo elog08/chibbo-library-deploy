@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "gabrasilasabirhanu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kt4d6hqe",
+ "id": "pe_kt4d6hqe",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41984416",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41984416"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gebresilase Birhanu"
+  },
+  "romanized": "Gebresilase Birhanu",
+  "sort_key": "gebresilasebirhanu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41984416"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kt4d6hqe",
+     "name": "Gebresilase Birhanu",
+     "role": "author",
+     "romanized": "Gebresilase Birhanu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_gs59s9yp",
+   "id": "wk_gs59s9yp",
+   "language": "gez",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Metsihafe Gitsawe Wemezmur Kenemilikitu",
+    "script": "Ethi",
+    "text": "መጽሐፈ ግጻዌ ወመዝሙር ከነምልክቱ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

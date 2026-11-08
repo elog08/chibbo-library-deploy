@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mhh1rfxs",
+ "@type": "Book",
+ "alternateName": [
+  "YeTifat Meselal"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rwd7213b",
+   "@type": "Person",
+   "name": "Fisseha Tekle"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789999053563",
+ "name": "የጥፋት መሰላል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73960917"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73960917"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hkmjvxmd",
+   "@type": "Book"
+  }
+ ]
+}

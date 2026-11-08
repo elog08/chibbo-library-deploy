@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirbakalusibihat",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xh3ffwq6",
+ "id": "pe_xh3ffwq6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52703183",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52703183"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82654458",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82654458"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Bekalu Sibihat"
+  },
+  "romanized": "Memihir Bekalu Sibihat",
+  "sort_key": "memihirbekalusibihat"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=52703183"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xh3ffwq6",
+     "name": "Memihir Bekalu Sibihat",
+     "role": "author",
+     "romanized": "Memihir Bekalu Sibihat"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_c4w31gjk",
+   "id": "wk_c4w31gjk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kale Kidase",
+    "script": "Ethi",
+    "text": "ቃለ ቅዳሴ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xh3ffwq6",
+     "name": "Memihir Bekalu Sibihat",
+     "role": "author",
+     "romanized": "Memihir Bekalu Sibihat"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_j4809ghz",
+   "id": "wk_j4809ghz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kale Kidase Se'reate Kidase Kenemilikitu",
+    "script": "Ethi",
+    "text": "ቃለ ቅዳሴ ሥርዓተ ቅዳሴ ከነምልክቱ"
+   },
+   "type": "work"
+  }
+ ]
+}

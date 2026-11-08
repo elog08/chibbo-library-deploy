@@ -37,6 +37,14 @@
    "rel": "about",
    "status": "ok",
    "url": "https://en.wikipedia.org/wiki/Berhanu_Zerihun"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "68619556",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=68619556"
   }
  ],
  "locked_fields": [],
@@ -91,6 +99,7 @@
     "edtf": "1980/1983",
     "flags": []
    },
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_3k5q1adm",
    "id": "wk_3k5q1adm",
    "language": "am",
@@ -103,6 +112,27 @@
    },
    "type": "work",
    "year": 1980
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_9yg741hc",
+     "name": "ብርሃኑ ዘሪሁን",
+     "role": "author",
+     "romanized": "berhanu zerihun"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5rbswnmt",
+   "id": "wk_5rbswnmt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetedros Emba",
+    "script": "Ethi",
+    "text": "የቴዎድሮስ እምባ"
+   },
+   "type": "work"
   },
   {
    "cover": {
@@ -146,6 +176,7 @@
     "edtf": "1981",
     "flags": []
    },
+   "form": "novel",
    "href": "https://chibbo.app/work/wk_sc3nfwmz",
    "id": "wk_sc3nfwmz",
    "language": "am",

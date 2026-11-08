@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "druthlikasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kf9zz6qf",
+ "id": "pe_kf9zz6qf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "21745645",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=21745645"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Ruth Likassa"
+  },
+  "romanized": "Dr. Ruth Likassa",
+  "sort_key": "drruthlikassa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=21745645"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kf9zz6qf",
+     "name": "Dr. Ruth Likassa",
+     "role": "author",
+     "romanized": "Dr. Ruth Likassa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2008?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_jw2qp6ar",
+   "id": "wk_jw2qp6ar",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeFit Koda (Chigirochuna Mefthewochu)",
+    "script": "Ethi",
+    "text": "የፊት ቆዳ (ችግሮቹና መፍትሔዎቹ)"
+   },
+   "type": "work",
+   "year": 2008
+  }
+ ]
+}

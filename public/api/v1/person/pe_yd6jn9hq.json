@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "andualamabatayatsadalij",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yd6jn9hq",
+ "id": "pe_yd6jn9hq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "71099934",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=71099934"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "98685746",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=98685746"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Andualem Abate (YeAtsede Lij)"
+  },
+  "romanized": "Andualem Abate (YeAtsede Lij)",
+  "sort_key": "andualemabateyeatsedelij"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=71099934"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yd6jn9hq",
+     "name": "Andualem Abate (YeAtsede Lij)",
+     "role": "author",
+     "romanized": "Andualem Abate (YeAtsede Lij)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_gsbf1kzc",
+   "id": "wk_gsbf1kzc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHilina Menged",
+    "script": "Ethi",
+    "text": "የሕሊና መንገድ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_yd6jn9hq",
+     "name": "Andualem Abate (YeAtsede Lij)",
+     "role": "author",
+     "romanized": "Andualem Abate (YeAtsede Lij)"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_pz6y1k7z",
+   "id": "wk_pz6y1k7z",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Nigus Zer'a Ya'ekob",
+    "script": "Ethi",
+    "text": "ንጉሥ ዘርዓ ያዕቆብ"
+   },
+   "type": "work"
+  }
+ ]
+}

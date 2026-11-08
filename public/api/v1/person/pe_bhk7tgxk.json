@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "drcarlosdwack",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bhk7tgxk",
+ "id": "pe_bhk7tgxk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56272403",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56272403"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Carlos Dweck"
+  },
+  "romanized": "Dr.Carlos Dweck",
+  "sort_key": "drcarlosdweck"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56272403"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bhk7tgxk",
+     "name": "Dr.Carlos Dweck",
+     "role": "author",
+     "romanized": "Dr.Carlos Dweck"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_bcb7529r",
+   "id": "wk_bcb7529r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "A'emron Masadeg",
+    "script": "Ethi",
+    "text": "አእምሮን ማሳደግ"
+   },
+   "type": "work"
+  }
+ ]
+}

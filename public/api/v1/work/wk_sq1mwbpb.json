@@ -1,0 +1,127 @@
+{
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_9wzx8wkp",
+   "role": "author"
+  }
+ ],
+ "description": {
+  "lang": "am",
+  "script": "Ethi",
+  "text": "አለ ሌላ ዓለም\nካልቆ ሲታይ ውስጡ።\nእሶው ፊት ነው የቋሙ\nየእንባውን አዝመራ፤\nእሰው ፊት ነው ያለው፡\n‘ተስፋ ሲል ነኝ እኔ\nዕድል ሲባለ!’\nግን በውርር ቃችሁ ብትደብናው\nበአልፍና አህሰሌ ብትመረምረው፣\nከሣ ዛሬተማ ውርጭ ቀለበ ሣን\nተስፋን ታገኛለህ የመውኀኝ ጥብቂ !\nእንዲህ የሚለመወን\nአልመመት ሠየ ድቃ ፤\nየምታበራውን\nትንሿን ጨለቀ ።"
+ },
+ "editions": [],
+ "extensions": {
+  "poetry": {
+   "poetic_form": "poem",
+   "themes": [
+    "love",
+    "grief-and-mortality"
+   ]
+  }
+ },
+ "fingerprint": "አልሌላአለም|dababasayfu",
+ "flags": [],
+ "form": "poetry",
+ "href": "https://chibbo.app/work/wk_sq1mwbpb",
+ "id": "wk_sq1mwbpb",
+ "identifiers": {},
+ "language": "am",
+ "links": [],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Extracted from compilation wk_cfdxn5dx (የብርሃን ፍቅር), pp. 8–8 (የብርሃን ፍቅር, ቅፅ 1 በደበበ ሰይፉ (2).pdf)"
+ ],
+ "part_of": {
+  "cover": {
+   "path": "assets/covers/wk_cfdxn5dx.png",
+   "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_cfdxn5dx.png"
+  },
+  "credits": [
+   {
+    "id": "pe_9wzx8wkp",
+    "name": "ደበበ ሰይፉ",
+    "role": "author",
+    "romanized": "debebe seyfu"
+   }
+  ],
+  "date": {
+   "calendar": "ambiguous",
+   "edtf": "1980?",
+   "flags": [
+    "calendar-ambiguous"
+   ]
+  },
+  "flags": [
+   "llm-extracted",
+   "calendar-ambiguous"
+  ],
+  "form": "poetry",
+  "href": "https://chibbo.app/work/wk_cfdxn5dx",
+  "id": "wk_cfdxn5dx",
+  "language": "am",
+  "part_count": 57,
+  "poetry": true,
+  "poetry_tags": [
+   "love"
+  ],
+  "status": "draft",
+  "title": {
+   "lang": "am",
+   "romanized": "yeberhan feqer",
+   "script": "Ethi",
+   "text": "የብርሃን ፍቅር"
+  },
+  "type": "work",
+  "year": 1980
+ },
+ "poetry": true,
+ "poetry_tags": [
+  "love",
+  "grief-and-mortality"
+ ],
+ "provenance": {
+  "raw_sha256": "0b7f171089aa8fc6e96da99387f2613a7ac54f32be37451eef3ecf64434eed41",
+  "retrieved": "2026-11-08",
+  "source": "local-pdf"
+ },
+ "relations": [
+  {
+   "type": "partOf",
+   "work": "wk_cfdxn5dx"
+  }
+ ],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "Ale Lela Alem",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "There is No Other World",
+    "type": "translation"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አል ሌላ ዓለም"
+  },
+  "romanized": "Ale Lela Alem",
+  "sort_key": "አልሌላአለም"
+ },
+ "type": "work"
+}

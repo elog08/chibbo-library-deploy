@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "aragawibarhaphd",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ksz2fcwb",
+ "id": "pe_ksz2fcwb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03682505",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03682505"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Aregawi Berhe (PH.D)"
+  },
+  "romanized": "Aregawi Berhe (PH.D)",
+  "sort_key": "aregawiberhephd"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03682505"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ksz2fcwb",
+     "name": "Aregawi Berhe (PH.D)",
+     "role": "author",
+     "romanized": "Aregawi Berhe (PH.D)"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_db6qx2bq",
+   "id": "wk_db6qx2bq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHizbawi Weyane Harinet Tigiray Poletikawi Tarik (1967-1983) Ametsa R'yote Alemina Mesebaseb BeEthiopia",
+    "script": "Ethi",
+    "text": "የሕዝባዊ ወያኔ ሓርነት ትግራይ ፖለቲካዊ ታሪክ (1967-1983) ኣመፀ ርዕዮተ ዓለምና መሰባሰብ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2021
+  }
+ ]
+}

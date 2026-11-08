@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "dnhanokhaila",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kkgj4kw6",
+ "id": "pe_kkgj4kw6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "33754886",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=33754886"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52931176",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52931176"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dn.Henok Haile"
+  },
+  "romanized": "Dn.Henok Haile",
+  "sort_key": "dnhenokhaile"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=33754886"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kkgj4kw6",
+     "name": "Dn.Henok Haile",
+     "role": "author",
+     "romanized": "Dn.Henok Haile"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f1safz7f",
+   "id": "wk_f1safz7f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Mela'ekt",
+    "script": "Ethi",
+    "text": "መላእክት"
+   },
+   "type": "work",
+   "year": 2016
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_kkgj4kw6",
+     "name": "Dn.Henok Haile",
+     "role": "author",
+     "romanized": "Dn.Henok Haile"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_m4805zxn",
+   "id": "wk_m4805zxn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kana ZeGelila",
+    "script": "Ethi",
+    "text": "ቃና ዘገሊላ"
+   },
+   "type": "work"
+  }
+ ]
+}

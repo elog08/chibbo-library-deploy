@@ -45,11 +45,22 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/kesemay-yewerede-ferfer-adam-reta"
+  },
+  {
+   "@type": "Offer",
+   "price": "9.69",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=92363461"
   }
  ],
  "sameAs": [
   "https://addisbooks.com/book/kesemay-yewerede-firfir-by-adam-reta/",
-  "https://www.ethiobookreview.com/book/kesemay-yewerede-ferfer-adam-reta"
+  "https://www.ethiobookreview.com/book/kesemay-yewerede-ferfer-adam-reta",
+  "https://www.mereb.shop/rs/?mpid=92363461"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
@@ -59,6 +70,10 @@
   },
   {
    "@id": "https://chibbo.app/edition/ed_phfn7322",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_4xh7kssn",
    "@type": "Book"
   }
  ]

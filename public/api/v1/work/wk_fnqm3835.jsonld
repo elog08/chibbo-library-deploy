@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fnqm3835",
+ "@type": "Book",
+ "alternateName": [
+  "Ereto"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_9p066kew",
+   "@type": "Person",
+   "name": "Yosef Ketema"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "እሬቶ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.73",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=37020171"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.73",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84072892"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=37020171",
+  "https://www.mereb.shop/rs/?mpid=84072892"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wcv16vmt",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_1a7atb1g",
+   "@type": "Book"
+  }
+ ]
+}

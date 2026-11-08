@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bathalhamlama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nf56napc",
+ "id": "pe_nf56napc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11527973",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11527973"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bethelhem Lema"
+  },
+  "romanized": "Bethelhem Lema",
+  "sort_key": "bethelhemlema"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11527973"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nf56napc",
+     "name": "Bethelhem Lema",
+     "role": "author",
+     "romanized": "Bethelhem Lema"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0ne49tnv",
+   "id": "wk_0ne49tnv",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeHitsanat Migib Azegejajetina Tekemetaw (Le6 Werina Keza Belay)",
+    "script": "Ethi",
+    "text": "የህጻናት ምግብ አዘገጃጀትና ጠቀሜታው (ለ6 ወርና ከዛ በላይ)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

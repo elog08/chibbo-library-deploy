@@ -1,0 +1,80 @@
+{
+ "extensions": {},
+ "fingerprint": "magababiluysatfasilasayohanas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3emwfkz9",
+ "id": "pe_3emwfkz9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "81758666",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=81758666"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Megabe Biluy Setfe Silase Yohannes"
+  },
+  "romanized": "Megabe Biluy Setfe Silase Yohannes",
+  "sort_key": "megabebiluysetfesilaseyohannes"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=81758666"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_hwx1jvzf",
+     "name": "Sergew Gelaw",
+     "role": "author",
+     "romanized": "Sergew Gelaw"
+    },
+    {
+     "id": "pe_3emwfkz9",
+     "name": "Megabe Biluy Setfe Silase Yohannes",
+     "role": "author",
+     "romanized": "Megabe Biluy Setfe Silase Yohannes"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2003?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c0nyjfzq",
+   "id": "wk_c0nyjfzq",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGe'ez Kineyat (Yesinetibeb Kirs Nibabu KeNetrguamiew) Vol.3",
+    "script": "Ethi",
+    "text": "የግእዝ ቅኔያት (የስነ ጥበብ ቅርስ ንባቡ ከነትርጓሜው) ቅጽ.3"
+   },
+   "type": "work",
+   "year": 2003
+  }
+ ]
+}

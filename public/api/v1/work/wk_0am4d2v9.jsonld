@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0am4d2v9",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopia (YeAlemu Mefareja!)"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_rv611x2d",
+   "@type": "Person",
+   "name": "Nubure E'id Ermias Kebede W/yesus"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994489329",
+ "name": "ኢትዮጵያ (የዓለሙ መፋረጃ!)",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "58.13",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=38377195"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Ethiopia: Kingdom of God (Second Edition 2017)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=38377195"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_zsr0fd7j",
+   "@type": "Book"
+  }
+ ]
+}

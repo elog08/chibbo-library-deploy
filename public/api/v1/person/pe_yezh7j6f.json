@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kahlilgibran",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_yezh7j6f",
+ "id": "pe_yezh7j6f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "51723895",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=51723895"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kahlil Gibran"
+  },
+  "romanized": "Kahlil Gibran",
+  "sort_key": "kahlilgibran"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=51723895"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yezh7j6f",
+     "name": "Kahlil Gibran",
+     "role": "author",
+     "romanized": "Kahlil Gibran"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2011?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dzxhtewp",
+   "id": "wk_dzxhtewp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeTibeb Meniged",
+    "script": "Ethi",
+    "text": "የጥበብ መንገድ"
+   },
+   "type": "work",
+   "year": 2011
+  }
+ ]
+}

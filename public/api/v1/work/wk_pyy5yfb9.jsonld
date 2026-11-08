@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_pyy5yfb9",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dvjag0gv",
+   "@type": "Person",
+   "name": "William Shakespeare"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Fetsamew Syamer",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "14.40",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=65323328"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=65323328"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jy9saspy",
+   "@type": "Book"
+  }
+ ]
+}

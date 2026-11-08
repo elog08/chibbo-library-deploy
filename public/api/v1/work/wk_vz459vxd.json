@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_ej13gqbw"
+  "ed_ej13gqbw",
+  "ed_f9k3c4xq"
  ],
  "extensions": {},
  "fingerprint": "በአሉግርማህይወቱናስራዎቹ|andalagatakabada",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_vz459vxd",
  "id": "wk_vz459vxd",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "94259404"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -63,6 +68,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/bealu-girma-life-and-works-endalegeta-kebede"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94259404",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94259404"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "12.28",
+   "provider": "mereb",
+   "ref": "94259404",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94259404"
   }
  ],
  "locked_fields": [],
@@ -75,6 +98,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/bealu-girma-life-and-works-endalegeta-kebede"
  },
+ "publisher_name": "Endalegeta Kebede",
  "relations": [],
  "rights": {
   "shippable": false,

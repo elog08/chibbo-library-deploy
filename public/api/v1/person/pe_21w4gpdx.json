@@ -1,0 +1,139 @@
+{
+ "extensions": {},
+ "fingerprint": "antanahawaka",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_21w4gpdx",
+ "id": "pe_21w4gpdx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17332931",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17332931"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82946576",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82946576"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Anteneh Aweke"
+  },
+  "romanized": "Anteneh Aweke",
+  "sort_key": "antenehaweke"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17332931"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_yj0kdp2q",
+     "name": "Hailu Habtu",
+     "role": "author",
+     "romanized": "Hailu Habtu"
+    },
+    {
+     "id": "pe_21w4gpdx",
+     "name": "Anteneh Aweke",
+     "role": "author",
+     "romanized": "Anteneh Aweke"
+    },
+    {
+     "id": "pe_k9qt6y8k",
+     "name": "Getahun Amare",
+     "role": "author",
+     "romanized": "Getahun Amare"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fd5erad2",
+   "id": "wk_fd5erad2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XLIII (December 2010)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2010
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_21w4gpdx",
+     "name": "Anteneh Aweke",
+     "role": "author",
+     "romanized": "Anteneh Aweke"
+    },
+    {
+     "id": "pe_6yf8c50b",
+     "name": "Zelalem Teferra",
+     "role": "author",
+     "romanized": "Zelalem Teferra"
+    },
+    {
+     "id": "pe_y39mmcpr",
+     "name": "Alemseged Beldados",
+     "role": "author",
+     "romanized": "Alemseged Beldados"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_rxs9x71e",
+   "id": "wk_rxs9x71e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies (December 2017)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

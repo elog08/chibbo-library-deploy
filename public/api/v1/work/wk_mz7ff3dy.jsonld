@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_mz7ff3dy",
+ "@type": "Book",
+ "alternateName": [
+  "Kemay Engida"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y7wk6ejd",
+   "@type": "Person",
+   "name": "Feleke Kassa"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994433704",
+ "name": "ከማይቀር እንግዳ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=93185780"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=93185780"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ma25y007",
+   "@type": "Book"
+  }
+ ]
+}

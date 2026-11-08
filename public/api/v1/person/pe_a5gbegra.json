@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "asratabrham",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a5gbegra",
+ "id": "pe_a5gbegra",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29837537",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29837537"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76030276",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76030276"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asrat Abrham"
+  },
+  "romanized": "Asrat Abrham",
+  "sort_key": "asratabrham"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29837537"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_a5gbegra",
+     "name": "Asrat Abrham",
+     "role": "author",
+     "romanized": "Asrat Abrham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_n5vae3md",
+   "id": "wk_n5vae3md",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeAger Bestejerba",
+    "script": "Ethi",
+    "text": "ከአገር በስተጀርባ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_a5gbegra",
+     "name": "Asrat Abrham",
+     "role": "author",
+     "romanized": "Asrat Abrham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_vvzbzx12",
+   "id": "wk_vvzbzx12",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meles Ena Gibits, Lelochim Metatifoch",
+    "script": "Ethi",
+    "text": "መለስ እና ግብጽ ሌሎችም መጣጥፎች"
+   },
+   "type": "work"
+  }
+ ]
+}

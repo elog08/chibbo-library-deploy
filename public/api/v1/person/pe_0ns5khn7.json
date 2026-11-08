@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "tibabufikaduakilos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_0ns5khn7",
+ "id": "pe_0ns5khn7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "13657273",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=13657273"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "28583057",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=28583057"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tibebu Fikadu (Akilos)"
+  },
+  "romanized": "Tibebu Fikadu (Akilos)",
+  "sort_key": "tibebufikaduakilos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=13657273"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_0ns5khn7",
+     "name": "Tibebu Fikadu (Akilos)",
+     "role": "author",
+     "romanized": "Tibebu Fikadu (Akilos)"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2020",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_14gg9rrb",
+   "id": "wk_14gg9rrb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dansegochu Waliyawoch",
+    "script": "Ethi",
+    "text": "ዳንሰኞቹ ዋሊያዎች"
+   },
+   "type": "work",
+   "year": 2020
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_0ns5khn7",
+     "name": "Tibebu Fikadu (Akilos)",
+     "role": "author",
+     "romanized": "Tibebu Fikadu (Akilos)"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2020",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_sr5r1kbp",
+   "id": "wk_sr5r1kbp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Baletaksiwa Tinichel Ena Leloch Teretoch",
+    "script": "Ethi",
+    "text": "ባለታክሲዋ ጥንቸል እና ሌሎች ተረቶች"
+   },
+   "type": "work",
+   "year": 2020
+  }
+ ]
+}

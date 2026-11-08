@@ -16,7 +16,16 @@
   "ed_ay71sdcm",
   "ed_0sgr3wca"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "nature",
+    "country-and-history",
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "እሳትወይአበባ|tsagayagabramadahan",
  "first_published": {
   "edtf": "2006-09-11/2007-09-11",
@@ -28,6 +37,7 @@
  "flags": [
   "llm-extracted"
  ],
+ "form": "poetry",
  "href": "https://chibbo.app/work/wk_jkwbag59",
  "id": "wk_jkwbag59",
  "identifiers": {
@@ -62,6 +72,205 @@
   "Also held as PDF: የግዕዝ ቅኔያት.pdf",
   "Also held as PDF: የጥበብ_መንገድ_ካህሊል_ጅብራን_ትርጉም.pdf",
   "Also held as PDF: ዮራቶራድ - ይስማከ ወርቁ.pdf"
+ ],
+ "parts": [
+  {
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_eke8qzfm",
+   "id": "wk_eke8qzfm",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_jkwbag59",
+    "id": "wk_jkwbag59",
+    "title": {
+     "lang": "am",
+     "romanized": "esat wey abeba",
+     "script": "Ethi",
+     "text": "እሳት ወይ አበባ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "nature",
+    "faith-and-philosophy",
+    "grief-and-mortality"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "A Wa Sh",
+    "script": "Ethi",
+    "text": "አ ዋ ሽ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_gdgn2njp",
+   "id": "wk_gdgn2njp",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_jkwbag59",
+    "id": "wk_jkwbag59",
+    "title": {
+     "lang": "am",
+     "romanized": "esat wey abeba",
+     "script": "Ethi",
+     "text": "እሳት ወይ አበባ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "faith-and-philosophy",
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ager And!",
+    "script": "Ethi",
+    "text": "አገር አንድ!"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_834bq909",
+   "id": "wk_834bq909",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_jkwbag59",
+    "id": "wk_jkwbag59",
+    "title": {
+     "lang": "am",
+     "romanized": "esat wey abeba",
+     "script": "Ethi",
+     "text": "እሳት ወይ አበባ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Iskemech yehoy ayeny? Wzeten ashewa emwawtu?",
+    "script": "Ethi",
+    "text": "እስከመቼ ይሆኝ አየኝ? ወዘተን አሸዋ እሟውቱ?"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_ae5wsam6",
+   "id": "wk_ae5wsam6",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_jkwbag59",
+    "id": "wk_jkwbag59",
+    "title": {
+     "lang": "am",
+     "romanized": "esat wey abeba",
+     "script": "Ethi",
+     "text": "እሳት ወይ አበባ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Aste demo arada setethu, beketemaw adebabay",
+    "script": "Ethi",
+    "text": "አስቴ ደሞ አራዳ ሠተትሁ በከተማው አደባባይ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_eqyqm5nd",
+     "name": "ጸጋዬ ገብረ መድኅን",
+     "role": "author",
+     "romanized": "tsegaye gebre medehen"
+    }
+   ],
+   "form": "poetry",
+   "href": "https://chibbo.app/work/wk_3j1zg92t",
+   "id": "wk_3j1zg92t",
+   "language": "am",
+   "part_of": {
+    "href": "https://chibbo.app/work/wk_jkwbag59",
+    "id": "wk_jkwbag59",
+    "title": {
+     "lang": "am",
+     "romanized": "esat wey abeba",
+     "script": "Ethi",
+     "text": "እሳት ወይ አበባ"
+    },
+    "type": "work"
+   },
+   "poetry": true,
+   "poetry_tags": [
+    "country-and-history",
+    "nature"
+   ],
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yegna qin Yeager naw inji, beketat balena meglecha",
+    "script": "Ethi",
+    "text": "የኛ ቚይን የአገር ነው እንጂ በቅታት ባለና መግለጫ"
+   },
+   "type": "work"
+  }
+ ],
+ "poetry": true,
+ "poetry_tags": [
+  "nature",
+  "country-and-history",
+  "faith-and-philosophy"
  ],
  "provenance": {
   "raw_sha256": "eb3a541fc84285cdcf1f38c391ecce4719c2258fb5cb883c713186c94a49025e",

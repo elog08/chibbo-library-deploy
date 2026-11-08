@@ -26,6 +26,14 @@
    "rel": "about",
    "status": "ok",
    "url": "https://addisbooks.com/authors/daniel-abreha/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08005388",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08005388"
   }
  ],
  "locked_fields": [],
@@ -56,6 +64,27 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_evybdce8",
+     "name": "Daniel Abreha",
+     "role": "author",
+     "romanized": "Daniel Abreha"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t1ekaj72",
+   "id": "wk_t1ekaj72",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Haya Sost",
+    "script": "Ethi",
+    "text": "ሃያ ሦስት"
+   },
+   "type": "work"
+  },
   {
    "cover": {
     "path": "assets/covers/wk_tt617bn6.jpg",

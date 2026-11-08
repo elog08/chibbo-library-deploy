@@ -1,0 +1,113 @@
+{
+ "extensions": {},
+ "fingerprint": "malakamankiratgirmawadmu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nz9fw0p3",
+ "id": "pe_nz9fw0p3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "22045648",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=22045648"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56922172",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56922172"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mele'ake Menkirat Girma Wedmu"
+  },
+  "romanized": "Mele'ake Menkirat Girma Wedmu",
+  "sort_key": "meleakemenkiratgirmawedmu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=22045648"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nz9fw0p3",
+     "name": "Mele'ake Menkirat Girma Wedmu",
+     "role": "author",
+     "romanized": "Mele'ake Menkirat Girma Wedmu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9v52nyyy",
+   "id": "wk_9v52nyyy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Bemaleda Meya'z (Yekifu Menfesoch Dirgit) Kits.1",
+    "script": "Ethi",
+    "text": "በማለዳ መያ'ዝ (የክፉ መንፈሶች ድርጊት) ቅጽ ፩"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nz9fw0p3",
+     "name": "Mele'ake Menkirat Girma Wedmu",
+     "role": "author",
+     "romanized": "Mele'ake Menkirat Girma Wedmu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_x3g9hgxa",
+   "id": "wk_x3g9hgxa",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeMaleda Meyaz (YeKifu Menfesoch Meyaz) Vol.2",
+    "script": "Ethi",
+    "text": "በማለዳ መያዝ (የክፉ መንፈሶች ድርጊት) ቅጽ.2"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n8pv3xt1",
+ "@type": "Book",
+ "alternateName": [
+  "Filmona"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sn57pj9x",
+   "@type": "Person",
+   "name": "Tadesse Sisay"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ፊልሞና",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=54105591"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=54105591"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dr48bj7x",
+   "@type": "Book"
+  }
+ ]
+}

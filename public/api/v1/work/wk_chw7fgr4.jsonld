@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_chw7fgr4",
+ "@type": "Book",
+ "alternateName": [
+  "Muslim Telinet BeEthiopia"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_an04xmx6",
+   "@type": "Person",
+   "name": "Fahiz Mohammed"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994477180",
+ "name": "ሙስሊም ጠልነት በኢትዮጵያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28662621"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28662621"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fmcsh1jp",
+   "@type": "Book"
+  }
+ ]
+}

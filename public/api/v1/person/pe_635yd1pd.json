@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirabrahamfakada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_635yd1pd",
+ "id": "pe_635yd1pd",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "35214891",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=35214891"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95480696",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95480696"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Abraham Fekade"
+  },
+  "romanized": "Memihir Abraham Fekade",
+  "sort_key": "memihirabrahamfekade"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=35214891"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_635yd1pd",
+     "name": "Memihir Abraham Fekade",
+     "role": "author",
+     "romanized": "Memihir Abraham Fekade"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_a6b5gzr6",
+   "id": "wk_a6b5gzr6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zena Abew (Zewetu Metsiafe Genet Kale) (Kits 2)",
+    "script": "Ethi",
+    "text": "ዜና አበው (ዘውእቱ መጽሐፈ ገነት ካለእ)(ቅጽ 2)"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_635yd1pd",
+     "name": "Memihir Abraham Fekade",
+     "role": "author",
+     "romanized": "Memihir Abraham Fekade"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_x4dx3jed",
+   "id": "wk_x4dx3jed",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Zena Abew (Zewetu Metsiafe Genet Kale) (Kits 1)",
+    "script": "Ethi",
+    "text": "ዜና አበው (ዘውእቱ መጽሐፈ ገነት ካለእ)(ቅጽ 1)"
+   },
+   "type": "work"
+  }
+ ]
+}

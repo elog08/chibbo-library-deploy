@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "dalcarnigi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_4q9qx0ry",
+ "id": "pe_4q9qx0ry",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "19775989",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=19775989"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Del Carnigi"
+  },
+  "romanized": "Del Carnigi",
+  "sort_key": "delcarnigi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=19775989"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_4q9qx0ry",
+     "name": "Del Carnigi",
+     "role": "author",
+     "romanized": "Del Carnigi"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3p88wt2c",
+   "id": "wk_3p88wt2c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye5Dekika YeHywet Tarikoch (Yalitenegeru)",
+    "script": "Ethi",
+    "text": "የ5ደቂቃ የሕይወት ታሪኮች (ያልተነገሩ)"
+   },
+   "type": "work"
+  }
+ ]
+}

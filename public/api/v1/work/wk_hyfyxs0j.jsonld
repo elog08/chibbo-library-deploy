@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_hyfyxs0j",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_n6zqn2df",
+   "@type": "Person",
+   "name": "Dawit Alemu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Ye'awoulo nifas dankirgnoche",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.04",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=75195342"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=75195342"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_pt9q0n5j",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_azmextde",
+ "@type": "Book",
+ "alternateName": [
+  "YeFikir Sememen"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_a62xjqsg",
+   "@type": "Person",
+   "name": "Sydeny Sheldon"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የፍቅር ሰመመን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=34953484"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=34953484"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z1g2bxaj",
+   "@type": "Book"
+  }
+ ]
+}

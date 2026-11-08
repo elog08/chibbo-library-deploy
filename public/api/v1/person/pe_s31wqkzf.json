@@ -1,0 +1,103 @@
+{
+ "extensions": {},
+ "fingerprint": "drmaskaramlachisa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_s31wqkzf",
+ "id": "pe_s31wqkzf",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "12738916",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=12738916"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "53882250",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=53882250"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Meskerem Lechisa"
+  },
+  "romanized": "Dr.Meskerem Lechisa",
+  "sort_key": "drmeskeremlechisa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=12738916"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_s31wqkzf",
+     "name": "Dr.Meskerem Lechisa",
+     "role": "author",
+     "romanized": "Dr.Meskerem Lechisa"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2024",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_1fjksv3j",
+   "id": "wk_1fjksv3j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dekike Estifa (Talaku Yetarik Amets Sigalet)",
+    "script": "Ethi",
+    "text": "ደቂቀ እስጢፋ (ታላቁ የታሪክ ዓመፅ ሲጋለጥ)"
+   },
+   "type": "work",
+   "year": 2024
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_s31wqkzf",
+     "name": "Dr.Meskerem Lechisa",
+     "role": "author",
+     "romanized": "Dr.Meskerem Lechisa"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_xbyebk2b",
+   "id": "wk_xbyebk2b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetsehay Ketema",
+    "script": "Ethi",
+    "text": "የፀሓይ ከተማ"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

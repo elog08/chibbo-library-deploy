@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_6tzypg4f",
+ "@type": "Book",
+ "alternateName": [
+  "Martin Luther King"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4rat1td0",
+   "@type": "Person",
+   "name": "Mohammed Selman"
+  }
+ ],
+ "datePublished": "2021",
+ "inLanguage": "am",
+ "isbn": "9789994430284",
+ "name": "ማርቲን ሉተር ኪንግ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06079121"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Litman Books"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=06079121"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fcs6kp18",
+   "@type": "Book"
+  }
+ ]
+}

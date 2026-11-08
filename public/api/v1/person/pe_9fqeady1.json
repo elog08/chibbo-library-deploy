@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "fakadupatrosgsilasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9fqeady1",
+ "id": "pe_9fqeady1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "08951022",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=08951022"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Fekadu Petros G/Silase"
+  },
+  "romanized": "Fekadu Petros G/Silase",
+  "sort_key": "fekadupetrosgsilase"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=08951022"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9fqeady1",
+     "name": "Fekadu Petros G/Silase",
+     "role": "author",
+     "romanized": "Fekadu Petros G/Silase"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_hjxbea11",
+   "id": "wk_hjxbea11",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Constitution of the Federal Democratic Republic of Ethiopia",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ ሕገ መንግስት"
+   },
+   "type": "work"
+  }
+ ]
+}

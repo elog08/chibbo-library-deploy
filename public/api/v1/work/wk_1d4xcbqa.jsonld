@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1d4xcbqa",
+ "@type": "Book",
+ "alternateName": [
+  "A'emro"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_nz4h4hdk",
+   "@type": "Person",
+   "name": "Elias Michael"
+  }
+ ],
+ "datePublished": "2014?",
+ "inLanguage": "ti",
+ "name": "አእምሮ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=66623554"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Elias Michael"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=66623554"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wn7z9qvx",
+   "@type": "Book"
+  }
+ ]
+}

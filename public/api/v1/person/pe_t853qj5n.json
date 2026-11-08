@@ -1,0 +1,68 @@
+{
+ "extensions": {},
+ "fingerprint": "anymurphy",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_t853qj5n",
+ "id": "pe_t853qj5n",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92258511",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92258511"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Anny Murphy"
+  },
+  "romanized": "Anny Murphy",
+  "sort_key": "annymurphy"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92258511"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jkvez38z",
+     "name": "Peter Rosa",
+     "role": "author",
+     "romanized": "Peter Rosa"
+    },
+    {
+     "id": "pe_t853qj5n",
+     "name": "Anny Murphy",
+     "role": "author",
+     "romanized": "Anny Murphy"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_6fbchc55",
+   "id": "wk_6fbchc55",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YePapasu Fikiregna",
+    "script": "Ethi",
+    "text": "የጳጳሱ ፍቅረኛ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_q2csfzng",
+ "@type": "Book",
+ "alternateName": [
+  "YeSikuar Beshita Kulf"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_t98ka6n5",
+   "@type": "Person",
+   "name": "Dr.Jason Feng"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የስኳር በሽታ ቁልፍ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=08686713"
+  },
+  {
+   "@type": "Offer",
+   "price": "6.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=70755191"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=08686713",
+  "https://www.mereb.shop/rs/?mpid=70755191"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_s639cxrv",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_766gq2t2",
+   "@type": "Book"
+  }
+ ]
+}

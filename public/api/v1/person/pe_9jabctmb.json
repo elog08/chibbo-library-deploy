@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "migualdasarvantias",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9jabctmb",
+ "id": "pe_9jabctmb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14616770",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14616770"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Miguel De. Servanties"
+  },
+  "romanized": "Miguel De. Servanties",
+  "sort_key": "migueldeservanties"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=14616770"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9jabctmb",
+     "name": "Miguel De. Servanties",
+     "role": "author",
+     "romanized": "Miguel De. Servanties"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_f0jwj4z0",
+   "id": "wk_f0jwj4z0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Don Xihote",
+    "script": "Ethi",
+    "text": "ዶን ኪሆቴ"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

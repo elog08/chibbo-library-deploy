@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "solomonbakala",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v71cpesw",
+ "id": "pe_v71cpesw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "62863584",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=62863584"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Bekele"
+  },
+  "romanized": "Solomon Bekele",
+  "sort_key": "solomonbekele"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=62863584"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v71cpesw",
+     "name": "Solomon Bekele",
+     "role": "author",
+     "romanized": "Solomon Bekele"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t11mhz2j",
+   "id": "wk_t11mhz2j",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kidus Yohannes Wengelawi (Hiwotuna Timihirtu)",
+    "script": "Ethi",
+    "text": "ቅዱስ ዮሐንስ ወንጌላዊ(ሕይወቱና ትምህርቱ)"
+   },
+   "type": "work"
+  }
+ ]
+}

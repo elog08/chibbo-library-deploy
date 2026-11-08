@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "ababafiliposachagazadabralibanos",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_98cg397m",
+ "id": "pe_98cg397m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92554274",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92554274"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ababa Filipos Echege Zedebre Libanos"
+  },
+  "romanized": "Ababa Filipos Echege Zedebre Libanos",
+  "sort_key": "ababafiliposechegezedebrelibanos"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92554274"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_98cg397m",
+     "name": "Ababa Filipos Echege Zedebre Libanos",
+     "role": "author",
+     "romanized": "Ababa Filipos Echege Zedebre Libanos"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1998?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_w66emah6",
+   "id": "wk_w66emah6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Gedle Kiristos Samra (Weteamratiha)",
+    "script": "Ethi",
+    "text": "ገድለ ክርስቶስ ሳምራ (ወተአምራቲሃ )"
+   },
+   "type": "work",
+   "year": 1998
+  }
+ ]
+}

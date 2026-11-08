@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ps44n8aj",
+ "@type": "Book",
+ "alternateName": [
+  "Girdosh"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_eaf41wdn",
+   "@type": "Person",
+   "name": "Sisay Nigusu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ግርዶሽ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "16.05",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=67070815"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Abinet Sime (June 2014 (Fifth Edition) )"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=67070815"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_69nqe3tf",
+   "@type": "Book"
+  }
+ ]
+}

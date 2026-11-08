@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_dhf8qkjh",
+ "@type": "Book",
+ "alternateName": [
+  "Hadafe Nefis"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_45vn4qy4",
+   "@type": "Person",
+   "name": "Memihir Dagmawi Musse"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_57tdy69a",
+   "@type": "Person",
+   "name": "Deacon Yeshibelay Belachew"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሓዳፌ ነፍስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "22.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=06253834"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=06253834"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_tmdwv5mh",
+   "@type": "Book"
+  }
+ ]
+}

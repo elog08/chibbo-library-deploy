@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "daconhgiyorgistafara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fkxt7zp1",
+ "id": "pe_fkxt7zp1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11470963",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11470963"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "60312492",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=60312492"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Deacon H/Giyorgis Tefera"
+  },
+  "romanized": "Deacon H/Giyorgis Tefera",
+  "sort_key": "deaconhgiyorgistefera"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11470963"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fkxt7zp1",
+     "name": "Deacon H/Giyorgis Tefera",
+     "role": "author",
+     "romanized": "Deacon H/Giyorgis Tefera"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_cjzvye3g",
+   "id": "wk_cjzvye3g",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Matrimony Part II",
+    "script": "Latn",
+    "text": "Matrimony Part II"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fkxt7zp1",
+     "name": "Deacon H/Giyorgis Tefera",
+     "role": "author",
+     "romanized": "Deacon H/Giyorgis Tefera"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_k0k7p7za",
+   "id": "wk_k0k7p7za",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Matrimony Part I",
+    "script": "Latn",
+    "text": "Matrimony Part I"
+   },
+   "type": "work"
+  }
+ ]
+}

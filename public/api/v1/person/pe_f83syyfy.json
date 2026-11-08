@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "anadrgachawgabra",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_f83syyfy",
+ "id": "pe_f83syyfy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "44162066",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=44162066"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Enadrgachew Gebre"
+  },
+  "romanized": "Enadrgachew Gebre",
+  "sort_key": "enadrgachewgebre"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=44162066"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_f83syyfy",
+     "name": "Enadrgachew Gebre",
+     "role": "author",
+     "romanized": "Enadrgachew Gebre"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_y1qfk17t",
+   "id": "wk_y1qfk17t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lemin Enitamemalen?Mefitehewis?",
+    "script": "Ethi",
+    "text": "ለምን እንታ መማለን?መፍትሔውስ?"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

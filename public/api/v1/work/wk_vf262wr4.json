@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_9cmqqg4w"
+  "ed_9cmqqg4w",
+  "ed_t4ffxfnx"
  ],
  "extensions": {},
  "fingerprint": "እጅየበዛበትየኦሮሞፖለቲካእናኢትዮጵያዊነት|yosafkatamahordofa",
@@ -31,11 +32,19 @@
   }
  },
  "flags": [
-  "calendar-ambiguous"
+  "calendar-ambiguous",
+  "suspect-isbn"
  ],
  "href": "https://chibbo.app/work/wk_vf262wr4",
  "id": "wk_vf262wr4",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9789994431892"
+  ],
+  "mereb_mpid": [
+   "49716842"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -63,6 +72,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/oromo-politics-and-ethiopiansm-yoseph-ketema-hordofa"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49716842",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49716842"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "9.99",
+   "provider": "mereb",
+   "ref": "49716842",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49716842"
   }
  ],
  "locked_fields": [],
@@ -75,6 +102,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/oromo-politics-and-ethiopiansm-yoseph-ketema-hordofa"
  },
+ "publisher_name": "Yosef Ketema Hordofa",
  "relations": [],
  "rights": {
   "shippable": false,

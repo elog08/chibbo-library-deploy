@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "jhoncmaxwal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ks72vamn",
+ "id": "pe_ks72vamn",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45626846",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45626846"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Jhon C Maxwell"
+  },
+  "romanized": "Jhon C Maxwell",
+  "sort_key": "jhoncmaxwell"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45626846"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ks72vamn",
+     "name": "Jhon C Maxwell",
+     "role": "author",
+     "romanized": "Jhon C Maxwell"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_164wpy0b",
+   "id": "wk_164wpy0b",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Widketen Wededikut (Failing Forward)",
+    "script": "Ethi",
+    "text": "ውድቀቴን ወደድኩት"
+   },
+   "type": "work"
+  }
+ ]
+}

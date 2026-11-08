@@ -1,0 +1,134 @@
+{
+ "extensions": {},
+ "fingerprint": "taklutilahun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ymgrbqx6",
+ "id": "pe_ymgrbqx6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47207367",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47207367"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80421881",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80421881"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99937867",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99937867"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Teklu Tilahun"
+  },
+  "romanized": "Teklu Tilahun",
+  "sort_key": "teklutilahun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47207367"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ymgrbqx6",
+     "name": "Teklu Tilahun",
+     "role": "author",
+     "romanized": "Teklu Tilahun"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3h7dh01p",
+   "id": "wk_3h7dh01p",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Ye'chene qusele",
+    "script": "Latn",
+    "text": "Ye'chene qusele"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ymgrbqx6",
+     "name": "Teklu Tilahun",
+     "role": "author",
+     "romanized": "Teklu Tilahun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ja3br5kj",
+   "id": "wk_ja3br5kj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelot Menged",
+    "script": "Ethi",
+    "text": "የሎጥ መንገድ"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_ymgrbqx6",
+     "name": "Teklu Tilahun",
+     "role": "author",
+     "romanized": "Teklu Tilahun"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_xjjh5k5c",
+   "id": "wk_xjjh5k5c",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yesiket Mengedoch Ena Dezideirata 6 (Two books under one binding)",
+    "script": "Ethi",
+    "text": "የስኬት መንገዶችና ዴዚዴራታ ፮ (ሁለት መጽሐፍ በአንድ)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1qrdq42s",
+ "@type": "Book",
+ "alternateName": [
+  "Kidus Tiwfit"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_vhrtagj5",
+   "@type": "Person",
+   "name": "Father Tadros Y/ Malatin"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ቅዱስ ትውፊት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "9.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=35973602"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=35973602"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vwdtnrm4",
+   "@type": "Book"
+  }
+ ]
+}

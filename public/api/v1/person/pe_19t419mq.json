@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "wgabrailtadasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_19t419mq",
+ "id": "pe_19t419mq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "45551743",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=45551743"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "W/Gebreil Tadesse"
+  },
+  "romanized": "W/Gebreil Tadesse",
+  "sort_key": "wgebreiltadesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=45551743"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_19t419mq",
+     "name": "W/Gebreil Tadesse",
+     "role": "author",
+     "romanized": "W/Gebreil Tadesse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_7fz05c1d",
+   "id": "wk_7fz05c1d",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Secrets of Election",
+    "script": "Ethi",
+    "text": "ምሽጥራት መረፃ"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

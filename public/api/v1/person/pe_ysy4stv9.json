@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "gadionwoldamanual",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_ysy4stv9",
+ "id": "pe_ysy4stv9",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30377269",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30377269"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Gedion Wolde Amanuel"
+  },
+  "romanized": "Gedion Wolde Amanuel",
+  "sort_key": "gedionwoldeamanuel"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30377269"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_ysy4stv9",
+     "name": "Gedion Wolde Amanuel",
+     "role": "author",
+     "romanized": "Gedion Wolde Amanuel"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2010?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_8mdrk1ka",
+   "id": "wk_8mdrk1ka",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE DAY OF THE MARTYRS'",
+    "script": "Ethi",
+    "text": "የሠማዕታቱ ቀን"
+   },
+   "type": "work",
+   "year": 2010
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "extensions": {},
+ "fingerprint": "balatabalachawyihun",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_768h07fj",
+ "id": "pe_768h07fj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "66429382",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=66429382"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89130917",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89130917"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Belete Belachew Yihun"
+  },
+  "romanized": "Belete Belachew Yihun",
+  "sort_key": "beletebelachewyihun"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=66429382"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_768h07fj",
+     "name": "Belete Belachew Yihun",
+     "role": "author",
+     "romanized": "Belete Belachew Yihun"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2021",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_28pr7vwy",
+   "id": "wk_28pr7vwy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Dar dinber Yalitekuache Yebet Sira",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ዳር ድንበር ያልተቋጨ የቤት ሥራ"
+   },
+   "type": "work",
+   "year": 2021
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_768h07fj",
+     "name": "Belete Belachew Yihun",
+     "role": "author",
+     "romanized": "Belete Belachew Yihun"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_n3h4mswh",
+   "id": "wk_n3h4mswh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Djibouti (YeTigegninetachin Mesferia)",
+    "script": "Ethi",
+    "text": "ጅቡቲ (የጥገኝነታችን መስፈሪያ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "extensions": {},
+ "fingerprint": "josaphfrancis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vns39hmk",
+ "id": "pe_vns39hmk",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "50181810",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=50181810"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "89060281",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=89060281"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "91855591",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=91855591"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Joseph Francis"
+  },
+  "romanized": "Joseph Francis",
+  "sort_key": "josephfrancis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=50181810"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vns39hmk",
+     "name": "Joseph Francis",
+     "role": "author",
+     "romanized": "Joseph Francis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_43yr5rwc",
+   "id": "wk_43yr5rwc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "THE BATTLE OF ADAWA",
+    "script": "Ethi",
+    "text": "የአድዋ ጦርነት"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vns39hmk",
+     "name": "Joseph Francis",
+     "role": "author",
+     "romanized": "Joseph Francis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_77gcmbf2",
+   "id": "wk_77gcmbf2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Emperor Tewodros II of Ethiopia",
+    "script": "Ethi",
+    "text": "አፄ ቴዎድሮስ"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_vns39hmk",
+     "name": "Joseph Francis",
+     "role": "author",
+     "romanized": "Joseph Francis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_g14g7ws3",
+   "id": "wk_g14g7ws3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "This is Ethiopia (A Book of Fascinating Facts)",
+    "script": "Ethi",
+    "text": "የድንቂቱ ኢትዮጵያ ድንቃድንቆች"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

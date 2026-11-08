@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "astifanosabara",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_h5hp0br3",
+ "id": "pe_h5hp0br3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41121119",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41121119"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "59035147",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=59035147"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Estifanos Aberra"
+  },
+  "romanized": "Estifanos Aberra",
+  "sort_key": "estifanosaberra"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41121119"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_h5hp0br3",
+     "name": "Estifanos Aberra",
+     "role": "author",
+     "romanized": "Estifanos Aberra"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_066gm977",
+   "id": "wk_066gm977",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAdebabay Mistiroch",
+    "script": "Ethi",
+    "text": "የአደባባይ ሚስጥሮች"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_h5hp0br3",
+     "name": "Estifanos Aberra",
+     "role": "author",
+     "romanized": "Estifanos Aberra"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_62cv9kms",
+   "id": "wk_62cv9kms",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wiste Awaki (KeAddis Ababa guada Eske Adebabay)",
+    "script": "Ethi",
+    "text": "ውስጠ አዋቂ (ከአዲስ አበባ ጉዳ እስከ አደባባይ)"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

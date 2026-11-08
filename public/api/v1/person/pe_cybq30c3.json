@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasgiorgis",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_cybq30c3",
+ "id": "pe_cybq30c3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30764030",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30764030"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yohannes G/Giorgis"
+  },
+  "romanized": "Yohannes G/Giorgis",
+  "sort_key": "yohannesggiorgis"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30764030"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_cybq30c3",
+     "name": "Yohannes G/Giorgis",
+     "role": "author",
+     "romanized": "Yohannes G/Giorgis"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vt1rc83a",
+   "id": "wk_vt1rc83a",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Abune Petros",
+    "script": "Ethi",
+    "text": "አቡነ ጴጥሮስ"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

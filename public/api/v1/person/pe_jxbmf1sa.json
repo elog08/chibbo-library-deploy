@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "danialkasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jxbmf1sa",
+ "id": "pe_jxbmf1sa",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "90005424",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=90005424"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Kasa"
+  },
+  "romanized": "Daniel Kasa",
+  "sort_key": "danielkasa"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=90005424"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jxbmf1sa",
+     "name": "Daniel Kasa",
+     "role": "author",
+     "romanized": "Daniel Kasa"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vbqp163e",
+   "id": "wk_vbqp163e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yelekso Zaf",
+    "script": "Ethi",
+    "text": "የለቅሶ ዛፍ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

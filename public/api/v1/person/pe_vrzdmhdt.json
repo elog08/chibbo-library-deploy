@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "sisaytasfaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_vrzdmhdt",
+ "id": "pe_vrzdmhdt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80800145",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80800145"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Sisay Tesfaye"
+  },
+  "romanized": "Sisay Tesfaye",
+  "sort_key": "sisaytesfaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80800145"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_vrzdmhdt",
+     "name": "Sisay Tesfaye",
+     "role": "author",
+     "romanized": "Sisay Tesfaye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9eah70cb",
+   "id": "wk_9eah70cb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yoni Goes To Gurage Zone (YeYoni Guzo Wede Gurage Zone)",
+    "script": "Ethi",
+    "text": "የዮኒ ጉዞ ወደ ጉራጌ ዞን"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_bfbgfcma",
+ "@type": "Book",
+ "alternateName": [
+  "Gedeb Yelesh Hun"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_40tdw2mw",
+   "@type": "Person",
+   "name": "Jim Kwik"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9781401958237",
+ "name": "ገደብ የለሽ ሁን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "8.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=46563785"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=46563785"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_e7h0g22x",
+   "@type": "Book"
+  }
+ ]
+}

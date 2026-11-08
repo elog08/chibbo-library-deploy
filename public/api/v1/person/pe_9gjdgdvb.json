@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drgatachawrada",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9gjdgdvb",
+ "id": "pe_9gjdgdvb",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41202974",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41202974"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr. Getachew Reda"
+  },
+  "romanized": "Dr. Getachew Reda",
+  "sort_key": "drgetachewreda"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=41202974"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9gjdgdvb",
+     "name": "Dr. Getachew Reda",
+     "role": "author",
+     "romanized": "Dr. Getachew Reda"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_m0k6zzab",
+   "id": "wk_m0k6zzab",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye 4 Kilo Lijoch Wegoch",
+    "script": "Ethi",
+    "text": "የ4ኪሎ ልጆች ወጎች"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

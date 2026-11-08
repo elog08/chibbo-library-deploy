@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_jyagkjn2",
+ "@type": "Book",
+ "alternateName": [
+  "YeTarik Deset"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_t508ffdw",
+   "@type": "Person",
+   "name": "Asefa Yirgu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "የታሪክ ደሴት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "32.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=40229454"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Asefa Yirgu (November 13 1953)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=40229454"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_acjngwbs",
+   "@type": "Book"
+  }
+ ]
+}

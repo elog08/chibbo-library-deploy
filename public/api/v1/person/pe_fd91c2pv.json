@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "biniamaphrambwork",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fd91c2pv",
+ "id": "pe_fd91c2pv",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "54502448",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=54502448"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Biniam Ephrem B/Work"
+  },
+  "romanized": "Biniam Ephrem B/Work",
+  "sort_key": "biniamephrembwork"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=54502448"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fd91c2pv",
+     "name": "Biniam Ephrem B/Work",
+     "role": "author",
+     "romanized": "Biniam Ephrem B/Work"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4mwz461r",
+   "id": "wk_4mwz461r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Hadramawt",
+    "script": "Latn",
+    "text": "Hadramawt"
+   },
+   "type": "work"
+  }
+ ]
+}

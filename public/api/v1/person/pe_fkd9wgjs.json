@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "kasahunalamu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fkd9wgjs",
+ "id": "pe_fkd9wgjs",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "49908166",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=49908166"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "94591248",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=94591248"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Kassahun Alemu"
+  },
+  "romanized": "Kassahun Alemu",
+  "sort_key": "kassahunalemu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=49908166"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fkd9wgjs",
+     "name": "Kassahun Alemu",
+     "role": "author",
+     "romanized": "Kassahun Alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_3f6vtndc",
+   "id": "wk_3f6vtndc",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kine Zefilsuf",
+    "script": "Ethi",
+    "text": "ቅኔ-ዘፍልሱፍ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fkd9wgjs",
+     "name": "Kassahun Alemu",
+     "role": "author",
+     "romanized": "Kassahun Alemu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_srr1xzgf",
+   "id": "wk_srr1xzgf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kine",
+    "script": "Ethi",
+    "text": "ቅኔ"
+   },
+   "type": "work"
+  }
+ ]
+}

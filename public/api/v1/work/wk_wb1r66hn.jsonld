@@ -32,15 +32,34 @@
     "name": "addisbooks"
    },
    "url": "https://addisbooks.com/book/yebirhan-felegoch/"
+  },
+  {
+   "@type": "Offer",
+   "price": "5.57",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=40983037"
   }
  ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "August 2013"
+ },
  "sameAs": [
-  "https://addisbooks.com/book/yebirhan-felegoch/"
+  "https://addisbooks.com/book/yebirhan-felegoch/",
+  "https://www.mereb.shop/rs/?mpid=40983037"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_evcpekqw",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_aaqkfazr",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a9nn2g5p",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sqc0xr1e",
+   "@type": "Person",
+   "name": "Deacon Yeshitela Moges"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Disrelish diseases and the holy water",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "30.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=04035560"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=04035560"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_vda2bw0n",
+   "@type": "Book"
+  }
+ ]
+}

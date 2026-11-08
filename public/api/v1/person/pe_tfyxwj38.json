@@ -1,0 +1,79 @@
+{
+ "extensions": {},
+ "fingerprint": "takiluaskualu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_tfyxwj38",
+ "id": "pe_tfyxwj38",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11097353",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11097353"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tekilu Askualu"
+  },
+  "romanized": "Tekilu Askualu",
+  "sort_key": "tekiluaskualu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11097353"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tfyxwj38",
+     "name": "Tekilu Askualu",
+     "role": "author",
+     "romanized": "Tekilu Askualu"
+    },
+    {
+     "id": "pe_wvn9c4mt",
+     "name": "Gidey G/Kidan",
+     "role": "author",
+     "romanized": "Gidey G/Kidan"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_3jdn3cez",
+   "id": "wk_3jdn3cez",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hilim Achengafiwochu (Yemistir Mahiberat Tarik Megbiya)",
+    "script": "Ethi",
+    "text": "ሕልም አጨንጋፊዎቹ (የሚስጥር ማህበራት ታሪክ መግቢያ)"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

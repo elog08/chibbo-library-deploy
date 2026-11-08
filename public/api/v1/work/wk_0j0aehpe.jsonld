@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_0j0aehpe",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_nyy1gxv1",
+   "@type": "Person",
+   "name": "Alem Eshetu (Assistant Professor)"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Bilhu Tekuwarit",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.75",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=07519931"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=07519931"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_xk395dhg",
+   "@type": "Book"
+  }
+ ]
+}

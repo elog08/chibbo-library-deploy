@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "drmihiratababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_6swd6gwy",
+ "id": "pe_6swd6gwy",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "27396142",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=27396142"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Mihiret Abebe"
+  },
+  "romanized": "Dr.Mihiret Abebe",
+  "sort_key": "drmihiretabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=27396142"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_6swd6gwy",
+     "name": "Dr.Mihiret Abebe",
+     "role": "author",
+     "romanized": "Dr.Mihiret Abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zzdbb25h",
+   "id": "wk_zzdbb25h",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Lela Sew",
+    "script": "Ethi",
+    "text": "ሌላ ሰው"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

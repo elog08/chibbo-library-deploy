@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "clarancamayor",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zv280fwg",
+ "id": "pe_zv280fwg",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "17653539",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=17653539"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Clarence Mayor"
+  },
+  "romanized": "Clarence Mayor",
+  "sort_key": "clarencemayor"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=17653539"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zv280fwg",
+     "name": "Clarence Mayor",
+     "role": "author",
+     "romanized": "Clarence Mayor"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4bkfc67n",
+   "id": "wk_4bkfc67n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Doctor Lerase (Yebahlawi Medhanitoch Medible)",
+    "script": "Ethi",
+    "text": "ዶክተር ለራሴ (የባህላዊ መድኃኒቶች መድብል)"
+   },
+   "type": "work"
+  }
+ ]
+}

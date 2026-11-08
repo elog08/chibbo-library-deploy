@@ -1,0 +1,65 @@
+{
+ "extensions": {},
+ "fingerprint": "hailamichal",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_wktnvx8s",
+ "id": "pe_wktnvx8s",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64729335",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64729335"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Haile Michael"
+  },
+  "romanized": "Haile Michael",
+  "sort_key": "hailemichael"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64729335"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_wktnvx8s",
+     "name": "Haile Michael",
+     "role": "author",
+     "romanized": "Haile Michael"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_40tt5d3w",
+   "id": "wk_40tt5d3w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeGitsawe Megbiya (Ye'Elete Ehud)",
+    "script": "Ethi",
+    "text": "የግጻዌ መግቢያ (የዕለተ እሁድ)"
+   },
+   "type": "work"
+  }
+ ]
+}

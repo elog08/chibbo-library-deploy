@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_manedzhy"
+  "ed_manedzhy",
+  "ed_tks9nq81"
  ],
  "extensions": {},
  "fingerprint": "አለንጋናምስር|adamrata",
@@ -35,7 +36,11 @@
  ],
  "href": "https://chibbo.app/work/wk_bft0va0n",
  "id": "wk_bft0va0n",
- "identifiers": {},
+ "identifiers": {
+  "mereb_mpid": [
+   "64473192"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -61,6 +66,24 @@
    "rel": "review",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/alengana-mesir-adam-reta"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64473192",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64473192"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "7.07",
+   "provider": "mereb",
+   "ref": "64473192",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64473192"
   }
  ],
  "locked_fields": [],
@@ -73,6 +96,7 @@
   "source": "ethiobookreview",
   "source_url": "https://www.ethiobookreview.com/book/alengana-mesir-adam-reta"
  },
+ "publisher_name": "Rohobot Printers",
  "relations": [],
  "rights": {
   "shippable": false,

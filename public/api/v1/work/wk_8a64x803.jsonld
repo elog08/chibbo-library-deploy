@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_8a64x803",
+ "@type": "Book",
+ "alternateName": [
+  "Kibir"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ns4w2zme",
+   "@type": "Person",
+   "name": "Kalkidan Hailu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ክብር",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "17.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=51928068"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=51928068"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_13bkgjaw",
+   "@type": "Book"
+  }
+ ]
+}

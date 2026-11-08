@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "solomontashomabaya",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_8sj20a5m",
+ "id": "pe_8sj20a5m",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01990648",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01990648"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Solomon Teshome Baye"
+  },
+  "romanized": "Solomon Teshome Baye",
+  "sort_key": "solomonteshomebaye"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01990648"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8sj20a5m",
+     "name": "Solomon Teshome Baye",
+     "role": "author",
+     "romanized": "Solomon Teshome Baye"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_qzxyttpy",
+   "id": "wk_qzxyttpy",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Folklore (Mininteuna Yetinatu Yetikuret Akitacha)",
+    "script": "Ethi",
+    "text": "ፎክሎር (ምንነቱና የጥናቱ የትኩረት አቅጣጫ)"
+   },
+   "type": "work",
+   "year": 2015
+  }
+ ]
+}

@@ -20,7 +20,14 @@
  "editions": [
   "ed_08qn592r"
  ],
- "extensions": {},
+ "extensions": {
+  "poetry": {
+   "poetic_form": "collection",
+   "themes": [
+    "faith-and-philosophy"
+   ]
+  }
+ },
  "fingerprint": "autobiographypoemsandscientificarticles|drfakadufulas",
  "first_published": {
   "edtf": "2025-08-25",
@@ -73,6 +80,9 @@
  "merged_into": null,
  "notes": [],
  "poetry": true,
+ "poetry_tags": [
+  "faith-and-philosophy"
+ ],
  "provenance": {
   "retrieved": "2026-08-26",
   "source": "addisbooks",

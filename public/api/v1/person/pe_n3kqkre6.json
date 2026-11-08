@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "carolynmford",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_n3kqkre6",
+ "id": "pe_n3kqkre6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "30107398",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=30107398"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Carolyn M.Ford"
+  },
+  "romanized": "Carolyn M.Ford",
+  "sort_key": "carolynmford"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=30107398"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_n3kqkre6",
+     "name": "Carolyn M.Ford",
+     "role": "author",
+     "romanized": "Carolyn M.Ford"
+    },
+    {
+     "id": "pe_s9tp36c9",
+     "name": "E.A.Gutt",
+     "role": "author",
+     "romanized": "E.A.Gutt"
+    },
+    {
+     "id": "pe_m4qcrrye",
+     "name": "Antonio Romitti",
+     "role": "author",
+     "romanized": "Antonio Romitti"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1986?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a7652mdr",
+   "id": "wk_a7652mdr",
+   "language": "en",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XIX (November 1986)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናት መጽሔት"
+   },
+   "type": "work",
+   "year": 1986
+  }
+ ]
+}

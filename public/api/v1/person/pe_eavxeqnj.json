@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "victorostrovsky",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_eavxeqnj",
+ "id": "pe_eavxeqnj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "82903471",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=82903471"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Victor Ostrovsky"
+  },
+  "romanized": "Victor Ostrovsky",
+  "sort_key": "victorostrovsky"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=82903471"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_eavxeqnj",
+     "name": "Victor Ostrovsky",
+     "role": "author",
+     "romanized": "Victor Ostrovsky"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ne89cype",
+   "id": "wk_ne89cype",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemosad Menged",
+    "script": "Ethi",
+    "text": "የሞሣድ መንገድ"
+   },
+   "type": "work"
+  }
+ ]
+}

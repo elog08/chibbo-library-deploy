@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_w48863f5",
+ "@type": "Book",
+ "alternateName": [
+  "Tenkakawa Tinichel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jw549myj",
+   "@type": "Person",
+   "name": "Burktawit Tigabu"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994460038",
+ "name": "ጠንቃቃዋ ጥንቸል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "4.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=43400114"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tsehi Publishers"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=43400114"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_7tcsaahs",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "abarababamangsha",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_zcr00mz7",
+ "id": "pe_zcr00mz7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92105659",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92105659"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Abere Abebe Mengsha"
+  },
+  "romanized": "Abere Abebe Mengsha",
+  "sort_key": "abereabebemengsha"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=92105659"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_zcr00mz7",
+     "name": "Abere Abebe Mengsha",
+     "role": "author",
+     "romanized": "Abere Abebe Mengsha"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9h7bjz42",
+   "id": "wk_9h7bjz42",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Meseretawi YeWirs Hig BeEthiopia",
+    "script": "Ethi",
+    "text": "መሠረታዊ የውርስ ሕግ በኢትዮጵያ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

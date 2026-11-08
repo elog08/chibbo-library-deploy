@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "hanagagziabhar",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kdqwhbmx",
+ "id": "pe_kdqwhbmx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01349677",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01349677"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Hana G/Egziabher"
+  },
+  "romanized": "Hana G/Egziabher",
+  "sort_key": "hanagegziabher"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01349677"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kdqwhbmx",
+     "name": "Hana G/Egziabher",
+     "role": "author",
+     "romanized": "Hana G/Egziabher"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1974?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_6bga1rnn",
+   "id": "wk_6bga1rnn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeMigib Ta'em (Betenegna Sewnet Tenegna Ae'mero)",
+    "script": "Ethi",
+    "text": "የምግብ ጣዕም (በጤነኛ ሰውነት ጤነኛ አእምሮ)"
+   },
+   "type": "work",
+   "year": 1974
+  }
+ ]
+}

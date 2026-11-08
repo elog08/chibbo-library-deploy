@@ -1,0 +1,45 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_1k7xyak5",
+ "@type": "Book",
+ "alternateName": [
+  "Kibrit"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_bhvn7x2a",
+   "@type": "Person",
+   "name": "Yigrem Ashenafi"
+  }
+ ],
+ "datePublished": "2014?",
+ "inLanguage": "am",
+ "isbn": "9789994496822",
+ "name": "ክብሪት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=74187692"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Yigrem Ashenafi"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=74187692"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_hy5q3t98",
+   "@type": "Book"
+  }
+ ]
+}

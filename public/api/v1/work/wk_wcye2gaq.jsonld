@@ -1,0 +1,58 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wcye2gaq",
+ "@type": "Book",
+ "alternateName": [
+  "Tikur Dem"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_3s0msc58",
+   "@type": "Person",
+   "name": "Anidarge Mesfin"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ጥቁር ደም",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=02372742"
+  },
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=95805470"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Anidarge Mesfin (1988 (Originally))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=02372742",
+  "https://www.mereb.shop/rs/?mpid=95805470"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_wvz5amg8",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_4bxqmvmg",
+   "@type": "Book"
+  }
+ ]
+}

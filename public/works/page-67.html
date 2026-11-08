@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Books — page 67</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Books</a>
+    <a href="../people/page-1.html">Authors</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../works/page-1.html"><span itemprop="name">Books</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Page 67</span><meta itemprop="position" content="3"></li></ol></nav>
+<h1>Books</h1><ul class="grid"><li class="card">
+  <a class="thumb" href="../work/wk_8k14mqm7.html"><img src="../assets/covers/wk_8k14mqm7.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_8k14mqm7.html">የባህላዊ ምግቦች አዘገጃጀት</a>
+  <span class="r">yebahlawi megboch azegejajet</span>
+  <span class="a">ደብረወርቅ አባተ</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sdr934xn.html"><div class="placeholder" lang="am">የባህላዊ ምግቦች አዛገጃጀት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sdr934xn.html">የባህላዊ ምግቦች አዛገጃጀት</a>
+  <span class="r">Ye-bahelawi Megeboch Azegejajet</span>
+  <span class="a">Debrework Abate</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_szxyww60.html"><img src="../assets/covers/wk_szxyww60.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_szxyww60.html">የባህል ቋጠሮ</a>
+  <span class="r">yebahel qwatero</span>
+  <span class="a">ይበልጣል አድማስ · 2014</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2bm5vwr4.html"><div class="placeholder" lang="am">የባህር ኃይሉ ራስወርቅ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_2bm5vwr4.html">የባህር ኃይሉ ራስወርቅ</a>
+  <span class="r">YeBahiru Hailu Raswork</span>
+  <span class="a">Petty Officer Raswork Mengesha</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_w9wm15mk.html"><div class="placeholder" lang="am">የባሕር ህግ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_w9wm15mk.html">የባሕር ህግ</a>
+  <span class="r">YeBaher Hege</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cfm5bq2w.html"><img src="../assets/covers/wk_cfm5bq2w.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_cfm5bq2w.html">የባለስልጣኖቹ ጥቅስ</a>
+  <span class="r">yebaleseltanochu teqes</span>
+  <span class="a">መላኩ አለም · 2012</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zfz7xzd6.html"><div class="placeholder" lang="am">የባለቅኔ ምህላ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zfz7xzd6.html">የባለቅኔ ምህላ</a>
+  <span class="r">YeBalekene Mehala</span>
+  <span class="a">Mulugeta Tesfaye</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9mr0ngd6.html"><div class="placeholder" lang="am">የባለቅኔው ኑዛዜ 1946-1996</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_9mr0ngd6.html">የባለቅኔው ኑዛዜ 1946-1996</a>
+  <span class="r">Yebalekinew Nuzaze 1946-1996</span>
+  <span class="a">Fasika Kebede</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dmwpj1bn.html"><div class="placeholder" lang="am">የባለታሪኮቹ ዳግም ልደት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_dmwpj1bn.html">የባለታሪኮቹ ዳግም ልደት</a>
+  <span class="r">YeBaletarikochu Dagim Lidet</span>
+  <span class="a">Alemayehu Neri Wergaso</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hhfbfkv7.html"><div class="placeholder" lang="am">የባለጸጋነት መንገድ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_hhfbfkv7.html">የባለጸጋነት መንገድ</a>
+  <span class="r">YeBaletseganet Menged</span>
+  <span class="a">Robert T.Kiyosaki</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_aqcmqt89.html"><img src="../assets/covers/wk_aqcmqt89.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_aqcmqt89.html">የባሌ ቀይ ቀበሮ ወደ ቦሌ</a>
+  <span class="r">yebale qey qebero wede bole</span>
+  <span class="a">Ready Set Go Books</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5zjb4sd1.html"><div class="placeholder" lang="am">የባልትና ምንጭ(በቀላል መማሪያ ሊሰሩ የሚችሉ...ከ100 በላይ የሚሆኑ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_5zjb4sd1.html">የባልትና ምንጭ(በቀላል መማሪያ ሊሰሩ የሚችሉ...ከ100 በላይ የሚሆኑ የምግብ ዓይነቶችን የያዘ ዝነኛ መጽሀፍ!)</a>
+  <span class="r">YeBaltina Minch(Bekelal Memeriya Liseru Ymichlu...Ke100 Belay Yemihonu Yemgb Aynetochin Yeyaze Znegna Metsaf !)</span>
+  <span class="a">Bezabish Fenta · 2006</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5962sd6t.html"><div class="placeholder" lang="am">የባልትና ትምሀርት መምሪያ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_5962sd6t.html">የባልትና ትምሀርት መምሪያ</a>
+  <span class="r">YeBalitina Timihirt Memriya</span>
+  <span class="a">Belaynesh Mengistu · 1973</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4ec8j87b.html"><img src="../assets/covers/wk_4ec8j87b.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_4ec8j87b.html">የባልትና ትምህርት መምሪያ</a>
+  <span class="r">yebaletna temeheret memriya</span>
+  <span class="a">በላይነሽ መንግሥቱ · 1962</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rybvedp4.html"><img src="../assets/covers/wk_rybvedp4.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rybvedp4.html">የባልና የሚስት አለመግባባትና የፍቺ ምክንያቶች</a>
+  <span class="r">yebalna yemiset alemegbabatna yefchi mekenyatoch</span>
+  <span class="a">አበበ አሳመረ እንዳለ · 2007</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qk78cqb9.html"><div class="placeholder" lang="am">የባየሽ ማስታወሻ (ስድስት ወራት በአማፅያኑ ወረራ ) ወሎ ራያ ቆቦ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_qk78cqb9.html">የባየሽ ማስታወሻ (ስድስት ወራት በአማፅያኑ ወረራ ) ወሎ ራያ ቆቦ</a>
+  <span class="r">YeBayesh Masitawesha (Sidist Werat BeAmatsiyanu Werera) Welo, Raya Kobo</span>
+  <span class="a">Bayuwa Sisay</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_p2w62ae9.html"><div class="placeholder" lang="am">የቤልሆር ሹመኞች (የሲኦል ፍርደኞች ፪)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_p2w62ae9.html">የቤልሆር ሹመኞች (የሲኦል ፍርደኞች ፪)</a>
+  <span class="r">YeBelher Shumegnoch (YeSi&#x27;ol Firdegnoch 2)</span>
+  <span class="a">Abebe Akalu Kibiret</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wchv9ew0.html"><div class="placeholder" lang="am">የቤተ መንግስቱ ባር ማን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_wchv9ew0.html">የቤተ መንግስቱ ባር ማን</a>
+  <span class="r">Yebetemengistu Bar Man</span>
+  <span class="a">Weynishet Alemayehu</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zr02bkcg.html"><div class="placeholder" lang="am">የቤተክርስቲያን መረጃዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zr02bkcg.html">የቤተክርስቲያን መረጃዎች</a>
+  <span class="r">YeBetechristian Merejawoch</span>
+  <span class="a">Deacon Daniel Kibret · 2020</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4jx73gq2.html"><img src="../assets/covers/wk_4jx73gq2.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_4jx73gq2.html">የቤተክርስቲያን ማፊያዎች</a>
+  <span class="r">yebetekerestiyan mafiyawoch</span>
+  <span class="a">Makhado Sinthumule Ramabulana, ሀኒም ኤልያስ, ተክሉ ጥላሁን · 2019</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f9khr3p4.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ብርሃን ቅዱስ ያሬድ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_f9khr3p4.html">የቤተ ክርስቲያን ብርሃን ቅዱስ ያሬድ</a>
+  <span class="r">Yebetechrstian Birhan Kidus Yared</span>
+  <span class="a">Tadesse Alemayehu · 2013</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_t6zegb0a.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_t6zegb0a.html">የቤተ ክርስቲያን ታሪክ</a>
+  <span class="r">Yebetechrstiyan Tarik</span>
+  <span class="a">His Holiness Abune Gorgorios</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wjbv3e3n.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_wjbv3e3n.html">የቤተ ክርስቲያን ታሪክ</a>
+  <span class="r">YeBete Chrstian Tarik</span>
+  <span class="a">Lule Melaku · 1995</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_54pjxzzk.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ታሪክ ቁ.1</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_54pjxzzk.html">የቤተ ክርስቲያን ታሪክ ቁ.1</a>
+  <span class="r">YeBetechristian Tarik Ku.1</span>
+  <span class="a">Memihir Chere, Dr.Semu Mitiku · 2022</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cnjm0gva.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ታሪክ ቁጥር 2</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_cnjm0gva.html">የቤተ ክርስቲያን ታሪክ ቁጥር 2</a>
+  <span class="r">YeBete Christian Tarik Kutir 2</span>
+  <span class="a">Deacon Asaminew Kassa, Deacon Mengistu Gobeze · 2022</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2fz79c5z.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ታሪክ በዓለም መድረክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_2fz79c5z.html">የቤተ ክርስቲያን ታሪክ በዓለም መድረክ</a>
+  <span class="r">YeBetechristian Tarik BeAlem Medirek</span>
+  <span class="a">Aba Gorgorios · 1985</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_gw0axq57.html"><div class="placeholder" lang="am">የቤተክርስቲያን ታሪክ ከዓለም እስከ ኢትዮጵይ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_gw0axq57.html">የቤተክርስቲያን ታሪክ ከዓለም እስከ ኢትዮጵይ</a>
+  <span class="r">YeBetechrstiayn Tarik KeAlem Esike Ethiopia</span>
+  <span class="a">Berhanu Abegaz</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j398f5rk.html"><div class="placeholder" lang="am">የቤተ ክርስቲያን ፀሎት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j398f5rk.html">የቤተ ክርስቲያን ፀሎት</a>
+  <span class="r">YeBEtechristiyan Tselot</span>
+  <span class="a">Scholars of Ethiopian Orthodox Church</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c1r6g8nj.html"><div class="placeholder" lang="am">የቤትህ ቅናት በላኝ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_c1r6g8nj.html">የቤትህ ቅናት በላኝ</a>
+  <span class="r">Yebetih Kinat Belagn</span>
+  <span class="a">BeMemihir Mistiresilase Manaye</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j9d224tn.html"><div class="placeholder" lang="am">የቤት ሕክምና (ጤና አዳም) ቀላል ርካሽና ተፈጥሮአዊ የሕክምና ዘዴ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j9d224tn.html">የቤት ሕክምና (ጤና አዳም) ቀላል ርካሽና ተፈጥሮአዊ የሕክምና ዘዴ</a>
+  <span class="r">YeBet Hikimina (Tena Adam) Kelal,Rikash Tefetroawi YeHikimina Zede</span>
+  <span class="a">Berni Ward</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_tmfy5fr2.html"><div class="placeholder" lang="am">የቤት መሰናዶ በመልካም ዘዴ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_tmfy5fr2.html">የቤት መሰናዶ በመልካም ዘዴ</a>
+  <span class="r">YeBet Mesenado Bemelkam Zede</span>
+  <span class="a">Genet Atinafu</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ckda910r.html"><div class="placeholder" lang="am">የቤት ስልክ ሲሆን አገልግሎት ስላமைን በትንሳኤ 2005 በላችሁ ደውሉ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ckda910r.html">የቤት ስልክ ሲሆን አገልግሎት ስላமைን በትንሳኤ 2005 በላችሁ ደውሉ</a>
+  <span class="r">Yebeit Silek Siyhon Agelgilot Silamein Bêtensae 2005 Belachu Dewlu</span>
+  <span class="a">ኤፍሬም ስዩም</span>
+  <span class="a">in ፍቅር እዚህ ቦታ ፈገግ ብሎ ነበር</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j7zx62ez.html"><div class="placeholder" lang="am">የቤት እንስሳት አመፅ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j7zx62ez.html">የቤት እንስሳት አመፅ</a>
+  <span class="r">Yebet Enisisat Amets</span>
+  <span class="a">Tikikil Gena</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_s8mz2ht8.html"><img src="../assets/covers/wk_s8mz2ht8.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_s8mz2ht8.html">የቤት ውስጥ ሕክምና መፍትሄዎች ከሀ እስከ ፐ): ( በእንግሊዝኛ እና በአማርኛ)</a>
+  <span class="r">Home Remedies A-Z ( in English &amp;amp;amp; Amharic</span>
+  <span class="a">Dr. Fekadu Fullas, Prof. Bisrat Hailemeskel · 2025</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zacmatx5.html"><img src="../assets/covers/wk_zacmatx5.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_zacmatx5.html">የቤት ውስጥ የሕክምና መፍትሄዎች ከሀ እስከ ፐ ተፈጥሯዊ ህክምና ለቤተሰብዎ ከ 80 በላይ የሚሆኑ በሽታዎች እና የተፈጥሮ ሕክምናዎቻቸው</a>
+  <span class="r">yebet weset yehekemna mefethewoch kehe eske pe tefetrwawi hekemna lebetesebwo ke 80 belay yemihonu beshtawoch ena yetefetro hekemnawochachew</span>
+  <span class="a">Prof. Bisrat Hailemeskel, Dr. Fekadu Fullas · 2024</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wc6a6saw.html"><div class="placeholder" lang="am">የቤንቾች ተረቶች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_wc6a6saw.html">የቤንቾች ተረቶች</a>
+  <span class="r">YeBenchoch Teretoch</span>
+  <span class="a">Baylegn Tasew</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kntyxqkg.html"><div class="placeholder" lang="am">የቤዛ ቡችላ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_kntyxqkg.html">የቤዛ ቡችላ</a>
+  <span class="r">YeBeza Buchila (Beza&#x27;s Puppy)</span>
+  <span class="a">Asress Bekele (Cherry) · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_mjfnfh0a.html"><div class="placeholder" lang="am">የ&quot;ብሔር&quot; ማንነት ቅዠት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_mjfnfh0a.html">የ&quot;ብሔር&quot; ማንነት ቅዠት</a>
+  <span class="r">Ye&quot;biher&quot;Maninet Kizet</span>
+  <span class="a">Sebsibe Alemineh</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9dxe9p6n.html"><div class="placeholder" lang="am">የብሔርተኞች የትድግና ጉዞ (የአማራ ሕዝብ ትግል አንደ ናሙና)</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_9dxe9p6n.html">የብሔርተኞች የትድግና ጉዞ (የአማራ ሕዝብ ትግል አንደ ናሙና)</a>
+  <span class="r">YeNiheroch YeTidigina Guzo (YeAmara Hizib Tigil ende Namuna)</span>
+  <span class="a">Dr.Andinet Tokuma</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4g1h4qw2.html"><div class="placeholder" lang="am">የብሉይ ኪዳን ማብራሪያ እና ምሳሌነቱ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_4g1h4qw2.html">የብሉይ ኪዳን ማብራሪያ እና ምሳሌነቱ</a>
+  <span class="r">YeBiluy Kidan Mabraria Ena Misalenetu</span>
+  <span class="a">Memihir Sahilu Ademe</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_myzwzg0e.html"><div class="placeholder" lang="am">የብሉይ ኪዳንና የሐዲስ ኪዳን መጽሐፍት መግቢያና ይዘት (ዘኦርቶዶክስ </div></a>
+  <a class="t" lang="am"
+     href="../work/wk_myzwzg0e.html">የብሉይ ኪዳንና የሐዲስ ኪዳን መጽሐፍት መግቢያና ይዘት (ዘኦርቶዶክስ ተዋህዶ)</a>
+  <span class="r">YeBiluy Kidanina YeHadis Kidan Metsihafit Megbiyana Yizet (ZeOrthodox Tewahido)</span>
+  <span class="a">Mer&#x27;awi Betsiha</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_h2ctqwps.html"><img src="../assets/covers/wk_h2ctqwps.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_h2ctqwps.html">የብላቴናው ማስታወሻ</a>
+  <span class="r">yeblatenaw mastawesha</span>
+  <span class="a">አክሊሉ ከበደ · 2023</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ctvd3ftd.html"><div class="placeholder" lang="am">የብላቴን ጌታ ማኅተመ ሥላሴ ወ/መስቀል ስብስብ ሥራዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ctvd3ftd.html">የብላቴን ጌታ ማኅተመ ሥላሴ ወ/መስቀል ስብስብ ሥራዎች</a>
+  <span class="r">Yebilaten Geta Mahiteme Silase W/Meskel Sibisbi Serawoch</span>
+  <span class="a">Yebilaten Geta Mahiteme Silase W/Meskel</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c43mbbw6.html"><img src="../assets/covers/wk_c43mbbw6.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_c43mbbw6.html">የብልፅግና ሳይንሳዊ መንገድ</a>
+  <span class="r">yebeletsegna sayensawi menged</span>
+  <span class="a">ዋላስ ዲ. ዋትልስ, ኢዮብ ካሣ · 2005</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_q94vxa8t.html"><div class="placeholder" lang="am">የብልፅግና ቁልፍ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_q94vxa8t.html">የብልፅግና ቁልፍ</a>
+  <span class="r">YeBiltsigna Qulif</span>
+  <span class="a">Wedalat Gedamu, Bekele G/Hiwot, Milkias Lisanu, Wosen Seged, Senayet Fekade, Tamiru Kebede, Mulu Solomon, Yemewedesh Seyoum, Dn. Gereme Shewaye, Desta Legese, Bekele Tsegaye, Andualem Tegegn, Yoseph Haile, Esraiel Kassa, Afework Yohanes, Tsdi Moges, Yohannes Wolde, Geremew Welde Aemayat, Dr. Woretaw Bezabehe, Tigist Tesfaye, Meseret Belehu, Addis Adugna, Tedi Mamo, Getachew Biratu, Amha Teferi, Aynalem Estfanos, Mihiret W/Medihin, Bulbula Tule, Yonatan Gedion, Woubetu Worku, Kalkidan Kebede, Wubalem Taye, Mesfin Asfaw, Lema Beshahe, Sinidu Abebe · 2007</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kz5mhht3.html"><div class="placeholder" lang="am">የብርሃኑ ዘሪሁን ቀደምት ሥራዎች (ቅጽ 1)፟</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_kz5mhht3.html">የብርሃኑ ዘሪሁን ቀደምት ሥራዎች (ቅጽ 1)፟</a>
+  <span class="r">YeBirhanu Zerihun Kedemt Sirawoch (Volume 1)</span>
+  <span class="a">Birhanu Zerihun · 1990</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_fv17046w.html"><div class="placeholder" lang="am">የብርሃኑ ዘሪሁን ቀደምት ሥራዎች (ቅጽ 2)፟</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_fv17046w.html">የብርሃኑ ዘሪሁን ቀደምት ሥራዎች (ቅጽ 2)፟</a>
+  <span class="r">YeBirhanu Zerihun Kedemt Sirawoch (Volume 2)</span>
+  <span class="a">Birhanu Zerihun · 1990</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_efa00r59.html"><img src="../assets/covers/wk_efa00r59.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_efa00r59.html">የብርሃን ናፍቆት</a>
+  <span class="r">yeberhan nafqot</span>
+  <span class="a">አቤል እ. · 2002</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dx8rpvs8.html"><img src="../assets/covers/wk_dx8rpvs8.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_dx8rpvs8.html">የብርሃን እናት</a>
+  <span class="r">yeberhan enat</span>
+  <span class="a">ዲያቆን ሄኖክ ሀይሌ · 2014</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_g33d96ar.html"><div class="placeholder" lang="am">የብርሃን እናት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_g33d96ar.html">የብርሃን እናት</a>
+  <span class="r">YeBirihan Enat</span>
+  <span class="a">Deacon Henok Haile · 2022</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rzf2a8p1.html"><img src="../assets/covers/wk_rzf2a8p1.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_rzf2a8p1.html">የብርሃን ክንፎች</a>
+  <span class="r">yeberhan kenfoch</span>
+  <span class="a">ኤፍሬም ስዩም · 2004</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8fwppz2e.html"><img src="../assets/covers/wk_8fwppz2e.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_8fwppz2e.html">የብርሃን ኮክብ- 2</a>
+  <span class="r">yeberhan kokeb- 2</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_jrhvgshm.html"><img src="../assets/covers/wk_jrhvgshm.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_jrhvgshm.html">የብርሃን ጥሞና</a>
+  <span class="r">yeberhan temona</span>
+  <span class="a">ሳባ ሲሳይ · 2026</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_wb1r66hn.html"><img src="../assets/covers/wk_wb1r66hn.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_wb1r66hn.html">የብርሃን ፈለጎች</a>
+  <span class="r">Yebirhan Felegoch</span>
+  <span class="a">አለማየሁ ገላጋይ · 2023</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cfdxn5dx.html"><img src="../assets/covers/wk_cfdxn5dx.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_cfdxn5dx.html">የብርሃን ፍቅር</a>
+  <span class="r">yeberhan feqer</span>
+  <span class="a">ደበበ ሰይፉ · 1980</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_efw1mmgf.html"><img src="../assets/covers/wk_efw1mmgf.jpg" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_efw1mmgf.html">የብርሌ አደባባይ</a>
+  <span class="r">Ye Berele Adebabay</span>
+  <span class="a">Belay Mekonen Yemenu · 2026</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_50j58q6r.html"><img src="../assets/covers/wk_50j58q6r.png" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_50j58q6r.html">የብስክሌት ጥገና</a>
+  <span class="r">yebeseklet tegena</span>
+  
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_2s7xc7rx.html"><div class="placeholder" lang="am">የብዞችን ድምፅ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_2s7xc7rx.html">የብዞችን ድምፅ</a>
+  <span class="r">Ye-Bezochin Dimts</span>
+  <span class="a">ደበበ ሰይፉ</span>
+  <span class="a">in የብርሃን ፍቅር</span>
+</li><li class="card">
+  <a class="thumb" href="../work/wk_282pg4av.html"><div class="placeholder" lang="am">የብፁዕ ወቅዱስ ፓትርያርክ ቴዎፍሎስ አጭር የሕይወት ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_282pg4av.html">የብፁዕ ወቅዱስ ፓትርያርክ ቴዎፍሎስ አጭር የሕይወት ታሪክ</a>
+  <span class="r">BRIEF LIFE HISTROY OF HIS HOLINESS PATRIARCH THEOPHILOS</span>
+  <span class="a">LATE Fifth Patriarch Abune Paulos</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ae4zf1ya.html"><img src="../assets/covers/wk_ae4zf1ya.webp" alt="" loading="lazy"></a>
+  <a class="t" lang="am"
+     href="../work/wk_ae4zf1ya.html">የቦሌ ጉዶች</a>
+  <span class="r">yebole gudoch</span>
+  <span class="a">ሄለን አሰፋ · 2015</span>
+  
+</li></ul><div class="pager"><a href="page-66.html">&larr; previous</a><span class="spacer"></span><span>page 67 of 96 · 5748 books</span><span class="spacer"></span><a href="page-68.html">next &rarr;</a></div>
+<footer>
+  <span>5748 books · 3866 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
+</footer>
+</div></body></html>

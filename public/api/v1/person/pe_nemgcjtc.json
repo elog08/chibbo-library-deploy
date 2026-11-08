@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "amanualabraham",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nemgcjtc",
+ "id": "pe_nemgcjtc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46379034",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46379034"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Amanuel Abreham"
+  },
+  "romanized": "Amanuel Abreham",
+  "sort_key": "amanuelabreham"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=46379034"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nemgcjtc",
+     "name": "Amanuel Abreham",
+     "role": "author",
+     "romanized": "Amanuel Abreham"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mkb4rgmp",
+   "id": "wk_mkb4rgmp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yemelkam Society Sinesr'atina Higigat",
+    "script": "Ethi",
+    "text": "የመልካም ሶስዬቴ ሥነ ሥርዓትና ሕግጋት"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_v9bpnmzk",
+ "@type": "Book",
+ "alternateName": [
+  "Ethiopia Yebabur Bermel"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_dwwjrd1d",
+   "@type": "Person",
+   "name": "Roman Prochazika"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9781599071138",
+ "name": "ኢትዮጵያ የባቡር በርሜል",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.47",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=96580163"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Tsihay Publsihers (June )"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=96580163"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_sg651r39",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "yawadaqatfalagochalamayahugalagay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_g1x84qkr",
+ "id": "pe_g1x84qkr",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "yewedeqet felegoch alemayehu gelagay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የውድቅት ፈለጎች አለማየሁ ገላጋይ"
+  },
+  "romanized": "yewedeqet felegoch alemayehu gelagay",
+  "sort_key": "የውድቅትፈለጎችአለማየሁገላጋይ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_z803e2rj.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/02/ዙቤይዳ-1.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_g1x84qkr",
+     "name": "የውድቅት ፈለጎች አለማየሁ ገላጋይ",
+     "role": "author",
+     "romanized": "yewedeqet felegoch alemayehu gelagay"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_z803e2rj",
+   "id": "wk_z803e2rj",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Werisa",
+    "script": "Ethi",
+    "text": "ወሪሳ"
+   },
+   "type": "work"
+  }
+ ]
+}

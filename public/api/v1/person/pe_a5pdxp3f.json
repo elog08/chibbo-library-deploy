@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "drsamumitiku",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_a5pdxp3f",
+ "id": "pe_a5pdxp3f",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "80805292",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=80805292"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Dr.Semu Mitiku"
+  },
+  "romanized": "Dr.Semu Mitiku",
+  "sort_key": "drsemumitiku"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=80805292"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_8fdncjy7",
+     "name": "Memihir Chere",
+     "role": "author",
+     "romanized": "Memihir Chere"
+    },
+    {
+     "id": "pe_a5pdxp3f",
+     "name": "Dr.Semu Mitiku",
+     "role": "author",
+     "romanized": "Dr.Semu Mitiku"
+    }
+   ],
+   "date": {
+    "calendar": "gregorian",
+    "edtf": "2022",
+    "flags": []
+   },
+   "href": "https://chibbo.app/work/wk_54pjxzzk",
+   "id": "wk_54pjxzzk",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBetechristian Tarik Ku.1",
+    "script": "Ethi",
+    "text": "የቤተ ክርስቲያን ታሪክ ቁ.1"
+   },
+   "type": "work",
+   "year": 2022
+  }
+ ]
+}

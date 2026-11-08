@@ -1,0 +1,37 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xek2fcsz",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_xqdr1zsg",
+   "@type": "Person",
+   "name": "Yismake Worku"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994484331",
+ "name": "RAMATOHARA from the author of Dertogada",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "18.04",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=89599599"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=89599599"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_n47f85d1",
+   "@type": "Book"
+  }
+ ]
+}

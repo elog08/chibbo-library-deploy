@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "ashanafimalasa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_3cbgca99",
+ "id": "pe_3cbgca99",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76388923",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76388923"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ashenafi Melesse"
+  },
+  "romanized": "Ashenafi Melesse",
+  "sort_key": "ashenafimelesse"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76388923"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_3cbgca99",
+     "name": "Ashenafi Melesse",
+     "role": "author",
+     "romanized": "Ashenafi Melesse"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_zq6maars",
+   "id": "wk_zq6maars",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDagmawi Getsoch",
+    "script": "Ethi",
+    "text": "የዳግማዊ ገፆች"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

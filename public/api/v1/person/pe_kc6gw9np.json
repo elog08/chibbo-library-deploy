@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "amparorhailasalasia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kc6gw9np",
+ "id": "pe_kc6gw9np",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "87475666",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=87475666"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Emperor Haile Selassie"
+  },
+  "romanized": "Emperor Haile Selassie",
+  "sort_key": "emperorhaileselassie"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=87475666"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kc6gw9np",
+     "name": "Emperor Haile Selassie",
+     "role": "author",
+     "romanized": "Emperor Haile Selassie"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_ern0zs8e",
+   "id": "wk_ern0zs8e",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Hiwotena YeEthiopia Ermija (Second Book)",
+    "script": "Latn",
+    "text": "Hiwotena YeEthiopia Ermija (Second Book)"
+   },
+   "type": "work"
+  }
+ ]
+}

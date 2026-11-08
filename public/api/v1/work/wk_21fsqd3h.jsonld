@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_21fsqd3h",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_q627w0t4",
+   "@type": "Person",
+   "name": "Pawlo Koyuleho"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Netsa Fiker",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.60",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=69736884"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=69736884"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_njn145k2",
+   "@type": "Book"
+  }
+ ]
+}

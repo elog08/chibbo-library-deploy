@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "mulumatshaf",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qh8bmxmt",
+ "id": "pe_qh8bmxmt",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "mulu metshef",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ሙሉ መጽሐፍ"
+  },
+  "romanized": "mulu metshef",
+  "sort_key": "ሙሉመጽሀፍ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_svhdrax3.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/ሾተላዩ-ሰላይ.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_qh8bmxmt",
+     "name": "ሙሉ መጽሐፍ",
+     "role": "author",
+     "romanized": "mulu metshef"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_svhdrax3",
+   "id": "wk_svhdrax3",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "papiyo",
+    "script": "Ethi",
+    "text": "ፓፒዮ"
+   },
+   "type": "work"
+  }
+ ]
+}

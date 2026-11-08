@@ -1,0 +1,97 @@
+{
+ "extensions": {},
+ "fingerprint": "alulamarasatakilu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xykwsxpc",
+ "id": "pe_xykwsxpc",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "11281513",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=11281513"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "46872304",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=46872304"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Alula Meresa Tekilu"
+  },
+  "romanized": "Alula Meresa Tekilu",
+  "sort_key": "alulameresatekilu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=11281513"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xykwsxpc",
+     "name": "Alula Meresa Tekilu",
+     "role": "author",
+     "romanized": "Alula Meresa Tekilu"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_1h9xe2sp",
+   "id": "wk_1h9xe2sp",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Niskhi Siga,Tsi'enetiki Siga",
+    "script": "Ethi",
+    "text": "ንስኺ ስጋ ፀዕነትኪ ስጋ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xykwsxpc",
+     "name": "Alula Meresa Tekilu",
+     "role": "author",
+     "romanized": "Alula Meresa Tekilu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_7mnvvnm1",
+   "id": "wk_7mnvvnm1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Erasish Siga Yechanishiw Siga (In three languages)",
+    "script": "Ethi",
+    "text": "እራስሽ ስጋ የጫንሽው ስጋ (በሶስት ቋንቋዎች)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "rohababa",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_07tfqadh",
+ "id": "pe_07tfqadh",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "56510148",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=56510148"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Roha Abebe"
+  },
+  "romanized": "Roha Abebe",
+  "sort_key": "rohaabebe"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=56510148"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_07tfqadh",
+     "name": "Roha Abebe",
+     "role": "author",
+     "romanized": "Roha Abebe"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2016?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_xcrdhcxm",
+   "id": "wk_xcrdhcxm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAmara Guday",
+    "script": "Ethi",
+    "text": "የአማራ ጉዳይ"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_zw42hgst",
+ "@type": "Book",
+ "alternateName": [
+  "Sewinetachin"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_fx817jcc",
+   "@type": "Person",
+   "name": "Dr.Birhanu Boggale"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_p58c136q",
+   "@type": "Person",
+   "name": "Dr.Nuru Mohammad Tahir"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994440276",
+ "name": "ሰውነታችን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "5.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=47972829"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Spotlight Publishers (2014 (First Edition))"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=47972829"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_x0mpn1gh",
+   "@type": "Book"
+  }
+ ]
+}

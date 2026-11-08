@@ -1,0 +1,54 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_wtv5ffrm",
+ "@type": "Book",
+ "alternateName": [
+  "Wisibsibe"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_2q50fpde",
+   "@type": "Person",
+   "name": "Yalew Aklilu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ውስብስቤ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "11.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=05242393"
+  },
+  {
+   "@type": "Offer",
+   "price": "10.65",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73283084"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=05242393",
+  "https://www.mereb.shop/rs/?mpid=73283084"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_82v8wq3p",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_yspf3n40",
+   "@type": "Book"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "profasorlapisogatahundalabo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_58rc3gj8",
+ "id": "pe_58rc3gj8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "26283584",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=26283584"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "92703039",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=92703039"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Professor Lapiso Getahun Delebo"
+  },
+  "romanized": "Professor Lapiso Getahun Delebo",
+  "sort_key": "professorlapisogetahundelebo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=26283584"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_58rc3gj8",
+     "name": "Professor Lapiso Getahun Delebo",
+     "role": "author",
+     "romanized": "Professor Lapiso Getahun Delebo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_g4gayggt",
+   "id": "wk_g4gayggt",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik KeLucy Arat Million Amete Alem Eske Addis Ababa Hulet Shih Amete Mihiret",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ ከሉሲ አራት ሚሊዮን ዓመተ አለም እስከ አዲስ አበባ ሁለት ሺህ ዓመተ ምሕረት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_58rc3gj8",
+     "name": "Professor Lapiso Getahun Delebo",
+     "role": "author",
+     "romanized": "Professor Lapiso Getahun Delebo"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v7fgrq9q",
+   "id": "wk_v7fgrq9q",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeEthiopia Tarik (KeDe'amat Eske Addis Ababa)",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ታሪክ (ከደአማት እስከ አዲስ አበባ)"
+   },
+   "type": "work"
+  }
+ ]
+}

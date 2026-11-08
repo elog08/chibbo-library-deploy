@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7shk5tf5",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_znsd93aj",
+   "@type": "Person",
+   "name": "Deacon Aemere Aweke"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "Synagogue of righteousness",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.18",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=28793072"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=28793072"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_mrq0hsja",
+   "@type": "Book"
+  }
+ ]
+}

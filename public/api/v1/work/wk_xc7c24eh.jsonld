@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_xc7c24eh",
+ "@type": "Book",
+ "alternateName": [
+  "Meskot"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_y2emdfrv",
+   "@type": "Person",
+   "name": "Abe Gubegna"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መስኮት",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "20.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=84621579"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Abe Gubegna"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=84621579"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_2agxpm38",
+   "@type": "Book"
+  }
+ ]
+}

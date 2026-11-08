@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "countglachin",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_9f06cfb8",
+ "id": "pe_9f06cfb8",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "40071004",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=40071004"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Count Glechin"
+  },
+  "romanized": "Count Glechin",
+  "sort_key": "countglechin"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=40071004"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_9f06cfb8",
+     "name": "Count Glechin",
+     "role": "author",
+     "romanized": "Count Glechin"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2mymn2eb",
+   "id": "wk_2mymn2eb",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeDagmawi Atse Minilik Engida (A Mission to Minilik)",
+    "script": "Ethi",
+    "text": "የዳግማዊ አፄ ምኒልክ እንግዳ"
+   },
+   "type": "work"
+  }
+ ]
+}

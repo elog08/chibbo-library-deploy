@@ -21,6 +21,30 @@
    "rel": "about",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/authors/profile/alemayehu-wase"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "67122929",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=67122929"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "93435421",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=93435421"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "95929108",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=95929108"
   }
  ],
  "locked_fields": [],
@@ -59,6 +83,38 @@
  "status": "draft",
  "type": "person",
  "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jzf7mf6w",
+     "name": "አለማየሁ ዋሴ",
+     "role": "author",
+     "romanized": "Alemayehu Wase"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2018?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_53mmskme",
+   "id": "wk_53mmskme",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Merbebit",
+    "script": "Ethi",
+    "text": "መርበብት"
+   },
+   "type": "work",
+   "year": 2018
+  },
   {
    "cover": {
     "path": "assets/covers/wk_b6822m5t.webp",
@@ -180,6 +236,27 @@
    },
    "type": "work",
    "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_jzf7mf6w",
+     "name": "አለማየሁ ዋሴ",
+     "role": "author",
+     "romanized": "Alemayehu Wase"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v6dfz34n",
+   "id": "wk_v6dfz34n",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Fikare",
+    "script": "Ethi",
+    "text": "ፍካሬ"
+   },
+   "type": "work"
   }
  ]
 }

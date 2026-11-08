@@ -1,0 +1,74 @@
+{
+ "extensions": {},
+ "fingerprint": "arayawarkinah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nq0mtww1",
+ "id": "pe_nq0mtww1",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03841332",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03841332"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Are'aya Werkineh"
+  },
+  "romanized": "Are'aya Werkineh",
+  "sort_key": "areayawerkineh"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03841332"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nq0mtww1",
+     "name": "Are'aya Werkineh",
+     "role": "author",
+     "romanized": "Are'aya Werkineh"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "scope-unverified",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_py16qxp0",
+   "id": "wk_py16qxp0",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hizikhe Nabey",
+    "script": "Ethi",
+    "text": "ሕዝኸ ናበይ"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "amrobadorawadajanah",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_k7fzh5jm",
+ "id": "pe_k7fzh5jm",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "typicalethiopian",
+   "ref": "ethiopian-books",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://typicalethiopian.com/ethiopian-books/"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "aemro bedo re wedajeneh",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "አእምሮ በዶ ር ወዳጄነህ"
+  },
+  "romanized": "aemro bedo re wedajeneh",
+  "sort_key": "አእምሮበዶርወዳጄነህ"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "typicalethiopian",
+  "source_url": "https://typicalethiopian.com/ethiopian-books/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "cover": {
+    "path": "assets/covers/wk_epsb4c9f.jpg",
+    "source_url": "https://typicalethiopian.com/wp-content/uploads/2022/03/Dertogada.jpg"
+   },
+   "credits": [
+    {
+     "id": "pe_k7fzh5jm",
+     "name": "አእምሮ በዶ ር ወዳጄነህ",
+     "role": "author",
+     "romanized": "aemro bedo re wedajeneh"
+    }
+   ],
+   "flags": [
+    "unlicensed-full-text-source"
+   ],
+   "href": "https://chibbo.app/work/wk_epsb4c9f",
+   "id": "wk_epsb4c9f",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "yemaryam talaq aemro",
+    "script": "Ethi",
+    "text": "የማርያም ታላቅ አዕምሮ"
+   },
+   "type": "work"
+  }
+ ]
+}

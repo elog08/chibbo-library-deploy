@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "danialgazahagn",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_kxh52q7v",
+ "id": "pe_kxh52q7v",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "76831307",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=76831307"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Daniel Gezahegn"
+  },
+  "romanized": "Daniel Gezahegn",
+  "sort_key": "danielgezahegn"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=76831307"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_kxh52q7v",
+     "name": "Daniel Gezahegn",
+     "role": "author",
+     "romanized": "Daniel Gezahegn"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_c79q86v7",
+   "id": "wk_c79q86v7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Siwan",
+    "script": "Ethi",
+    "text": "ሲዋን"
+   },
+   "type": "work",
+   "year": 2012
+  }
+ ]
+}

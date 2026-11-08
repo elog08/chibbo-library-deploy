@@ -1,0 +1,40 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_14exntwg",
+ "@type": "Book",
+ "alternateName": [
+  "Alemawek"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_az5r0v66",
+   "@type": "Person",
+   "name": "Dr.Dawit Wondimagegn"
+  }
+ ],
+ "inLanguage": "am",
+ "isbn": "9789994435548",
+ "name": "አለማወቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=59862592"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=59862592"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_z1pybqgd",
+   "@type": "Book"
+  }
+ ]
+}

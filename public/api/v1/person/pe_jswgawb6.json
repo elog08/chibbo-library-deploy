@@ -1,0 +1,86 @@
+{
+ "extensions": {},
+ "fingerprint": "arnstaugustgut",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_jswgawb6",
+ "id": "pe_jswgawb6",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23314287",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23314287"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Ernst-August Gutt"
+  },
+  "romanized": "Ernst-August Gutt",
+  "sort_key": "ernstaugustgutt"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23314287"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_jswgawb6",
+     "name": "Ernst-August Gutt",
+     "role": "author",
+     "romanized": "Ernst-August Gutt"
+    },
+    {
+     "id": "pe_7cssect3",
+     "name": "Francis Anfrey",
+     "role": "author",
+     "romanized": "Francis Anfrey"
+    },
+    {
+     "id": "pe_nv2cwyaf",
+     "name": "አምሳሉ አክሊሉ",
+     "role": "author",
+     "romanized": "amsalu aklilu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1980?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_ky2as4nn",
+   "id": "wk_ky2as4nn",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Journal of Ethiopian Studies Vol.XIV (1976-79) January 1980",
+    "script": "Ethi",
+    "text": "የኢትዮጵያ ጥናትና ምርምራ መጽሔት"
+   },
+   "type": "work",
+   "year": 1980
+  }
+ ]
+}

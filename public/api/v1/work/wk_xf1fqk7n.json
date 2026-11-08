@@ -13,7 +13,8 @@
   }
  ],
  "editions": [
-  "ed_eed7p6hx"
+  "ed_eed7p6hx",
+  "ed_bwpdksrx"
  ],
  "extensions": {},
  "fingerprint": "የምድራችንጀግና|zanabawala",
@@ -35,7 +36,14 @@
  ],
  "href": "https://chibbo.app/work/wk_xf1fqk7n",
  "id": "wk_xf1fqk7n",
- "identifiers": {},
+ "identifiers": {
+  "isbn13": [
+   "9789994474776"
+  ],
+  "mereb_mpid": [
+   "24802247"
+  ]
+ },
  "language": "am",
  "links": [
   {
@@ -53,6 +61,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://www.ethiobookreview.com/book/ye-medrachn-jegna-zenebe-wela"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "24802247",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24802247"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "16.99",
+   "provider": "mereb",
+   "ref": "24802247",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=24802247"
   }
  ],
  "locked_fields": [],

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yigramashanafi",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_bhvn7x2a",
+ "id": "pe_bhvn7x2a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "74187692",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=74187692"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yigrem Ashenafi"
+  },
+  "romanized": "Yigrem Ashenafi",
+  "sort_key": "yigremashenafi"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=74187692"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_bhvn7x2a",
+     "name": "Yigrem Ashenafi",
+     "role": "author",
+     "romanized": "Yigrem Ashenafi"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_1k7xyak5",
+   "id": "wk_1k7xyak5",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Kibrit",
+    "script": "Ethi",
+    "text": "ክብሪት"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

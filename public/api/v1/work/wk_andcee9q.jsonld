@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_andcee9q",
+ "@type": "Book",
+ "alternateName": [
+  "Yayne Birhan"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_1hpr0r1k",
+   "@type": "Person",
+   "name": "Mekonen Zewdie"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ያይኔ ብርሃን",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.09",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=67747497"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Mekonen Zewdie (July 24 1957)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=67747497"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_jtmsftf7",
+   "@type": "Book"
+  }
+ ]
+}

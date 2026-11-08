@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "razanahabta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xvda781a",
+ "id": "pe_xvda781a",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "58150118",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=58150118"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Rezene Habte"
+  },
+  "romanized": "Rezene Habte",
+  "sort_key": "rezenehabte"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=58150118"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xvda781a",
+     "name": "Rezene Habte",
+     "role": "author",
+     "romanized": "Rezene Habte"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_hgvz9vdp",
+   "id": "wk_hgvz9vdp",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Dem Yetekefelebet Barinet (YeEritrea Abiyot Hilmochina Widiket)",
+    "script": "Ethi",
+    "text": "ደም የተከፈለበት ባርነት (የኤርትራ አብዮት ህልሞችና ውድቀት)"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "extensions": {},
+ "fingerprint": "shibashilama",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_41gcmbzx",
+ "id": "pe_41gcmbzx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "73289345",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=73289345"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Shibeshi Lemma"
+  },
+  "romanized": "Shibeshi Lemma",
+  "sort_key": "shibeshilemma"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=73289345"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_41gcmbzx",
+     "name": "Shibeshi Lemma",
+     "role": "author",
+     "romanized": "Shibeshi Lemma"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_4hp9pd6k",
+   "id": "wk_4hp9pd6k",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Shewareged Gedile YeAkuri Gedilat Balebet (YeHywet Tarik 1878-1942)",
+    "script": "Ethi",
+    "text": "ሸዋረገድ ገድሌ (የአኩሪ ገድላት ባለቤት) ከ1878-1942"
+   },
+   "type": "work"
+  }
+ ]
+}

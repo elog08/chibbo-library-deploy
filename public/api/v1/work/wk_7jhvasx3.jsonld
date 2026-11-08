@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_7jhvasx3",
+ "@type": "Book",
+ "alternateName": [
+  "Mel'ekte Yohannes"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_jf2rycms",
+   "@type": "Person",
+   "name": "Tibebe Silondis"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "መልእክተ ዮሐንስ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=73008351"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=73008351"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_fmy9pgy5",
+   "@type": "Book"
+  }
+ ]
+}

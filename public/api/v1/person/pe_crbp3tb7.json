@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "asafagmariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_crbp3tb7",
+ "id": "pe_crbp3tb7",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "10842572",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=10842572"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Assafa G/mariam"
+  },
+  "romanized": "Assafa G/mariam",
+  "sort_key": "assafagmariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=10842572"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_crbp3tb7",
+     "name": "Assafa G/mariam",
+     "role": "author",
+     "romanized": "Assafa G/mariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1971?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_fx1v4ha6",
+   "id": "wk_fx1v4ha6",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Endewetach Kerech",
+    "script": "Ethi",
+    "text": "እንደ ወጣች ቀረች"
+   },
+   "type": "work",
+   "year": 1971
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "cover": {
+  "bytes": 305793,
+  "path": "assets/covers/wk_ba4j2c0c.png",
+  "sha256": "1f3c0e65e0b025d9ffb63a478dc41e5b2d341019353e87c6b3e73770cb1f7921",
+  "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_ba4j2c0c.png"
+ },
+ "credits": [
+  {
+   "order": 1,
+   "person": "pe_8qvh0ygh",
+   "role": "author"
+  }
+ ],
+ "editions": [
+  "ed_7sba5mr1",
+  "ed_vz72d349"
+ ],
+ "extensions": {},
+ "fingerprint": "የጉለሌውሰካራም|tamasgangabra",
+ "first_published": {
+  "alternates": [
+   "1956-09-11/1957-09-10"
+  ],
+  "edtf": "1949?",
+  "flags": [
+   "calendar-ambiguous"
+  ],
+  "original": {
+   "calendar": "ambiguous",
+   "value": "1949"
+  }
+ },
+ "flags": [
+  "calendar-ambiguous",
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/work/wk_bb0rwbn9",
+ "id": "wk_bb0rwbn9",
+ "identifiers": {
+  "mereb_mpid": [
+   "01229988"
+  ],
+  "pdf_pagehash": [
+   "00c0c4c0c0c0c000",
+   "04c0c0c0c0c0c000",
+   "08c0d0c0c4c0c800",
+   "1030c0c4c0c02200",
+   "5d170f0f17337330"
+  ]
+ },
+ "language": "am",
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "01229988",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01229988"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "10.00",
+   "provider": "mereb",
+   "ref": "01229988",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=01229988"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "notes": [
+  "Read from PDF front matter: የጉለሌው ሰካራም በ ተመስገን ገብሬ.pdf",
+  "Also held as PDF: የጉለሌው ሰካራም.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=01229988"
+ },
+ "publication_place": "አዲስ አበባ",
+ "publisher_name": "Temesgen Gebre",
+ "relations": [],
+ "rights": {
+  "shippable": false,
+  "statement": "http://rightsstatements.org/vocab/UND/1.0/"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "subjects": [],
+ "title": {
+  "alternates": [
+   {
+    "lang": "am",
+    "script": "Latn",
+    "text": "YeGulelew Sekaram",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "የጉለሌው ሰካራም"
+  },
+  "romanized": "YeGulelew Sekaram",
+  "sort_key": "የጉለሌውሰካራም"
+ },
+ "type": "work"
+}

@@ -1,0 +1,105 @@
+{
+ "extensions": {},
+ "fingerprint": "masfindagafu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_v50yvftx",
+ "id": "pe_v50yvftx",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "03999439",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=03999439"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "14380896",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=14380896"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Mesfin Degefu"
+  },
+  "romanized": "Mesfin Degefu",
+  "sort_key": "mesfindegefu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=03999439"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_v50yvftx",
+     "name": "Mesfin Degefu",
+     "role": "author",
+     "romanized": "Mesfin Degefu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2015?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_860ga88w",
+   "id": "wk_860ga88w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Sine Fitiret Leljoch",
+    "script": "Ethi",
+    "text": "ሥነ ፍጥረት ለልጆች"
+   },
+   "type": "work",
+   "year": 2015
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_v50yvftx",
+     "name": "Mesfin Degefu",
+     "role": "author",
+     "romanized": "Mesfin Degefu"
+    }
+   ],
+   "flags": [
+    "language-inferred-from-script"
+   ],
+   "href": "https://chibbo.app/work/wk_bw9ef9e2",
+   "id": "wk_bw9ef9e2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The twin boys",
+    "script": "Ethi",
+    "text": "መንትዮቹ ልጆች"
+   },
+   "type": "work"
+  }
+ ]
+}

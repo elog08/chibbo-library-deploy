@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "bazabishfanta",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_we80njbq",
+ "id": "pe_we80njbq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "23886163",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=23886163"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bezabish Fenta"
+  },
+  "romanized": "Bezabish Fenta",
+  "sort_key": "bezabishfenta"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=23886163"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_we80njbq",
+     "name": "Bezabish Fenta",
+     "role": "author",
+     "romanized": "Bezabish Fenta"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2006?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_5zjb4sd1",
+   "id": "wk_5zjb4sd1",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeBaltina Minch(Bekelal Memeriya Liseru Ymichlu...Ke100 Belay Yemihonu Yemgb Aynetochin Yeyaze Znegna Metsaf !)",
+    "script": "Ethi",
+    "text": "የባልትና ምንጭ(በቀላል መማሪያ ሊሰሩ የሚችሉ...ከ100 በላይ የሚሆኑ የምግብ ዓይነቶችን የያዘ ዝነኛ መጽሀፍ!)"
+   },
+   "type": "work",
+   "year": 2006
+  }
+ ]
+}

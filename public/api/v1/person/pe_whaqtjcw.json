@@ -1,0 +1,115 @@
+{
+ "extensions": {},
+ "fingerprint": "tsionkiros",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_whaqtjcw",
+ "id": "pe_whaqtjcw",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "18605979",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=18605979"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "41323998",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=41323998"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Tsion Kiros"
+  },
+  "romanized": "Tsion Kiros",
+  "sort_key": "tsionkiros"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=18605979"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_whaqtjcw",
+     "name": "Tsion Kiros",
+     "role": "author",
+     "romanized": "Tsion Kiros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_4vamjkt0",
+   "id": "wk_4vamjkt0",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeSara Tiyake",
+    "script": "Ethi",
+    "text": "የሳራ ጥያቄ"
+   },
+   "type": "work",
+   "year": 2017
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_whaqtjcw",
+     "name": "Tsion Kiros",
+     "role": "author",
+     "romanized": "Tsion Kiros"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2017?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "language-inferred-from-script",
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_d81s79sf",
+   "id": "wk_d81s79sf",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Ye'Ene Sara Zaf",
+    "script": "Ethi",
+    "text": "የእነ ሳራ ዛፍ"
+   },
+   "type": "work",
+   "year": 2017
+  }
+ ]
+}

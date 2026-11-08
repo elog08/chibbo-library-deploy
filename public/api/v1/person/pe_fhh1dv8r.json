@@ -1,0 +1,131 @@
+{
+ "extensions": {},
+ "fingerprint": "asmamawhailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fhh1dv8r",
+ "id": "pe_fhh1dv8r",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "05201490",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=05201490"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "25968253",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=25968253"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "55960793",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=55960793"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Asmamaw Hailu"
+  },
+  "romanized": "Asmamaw Hailu",
+  "sort_key": "asmamawhailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=05201490"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_fhh1dv8r",
+     "name": "Asmamaw Hailu",
+     "role": "author",
+     "romanized": "Asmamaw Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_86a95zeh",
+   "id": "wk_86a95zeh",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "AiHeASe",
+    "script": "Ethi",
+    "text": "ኢሕአሠ (የኢትዮጵያ ሕዝባዊ አብዮታዊ ሠራዊት) ከ1964 - 1970 ዓ. ም. ቅጽ አንድ"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fhh1dv8r",
+     "name": "Asmamaw Hailu",
+     "role": "author",
+     "romanized": "Asmamaw Hailu"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2012?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_dvvhh84m",
+   "id": "wk_dvvhh84m",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "KeDenbia -Gonder Eske Washington DC Qu. 2",
+    "script": "Ethi",
+    "text": "ከደንቢያ-ጎንደር እስከ ዋሽንግተን ዲሲ ቁ.፪"
+   },
+   "type": "work",
+   "year": 2012
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_fhh1dv8r",
+     "name": "Asmamaw Hailu",
+     "role": "author",
+     "romanized": "Asmamaw Hailu"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_t7b3fj41",
+   "id": "wk_t7b3fj41",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "en",
+    "romanized": "Kedenbia - Gonder eske Washington DC",
+    "script": "Latn",
+    "text": "Kedenbia - Gonder eske Washington DC"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "badiluwakijira",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_nyvrejz3",
+ "id": "pe_nyvrejz3",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31910767",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31910767"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52789853",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52789853"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Bedilu Wakijira"
+  },
+  "romanized": "Bedilu Wakijira",
+  "sort_key": "bediluwakijira"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31910767"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_nyvrejz3",
+     "name": "Bedilu Wakijira",
+     "role": "author",
+     "romanized": "Bedilu Wakijira"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_mcg0eygx",
+   "id": "wk_mcg0eygx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yaltekefele Silet",
+    "script": "Ethi",
+    "text": "ያልተከፈለ ስለት"
+   },
+   "type": "work",
+   "year": 2014
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_nyvrejz3",
+     "name": "Bedilu Wakijira",
+     "role": "author",
+     "romanized": "Bedilu Wakijira"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_mt0f34rm",
+   "id": "wk_mt0f34rm",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Chikal Ena Ermija",
+    "script": "Ethi",
+    "text": "ችካል እና እርምጃ"
+   },
+   "type": "work"
+  }
+ ]
+}

@@ -15,6 +15,7 @@
  "editions": [
   "ed_18mpth9r",
   "ed_bkca24sf",
+  "ed_4jtv2j6z",
   "ed_v7jnat1z"
  ],
  "extensions": {},
@@ -42,6 +43,9 @@
  "identifiers": {
   "hahubooks_code": [
    "jb_125"
+  ],
+  "mereb_mpid": [
+   "97198361"
   ],
   "pdf_pagehash": [
    "90365777767563e8",
@@ -107,6 +111,24 @@
    "rel": "buy",
    "status": "ok",
    "url": "https://hahubooks.com/single-product.php?jbook_code=jb_125"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97198361",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97198361"
+  },
+  {
+   "checked": "2026-08-28",
+   "currency": "USD",
+   "price": "12.99",
+   "provider": "mereb",
+   "ref": "97198361",
+   "rel": "buy",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97198361"
   }
  ],
  "locked_fields": [],

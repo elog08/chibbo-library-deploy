@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_a9rh6397",
+ "@type": "Book",
+ "alternateName": [
+  "Sef"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ed95nr05",
+   "@type": "Person",
+   "name": "Mamaru Biresaw"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ሰፍ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "12.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=91196929"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=91196929"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_6jx61191",
+   "@type": "Book"
+  }
+ ]
+}

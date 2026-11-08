@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_see1bdy2",
+ "@type": "Book",
+ "alternateName": [
+  "Mahiberawi Nuro BeEthiopia"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_sw1m8kje",
+   "@type": "Person",
+   "name": "Like Siltanat H/Mariam Workineh"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ማኅበራዊ ኑሮ በኢትዮጵያ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "15.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=99003341"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Like Siltanat H/Mariam Workineh (1950s)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=99003341"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_b799h919",
+   "@type": "Book"
+  }
+ ]
+}

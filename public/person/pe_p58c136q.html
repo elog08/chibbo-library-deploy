@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dr.Nuru Mohammad Tahir</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Ethiopic:wght@400;600&display=swap">
+<style>
+:root{--paper:#F1F3EF;--surface:#FBFCFA;--ink:#191D19;--muted:#5C665C;--faint:#8A938A;
+--hairline:#D4DAD1;--rubric:#A8322A;--rubric-soft:#F3E3E0;--indigo:#2A3F6B;--indigo-soft:#E3E8F1;
+--serif:"Spectral",Georgia,serif;--sans:"IBM Plex Sans",system-ui,sans-serif;
+--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+--fidel:"Noto Serif Ethiopic","Kefa","Abyssinica SIL",serif;}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#141814;--surface:#1C211C;
+--ink:#E8EBE6;--muted:#A0A99F;--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;
+--rubric-soft:#33211F;--indigo:#9DB4DF;--indigo-soft:#1E2632;}}
+:root[data-theme=dark]{--paper:#141814;--surface:#1C211C;--ink:#E8EBE6;--muted:#A0A99F;
+--faint:#737C72;--hairline:#2E352E;--rubric:#E0776C;--rubric-soft:#33211F;--indigo:#9DB4DF;
+--indigo-soft:#1E2632;}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.6;
+margin:0;padding:0 1.5rem 5rem;-webkit-font-smoothing:antialiased}
+.wrap{max-width:74rem;margin:0 auto}
+a{color:var(--indigo);text-underline-offset:.16em}
+a:focus-visible{outline:2px solid var(--rubric);outline-offset:3px;border-radius:2px}
+.am{font-family:var(--fidel)}
+header.site{border-bottom:2px solid var(--ink);padding:1.5rem 0 .9rem;margin-bottom:2rem;
+display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:baseline}
+header.site .brand{font-family:var(--serif);font-size:1.4rem;font-weight:600;
+text-decoration:none;color:var(--ink);letter-spacing:-.01em}
+header.site nav{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.78rem;
+letter-spacing:.06em;text-transform:uppercase;margin-left:auto}
+h1{font-family:var(--serif);font-weight:600;font-size:2.4rem;line-height:1.08;margin:0 0 .3rem;
+letter-spacing:-.02em;text-wrap:balance}
+h1.am{font-size:2.6rem;line-height:1.25}
+h2{font-family:var(--serif);font-size:1.5rem;font-weight:600;margin:2.5rem 0 .8rem;
+letter-spacing:-.01em}
+.sub{font-size:1.15rem;color:var(--muted);margin:0 0 .2rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.13em;text-transform:uppercase;
+color:var(--rubric);margin:0 0 .5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:1.6rem 1.2rem;
+margin:1.5rem 0;padding:0;list-style:none}
+.card{display:flex;flex-direction:column;gap:.45rem}
+.card a.thumb{display:block;aspect-ratio:2/3;background:var(--surface);border:1px solid var(--hairline);
+overflow:hidden;position:relative}
+.card a.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.card .placeholder{display:flex;align-items:center;justify-content:center;height:100%;padding:.6rem;
+font-family:var(--fidel);font-size:1.1rem;text-align:center;color:var(--muted);line-height:1.35}
+.card .t{font-family:var(--fidel);font-size:1rem;line-height:1.35}
+.card .t.latn{font-family:var(--sans)}
+.card .r{font-size:.82rem;color:var(--muted)}
+.card .a{font-size:.82rem;color:var(--faint)}
+.rail{display:flex;flex-wrap:wrap;gap:.3rem;margin:1rem 0 2rem;padding:0;list-style:none}
+.rail a{display:inline-block;min-width:2.2rem;text-align:center;padding:.3rem .45rem;
+border:1px solid var(--hairline);background:var(--surface);text-decoration:none;color:var(--ink)}
+.rail a:hover{border-color:var(--rubric);color:var(--rubric)}
+.rail a.am{font-family:var(--fidel);font-size:1.15rem}
+.pager{display:flex;gap:1rem;align-items:center;margin:2rem 0;font-family:var(--mono);
+font-size:.82rem}
+.pager .spacer{flex:1}
+.entity{display:grid;grid-template-columns:minmax(0,15rem) minmax(0,1fr);gap:2.5rem;
+align-items:start;margin-top:1rem}
+.entity .cover img{width:100%;border:1px solid var(--hairline);display:block}
+.entity .cover .placeholder{aspect-ratio:2/3;border:1px solid var(--hairline);background:var(--surface);
+display:flex;align-items:center;justify-content:center;padding:1.2rem;text-align:center;
+font-family:var(--fidel);font-size:1.3rem;color:var(--muted);line-height:1.4}
+.crumbs{margin:0 0 1.4rem}
+.crumbs ol{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;
+font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;color:var(--faint)}
+.crumbs li+li::before{content:"/";margin-right:.4rem;color:var(--hairline)}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--rubric)}
+.crumbs [aria-current]{color:var(--ink)}
+.lede{font-size:1.02rem;line-height:1.65;color:var(--ink);margin:0 0 .4rem;max-width:44rem}
+.lede[lang=am]{font-family:var(--fidel);line-height:1.8}
+dl.meta{display:grid;grid-template-columns:8.5rem 1fr;gap:.5rem 1rem;margin:1.5rem 0;font-size:.94rem}
+dl.meta dt{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;
+color:var(--faint);padding-top:.2rem}
+dl.meta dd{margin:0}
+.badge{display:inline-block;font-family:var(--mono);font-size:.66rem;letter-spacing:.09em;
+text-transform:uppercase;padding:.16em .5em;border:1px solid var(--rubric);color:var(--rubric);
+border-radius:2px;vertical-align:.15em}
+.flags{display:flex;flex-wrap:wrap;gap:.4rem;margin:.3rem 0 0;padding:0;list-style:none}
+.flags li{font-family:var(--mono);font-size:.68rem;padding:.16em .5em;border:1px solid var(--hairline);
+background:var(--surface);color:var(--muted)}
+.links{list-style:none;padding:0;margin:.4rem 0 0;display:grid;gap:.35rem}
+.links .provider{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;
+color:var(--faint);margin-right:.5rem}
+.note{border-left:3px solid var(--rubric);background:var(--rubric-soft);padding:.8rem 1.1rem;
+margin:1.5rem 0;font-size:.9rem}
+.note p{margin:0}
+.poem-body{margin:2.2rem 0;padding:1.8rem 2.2rem;background:var(--surface);
+border:1px solid var(--hairline);border-left:3px solid var(--rubric);max-width:46rem}
+.poem-body[lang=am]{font-family:var(--fidel);font-size:1.18rem;line-height:1.95}
+.poem-body .stanza+.stanza{margin-top:1.35rem}
+.poem-body .verse-line{margin:0;padding-left:1.5rem;text-indent:-1.5rem}
+.toc-list{list-style:none;padding:0;margin:1rem 0 2rem;border-top:1px solid var(--hairline);max-width:46rem}
+.toc-list li{display:flex;align-items:baseline;gap:.9rem;padding:.65rem 0;
+border-bottom:1px solid var(--hairline)}
+.toc-list .toc-num{font-family:var(--mono);font-size:.75rem;color:var(--faint);min-width:1.8rem}
+.toc-list .toc-title{font-size:1.05rem;text-decoration:none}
+.toc-list .toc-title.am{font-family:var(--fidel);font-size:1.12rem}
+.toc-list .toc-title.current{color:var(--ink);font-weight:600}
+.toc-list .r{font-size:.84rem;color:var(--muted)}
+footer{border-top:1px solid var(--hairline);margin-top:4rem;padding-top:1rem;font-family:var(--mono);
+font-size:.74rem;color:var(--faint);display:flex;flex-wrap:wrap;gap:.4rem 1.6rem}
+#q{width:100%;max-width:34rem;font-family:var(--sans);font-size:1.1rem;padding:.7rem .9rem;
+border:1px solid var(--hairline);background:var(--surface);color:var(--ink)}
+#results{list-style:none;padding:0;margin:1.5rem 0;display:grid;gap:.7rem}
+#results li{border-bottom:1px solid var(--hairline);padding-bottom:.7rem}
+#results .am{font-size:1.1rem}
+@media (max-width:44rem){.entity{grid-template-columns:1fr;gap:1.5rem}
+.entity .cover{max-width:12rem}dl.meta{grid-template-columns:1fr;gap:.15rem 0}
+dl.meta dd{margin-bottom:.6rem}h1{font-size:1.9rem}}
+</style></head>
+<body><div class="wrap">
+<header class="site">
+  <a class="brand" href="../index.html">Chibbo Library</a>
+  <nav>
+    <a href="../works/page-1.html">Books</a>
+    <a href="../people/page-1.html">Authors</a>
+    <a href="../poetry/page-1.html">Poetry</a>
+    <a href="../poets/page-1.html">Poets</a>
+    <a href="../browse.html">Browse</a>
+    <a href="../search.html">Search</a>
+  </nav>
+</header>
+<nav class="crumbs" aria-label="Breadcrumb"><ol itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">Chibbo Library</span></a><meta itemprop="position" content="1"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="../people/page-1.html"><span itemprop="name">Authors</span></a><meta itemprop="position" content="2"></li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name" aria-current="page">Dr.Nuru Mohammad Tahir</span><meta itemprop="position" content="3"></li></ol></nav>
+<article>
+<p class="eyebrow">Author</p>
+<h1>Dr.Nuru Mohammad Tahir</h1>
+
+<div class="entity">
+  <div class="cover"><div class="placeholder">Dr.Nuru Mohammad Tahir</div></div>
+  <div>
+    
+    
+  </div>
+</div>
+
+<h2>59 books</h2>
+<ul class="grid"><li class="card">
+  <a class="thumb" href="../work/wk_04nd2xr0.html"><div class="placeholder" lang="am">የአበቦቹ ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_04nd2xr0.html">የአበቦቹ ታሪክ</a>
+  <span class="r">YeAbebochu Tarik</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_0p4w8xqh.html"><div class="placeholder" lang="am">እርግብና ጉንዳን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_0p4w8xqh.html">እርግብና ጉንዳን</a>
+  <span class="r">Ergibina Gundan</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_18nez9x8.html"><div class="placeholder" lang="am">እት ንእሽተይ ቀያሕ ደርሆ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_18nez9x8.html">እት ንእሽተይ ቀያሕ ደርሆ</a>
+  <span class="r">Et Nie&#x27;shtey Keyah Derho</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_1wr0q8xk.html"><div class="placeholder" lang="am">የቬኑሱ ነጋዴ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_1wr0q8xk.html">የቬኑሱ ነጋዴ</a>
+  <span class="r">YeVenusu Negade</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_24bnbmbg.html"><div class="placeholder" lang="am">ሰዎች ይወዱኛል</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_24bnbmbg.html">ሰዎች ይወዱኛል</a>
+  <span class="r">Sewoch Yiwedugnal</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_3109jhfs.html"><div class="placeholder" lang="am">በፀሎት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_3109jhfs.html">በፀሎት</a>
+  <span class="r">BeTselot</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4ct0f6kc.html"><div class="placeholder" lang="am">እውነተኛ ጛደኛ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_4ct0f6kc.html">እውነተኛ ጛደኛ</a>
+  <span class="r">Ewnetegna Guadegna</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4pk7sq50.html"><div class="placeholder" lang="am">ጫጩት ሚጢጢዋ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_4pk7sq50.html">ጫጩት ሚጢጢዋ</a>
+  <span class="r">Chachut Mititiwa</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_4s2bs2r8.html"><div class="placeholder" lang="am">ብልሁ አባት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_4s2bs2r8.html">ብልሁ አባት</a>
+  <span class="r">Bilihu Abat</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5r9an87j.html"><div class="placeholder" lang="am">ሮሚዮና ጁሊዬት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_5r9an87j.html">ሮሚዮና ጁሊዬት</a>
+  <span class="r">Romiyona Juliet</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5v30pd4m.html"><div class="placeholder" lang="am">የማክሰኞ ተረኞች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_5v30pd4m.html">የማክሰኞ ተረኞች</a>
+  <span class="r">YeMakisegno Teregnoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_5zea66se.html"><div class="placeholder" lang="am">በሰአቱ እገኛለሁ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_5zea66se.html">በሰአቱ እገኛለሁ</a>
+  <span class="r">BeSe&#x27;atu Egegnalehu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6n988b4x.html"><div class="placeholder" lang="am">አዞና ጥንቸል</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_6n988b4x.html">አዞና ጥንቸል</a>
+  <span class="r">Azona Tinichel</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_6pyazz4r.html"><div class="placeholder" lang="am">ስራና ሰው</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_6pyazz4r.html">ስራና ሰው</a>
+  <span class="r">Sirana Sew</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_7gyezmgn.html"><div class="placeholder" lang="am">የተቀበረው ሃብት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_7gyezmgn.html">የተቀበረው ሃብት</a>
+  <span class="r">Yetekeberew Habit</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_8ksnzbs0.html"><div class="placeholder" lang="am">ቹቹና ጩኒ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_8ksnzbs0.html">ቹቹና ጩኒ</a>
+  <span class="r">chuchuna Chuni</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9g78q1gp.html"><div class="placeholder" lang="am">እረኛውና ተኩላው</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_9g78q1gp.html">እረኛውና ተኩላው</a>
+  <span class="r">Eiregnawina Tekulaw</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_9t2hndn4.html"><div class="placeholder" lang="am">የበጋ ህልሞች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_9t2hndn4.html">የበጋ ህልሞች</a>
+  <span class="r">Yebega Hilmoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_a1n4vrnw.html"><div class="placeholder" lang="am">ቤተሰቦቼ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_a1n4vrnw.html">ቤተሰቦቼ</a>
+  <span class="r">Beteseboche</span>
+  <span class="a">Dr.Birhanu Boggale, Zelalem Getachew, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b1b45b6r.html"><div class="placeholder" lang="am">ድልድይ ጠጋኙ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_b1b45b6r.html">ድልድይ ጠጋኙ</a>
+  <span class="r">Dildiy Tegagnu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_b1frenq4.html"><div class="placeholder" lang="am">ቡኻርያን ዓሻ ጤልን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_b1frenq4.html">ቡኻርያን ዓሻ ጤልን</a>
+  <span class="r">Bhukhariyan Asha Telin</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_c4m2vwxq.html"><div class="placeholder" lang="am">ዔሊ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_c4m2vwxq.html">ዔሊ</a>
+  <span class="r">Eli</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cdc1p13a.html"><div class="placeholder" lang="am">ጉራ ላሕመይ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_cdc1p13a.html">ጉራ ላሕመይ</a>
+  <span class="r">Gura Lahmey</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_cnset9xm.html"><div class="placeholder" lang="am">ማንም የለም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_cnset9xm.html">ማንም የለም</a>
+  <span class="r">Manim Yelem</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dhe14p8h.html"><div class="placeholder" lang="am">ሚዶው</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_dhe14p8h.html">ሚዶው</a>
+  <span class="r">Midow</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dt3scj6x.html"><div class="placeholder" lang="am">አፈ ታሪክ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_dt3scj6x.html">አፈ ታሪክ</a>
+  <span class="r">Afe Tarik</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_dw3zsdv2.html"><div class="placeholder" lang="am">መዝሙረኛዋ ዔሊ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_dw3zsdv2.html">መዝሙረኛዋ ዔሊ</a>
+  <span class="r">Mezimuregnawa Eli</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f02av6mn.html"><div class="placeholder" lang="am">ላሜ ቦራ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_f02av6mn.html">ላሜ ቦራ</a>
+  <span class="r">Lame Bora</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_f3hwyab0.html"><div class="placeholder" lang="am">ጫቑት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_f3hwyab0.html">ጫቑት</a>
+  <span class="r">Chaqut</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_he85ewsb.html"><div class="placeholder" lang="am">ዓለሚቱ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_he85ewsb.html">ዓለሚቱ</a>
+  <span class="r">Alemitu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hg8tp6ev.html"><div class="placeholder" lang="am">መስከረም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_hg8tp6ev.html">መስከረም</a>
+  <span class="r">Meskerem</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hr7ef672.html"><div class="placeholder" lang="am">የጊዜ አጠቃቀም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_hr7ef672.html">የጊዜ አጠቃቀም</a>
+  <span class="r">YeGize Atekakem</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_hrxsw71f.html"><div class="placeholder" lang="am">አመለሸጋዋ ልጅ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_hrxsw71f.html">አመለሸጋዋ ልጅ</a>
+  <span class="r">Ameleshegawa Lij</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_j289rzv0.html"><div class="placeholder" lang="am">መልካም ልምዶች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_j289rzv0.html">መልካም ልምዶች</a>
+  <span class="r">Melkam Limidoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_kgtz9bn4.html"><div class="placeholder" lang="am">ወንድም አለም</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_kgtz9bn4.html">ወንድም አለም</a>
+  <span class="r">Wendim Alem</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_m5c5wh6d.html"><div class="placeholder" lang="am">ራሴን እጠብቃለሁ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_m5c5wh6d.html">ራሴን እጠብቃለሁ</a>
+  <span class="r">Rasen Etebikalehu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_mpt1hpdz.html"><div class="placeholder" lang="am">የዶሮ ጫጩት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_mpt1hpdz.html">የዶሮ ጫጩት</a>
+  <span class="r">YeDero Chachut</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_nemcap1y.html"><div class="placeholder" lang="am">ትንሹኣ ቀይ ዶሮ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_nemcap1y.html">ትንሹኣ ቀይ ዶሮ</a>
+  <span class="r">Tinishua Key Doro</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ngjkfg5q.html"><div class="placeholder" lang="am">የአባት ምክር</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ngjkfg5q.html">የአባት ምክር</a>
+  <span class="r">YeAbat Mikir</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_pmzmhvwy.html"><div class="placeholder" lang="am">ታማኙ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_pmzmhvwy.html">ታማኙ</a>
+  <span class="r">Tamagnu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qs73jeqn.html"><div class="placeholder" lang="am">አሥራ ሁለተኛው ሌሊት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_qs73jeqn.html">አሥራ ሁለተኛው ሌሊት</a>
+  <span class="r">Asira Huletegnaw Lelit</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_qxkf1h0s.html"><div class="placeholder" lang="am">ጳውሎስ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_qxkf1h0s.html">ጳውሎስ</a>
+  <span class="r">Paulos</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_rr9a6yc5.html"><div class="placeholder" lang="am">ንጹህ ነኝ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_rr9a6yc5.html">ንጹህ ነኝ</a>
+  <span class="r">Nitshun Negn</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2014</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sez0gv5r.html"><div class="placeholder" lang="am">አመት በዓሉ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sez0gv5r.html">አመት በዓሉ</a>
+  <span class="r">Amet Be&#x27;alu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_sfk98hra.html"><div class="placeholder" lang="am">ጎረቤቶቼ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_sfk98hra.html">ጎረቤቶቼ</a>
+  <span class="r">Gorebetoche</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_v5d8bnmk.html"><div class="placeholder" lang="am">ኣንበሳን ኣንጭዋን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_v5d8bnmk.html">ኣንበሳን ኣንጭዋን</a>
+  <span class="r">Anibesan Anichewan</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ve6tz8jt.html"><div class="placeholder" lang="am">ከተሜው አይጥ እና ባላገሩ አይጥ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ve6tz8jt.html">ከተሜው አይጥ እና ባላገሩ አይጥ</a>
+  <span class="r">Ketemew Ayt Ena Balageru Ayt</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vf4sa0re.html"><div class="placeholder" lang="am">የምግብ ሰንሰለት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_vf4sa0re.html">የምግብ ሰንሰለት</a>
+  <span class="r">YeMigib Senselet</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_vnq5zaye.html"><div class="placeholder" lang="am">አንበሳውና አይጡኣ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_vnq5zaye.html">አንበሳውና አይጡኣ</a>
+  <span class="r">Anbesawina Aytua</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_w642eqa3.html"><div class="placeholder" lang="am">የኛ ሰፈር ሰዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_w642eqa3.html">የኛ ሰፈር ሰዎች</a>
+  <span class="r">Yegna Sefer Sewoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xm6f4894.html"><div class="placeholder" lang="am">ድመትና አይጥ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_xm6f4894.html">ድመትና አይጥ</a>
+  <span class="r">Dimetina Ayit</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xr1y6mnb.html"><div class="placeholder" lang="am">እባቡና ጭልፊቱ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_xr1y6mnb.html">እባቡና ጭልፊቱ</a>
+  <span class="r">Ebabuna Chilfitu</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_xws9w72b.html"><div class="placeholder" lang="am">ቀበሮውና ሞኙ ፍየል</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_xws9w72b.html">ቀበሮውና ሞኙ ፍየል</a>
+  <span class="r">Keberowina Mognu Fiyel</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_y33ee2j0.html"><div class="placeholder" lang="am">ወጣቱኣ ማላን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_y33ee2j0.html">ወጣቱኣ ማላን</a>
+  <span class="r">Wetatua Malan</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ygxb696a.html"><div class="placeholder" lang="am">ገበሬውና ሦስቱ ሽፍቶች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ygxb696a.html">ገበሬውና ሦስቱ ሽፍቶች</a>
+  <span class="r">GeBerewina Sostu Shiftoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_ysk133ts.html"><div class="placeholder" lang="am">የአዛውንቱ ትዝታዎች</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_ysk133ts.html">የአዛውንቱ ትዝታዎች</a>
+  <span class="r">YeAzawintu Tizitawoch</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_z7k3yvwp.html"><div class="placeholder" lang="am">ሐምሌት</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_z7k3yvwp.html">ሐምሌት</a>
+  <span class="r">Hamlet</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zngecezp.html"><div class="placeholder" lang="am">በግና ቀበሮ</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zngecezp.html">በግና ቀበሮ</a>
+  <span class="r">Begina Kebero</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir · 2016</span>
+  
+</li><li class="card">
+  <a class="thumb" href="../work/wk_zw42hgst.html"><div class="placeholder" lang="am">ሰውነታችን</div></a>
+  <a class="t" lang="am"
+     href="../work/wk_zw42hgst.html">ሰውነታችን</a>
+  <span class="r">Sewinetachin</span>
+  <span class="a">Dr.Birhanu Boggale, Dr.Nuru Mohammad Tahir</span>
+  
+</li></ul>
+</article>
+<footer>
+  <span>5748 books · 3866 authors and poets</span>
+  <span>Amharic titles with romanized search</span>
+</footer>
+</div></body></html>

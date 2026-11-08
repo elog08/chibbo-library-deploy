@@ -1,0 +1,77 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirfisahahailu",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_fsmtzrp5",
+ "id": "pe_fsmtzrp5",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "97089804",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=97089804"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Fisseha Hailu"
+  },
+  "romanized": "Memihir Fisseha Hailu",
+  "sort_key": "memihirfissehahailu"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=97089804"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_tdpna337",
+     "name": "Kibrom Kiros",
+     "role": "author",
+     "romanized": "Kibrom Kiros"
+    },
+    {
+     "id": "pe_fsmtzrp5",
+     "name": "Memihir Fisseha Hailu",
+     "role": "author",
+     "romanized": "Memihir Fisseha Hailu"
+    },
+    {
+     "id": "pe_ab3r8bvw",
+     "name": "Kibreo Kiros",
+     "role": "author",
+     "romanized": "Kibreo Kiros"
+    }
+   ],
+   "flags": [
+    "scope-unverified"
+   ],
+   "href": "https://chibbo.app/work/wk_catvztvb",
+   "id": "wk_catvztvb",
+   "language": "ti",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Asha Mer'awin",
+    "script": "Ethi",
+    "text": "ዓሻ መርዓውን"
+   },
+   "type": "work"
+  }
+ ]
+}

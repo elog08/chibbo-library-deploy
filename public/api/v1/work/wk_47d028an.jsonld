@@ -1,0 +1,44 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_47d028an",
+ "@type": "Book",
+ "alternateName": [
+  "Sinik"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ta9faw2q",
+   "@type": "Person",
+   "name": "Selam Birhanu"
+  },
+  {
+   "@id": "https://chibbo.app/person/pe_7pq567z1",
+   "@type": "Person",
+   "name": "Yonas Teffera"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ስንቅ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "10.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=41961215"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=41961215"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_4ped6s6d",
+   "@type": "Book"
+  }
+ ]
+}

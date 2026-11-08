@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_ea0f3k2v",
+ "@type": "Book",
+ "alternateName": [
+  "Enena Mignote"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_s1v0srqr",
+   "@type": "Person",
+   "name": "Alem Eshetu"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "እኔና ምኞቴ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "2.79",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=59440761"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Alpha Printers"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=59440761"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_e67gvgxh",
+   "@type": "Book"
+  }
+ ]
+}

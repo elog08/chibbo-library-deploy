@@ -1,0 +1,102 @@
+{
+ "extensions": {},
+ "fingerprint": "raymondjonas",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_xmy8fm3h",
+ "id": "pe_xmy8fm3h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "29644829",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=29644829"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "52398849",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=52398849"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Raymond Jonas"
+  },
+  "romanized": "Raymond Jonas",
+  "sort_key": "raymondjonas"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=29644829"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_xmy8fm3h",
+     "name": "Raymond Jonas",
+     "role": "author",
+     "romanized": "Raymond Jonas"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_5fksynz7",
+   "id": "wk_5fksynz7",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "YeAdwa Torinet",
+    "script": "Ethi",
+    "text": "የአድዋ ጦርነት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_xmy8fm3h",
+     "name": "Raymond Jonas",
+     "role": "author",
+     "romanized": "Raymond Jonas"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_vw93nsez",
+   "id": "wk_vw93nsez",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "The Battle of Adwa (African Victory in the Age of Empire)(Atse Minilik Ena YeAdwa Dil)",
+    "script": "Ethi",
+    "text": "አፄ ምኒልክ እና የአድዋ ድል"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

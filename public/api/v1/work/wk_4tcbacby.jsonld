@@ -27,15 +27,30 @@
     "name": "ethiobookreview"
    },
    "url": "https://www.ethiobookreview.com/book/sewuyew-mohammed-hassen"
+  },
+  {
+   "@type": "Offer",
+   "price": "20.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=38271368"
   }
  ],
  "sameAs": [
-  "https://www.ethiobookreview.com/book/sewuyew-mohammed-hassen"
+  "https://www.ethiobookreview.com/book/sewuyew-mohammed-hassen",
+  "https://www.mereb.shop/rs/?mpid=38271368"
  ],
  "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
  "workExample": [
   {
    "@id": "https://chibbo.app/edition/ed_mk4z29p3",
+   "@type": "Book"
+  },
+  {
+   "@id": "https://chibbo.app/edition/ed_9s1y93g2",
    "@type": "Book"
   }
  ]

@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanasbalay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_119y3ztj",
+ "id": "pe_119y3ztj",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "43667459",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=43667459"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yohannes Belay"
+  },
+  "romanized": "Yohannes Belay",
+  "sort_key": "yohannesbelay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=43667459"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_119y3ztj",
+     "name": "Yohannes Belay",
+     "role": "author",
+     "romanized": "Yohannes Belay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2014?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_0tayjp3w",
+   "id": "wk_0tayjp3w",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Hamelmal",
+    "script": "Ethi",
+    "text": "ሐመልማል"
+   },
+   "type": "work",
+   "year": 2014
+  }
+ ]
+}

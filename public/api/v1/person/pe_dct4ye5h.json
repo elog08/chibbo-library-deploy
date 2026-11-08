@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "migualdacastanhozo",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_dct4ye5h",
+ "id": "pe_dct4ye5h",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "47186682",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=47186682"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Miguel De-Castanhozo"
+  },
+  "romanized": "Miguel De-Castanhozo",
+  "sort_key": "migueldecastanhozo"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=47186682"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_dct4ye5h",
+     "name": "Miguel De-Castanhozo",
+     "role": "author",
+     "romanized": "Miguel De-Castanhozo"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1960?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_a7dbaes2",
+   "id": "wk_a7dbaes2",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "BeAtse Gelawdewos Zemene Mengist BeEthiopia Yetesera YePortugalcoh Jegninet",
+    "script": "Ethi",
+    "text": "በዓፄ ገላውዴዋስ ዘመን መንግስት በኢትዮጵያ የተሰራ የፖርቹጋሎች ጀግንነት"
+   },
+   "type": "work",
+   "year": 1960
+  }
+ ]
+}

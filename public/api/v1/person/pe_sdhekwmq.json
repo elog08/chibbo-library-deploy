@@ -1,0 +1,91 @@
+{
+ "extensions": {},
+ "fingerprint": "mamihirshimalismargia",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_sdhekwmq",
+ "id": "pe_sdhekwmq",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "64047404",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=64047404"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "99174134",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=99174134"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Memihir Shimelis Mergia"
+  },
+  "romanized": "Memihir Shimelis Mergia",
+  "sort_key": "memihirshimelismergia"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=64047404"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_sdhekwmq",
+     "name": "Memihir Shimelis Mergia",
+     "role": "author",
+     "romanized": "Memihir Shimelis Mergia"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2hdmx1fx",
+   "id": "wk_2hdmx1fx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yetihirmit Hiwot",
+    "script": "Ethi",
+    "text": "የትሕርምት ሕይወት"
+   },
+   "type": "work"
+  },
+  {
+   "credits": [
+    {
+     "id": "pe_sdhekwmq",
+     "name": "Memihir Shimelis Mergia",
+     "role": "author",
+     "romanized": "Memihir Shimelis Mergia"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_v416s5vx",
+   "id": "wk_v416s5vx",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "8Gnawa Kenina Lelochim",
+    "script": "Ethi",
+    "text": "8ኛዋ ቀንና ሌሎችም"
+   },
+   "type": "work"
+  }
+ ]
+}

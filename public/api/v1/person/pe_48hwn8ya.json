@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "yohanashailamariam",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_48hwn8ya",
+ "id": "pe_48hwn8ya",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "48624546",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=48624546"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Yohannes Hailemariam"
+  },
+  "romanized": "Yohannes Hailemariam",
+  "sort_key": "yohanneshailemariam"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=48624546"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_48hwn8ya",
+     "name": "Yohannes Hailemariam",
+     "role": "author",
+     "romanized": "Yohannes Hailemariam"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "2013?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_kd58hw9r",
+   "id": "wk_kd58hw9r",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Arogituan Man Gedelachew",
+    "script": "Ethi",
+    "text": "አሮጊቷን ማን ገደላችው?"
+   },
+   "type": "work",
+   "year": 2013
+  }
+ ]
+}

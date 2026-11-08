@@ -1,0 +1,36 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_n3hcy5xy",
+ "@type": "Book",
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_ehankntc",
+   "@type": "Person",
+   "name": "Pope Shinoda III"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "The life of miracle of St. Virgin Mary",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "3.06",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=33738749"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=33738749"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_cge028x1",
+   "@type": "Book"
+  }
+ ]
+}

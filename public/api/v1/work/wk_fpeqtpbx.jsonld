@@ -1,0 +1,39 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_fpeqtpbx",
+ "@type": "Book",
+ "alternateName": [
+  "Abrak"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_1j27tfcv",
+   "@type": "Person",
+   "name": "Mulugeta Aregawi"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "አብራክ",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "13.99",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=29655514"
+  }
+ ],
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=29655514"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_dftrc5ts",
+   "@type": "Book"
+  }
+ ]
+}

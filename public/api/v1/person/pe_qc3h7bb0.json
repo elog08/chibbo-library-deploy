@@ -1,0 +1,73 @@
+{
+ "extensions": {},
+ "fingerprint": "kashawangiziwbalay",
+ "flags": [],
+ "href": "https://chibbo.app/person/pe_qc3h7bb0",
+ "id": "pe_qc3h7bb0",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "75699214",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=75699214"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "primary": {
+   "lang": "en",
+   "script": "Latn",
+   "text": "Keshewan Giziw Belay"
+  },
+  "romanized": "Keshewan Giziw Belay",
+  "sort_key": "keshewangiziwbelay"
+ },
+ "name_order": "forename",
+ "notes": [],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=75699214"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_qc3h7bb0",
+     "name": "Keshewan Giziw Belay",
+     "role": "author",
+     "romanized": "Keshewan Giziw Belay"
+    }
+   ],
+   "date": {
+    "calendar": "ambiguous",
+    "edtf": "1979?",
+    "flags": [
+     "calendar-ambiguous"
+    ]
+   },
+   "flags": [
+    "calendar-ambiguous"
+   ],
+   "href": "https://chibbo.app/work/wk_9yah4r8t",
+   "id": "wk_9yah4r8t",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Tinatawiw YeSetoch Moya (KeZemenawiw Gar YeTewahdo Baltina)",
+    "script": "Ethi",
+    "text": "ጥንታዊው የሴቶች ሞያ (ከዘመናዊ ጋር የተዋሐደ ባልትና )"
+   },
+   "type": "work",
+   "year": 1979
+  }
+ ]
+}

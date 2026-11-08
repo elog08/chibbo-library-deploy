@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@id": "https://chibbo.app/work/wk_5858n8m1",
+ "@type": "Book",
+ "alternateName": [
+  "KeWelwel Eske Maychew"
+ ],
+ "author": [
+  {
+   "@id": "https://chibbo.app/person/pe_4r3szwg6",
+   "@type": "Person",
+   "name": "Birhanu Dinke"
+  }
+ ],
+ "inLanguage": "am",
+ "name": "ከወልወል እስከ ማይጨው",
+ "offers": [
+  {
+   "@type": "Offer",
+   "price": "30.00",
+   "priceCurrency": "USD",
+   "seller": {
+    "@type": "Organization",
+    "name": "mereb"
+   },
+   "url": "https://www.mereb.shop/rs/?mpid=51172113"
+  }
+ ],
+ "publisher": {
+  "@type": "Organization",
+  "name": "Birhanu Dinke (October 07 1950)"
+ },
+ "sameAs": [
+  "https://www.mereb.shop/rs/?mpid=51172113"
+ ],
+ "usageInfo": "http://rightsstatements.org/vocab/UND/1.0/",
+ "workExample": [
+  {
+   "@id": "https://chibbo.app/edition/ed_ezabpnw1",
+   "@type": "Book"
+  }
+ ]
+}

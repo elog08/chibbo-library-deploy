@@ -1,0 +1,123 @@
+{
+ "extensions": {},
+ "fingerprint": "tasfayadamalashsisay",
+ "flags": [
+  "llm-extracted"
+ ],
+ "href": "https://chibbo.app/person/pe_86aj14b4",
+ "id": "pe_86aj14b4",
+ "identifiers": {},
+ "links": [
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "31330307",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=31330307"
+  },
+  {
+   "checked": "2026-08-28",
+   "provider": "mereb",
+   "ref": "77024506",
+   "rel": "source",
+   "status": "ok",
+   "url": "https://www.mereb.shop/rs/?mpid=77024506"
+  }
+ ],
+ "locked_fields": [],
+ "merged_into": null,
+ "name": {
+  "alternates": [
+   {
+    "lang": "am",
+    "scheme": "chibbo-search",
+    "script": "Latn",
+    "text": "tesfaye demelash sisay",
+    "type": "romanization"
+   },
+   {
+    "lang": "en",
+    "script": "Latn",
+    "text": "Tesfaye Demelash Sisay",
+    "type": "romanization"
+   }
+  ],
+  "primary": {
+   "lang": "am",
+   "script": "Ethi",
+   "text": "ተስፋዬ ደመላሽ ሲሳይ"
+  },
+  "romanized": "tesfaye demelash sisay",
+  "sort_key": "ተስፋዬደመላሽሲሳይ"
+ },
+ "name_order": "forename",
+ "notes": [
+  "Read from the title page of ያኮረፉ ምድሮች ወለጋ እና ጎጃም.pdf"
+ ],
+ "provenance": {
+  "retrieved": "2026-08-28",
+  "source": "mereb",
+  "source_url": "https://www.mereb.shop/rs/?mpid=31330307"
+ },
+ "schema_version": "1.0.0",
+ "status": "draft",
+ "type": "person",
+ "works": [
+  {
+   "credits": [
+    {
+     "id": "pe_86aj14b4",
+     "name": "ተስፋዬ ደመላሽ ሲሳይ",
+     "role": "author",
+     "romanized": "tesfaye demelash sisay"
+    }
+   ],
+   "href": "https://chibbo.app/work/wk_2kktswvz",
+   "id": "wk_2kktswvz",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Wollo Vs Italia",
+    "script": "Ethi",
+    "text": "ወሎ ከኢጣሊያ"
+   },
+   "type": "work"
+  },
+  {
+   "cover": {
+    "path": "assets/covers/wk_5dxked59.png",
+    "source_url": "https://chibbo-library.uvwrst.xyz/assets/covers/wk_5dxked59.png"
+   },
+   "credits": [
+    {
+     "id": "pe_86aj14b4",
+     "name": "ተስፋዬ ደመላሽ ሲሳይ",
+     "role": "author",
+     "romanized": "tesfaye demelash sisay"
+    }
+   ],
+   "date": {
+    "calendar": "ethiopic",
+    "edtf": "2016-09-11/2017-09-10",
+    "flags": []
+   },
+   "flags": [
+    "llm-extracted"
+   ],
+   "href": "https://chibbo.app/work/wk_rrsqkd8v",
+   "id": "wk_rrsqkd8v",
+   "language": "am",
+   "status": "draft",
+   "title": {
+    "lang": "am",
+    "romanized": "Yakorefu Midiroch (Welega Ena Gojam)",
+    "script": "Ethi",
+    "text": "ያኮረፉ ምድሮች (ወለጋ እና ጎጃም)"
+   },
+   "type": "work",
+   "year": 2016
+  }
+ ]
+}
